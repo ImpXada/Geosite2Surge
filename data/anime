@@ -1,0 +1,32 @@
+# 9amine
+DOMAIN-SUFFIX,9anime.cz,PROXY
+DOMAIN-SUFFIX,9anime.id,PROXY
+DOMAIN-SUFFIX,9anime.to,PROXY
+DOMAIN-SUFFIX,9anime.ws,PROXY
+
+# agefans: https://github.com/agefanscom/website
+DOMAIN-SUFFIX,age.tv,PROXY
+DOMAIN-SUFFIX,agedm.org,PROXY
+DOMAIN-SUFFIX,agedm.tv,PROXY
+DOMAIN-SUFFIX,agefans.com,PROXY
+DOMAIN-SUFFIX,agemys.org,PROXY
+DOMAIN-SUFFIX,agedm.app,PROXY    #app
+
+# animedao
+DOMAIN-SUFFIX,animedao-tv.com,PROXY
+
+# Crunchyroll
+DOMAIN-SUFFIX,crunchyroll.com,PROXY
+DOMAIN-SUFFIX,funimation.com,PROXY    #funimation
+DOMAIN-SUFFIX,vrv.co,PROXY    #vrv
+
+# Gogoanime
+DOMAIN-SUFFIX,gogoanime.vc,PROXY
+DOMAIN-SUFFIX,gogoanime.wiki,PROXY
+DOMAIN-SUFFIX,gogoanime3.co,PROXY
+DOMAIN-SUFFIX,gogotaku.info,PROXY
+DOMAIN-SUFFIX,gogo-load.com,PROXY
+DOMAIN-SUFFIX,gogocdn.net,PROXY    #image hosting site
+
+# hidive
+DOMAIN-SUFFIX,hidive.com,PROXY

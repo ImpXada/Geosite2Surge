@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,solarcity.com,PROXY
+DOMAIN-SUFFIX,tesla.cn,PROXY
+DOMAIN-SUFFIX,tesla.com,PROXY
+DOMAIN-SUFFIX,tesla.com.cn,PROXY
+DOMAIN-SUFFIX,tesla.services,PROXY
+DOMAIN-SUFFIX,teslaenergy.services,PROXY
+DOMAIN-SUFFIX,teslamotors.cn,PROXY
+DOMAIN-SUFFIX,teslamotors.com,PROXY
+DOMAIN-SUFFIX,teslamotors.com.cn,PROXY
+DOMAIN-SUFFIX,teslazta.net,PROXY
+DOMAIN-SUFFIX,ts.la,PROXY
+
+DOMAIN,tesla-cdn.thron.cn,PROXY
+DOMAIN,tesla-cdn.thron.com,PROXY

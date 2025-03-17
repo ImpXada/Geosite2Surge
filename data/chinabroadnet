@@ -1,0 +1,20 @@
+DOMAIN-SUFFIX,10099.com.cn,PROXY
+DOMAIN-SUFFIX,chn.cn,PROXY
+
+# 安徽省
+DOMAIN-SUFFIX,ahitv.com,PROXY
+
+# 重慶市
+DOMAIN-SUFFIX,cqccn.com,PROXY
+
+# 廣東廣電網路
+DOMAIN-SUFFIX,gcable.com.cn,PROXY
+
+# 四川省
+DOMAIN-SUFFIX,sc96655.com,PROXY
+
+# 山西省
+DOMAIN-SUFFIX,isxtv.com,PROXY
+
+# 山東省
+DOMAIN-SUFFIX,sdgdwljt.com,PROXY

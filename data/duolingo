@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,ads-api.duolingo.com,PROXY
+DOMAIN-SUFFIX,metrics.duolingo.com,PROXY
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com,PROXY
+#end include:duolingo-ads
+
+DOMAIN-SUFFIX,duolingo.com,PROXY
+DOMAIN-SUFFIX,duolingo.cn,PROXY

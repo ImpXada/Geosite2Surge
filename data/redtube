@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,livehdcams.com,PROXY
+DOMAIN-SUFFIX,redtube.com,PROXY
+DOMAIN-SUFFIX,redtube.com.br,PROXY
+DOMAIN-SUFFIX,redtubepremium.com,PROXY
+
+# CDN
+DOMAIN-SUFFIX,rdtcdn.com,PROXY

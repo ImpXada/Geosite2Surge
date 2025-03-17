@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,consul.io,PROXY
+DOMAIN-SUFFIX,hashicorp.com,PROXY
+DOMAIN-SUFFIX,nomadproject.io,PROXY
+DOMAIN-SUFFIX,packer.io,PROXY
+DOMAIN-SUFFIX,terraform.io,PROXY
+DOMAIN-SUFFIX,vagrantcloud.com,PROXY
+DOMAIN-SUFFIX,vagrantup.com,PROXY
+DOMAIN-SUFFIX,vaultproject.io,PROXY

@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,starott.com,PROXY
+DOMAIN-SUFFIX,starplus.com,PROXY
+
+DOMAIN-SUFFIX,star.api.edge.bamgrid.com,PROXY
+DOMAIN-SUFFIX,star.connections.edge.bamgrid.com,PROXY
+DOMAIN-SUFFIX,star.content.edge.bamgrid.com,PROXY
+DOMAIN-SUFFIX,star.playback.edge.bamgrid.com,PROXY

@@ -1,0 +1,15 @@
+#include:ctexcel
+DOMAIN-SUFFIX,ctexcel.ca,PROXY
+DOMAIN-SUFFIX,ctexcel.com,PROXY
+DOMAIN-SUFFIX,ctexcel.com.hk,PROXY
+DOMAIN-SUFFIX,ctexcel.fr,PROXY
+DOMAIN-SUFFIX,ctexcel.us,PROXY
+#end include:ctexcel
+
+DOMAIN-SUFFIX,189.cn,PROXY
+DOMAIN-SUFFIX,chinatelecom-h.com,PROXY
+DOMAIN-SUFFIX,chinatelecom.com.cn,PROXY
+DOMAIN-SUFFIX,chinatelecomglobal.com,PROXY
+DOMAIN-SUFFIX,chntel.com,PROXY
+
+DOMAIN-SUFFIX,chinatelecomhk.com,PROXY

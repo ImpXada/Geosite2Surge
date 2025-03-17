@@ -1,0 +1,20 @@
+DOMAIN-SUFFIX,10086.cn,PROXY
+DOMAIN-SUFFIX,139.com,PROXY
+DOMAIN-SUFFIX,chinamobile.com,PROXY
+DOMAIN-SUFFIX,chinamobileltd.com,PROXY
+
+# Migu
+DOMAIN-SUFFIX,migucloud.com,PROXY
+DOMAIN-SUFFIX,migu.cn,PROXY
+DOMAIN-SUFFIX,cmvideo.cn,PROXY
+DOMAIN-SUFFIX,miguvideo.com,PROXY
+
+# 中移互联
+DOMAIN-SUFFIX,andfx.cn,PROXY
+DOMAIN-SUFFIX,andfx.net,PROXY
+DOMAIN-SUFFIX,cmicrwx.cn,PROXY
+DOMAIN-SUFFIX,cmpassport.com,PROXY
+DOMAIN-SUFFIX,fetion-portal.com,PROXY
+DOMAIN-SUFFIX,fetionpic.com,PROXY
+DOMAIN-SUFFIX,mmarket.com,PROXY
+DOMAIN-SUFFIX,mmarket6.com,PROXY

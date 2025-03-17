@@ -1,0 +1,19 @@
+# List of all domains being operated by Dorpbox Inc.
+# Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
+DOMAIN-SUFFIX,db.tt,PROXY
+DOMAIN-SUFFIX,dropbox-dns.com,PROXY
+DOMAIN-SUFFIX,dropbox.com,PROXY
+DOMAIN-SUFFIX,dropbox.tech,PROXY
+DOMAIN-SUFFIX,dropboxapi.com,PROXY
+DOMAIN-SUFFIX,dropboxbusiness.com,PROXY
+DOMAIN-SUFFIX,dropboxcaptcha.com,PROXY
+DOMAIN-SUFFIX,dropboxforum.com,PROXY
+DOMAIN-SUFFIX,dropboxforums.com,PROXY
+DOMAIN-SUFFIX,dropboxinsiders.com,PROXY
+DOMAIN-SUFFIX,dropboxmail.com,PROXY
+DOMAIN-SUFFIX,dropboxpartners.com,PROXY
+DOMAIN-SUFFIX,dropboxstatic.com,PROXY
+DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
+DOMAIN-SUFFIX,getdropbox.com,PROXY
+
+DOMAIN,paper-attachments.s3.amazonaws.com,PROXY

@@ -1,0 +1,9 @@
+# All .cern domains
+DOMAIN-SUFFIX,cern,PROXY
+
+DOMAIN-SUFFIX,ams02.space,PROXY
+DOMAIN-SUFFIX,cern.ch,PROXY
+DOMAIN-SUFFIX,cixp.net,PROXY
+DOMAIN-SUFFIX,dotcernpilot.info,PROXY
+DOMAIN-SUFFIX,ippog.org,PROXY
+DOMAIN-SUFFIX,linearcollider.org,PROXY

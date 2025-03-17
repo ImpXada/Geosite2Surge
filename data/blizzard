@@ -1,0 +1,40 @@
+DOMAIN-SUFFIX,blizzard.com,PROXY
+DOMAIN-SUFFIX,blizzardgearstore.com,PROXY
+DOMAIN-SUFFIX,blz-contentstack.com,PROXY
+
+# Battle.Net
+DOMAIN-SUFFIX,battle.net,PROXY
+DOMAIN,blizzard.nefficient.co.kr,PROXY
+DOMAIN,blzddist1-a.akamaihd.net,PROXY
+DOMAIN,blzddistkr1-a.akamaihd.net,PROXY
+DOMAIN,bnetcmsus-a.akamaihd.net,PROXY
+DOMAIN,bnetproduct-a.akamaihd.net,PROXY
+DOMAIN,bnetshopus.akamaized.net,PROXY
+
+# Diablo
+DOMAIN-SUFFIX,diablo3.com,PROXY
+DOMAIN-SUFFIX,diabloimmortal.com,PROXY
+
+# Hearthstone
+DOMAIN-SUFFIX,firesidegatherings.com,PROXY
+DOMAIN-SUFFIX,playhearthstone.com,PROXY
+
+# Hero of the Storm
+DOMAIN-SUFFIX,heroesofthestorm.com,PROXY
+
+# Overwatch
+DOMAIN-SUFFIX,playoverwatch.com,PROXY
+
+# Starcraft
+DOMAIN-SUFFIX,starcraft.com,PROXY
+DOMAIN-SUFFIX,starcraft2.com,PROXY
+
+# Warcraft
+DOMAIN-SUFFIX,playwarcraft3.com,PROXY
+
+# World of Warcraft
+DOMAIN-SUFFIX,worldofwarcraft.com,PROXY
+
+DOMAIN,blizzcon-a.akamaihd.net,PROXY
+DOMAIN,blzmedia-a.akamaihd.net,PROXY
+DOMAIN,blznav.akamaized.net,PROXY

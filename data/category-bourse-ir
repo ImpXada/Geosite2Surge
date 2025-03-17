@@ -1,0 +1,55 @@
+# Iranian stock exchange websites
+
+# Bourse
+DOMAIN-SUFFIX,arman-ati.com,PROXY
+DOMAIN-SUFFIX,bourseiness.com,PROXY
+DOMAIN-SUFFIX,codal.ir,PROXY
+DOMAIN-SUFFIX,farasahm.ir,PROXY
+DOMAIN-SUFFIX,ifb.ir,PROXY
+DOMAIN-SUFFIX,ime.co.ir,PROXY
+DOMAIN-SUFFIX,irenex.ir,PROXY
+DOMAIN-SUFFIX,sukuk.ir,PROXY
+DOMAIN-SUFFIX,talarebourse.com,PROXY
+DOMAIN-SUFFIX,tse.ir,PROXY
+DOMAIN-SUFFIX,tsetmc.ir,PROXY
+
+# Brokers
+DOMAIN-SUFFIX,abanbroker.com,PROXY
+DOMAIN-SUFFIX,bahmanbroker.com,PROXY
+DOMAIN-SUFFIX,bkisecurities.com,PROXY
+DOMAIN-SUFFIX,bmibourse.com,PROXY
+DOMAIN-SUFFIX,bt-broker.com,PROXY
+DOMAIN-SUFFIX,danabroker.com,PROXY
+DOMAIN-SUFFIX,emofid.com,PROXY
+DOMAIN-SUFFIX,mofidonline.com,PROXY
+DOMAIN-SUFFIX,etminansahm.com,PROXY
+DOMAIN-SUFFIX,hafezbourse.com,PROXY
+DOMAIN-SUFFIX,irfarabi.com,PROXY
+DOMAIN-SUFFIX,kmsco.ir,PROXY
+DOMAIN-SUFFIX,maskanbourse.com,PROXY
+DOMAIN-SUFFIX,mellatbroker.com,PROXY
+DOMAIN-SUFFIX,novinbourse.com,PROXY
+DOMAIN-SUFFIX,oibroker.com,PROXY
+DOMAIN-SUFFIX,omidsahm.com,PROXY
+DOMAIN-SUFFIX,rbc.ir,PROXY
+DOMAIN-SUFFIX,saderatbourse.com,PROXY
+DOMAIN-SUFFIX,sahandbroker.com,PROXY
+DOMAIN-SUFFIX,samanbourse.com,PROXY
+DOMAIN-SUFFIX,sdbhouse.com,PROXY
+DOMAIN-SUFFIX,sepahbourse.com,PROXY
+DOMAIN-SUFFIX,tadbirgar.com,PROXY
+
+# Exchanges
+DOMAIN-SUFFIX,abantether.com,PROXY
+DOMAIN-SUFFIX,bit24.cash,PROXY
+DOMAIN-SUFFIX,bitpin.ir,PROXY
+DOMAIN-SUFFIX,exir.io,PROXY
+DOMAIN-SUFFIX,farhad-exchange.com,PROXY
+DOMAIN-SUFFIX,jibitex.com,PROXY
+DOMAIN-SUFFIX,nobitex.ir,PROXY
+DOMAIN-SUFFIX,ok-ex.io,PROXY
+DOMAIN-SUFFIX,ompfinex.com,PROXY
+DOMAIN-SUFFIX,ramzinex.com,PROXY
+DOMAIN-SUFFIX,tabdeal.org,PROXY
+DOMAIN-SUFFIX,tetherland.com,PROXY
+DOMAIN-SUFFIX,wallex.ir,PROXY

@@ -1,0 +1,16 @@
+DOMAIN-SUFFIX,googleplay.com,PROXY
+DOMAIN-SUFFIX,play-fe.googleapis.com,PROXY
+DOMAIN-SUFFIX,play-games.googleusercontent.com,PROXY
+DOMAIN-SUFFIX,play-lh.googleusercontent.com,PROXY
+DOMAIN-SUFFIX,play.google.com,PROXY
+DOMAIN-SUFFIX,play.googleapis.com,PROXY
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com,PROXY
+
+# if connect to services.googleapis.cn directly,
+# then these domains will be used.
+# 北京 (2x3)、上海 (ni5)、广州 (j5o)
+DOMAIN-WILDCARD,**sn-*.xn--ngstr-lra8j.com,PROXY
+# the same but DNS pollution in China mainland.
+DOMAIN-WILDCARD,**sn-*.googlevideo.com,PROXY
+
+DOMAIN,redirector.c.play.google.com,PROXY

@@ -1,0 +1,36 @@
+DOMAIN-SUFFIX,binance.cc,PROXY
+DOMAIN-SUFFIX,binance.charity,PROXY
+DOMAIN-SUFFIX,binance.cloud,PROXY
+DOMAIN-SUFFIX,binance.co,PROXY
+DOMAIN-SUFFIX,binance.com,PROXY
+DOMAIN-SUFFIX,binance.info,PROXY
+DOMAIN-SUFFIX,binance.me,PROXY
+DOMAIN-SUFFIX,binance.net,PROXY
+DOMAIN-SUFFIX,binance.org,PROXY
+DOMAIN-SUFFIX,binance.us,PROXY
+DOMAIN-SUFFIX,binance.vision,PROXY
+DOMAIN-SUFFIX,binancecnt.com,PROXY
+DOMAIN-SUFFIX,binancezh.be,PROXY
+DOMAIN-SUFFIX,binancezh.biz,PROXY
+DOMAIN-SUFFIX,binancezh.cc,PROXY
+DOMAIN-SUFFIX,binancezh.co,PROXY
+DOMAIN-SUFFIX,binancezh.com,PROXY
+DOMAIN-SUFFIX,binancezh.info,PROXY
+DOMAIN-SUFFIX,binancezh.ink,PROXY
+DOMAIN-SUFFIX,binancezh.kim,PROXY
+DOMAIN-SUFFIX,binancezh.link,PROXY
+DOMAIN-SUFFIX,binancezh.live,PROXY
+DOMAIN-SUFFIX,binancezh.mobi,PROXY
+DOMAIN-SUFFIX,binancezh.net,PROXY
+DOMAIN-SUFFIX,binancezh.pro,PROXY
+DOMAIN-SUFFIX,binancezh.sh,PROXY
+DOMAIN-SUFFIX,binancezh.top,PROXY
+
+# API
+DOMAIN-SUFFIX,binanceapi.com,PROXY
+DOMAIN-SUFFIX,bnbstatic.com,PROXY
+
+# saas
+DOMAIN-SUFFIX,saasexch.com,PROXY
+DOMAIN-SUFFIX,saasexch.io,PROXY
+DOMAIN-SUFFIX,appsflayer.com,PROXY

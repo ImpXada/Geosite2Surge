@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,hotstar.com,PROXY
+DOMAIN-SUFFIX,hotstar-cdn.net,PROXY
+DOMAIN-SUFFIX,hotstar-labs.com,PROXY
+DOMAIN-SUFFIX,hotstarext.com,PROXY
+DOMAIN-SUFFIX,hsprepack.akamaized.net,PROXY
+
+DOMAIN-WILDCARD,hses*.akamaized.net,PROXY

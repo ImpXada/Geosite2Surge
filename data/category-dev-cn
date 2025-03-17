@@ -1,0 +1,173 @@
+#include:aixcoder
+DOMAIN-SUFFIX,aixcoder.com,PROXY
+DOMAIN-SUFFIX,nnthink.com,PROXY
+#end include:aixcoder
+#include:apifox
+DOMAIN-SUFFIX,apifox.cn,PROXY
+DOMAIN-SUFFIX,apifox.com,PROXY
+#end include:apifox
+#include:apipost
+DOMAIN-SUFFIX,apipost.cn,PROXY
+DOMAIN-SUFFIX,apipost.net,PROXY
+#end include:apipost
+#include:baltamatica
+# 北太天元通用数值计算
+DOMAIN-SUFFIX,baltamatica.com,PROXY
+#end include:baltamatica
+#include:cnblogs
+DOMAIN-SUFFIX,blogjava.net,PROXY
+DOMAIN-SUFFIX,cnblogs.com,PROXY
+DOMAIN-SUFFIX,cnitblog.com,PROXY
+DOMAIN-SUFFIX,cnweblog.com,PROXY
+DOMAIN-SUFFIX,cppblog.com,PROXY
+DOMAIN-SUFFIX,phpweblog.net,PROXY
+DOMAIN-SUFFIX,teachblog.net,PROXY
+#end include:cnblogs
+#include:coding
+DOMAIN-SUFFIX,coding.me,PROXY
+DOMAIN-SUFFIX,coding.net,PROXY
+#end include:coding
+#include:csdn
+DOMAIN-SUFFIX,codechina.net,PROXY
+DOMAIN-SUFFIX,csdn.com,PROXY
+DOMAIN-SUFFIX,csdn.net,PROXY
+DOMAIN-SUFFIX,csdn.net.cn,PROXY
+DOMAIN-SUFFIX,csdnimg.cn,PROXY
+DOMAIN-SUFFIX,csto.com,PROXY
+DOMAIN-SUFFIX,datasea.cn,PROXY
+DOMAIN-SUFFIX,gitbook.cn,PROXY
+DOMAIN-SUFFIX,gitchat.cn,PROXY
+DOMAIN-SUFFIX,gitcode.com,PROXY
+DOMAIN-SUFFIX,gitcode.net,PROXY
+DOMAIN-SUFFIX,iteye.com,PROXY
+DOMAIN-SUFFIX,kaifayun.com,PROXY
+DOMAIN-SUFFIX,programmer.com.cn,PROXY
+DOMAIN-SUFFIX,programmer.net.cn,PROXY
+#end include:csdn
+#include:deepin
+DOMAIN-SUFFIX,deepin.cn,PROXY
+DOMAIN-SUFFIX,deepin.com,PROXY
+DOMAIN-SUFFIX,deepin.io,PROXY
+DOMAIN-SUFFIX,deepin.org,PROXY
+
+# 统信
+DOMAIN-SUFFIX,chinauos.com,PROXY
+DOMAIN-SUFFIX,uniontech.com,PROXY
+#end include:deepin
+#include:gitee
+DOMAIN-SUFFIX,gitee.com,PROXY
+DOMAIN-SUFFIX,gitee.io,PROXY
+#end include:gitee
+#include:goproxy
+# go mod proxy
+DOMAIN-SUFFIX,goproxy.cn,PROXY
+DOMAIN-SUFFIX,goproxy.io,PROXY
+#end include:goproxy
+#include:huawei-dev
+DOMAIN-SUFFIX,bisheng.cn,PROXY
+DOMAIN-SUFFIX,bishengcompiler.cn,PROXY
+DOMAIN-SUFFIX,devui.design,PROXY
+DOMAIN-SUFFIX,gneec.com,PROXY
+DOMAIN-SUFFIX,gneec.com.cn,PROXY
+DOMAIN-SUFFIX,gneec3.com,PROXY
+DOMAIN-SUFFIX,gneec4.com,PROXY
+DOMAIN-SUFFIX,gneec7.com,PROXY
+DOMAIN-SUFFIX,harmonyos.com,PROXY
+DOMAIN-SUFFIX,hiascend.cn,PROXY
+DOMAIN-SUFFIX,hiascend.com,PROXY
+DOMAIN-SUFFIX,hiclc.com,PROXY
+DOMAIN-SUFFIX,hikunpeng.cn,PROXY
+DOMAIN-SUFFIX,hikunpeng.com,PROXY
+DOMAIN-SUFFIX,hikunpeng.com.cn,PROXY
+DOMAIN-SUFFIX,hikunpeng.net,PROXY
+DOMAIN-SUFFIX,hisilicon.com,PROXY
+DOMAIN-SUFFIX,hisilicon.com.cn,PROXY
+DOMAIN-SUFFIX,huaweiapaas.com,PROXY
+DOMAIN-SUFFIX,mindspore.cn,PROXY
+DOMAIN-SUFFIX,owsgo.com,PROXY
+DOMAIN-SUFFIX,teleows.com,PROXY
+DOMAIN-SUFFIX,saasops.tech,PROXY
+#end include:huawei-dev
+#include:jinrishici
+DOMAIN-SUFFIX,jinrishici.com,PROXY
+#end include:jinrishici
+#include:juejin
+DOMAIN-SUFFIX,juejin.cn,PROXY
+DOMAIN-SUFFIX,juejin.im,PROXY
+DOMAIN-SUFFIX,xitu.io,PROXY
+
+DOMAIN,p1-juejin.byteimg.com,PROXY
+DOMAIN,p2-juejin.byteimg.com,PROXY
+DOMAIN,p3-juejin.byteimg.com,PROXY
+DOMAIN,p4-juejin.byteimg.com,PROXY
+DOMAIN,p5-juejin.byteimg.com,PROXY
+DOMAIN,p6-juejin.byteimg.com,PROXY
+DOMAIN,p7-juejin.byteimg.com,PROXY
+DOMAIN,p8-juejin.byteimg.com,PROXY
+DOMAIN,p9-juejin.byteimg.com,PROXY
+#end include:juejin
+#include:kuaiyikeji
+DOMAIN-SUFFIX,dengguobi.com,PROXY
+DOMAIN-SUFFIX,houyicaiji.com,PROXY
+DOMAIN-SUFFIX,jinglingbiaozhu.com,PROXY
+#end include:kuaiyikeji
+#include:oschina
+#include:gitee
+DOMAIN-SUFFIX,gitee.com,PROXY
+DOMAIN-SUFFIX,gitee.io,PROXY
+#end include:gitee
+
+DOMAIN-SUFFIX,oschina.net,PROXY
+#end include:oschina
+#include:pgyer
+DOMAIN-SUFFIX,pgyer.com,PROXY
+DOMAIN-SUFFIX,tracup.com,PROXY
+DOMAIN-SUFFIX,frontjs.com,PROXY
+#end include:pgyer
+#include:pingcap
+DOMAIN-SUFFIX,asktug.com,PROXY
+DOMAIN-SUFFIX,pingcap.cn,PROXY
+DOMAIN-SUFFIX,pingcap.com,PROXY
+DOMAIN-SUFFIX,tidb.ai,PROXY
+DOMAIN-SUFFIX,tidb.net,PROXY
+DOMAIN-SUFFIX,tidbcloud.com,PROXY
+DOMAIN-SUFFIX,tikv.org,PROXY
+#end include:pingcap
+#include:rubychina
+DOMAIN-SUFFIX,ruby-china.org,PROXY
+
+# RubyConf China
+DOMAIN-SUFFIX,rubyconfchina.org,PROXY
+#end include:rubychina
+#include:segmentfault
+DOMAIN-SUFFIX,segmentfault.com,PROXY
+DOMAIN-SUFFIX,sifou.com,PROXY
+#end include:segmentfault
+#include:sxl
+DOMAIN-SUFFIX,mysxl.cn,PROXY
+DOMAIN-SUFFIX,sxl.cn,PROXY
+DOMAIN-SUFFIX,sxlcdn.cn,PROXY
+#end include:sxl
+#include:tencent-dev
+DOMAIN-SUFFIX,openmidas.com,PROXY
+DOMAIN-SUFFIX,qq.design,PROXY
+DOMAIN-SUFFIX,qqgamedesign.com,PROXY
+DOMAIN-SUFFIX,tencent-cloud.cn,PROXY
+DOMAIN-SUFFIX,tencent-cloud.com,PROXY
+DOMAIN-SUFFIX,tencent.design,PROXY
+DOMAIN-SUFFIX,tencentcloud.com,PROXY
+DOMAIN-SUFFIX,tjstats.com,PROXY
+DOMAIN-SUFFIX,wegamedeveloper.com,PROXY
+DOMAIN-SUFFIX,weixinbridge.com,PROXY
+DOMAIN-SUFFIX,weui.io,PROXY
+#end include:tencent-dev
+#include:tipdm
+DOMAIN-SUFFIX,tipdim.org,PROXY
+#end include:tipdm
+#include:ubuntukylin
+DOMAIN-SUFFIX,openkylin.top,PROXY
+DOMAIN-SUFFIX,ubuntukylin.com,PROXY
+#end include:ubuntukylin
+#include:xueyuanjun
+DOMAIN-SUFFIX,xueyuanjun.com,PROXY
+#end include:xueyuanjun

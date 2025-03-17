@@ -1,0 +1,138 @@
+#include:category-bank-mm
+#Banking website in Myanmar
+DOMAIN-SUFFIX,abank.com.mm,PROXY
+DOMAIN-SUFFIX,ablmm.com,PROXY
+DOMAIN-SUFFIX,agdbank.com,PROXY
+DOMAIN-SUFFIX,ayabank.com,PROXY
+DOMAIN-SUFFIX,cbbank.com.mm,PROXY
+DOMAIN-SUFFIX,cbm.com.mm,PROXY
+DOMAIN-SUFFIX,chid.com.mm,PROXY
+DOMAIN-SUFFIX,firstprivatebank.com.mm,PROXY
+DOMAIN-SUFFIX,gbank.com.mm,PROXY
+DOMAIN-SUFFIX,kbzbank.com,PROXY
+DOMAIN-SUFFIX,kbzpay.com,PROXY
+DOMAIN-SUFFIX,mabbank.com,PROXY
+DOMAIN-SUFFIX,mcb.com.mm,PROXY
+DOMAIN-SUFFIX,mdbankpublic.com,PROXY
+DOMAIN-SUFFIX,meb.gov.mm,PROXY
+DOMAIN-SUFFIX,micb.gov.mm,PROXY
+DOMAIN-SUFFIX,mmbbank.com.mm,PROXY
+DOMAIN-SUFFIX,mmftb.gov.mm,PROXY
+DOMAIN-SUFFIX,mminsurance.gov.mm,PROXY
+DOMAIN-SUFFIX,mmtourismbank.com,PROXY
+DOMAIN-SUFFIX,mobmyanmar.com,PROXY
+DOMAIN-SUFFIX,mwdbank.com,PROXY
+DOMAIN-SUFFIX,nptsibinbank.com,PROXY
+DOMAIN-SUFFIX,shwebank.com,PROXY
+DOMAIN-SUFFIX,smedevelopmentbank.com.mm,PROXY
+DOMAIN-SUFFIX,tuncommercialbank.com,PROXY
+DOMAIN-SUFFIX,uab.com.mm,PROXY
+DOMAIN-SUFFIX,waveomoney.com.mm,PROXY
+DOMAIN-SUFFIX,yomabank.com,PROXY
+DOMAIN-SUFFIX,ysx-mm.com,PROXY
+#end include:category-bank-mm
+#include:hsbc
+# TLD
+DOMAIN-SUFFIX,hsbc,PROXY
+
+# General
+DOMAIN-SUFFIX,hsbc.com,PROXY
+DOMAIN-SUFFIX,hsbc.net,PROXY
+DOMAIN-SUFFIX,hsbcinnovationbanking.com,PROXY
+DOMAIN-SUFFIX,hsbcnet.com,PROXY
+DOMAIN-SUFFIX,hsbcprivatebank.com,PROXY
+
+# Active Branches
+DOMAIN-SUFFIX,hsbc.ae,PROXY
+DOMAIN-SUFFIX,hsbc.am,PROXY
+DOMAIN-SUFFIX,hsbc.bm,PROXY
+DOMAIN-SUFFIX,hsbc.co.id,PROXY
+DOMAIN-SUFFIX,hsbc.co.in,PROXY
+DOMAIN-SUFFIX,hsbc.co.kr,PROXY
+DOMAIN-SUFFIX,hsbc.co.mu,PROXY
+DOMAIN-SUFFIX,hsbc.co.nz,PROXY
+DOMAIN-SUFFIX,hsbc.co.th,PROXY
+
+## HSBC UK
+DOMAIN-SUFFIX,hsbc.co.uk,PROXY
+DOMAIN-SUFFIX,hsbc.uk,PROXY
+
+DOMAIN-SUFFIX,hsbc.com.ar,PROXY
+DOMAIN-SUFFIX,hsbc.com.au,PROXY
+DOMAIN-SUFFIX,hsbc.com.bd,PROXY
+DOMAIN-SUFFIX,hsbc.com.bh,PROXY
+DOMAIN-SUFFIX,hsbc.com.br,PROXY
+
+## HSBC CN
+DOMAIN-SUFFIX,hsbc.com.cn,PROXY
+DOMAIN-SUFFIX,hsbcqh.com.cn,PROXY
+DOMAIN-SUFFIX,hsbcinsurance.com.cn,PROXY
+#end include:hsbc-cn
+
+DOMAIN-SUFFIX,hsbc.com.eg,PROXY
+DOMAIN-SUFFIX,hsbc.com.hk,PROXY
+DOMAIN-SUFFIX,hsbc.com.mo,PROXY
+DOMAIN-SUFFIX,hsbc.com.mt,PROXY
+DOMAIN-SUFFIX,hsbc.com.mx,PROXY
+
+## HSBC MY
+DOMAIN-SUFFIX,hsbc.com.my,PROXY
+DOMAIN-SUFFIX,hsbcamanah.com.my,PROXY
+
+DOMAIN-SUFFIX,hsbc.com.ph,PROXY
+DOMAIN-SUFFIX,hsbc.com.sg,PROXY
+DOMAIN-SUFFIX,hsbc.com.tr,PROXY
+DOMAIN-SUFFIX,hsbc.com.tw,PROXY
+DOMAIN-SUFFIX,hsbc.com.uy,PROXY
+DOMAIN-SUFFIX,hsbc.com.vn,PROXY
+
+## HSBC DE
+DOMAIN-SUFFIX,hsbc.de,PROXY
+DOMAIN-SUFFIX,hsbc-alternatives.de,PROXY
+DOMAIN-SUFFIX,hsbc-transactionservices.de,PROXY
+DOMAIN-SUFFIX,hsbc-zertifikate.de,PROXY
+
+DOMAIN-SUFFIX,hsbc.lk,PROXY
+
+# Inactive Branches
+DOMAIN-SUFFIX,hsbc.ca,PROXY
+DOMAIN-SUFFIX,hsbc.co.jp,PROXY
+DOMAIN-SUFFIX,hsbc.fr,PROXY
+DOMAIN-SUFFIX,hsbctrinkaus.de,PROXY
+#end include:hsbc
+#include:ifast
+DOMAIN-SUFFIX,fsmone.com,PROXY
+DOMAIN-SUFFIX,fsmone.com.hk,PROXY
+DOMAIN-SUFFIX,fsmone.com.my,PROXY
+DOMAIN-SUFFIX,fundsupermart.com,PROXY
+DOMAIN-SUFFIX,ifastcapital.com.my,PROXY
+DOMAIN-SUFFIX,ifastcorp.com,PROXY
+DOMAIN-SUFFIX,ifastfinancial.com.hk,PROXY
+DOMAIN-SUFFIX,ifastfinancial.co.in,PROXY
+DOMAIN-SUFFIX,ifastgb.com,PROXY
+DOMAIN-SUFFIX,ifastgp.com,PROXY
+DOMAIN-SUFFIX,ifastgp.com.hk,PROXY
+DOMAIN-SUFFIX,ifastnetwork.com,PROXY
+DOMAIN-SUFFIX,ifastps.com.cn,PROXY
+DOMAIN-SUFFIX,ifasttv.com,PROXY
+#end include:ifast
+#include:longbridge
+DOMAIN-SUFFIX,longbridge.cloud,PROXY
+DOMAIN-SUFFIX,longbridge.global,PROXY
+DOMAIN-SUFFIX,longbridge.hk,PROXY
+DOMAIN-SUFFIX,longbridge.sg,PROXY
+DOMAIN-SUFFIX,longbridgeapp.com,PROXY
+DOMAIN-SUFFIX,longportapp.com,PROXY
+
+# Site Assets
+DOMAIN-SUFFIX,lbkrs.com,PROXY
+DOMAIN-SUFFIX,wbrks.com,PROXY
+#end include:longbridge
+#include:wise
+DOMAIN-SUFFIX,transferwise.com,PROXY
+DOMAIN-SUFFIX,wise.com,PROXY
+#end include:wise
+
+DOMAIN-SUFFIX,fxcorporate.com,PROXY
+DOMAIN-SUFFIX,mql5.com,PROXY
+DOMAIN-SUFFIX,tradingview.com,PROXY

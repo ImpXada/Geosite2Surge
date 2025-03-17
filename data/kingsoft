@@ -1,0 +1,65 @@
+#include:cheetahmobile
+DOMAIN-SUFFIX,cmcm.com,PROXY
+DOMAIN-SUFFIX,cmcmcdn.com,PROXY
+DOMAIN-SUFFIX,liebao.cn,PROXY
+
+# Antivirus
+DOMAIN-SUFFIX,duba.com,PROXY
+DOMAIN-SUFFIX,duba.net,PROXY
+DOMAIN-SUFFIX,ijinshan.com,PROXY
+#end include:cheetahmobile
+#include:seasun
+DOMAIN-SUFFIX,seasungames.com,PROXY
+DOMAIN-SUFFIX,xishanju.com,PROXY
+DOMAIN-SUFFIX,xoyo.com,PROXY
+DOMAIN-SUFFIX,xoyocdn.com,PROXY
+
+# 尘白禁区
+DOMAIN-SUFFIX,cbjq.com,PROXY
+
+# Testplus
+DOMAIN-SUFFIX,testplus.cn,PROXY
+#end include:seasun
+#include:wps
+DOMAIN-SUFFIX,wps.cn,PROXY
+DOMAIN-SUFFIX,wps.com,PROXY
+DOMAIN-SUFFIX,wpscdn.cn,PROXY
+DOMAIN-SUFFIX,wpscdn.com,PROXY
+
+# Big Data Platform
+DOMAIN-SUFFIX,kscord.com,PROXY
+
+# Dazitong
+DOMAIN-SUFFIX,51dzt.com,PROXY
+
+# Dictionary
+DOMAIN-SUFFIX,iciba.com,PROXY
+
+# Docer
+DOMAIN-SUFFIX,docer.com,PROXY
+
+# Documents
+DOMAIN-SUFFIX,kdocs.cn,PROXY
+
+# Mail
+DOMAIN-SUFFIX,wpsmail.net,PROXY
+
+# PAPocket
+DOMAIN-SUFFIX,papocket.com,PROXY
+
+# PDF
+DOMAIN-SUFFIX,wpspdf.cn,PROXY
+#end include:wps
+
+DOMAIN-SUFFIX,kimg.cn,PROXY
+DOMAIN-SUFFIX,kingsoft.com,PROXY
+DOMAIN-SUFFIX,ks-live.com,PROXY
+DOMAIN-SUFFIX,ksmobile.com,PROXY
+DOMAIN-SUFFIX,ksosoft.com,PROXY
+
+# Kingsoft Cloud
+DOMAIN-SUFFIX,ks-cdn.com,PROXY
+DOMAIN-SUFFIX,ks-cdn1.com,PROXY
+DOMAIN-SUFFIX,ksyun.com,PROXY
+DOMAIN-SUFFIX,ksyuncdn.com,PROXY
+DOMAIN-SUFFIX,ksyungslb.com,PROXY

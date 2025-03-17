@@ -1,0 +1,16 @@
+DOMAIN-SUFFIX,mytvsuper.com,PROXY
+DOMAIN-SUFFIX,tvb.com,PROXY
+#end include:mytvsuper
+
+DOMAIN-SUFFIX,bigbigchannel.com.hk,PROXY
+DOMAIN-SUFFIX,bigbigshop.com,PROXY
+DOMAIN-SUFFIX,encoretvb.com,PROXY
+DOMAIN-SUFFIX,tvb.com,PROXY
+DOMAIN-SUFFIX,tvb.com.au,PROXY
+DOMAIN-SUFFIX,tvbanywhere.com,PROXY
+DOMAIN-SUFFIX,tvbanywhere.com.sg,PROXY
+DOMAIN-SUFFIX,tvbc.com.cn,PROXY
+DOMAIN-SUFFIX,tvbeventpower.com.hk,PROXY
+DOMAIN-SUFFIX,tvbusa.com,PROXY
+DOMAIN-SUFFIX,tvbweekly.com,PROXY
+DOMAIN-SUFFIX,tvmedia.net.au,PROXY

@@ -1,0 +1,21 @@
+# Beijing Kuaishou Technology Co., Ltd.
+
+DOMAIN-SUFFIX,gifshow.com,PROXY
+DOMAIN-SUFFIX,inkwai.com,PROXY
+DOMAIN-SUFFIX,ksapisrv.com,PROXY
+DOMAIN-SUFFIX,kuaishou.com,PROXY
+DOMAIN-SUFFIX,kwaizt.com,PROXY
+DOMAIN-SUFFIX,kuaishouzt.com,PROXY
+DOMAIN-SUFFIX,kwimgs.com,PROXY
+DOMAIN-SUFFIX,yximgs.com,PROXY
+
+#include:kuaishou-ads
+DOMAIN-SUFFIX,adbkwai.com,PROXY
+DOMAIN-SUFFIX,adkwai.com,PROXY
+DOMAIN-SUFFIX,adukwai.com,PROXY
+DOMAIN-SUFFIX,e.kuaishou.cn,PROXY
+DOMAIN-SUFFIX,e.kuaishou.com,PROXY
+
+DOMAIN,log-sdk.gifshow.com,PROXY
+DOMAIN,wlog.kuaishou.com,PROXY
+#end include:kuaishou-ads

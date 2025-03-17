@@ -1,0 +1,29 @@
+DOMAIN-SUFFIX,want-media.com,PROXY
+
+# 中国时报
+DOMAIN-SUFFIX,chinatimes.com,PROXY
+DOMAIN-SUFFIX,chinatimes.com.tw,PROXY
+
+# 中时新闻网时报资讯
+DOMAIN-SUFFIX,infotimes.com.tw,PROXY
+
+# 时报周刊
+DOMAIN-SUFFIX,ctwant.com,PROXY
+
+# 工商时报
+DOMAIN-SUFFIX,ctee.com.tw,PROXY
+
+# 中国电视
+DOMAIN-SUFFIX,ctv.com.tw,PROXY
+
+# 中天电视台
+DOMAIN-SUFFIX,ctitv.com.tw,PROXY
+
+# 中旺电视
+DOMAIN-SUFFIX,wantblogger.com,PROXY
+DOMAIN-SUFFIX,zwtvusa.com,PROXY
+
+DOMAIN-SUFFIX,benliton.com,PROXY
+DOMAIN-SUFFIX,lecoin.cc,PROXY
+DOMAIN-SUFFIX,loveparents.org,PROXY
+DOMAIN-SUFFIX,superstation.com.tw,PROXY

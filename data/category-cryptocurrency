@@ -1,0 +1,217 @@
+# Reference: https://bitcoin.org/en/exchanges
+
+#include:asproex
+DOMAIN-SUFFIX,asproex.com,PROXY
+DOMAIN-SUFFIX,asproexapi.com,PROXY
+#end include:asproex
+#include:binance
+DOMAIN-SUFFIX,binance.cc,PROXY
+DOMAIN-SUFFIX,binance.charity,PROXY
+DOMAIN-SUFFIX,binance.cloud,PROXY
+DOMAIN-SUFFIX,binance.co,PROXY
+DOMAIN-SUFFIX,binance.com,PROXY
+DOMAIN-SUFFIX,binance.info,PROXY
+DOMAIN-SUFFIX,binance.me,PROXY
+DOMAIN-SUFFIX,binance.net,PROXY
+DOMAIN-SUFFIX,binance.org,PROXY
+DOMAIN-SUFFIX,binance.us,PROXY
+DOMAIN-SUFFIX,binance.vision,PROXY
+DOMAIN-SUFFIX,binancecnt.com,PROXY
+DOMAIN-SUFFIX,binancezh.be,PROXY
+DOMAIN-SUFFIX,binancezh.biz,PROXY
+DOMAIN-SUFFIX,binancezh.cc,PROXY
+DOMAIN-SUFFIX,binancezh.co,PROXY
+DOMAIN-SUFFIX,binancezh.com,PROXY
+DOMAIN-SUFFIX,binancezh.info,PROXY
+DOMAIN-SUFFIX,binancezh.ink,PROXY
+DOMAIN-SUFFIX,binancezh.kim,PROXY
+DOMAIN-SUFFIX,binancezh.link,PROXY
+DOMAIN-SUFFIX,binancezh.live,PROXY
+DOMAIN-SUFFIX,binancezh.mobi,PROXY
+DOMAIN-SUFFIX,binancezh.net,PROXY
+DOMAIN-SUFFIX,binancezh.pro,PROXY
+DOMAIN-SUFFIX,binancezh.sh,PROXY
+DOMAIN-SUFFIX,binancezh.top,PROXY
+
+# API
+DOMAIN-SUFFIX,binanceapi.com,PROXY
+DOMAIN-SUFFIX,bnbstatic.com,PROXY
+
+# saas
+DOMAIN-SUFFIX,saasexch.com,PROXY
+DOMAIN-SUFFIX,saasexch.io,PROXY
+DOMAIN-SUFFIX,appsflayer.com,PROXY
+#end include:binance
+#include:bitflyer
+DOMAIN-SUFFIX,bitflyer.com,PROXY
+DOMAIN-SUFFIX,bitflyer.jp,PROXY
+#end include:bitflyer
+#include:bitsquare
+DOMAIN-SUFFIX,bisq.io,PROXY
+DOMAIN-SUFFIX,bisq.network,PROXY
+DOMAIN-SUFFIX,bitsquare.io,PROXY
+#end include:bitsquare
+#include:bybit
+DOMAIN-SUFFIX,bybit.com,PROXY
+DOMAIN-SUFFIX,bycsi.com,PROXY
+DOMAIN-SUFFIX,bytick.com,PROXY
+DOMAIN-SUFFIX,byapis.com,PROXY
+DOMAIN-SUFFIX,bycbe.com,PROXY
+DOMAIN-SUFFIX,bymj.io,PROXY
+DOMAIN-SUFFIX,byabcde.com,PROXY
+DOMAIN-SUFFIX,byapps.net,PROXY
+DOMAIN-SUFFIX,byd3c3.com,PROXY
+DOMAIN-SUFFIX,bybit.biz,PROXY
+DOMAIN-SUFFIX,bybdc6.com,PROXY
+DOMAIN-SUFFIX,bybit-global.com,PROXY
+DOMAIN-SUFFIX,bybit.cloud,PROXY
+DOMAIN-SUFFIX,bybitglobal.com,PROXY
+
+DOMAIN,bybit-exchange.github.io,PROXY
+DOMAIN,bybit.ada.support,PROXY
+#end include:bybit
+#include:coinone
+DOMAIN-SUFFIX,coinone.co.kr,PROXY
+DOMAIN-SUFFIX,coinonecore.com,PROXY
+DOMAIN-SUFFIX,coinonecorp.com,PROXY
+#end include:coinone
+#include:deribit
+DOMAIN-SUFFIX,deribit.com,PROXY
+
+DOMAIN,deribit.cdn.prismic.io,PROXY
+#end include:deribit
+#include:ethereum
+DOMAIN-SUFFIX,devcon.org,PROXY
+DOMAIN-SUFFIX,ethereum.foundation,PROXY
+DOMAIN-SUFFIX,ethereum.org,PROXY
+DOMAIN-SUFFIX,etherscan.io,PROXY
+#end include:ethereum
+#include:gateio
+DOMAIN-SUFFIX,gate.io,PROXY
+
+DOMAIN-SUFFIX,gatedata.org,PROXY
+DOMAIN-SUFFIX,gateimg.com,PROXY
+DOMAIN-SUFFIX,gateio.live,PROXY
+DOMAIN-SUFFIX,gateio.services,PROXY
+#end include:gateio
+#include:huobi
+DOMAIN-SUFFIX,htx.com,PROXY
+DOMAIN-SUFFIX,hbabit.com,PROXY
+DOMAIN-SUFFIX,hbfile.net,PROXY
+DOMAIN-SUFFIX,huobi.com,PROXY
+DOMAIN-SUFFIX,huobi.me,PROXY
+DOMAIN-SUFFIX,huobi.pro,PROXY
+DOMAIN-SUFFIX,huobi.sc,PROXY
+DOMAIN-SUFFIX,huobiasia.vip,PROXY
+DOMAIN-SUFFIX,huobigroup.com,PROXY
+DOMAIN-SUFFIX,huobitoken.com,PROXY
+#end include:huobi
+#include:kraken
+DOMAIN-SUFFIX,kraken.com,PROXY
+DOMAIN-SUFFIX,kraken.onl,PROXY
+#end include:kraken
+#include:localbitcoins
+DOMAIN-SUFFIX,localbitcoins.com,PROXY
+DOMAIN-SUFFIX,localbitcoinschain.com,PROXY
+#end include:localbitcoins
+#include:nexo
+DOMAIN-SUFFIX,nexo.com,PROXY
+DOMAIN-SUFFIX,nexo.io,PROXY
+#end include:nexo
+#include:okx
+DOMAIN-SUFFIX,okex.com,PROXY
+DOMAIN-SUFFIX,okx.com,PROXY
+DOMAIN-SUFFIX,okx-dns.com,PROXY
+DOMAIN-SUFFIX,okx-dns1.com,PROXY
+DOMAIN-SUFFIX,okx-dns2.com,PROXY
+
+# OKC Browser
+DOMAIN-SUFFIX,oklink.com,PROXY
+#end include:okx
+#include:onekey
+DOMAIN-SUFFIX,onekey-asset.com,PROXY
+DOMAIN-SUFFIX,onekey.so,PROXY
+DOMAIN-SUFFIX,onekeycn.com,PROXY
+
+DOMAIN,onekey.zendesk.com,PROXY
+#end include:onekey
+#include:wisekey
+DOMAIN-SUFFIX,wisecoin.com,PROXY
+DOMAIN-SUFFIX,wiseid.com,PROXY
+DOMAIN-SUFFIX,wisekey.com,PROXY
+DOMAIN-SUFFIX,wisekey.com.hk,PROXY
+#end include:wisekey
+#include:wynd
+DOMAIN-SUFFIX,wyndlabs.ai,PROXY
+DOMAIN-SUFFIX,wynd.network,PROXY
+#end include:wynd
+#include:zb
+DOMAIN-SUFFIX,zb.app,PROXY
+DOMAIN-SUFFIX,zb.com,PROXY
+DOMAIN-SUFFIX,zb.io,PROXY
+DOMAIN-SUFFIX,zb.live,PROXY
+#end include:zb
+#include:kucoin
+DOMAIN-SUFFIX,kucoin.com,PROXY
+DOMAIN-SUFFIX,kucoin.plus,PROXY
+#end include:kucoin
+#include:redotpay
+DOMAIN-SUFFIX,redotpay.com,PROXY
+DOMAIN-SUFFIX,redotpay.zendesk.com,PROXY
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com,PROXY
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,PROXY
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,PROXY
+#end include:redotpay
+
+DOMAIN-SUFFIX,1inch.io,PROXY
+DOMAIN-SUFFIX,aave.com,PROXY
+DOMAIN-SUFFIX,bitbank.cc,PROXY
+DOMAIN-SUFFIX,bitcoin.org,PROXY
+DOMAIN-SUFFIX,bitfinex.com,PROXY
+DOMAIN-SUFFIX,bitget.com,PROXY
+DOMAIN-SUFFIX,bitmex.com,PROXY
+DOMAIN-SUFFIX,bitquick.co,PROXY
+DOMAIN-SUFFIX,bitstamp.net,PROXY
+DOMAIN-SUFFIX,bittrex.com,PROXY
+DOMAIN-SUFFIX,blockfrost.io,PROXY
+DOMAIN-SUFFIX,btcbox.co.jp,PROXY
+DOMAIN-SUFFIX,cex.io,PROXY
+DOMAIN-SUFFIX,clearpool.finance,PROXY
+DOMAIN-SUFFIX,coinalyze.net,PROXY
+DOMAIN-SUFFIX,coinbase.com,PROXY
+DOMAIN-SUFFIX,coindesk.com,PROXY
+DOMAIN-SUFFIX,coingecko.com,PROXY
+DOMAIN-SUFFIX,coinglass.com,PROXY
+DOMAIN-SUFFIX,coinmap.org,PROXY
+DOMAIN-SUFFIX,coinmarketcap.com,PROXY
+DOMAIN-SUFFIX,crypto.com,PROXY
+DOMAIN-SUFFIX,cryptocompare.com,PROXY
+DOMAIN-SUFFIX,cryptomus.com,PROXY
+DOMAIN-SUFFIX,curve.fi,PROXY
+DOMAIN-SUFFIX,cyberx.com,PROXY
+DOMAIN-SUFFIX,debank.com,PROXY
+DOMAIN-SUFFIX,dogecoin.com,PROXY
+DOMAIN-SUFFIX,dydx.exchange,PROXY
+DOMAIN-SUFFIX,fundingrates.xyz,PROXY
+DOMAIN-SUFFIX,gemini.com,PROXY
+DOMAIN-SUFFIX,hashflow.com,PROXY
+DOMAIN-SUFFIX,infura.io,PROXY
+DOMAIN-SUFFIX,invity.io,PROXY
+DOMAIN-SUFFIX,maple.finance,PROXY
+DOMAIN-SUFFIX,metalpha.finance,PROXY
+DOMAIN-SUFFIX,mexc.com,PROXY
+DOMAIN-SUFFIX,mexcsensors.com,PROXY
+DOMAIN-SUFFIX,mytokenapi.com,PROXY
+DOMAIN-SUFFIX,opensea.io,PROXY
+DOMAIN-SUFFIX,osl.com,PROXY
+DOMAIN-SUFFIX,paxful.com,PROXY
+DOMAIN-SUFFIX,ripple.com,PROXY
+DOMAIN-SUFFIX,satoshilabs.com,PROXY
+DOMAIN-SUFFIX,theblock.co,PROXY
+DOMAIN-SUFFIX,trezor.io,PROXY
+DOMAIN-SUFFIX,truefi.io,PROXY
+DOMAIN-SUFFIX,unisat.io,PROXY
+DOMAIN-SUFFIX,uniswap.org,PROXY
+DOMAIN-SUFFIX,walletconnect.com,PROXY
+DOMAIN-SUFFIX,wintermute.com,PROXY
+DOMAIN-SUFFIX,zapper.fi,PROXY

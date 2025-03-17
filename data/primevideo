@@ -1,0 +1,13 @@
+# Prime Video
+DOMAIN-SUFFIX,aiv-cdn.net,PROXY
+DOMAIN-SUFFIX,amazonprimevideo.cn,PROXY
+DOMAIN-SUFFIX,amazonprimevideo.com.cn,PROXY
+DOMAIN-SUFFIX,amazonprimevideos.com,PROXY
+DOMAIN-SUFFIX,amazonvideo.cc,PROXY
+DOMAIN-SUFFIX,amazonvideo.com,PROXY
+DOMAIN-SUFFIX,prime-video.com,PROXY
+DOMAIN-SUFFIX,primevideo.cc,PROXY
+DOMAIN-SUFFIX,primevideo.com,PROXY
+DOMAIN-SUFFIX,primevideo.info,PROXY
+DOMAIN-SUFFIX,primevideo.org,PROXY
+DOMAIN-SUFFIX,primevideo.tv,PROXY

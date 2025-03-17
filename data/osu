@@ -1,0 +1,11 @@
+# osu
+DOMAIN,a.ppy.sh,PROXY
+DOMAIN,assets.ppy.sh,PROXY
+DOMAIN,c.ppy.sh,PROXY
+DOMAIN,osu.ppy.sh,PROXY
+DOMAIN,m1.ppy.sh,PROXY
+# osu lazer
+DOMAIN,lazer.ppy.sh,PROXY
+DOMAIN,notify.ppy.sh,PROXY
+DOMAIN,sentry.ppy.sh,PROXY
+DOMAIN,spectator.ppy.sh,PROXY

@@ -1,0 +1,33 @@
+# ArchLinux
+DOMAIN-SUFFIX,ping.archlinux.org,PROXY
+
+# Apple
+DOMAIN-SUFFIX,captive.apple.com,PROXY
+
+# Android
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com,PROXY
+
+# Cloudflare
+DOMAIN-SUFFIX,cp.cloudflare.com,PROXY
+
+# Debian
+DOMAIN-SUFFIX,network-test.debian.org,PROXY
+
+# Firefox
+DOMAIN-SUFFIX,detectportal.firefox.com,PROXY
+
+# Honor
+DOMAIN,connectivitycheck.platform.hihonorcloud.com,PROXY
+
+# Huawei
+DOMAIN,connectivitycheck.platform.hicloud.com,PROXY
+
+# KDE
+DOMAIN-SUFFIX,networkcheck.kde.org,PROXY
+
+# MIUI
+DOMAIN,connect.rom.miui.com,PROXY
+
+# Windows
+DOMAIN-SUFFIX,msftconnecttest.com,PROXY
+DOMAIN-SUFFIX,msftncsi.com,PROXY

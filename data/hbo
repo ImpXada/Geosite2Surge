@@ -1,0 +1,27 @@
+DOMAIN-SUFFIX,brightline.tv,PROXY
+DOMAIN-SUFFIX,cinemax.com,PROXY
+DOMAIN-SUFFIX,discomax.com,PROXY
+DOMAIN-SUFFIX,forthethrone.com,PROXY
+DOMAIN-SUFFIX,hbo.com,PROXY
+DOMAIN-SUFFIX,hboasia.com,PROXY
+DOMAIN-SUFFIX,hbogo.co.th,PROXY
+DOMAIN-SUFFIX,hbogo.com,PROXY
+DOMAIN-SUFFIX,hbogo.eu,PROXY
+DOMAIN-SUFFIX,hbogoasia.com,PROXY
+DOMAIN-SUFFIX,hbogoasia.hk,PROXY
+DOMAIN-SUFFIX,hbogoasia.id,PROXY
+DOMAIN-SUFFIX,hbogoasia.ph,PROXY
+DOMAIN-SUFFIX,hbogoasia.sg,PROXY
+DOMAIN-SUFFIX,hbogoasia.tw,PROXY
+DOMAIN-SUFFIX,hbomax.com,PROXY
+DOMAIN-SUFFIX,hbomaxcdn.com,PROXY
+DOMAIN-SUFFIX,hbonow.com,PROXY
+DOMAIN-SUFFIX,max.com,PROXY
+DOMAIN-SUFFIX,maxgo.com,PROXY
+
+# CDNs
+DOMAIN-SUFFIX,hbo.com.c.footprint.net,PROXY
+DOMAIN-SUFFIX,hbo.com.edgesuite.net,PROXY
+DOMAIN-SUFFIX,hbo.map.fastly.net,PROXY
+DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com,PROXY
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net,PROXY

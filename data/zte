@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,nubia.cn,PROXY
+DOMAIN-SUFFIX,nubia.com,PROXY
+DOMAIN-SUFFIX,redmagic.com,PROXY
+DOMAIN-SUFFIX,zte.com.cn,PROXY
+DOMAIN-SUFFIX,ztemall.com,PROXY
+DOMAIN-SUFFIX,ztems.com,PROXY
+
+DOMAIN,bbs.ztedevices.com,PROXY
+DOMAIN,www.ztedevices.com,PROXY
+DOMAIN,ztedevices.com,PROXY

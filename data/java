@@ -1,0 +1,5 @@
+# All .java domains
+DOMAIN-SUFFIX,java,PROXY
+
+DOMAIN-SUFFIX,java.com,PROXY
+DOMAIN-SUFFIX,java.net,PROXY

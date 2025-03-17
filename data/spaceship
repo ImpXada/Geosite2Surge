@@ -1,0 +1,5 @@
+#include:spacemail
+DOMAIN-SUFFIX,spacemail.com,PROXY
+#end include:spacemail
+
+DOMAIN-SUFFIX,spaceship.com,PROXY

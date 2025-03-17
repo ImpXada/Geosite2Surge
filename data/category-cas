@@ -1,0 +1,527 @@
+# This list contains well-known Certificate Authorities (CA) outside China mainland.
+
+# Reference: https://en.wikipedia.org/wiki/Certificate_authority
+#include:actalis
+DOMAIN-SUFFIX,actalis.com,PROXY
+DOMAIN-SUFFIX,actalis.it,PROXY
+#end include:actalis
+#include:amazontrust
+DOMAIN-SUFFIX,amazontrust.com,PROXY
+DOMAIN-SUFFIX,awstrust.com,PROXY
+DOMAIN-SUFFIX,ss2.us,PROXY
+#end include:amazontrust
+#include:apple-pki
+DOMAIN,certs-lb.apple.com.akadns.net,PROXY
+DOMAIN,certs.apple.com,PROXY
+DOMAIN,crl-lb.apple.com.akadns.net,PROXY
+DOMAIN,crl.apple.com,PROXY
+DOMAIN,ocsp-lb.apple.com.akadns.net,PROXY
+DOMAIN,ocsp.apple.com,PROXY
+DOMAIN,ocsp2-lb.apple.com.akadns.net,PROXY
+DOMAIN,ocsp2.apple.com,PROXY
+#end include:apple-pki
+#include:buypass
+DOMAIN-SUFFIX,buypass-ssl.com,PROXY
+DOMAIN-SUFFIX,buypass.com,PROXY
+DOMAIN-SUFFIX,buypass.no,PROXY
+DOMAIN-SUFFIX,buypass.se,PROXY
+DOMAIN-SUFFIX,minid.no,PROXY
+#end include:buypass
+#include:certinomis
+DOMAIN-SUFFIX,certinomis.com,PROXY
+DOMAIN-SUFFIX,certinomis.fr,PROXY
+#end include:certinomis
+#include:certum
+DOMAIN-SUFFIX,certum.pl,PROXY
+DOMAIN-SUFFIX,ocsp-certum.com,PROXY
+
+# Sub brand
+DOMAIN-SUFFIX,ocsp-responder.com,PROXY    #Yandex
+#end include:certum
+#include:comodo
+DOMAIN-SUFFIX,comodo.com,PROXY
+DOMAIN-SUFFIX,comodo.net,PROXY
+DOMAIN-SUFFIX,comodoca.com,PROXY
+DOMAIN-SUFFIX,comodoca2.com,PROXY
+DOMAIN-SUFFIX,comodoca3.com,PROXY
+DOMAIN-SUFFIX,comodoca4.com,PROXY
+#end include:comodo
+#include:cybertrust
+DOMAIN-SUFFIX,cybertrust.co.jp,PROXY
+DOMAIN-SUFFIX,cybertrust.ne.jp,PROXY
+#end include:cybertrust
+#include:digicert
+DOMAIN-SUFFIX,dcocsp.cn,PROXY
+DOMAIN-SUFFIX,digicert-cn.com,PROXY    #Not in Chinese Mainland
+DOMAIN-SUFFIX,digicert-validation.com,PROXY
+DOMAIN-SUFFIX,digicert.cn,PROXY
+DOMAIN-SUFFIX,digicert.com,PROXY
+DOMAIN-SUFFIX,digitalcertvalidation.com,PROXY
+DOMAIN-SUFFIX,freessl.com,PROXY
+DOMAIN-SUFFIX,geotrust.com,PROXY
+DOMAIN-SUFFIX,rapidssl.com,PROXY
+DOMAIN-SUFFIX,thawte.com,PROXY
+DOMAIN-SUFFIX,thawte.de,PROXY
+DOMAIN-SUFFIX,thawte.fr,PROXY
+
+# Quovadis
+DOMAIN-SUFFIX,quovadisglobal.com,PROXY
+
+# Public Trust
+DOMAIN-SUFFIX,public-trust.com,PROXY
+#end include:digicert
+#include:entrust
+DOMAIN-SUFFIX,entrust.net,PROXY
+DOMAIN-SUFFIX,entrustdatacard.com,PROXY
+
+# Sub brand
+DOMAIN-SUFFIX,affirmtrust.com,PROXY
+DOMAIN-SUFFIX,atos.net,PROXY
+DOMAIN-SUFFIX,myatos.net,PROXY
+DOMAIN-SUFFIX,certificat2.com,PROXY
+DOMAIN-SUFFIX,trendmicro.com,PROXY
+#end include:entrust
+#include:gandi
+DOMAIN-SUFFIX,gandi.net,PROXY
+#end include:gandi
+#include:globalsign
+DOMAIN-SUFFIX,alphassl.com,PROXY
+DOMAIN-SUFFIX,easy-signing.com,PROXY
+DOMAIN-SUFFIX,globalsign-media.com,PROXY
+DOMAIN-SUFFIX,globalsign.be,PROXY
+DOMAIN-SUFFIX,globalsign.ch,PROXY
+DOMAIN-SUFFIX,globalsign.cloud,PROXY
+DOMAIN-SUFFIX,globalsign.cn,PROXY
+DOMAIN-SUFFIX,globalsign.co.uk,PROXY
+DOMAIN-SUFFIX,globalsign.com,PROXY
+DOMAIN-SUFFIX,globalsign.com.au,PROXY
+DOMAIN-SUFFIX,globalsign.com.br,PROXY
+DOMAIN-SUFFIX,globalsign.com.hk,PROXY
+DOMAIN-SUFFIX,globalsign.com.sg,PROXY
+DOMAIN-SUFFIX,globalsign.es,PROXY
+DOMAIN-SUFFIX,globalsign.eu,PROXY
+DOMAIN-SUFFIX,globalsign.fr,PROXY
+DOMAIN-SUFFIX,globalsign.net,PROXY
+DOMAIN-SUFFIX,globalsign.nl,PROXY
+DOMAIN-SUFFIX,globalsigncdn.com,PROXY
+
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net,PROXY
+#end include:globalsign
+#include:godaddy
+DOMAIN-SUFFIX,godaddy.com,PROXY
+DOMAIN-SUFFIX,x.co,PROXY    #GoDaddy URL Shortener
+
+# All .godaddy domains
+DOMAIN-SUFFIX,godaddy,PROXY
+#end include:godaddy
+#include:google-trust-services
+DOMAIN-SUFFIX,pki.goog,PROXY
+
+DOMAIN,pki-goog.l.google.com,PROXY
+
+DOMAIN,c.pki.goog,PROXY
+DOMAIN,i.pki.goog,PROXY
+DOMAIN,o.pki.goog,PROXY
+
+# Google Public CA API Endpoint
+DOMAIN,publicca.googleapis.com,PROXY
+DOMAIN,preprod-publicca.googleapis.com,PROXY
+
+# Deprecated earlier
+DOMAIN,clients1.google.com,PROXY
+DOMAIN,pki.google.com,PROXY
+
+# Deprecated recently
+DOMAIN,crl.pki.goog,PROXY
+DOMAIN,crls.pki.goog,PROXY
+DOMAIN,ocsp.pki.goog,PROXY
+#end include:google-trust-services
+#include:hinet-eca
+DOMAIN-SUFFIX,eca.hinet.net,PROXY
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw,PROXY
+#end include:hinet-eca
+#include:hongkongpost
+DOMAIN-SUFFIX,hongkongpost.gov.hk,PROXY
+DOMAIN-SUFFIX,ecert.gov.hk,PROXY
+#end include:hongkongpost
+#include:identrust
+DOMAIN-SUFFIX,identrust.com,PROXY
+DOMAIN-SUFFIX,identrust.co.uk,PROXY
+DOMAIN-SUFFIX,identrust.net,PROXY
+#end include:identrust
+#include:letsencrypt
+DOMAIN-SUFFIX,lencr.org,PROXY
+DOMAIN-SUFFIX,letsencrypt.com,PROXY
+DOMAIN-SUFFIX,letsencrypt.org,PROXY
+#end include:letsencrypt
+#include:microsoft-pki
+DOMAIN-SUFFIX,msocsp.com,PROXY
+
+DOMAIN,crl.microsoft.com,PROXY
+DOMAIN,mscrl.microsoft.com,PROXY
+DOMAIN,ocsp.microsoft.com,PROXY
+DOMAIN,oneocsp.microsoft.com,PROXY
+DOMAIN,www.microsoft.com,PROXY
+#end include:microsoft-pki
+#include:secom
+DOMAIN-SUFFIX,secom.co.jp,PROXY
+DOMAIN-SUFFIX,secomtrust.net,PROXY
+
+# Sub brand
+
+DOMAIN-SUFFIX,cybertrust.co.jp,PROXY
+DOMAIN-SUFFIX,cybertrust.ne.jp,PROXY
+DOMAIN-SUFFIX,managedpki.ne.jp,PROXY
+#end include:secom
+#include:sectigo
+DOMAIN-SUFFIX,enterprisessl.com,PROXY
+DOMAIN-SUFFIX,hackerguardian.com,PROXY
+DOMAIN-SUFFIX,instantssl.com,PROXY
+DOMAIN-SUFFIX,oemssl.cn,PROXY
+DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net,PROXY
+DOMAIN-SUFFIX,optimumssl.com,PROXY
+DOMAIN-SUFFIX,positivessl.com,PROXY
+DOMAIN-SUFFIX,sectigo.com,PROXY
+DOMAIN-SUFFIX,sectigochina.com,PROXY
+DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net,PROXY
+DOMAIN-SUFFIX,trust-provider.cn,PROXY
+DOMAIN-SUFFIX,trust-provider.com,PROXY
+DOMAIN-SUFFIX,usertrust.com,PROXY
+
+# Sub brand
+DOMAIN-SUFFIX,aoc.cat,PROXY
+DOMAIN-SUFFIX,catcert.cat,PROXY
+DOMAIN-SUFFIX,incommon-rsa.org,PROXY
+DOMAIN-SUFFIX,netsolssl.com,PROXY
+#end include:sectigo
+#include:sslcom
+DOMAIN-SUFFIX,ssl.com,PROXY
+DOMAIN-SUFFIX,sslcom.cn,PROXY
+#end include:sslcom
+#include:starfieldtech
+DOMAIN-SUFFIX,starfieldtech.com,PROXY
+#end include:starfieldtech
+#include:swisssign
+DOMAIN-SUFFIX,digital-id.ch,PROXY
+DOMAIN-SUFFIX,digitalid.ch,PROXY
+DOMAIN-SUFFIX,managed-pki.ch,PROXY
+DOMAIN-SUFFIX,managed-pki.de,PROXY
+DOMAIN-SUFFIX,pki-post.ch,PROXY
+DOMAIN-SUFFIX,pki-posta.ch,PROXY
+DOMAIN-SUFFIX,pki-poste.ch,PROXY
+DOMAIN-SUFFIX,root-signing.ch,PROXY
+DOMAIN-SUFFIX,rootsigning.com,PROXY
+DOMAIN-SUFFIX,ssl-certificate.ch,PROXY
+DOMAIN-SUFFIX,swissid.ch,PROXY
+DOMAIN-SUFFIX,swissign.com,PROXY
+DOMAIN-SUFFIX,swissign.li,PROXY
+DOMAIN-SUFFIX,swisssign-group.ch,PROXY
+DOMAIN-SUFFIX,swisssign-group.com,PROXY
+DOMAIN-SUFFIX,swisssign-group.li,PROXY
+DOMAIN-SUFFIX,swisssign.ch,PROXY
+DOMAIN-SUFFIX,swisssign.com,PROXY
+DOMAIN-SUFFIX,swisssign.li,PROXY
+DOMAIN-SUFFIX,swisssign.net,PROXY
+DOMAIN-SUFFIX,swisssign.org,PROXY
+DOMAIN-SUFFIX,swisssigner.ch,PROXY
+DOMAIN-SUFFIX,swisssigner.com,PROXY
+DOMAIN-SUFFIX,swisssigngroup.ch,PROXY
+DOMAIN-SUFFIX,swisssigngroup.com,PROXY
+DOMAIN-SUFFIX,swissstick.com,PROXY
+DOMAIN-SUFFIX,swisstsa.ch,PROXY
+DOMAIN-SUFFIX,swisstsa.li,PROXY
+DOMAIN-SUFFIX,trustdoc.ch,PROXY
+DOMAIN-SUFFIX,trustsign.ch,PROXY
+DOMAIN-SUFFIX,zert.ch,PROXY
+#end include:swisssign
+#include:symantec
+DOMAIN-SUFFIX,managedpki.com,PROXY
+DOMAIN-SUFFIX,symantec.com,PROXY
+DOMAIN-SUFFIX,symcb.com,PROXY
+DOMAIN-SUFFIX,symcd.com,PROXY
+#end include:symantec
+#include:telekom
+DOMAIN-SUFFIX,telekom.com,PROXY
+DOMAIN-SUFFIX,telekom.de,PROXY
+DOMAIN-SUFFIX,telesec.de,PROXY
+#end include:telekom
+#include:trustwave
+DOMAIN-SUFFIX,trustwave.com,PROXY
+#end include:trustwave
+#include:twca
+DOMAIN-SUFFIX,twca.com.tw,PROXY
+#end include:twca
+#include:verisign
+DOMAIN-SUFFIX,verisign.asia,PROXY
+DOMAIN-SUFFIX,verisign.biz,PROXY
+DOMAIN-SUFFIX,verisign.ch,PROXY
+DOMAIN-SUFFIX,verisign.co.in,PROXY
+DOMAIN-SUFFIX,verisign.co.uk,PROXY
+DOMAIN-SUFFIX,verisign.com,PROXY
+DOMAIN-SUFFIX,verisign.com.au,PROXY
+DOMAIN-SUFFIX,verisign.com.br,PROXY
+DOMAIN-SUFFIX,verisign.com.cn,PROXY
+DOMAIN-SUFFIX,verisign.com.es,PROXY
+DOMAIN-SUFFIX,verisign.com.hk,PROXY
+DOMAIN-SUFFIX,verisign.com.sg,PROXY
+DOMAIN-SUFFIX,verisign.com.tw,PROXY
+DOMAIN-SUFFIX,verisign.com.vn,PROXY
+DOMAIN-SUFFIX,verisign.de,PROXY
+DOMAIN-SUFFIX,verisign.dk,PROXY
+DOMAIN-SUFFIX,verisign.es,PROXY
+DOMAIN-SUFFIX,verisign.fr,PROXY
+DOMAIN-SUFFIX,verisign.hk,PROXY
+DOMAIN-SUFFIX,verisign.in,PROXY
+DOMAIN-SUFFIX,verisign.info,PROXY
+DOMAIN-SUFFIX,verisign.jobs,PROXY
+DOMAIN-SUFFIX,verisign.mobi,PROXY
+DOMAIN-SUFFIX,verisign.name,PROXY
+DOMAIN-SUFFIX,verisign.net,PROXY
+DOMAIN-SUFFIX,verisign.org,PROXY
+DOMAIN-SUFFIX,verisign.pro,PROXY
+DOMAIN-SUFFIX,verisign.se,PROXY
+DOMAIN-SUFFIX,verisign.sg,PROXY
+DOMAIN-SUFFIX,verisign.tw,PROXY
+DOMAIN-SUFFIX,verisign.us,PROXY
+DOMAIN-SUFFIX,verisign.vn,PROXY
+DOMAIN-SUFFIX,verisigninc.com,PROXY
+#end include:verisign
+#include:verizon
+# All .flickr domains
+DOMAIN-SUFFIX,flickr,PROXY
+
+DOMAIN-SUFFIX,flic.kr,PROXY
+DOMAIN-SUFFIX,flickr.com,PROXY
+DOMAIN-SUFFIX,flickr.net,PROXY
+DOMAIN-SUFFIX,staticflickr.com,PROXY
+#end include:flickr
+DOMAIN-SUFFIX,ads.yahoo.com,PROXY
+DOMAIN-SUFFIX,gemini.yahoo.com,PROXY
+DOMAIN-SUFFIX,ysm.yahoo.com,PROXY
+#end include:yahoo-ads
+
+# All .yahoo domains
+DOMAIN-SUFFIX,yahoo,PROXY
+
+DOMAIN-SUFFIX,yahoo.ae,PROXY
+DOMAIN-SUFFIX,yahoo.am,PROXY
+DOMAIN-SUFFIX,yahoo.as,PROXY
+DOMAIN-SUFFIX,yahoo.at,PROXY
+DOMAIN-SUFFIX,yahoo.az,PROXY
+DOMAIN-SUFFIX,yahoo.ba,PROXY
+DOMAIN-SUFFIX,yahoo.be,PROXY
+DOMAIN-SUFFIX,yahoo.bg,PROXY
+DOMAIN-SUFFIX,yahoo.bi,PROXY
+DOMAIN-SUFFIX,yahoo.bs,PROXY
+DOMAIN-SUFFIX,yahoo.bt,PROXY
+DOMAIN-SUFFIX,yahoo.by,PROXY
+DOMAIN-SUFFIX,yahoo.ca,PROXY
+DOMAIN-SUFFIX,yahoo.cat,PROXY
+DOMAIN-SUFFIX,yahoo.cd,PROXY
+DOMAIN-SUFFIX,yahoo.cg,PROXY
+DOMAIN-SUFFIX,yahoo.ch,PROXY
+DOMAIN-SUFFIX,yahoo.cl,PROXY
+DOMAIN-SUFFIX,yahoo.cm,PROXY
+DOMAIN-SUFFIX,yahoo.cn,PROXY
+DOMAIN-SUFFIX,yahoo.co.ao,PROXY
+DOMAIN-SUFFIX,yahoo.co.bw,PROXY
+DOMAIN-SUFFIX,yahoo.co.ck,PROXY
+DOMAIN-SUFFIX,yahoo.co.cr,PROXY
+DOMAIN-SUFFIX,yahoo.co.id,PROXY
+DOMAIN-SUFFIX,yahoo.co.il,PROXY
+DOMAIN-SUFFIX,yahoo.co.in,PROXY
+DOMAIN-SUFFIX,yahoo.co.jp,PROXY
+DOMAIN-SUFFIX,yahoo.co.kr,PROXY
+DOMAIN-SUFFIX,yahoo.co.mz,PROXY
+DOMAIN-SUFFIX,yahoo.co.nz,PROXY
+DOMAIN-SUFFIX,yahoo.co.th,PROXY
+DOMAIN-SUFFIX,yahoo.co.tz,PROXY
+DOMAIN-SUFFIX,yahoo.co.uk,PROXY
+DOMAIN-SUFFIX,yahoo.co.uz,PROXY
+DOMAIN-SUFFIX,yahoo.co.ve,PROXY
+DOMAIN-SUFFIX,yahoo.co.vi,PROXY
+DOMAIN-SUFFIX,yahoo.co.za,PROXY
+DOMAIN-SUFFIX,yahoo.com,PROXY
+DOMAIN-SUFFIX,yahoo.com.af,PROXY
+DOMAIN-SUFFIX,yahoo.com.ag,PROXY
+DOMAIN-SUFFIX,yahoo.com.ai,PROXY
+DOMAIN-SUFFIX,yahoo.com.ar,PROXY
+DOMAIN-SUFFIX,yahoo.com.au,PROXY
+DOMAIN-SUFFIX,yahoo.com.bd,PROXY
+DOMAIN-SUFFIX,yahoo.com.bo,PROXY
+DOMAIN-SUFFIX,yahoo.com.br,PROXY
+DOMAIN-SUFFIX,yahoo.com.bz,PROXY
+DOMAIN-SUFFIX,yahoo.com.cn,PROXY
+DOMAIN-SUFFIX,yahoo.com.co,PROXY
+DOMAIN-SUFFIX,yahoo.com.do,PROXY
+DOMAIN-SUFFIX,yahoo.com.ec,PROXY
+DOMAIN-SUFFIX,yahoo.com.eg,PROXY
+DOMAIN-SUFFIX,yahoo.com.es,PROXY
+DOMAIN-SUFFIX,yahoo.com.fj,PROXY
+DOMAIN-SUFFIX,yahoo.com.gi,PROXY
+DOMAIN-SUFFIX,yahoo.com.gt,PROXY
+DOMAIN-SUFFIX,yahoo.com.hk,PROXY
+DOMAIN-SUFFIX,yahoo.com.kw,PROXY
+DOMAIN-SUFFIX,yahoo.com.lb,PROXY
+DOMAIN-SUFFIX,yahoo.com.ly,PROXY
+DOMAIN-SUFFIX,yahoo.com.mt,PROXY
+DOMAIN-SUFFIX,yahoo.com.mx,PROXY
+DOMAIN-SUFFIX,yahoo.com.my,PROXY
+DOMAIN-SUFFIX,yahoo.com.na,PROXY
+DOMAIN-SUFFIX,yahoo.com.nf,PROXY
+DOMAIN-SUFFIX,yahoo.com.om,PROXY
+DOMAIN-SUFFIX,yahoo.com.pa,PROXY
+DOMAIN-SUFFIX,yahoo.com.pe,PROXY
+DOMAIN-SUFFIX,yahoo.com.ph,PROXY
+DOMAIN-SUFFIX,yahoo.com.pk,PROXY
+DOMAIN-SUFFIX,yahoo.com.pr,PROXY
+DOMAIN-SUFFIX,yahoo.com.py,PROXY
+DOMAIN-SUFFIX,yahoo.com.sa,PROXY
+DOMAIN-SUFFIX,yahoo.com.sb,PROXY
+DOMAIN-SUFFIX,yahoo.com.sg,PROXY
+DOMAIN-SUFFIX,yahoo.com.sv,PROXY
+DOMAIN-SUFFIX,yahoo.com.tj,PROXY
+DOMAIN-SUFFIX,yahoo.com.tr,PROXY
+DOMAIN-SUFFIX,yahoo.com.tw,PROXY
+DOMAIN-SUFFIX,yahoo.com.ua,PROXY
+DOMAIN-SUFFIX,yahoo.com.uy,PROXY
+DOMAIN-SUFFIX,yahoo.com.vc,PROXY
+DOMAIN-SUFFIX,yahoo.com.vn,PROXY
+DOMAIN-SUFFIX,yahoo.cz,PROXY
+DOMAIN-SUFFIX,yahoo.de,PROXY
+DOMAIN-SUFFIX,yahoo.dj,PROXY
+DOMAIN-SUFFIX,yahoo.dk,PROXY
+DOMAIN-SUFFIX,yahoo.dm,PROXY
+DOMAIN-SUFFIX,yahoo.ee,PROXY
+DOMAIN-SUFFIX,yahoo.es,PROXY
+DOMAIN-SUFFIX,yahoo.fi,PROXY
+DOMAIN-SUFFIX,yahoo.fm,PROXY
+DOMAIN-SUFFIX,yahoo.fr,PROXY
+DOMAIN-SUFFIX,yahoo.ge,PROXY
+DOMAIN-SUFFIX,yahoo.gg,PROXY
+DOMAIN-SUFFIX,yahoo.gl,PROXY
+DOMAIN-SUFFIX,yahoo.gm,PROXY
+DOMAIN-SUFFIX,yahoo.gp,PROXY
+DOMAIN-SUFFIX,yahoo.gr,PROXY
+DOMAIN-SUFFIX,yahoo.gy,PROXY
+DOMAIN-SUFFIX,yahoo.hk,PROXY
+DOMAIN-SUFFIX,yahoo.hr,PROXY
+DOMAIN-SUFFIX,yahoo.hu,PROXY
+DOMAIN-SUFFIX,yahoo.ie,PROXY
+DOMAIN-SUFFIX,yahoo.im,PROXY
+DOMAIN-SUFFIX,yahoo.in,PROXY
+DOMAIN-SUFFIX,yahoo.is,PROXY
+DOMAIN-SUFFIX,yahoo.it,PROXY
+DOMAIN-SUFFIX,yahoo.je,PROXY
+DOMAIN-SUFFIX,yahoo.jo,PROXY
+DOMAIN-SUFFIX,yahoo.la,PROXY
+DOMAIN-SUFFIX,yahoo.lt,PROXY
+DOMAIN-SUFFIX,yahoo.lu,PROXY
+DOMAIN-SUFFIX,yahoo.lv,PROXY
+DOMAIN-SUFFIX,yahoo.md,PROXY
+DOMAIN-SUFFIX,yahoo.me,PROXY
+DOMAIN-SUFFIX,yahoo.mk,PROXY
+DOMAIN-SUFFIX,yahoo.mw,PROXY
+DOMAIN-SUFFIX,yahoo.mx,PROXY
+DOMAIN-SUFFIX,yahoo.net,PROXY
+DOMAIN-SUFFIX,yahoo.nl,PROXY
+DOMAIN-SUFFIX,yahoo.no,PROXY
+DOMAIN-SUFFIX,yahoo.nu,PROXY
+DOMAIN-SUFFIX,yahoo.ph,PROXY
+DOMAIN-SUFFIX,yahoo.pl,PROXY
+DOMAIN-SUFFIX,yahoo.pn,PROXY
+DOMAIN-SUFFIX,yahoo.ps,PROXY
+DOMAIN-SUFFIX,yahoo.pt,PROXY
+DOMAIN-SUFFIX,yahoo.ro,PROXY
+DOMAIN-SUFFIX,yahoo.ru,PROXY
+DOMAIN-SUFFIX,yahoo.rw,PROXY
+DOMAIN-SUFFIX,yahoo.se,PROXY
+DOMAIN-SUFFIX,yahoo.sg,PROXY
+DOMAIN-SUFFIX,yahoo.sh,PROXY
+DOMAIN-SUFFIX,yahoo.si,PROXY
+DOMAIN-SUFFIX,yahoo.sk,PROXY
+DOMAIN-SUFFIX,yahoo.sm,PROXY
+DOMAIN-SUFFIX,yahoo.sn,PROXY
+DOMAIN-SUFFIX,yahoo.so,PROXY
+DOMAIN-SUFFIX,yahoo.sr,PROXY
+DOMAIN-SUFFIX,yahoo.st,PROXY
+DOMAIN-SUFFIX,yahoo.tg,PROXY
+DOMAIN-SUFFIX,yahoo.tk,PROXY
+DOMAIN-SUFFIX,yahoo.tl,PROXY
+DOMAIN-SUFFIX,yahoo.tm,PROXY
+DOMAIN-SUFFIX,yahoo.tn,PROXY
+DOMAIN-SUFFIX,yahoo.vg,PROXY
+DOMAIN-SUFFIX,yahoo.ws,PROXY
+
+# Others
+DOMAIN-SUFFIX,maktoob.com,PROXY
+DOMAIN-SUFFIX,myguide.hk,PROXY
+DOMAIN-SUFFIX,techcrunch.com,PROXY
+DOMAIN-SUFFIX,yahoo-news.com.hk,PROXY
+DOMAIN-SUFFIX,yahooapis.com,PROXY
+DOMAIN-SUFFIX,yahoodns.net,PROXY
+DOMAIN-SUFFIX,yahoofinance.com,PROXY
+DOMAIN-SUFFIX,yahoohealth.com,PROXY
+DOMAIN-SUFFIX,yahoomusic.com,PROXY
+DOMAIN-SUFFIX,yahoosandbox.com,PROXY
+DOMAIN-SUFFIX,yahoosportsbook.com,PROXY
+DOMAIN-SUFFIX,yho.com,PROXY
+DOMAIN-SUFFIX,yimg.com,PROXY
+DOMAIN-SUFFIX,yimg.jp,PROXY
+DOMAIN-SUFFIX,ymail.com,PROXY
+DOMAIN-SUFFIX,yusercontent.com,PROXY
+
+DOMAIN,cdn.js7k.com,PROXY
+#end include:yahoo
+
+DOMAIN-SUFFIX,oath.cloud,PROXY
+DOMAIN-SUFFIX,oath.com,PROXY
+DOMAIN-SUFFIX,ouroath.com,PROXY
+DOMAIN-SUFFIX,static-verizon.com,PROXY
+DOMAIN-SUFFIX,uplynk.com,PROXY
+DOMAIN-SUFFIX,verizon.com,PROXY
+DOMAIN-SUFFIX,verizon.net,PROXY
+DOMAIN-SUFFIX,verizonbusinessfios.com,PROXY
+DOMAIN-SUFFIX,verizondigitalmedia.com,PROXY
+DOMAIN-SUFFIX,verizonenterprise.com,PROXY
+DOMAIN-SUFFIX,verizonfios.com,PROXY
+DOMAIN-SUFFIX,verizonmedia.com,PROXY
+DOMAIN-SUFFIX,verizonwireless.com,PROXY
+DOMAIN-SUFFIX,vzw.com,PROXY
+DOMAIN-SUFFIX,xo.com,PROXY
+
+# PKI
+DOMAIN-SUFFIX,omniroot.com,PROXY
+#end include:verizon
+#include:vodafone
+DOMAIN-SUFFIX,myvodafone.com.au,PROXY
+DOMAIN-SUFFIX,myvodafone.com.ws,PROXY
+DOMAIN-SUFFIX,vodafone.co.uk,PROXY
+DOMAIN-SUFFIX,vodafone.com,PROXY
+DOMAIN-SUFFIX,vodafone.com.au,PROXY
+DOMAIN-SUFFIX,vodafone.com.tr,PROXY
+DOMAIN-SUFFIX,vodafone.de,PROXY
+DOMAIN-SUFFIX,vodafone.it,PROXY
+#end include:vodafone
+#include:wisekey
+DOMAIN-SUFFIX,wisecoin.com,PROXY
+DOMAIN-SUFFIX,wiseid.com,PROXY
+DOMAIN-SUFFIX,wisekey.com,PROXY
+DOMAIN-SUFFIX,wisekey.com.hk,PROXY
+#end include:wisekey
+
+DOMAIN-SUFFIX,accv.es,PROXY
+DOMAIN-SUFFIX,camerfirma.com,PROXY
+DOMAIN-SUFFIX,certsign.ro,PROXY
+DOMAIN-SUFFIX,d-trust.net,PROXY
+DOMAIN-SUFFIX,e-szigno.hu,PROXY
+DOMAIN-SUFFIX,e-tugra.com,PROXY
+DOMAIN-SUFFIX,firmaprofesional.com,PROXY
+DOMAIN-SUFFIX,fnmt.es,PROXY
+DOMAIN-SUFFIX,harica.gr,PROXY
+DOMAIN-SUFFIX,infocert.digital,PROXY
+DOMAIN-SUFFIX,infocert.it,PROXY
+DOMAIN-SUFFIX,netlock.hu,PROXY
+DOMAIN-SUFFIX,trustcor.ca,PROXY
+DOMAIN-SUFFIX,trustcor.com,PROXY
+DOMAIN-SUFFIX,trustisfps.com,PROXY

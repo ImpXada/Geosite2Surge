@@ -1,0 +1,7 @@
+# Programmatic Digital Advertising Technology & Solutions | PubMatic
+
+DOMAIN-SUFFIX,pubmatic.com,PROXY
+DOMAIN-SUFFIX,pubmatic.co.jp,PROXY
+
+DOMAIN-SUFFIX,ads.pubmatic.com,PROXY
+#end include:pubmatic-ads

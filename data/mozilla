@@ -1,0 +1,46 @@
+DOMAIN-SUFFIX,firefox.com,PROXY
+DOMAIN-SUFFIX,firefoxusercontent.com,PROXY
+#end include:firefox
+DOMAIN-SUFFIX,developer.allizom.org,PROXY
+DOMAIN-SUFFIX,developer.mozilla.org,PROXY
+DOMAIN-SUFFIX,mdn.allizom.net,PROXY
+DOMAIN-SUFFIX,mdn.dev,PROXY
+DOMAIN-SUFFIX,mdn.mozilla.net,PROXY
+DOMAIN-SUFFIX,mdn.mozit.cloud,PROXY
+DOMAIN-SUFFIX,mdnplay.dev,PROXY
+DOMAIN-SUFFIX,mdnyalp.dev,PROXY
+
+DOMAIN,mdn.mozillademos.org,PROXY
+#end include:mdn
+DOMAIN-SUFFIX,rust-lang.org,PROXY
+DOMAIN-SUFFIX,rustup.rs,PROXY
+DOMAIN-SUFFIX,crates.io,PROXY
+DOMAIN-SUFFIX,docs.rs,PROXY
+#end include:rust
+
+DOMAIN-SUFFIX,mozgcp.net,PROXY
+DOMAIN-SUFFIX,mozilla.com,PROXY
+DOMAIN-SUFFIX,mozilla.community,PROXY
+DOMAIN-SUFFIX,mozilla.net,PROXY
+DOMAIN-SUFFIX,mozilla.org,PROXY
+
+# Add-ons
+DOMAIN-SUFFIX,extensionworkshop.com,PROXY
+
+# Bugzilla
+DOMAIN-SUFFIX,bugzilla.org,PROXY
+
+# Pocket
+DOMAIN-SUFFIX,getpocket.com,PROXY
+
+# SeaMonkey
+DOMAIN-SUFFIX,seamonkey-project.org,PROXY
+
+# Thunderbird
+DOMAIN-SUFFIX,thunderbird.net,PROXY
+
+# Mozilla Location Service
+DOMAIN-SUFFIX,location.services.mozilla.com,PROXY
+
+# Mozilla Push Service
+DOMAIN-SUFFIX,push.services.mozilla.com,PROXY

@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,mydirtyhobby.com,PROXY
+
+# CDN
+DOMAIN-SUFFIX,mdhcdn.com,PROXY

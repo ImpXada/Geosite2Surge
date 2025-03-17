@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,spankbang.com,PROXY
+DOMAIN-SUFFIX,spankbang.party,PROXY
+
+# CDN
+DOMAIN-SUFFIX,sb-cd.com,PROXY

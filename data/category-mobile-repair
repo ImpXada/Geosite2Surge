@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,borneo.world,PROXY
+DOMAIN-SUFFIX,borneoasia.com,PROXY
+DOMAIN-SUFFIX,borneoschematic.com,PROXY
+DOMAIN-SUFFIX,bosharso.net,PROXY
+DOMAIN-SUFFIX,hostborneo.org,PROXY
+#end include:borneoschematics
+DOMAIN-SUFFIX,easy-jtag.com,PROXY
+DOMAIN-SUFFIX,z3x-team.com,PROXY
+#end include:z3x-team
+
+DOMAIN-SUFFIX,androidfilehost.com,PROXY
+DOMAIN-SUFFIX,unlocktool.net,PROXY

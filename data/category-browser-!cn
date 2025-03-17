@@ -1,0 +1,39 @@
+#include:ceno
+DOMAIN-SUFFIX,censorship.no,PROXY
+#end include:ceno
+#include:epicbrowser
+DOMAIN-SUFFIX,epicbrowser.com,PROXY
+#end include:epicbrowser
+#include:firefox
+DOMAIN-SUFFIX,firefox.com,PROXY
+DOMAIN-SUFFIX,firefoxusercontent.com,PROXY
+#end include:firefox
+#include:torproject
+DOMAIN-SUFFIX,torproject.org,PROXY
+#end include:torproject
+
+# chromium
+DOMAIN-SUFFIX,chrome,PROXY
+DOMAIN-SUFFIX,chrome.com,PROXY
+DOMAIN-SUFFIX,chromium.org,PROXY
+
+DOMAIN-SUFFIX,basilisk-browser.org,PROXY
+DOMAIN-SUFFIX,brave.com,PROXY
+DOMAIN-SUFFIX,bromite.org,PROXY
+DOMAIN-SUFFIX,browser.kagi.com,PROXY    #Orion Browser
+DOMAIN-SUFFIX,cromite.org,PROXY
+DOMAIN-SUFFIX,decentr.net,PROXY
+DOMAIN-SUFFIX,dothq.org,PROXY
+DOMAIN-SUFFIX,floorp.app,PROXY
+DOMAIN-SUFFIX,iridiumbrowser.de,PROXY
+DOMAIN-SUFFIX,kiwibrowser.com,PROXY
+DOMAIN-SUFFIX,kmeleonbrowser.org,PROXY
+DOMAIN-SUFFIX,librewolf.net,PROXY
+DOMAIN-SUFFIX,minbrowser.org,PROXY
+DOMAIN-SUFFIX,netsurf-browser.org,PROXY
+DOMAIN-SUFFIX,opera.com,PROXY
+DOMAIN-SUFFIX,palemoon.org,PROXY
+DOMAIN-SUFFIX,pulsebrowser.app,PROXY
+DOMAIN-SUFFIX,qutebrowser.org,PROXY
+DOMAIN-SUFFIX,vivaldi.com,PROXY
+DOMAIN-SUFFIX,waterfox.net,PROXY

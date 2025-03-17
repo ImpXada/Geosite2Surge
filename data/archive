@@ -1,0 +1,10 @@
+#include:4plebs
+DOMAIN-SUFFIX,4pcdn.org,PROXY
+DOMAIN-SUFFIX,4plebs.org,PROXY
+#end include:4plebs
+
+DOMAIN-SUFFIX,archive-it.org,PROXY
+DOMAIN-SUFFIX,archive.org,PROXY
+DOMAIN-SUFFIX,archive.ph,PROXY
+DOMAIN-SUFFIX,archive.today,PROXY
+DOMAIN-SUFFIX,openlibrary.org,PROXY

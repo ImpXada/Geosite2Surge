@@ -1,0 +1,400 @@
+#include:discuz
+DOMAIN-SUFFIX,comsenz.com,PROXY
+DOMAIN-SUFFIX,discuz.net,PROXY
+DOMAIN-SUFFIX,discuz.org,PROXY
+#end include:discuz
+#include:dnspod
+DOMAIN-SUFFIX,dns.pub,PROXY
+DOMAIN-SUFFIX,dnsapi.cn,PROXY
+DOMAIN-SUFFIX,dnspod.cn,PROXY
+DOMAIN-SUFFIX,dnspod.com,PROXY
+DOMAIN-SUFFIX,dnspod.com.cn,PROXY
+DOMAIN-SUFFIX,dnspod.mobi,PROXY
+DOMAIN-SUFFIX,dnspod.net,PROXY
+DOMAIN-SUFFIX,dnspod.org,PROXY
+DOMAIN-SUFFIX,dnsv2.com,PROXY
+DOMAIN-SUFFIX,dnsv3.com,PROXY
+DOMAIN-SUFFIX,dnsv4.com,PROXY
+DOMAIN-SUFFIX,dnsv5.com,PROXY
+DOMAIN-SUFFIX,doh.pub,PROXY
+DOMAIN-SUFFIX,dot.pub,PROXY
+#end include:dnspod
+
+DOMAIN-SUFFIX,acctdns.com,PROXY
+DOMAIN-SUFFIX,acctdns.net,PROXY
+DOMAIN-SUFFIX,aitransfy.com,PROXY
+DOMAIN-SUFFIX,apaas-zone-test.com,PROXY
+DOMAIN-SUFFIX,apigwtencent.com,PROXY
+DOMAIN-SUFFIX,bkapigw.com,PROXY
+DOMAIN-SUFFIX,bkapps.com,PROXY
+DOMAIN-SUFFIX,bkclouds.cc,PROXY
+DOMAIN-SUFFIX,bktencent.com,PROXY
+DOMAIN-SUFFIX,build9s.io,PROXY
+DOMAIN-SUFFIX,byodonline.com,PROXY
+DOMAIN-SUFFIX,cdn-go.cn,PROXY
+DOMAIN-SUFFIX,cdndoctor.com,PROXY
+DOMAIN-SUFFIX,cdngot.com,PROXY
+DOMAIN-SUFFIX,cdntip.com,PROXY
+DOMAIN-SUFFIX,cdntips.com,PROXY
+DOMAIN-SUFFIX,cdntips.net,PROXY
+DOMAIN-SUFFIX,cdnv1.cn,PROXY
+DOMAIN-SUFFIX,cdnv2.cn,PROXY
+DOMAIN-SUFFIX,cdnv3.cn,PROXY
+DOMAIN-SUFFIX,cloud-industry-delivery.site,PROXY
+DOMAIN-SUFFIX,cloudbase.cn,PROXY
+DOMAIN-SUFFIX,cloudbase.net,PROXY
+DOMAIN-SUFFIX,cloudidaas.com,PROXY
+DOMAIN-SUFFIX,cloudsite.vip,PROXY
+DOMAIN-SUFFIX,cncqcloud.com,PROXY
+DOMAIN-SUFFIX,computeinit.com,PROXY
+DOMAIN-SUFFIX,coolsite.vip,PROXY
+DOMAIN-SUFFIX,dnsv1.com,PROXY
+DOMAIN-SUFFIX,dnsv1.com.cn,PROXY
+DOMAIN-SUFFIX,dothework.cn,PROXY
+DOMAIN-SUFFIX,ectencent.cn,PROXY
+DOMAIN-SUFFIX,ectencent.com.cn,PROXY
+DOMAIN-SUFFIX,edgeonedy1.com,PROXY
+DOMAIN-SUFFIX,essurl.com,PROXY
+DOMAIN-SUFFIX,exmailgz.com,PROXY
+DOMAIN-SUFFIX,fsphere.cn,PROXY
+DOMAIN-SUFFIX,gaapqcloud.com,PROXY
+DOMAIN-SUFFIX,gitdrone.cn,PROXY
+DOMAIN-SUFFIX,gmedev.cn,PROXY
+DOMAIN-SUFFIX,govqcloud.com,PROXY
+DOMAIN-SUFFIX,gsadds.com,PROXY
+DOMAIN-SUFFIX,gtm.pub,PROXY
+DOMAIN-SUFFIX,hr-welink.com,PROXY
+DOMAIN-SUFFIX,idcgcloudcs.com,PROXY
+DOMAIN-SUFFIX,iemiq.com,PROXY
+DOMAIN-SUFFIX,igtm-meeting-tencent.com,PROXY
+DOMAIN-SUFFIX,igtm.pub,PROXY
+DOMAIN-SUFFIX,intltencentcos.com,PROXY
+DOMAIN-SUFFIX,isd.com,PROXY
+DOMAIN-SUFFIX,ispqcloud.com,PROXY
+DOMAIN-SUFFIX,itopsdk.com,PROXY
+DOMAIN-SUFFIX,jrzk.net.cn,PROXY
+DOMAIN-SUFFIX,my-qcloud.com,PROXY
+DOMAIN-SUFFIX,myelasticsearch.com,PROXY
+DOMAIN-SUFFIX,myqcloud.com,PROXY
+DOMAIN-SUFFIX,onexmail.com,PROXY
+DOMAIN-SUFFIX,openapp.run,PROXY
+DOMAIN-SUFFIX,ovscdns.com,PROXY
+DOMAIN-SUFFIX,ovscdns.net,PROXY
+DOMAIN-SUFFIX,pn1waq.com,PROXY
+DOMAIN-SUFFIX,qcloud-edumall.com,PROXY
+DOMAIN-SUFFIX,qcloud.com,PROXY
+DOMAIN-SUFFIX,qcloud.la,PROXY
+DOMAIN-SUFFIX,qcloudapps.com,PROXY
+DOMAIN-SUFFIX,qcloudcdn.com,PROXY
+DOMAIN-SUFFIX,qcloudcdntest.cn,PROXY
+DOMAIN-SUFFIX,qcloudclass.com,PROXY
+DOMAIN-SUFFIX,qcloudcos.cn,PROXY
+DOMAIN-SUFFIX,qcloudcos.com,PROXY
+DOMAIN-SUFFIX,qcloudcos.com.cn,PROXY
+DOMAIN-SUFFIX,qclouder.com,PROXY
+DOMAIN-SUFFIX,qcloudgme.com,PROXY
+DOMAIN-SUFFIX,qcloudimg.com,PROXY
+DOMAIN-SUFFIX,qcloudipv6.com,PROXY
+DOMAIN-SUFFIX,qcloudmarket.com,PROXY
+DOMAIN-SUFFIX,qcloudns.com,PROXY
+DOMAIN-SUFFIX,qcloudsmartiot.com,PROXY
+DOMAIN-SUFFIX,qcloudtcic.com,PROXY
+DOMAIN-SUFFIX,qcloudtiw.com,PROXY
+DOMAIN-SUFFIX,qcloudtrip.com,PROXY
+DOMAIN-SUFFIX,qcloudtt.com,PROXY
+DOMAIN-SUFFIX,qcloudwaf.com,PROXY
+DOMAIN-SUFFIX,qdwebim.com,PROXY
+DOMAIN-SUFFIX,qeodns.com,PROXY
+DOMAIN-SUFFIX,qeodns.net,PROXY
+DOMAIN-SUFFIX,qqmra.cn,PROXY
+DOMAIN-SUFFIX,qqmra.com,PROXY
+DOMAIN-SUFFIX,qyunapp.com,PROXY
+DOMAIN-SUFFIX,serverlesscloud.cn,PROXY
+DOMAIN-SUFFIX,smtcdns.com,PROXY
+DOMAIN-SUFFIX,smtcdns.net,PROXY
+DOMAIN-SUFFIX,spcdntip.com,PROXY
+DOMAIN-SUFFIX,spcdntipbak.com,PROXY
+DOMAIN-SUFFIX,spcloudhw.com,PROXY
+DOMAIN-SUFFIX,spcloudhw.net,PROXY
+DOMAIN-SUFFIX,srmkp.cn,PROXY
+DOMAIN-SUFFIX,starlakelab.com,PROXY
+DOMAIN-SUFFIX,tamaegis.com,PROXY
+DOMAIN-SUFFIX,tapd.cn,PROXY
+DOMAIN-SUFFIX,tcdlive.com,PROXY
+DOMAIN-SUFFIX,tcdnhw.com,PROXY
+DOMAIN-SUFFIX,tcdnkcbak.com,PROXY
+DOMAIN-SUFFIX,tcdnlive.com,PROXY
+DOMAIN-SUFFIX,tcdnlivebak1.com,PROXY
+DOMAIN-SUFFIX,tcdnlivebak2.com,PROXY
+DOMAIN-SUFFIX,tcdnos.com,PROXY
+DOMAIN-SUFFIX,tcdnos.net,PROXY
+DOMAIN-SUFFIX,tcdntip.com,PROXY
+DOMAIN-SUFFIX,tcdnvod.com,PROXY
+DOMAIN-SUFFIX,tcdnvodbak.com,PROXY
+DOMAIN-SUFFIX,tcloudbase.com,PROXY
+DOMAIN-SUFFIX,tcloudbase.net,PROXY
+DOMAIN-SUFFIX,tcloudbaseapp.com,PROXY
+DOMAIN-SUFFIX,tcloudbi.com,PROXY
+DOMAIN-SUFFIX,tclouddrive.com,PROXY
+DOMAIN-SUFFIX,tcloudedu.com,PROXY
+DOMAIN-SUFFIX,tcloudhw.com,PROXY
+DOMAIN-SUFFIX,tcloudhw.net,PROXY
+DOMAIN-SUFFIX,tcloudscdn.com,PROXY
+DOMAIN-SUFFIX,tcloudscdn.net,PROXY
+DOMAIN-SUFFIX,tdnsx1.com,PROXY
+DOMAIN-SUFFIX,techo.chat,PROXY
+DOMAIN-SUFFIX,tefscloud.com,PROXY
+DOMAIN-SUFFIX,tefscloud.net,PROXY
+DOMAIN-SUFFIX,tenant-zone-dev.com,PROXY
+DOMAIN-SUFFIX,tencdns.net,PROXY
+DOMAIN-SUFFIX,tencent-cloud.com,PROXY
+DOMAIN-SUFFIX,tencent-cloud.net,PROXY
+DOMAIN-SUFFIX,tencentapps.com,PROXY
+DOMAIN-SUFFIX,tencentbyod.com,PROXY
+DOMAIN-SUFFIX,tencentcdb.cn,PROXY
+DOMAIN-SUFFIX,tencentcdb.com,PROXY
+DOMAIN-SUFFIX,tencentcdb.com.cn,PROXY
+DOMAIN-SUFFIX,tencentclb.com,PROXY
+DOMAIN-SUFFIX,tencentcloud-aiot.com,PROXY
+DOMAIN-SUFFIX,tencentcloudapi.com,PROXY
+DOMAIN-SUFFIX,tencentcloudclub.com,PROXY
+DOMAIN-SUFFIX,tencentcloudcr.com,PROXY
+DOMAIN-SUFFIX,tencentcloudmarket.com,PROXY
+DOMAIN-SUFFIX,tencentcloudns.com,PROXY
+DOMAIN-SUFFIX,tencentcloudsec.com,PROXY
+DOMAIN-SUFFIX,tencentcloudses.com,PROXY
+DOMAIN-SUFFIX,tencentcos.cn,PROXY
+DOMAIN-SUFFIX,tencentcos.com,PROXY
+DOMAIN-SUFFIX,tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,tencentcs.com,PROXY
+DOMAIN-SUFFIX,tencentdayu.com,PROXY
+DOMAIN-SUFFIX,tencentdb.com,PROXY
+DOMAIN-SUFFIX,tencentdevices.com,PROXY
+DOMAIN-SUFFIX,tencentdigitalassistant.com,PROXY
+DOMAIN-SUFFIX,tencentdms.com,PROXY
+DOMAIN-SUFFIX,tencenteiam.com,PROXY
+DOMAIN-SUFFIX,tencentelasticsearch.com,PROXY
+DOMAIN-SUFFIX,tencentid.com,PROXY
+DOMAIN-SUFFIX,tencentidentity.com,PROXY
+DOMAIN-SUFFIX,tencentproxy.com,PROXY
+DOMAIN-SUFFIX,tencentrio.com,PROXY
+DOMAIN-SUFFIX,tencenttid.com,PROXY
+DOMAIN-SUFFIX,tencentwemeet.club,PROXY
+DOMAIN-SUFFIX,tencentwepark.com,PROXY
+DOMAIN-SUFFIX,tencentyun.com,PROXY
+DOMAIN-SUFFIX,tendbcluster.com,PROXY
+DOMAIN-SUFFIX,tendis.net,PROXY
+DOMAIN-SUFFIX,testjrzk.net.cn,PROXY
+DOMAIN-SUFFIX,testmeet.cn,PROXY
+DOMAIN-SUFFIX,testwaf.com,PROXY
+DOMAIN-SUFFIX,tgovcloud.com,PROXY
+DOMAIN-SUFFIX,tidaas.com,PROXY
+DOMAIN-SUFFIX,timatrix.com.cn,PROXY
+DOMAIN-SUFFIX,timmerse.com,PROXY
+DOMAIN-SUFFIX,tlivecdn.com,PROXY
+DOMAIN-SUFFIX,tlivepush.com,PROXY
+DOMAIN-SUFFIX,tlivesource.com,PROXY
+DOMAIN-SUFFIX,tourismshow.cn,PROXY
+DOMAIN-SUFFIX,tourismuser.cn,PROXY
+DOMAIN-SUFFIX,tsparkling.com,PROXY
+DOMAIN-SUFFIX,tx-exhibition.com,PROXY
+DOMAIN-SUFFIX,txbyod.com,PROXY
+DOMAIN-SUFFIX,txidc.wang,PROXY
+DOMAIN-SUFFIX,txlivecdn.com,PROXY
+DOMAIN-SUFFIX,txtyxg.com,PROXY
+DOMAIN-SUFFIX,txyscdn.com,PROXY
+DOMAIN-SUFFIX,txyscdn.net,PROXY
+DOMAIN-SUFFIX,uncnn.cn,PROXY
+DOMAIN-SUFFIX,vcloudstc.com,PROXY
+DOMAIN-SUFFIX,vcloudstc.net,PROXY
+DOMAIN-SUFFIX,vcloudvod.com,PROXY
+DOMAIN-SUFFIX,vodtcbk.com,PROXY
+DOMAIN-SUFFIX,vxo7tu.com,PROXY
+DOMAIN-SUFFIX,wework-studio.com,PROXY
+DOMAIN-SUFFIX,xqymuy.com,PROXY
+DOMAIN-SUFFIX,yufuid.com,PROXY
+DOMAIN-SUFFIX,yufuid.com.cn,PROXY
+DOMAIN-SUFFIX,yufuid.net,PROXY
+DOMAIN-SUFFIX,yunjitele.com,PROXY
+
+# regexp:.+\.dnse[0-5]\.(cn|com)$
+DOMAIN-SUFFIX,dnse0.cn,PROXY
+DOMAIN-SUFFIX,dnse1.cn,PROXY
+DOMAIN-SUFFIX,dnse2.cn,PROXY
+DOMAIN-SUFFIX,dnse3.cn,PROXY
+DOMAIN-SUFFIX,dnse4.cn,PROXY
+DOMAIN-SUFFIX,dnse5.cn,PROXY
+DOMAIN-SUFFIX,dnse0.com,PROXY
+DOMAIN-SUFFIX,dnse1.com,PROXY
+DOMAIN-SUFFIX,dnse2.com,PROXY
+DOMAIN-SUFFIX,dnse3.com,PROXY
+DOMAIN-SUFFIX,dnse4.com,PROXY
+DOMAIN-SUFFIX,dnse5.com,PROXY
+
+# regexp:.+\.tdnsv([1-9]|1[0-5])\.(com|net)$
+DOMAIN-SUFFIX,tdnsv1.com,PROXY
+DOMAIN-SUFFIX,tdnsv2.com,PROXY
+DOMAIN-SUFFIX,tdnsv3.com,PROXY
+DOMAIN-SUFFIX,tdnsv4.com,PROXY
+DOMAIN-SUFFIX,tdnsv5.com,PROXY
+DOMAIN-SUFFIX,tdnsv6.com,PROXY
+DOMAIN-SUFFIX,tdnsv7.com,PROXY
+DOMAIN-SUFFIX,tdnsv8.com,PROXY
+DOMAIN-SUFFIX,tdnsv9.com,PROXY
+DOMAIN-SUFFIX,tdnsv10.com,PROXY
+DOMAIN-SUFFIX,tdnsv11.com,PROXY
+DOMAIN-SUFFIX,tdnsv12.com,PROXY
+DOMAIN-SUFFIX,tdnsv13.com,PROXY
+DOMAIN-SUFFIX,tdnsv14.com,PROXY
+DOMAIN-SUFFIX,tdnsv15.com,PROXY
+DOMAIN-SUFFIX,tdnsv1.net,PROXY
+DOMAIN-SUFFIX,tdnsv2.net,PROXY
+DOMAIN-SUFFIX,tdnsv3.net,PROXY
+DOMAIN-SUFFIX,tdnsv4.net,PROXY
+DOMAIN-SUFFIX,tdnsv5.net,PROXY
+DOMAIN-SUFFIX,tdnsv6.net,PROXY
+DOMAIN-SUFFIX,tdnsv7.net,PROXY
+DOMAIN-SUFFIX,tdnsv8.net,PROXY
+DOMAIN-SUFFIX,tdnsv9.net,PROXY
+DOMAIN-SUFFIX,tdnsv10.net,PROXY
+DOMAIN-SUFFIX,tdnsv11.net,PROXY
+DOMAIN-SUFFIX,tdnsv12.net,PROXY
+DOMAIN-SUFFIX,tdnsv13.net,PROXY
+DOMAIN-SUFFIX,tdnsv14.net,PROXY
+DOMAIN-SUFFIX,tdnsv15.net,PROXY
+
+# myqcloud inside mainland China
+DOMAIN-WILDCARD,.*ap-beijing*.myqcloud.com,PROXY    #北京
+DOMAIN-WILDCARD,.*ap-nanjing*.myqcloud.com,PROXY    #南京
+DOMAIN-WILDCARD,.*ap-shanghai*.myqcloud.com,PROXY    #上海
+DOMAIN-WILDCARD,.*ap-guangzhou*.myqcloud.com,PROXY    #广州
+DOMAIN-WILDCARD,.*ap-chengdu*.myqcloud.com,PROXY    #成都
+DOMAIN-WILDCARD,.*ap-chongqing*.myqcloud.com,PROXY    #重庆
+DOMAIN-WILDCARD,.*ap-shenzhen*.myqcloud.com,PROXY    #深圳
+
+# COS 使用到的非中国大陆的地域与可用区，参见 https://cloud.tencent.com/document/product/436/6224
+DOMAIN-SUFFIX,ap-hongkong.myqcloud.com,PROXY    #中国香港
+DOMAIN-SUFFIX,ap-singapore.myqcloud.com,PROXY    #新加坡
+DOMAIN-SUFFIX,ap-mumbai.myqcloud.com,PROXY    #孟买
+DOMAIN-SUFFIX,ap-jakarta.myqcloud.com,PROXY    #雅加达
+DOMAIN-SUFFIX,ap-seoul.myqcloud.com,PROXY    #首尔
+DOMAIN-SUFFIX,ap-bangkok.myqcloud.com,PROXY    #曼谷
+DOMAIN-SUFFIX,ap-tokyo.myqcloud.com,PROXY    #东京
+DOMAIN-SUFFIX,na-siliconvalley.myqcloud.com,PROXY    #硅谷（美西）
+DOMAIN-SUFFIX,na-ashburn.myqcloud.com,PROXY    #弗吉尼亚（美东）
+DOMAIN-SUFFIX,na-toronto.myqcloud.com,PROXY    #多伦多
+DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com,PROXY    #圣保罗
+DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com,PROXY    #法兰克福
+DOMAIN-SUFFIX,eu-moscow.myqcloud.com,PROXY    #莫斯科
+
+# tencentcos inside mainland China
+DOMAIN-WILDCARD,.*ap-beijing*.tencentcos.,PROXY    #北京
+DOMAIN-WILDCARD,.*ap-nanjing*.tencentcos.,PROXY    #南京
+DOMAIN-WILDCARD,.*ap-shanghai*.tencentcos.,PROXY    #上海
+DOMAIN-WILDCARD,.*ap-guangzhou*.tencentcos.,PROXY    #广州
+DOMAIN-WILDCARD,.*ap-chengdu*.tencentcos.,PROXY    #成都
+DOMAIN-WILDCARD,.*ap-chongqing*.tencentcos.,PROXY    #重庆
+DOMAIN-WILDCARD,.*ap-shenzhen*.tencentcos.,PROXY    #深圳
+
+# tencentcos outside mainland China
+# regexp:.+\.ap-hongkong\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #中国香港
+DOMAIN-SUFFIX,ap-hongkong.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-hongkong.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-hongkong.tencentcos.com.cn,PROXY
+
+# regexp:.+\.ap-singapore\.tencentcos\.(cn|com(\.cn)?)$ @!cn      #新加坡
+DOMAIN-SUFFIX,ap-singapore.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-singapore.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-singapore.tencentcos.com.cn,PROXY
+
+# regexp:.+\.ap-mumbai\.tencentcos\.(cn|com(\.cn)?)$ @!cn         #孟买
+DOMAIN-SUFFIX,ap-mumbai.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-mumbai.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-mumbai.tencentcos.com.cn,PROXY
+
+# regexp:.+\.ap-jakarta\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #雅加达
+DOMAIN-SUFFIX,ap-jakarta.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-jakarta.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-jakarta.tencentcos.com.cn,PROXY
+
+# regexp:.+\.ap-seoul\.tencentcos\.(cn|com(\.cn)?)$ @!cn          #首尔
+DOMAIN-SUFFIX,ap-seoul.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-seoul.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-seoul.tencentcos.com.cn,PROXY
+
+# regexp:.+\.ap-bangkok\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #曼谷
+DOMAIN-SUFFIX,ap-bangkok.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-bangkok.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-bangkok.tencentcos.com.cn,PROXY
+
+# regexp:.+\.ap-tokyo\.tencentcos\.(cn|com(\.cn)?)$ @!cn          #东京
+DOMAIN-SUFFIX,ap-tokyo.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-tokyo.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-tokyo.tencentcos.com.cn,PROXY
+
+# regexp:.+\.na-siliconvalley\.tencentcos\.(cn|com(\.cn)?)$ @!cn  #硅谷（美西）
+DOMAIN-SUFFIX,na-siliconvalley.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com,PROXY
+DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com.cn,PROXY
+
+# regexp:.+\.na-ashburn\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #弗吉尼亚（美东）
+DOMAIN-SUFFIX,na-ashburn.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,na-ashburn.tencentcos.com,PROXY
+DOMAIN-SUFFIX,na-ashburn.tencentcos.com.cn,PROXY
+
+# regexp:.+\.na-toronto\.tencentcos\.(cn|com(\.cn)?)$ @!cn        #多伦多
+DOMAIN-SUFFIX,na-toronto.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,na-toronto.tencentcos.com,PROXY
+DOMAIN-SUFFIX,na-toronto.tencentcos.com.cn,PROXY
+
+# regexp:.+\.sa-saopaulo\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #圣保罗
+DOMAIN-SUFFIX,sa-saopaulo.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com,PROXY
+DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com.cn,PROXY
+
+# regexp:.+\.eu-frankfurt\.tencentcos\.(cn|com(\.cn)?)$ @!cn      #法兰克福
+DOMAIN-SUFFIX,eu-frankfurt.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com,PROXY
+DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com.cn,PROXY
+
+# regexp:.+\.eu-moscow\.tencentcos\.(cn|com(\.cn)?)$ @!cn         #莫斯科
+DOMAIN-SUFFIX,eu-moscow.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,eu-moscow.tencentcos.com,PROXY
+DOMAIN-SUFFIX,eu-moscow.tencentcos.com.cn,PROXY
+
+# Formerly COS Download Domain
+DOMAIN-SUFFIX,costj.myqcloud.com,PROXY    #北京一区（华北）
+DOMAIN-SUFFIX,cosbj.myqcloud.com,PROXY    #北京
+DOMAIN-SUFFIX,cossh.myqcloud.com,PROXY    #上海（华东）
+DOMAIN-SUFFIX,cosgz.myqcloud.com,PROXY    #广州（华南）
+DOMAIN-SUFFIX,coscd.myqcloud.com,PROXY    #成都（西南）
+DOMAIN-SUFFIX,coshk.myqcloud.com,PROXY    #中国香港
+DOMAIN-SUFFIX,cossgp.myqcloud.com,PROXY    #新加坡
+DOMAIN-SUFFIX,cosca.myqcloud.com,PROXY    #多伦多
+DOMAIN-SUFFIX,cosger.myqcloud.com,PROXY    #法兰克福
+
+# Formerly COS Upload Domain
+DOMAIN-SUFFIX,tj.file.myqcloud.com,PROXY    #北京一区（华北）
+DOMAIN-SUFFIX,bj.file.myqcloud.com,PROXY    #北京
+DOMAIN-SUFFIX,sh.file.myqcloud.com,PROXY    #上海（华东）
+DOMAIN-SUFFIX,gz.file.myqcloud.com,PROXY    #广州（华南）
+DOMAIN-SUFFIX,cd.file.myqcloud.com,PROXY    #成都（西南）
+DOMAIN-SUFFIX,hk.file.myqcloud.com,PROXY    #中国香港
+DOMAIN-SUFFIX,sgp.file.myqcloud.com,PROXY    #新加坡
+DOMAIN-SUFFIX,ca.file.myqcloud.com,PROXY    #多伦多
+DOMAIN-SUFFIX,ger.file.myqcloud.com,PROXY    #法兰克福
+
+# Oracle
+DOMAIN-SUFFIX,oracle-tencent.cn,PROXY
+DOMAIN-SUFFIX,oracle-tencent.com,PROXY
+DOMAIN-SUFFIX,oracle-tencent.com.cn,PROXY
+DOMAIN-SUFFIX,oracle-tencent.net,PROXY
+DOMAIN-SUFFIX,oracle-tencent.net.cn,PROXY
+
+# 腾讯优码
+DOMAIN-SUFFIX,m1.run,PROXY
+DOMAIN-SUFFIX,m6.run,PROXY
+DOMAIN-SUFFIX,m9.run,PROXY
+DOMAIN-SUFFIX,ma.run,PROXY
+DOMAIN-SUFFIX,um.run,PROXY
+DOMAIN-SUFFIX,ym.run,PROXY

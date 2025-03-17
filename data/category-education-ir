@@ -1,0 +1,12 @@
+# Iranian education and learning websites
+
+# Course
+DOMAIN-SUFFIX,faradars.org,PROXY
+DOMAIN-SUFFIX,git.ir,PROXY
+DOMAIN-SUFFIX,learnby.ir,PROXY
+DOMAIN-SUFFIX,toplearn.com,PROXY
+
+# Webinar
+DOMAIN-SUFFIX,done.ir,PROXY
+DOMAIN-SUFFIX,iranlms.org,PROXY
+DOMAIN-SUFFIX,webinarplus.online,PROXY

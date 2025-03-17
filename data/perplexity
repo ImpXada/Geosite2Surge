@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,perplexity.ai,PROXY
+DOMAIN-SUFFIX,pplx.ai,PROXY
+
+DOMAIN,pplx-res.cloudinary.com,PROXY

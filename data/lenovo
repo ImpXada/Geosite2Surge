@@ -1,0 +1,75 @@
+# 北京联想调频科技有限公司 京ICP备2023017858号
+DOMAIN-SUFFIX,lenovo.net,PROXY
+
+# 联想百应（天津）科技有限公司 津ICP备19001829号
+DOMAIN-SUFFIX,baiying.cn,PROXY
+DOMAIN-SUFFIX,baiying.com.cn,PROXY
+
+# 联想（北京）有限公司 京ICP备11035381号
+DOMAIN-SUFFIX,cftsupport.com,PROXY
+DOMAIN-SUFFIX,con-c-hybris.lenovo.com,PROXY
+DOMAIN-SUFFIX,ileapcloud.com,PROXY
+DOMAIN-SUFFIX,lenovocloudos.com,PROXY
+DOMAIN-SUFFIX,lenovo.cn,PROXY
+DOMAIN-SUFFIX,lenovo.com,PROXY
+DOMAIN-SUFFIX,lenovo.com.cn,PROXY
+DOMAIN-SUFFIX,lenovoeservice.com,PROXY
+DOMAIN-SUFFIX,lenovovip.com.cn,PROXY
+DOMAIN-SUFFIX,lxzjjt.cn,PROXY
+DOMAIN-SUFFIX,lxzjjt.com,PROXY
+DOMAIN-SUFFIX,thinkcloudlab.com,PROXY
+DOMAIN-SUFFIX,thinkpad.com,PROXY
+DOMAIN-SUFFIX,zhiliaowenda.com.cn,PROXY
+
+# 北京神奇工场科技有限公司 京ICP备15007699号
+DOMAIN-SUFFIX,blurdev.com,PROXY
+DOMAIN-SUFFIX,chainedbox.com,PROXY
+DOMAIN-SUFFIX,fm365.com,PROXY
+DOMAIN-SUFFIX,idea123.cn,PROXY
+DOMAIN-SUFFIX,jhwan.com.cn,PROXY
+DOMAIN-SUFFIX,juhuiwan.com,PROXY
+DOMAIN-SUFFIX,juhuiwan.com.cn,PROXY
+DOMAIN-SUFFIX,juhuiwan.net,PROXY
+DOMAIN-SUFFIX,lenauth.com,PROXY
+DOMAIN-SUFFIX,lenovogame.com,PROXY
+DOMAIN-SUFFIX,lenovomm.cn,PROXY
+DOMAIN-SUFFIX,lenovomm.com,PROXY
+DOMAIN-SUFFIX,lx.pub,PROXY
+DOMAIN-SUFFIX,lx.run,PROXY
+DOMAIN-SUFFIX,surepush.cn,PROXY
+DOMAIN-SUFFIX,zui.cn,PROXY
+DOMAIN-SUFFIX,zui.com,PROXY
+DOMAIN-SUFFIX,zuk.cn,PROXY
+DOMAIN-SUFFIX,zuk.com,PROXY
+DOMAIN-SUFFIX,zuk.com.cn,PROXY
+
+# 联想移动通信科技有限公司 闽ICP备05023775号
+DOMAIN-SUFFIX,lenovocare.com.cn,PROXY
+DOMAIN-SUFFIX,lenovocust.cn,PROXY
+DOMAIN-SUFFIX,lenovomobile.com,PROXY
+
+# 联想凌拓科技有限公司北京分公司 京ICP备19022858号
+DOMAIN-SUFFIX,cunchuhulian-ln.cn,PROXY
+DOMAIN-SUFFIX,lenovonetapp.com,PROXY
+
+# 联想图像（北京）科技有限公司 京ICP备17065633号
+DOMAIN-SUFFIX,dayin8.com,PROXY
+DOMAIN-SUFFIX,iprintworks.cn,PROXY
+DOMAIN-SUFFIX,lenovoimage.cn,PROXY
+DOMAIN-SUFFIX,lenovoimage.com,PROXY
+DOMAIN-SUFFIX,lenovoprinter.com,PROXY
+DOMAIN-SUFFIX,lenovoprinter.com.cn,PROXY
+DOMAIN-SUFFIX,lenovoprinter.net,PROXY
+DOMAIN-SUFFIX,thinkprinter.cn,PROXY
+DOMAIN-SUFFIX,thinkprinter.com.cn,PROXY
+DOMAIN-SUFFIX,thinkprinter.net,PROXY
+DOMAIN-SUFFIX,zxsales.cn,PROXY
+
+# 天津联想协同科技有限公司 津ICP备17010760号
+DOMAIN-SUFFIX,bestrhy.com,PROXY
+DOMAIN-SUFFIX,filez.com,PROXY
+DOMAIN-SUFFIX,lenovofile.com,PROXY
+DOMAIN-SUFFIX,lenovopoc.com,PROXY
+
+# CDN
+DOMAIN-SUFFIX,lenovo.com.cdn.cloudflare.net,PROXY

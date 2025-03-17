@@ -1,0 +1,21 @@
+# Iranian shopping websites
+#include:divar
+DOMAIN-SUFFIX,divar.cloud,PROXY
+DOMAIN-SUFFIX,divar.ir,PROXY
+DOMAIN-SUFFIX,divarcdn.com,PROXY
+#end include:divar
+
+DOMAIN-SUFFIX,digi-kala.com,PROXY
+DOMAIN-SUFFIX,emalls.ir,PROXY
+DOMAIN-SUFFIX,esam.ir,PROXY
+DOMAIN-SUFFIX,janebi.com,PROXY
+DOMAIN-SUFFIX,janebi.ir,PROXY
+DOMAIN-SUFFIX,sheypoor.com,PROXY
+DOMAIN-SUFFIX,torob.com,PROXY
+DOMAIN-SUFFIX,zanbil.ir,PROXY
+
+# Digikala
+DOMAIN-SUFFIX,digikala.com,PROXY
+DOMAIN-SUFFIX,digikalabusiness.com,PROXY
+DOMAIN-SUFFIX,digikalajet.com,PROXY
+DOMAIN-SUFFIX,digistyle.com,PROXY

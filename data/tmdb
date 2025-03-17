@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,themoviedb.org,PROXY
+DOMAIN-SUFFIX,tmdb.org,PROXY
+
+DOMAIN,tmdb-image-prod.b-cdn.net,PROXY

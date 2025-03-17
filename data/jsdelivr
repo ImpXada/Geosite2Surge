@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,jsdelivr.com,PROXY
+DOMAIN-SUFFIX,jsdelivr.net,PROXY
+DOMAIN-SUFFIX,esm.run,PROXY
+
+DOMAIN,cdn.jsdelivr.net,PROXY

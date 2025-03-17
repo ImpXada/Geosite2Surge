@@ -1,0 +1,51 @@
+DOMAIN-SUFFIX,cloud.189.cn,PROXY    #天翼云盘
+DOMAIN-SUFFIX,ctfile.com,PROXY    #城通网盘
+DOMAIN-SUFFIX,feimaoyun.com,PROXY    #飞猫盘
+DOMAIN-SUFFIX,filez.com,PROXY    #联想企业网盘
+DOMAIN-SUFFIX,jianguoyun.com,PROXY    #坚果云
+DOMAIN-SUFFIX,pan.baidu.com,PROXY    #百度网盘
+DOMAIN-SUFFIX,pan.quark.cn,PROXY    #夸克网盘
+DOMAIN-SUFFIX,pan.xunlei.com,PROXY    #迅雷云盘
+DOMAIN-SUFFIX,weiyun.com,PROXY    #微云
+DOMAIN-SUFFIX,yun.139.com,PROXY    #中国移动云盘
+DOMAIN-SUFFIX,yunpan.com,PROXY    #360安全云盘
+
+# 123云盘
+DOMAIN-SUFFIX,123pan.cn,PROXY
+DOMAIN-SUFFIX,123pan.com,PROXY
+
+# 阿里云盘
+DOMAIN-SUFFIX,alipan.com,PROXY
+DOMAIN-SUFFIX,aliyundrive.com,PROXY
+DOMAIN-SUFFIX,yunpan.aliyun.com,PROXY
+
+# 蓝奏云
+DOMAIN-SUFFIX,baidupan.com,PROXY
+DOMAIN-SUFFIX,ilanzou.com,PROXY
+DOMAIN-SUFFIX,lanosso.com,PROXY
+DOMAIN-SUFFIX,lanrar.com,PROXY
+DOMAIN-SUFFIX,lanzou.com,PROXY
+DOMAIN-SUFFIX,lanzoub.com,PROXY
+DOMAIN-SUFFIX,lanzouc.com,PROXY
+DOMAIN-SUFFIX,lanzoue.com,PROXY
+DOMAIN-SUFFIX,lanzouf.com,PROXY
+DOMAIN-SUFFIX,lanzoug.com,PROXY
+DOMAIN-SUFFIX,lanzouh.com,PROXY
+DOMAIN-SUFFIX,lanzoui.com,PROXY
+DOMAIN-SUFFIX,lanzouj.com,PROXY
+DOMAIN-SUFFIX,lanzouk.com,PROXY
+DOMAIN-SUFFIX,lanzoul.com,PROXY
+DOMAIN-SUFFIX,lanzoum.com,PROXY
+DOMAIN-SUFFIX,lanzouo.com,PROXY
+DOMAIN-SUFFIX,lanzoup.com,PROXY
+DOMAIN-SUFFIX,lanzouq.com,PROXY
+DOMAIN-SUFFIX,lanzous.com,PROXY
+DOMAIN-SUFFIX,lanzout.com,PROXY
+DOMAIN-SUFFIX,lanzouu.com,PROXY
+DOMAIN-SUFFIX,lanzouv.com,PROXY
+DOMAIN-SUFFIX,lanzouw.com,PROXY
+DOMAIN-SUFFIX,lanzoux.com,PROXY
+DOMAIN-SUFFIX,lanzouy.com,PROXY
+DOMAIN-SUFFIX,lanzov.com,PROXY
+DOMAIN-SUFFIX,woozooo.com,PROXY
+#end include:lanzou

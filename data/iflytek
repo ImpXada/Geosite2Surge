@@ -1,0 +1,23 @@
+# 科大讯飞官网
+DOMAIN-SUFFIX,iflytek.com,PROXY
+
+# 科大讯飞官方商城
+DOMAIN-SUFFIX,xunfei.cn,PROXY
+
+# 讯飞读写
+DOMAIN-SUFFIX,iflyink.com,PROXY
+
+# 讯飞听见
+DOMAIN-SUFFIX,iflyrec.com,PROXY
+
+# e听说中学
+DOMAIN-SUFFIX,ets100.com,PROXY
+
+# 智学网
+DOMAIN-SUFFIX,zhixue.com,PROXY
+
+#畅言教育开放平台
+DOMAIN-SUFFIX,changyan.com,PROXY
+
+#科大讯飞AI学习机官网
+DOMAIN-SUFFIX,xunfeixxj.com,PROXY

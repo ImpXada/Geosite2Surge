@@ -1,0 +1,37 @@
+DOMAIN-SUFFIX,cctv.cn,PROXY
+DOMAIN-SUFFIX,cctv.com,PROXY
+DOMAIN-SUFFIX,cctvpic.com,PROXY
+DOMAIN-SUFFIX,chinaepg.cn,PROXY
+DOMAIN-SUFFIX,chinalive.com,PROXY
+DOMAIN-SUFFIX,citv.net.cn,PROXY
+DOMAIN-SUFFIX,cnms.net.cn,PROXY
+DOMAIN-SUFFIX,cntv.cn,PROXY
+DOMAIN-SUFFIX,cntv.com.cn,PROXY
+DOMAIN-SUFFIX,cctvlib.cn,PROXY
+DOMAIN-SUFFIX,cctvlibrary.cn,PROXY
+DOMAIN-SUFFIX,cctvlib.com.cn,PROXY
+DOMAIN-SUFFIX,cctvlibrary.com.cn,PROXY
+DOMAIN-SUFFIX,cctvpro.cn,PROXY
+DOMAIN-SUFFIX,cctvpro.com.cn,PROXY
+DOMAIN-SUFFIX,cntvwb.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.com.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.net.cn,PROXY
+DOMAIN-SUFFIX,ipanda.cn,PROXY
+DOMAIN-SUFFIX,ipanda.com,PROXY
+DOMAIN-SUFFIX,ipanda.com.cn,PROXY
+DOMAIN-SUFFIX,ipanda.net,PROXY
+DOMAIN-SUFFIX,livechina.cn,PROXY
+DOMAIN-SUFFIX,livechina.com,PROXY
+DOMAIN-SUFFIX,olympicchannelchina.cn,PROXY
+DOMAIN-SUFFIX,tvcc.cn,PROXY
+DOMAIN-SUFFIX,tvcc.com.cn,PROXY
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn,PROXY    #中国广播电视总台.cn
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn,PROXY    #中央广播电视总台.cn
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s,PROXY    #中国广播电视总台.中国
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn,PROXY    #国家广播电视总台.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s,PROXY    #国家广播电视总台.中国
+DOMAIN-SUFFIX,zggbdszt.cn,PROXY
+DOMAIN-SUFFIX,zggbdszt.com.cn,PROXY
+DOMAIN-SUFFIX,zggbdszt.net.cn,PROXY
+DOMAIN-SUFFIX,zygbdszt.net.cn,PROXY

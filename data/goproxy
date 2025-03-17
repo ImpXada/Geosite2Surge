@@ -1,0 +1,3 @@
+# go mod proxy
+DOMAIN-SUFFIX,goproxy.cn,PROXY
+DOMAIN-SUFFIX,goproxy.io,PROXY

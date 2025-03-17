@@ -1,0 +1,127 @@
+DOMAIN-SUFFIX,cfblob.com,PROXY
+DOMAIN-SUFFIX,cloudchoose.com,PROXY
+DOMAIN-SUFFIX,cloudvolumes.com,PROXY
+DOMAIN-SUFFIX,cmpaas.com,PROXY
+DOMAIN-SUFFIX,cpedge.com,PROXY
+DOMAIN-SUFFIX,crit-staging.com,PROXY
+DOMAIN-SUFFIX,experience-vmware.com,PROXY
+DOMAIN-SUFFIX,gemfire.net,PROXY
+DOMAIN-SUFFIX,geodesummit.com,PROXY
+DOMAIN-SUFFIX,getboxer.com,PROXY
+DOMAIN-SUFFIX,gitstar.com,PROXY
+DOMAIN-SUFFIX,gitstar.net,PROXY
+DOMAIN-SUFFIX,gopivotal.net,PROXY
+DOMAIN-SUFFIX,greenplum.net,PROXY
+DOMAIN-SUFFIX,hwslabs.com,PROXY
+DOMAIN-SUFFIX,immidio.com,PROXY
+DOMAIN-SUFFIX,itfromtheinside.com,PROXY
+DOMAIN-SUFFIX,latamvmwareforum.com,PROXY
+DOMAIN-SUFFIX,pivotalinitiative.com,PROXY
+DOMAIN-SUFFIX,snapvolumes.com,PROXY
+DOMAIN-SUFFIX,ssdevrd.com,PROXY
+DOMAIN-SUFFIX,vcanedge.com,PROXY
+DOMAIN-SUFFIX,vcloudair.net,PROXY
+DOMAIN-SUFFIX,vfabric.net,PROXY
+DOMAIN-SUFFIX,vidmpreview.com,PROXY
+DOMAIN-SUFFIX,virsto.com,PROXY
+DOMAIN-SUFFIX,virsto.net,PROXY
+DOMAIN-SUFFIX,vmglobal.net,PROXY
+DOMAIN-SUFFIX,vmmark.com,PROXY
+DOMAIN-SUFFIX,vmtestdrive.com,PROXY
+DOMAIN-SUFFIX,vmw.com,PROXY
+DOMAIN-SUFFIX,vmware-cloudmanagement.com,PROXY
+DOMAIN-SUFFIX,vmware-techcenter.com,PROXY
+DOMAIN-SUFFIX,vmware.com,PROXY
+DOMAIN-SUFFIX,vmware20mosaic.com,PROXY
+DOMAIN-SUFFIX,vmwareausnews.com,PROXY
+DOMAIN-SUFFIX,vmwarecertificationvideos.com,PROXY
+DOMAIN-SUFFIX,vmwarecloud.com,PROXY
+DOMAIN-SUFFIX,vmwaredemandcenter.com,PROXY
+DOMAIN-SUFFIX,vmwareemeablog.com,PROXY
+DOMAIN-SUFFIX,vmwaregrid.com,PROXY
+DOMAIN-SUFFIX,vmwarehorizon.com,PROXY
+DOMAIN-SUFFIX,vmwareidentity.com,PROXY
+DOMAIN-SUFFIX,vmwarelearning.com,PROXY
+DOMAIN-SUFFIX,vmwarelearningplatform.com,PROXY
+DOMAIN-SUFFIX,vmwarestuff.com,PROXY
+DOMAIN-SUFFIX,vmwareusergroupstore.com,PROXY
+DOMAIN-SUFFIX,vmwareviewpoint.com,PROXY
+DOMAIN-SUFFIX,vmwarevmc.com,PROXY
+DOMAIN-SUFFIX,vmwdemo.com,PROXY
+DOMAIN-SUFFIX,vmwgcomms.com,PROXY
+DOMAIN-SUFFIX,vmwhorizonair.com,PROXY
+DOMAIN-SUFFIX,vmwidm-ads.com,PROXY
+DOMAIN-SUFFIX,vmwidm.com,PROXY
+DOMAIN-SUFFIX,vmwlabconnect.com,PROXY
+DOMAIN-SUFFIX,vmwlearningplatform.com,PROXY
+DOMAIN-SUFFIX,vmworld.com,PROXY
+DOMAIN-SUFFIX,vmworld2010.com,PROXY
+DOMAIN-SUFFIX,vmworld2013.com,PROXY
+DOMAIN-SUFFIX,vmwsalesrewards.com,PROXY
+DOMAIN-SUFFIX,vmwservices.com,PROXY
+DOMAIN-SUFFIX,vnware.net,PROXY
+DOMAIN-SUFFIX,whychoosehorizon.com,PROXY
+DOMAIN-SUFFIX,whychooseview.com,PROXY
+DOMAIN-SUFFIX,whychoosevmwareeuc.com,PROXY
+DOMAIN-SUFFIX,windowsuem.com,PROXY
+DOMAIN-SUFFIX,workspaceair.com,PROXY
+DOMAIN-SUFFIX,xlstudio.com,PROXY
+
+# Avi Networks
+DOMAIN-SUFFIX,avinetworks.com,PROXY
+DOMAIN-SUFFIX,badaas.com,PROXY
+
+# Bitnami
+DOMAIN-SUFFIX,bitnami.com,PROXY
+DOMAIN-SUFFIX,bitnamiapp.com,PROXY
+DOMAIN-SUFFIX,bitnamistudio.com,PROXY
+DOMAIN-SUFFIX,dockerizer.com,PROXY
+
+# Cloud Cred
+DOMAIN-SUFFIX,cloudcredibility.com,PROXY
+
+# CloudHealth
+DOMAIN-SUFFIX,cloudhealthtech.com,PROXY
+DOMAIN-SUFFIX,cloudlive.com,PROXY
+
+# Kube
+DOMAIN-SUFFIX,kubeacademy.com,PROXY
+DOMAIN-SUFFIX,kubeapps.com,PROXY
+
+# Nyansa
+DOMAIN-SUFFIX,nyansa.com,PROXY
+
+# VeloCloud
+DOMAIN-SUFFIX,velocloud.com,PROXY
+
+# VMware Tanzu Portfolio
+DOMAIN-SUFFIX,gopivotal.com,PROXY
+DOMAIN-SUFFIX,heptio.cn,PROXY
+DOMAIN-SUFFIX,heptio.com,PROXY
+
+# vRealize Operations
+DOMAIN-SUFFIX,aliveipc.com,PROXY
+DOMAIN-SUFFIX,aliveitsm.com,PROXY
+DOMAIN-SUFFIX,aliveprofiler.com,PROXY
+DOMAIN-SUFFIX,alivercm.com,PROXY
+DOMAIN-SUFFIX,aliverewind.com,PROXY
+DOMAIN-SUFFIX,alivertsm.com,PROXY
+DOMAIN-SUFFIX,alivevm.com,PROXY
+DOMAIN-SUFFIX,alivevmax.com,PROXY
+DOMAIN-SUFFIX,alivevue.com,PROXY
+
+# vSphere
+DOMAIN-SUFFIX,vsphere.com,PROXY
+DOMAIN-SUFFIX,vsphere.net,PROXY
+
+# Workspace ONE
+DOMAIN-SUFFIX,air-watch.com,PROXY
+DOMAIN-SUFFIX,airwatchexpress.com,PROXY
+DOMAIN-SUFFIX,airwatchqa.com,PROXY
+DOMAIN-SUFFIX,getws1.com,PROXY
+DOMAIN-SUFFIX,getwsone.com,PROXY
+DOMAIN-SUFFIX,whatisairwatch.com,PROXY
+DOMAIN-SUFFIX,whatisworkspaceone.com,PROXY
+DOMAIN-SUFFIX,workspaceone.com,PROXY
+
+DOMAIN,vmware.tt.omtrdc.net,PROXY

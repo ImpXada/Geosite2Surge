@@ -1,0 +1,38 @@
+# Reference: https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%8F%AF%E6%96%87%E5%AA%92%E9%AB%94
+
+# 世华媒体
+DOMAIN-SUFFIX,mediachinese.com,PROXY
+
+# 星洲网
+DOMAIN-SUFFIX,mysinchew.com,PROXY
+DOMAIN-SUFFIX,sinchew.com.my,PROXY
+DOMAIN-SUFFIX,sinchew.my,PROXY
+DOMAIN-SUFFIX,soccerfanz.com.my,PROXY
+
+# 南洋商报
+DOMAIN-SUFFIX,enanyang.my,PROXY
+
+# 中国报
+DOMAIN-SUFFIX,chinapress.com.my,PROXY
+
+# 光明日报
+DOMAIN-SUFFIX,guangming.com.my,PROXY
+
+# 明报
+DOMAIN-SUFFIX,mingpao.com,PROXY
+DOMAIN-SUFFIX,mingpaocanada.com,PROXY
+DOMAIN-SUFFIX,mingpaomonthly.com,PROXY
+DOMAIN-SUFFIX,mingpaotor.com,PROXY
+DOMAIN-SUFFIX,mingpaovan.com,PROXY
+DOMAIN-SUFFIX,mingshengbao.com,PROXY
+DOMAIN-SUFFIX,mingwatch.com,PROXY
+DOMAIN-SUFFIX,mpfinance.com,PROXY
+DOMAIN-SUFFIX,mpweekly.com,PROXY
+
+# 亚洲周刊
+DOMAIN-SUFFIX,yzzk.com,PROXY
+
+# 万华媒体
+DOMAIN-SUFFIX,omghk.com,PROXY
+DOMAIN-SUFFIX,mings.hk,PROXY
+DOMAIN-SUFFIX,mings-fashion.com,PROXY

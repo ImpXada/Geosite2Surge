@@ -1,0 +1,18 @@
+# Hewlett Packard Enterprise Development, L. P.
+DOMAIN-SUFFIX,greenlakeaas.com,PROXY
+DOMAIN-SUFFIX,greenlakehybridcloud.com,PROXY
+DOMAIN-SUFFIX,hewlett-packard.asia,PROXY
+DOMAIN-SUFFIX,hewlett-packard.ch,PROXY
+DOMAIN-SUFFIX,hewlett-packard.co.il,PROXY
+DOMAIN-SUFFIX,hewlett-packard.co.uk,PROXY
+DOMAIN-SUFFIX,hewlett-packard.co,PROXY
+DOMAIN-SUFFIX,hewlett-packard.com.cn,PROXY
+DOMAIN-SUFFIX,hewlett-packard.com.mx,PROXY
+DOMAIN-SUFFIX,hewlett-packard.com.sg,PROXY
+DOMAIN-SUFFIX,hewlett-packard.jp,PROXY
+DOMAIN-SUFFIX,hewlett-packard.mobi,PROXY
+DOMAIN-SUFFIX,hewlettpackard.enterprises,PROXY
+DOMAIN-SUFFIX,hpe.com,PROXY
+DOMAIN-SUFFIX,hpecyber.com,PROXY
+
+DOMAIN,hpefonts.s3.amazonaws.com,PROXY
