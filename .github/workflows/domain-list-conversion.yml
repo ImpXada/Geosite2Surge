@@ -1,0 +1,46 @@
+name: Domain List Conversion
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Run weekly on Sunday at midnight
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Clone domain-list-community repository
+        run: |
+          git clone https://github.com/v2fly/domain-list-community.git
+          
+      - name: Run convert.py script
+        run: |
+          # Assuming convert.py is in the root of your repository
+          python convert.py
+        
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add all changes in the data directory
+          git add data/
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update domain list data [skip ci]"
+            git push origin ${GITHUB_REF##*/}
+          fi
