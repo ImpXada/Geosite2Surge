@@ -1,6 +1,0 @@
-DOMAIN-SUFFIX,teamviewer.cn,PROXY
-DOMAIN-SUFFIX,teamviewer.com,PROXY
-DOMAIN-SUFFIX,teamviewer.us,PROXY
-
-DOMAIN,client-teamviewer-com.trafficmanager.net,PROXY
-DOMAIN,teamviewer.com.cdn.cloudflare.net,PROXY

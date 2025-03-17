@@ -1,5 +1,0 @@
-# Subscene main site
-DOMAIN-SUFFIX,subscene.com,PROXY
-
-# Subscene image hosting site
-DOMAIN,i.jeded.com,PROXY

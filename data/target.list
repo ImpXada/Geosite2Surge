@@ -1,5 +1,0 @@
-# All .target domains
-DOMAIN-SUFFIX,target,PROXY
-
-DOMAIN-SUFFIX,target.com,PROXY
-DOMAIN-SUFFIX,targetimg1.com,PROXY

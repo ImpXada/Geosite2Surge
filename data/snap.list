@@ -1,9 +1,0 @@
-DOMAIN-SUFFIX,snapads.com,PROXY
-
-DOMAIN-SUFFIX,sc-cdn.net,PROXY
-DOMAIN-SUFFIX,snap-dev.net,PROXY
-DOMAIN-SUFFIX,snap.com,PROXY
-DOMAIN-SUFFIX,snapchat.com,PROXY
-DOMAIN-SUFFIX,snapkit.co,PROXY
-
-DOMAIN,impala-media-production.s3.amazonaws.com,PROXY

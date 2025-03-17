@@ -1,8 +1,0 @@
-DOMAIN-SUFFIX,amp.dev,PROXY
-DOMAIN-SUFFIX,ampproject.com,PROXY
-DOMAIN-SUFFIX,ampproject.net,PROXY
-DOMAIN-SUFFIX,ampproject.org,PROXY
-
-DOMAIN,cdn.ampproject.org,PROXY
-
-DOMAIN,amp.akamaized.net,PROXY

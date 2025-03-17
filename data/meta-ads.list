@@ -1,9 +1,0 @@
-#include:facebook-ads
-DOMAIN-SUFFIX,analytics.facebook.com,PROXY
-DOMAIN-SUFFIX,pixel.facebook.com,PROXY
-#include:instagram-ads
-DOMAIN-SUFFIX,graph.instagram.com,PROXY
-DOMAIN-SUFFIX,graph-fallback.instagram.com,PROXY
-#include:whatsapp-ads
-DOMAIN-SUFFIX,graph.whatsapp.com,PROXY
-DOMAIN-SUFFIX,graph.whatsapp.net,PROXY

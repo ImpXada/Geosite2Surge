@@ -1,6 +1,0 @@
-DOMAIN-SUFFIX,anthropic.com,PROXY
-DOMAIN-SUFFIX,claude.ai,PROXY
-DOMAIN-SUFFIX,claudeusercontent.com,PROXY
-
-# CDN
-DOMAIN,servd-anthropic-website.b-cdn.net,PROXY

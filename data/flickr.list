@@ -1,7 +1,0 @@
-# All .flickr domains
-DOMAIN-SUFFIX,flickr,PROXY
-
-DOMAIN-SUFFIX,flic.kr,PROXY
-DOMAIN-SUFFIX,flickr.com,PROXY
-DOMAIN-SUFFIX,flickr.net,PROXY
-DOMAIN-SUFFIX,staticflickr.com,PROXY

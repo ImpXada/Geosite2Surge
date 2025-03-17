@@ -1,6 +1,0 @@
-# All .mit domains
-DOMAIN-SUFFIX,mit,PROXY
-
-DOMAIN-SUFFIX,mit.edu,PROXY
-DOMAIN-SUFFIX,mit.net,PROXY
-DOMAIN-SUFFIX,mitpressjournals.org,PROXY

@@ -1,7 +1,0 @@
-DOMAIN-SUFFIX,mypikpak.com,PROXY
-DOMAIN-SUFFIX,mypikpak.net,PROXY
-DOMAIN-SUFFIX,pikpak.me,PROXY
-DOMAIN-SUFFIX,pikpakdrive.com,PROXY
-
-# tracking
-DOMAIN,o4504926511693824.ingest.sentry.io,PROXY

@@ -1,8 +1,0 @@
-DOMAIN,certs-lb.apple.com.akadns.net,PROXY
-DOMAIN,certs.apple.com,PROXY
-DOMAIN,crl-lb.apple.com.akadns.net,PROXY
-DOMAIN,crl.apple.com,PROXY
-DOMAIN,ocsp-lb.apple.com.akadns.net,PROXY
-DOMAIN,ocsp.apple.com,PROXY
-DOMAIN,ocsp2-lb.apple.com.akadns.net,PROXY
-DOMAIN,ocsp2.apple.com,PROXY
