@@ -206,6 +206,7 @@ def convert_geosite_to_surge(geosite_dir: str, output_dir: str):
                         with open(included_path, 'r', encoding='utf-8') as inc_f:
                             for inc_line in inc_f:
                                 f.write(inc_line)
+                        f.write(f"#end include:{included_file}\n")
                         continue
                     else:
                         unfinished_files.append(file)
@@ -242,6 +243,7 @@ def convert_unfinished_files(geosite_dir: str, output_dir: str):
                         with open(included_path, 'r', encoding='utf-8') as inc_f:
                             for inc_line in inc_f:
                                 f.write(inc_line)
+                        f.write(f"#end include:{included_file}\n")
                         continue
                     else:
                         continue
