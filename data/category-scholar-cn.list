@@ -1,0 +1,112 @@
+# This list contains scholarly domains that have access point in China Mainland.
+
+#include:cas
+# some website in China Academy of Science
+DOMAIN-SUFFIX,csdl.ac.cn,PROXY
+DOMAIN-SUFFIX,iscas.ac.cn,PROXY
+DOMAIN-SUFFIX,las.ac.cn,PROXY
+#include:chaoxing
+DOMAIN-SUFFIX,16q.cn,PROXY
+DOMAIN-SUFFIX,5read.com,PROXY
+DOMAIN-SUFFIX,aichaoxing.com,PROXY
+DOMAIN-SUFFIX,chaoxing.cc,PROXY
+DOMAIN-SUFFIX,chaoxing.com,PROXY
+DOMAIN-SUFFIX,chaoxingv.com,PROXY
+DOMAIN-SUFFIX,cxbiji.com,PROXY
+DOMAIN-SUFFIX,dayainfo.com,PROXY
+DOMAIN-SUFFIX,hongbo100.com,PROXY
+DOMAIN-SUFFIX,lnlib.net,PROXY
+DOMAIN-SUFFIX,mndqlib.net,PROXY
+DOMAIN-SUFFIX,mti100.com,PROXY
+DOMAIN-SUFFIX,nihaoafrica.org,PROXY
+DOMAIN-SUFFIX,nihaorwanda.cn,PROXY
+DOMAIN-SUFFIX,sslawy.com,PROXY
+DOMAIN-SUFFIX,sslibrary.com,PROXY
+DOMAIN-SUFFIX,ssreader.cn,PROXY
+DOMAIN-SUFFIX,ssreader.com.cn,PROXY
+DOMAIN-SUFFIX,ssvideo.cn,PROXY
+DOMAIN-SUFFIX,ssvideo.com.cn,PROXY
+DOMAIN-SUFFIX,study360.com.cn,PROXY
+DOMAIN-SUFFIX,superlib.com,PROXY
+DOMAIN-SUFFIX,superlib.net,PROXY
+DOMAIN-SUFFIX,uonline-sh.com,PROXY
+DOMAIN-SUFFIX,uonline-sh.net,PROXY
+DOMAIN-SUFFIX,xuexi365.com,PROXY
+DOMAIN-SUFFIX,xuexi365.com.cn,PROXY
+DOMAIN-SUFFIX,xuexi365.net,PROXY
+DOMAIN-SUFFIX,xxtmail.com,PROXY
+DOMAIN-SUFFIX,ylike.net,PROXY
+DOMAIN-SUFFIX,zaifan.com,PROXY
+DOMAIN-SUFFIX,zaifan.com.cn,PROXY
+DOMAIN-SUFFIX,zhihang100.com,PROXY
+#include:cnki
+DOMAIN-SUFFIX,cnki.com.cn,PROXY
+DOMAIN-SUFFIX,cnki.net,PROXY
+
+# 国际 DOI 中国注册与服务中心
+DOMAIN-SUFFIX,chndoi.org,PROXY
+#include:wanfang
+DOMAIN-SUFFIX,wanfangdata.com.cn,PROXY
+DOMAIN-SUFFIX,wf.pub,PROXY
+
+DOMAIN-SUFFIX,51ccd.com,PROXY    #商务数据库-进出口货物贸易数据分库
+DOMAIN-SUFFIX,airitilibrary.cn,PROXY    #华艺学术文献数据库
+DOMAIN-SUFFIX,ancientbooks.cn,PROXY    #籍合网
+
+DOMAIN-SUFFIX,apabi.com,PROXY
+DOMAIN-SUFFIX,bjinfobank.com,PROXY    #高校数据财经库
+DOMAIN-SUFFIX,blyun.com,PROXY    #百链
+DOMAIN-SUFFIX,chinabooktrading.com,PROXY    #中国历代典籍总目
+DOMAIN-SUFFIX,cidp.com.cn,PROXY    #CIDP制造业数字资源平台
+DOMAIN-SUFFIX,cnbksy.com,PROXY    #全国报刊索引
+
+# CCF 中国计算机学会
+DOMAIN-SUFFIX,ccf.org.cn,PROXY
+DOMAIN-SUFFIX,cspro.org,PROXY    #CCF 计算机职业资格认证管理系统
+DOMAIN-SUFFIX,noi.cn,PROXY    #NOI 全国青少年信息学奥林匹克竞赛
+
+# 中科软股教育科技
+DOMAIN-SUFFIX,cnsciedu.com,PROXY
+DOMAIN-SUFFIX,ibcet.org,PROXY    #中科IBCET大学英语四六级网考系统
+DOMAIN-SUFFIX,medicexam.net,PROXY    #中科MedicExam医学三基培训考核数据库
+DOMAIN-SUFFIX,umajor.net,PROXY    #中科UMajor专业课学习系统
+DOMAIN-SUFFIX,vipexam.org,PROXY    #中科VIPExam考试学习系统
+
+DOMAIN-SUFFIX,cnthinkers.com,PROXY
+DOMAIN-SUFFIX,cqvip.com,PROXY
+DOMAIN-SUFFIX,crggcn.com,PROXY    #CRGG国别区域与全球治理数据平台（原列国志数据库）
+DOMAIN-SUFFIX,data.pharmacodia.com,PROXY    #药渡经纬全球药物信息平台系统
+DOMAIN-SUFFIX,drcnet.com.cn,PROXY    #国研网
+DOMAIN-SUFFIX,duxiu.com,PROXY    #读秀搜索
+
+# 北京爱如生
+DOMAIN-SUFFIX,er07.com,PROXY
+DOMAIN-SUFFIX,ersjk.com,PROXY    #爱如生典海数字平台
+DOMAIN-SUFFIX,sbsjk.com,PROXY    #爱如生申报数据库
+
+# CSMAR经济金融研究数据库
+DOMAIN-SUFFIX,gtarsc.com,PROXY    #国泰安数据库
+
+DOMAIN-SUFFIX,htcases.com,PROXY    #全球案例发现
+DOMAIN-SUFFIX,hwshu.com,PROXY    #瀚文民国书库
+DOMAIN-SUFFIX,hytung.cn,PROXY    #瀚堂典藏古籍
+DOMAIN-SUFFIX,incopat.com,PROXY    #incoPat 专利数据库
+DOMAIN-SUFFIX,lawyee.org,PROXY    #北大法意网 中国法律资料库
+DOMAIN-SUFFIX,neohytung.com,PROXY    #瀚堂近代报刊
+DOMAIN-SUFFIX,nmrdata.com,PROXY    #微谱数据
+DOMAIN-SUFFIX,nssd.cn,PROXY    #国家哲学社会科学学术期刊数据库
+DOMAIN-SUFFIX,pishu.com.cn,PROXY    #皮书数据库（社会科学文献出版社）
+DOMAIN-SUFFIX,pkulaw.com,PROXY    #北大法宝
+DOMAIN-SUFFIX,rdfybk.com,PROXY    #人大复印报刊资料
+DOMAIN-SUFFIX,resset.com,PROXY    #锐思数据库
+DOMAIN-SUFFIX,sciencechina.cn,PROXY    #中国科学文献服务系统
+DOMAIN-SUFFIX,sslibrary.com,PROXY    #超星电子书
+DOMAIN-SUFFIX,tokyotrial.cn,PROXY    #东京审判文献数据库
+DOMAIN-SUFFIX,tongxianghuicn.com,PROXY    #台湾大陆同乡会文献数据库
+DOMAIN-SUFFIX,twscholar.com,PROXY    #TWS台湾学术期刊在线数据库
+DOMAIN-SUFFIX,unihan.com.cn,PROXY    #书同文
+DOMAIN-SUFFIX,wenxin-ge.com,PROXY    #文心阁古籍全文数据库
+DOMAIN-SUFFIX,wind.com.cn,PROXY    #Wind 资讯金融
+DOMAIN-SUFFIX,yiigle.com,PROXY    #中华医学期刊全文数据库
+
+DOMAIN,www.libvideo.com,PROXY    #武汉缘来文化-知识视界

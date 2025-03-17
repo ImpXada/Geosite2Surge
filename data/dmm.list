@@ -1,0 +1,23 @@
+#include:dmm-ads
+# Refer: https://tonahazana.com/kancolle-2nd-weight-saving
+# If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
+
+DOMAIN-SUFFIX,ad.games.dmm.com,PROXY
+DOMAIN-SUFFIX,bluekai.com,PROXY
+DOMAIN-SUFFIX,fout.jp,PROXY
+DOMAIN-SUFFIX,gmossp-sp.jp,PROXY
+DOMAIN-SUFFIX,i-mobile.co.jp,PROXY
+DOMAIN-SUFFIX,im-apps.net,PROXY
+DOMAIN-SUFFIX,impact-ad.jp,PROXY
+DOMAIN-SUFFIX,ladsp.com,PROXY
+DOMAIN-SUFFIX,microad.co.jp,PROXY
+DOMAIN-SUFFIX,microad.jp,PROXY
+DOMAIN-SUFFIX,socdm.com,PROXY
+#include:dmm-porn
+DOMAIN-SUFFIX,dmm.co.jp,PROXY
+DOMAIN-SUFFIX,dmmrex.com,PROXY
+
+DOMAIN-SUFFIX,dmm.com,PROXY
+DOMAIN-SUFFIX,dmm-extension.com,PROXY
+DOMAIN-SUFFIX,dmmapis.com,PROXY
+DOMAIN,api-p.videomarket.jp,PROXY

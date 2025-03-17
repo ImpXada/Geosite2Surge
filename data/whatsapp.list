@@ -1,0 +1,15 @@
+#include:whatsapp-ads
+DOMAIN-SUFFIX,graph.whatsapp.com,PROXY
+DOMAIN-SUFFIX,graph.whatsapp.net,PROXY
+
+DOMAIN-SUFFIX,wa.me,PROXY
+DOMAIN-SUFFIX,whatsapp-plus.info,PROXY
+DOMAIN-SUFFIX,whatsapp-plus.me,PROXY
+DOMAIN-SUFFIX,whatsapp-plus.net,PROXY
+DOMAIN-SUFFIX,whatsapp.cc,PROXY
+DOMAIN-SUFFIX,whatsapp.com,PROXY
+DOMAIN-SUFFIX,whatsapp.info,PROXY
+DOMAIN-SUFFIX,whatsapp.net,PROXY
+DOMAIN-SUFFIX,whatsapp.org,PROXY
+DOMAIN-SUFFIX,whatsapp.tv,PROXY
+DOMAIN-SUFFIX,whatsappbrand.com,PROXY

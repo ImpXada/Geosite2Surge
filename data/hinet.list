@@ -1,0 +1,9 @@
+#include:hinet-eca
+DOMAIN-SUFFIX,eca.hinet.net,PROXY
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw,PROXY
+
+DOMAIN-SUFFIX,cht.com.tw,PROXY
+DOMAIN-SUFFIX,chtf.org.tw,PROXY
+DOMAIN-SUFFIX,emome.net,PROXY
+DOMAIN-SUFFIX,hinet.net,PROXY
+DOMAIN-SUFFIX,xuite.net,PROXY

@@ -1,0 +1,254 @@
+DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-ap-southeast-1.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-ap-southeast-2.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-ap-southeast-3.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-ap-southeast-5.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-ap-southeast-6.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-ap-southeast-7.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-eu-central-1.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com,PROXY
+DOMAIN-SUFFIX,supercell.com,PROXY
+DOMAIN-SUFFIX,iq.com,PROXY
+DOMAIN-SUFFIX,citics.com.hk,PROXY
+DOMAIN-SUFFIX,cncbinternational.com,PROXY
+DOMAIN-SUFFIX,csci.hk,PROXY
+DOMAIN-SUFFIX,alibabacloud.co.in,PROXY
+DOMAIN-SUFFIX,alibabacloud.com.au,PROXY
+DOMAIN-SUFFIX,alibabacloud.com.hk,PROXY
+DOMAIN-SUFFIX,alibabacloud.com.my,PROXY
+DOMAIN-SUFFIX,alibabacloud.com.sg,PROXY
+DOMAIN-SUFFIX,alibabacloud.com.tw,PROXY
+DOMAIN-SUFFIX,byteoversea.com,PROXY
+DOMAIN-SUFFIX,muscdn.com,PROXY
+DOMAIN-SUFFIX,musical.ly,PROXY
+DOMAIN-SUFFIX,tik-tokapi.com,PROXY
+DOMAIN-SUFFIX,tiktok.com,PROXY
+DOMAIN-SUFFIX,tiktokcdn-eu.com,PROXY
+DOMAIN-SUFFIX,tiktokcdn-us.com,PROXY
+DOMAIN-SUFFIX,tiktokcdn.com,PROXY
+DOMAIN-SUFFIX,tiktokd.net,PROXY
+DOMAIN-SUFFIX,tiktokd.org,PROXY
+DOMAIN-SUFFIX,tiktokeu-cdn.com,PROXY
+DOMAIN-SUFFIX,tiktokrow-cdn.com,PROXY
+DOMAIN-SUFFIX,tiktokv.com,PROXY
+DOMAIN-SUFFIX,tiktokv.eu,PROXY
+DOMAIN-SUFFIX,tiktokv.us,PROXY
+DOMAIN-SUFFIX,tiktokw.eu,PROXY
+DOMAIN-SUFFIX,tiktokw.us,PROXY
+DOMAIN-SUFFIX,ttlivecdn.com,PROXY
+DOMAIN-SUFFIX,ttoverseaus.net,PROXY
+DOMAIN-SUFFIX,ttwstatic.com,PROXY
+DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
+DOMAIN-SUFFIX,jd.co.th,PROXY
+DOMAIN-SUFFIX,jd.hk,PROXY
+DOMAIN-SUFFIX,jd.id,PROXY
+DOMAIN-SUFFIX,jd.ru,PROXY
+DOMAIN-SUFFIX,ctrip.co.id,PROXY
+DOMAIN-SUFFIX,ctrip.co.kr,PROXY
+DOMAIN-SUFFIX,ctrip.co.th,PROXY
+DOMAIN-SUFFIX,ctrip.com.hk,PROXY
+DOMAIN-SUFFIX,ctrip.my,PROXY
+DOMAIN-SUFFIX,ctrip.sg,PROXY
+DOMAIN-SUFFIX,ctripbuy.hk,PROXY
+DOMAIN-SUFFIX,hhtravel.com.tw,PROXY
+DOMAIN-SUFFIX,trip.com,PROXY
+DOMAIN-SUFFIX,tripcdn.com,PROXY
+DOMAIN-SUFFIX,myip.la,PROXY
+DOMAIN-SUFFIX,vivoglobal.com,PROXY
+DOMAIN-SUFFIX,emsec.hk,PROXY
+DOMAIN-SUFFIX,pingan.com.hk,PROXY
+DOMAIN,ztedevices.com,PROXY
+DOMAIN-SUFFIX,chinaunicom.com.hk,PROXY
+DOMAIN-SUFFIX,chinaunicomglobal.com,PROXY
+DOMAIN-SUFFIX,cuniq.com,PROXY
+DOMAIN-SUFFIX,speedtest.hk.chinamobile.com,PROXY
+DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com,PROXY
+DOMAIN-SUFFIX,huaweicloud-dns.net,PROXY
+DOMAIN-SUFFIX,huaweicloud-dns.org,PROXY
+DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com,PROXY    #中东-阿布扎比-OP5
+DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com,PROXY    #非洲-开罗
+DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com,PROXY    #非洲-约翰内斯堡
+DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com,PROXY    #中国-香港
+DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com,PROXY    #亚太-曼谷
+DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com,PROXY    #亚太-新加坡
+DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com,PROXY    #亚太-雅加达
+DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com,PROXY    #欧洲-巴黎
+DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com,PROXY    #欧洲-都柏林
+DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com,PROXY    #拉美-墨西哥城二
+DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com,PROXY    #拉美-圣地亚哥
+DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com,PROXY    #中东-利雅得
+DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,PROXY    #亚太-吉隆坡-OP6
+DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com,PROXY    #拉美-墨西哥城一
+DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com,PROXY    #俄罗斯-莫斯科-OP4
+DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com,PROXY    #俄罗斯-莫斯科二
+DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com,PROXY    #拉美-圣保罗一
+DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com,PROXY    #土耳其-伊斯坦布尔
+DOMAIN-SUFFIX,cmbi.com.hk,PROXY
+DOMAIN-SUFFIX,cmbwinglungbank.com,PROXY
+DOMAIN-SUFFIX,ccbintl.com.hk,PROXY
+DOMAIN-SUFFIX,ccbseoul.com,PROXY
+DOMAIN-SUFFIX,ctexcel.ca,PROXY
+DOMAIN-SUFFIX,ctexcel.com,PROXY
+DOMAIN-SUFFIX,ctexcel.com.hk,PROXY
+DOMAIN-SUFFIX,ctexcel.fr,PROXY
+DOMAIN-SUFFIX,ctexcel.us,PROXY
+DOMAIN-SUFFIX,icbc-at.com,PROXY
+DOMAIN-SUFFIX,icbc-cz.com,PROXY
+DOMAIN-SUFFIX,icbc-ltd.com,PROXY
+DOMAIN-SUFFIX,icbc-uk.com,PROXY
+DOMAIN-SUFFIX,icbc-us.com,PROXY
+DOMAIN-SUFFIX,icbc.ae,PROXY
+DOMAIN-SUFFIX,icbc.be,PROXY
+DOMAIN-SUFFIX,icbc.co.id,PROXY
+DOMAIN-SUFFIX,icbc.co.jp,PROXY
+DOMAIN-SUFFIX,icbc.co.kr,PROXY
+DOMAIN-SUFFIX,icbc.co.nl,PROXY
+DOMAIN-SUFFIX,icbc.com.au,PROXY
+DOMAIN-SUFFIX,icbc.com.es,PROXY
+DOMAIN-SUFFIX,icbc.com.kh,PROXY
+DOMAIN-SUFFIX,icbc.com.kw,PROXY
+DOMAIN-SUFFIX,icbc.com.la,PROXY
+DOMAIN-SUFFIX,icbc.com.mm,PROXY
+DOMAIN-SUFFIX,icbc.com.mo,PROXY
+DOMAIN-SUFFIX,icbc.com.mx,PROXY
+DOMAIN-SUFFIX,icbc.com.pe,PROXY
+DOMAIN-SUFFIX,icbc.com.pk,PROXY
+DOMAIN-SUFFIX,icbc.com.qa,PROXY
+DOMAIN-SUFFIX,icbc.com.sg,PROXY
+DOMAIN-SUFFIX,icbc.com.vn,PROXY
+DOMAIN-SUFFIX,icbc.de,PROXY
+DOMAIN-SUFFIX,icbc.eu,PROXY
+DOMAIN-SUFFIX,icbc.lu,PROXY
+DOMAIN-SUFFIX,icbcalmaty.kz,PROXY
+DOMAIN-SUFFIX,icbcasia.com,PROXY
+DOMAIN-SUFFIX,icbcbr.com.br,PROXY
+DOMAIN-SUFFIX,icbci.com.hk,PROXY
+DOMAIN-SUFFIX,icbcindia.com,PROXY
+DOMAIN-SUFFIX,icbcit.com,PROXY
+DOMAIN-SUFFIX,icbclondon.com,PROXY
+DOMAIN-SUFFIX,icbcme.ae,PROXY
+DOMAIN-SUFFIX,icbcmoscow.ru,PROXY
+DOMAIN-SUFFIX,icbcmy.com,PROXY
+DOMAIN-SUFFIX,icbcnz.com,PROXY
+DOMAIN-SUFFIX,icbcpanama.com,PROXY
+DOMAIN-SUFFIX,icbcparis.fr,PROXY
+DOMAIN-SUFFIX,icbcpl.com,PROXY
+DOMAIN-SUFFIX,icbcswiss.com,PROXY
+DOMAIN-SUFFIX,icbcthai.com,PROXY
+DOMAIN-SUFFIX,icbkfs.com,PROXY
+DOMAIN-SUFFIX,icbkus.com,PROXY
+DOMAIN-SUFFIX,bochk.com,PROXY
+DOMAIN-SUFFIX,skyey2.com,PROXY
+DOMAIN-SUFFIX,skyeysnow.com,PROXY
+DOMAIN-SUFFIX,m-team.cc,PROXY
+DOMAIN-SUFFIX,m-team.io,PROXY
+DOMAIN-SUFFIX,myanonamouse.net,PROXY
+DOMAIN-SUFFIX,torrentleech.org,PROXY
+DOMAIN-SUFFIX,u2.dmhy.org,PROXY
+DOMAIN,community.oneplus.com,PROXY
+DOMAIN-SUFFIX,didi-food.com,PROXY
+DOMAIN-SUFFIX,didiaustralia.blog,PROXY
+DOMAIN-SUFFIX,didiglobal.com,PROXY
+DOMAIN-SUFFIX,didimobility.co.jp,PROXY
+DOMAIN-SUFFIX,iq.com,PROXY
+DOMAIN-SUFFIX,intltencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-hongkong.myqcloud.com,PROXY    #中国香港
+DOMAIN-SUFFIX,ap-singapore.myqcloud.com,PROXY    #新加坡
+DOMAIN-SUFFIX,ap-mumbai.myqcloud.com,PROXY    #孟买
+DOMAIN-SUFFIX,ap-jakarta.myqcloud.com,PROXY    #雅加达
+DOMAIN-SUFFIX,ap-seoul.myqcloud.com,PROXY    #首尔
+DOMAIN-SUFFIX,ap-bangkok.myqcloud.com,PROXY    #曼谷
+DOMAIN-SUFFIX,ap-tokyo.myqcloud.com,PROXY    #东京
+DOMAIN-SUFFIX,na-siliconvalley.myqcloud.com,PROXY    #硅谷（美西）
+DOMAIN-SUFFIX,na-ashburn.myqcloud.com,PROXY    #弗吉尼亚（美东）
+DOMAIN-SUFFIX,na-toronto.myqcloud.com,PROXY    #多伦多
+DOMAIN-SUFFIX,sa-saopaulo.myqcloud.com,PROXY    #圣保罗
+DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com,PROXY    #法兰克福
+DOMAIN-SUFFIX,eu-moscow.myqcloud.com,PROXY    #莫斯科
+DOMAIN-SUFFIX,ap-hongkong.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-hongkong.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-hongkong.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,ap-singapore.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-singapore.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-singapore.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,ap-mumbai.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-mumbai.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-mumbai.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,ap-jakarta.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-jakarta.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-jakarta.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,ap-seoul.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-seoul.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-seoul.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,ap-bangkok.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-bangkok.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-bangkok.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,ap-tokyo.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,ap-tokyo.tencentcos.com,PROXY
+DOMAIN-SUFFIX,ap-tokyo.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,na-siliconvalley.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com,PROXY
+DOMAIN-SUFFIX,na-siliconvalley.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,na-ashburn.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,na-ashburn.tencentcos.com,PROXY
+DOMAIN-SUFFIX,na-ashburn.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,na-toronto.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,na-toronto.tencentcos.com,PROXY
+DOMAIN-SUFFIX,na-toronto.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,sa-saopaulo.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com,PROXY
+DOMAIN-SUFFIX,sa-saopaulo.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,eu-frankfurt.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com,PROXY
+DOMAIN-SUFFIX,eu-frankfurt.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,eu-moscow.tencentcos.cn,PROXY
+DOMAIN-SUFFIX,eu-moscow.tencentcos.com,PROXY
+DOMAIN-SUFFIX,eu-moscow.tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,coshk.myqcloud.com,PROXY    #中国香港
+DOMAIN-SUFFIX,cossgp.myqcloud.com,PROXY    #新加坡
+DOMAIN-SUFFIX,cosca.myqcloud.com,PROXY    #多伦多
+DOMAIN-SUFFIX,cosger.myqcloud.com,PROXY    #法兰克福
+DOMAIN-SUFFIX,hk.file.myqcloud.com,PROXY    #中国香港
+DOMAIN-SUFFIX,sgp.file.myqcloud.com,PROXY    #新加坡
+DOMAIN-SUFFIX,ca.file.myqcloud.com,PROXY    #多伦多
+DOMAIN-SUFFIX,ger.file.myqcloud.com,PROXY    #法兰克福
+DOMAIN-SUFFIX,bilibili.tv,PROXY
+DOMAIN-SUFFIX,biliintl.com,PROXY
+DOMAIN-SUFFIX,dreamcast.hk,PROXY
+DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
+DOMAIN-SUFFIX,tencent.co.id,PROXY
+DOMAIN-SUFFIX,tencent.com.hk,PROXY
+DOMAIN-SUFFIX,wetv.vip,PROXY
+DOMAIN-SUFFIX,wetvinfo.com,PROXY
+DOMAIN,wetv.qq.com,PROXY
+DOMAIN-SUFFIX,hk.weibo.com,PROXY
+DOMAIN-SUFFIX,my.weibo.com,PROXY
+DOMAIN-SUFFIX,overseas.weibo.com,PROXY
+DOMAIN-SUFFIX,sg.weibo.com,PROXY
+DOMAIN-SUFFIX,th.weibo.com,PROXY
+DOMAIN-SUFFIX,tw.weibo.com,PROXY
+DOMAIN-SUFFIX,us.weibo.com,PROXY
+DOMAIN-SUFFIX,c.mi.com,PROXY
+DOMAIN-SUFFIX,global.market.xiaomi.com,PROXY
+DOMAIN-SUFFIX,jd.co.th,PROXY
+DOMAIN-SUFFIX,jd.hk,PROXY
+DOMAIN-SUFFIX,jd.id,PROXY
+DOMAIN-SUFFIX,jd.ru,PROXY
+DOMAIN-SUFFIX,chinatelecomglobal.com,PROXY
+DOMAIN-SUFFIX,chinatelecomhk.com,PROXY
+DOMAIN-SUFFIX,byteoversea.com,PROXY
+DOMAIN-SUFFIX,ibytedtos.com,PROXY
+DOMAIN-SUFFIX,ibyteimg.com,PROXY
+DOMAIN-SUFFIX,coze.com,PROXY
+DOMAIN-SUFFIX,alihealth.hk,PROXY
+DOMAIN-SUFFIX,aliexpress.ru,PROXY
+DOMAIN-SUFFIX,alipay.hk,PROXY
+DOMAIN-SUFFIX,alipaymo.com,PROXY
+DOMAIN-SUFFIX,tmall.ru,PROXY
+DOMAIN-SUFFIX,fliggy.hk,PROXY

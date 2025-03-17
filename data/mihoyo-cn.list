@@ -1,0 +1,31 @@
+# 米哈游
+DOMAIN-SUFFIX,mhystatic.com,PROXY
+DOMAIN-SUFFIX,mhyurl.cn,PROXY
+DOMAIN-SUFFIX,mihayo.com,PROXY
+DOMAIN-SUFFIX,mihayou.com,PROXY
+DOMAIN-SUFFIX,mihoyo.com,PROXY
+DOMAIN-SUFFIX,mihoyocg.com,PROXY
+DOMAIN-SUFFIX,mihoyogift.com,PROXY
+DOMAIN-SUFFIX,mihoyomall.com,PROXY
+DOMAIN-SUFFIX,miyoushe.com,PROXY
+
+# 崩坏2
+DOMAIN-SUFFIX,benghuai.com,PROXY
+
+# 崩坏3
+DOMAIN-SUFFIX,bh3.com,PROXY
+
+# 星穹铁道
+DOMAIN-SUFFIX,bhsr.com,PROXY
+
+# 未定事件簿
+DOMAIN-SUFFIX,themisweeps.com,PROXY
+
+# 原神
+DOMAIN-SUFFIX,yuanshen.com,PROXY
+
+#绝区零
+DOMAIN-SUFFIX,juequling.com,PROXY
+
+# Akamai
+DOMAIN-WILDCARD,*-mihayo.akamaized.net,PROXY

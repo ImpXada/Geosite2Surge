@@ -1,0 +1,34 @@
+DOMAIN-SUFFIX,fast.com,PROXY
+DOMAIN-SUFFIX,netflix.ca,PROXY
+DOMAIN-SUFFIX,netflix.com,PROXY
+DOMAIN-SUFFIX,netflix.net,PROXY
+DOMAIN-SUFFIX,netflixinvestor.com,PROXY
+DOMAIN-SUFFIX,netflixtechblog.com,PROXY
+DOMAIN-SUFFIX,nflxext.com,PROXY
+DOMAIN-SUFFIX,nflximg.com,PROXY
+DOMAIN-SUFFIX,nflximg.net,PROXY
+DOMAIN-SUFFIX,nflxsearch.net,PROXY
+DOMAIN-SUFFIX,nflxso.net,PROXY
+DOMAIN-SUFFIX,nflxvideo.net,PROXY
+
+# DNS test
+DOMAIN-SUFFIX,netflixdnstest0.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest1.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest2.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest3.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest4.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest5.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest6.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest7.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest8.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest9.com,PROXY
+DOMAIN-SUFFIX,netflixdnstest10.com,PROXY
+
+# regular expression
+DOMAIN-WILDCARD,apiproxy-device-prod-nlb-*.amazonaws.com,PROXY
+DOMAIN-WILDCARD,apiproxy-website-nlb-prod-*.amazonaws.com,PROXY
+DOMAIN-WILDCARD,dualstack.apiproxy-*.amazonaws.com,PROXY
+DOMAIN-WILDCARD,dualstack.ichnaea-web-*.amazonaws.com,PROXY
+
+# Full
+DOMAIN,netflix.com.edgesuite.net,PROXY

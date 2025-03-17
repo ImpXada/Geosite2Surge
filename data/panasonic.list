@@ -1,0 +1,7 @@
+# All .panasonic domains
+DOMAIN-SUFFIX,panasonic,PROXY
+
+DOMAIN-SUFFIX,panasonic.cn,PROXY
+DOMAIN-SUFFIX,panasonic.com,PROXY
+DOMAIN-SUFFIX,panasonic.jp,PROXY
+DOMAIN-SUFFIX,technics.com,PROXY

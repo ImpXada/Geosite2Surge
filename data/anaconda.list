@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,anaconda.cloud,PROXY
+DOMAIN-SUFFIX,anaconda.com,PROXY
+DOMAIN-SUFFIX,anaconda.org,PROXY
+DOMAIN-SUFFIX,conda.io,PROXY

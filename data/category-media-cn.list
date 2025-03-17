@@ -1,0 +1,249 @@
+#include:36kr
+DOMAIN-SUFFIX,36dianping.com,PROXY
+DOMAIN-SUFFIX,36kr.com,PROXY
+DOMAIN-SUFFIX,36krcdn.com,PROXY
+DOMAIN-SUFFIX,36krcnd.com,PROXY
+#include:cctv
+DOMAIN-SUFFIX,cctv.cn,PROXY
+DOMAIN-SUFFIX,cctv.com,PROXY
+DOMAIN-SUFFIX,cctvpic.com,PROXY
+DOMAIN-SUFFIX,chinaepg.cn,PROXY
+DOMAIN-SUFFIX,chinalive.com,PROXY
+DOMAIN-SUFFIX,citv.net.cn,PROXY
+DOMAIN-SUFFIX,cnms.net.cn,PROXY
+DOMAIN-SUFFIX,cntv.cn,PROXY
+DOMAIN-SUFFIX,cntv.com.cn,PROXY
+DOMAIN-SUFFIX,cctvlib.cn,PROXY
+DOMAIN-SUFFIX,cctvlibrary.cn,PROXY
+DOMAIN-SUFFIX,cctvlib.com.cn,PROXY
+DOMAIN-SUFFIX,cctvlibrary.com.cn,PROXY
+DOMAIN-SUFFIX,cctvpro.cn,PROXY
+DOMAIN-SUFFIX,cctvpro.com.cn,PROXY
+DOMAIN-SUFFIX,cntvwb.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.com.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.net.cn,PROXY
+DOMAIN-SUFFIX,ipanda.cn,PROXY
+DOMAIN-SUFFIX,ipanda.com,PROXY
+DOMAIN-SUFFIX,ipanda.com.cn,PROXY
+DOMAIN-SUFFIX,ipanda.net,PROXY
+DOMAIN-SUFFIX,livechina.cn,PROXY
+DOMAIN-SUFFIX,livechina.com,PROXY
+DOMAIN-SUFFIX,olympicchannelchina.cn,PROXY
+DOMAIN-SUFFIX,tvcc.cn,PROXY
+DOMAIN-SUFFIX,tvcc.com.cn,PROXY
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn,PROXY    #中国广播电视总台.cn
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn,PROXY    #中央广播电视总台.cn
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s,PROXY    #中国广播电视总台.中国
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn,PROXY    #国家广播电视总台.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s,PROXY    #国家广播电视总台.中国
+DOMAIN-SUFFIX,zggbdszt.cn,PROXY
+DOMAIN-SUFFIX,zggbdszt.com.cn,PROXY
+DOMAIN-SUFFIX,zggbdszt.net.cn,PROXY
+DOMAIN-SUFFIX,zygbdszt.net.cn,PROXY
+#include:chinanews
+DOMAIN-SUFFIX,chinanews.com,PROXY
+DOMAIN-SUFFIX,chinanews.com.cn,PROXY
+DOMAIN-SUFFIX,cns.com.cn,PROXY
+DOMAIN-SUFFIX,ecns.cn,PROXY
+DOMAIN-SUFFIX,inewsweek.cn,PROXY
+#include:dgtle
+DOMAIN-SUFFIX,dgtle.com,PROXY
+#include:geekpark
+DOMAIN-SUFFIX,geekpark.net,PROXY
+#include:ifanr
+DOMAIN-SUFFIX,coolbuy.com,PROXY
+DOMAIN-SUFFIX,ifanr.cn,PROXY
+DOMAIN-SUFFIX,ifanr.com,PROXY
+DOMAIN-SUFFIX,ifanr.in,PROXY
+DOMAIN-SUFFIX,ifanrusercontent.com,PROXY
+DOMAIN-SUFFIX,ifanrx.com,PROXY
+DOMAIN-SUFFIX,minapp.com,PROXY
+#include:jiemian
+# 界面（上海）网络科技有限公司 (沪ICP备14040942号)
+
+DOMAIN-SUFFIX,jiemian.com,PROXY
+DOMAIN-SUFFIX,jiemian.com.cn,PROXY
+#include:landian
+# 蓝点网
+
+# 浙ICP备14021835号-1
+DOMAIN-SUFFIX,lancdn.com,PROXY
+DOMAIN-SUFFIX,landiannews.com,PROXY
+
+# 浙ICP备19001095号-4
+DOMAIN-SUFFIX,landian.vip,PROXY
+
+DOMAIN-SUFFIX,landian.xyz,PROXY
+
+# 浙ICP备19001095号-10
+DOMAIN-SUFFIX,ourl.co,PROXY
+
+# 浙ICP备19001095号-2
+DOMAIN-SUFFIX,wsoso.com,PROXY
+#include:phoenix
+DOMAIN-SUFFIX,fengcx.com,PROXY
+DOMAIN-SUFFIX,ifeng.com,PROXY
+DOMAIN-SUFFIX,ifengimg.com,PROXY
+
+# Phoenix Center
+DOMAIN-SUFFIX,phoenixcenter.cn,PROXY
+
+# Phoenix Education
+DOMAIN-SUFFIX,fengedu.com,PROXY
+
+# Phoenix Weekly
+DOMAIN-SUFFIX,ifengweekly.com,PROXY
+#include:ruanmei
+DOMAIN-SUFFIX,6655.com,PROXY
+DOMAIN-SUFFIX,cooldock.com,PROXY
+DOMAIN-SUFFIX,ithome.com,PROXY
+DOMAIN-SUFFIX,lapin365.com,PROXY
+DOMAIN-SUFFIX,ruanmei.com,PROXY
+DOMAIN-SUFFIX,saayaa.com,PROXY
+DOMAIN-SUFFIX,win7china.com,PROXY
+DOMAIN-SUFFIX,win8china.com,PROXY
+#include:solidot
+DOMAIN-SUFFIX,solidot.org,PROXY
+#include:sspai
+DOMAIN-SUFFIX,sspai.com,PROXY
+#include:tmtpost
+# Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
+
+DOMAIN-SUFFIX,tmtpost.com,PROXY
+DOMAIN-SUFFIX,chaindd.com,PROXY
+DOMAIN-SUFFIX,72whys.com,PROXY
+DOMAIN-SUFFIX,checkzeit.com,PROXY
+DOMAIN-SUFFIX,tivitv.com,PROXY
+DOMAIN-SUFFIX,tigeek.net.cn,PROXY
+DOMAIN-SUFFIX,tmtsmartlife.com,PROXY
+DOMAIN-SUFFIX,tmtsmartrun.com,PROXY
+#include:weiphone
+DOMAIN-SUFFIX,feng.com,PROXY
+DOMAIN-SUFFIX,fengimg.com,PROXY
+DOMAIN-SUFFIX,wfdata.club,PROXY
+#include:ynet
+# This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
+
+DOMAIN-SUFFIX,ynet.cn,PROXY
+DOMAIN-SUFFIX,ynet.com,PROXY
+DOMAIN-SUFFIX,ynet.com.cn,PROXY
+#include:xueqiu
+DOMAIN-SUFFIX,aiganggu.com,PROXY
+DOMAIN-SUFFIX,danjuanfunds.com,PROXY
+DOMAIN-SUFFIX,imedao.com,PROXY
+DOMAIN-SUFFIX,snowballsecurities.com,PROXY
+DOMAIN-SUFFIX,xueqiu.com,PROXY
+
+# 证券时报网
+DOMAIN-SUFFIX,stcn.com,PROXY
+
+# 财经网
+DOMAIN-SUFFIX,caijing.com.cn,PROXY
+
+# 和讯
+DOMAIN-SUFFIX,hexun.com,PROXY
+
+# 中金在线
+DOMAIN-SUFFIX,cnfol.com,PROXY
+DOMAIN-SUFFIX,cnfolimg.com,PROXY
+
+# 证券日报
+DOMAIN-SUFFIX,zqrb.cn,PROXY
+
+# 每日经济新闻报社
+DOMAIN-SUFFIX,nbd.com.cn,PROXY
+
+# 上海证券报
+DOMAIN-SUFFIX,cnstock.com,PROXY
+
+# 21世纪经济报
+DOMAIN-SUFFIX,21jingji.com,PROXY
+
+# 第一财经
+DOMAIN-SUFFIX,yicai.com,PROXY
+
+# 中证网
+DOMAIN-SUFFIX,cs.com.cn,PROXY
+
+# 证券之星
+DOMAIN-SUFFIX,ssajax.cn,PROXY
+DOMAIN-SUFFIX,ssimg.cn,PROXY
+DOMAIN-SUFFIX,stockstar.com,PROXY
+
+# 金融界
+DOMAIN-SUFFIX,jrj.com.cn,PROXY
+DOMAIN-SUFFIX,jrjimg.cn,PROXY
+
+# 财联社
+DOMAIN-SUFFIX,cls.cn,PROXY
+DOMAIN-SUFFIX,cailianpress.com,PROXY
+
+# 华尔街见闻
+DOMAIN-SUFFIX,wallstreetcn.com,PROXY
+DOMAIN-SUFFIX,jianyuweb.com,PROXY
+DOMAIN-SUFFIX,wallstcn.com,PROXY
+
+# 同花顺
+DOMAIN-SUFFIX,10jqka.com.cn,PROXY
+DOMAIN-SUFFIX,thsi.cn,PROXY
+DOMAIN-SUFFIX,ths123.com,PROXY
+
+# 大智慧
+DOMAIN-SUFFIX,dzh.com.cn,PROXY
+DOMAIN-SUFFIX,gw.com.cn,PROXY
+DOMAIN-SUFFIX,yundzh.com,PROXY
+
+# 财新网
+DOMAIN-SUFFIX,caixin.com,PROXY
+
+# Xinhua News Agency
+DOMAIN-SUFFIX,news.cn,PROXY
+DOMAIN-SUFFIX,xinhuanet.com,PROXY
+
+# 人民网
+DOMAIN-SUFFIX,people.cn,PROXY
+DOMAIN-SUFFIX,people.com.cn,PROXY
+
+# 环球网
+DOMAIN-SUFFIX,huanqiu.com,PROXY
+DOMAIN-SUFFIX,huanqiucdn.cn,PROXY
+
+# 光明网
+DOMAIN-SUFFIX,gmw.com,PROXY
+
+# 澎湃新闻
+DOMAIN-SUFFIX,thepaper.cn,PROXY
+
+# 封面新闻
+DOMAIN-SUFFIX,thecover.cn,PROXY
+
+# 超能网
+DOMAIN-SUFFIX,expreview.com,PROXY
+
+# 虎嗅
+DOMAIN-SUFFIX,huxiu.com,PROXY
+DOMAIN-SUFFIX,huxiucdn.com,PROXY
+
+# TechWeb
+DOMAIN-SUFFIX,techweb.com.cn,PROXY
+
+# PConline - 太平洋科技
+DOMAIN-SUFFIX,3conline.com,PROXY
+DOMAIN-SUFFIX,pconline.com.cn,PROXY
+
+# ZEALER
+DOMAIN-SUFFIX,zealer.com,PROXY
+
+# 中关村在线
+DOMAIN-SUFFIX,zol-img.com.cn,PROXY
+DOMAIN-SUFFIX,zol.com.cn,PROXY
+
+# 锋潮科技
+DOMAIN-SUFFIX,anzhuo.cn,PROXY
+
+# 中国IDC圈
+DOMAIN-SUFFIX,idcquan.com,PROXY
+
+# 站长网
+DOMAIN-SUFFIX,admin5.com,PROXY

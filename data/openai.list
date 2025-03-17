@@ -1,0 +1,25 @@
+# Main domain
+DOMAIN-SUFFIX,chatgpt.com,PROXY
+DOMAIN-SUFFIX,chat.com,PROXY
+DOMAIN-SUFFIX,oaistatic.com,PROXY
+DOMAIN-SUFFIX,oaiusercontent.com,PROXY
+DOMAIN-SUFFIX,openai.com,PROXY
+DOMAIN-SUFFIX,sora.com,PROXY
+
+# CDN & API
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net,PROXY
+DOMAIN,openaiapi-site.azureedge.net,PROXY
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
+DOMAIN,openaicomproductionae4b.blob.core.windows.net,PROXY
+DOMAIN,production-openaicom-storage.azureedge.net,PROXY
+DOMAIN-WILDCARD,chatgpt-async-webps-prod-*-*.webpubsub.azure.com,PROXY
+
+# tracking
+DOMAIN,o33249.ingest.sentry.io,PROXY
+DOMAIN,openaicom.imgix.net,PROXY
+DOMAIN,browser-intake-datadoghq.com,PROXY
+
+# Advanced Voice
+DOMAIN-SUFFIX,chatgpt.livekit.cloud,PROXY
+DOMAIN-SUFFIX,host.livekit.cloud,PROXY
+DOMAIN-SUFFIX,turn.livekit.cloud,PROXY

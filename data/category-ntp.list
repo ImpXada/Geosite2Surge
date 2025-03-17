@@ -1,0 +1,152 @@
+# Apple
+# regexp:^time(.euro)?.apple.com$
+DOMAIN,time.apple.com,PROXY
+DOMAIN,time.euro.apple.com,PROXY
+
+# Facebook
+# regexp:^time([1-5])?\.facebook\.com$
+DOMAIN,time.facebook.com,PROXY
+DOMAIN,time1.facebook.com,PROXY
+DOMAIN,time2.facebook.com,PROXY
+DOMAIN,time3.facebook.com,PROXY
+DOMAIN,time4.facebook.com,PROXY
+DOMAIN,time5.facebook.com,PROXY
+
+# Google
+# regexp:^time([1-4])?.google.com$
+DOMAIN,time.google.com,PROXY
+DOMAIN,time1.google.com,PROXY
+DOMAIN,time2.google.com,PROXY
+DOMAIN,time3.google.com,PROXY
+DOMAIN,time4.google.com,PROXY
+
+# NIST: https://tf.nist.gov/tf-cgi/servers.cgi
+# regexp:^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
+DOMAIN,ut1-wwv.nist.gov,PROXY
+DOMAIN,ntp-b.nist.gov,PROXY
+DOMAIN,ntp-d.nist.gov,PROXY
+DOMAIN,ntp-wwv.nist.gov,PROXY
+DOMAIN,time.nist.gov,PROXY
+DOMAIN,time-a-g.nist.gov,PROXY
+DOMAIN,time-b-g.nist.gov,PROXY
+DOMAIN,time-c-g.nist.gov,PROXY
+DOMAIN,time-d-g.nist.gov,PROXY
+DOMAIN,time-e-g.nist.gov,PROXY
+DOMAIN,time-a-b.nist.gov,PROXY
+DOMAIN,time-b-b.nist.gov,PROXY
+DOMAIN,time-c-b.nist.gov,PROXY
+DOMAIN,time-d-b.nist.gov,PROXY
+DOMAIN,time-e-b.nist.gov,PROXY
+DOMAIN,time-a-wwv.nist.gov,PROXY
+DOMAIN,time-b-wwv.nist.gov,PROXY
+DOMAIN,time-c-wwv.nist.gov,PROXY
+DOMAIN,time-d-wwv.nist.gov,PROXY
+DOMAIN,time-e-wwv.nist.gov,PROXY
+DOMAIN,ntp-c.colorado.edu,PROXY
+DOMAIN,ut1-time.colorado.edu,PROXY
+DOMAIN,utcnist.colorado.edu,PROXY
+DOMAIN,utcnist2.colorado.edu,PROXY
+DOMAIN,utcnist3.colorado.edu,PROXY
+
+# NTP-servers: https://ntp-servers.net/servers.html
+# regexp:^ntp[0-7]\.ntp-servers\.net$
+DOMAIN,ntp0.ntp-servers.net,PROXY
+DOMAIN,ntp1.ntp-servers.net,PROXY
+DOMAIN,ntp2.ntp-servers.net,PROXY
+DOMAIN,ntp3.ntp-servers.net,PROXY
+DOMAIN,ntp4.ntp-servers.net,PROXY
+DOMAIN,ntp5.ntp-servers.net,PROXY
+DOMAIN,ntp6.ntp-servers.net,PROXY
+DOMAIN,ntp7.ntp-servers.net,PROXY
+
+DOMAIN-SUFFIX,clock.isc.org,PROXY
+DOMAIN-SUFFIX,ntp.fiord.ru,PROXY
+DOMAIN-SUFFIX,ntp.nat.ms,PROXY
+DOMAIN-SUFFIX,ntp.nic.cz,PROXY
+DOMAIN-SUFFIX,ntp.ripe.net,PROXY
+DOMAIN-SUFFIX,ntp.se,PROXY
+DOMAIN-SUFFIX,ntp.ufe.cz,PROXY
+DOMAIN-SUFFIX,pool.ntp.org,PROXY
+DOMAIN-SUFFIX,time.cloudflare.com,PROXY
+DOMAIN-SUFFIX,time.nrc.ca,PROXY
+DOMAIN-SUFFIX,time.windows.com,PROXY
+
+#include:category-ntp-cn
+# Aliyun
+# regexp:^ntp([1-7])?\.aliyun\.com$ @cn
+DOMAIN,ntp.aliyun.com,PROXY
+DOMAIN,ntp1.aliyun.com,PROXY
+DOMAIN,ntp2.aliyun.com,PROXY
+DOMAIN,ntp3.aliyun.com,PROXY
+DOMAIN,ntp4.aliyun.com,PROXY
+DOMAIN,ntp5.aliyun.com,PROXY
+DOMAIN,ntp6.aliyun.com,PROXY
+DOMAIN,ntp7.aliyun.com,PROXY
+
+# Qualcomm
+DOMAIN,time.izatcloud.net,PROXY
+DOMAIN,time.xtracloud.net,PROXY
+
+# Tencent
+# regexp:^ntp([1-5])?\.tencent\.com$ @cn
+DOMAIN,ntp.tencent.com,PROXY
+DOMAIN,ntp1.tencent.com,PROXY
+DOMAIN,ntp2.tencent.com,PROXY
+DOMAIN,ntp3.tencent.com,PROXY
+DOMAIN,ntp4.tencent.com,PROXY
+DOMAIN,ntp5.tencent.com,PROXY
+
+DOMAIN-SUFFIX,cn.pool.ntp.org,PROXY
+DOMAIN-SUFFIX,ntp.neu.edu.cn,PROXY
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn,PROXY
+DOMAIN-SUFFIX,ntp.org.cn,PROXY
+#include:category-ntp-jp
+# アマノセキュアジャパン(e-timing): https://www.e-timing.ne.jp/product/timestamp/open-server/
+DOMAIN-SUFFIX,ats1.e-timing.ne.jp,PROXY
+
+# INTERNET MULTIFEED: https://www.mfeed.ad.jp/ntp/detail.html
+DOMAIN-SUFFIX,ntp.jst.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp1.jst.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp2.jst.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp,PROXY
+
+# 国立天文台水沢 https://www.miz.nao.ac.jp/vlbi/ntp.html
+DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp,PROXY
+
+# 情報通信研究機構(NICT): https://jjy.nict.go.jp/tsp/PubNtp/index.html
+DOMAIN-SUFFIX,ntp.nict.jp,PROXY
+
+# OCN: https://www.ntt.com/business/services/network/internet-connect/ocn-business/ocn/customer/set_up/tech_1.html
+DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp,PROXY
+
+# plala: https://mainte.plala.or.jp/support/manual/internet/setup/
+DOMAIN-SUFFIX,ntp1.plala.or.jp,PROXY
+DOMAIN-SUFFIX,ntp2.plala.or.jp,PROXY
+
+# Ring Server Project: http://www.ring.gr.jp/ring/ntp.html.ja
+DOMAIN-SUFFIX,ntp.ring.gr.jp,PROXY
+DOMAIN-SUFFIX,ntp0.ring.gr.jp,PROXY
+DOMAIN-SUFFIX,ntp1.ring.gr.jp,PROXY
+DOMAIN-SUFFIX,ntp2.ring.gr.jp,PROXY
+DOMAIN-SUFFIX,ntp.t.ring.gr.jp,PROXY
+DOMAIN-SUFFIX,ntp.dnsbalance.ring.gr.jp,PROXY
+
+# 東京大学(The University of Tokyo)
+DOMAIN-SUFFIX,ntp.nc.u-tokyo.ac.jp,PROXY
+
+# 東北大学(TOHOKU UNIVERSITY): https://www.tains.tohoku.ac.jp/contents/information/server-info.html
+DOMAIN-SUFFIX,ntp.tohoku.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp1.tohoku.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp2.tohoku.ac.jp,PROXY
+
+# 豊橋技術科学大学(Toyohashi University of Technology): https://imc.tut.ac.jp/misc/
+DOMAIN-SUFFIX,ntp.tut.ac.jp,PROXY
+
+# WAKWAK: https://www.wakwak.com/prl/support/g_internet/server_wakwak.html
+DOMAIN-SUFFIX,ntp1.wakwak.com,PROXY
+DOMAIN-SUFFIX,ntp2.wakwak.com,PROXY

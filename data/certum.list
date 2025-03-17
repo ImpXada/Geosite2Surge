@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,certum.pl,PROXY
+DOMAIN-SUFFIX,ocsp-certum.com,PROXY
+
+# Sub brand
+DOMAIN-SUFFIX,ocsp-responder.com,PROXY    #Yandex

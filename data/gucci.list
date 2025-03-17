@@ -1,0 +1,9 @@
+# All .gucci domains
+DOMAIN-SUFFIX,gucci,PROXY
+
+DOMAIN-SUFFIX,chimeforchange.org,PROXY
+DOMAIN-SUFFIX,gucci.cn,PROXY
+DOMAIN-SUFFIX,gucci.com,PROXY
+DOMAIN-SUFFIX,guccimuseo.com,PROXY
+DOMAIN-SUFFIX,guccitimeless.com,PROXY
+DOMAIN-SUFFIX,regiongold.com,PROXY

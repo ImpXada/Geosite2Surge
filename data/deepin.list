@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,deepin.cn,PROXY
+DOMAIN-SUFFIX,deepin.com,PROXY
+DOMAIN-SUFFIX,deepin.io,PROXY
+DOMAIN-SUFFIX,deepin.org,PROXY
+
+# 统信
+DOMAIN-SUFFIX,chinauos.com,PROXY
+DOMAIN-SUFFIX,uniontech.com,PROXY

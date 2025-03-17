@@ -1,0 +1,19 @@
+DOMAIN-SUFFIX,enterprisessl.com,PROXY
+DOMAIN-SUFFIX,hackerguardian.com,PROXY
+DOMAIN-SUFFIX,instantssl.com,PROXY
+DOMAIN-SUFFIX,oemssl.cn,PROXY
+DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net,PROXY
+DOMAIN-SUFFIX,optimumssl.com,PROXY
+DOMAIN-SUFFIX,positivessl.com,PROXY
+DOMAIN-SUFFIX,sectigo.com,PROXY
+DOMAIN-SUFFIX,sectigochina.com,PROXY
+DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net,PROXY
+DOMAIN-SUFFIX,trust-provider.cn,PROXY
+DOMAIN-SUFFIX,trust-provider.com,PROXY
+DOMAIN-SUFFIX,usertrust.com,PROXY
+
+# Sub brand
+DOMAIN-SUFFIX,aoc.cat,PROXY
+DOMAIN-SUFFIX,catcert.cat,PROXY
+DOMAIN-SUFFIX,incommon-rsa.org,PROXY
+DOMAIN-SUFFIX,netsolssl.com,PROXY

@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,dtci.co,PROXY
+DOMAIN-SUFFIX,dtci.technology,PROXY
+DOMAIN-SUFFIX,espn.co.uk,PROXY
+DOMAIN-SUFFIX,espn.com,PROXY
+DOMAIN-SUFFIX,espn.net,PROXY
+DOMAIN-SUFFIX,espncdn.com,PROXY
+DOMAIN-SUFFIX,espnqa.com,PROXY
+DOMAIN-SUFFIX,watchespn.com,PROXY
+
+DOMAIN,espn.api.edge.bamgrid.com,PROXY
+DOMAIN,espn.hb.omtrdc.net,PROXY
+DOMAIN,espndotcom.tt.omtrdc.net,PROXY

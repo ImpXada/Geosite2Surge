@@ -1,0 +1,21 @@
+# https://support.apple.com/en-us/HT210060
+
+DOMAIN-SUFFIX,appldnld.apple.com,PROXY
+DOMAIN-SUFFIX,gg.apple.com,PROXY
+DOMAIN-SUFFIX,gnf-mdn.apple.com,PROXY
+DOMAIN-SUFFIX,gnf-mr.apple.com,PROXY
+DOMAIN-SUFFIX,gs.apple.com,PROXY
+DOMAIN-SUFFIX,ig.apple.com,PROXY
+DOMAIN-SUFFIX,mesu.apple.com,PROXY
+DOMAIN-SUFFIX,ns.itunes.apple.com,PROXY
+DOMAIN-SUFFIX,oscdn.apple.com,PROXY
+DOMAIN-SUFFIX,osrecovery.apple.com,PROXY
+DOMAIN-SUFFIX,skl.apple.com,PROXY
+DOMAIN-SUFFIX,swcdn.apple.com,PROXY
+DOMAIN-SUFFIX,swdist.apple.com,PROXY
+DOMAIN-SUFFIX,swdownload.apple.com,PROXY
+DOMAIN-SUFFIX,swpost.apple.com,PROXY
+DOMAIN-SUFFIX,swscan.apple.com,PROXY
+DOMAIN-SUFFIX,updates-http.cdn-apple.com,PROXY
+DOMAIN-SUFFIX,updates.cdn-apple.com,PROXY
+DOMAIN-SUFFIX,xp.apple.com,PROXY

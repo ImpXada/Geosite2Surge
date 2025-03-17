@@ -1,0 +1,35 @@
+# Reference: https://zh.wikipedia.org/wiki/%E6%98%9F%E5%B3%B6%E6%96%B0%E8%81%9E%E9%9B%86%E5%9C%98
+
+# 星岛新闻集团
+DOMAIN-SUFFIX,singtaonewscorp.com,PROXY
+
+# 星岛
+DOMAIN-SUFFIX,sing68.com,PROXY
+DOMAIN-SUFFIX,singtao.com,PROXY
+DOMAIN-SUFFIX,singtaobooks.com,PROXY
+DOMAIN-SUFFIX,singtaola.com,PROXY
+DOMAIN-SUFFIX,singtaousa.com,PROXY
+DOMAIN-SUFFIX,stheadline.com,PROXY
+DOMAIN-SUFFIX,singtaoopo.com,PROXY
+
+# 头条日报
+DOMAIN-SUFFIX,hkheadline.com,PROXY
+
+# 英文虎报
+DOMAIN-SUFFIX,thestandard.com.hk,PROXY
+
+# 东周刊
+DOMAIN-SUFFIX,eastweek.com.hk,PROXY
+
+# 东 Touch
+DOMAIN-SUFFIX,easttouch.com.hk,PROXY
+
+# 巴士的报
+DOMAIN-SUFFIX,bastillepost.com,PROXY
+
+# 其他
+DOMAIN-SUFFIX,eduplus.hk,PROXY
+DOMAIN-SUFFIX,headlinejobs.hk,PROXY
+DOMAIN-SUFFIX,jobmarket.com.hk,PROXY
+DOMAIN-SUFFIX,my-magazine.me,PROXY
+DOMAIN-SUFFIX,pcmarket.com.hk,PROXY

@@ -1,0 +1,8 @@
+DOMAIN-SUFFIX,aorus.com,PROXY
+DOMAIN-SUFFIX,aoruszone.cn,PROXY
+DOMAIN-SUFFIX,gigabyte.cn,PROXY
+DOMAIN-SUFFIX,gigabyte.com,PROXY
+
+DOMAIN,gigabyte2.azureedge.net,PROXY
+DOMAIN,sa78gs.wpc.edgecastcdn.net,PROXY
+DOMAIN,sni1dcb6gl.wpc.edgecastcdn.net,PROXY

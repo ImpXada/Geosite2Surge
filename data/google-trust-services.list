@@ -1,0 +1,20 @@
+DOMAIN-SUFFIX,pki.goog,PROXY
+
+DOMAIN,pki-goog.l.google.com,PROXY
+
+DOMAIN,c.pki.goog,PROXY
+DOMAIN,i.pki.goog,PROXY
+DOMAIN,o.pki.goog,PROXY
+
+# Google Public CA API Endpoint
+DOMAIN,publicca.googleapis.com,PROXY
+DOMAIN,preprod-publicca.googleapis.com,PROXY
+
+# Deprecated earlier
+DOMAIN,clients1.google.com,PROXY
+DOMAIN,pki.google.com,PROXY
+
+# Deprecated recently
+DOMAIN,crl.pki.goog,PROXY
+DOMAIN,crls.pki.goog,PROXY
+DOMAIN,ocsp.pki.goog,PROXY

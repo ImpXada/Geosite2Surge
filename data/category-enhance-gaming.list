@@ -1,0 +1,28 @@
+#include:playcover
+DOMAIN-SUFFIX,playcover.io,PROXY
+DOMAIN-SUFFIX,playcover.workers.dev,PROXY
+#include:fflogs
+DOMAIN-SUFFIX,fflogs.com,PROXY
+DOMAIN-SUFFIX,rpglogs.com,PROXY
+
+DOMAIN-SUFFIX,rpglogs.cn,PROXY
+#include:trackernetwork
+DOMAIN-SUFFIX,thetrackernetwork.com,PROXY
+DOMAIN-SUFFIX,tracker.gg,PROXY
+DOMAIN-SUFFIX,tracker.network,PROXY
+
+# Android Emulator
+DOMAIN-SUFFIX,bluestacks.com,PROXY
+DOMAIN-SUFFIX,lsplayer.com,PROXY
+DOMAIN-SUFFIX,yeshen.com,PROXY
+
+# Arknights
+DOMAIN-SUFFIX,maa.plus,PROXY
+DOMAIN-SUFFIX,prts.plus,PROXY
+
+# KanColle
+DOMAIN-SUFFIX,heavenlywind.cc,PROXY
+DOMAIN-SUFFIX,poi.moe,PROXY
+
+
+DOMAIN-SUFFIX,steampp.net,PROXY

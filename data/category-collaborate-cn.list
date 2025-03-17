@@ -1,0 +1,21 @@
+# Remote Desktop
+## Oray
+DOMAIN-SUFFIX,oray.com,PROXY
+DOMAIN-SUFFIX,oray.net,PROXY
+DOMAIN-SUFFIX,orayer.com,PROXY
+DOMAIN-SUFFIX,orayimg.com,PROXY
+DOMAIN-SUFFIX,sunlogin.net,PROXY
+
+## ToDesk
+DOMAIN-SUFFIX,todesk.com,PROXY
+
+# Tower 团队协作
+DOMAIN-SUFFIX,tower.im,PROXY
+
+# 秀米编辑器
+DOMAIN-SUFFIX,tritoninfo.net,PROXY
+DOMAIN-SUFFIX,xiumi.us,PROXY
+DOMAIN-SUFFIX,xiumius.com,PROXY
+
+DOMAIN-SUFFIX,shimo.im,PROXY
+DOMAIN-SUFFIX,yuque.com,PROXY

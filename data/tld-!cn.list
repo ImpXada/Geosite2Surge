@@ -1,0 +1,926 @@
+# References:
+# https://icannwiki.org/Country_code_top-level_domain
+# https://www.101domain.com/branded_domains.htm
+
+## DO NOT RE-INTRODUCE!
+## refer to: https://domain.miit.gov.cn/managerdns/index
+## credit to @mayampi01
+# asia  # Asia-Pacific region
+# baby  # Baby
+# chase  # JPMorgan Chase & Co.
+# chat  # Chat
+# hk  # Hong Kong
+# jpmorgan  # JPMorgan Chase & Co.
+# poker  # Poker
+# quest  # Quest ION Limited
+# saxo  # Saxo Bank A/S
+# tv  # Tuvalu
+# xn--j6w193g  # 香港 Hong Kong SAR, People's Republic of China
+
+#include:google-registry-tld
+# Reference: https://www.registry.google/for-partners/
+# For convenience, please do NOT sort this file.
+
+DOMAIN-SUFFIX,meme,PROXY
+DOMAIN-SUFFIX,ing,PROXY
+DOMAIN-SUFFIX,foo,PROXY
+DOMAIN-SUFFIX,zip,PROXY
+DOMAIN-SUFFIX,mov,PROXY
+DOMAIN-SUFFIX,nexus,PROXY
+DOMAIN-SUFFIX,dad,PROXY
+DOMAIN-SUFFIX,phd,PROXY
+DOMAIN-SUFFIX,prof,PROXY
+DOMAIN-SUFFIX,esq,PROXY
+DOMAIN-SUFFIX,rsvp,PROXY
+DOMAIN-SUFFIX,boo,PROXY
+DOMAIN-SUFFIX,day,PROXY
+DOMAIN-SUFFIX,new,PROXY
+DOMAIN-SUFFIX,dev,PROXY
+DOMAIN-SUFFIX,page,PROXY
+DOMAIN-SUFFIX,app,PROXY
+DOMAIN-SUFFIX,how,PROXY
+DOMAIN-SUFFIX,soy,PROXY
+DOMAIN-SUFFIX,xn--q9jyb4c,PROXY    #.みんな
+
+# Used by U.S. federal government
+DOMAIN-SUFFIX,gov,PROXY
+# Used by U.S. DoD.
+DOMAIN-SUFFIX,mil,PROXY
+# Used by U.S. Higher Education.
+DOMAIN-SUFFIX,edu,PROXY
+
+# ccTLD
+DOMAIN-SUFFIX,ac,PROXY    #Ascension Island
+DOMAIN-SUFFIX,ad,PROXY    #Andorra
+DOMAIN-SUFFIX,ae,PROXY    #United Arab Emirates (UAE)
+DOMAIN-SUFFIX,af,PROXY    #Afghanistan
+DOMAIN-SUFFIX,ag,PROXY    #Antigua and Barbuda
+DOMAIN-SUFFIX,ai,PROXY    #Anguilla
+DOMAIN-SUFFIX,al,PROXY    #Albania
+DOMAIN-SUFFIX,am,PROXY    #Armenia
+DOMAIN-SUFFIX,ao,PROXY    #Angola
+DOMAIN-SUFFIX,aq,PROXY    #Antarctica
+DOMAIN-SUFFIX,ar,PROXY    #Argentina
+DOMAIN-SUFFIX,as,PROXY    #American Samoa
+DOMAIN-SUFFIX,at,PROXY    #Austria
+DOMAIN-SUFFIX,au,PROXY    #Australia
+DOMAIN-SUFFIX,aw,PROXY    #Aruba
+DOMAIN-SUFFIX,ax,PROXY    #Aland Islands
+DOMAIN-SUFFIX,az,PROXY    #Azerbaijan
+DOMAIN-SUFFIX,ba,PROXY    #Bosnia and Herzegovina
+DOMAIN-SUFFIX,bb,PROXY    #Barbados
+DOMAIN-SUFFIX,bd,PROXY    #Bangladesh
+DOMAIN-SUFFIX,be,PROXY    #Belgium
+DOMAIN-SUFFIX,bf,PROXY    #Burkina Faso
+DOMAIN-SUFFIX,bg,PROXY    #Bulgaria
+DOMAIN-SUFFIX,bh,PROXY    #Bahrain
+DOMAIN-SUFFIX,bi,PROXY    #Burundi
+DOMAIN-SUFFIX,bj,PROXY    #Benin
+DOMAIN-SUFFIX,bm,PROXY    #Bermuda
+DOMAIN-SUFFIX,bn,PROXY    #Brunei
+DOMAIN-SUFFIX,bo,PROXY    #Bolivia
+DOMAIN-SUFFIX,br,PROXY    #Brazil
+DOMAIN-SUFFIX,bs,PROXY    #Bahamas
+DOMAIN-SUFFIX,bt,PROXY    #Bhutan
+DOMAIN-SUFFIX,bv,PROXY    #Bouvet Island
+DOMAIN-SUFFIX,bw,PROXY    #Botswana
+DOMAIN-SUFFIX,by,PROXY    #Belarus
+DOMAIN-SUFFIX,bz,PROXY    #Belize
+DOMAIN-SUFFIX,ca,PROXY    #Canada
+DOMAIN-SUFFIX,cd,PROXY    #Congo, Democratic Republic of the (Congo-Kinshasa)
+DOMAIN-SUFFIX,cf,PROXY    #Central African Republic
+DOMAIN-SUFFIX,cg,PROXY    #Congo, Republic of the (Congo-Brazzaville)
+DOMAIN-SUFFIX,ch,PROXY    #Switzerland
+DOMAIN-SUFFIX,ci,PROXY    #Côte d’Ivoire (Ivory Coast)
+DOMAIN-SUFFIX,ck,PROXY    #Cook Islands
+DOMAIN-SUFFIX,cl,PROXY    #Chile
+DOMAIN-SUFFIX,cm,PROXY    #Cameroon
+DOMAIN-SUFFIX,cr,PROXY    #Costa Rica
+DOMAIN-SUFFIX,cu,PROXY    #Cuba
+DOMAIN-SUFFIX,cv,PROXY    #Cape Verde (Cabo Verde)
+DOMAIN-SUFFIX,cw,PROXY    #Curaçao
+DOMAIN-SUFFIX,cx,PROXY    #Christmas Island
+DOMAIN-SUFFIX,cy,PROXY    #Cyprus
+DOMAIN-SUFFIX,cz,PROXY    #Czechia (Czech Republic)
+DOMAIN-SUFFIX,de,PROXY    #Germany
+DOMAIN-SUFFIX,dj,PROXY    #Djibouti
+DOMAIN-SUFFIX,dk,PROXY    #Denmark
+DOMAIN-SUFFIX,dm,PROXY    #Dominica
+DOMAIN-SUFFIX,do,PROXY    #Dominican Republic
+DOMAIN-SUFFIX,dz,PROXY    #Algeria
+DOMAIN-SUFFIX,ec,PROXY    #Ecuador
+DOMAIN-SUFFIX,ee,PROXY    #Estonia
+DOMAIN-SUFFIX,eg,PROXY    #Egypt
+DOMAIN-SUFFIX,er,PROXY    #Eritrea
+DOMAIN-SUFFIX,es,PROXY    #Spain
+DOMAIN-SUFFIX,et,PROXY    #Ethiopia
+DOMAIN-SUFFIX,eu,PROXY    #European Union
+DOMAIN-SUFFIX,fi,PROXY    #Finland
+DOMAIN-SUFFIX,fj,PROXY    #Fiji
+DOMAIN-SUFFIX,fk,PROXY    #Falkland Islands
+DOMAIN-SUFFIX,fm,PROXY    #Federated States of Micronesia
+DOMAIN-SUFFIX,fo,PROXY    #Faeroe Islands
+DOMAIN-SUFFIX,fr,PROXY    #France
+DOMAIN-SUFFIX,ga,PROXY    #Gabon (Gabonese Republic)
+DOMAIN-SUFFIX,gb,PROXY    #The United Kingdom of Great Britain and Northern Ireland
+DOMAIN-SUFFIX,gd,PROXY    #Grenada
+DOMAIN-SUFFIX,ge,PROXY    #Georgia
+DOMAIN-SUFFIX,gf,PROXY    #French Guiana
+DOMAIN-SUFFIX,gg,PROXY    #Guernsey
+DOMAIN-SUFFIX,gh,PROXY    #Ghana
+DOMAIN-SUFFIX,gi,PROXY    #Gibraltar
+DOMAIN-SUFFIX,gl,PROXY    #Greenland
+DOMAIN-SUFFIX,gm,PROXY    #Gambia
+DOMAIN-SUFFIX,gn,PROXY    #Guinea
+DOMAIN-SUFFIX,gp,PROXY    #Guadeloupe
+DOMAIN-SUFFIX,gr,PROXY    #Greece
+DOMAIN-SUFFIX,gs,PROXY    #South Georgia and the South Sandwich Islands
+DOMAIN-SUFFIX,gt,PROXY    #Guatemala
+DOMAIN-SUFFIX,gu,PROXY    #Guam
+DOMAIN-SUFFIX,gw,PROXY    #Guinea-Bissau
+DOMAIN-SUFFIX,gy,PROXY    #Guyana
+DOMAIN-SUFFIX,hm,PROXY    #Heard Island and McDonald Islands
+DOMAIN-SUFFIX,hn,PROXY    #Honduras
+DOMAIN-SUFFIX,hr,PROXY    #Croatia
+DOMAIN-SUFFIX,ht,PROXY    #Haiti
+DOMAIN-SUFFIX,hu,PROXY    #Hungary
+DOMAIN-SUFFIX,id,PROXY    #Indonesia
+DOMAIN-SUFFIX,ie,PROXY    #Ireland
+DOMAIN-SUFFIX,il,PROXY    #Israel
+DOMAIN-SUFFIX,im,PROXY    #Isle of Man
+DOMAIN-SUFFIX,in,PROXY    #India
+DOMAIN-SUFFIX,io,PROXY    #British Indian Ocean Territory
+DOMAIN-SUFFIX,iq,PROXY    #Iraq
+DOMAIN-SUFFIX,ir,PROXY    #Iran
+DOMAIN-SUFFIX,is,PROXY    #Iceland
+DOMAIN-SUFFIX,it,PROXY    #Italy
+DOMAIN-SUFFIX,je,PROXY    #Jersey
+DOMAIN-SUFFIX,jm,PROXY    #Jamaica
+DOMAIN-SUFFIX,jo,PROXY    #Jordan
+DOMAIN-SUFFIX,jp,PROXY    #Japan
+DOMAIN-SUFFIX,ke,PROXY    #Kenya
+DOMAIN-SUFFIX,kg,PROXY    #Kyrgyzstan
+DOMAIN-SUFFIX,kh,PROXY    #Cambodia
+DOMAIN-SUFFIX,ki,PROXY    #Kiribati
+DOMAIN-SUFFIX,km,PROXY    #Comoros
+DOMAIN-SUFFIX,kn,PROXY    #Saint Kitts and Nevis
+DOMAIN-SUFFIX,kp,PROXY    #Democratic People's Republic of Korea
+DOMAIN-SUFFIX,kr,PROXY    #Republic of Korea
+DOMAIN-SUFFIX,kw,PROXY    #Kuwait
+DOMAIN-SUFFIX,ky,PROXY    #Cayman Islands
+DOMAIN-SUFFIX,kz,PROXY    #Kazakhstan
+DOMAIN-SUFFIX,la,PROXY    #Laos
+DOMAIN-SUFFIX,lb,PROXY    #Lebanon
+DOMAIN-SUFFIX,lc,PROXY    #Saint Lucia
+DOMAIN-SUFFIX,li,PROXY    #Liechtenstein
+DOMAIN-SUFFIX,lk,PROXY    #Sri Lanka
+DOMAIN-SUFFIX,lr,PROXY    #Liberia
+DOMAIN-SUFFIX,ls,PROXY    #Lesotho
+DOMAIN-SUFFIX,lt,PROXY    #Lithuania
+DOMAIN-SUFFIX,lu,PROXY    #Luxembourg
+DOMAIN-SUFFIX,lv,PROXY    #Latvia
+DOMAIN-SUFFIX,ly,PROXY    #Libya
+DOMAIN-SUFFIX,ma,PROXY    #Morocco
+DOMAIN-SUFFIX,mc,PROXY    #Monaco
+DOMAIN-SUFFIX,md,PROXY    #Moldova
+DOMAIN-SUFFIX,mg,PROXY    #Madagascar
+DOMAIN-SUFFIX,mh,PROXY    #Marshall Islands
+DOMAIN-SUFFIX,mk,PROXY    #Macedonia, Republic of
+DOMAIN-SUFFIX,ml,PROXY    #Mali
+DOMAIN-SUFFIX,mm,PROXY    #Myanmar
+DOMAIN-SUFFIX,mn,PROXY    #Mongolia
+DOMAIN-SUFFIX,mo,PROXY    #Macau
+DOMAIN-SUFFIX,mp,PROXY    #Northern Mariana Islands
+DOMAIN-SUFFIX,mq,PROXY    #Martinique
+DOMAIN-SUFFIX,mr,PROXY    #Mauritania
+DOMAIN-SUFFIX,ms,PROXY    #Montserrat
+DOMAIN-SUFFIX,mt,PROXY    #Malta
+DOMAIN-SUFFIX,mu,PROXY    #Mauritius
+DOMAIN-SUFFIX,mv,PROXY    #Maldives
+DOMAIN-SUFFIX,mw,PROXY    #Malawi
+DOMAIN-SUFFIX,mx,PROXY    #Mexico
+DOMAIN-SUFFIX,my,PROXY    #Malaysia
+DOMAIN-SUFFIX,mz,PROXY    #Mozambique
+DOMAIN-SUFFIX,na,PROXY    #Namibia
+DOMAIN-SUFFIX,nc,PROXY    #New Caledonia
+DOMAIN-SUFFIX,ne,PROXY    #Niger
+DOMAIN-SUFFIX,nf,PROXY    #Norfolk Island
+DOMAIN-SUFFIX,ng,PROXY    #Nigeria
+DOMAIN-SUFFIX,ni,PROXY    #Nicaragua
+DOMAIN-SUFFIX,nl,PROXY    #Netherlands
+DOMAIN-SUFFIX,no,PROXY    #Norway
+DOMAIN-SUFFIX,np,PROXY    #Nepal
+DOMAIN-SUFFIX,nr,PROXY    #Nauru
+DOMAIN-SUFFIX,nu,PROXY    #Niue
+DOMAIN-SUFFIX,nz,PROXY    #New Zealand
+DOMAIN-SUFFIX,om,PROXY    #Oman
+DOMAIN-SUFFIX,pa,PROXY    #Panama
+DOMAIN-SUFFIX,pe,PROXY    #Peru
+DOMAIN-SUFFIX,pf,PROXY    #French Polynesia
+DOMAIN-SUFFIX,pg,PROXY    #Papua New Guinea
+DOMAIN-SUFFIX,ph,PROXY    #Philippines
+DOMAIN-SUFFIX,pk,PROXY    #Pakistan
+DOMAIN-SUFFIX,pl,PROXY    #Poland
+DOMAIN-SUFFIX,pm,PROXY    #Saint-Pierre and Miquelon
+DOMAIN-SUFFIX,pn,PROXY    #Pitcairn Islands
+DOMAIN-SUFFIX,pr,PROXY    #Puerto Rico
+DOMAIN-SUFFIX,ps,PROXY    #Gaza Strip (Gaza)
+DOMAIN-SUFFIX,ps,PROXY    #Palestine
+DOMAIN-SUFFIX,pt,PROXY    #Portugal
+DOMAIN-SUFFIX,py,PROXY    #Paraguay
+DOMAIN-SUFFIX,qa,PROXY    #Qatar
+DOMAIN-SUFFIX,re,PROXY    #Réunion Island
+DOMAIN-SUFFIX,ro,PROXY    #Romania
+DOMAIN-SUFFIX,rs,PROXY    #Serbia
+DOMAIN-SUFFIX,ru,PROXY    #Russia
+DOMAIN-SUFFIX,rw,PROXY    #Rwanda
+DOMAIN-SUFFIX,sa,PROXY    #Saudi Arabia
+DOMAIN-SUFFIX,sb,PROXY    #Solomon Islands
+DOMAIN-SUFFIX,sc,PROXY    #Seychelles
+DOMAIN-SUFFIX,sd,PROXY    #Sudan
+DOMAIN-SUFFIX,se,PROXY    #Sweden
+DOMAIN-SUFFIX,sg,PROXY    #Singapore
+DOMAIN-SUFFIX,sh,PROXY    #Saint Helena
+DOMAIN-SUFFIX,si,PROXY    #Slovenia
+DOMAIN-SUFFIX,sj,PROXY    #Svalbard and Jan Mayen Islands
+DOMAIN-SUFFIX,sk,PROXY    #Slovakia
+DOMAIN-SUFFIX,sl,PROXY    #Sierra Leone
+DOMAIN-SUFFIX,sm,PROXY    #San Marino
+DOMAIN-SUFFIX,sn,PROXY    #Senegal
+DOMAIN-SUFFIX,so,PROXY    #Somalia
+DOMAIN-SUFFIX,so,PROXY    #Somaliland
+DOMAIN-SUFFIX,sr,PROXY    #Suriname
+DOMAIN-SUFFIX,ss,PROXY    #South Sudan
+DOMAIN-SUFFIX,st,PROXY    #São Tomé and Príncipe
+DOMAIN-SUFFIX,su,PROXY    #The Union of Soviet Socialist Republic
+DOMAIN-SUFFIX,sv,PROXY    #El Salvador
+DOMAIN-SUFFIX,sx,PROXY    #Sint Maarten
+DOMAIN-SUFFIX,sy,PROXY    #Syria
+DOMAIN-SUFFIX,sz,PROXY    #Swaziland
+DOMAIN-SUFFIX,tc,PROXY    #Turks and Caicos Islands
+DOMAIN-SUFFIX,td,PROXY    #Chad
+DOMAIN-SUFFIX,tf,PROXY    #French Southern and Antarctic Lands
+DOMAIN-SUFFIX,tg,PROXY    #Togo
+DOMAIN-SUFFIX,th,PROXY    #Thailand
+DOMAIN-SUFFIX,tj,PROXY    #Tajikistan
+DOMAIN-SUFFIX,tk,PROXY    #Tokelau
+DOMAIN-SUFFIX,tl,PROXY    #East Timor (Timor-Leste)
+DOMAIN-SUFFIX,tm,PROXY    #Turkmenistan
+DOMAIN-SUFFIX,tn,PROXY    #Tunisia
+DOMAIN-SUFFIX,to,PROXY    #Tonga
+DOMAIN-SUFFIX,tr,PROXY    #Turkey
+DOMAIN-SUFFIX,tt,PROXY    #Trinidad & Tobago
+DOMAIN-SUFFIX,tw,PROXY    #Taiwan (Republic of China)
+DOMAIN-SUFFIX,tz,PROXY    #Tanzania
+DOMAIN-SUFFIX,ua,PROXY    #Ukraine
+DOMAIN-SUFFIX,ug,PROXY    #Uganda
+DOMAIN-SUFFIX,uk,PROXY    #United Kingdom (UK)
+DOMAIN-SUFFIX,us,PROXY    #United States of America (USA)
+DOMAIN-SUFFIX,uy,PROXY    #Uruguay
+DOMAIN-SUFFIX,uz,PROXY    #Uzbekistan
+DOMAIN-SUFFIX,va,PROXY    #Vatican City
+DOMAIN-SUFFIX,vc,PROXY    #Saint Vincent and the Grenadines
+DOMAIN-SUFFIX,ve,PROXY    #Venezuela
+DOMAIN-SUFFIX,vg,PROXY    #British Virgin Islands
+DOMAIN-SUFFIX,vi,PROXY    #United States Virgin Islands
+DOMAIN-SUFFIX,vn,PROXY    #Vietnam
+DOMAIN-SUFFIX,vu,PROXY    #Vanuatu
+DOMAIN-SUFFIX,wf,PROXY    #Wallis and Futuna
+DOMAIN-SUFFIX,ws,PROXY    #Samoa
+DOMAIN-SUFFIX,ye,PROXY    #Yemen
+DOMAIN-SUFFIX,yt,PROXY    #Mayotte
+DOMAIN-SUFFIX,za,PROXY    #South Africa
+DOMAIN-SUFFIX,zm,PROXY    #Zambia
+DOMAIN-SUFFIX,zw,PROXY    #Zimbabwe
+
+# Athletics Domains
+DOMAIN-SUFFIX,afl,PROXY    #Australian Football League
+DOMAIN-SUFFIX,mlb,PROXY    #MLB Advanced Media DH, LLC
+DOMAIN-SUFFIX,nba,PROXY    #National Basketball Association
+DOMAIN-SUFFIX,nfl,PROXY    #National Football League
+DOMAIN-SUFFIX,nra,PROXY    #National Rifle Association
+
+# Business Products & Services Domains
+DOMAIN-SUFFIX,crs,PROXY    #Federated Co operatives Limited
+DOMAIN-SUFFIX,dnp,PROXY    #Dai Nippon Printing Co., Ltd.
+DOMAIN-SUFFIX,dvag,PROXY    #Deutsche Vermögensberatung Aktiengesellschaft DVAG
+DOMAIN-SUFFIX,erni,PROXY    #ERNI Group Holding AG
+DOMAIN-SUFFIX,ice,PROXY    #IntercontinentalExchange, Inc.
+DOMAIN-SUFFIX,locus,PROXY    #Locus Analytics LLC
+DOMAIN-SUFFIX,mckinsey,PROXY    #McKinsey Holdings, Inc.
+DOMAIN-SUFFIX,olayangroup,PROXY    #Olayan Investments Company Establishment
+DOMAIN-SUFFIX,olayan,PROXY    #Olayan Investments Company Establishment
+DOMAIN-SUFFIX,praxi,PROXY    #Praxi S.p.A.
+DOMAIN-SUFFIX,sap,PROXY    #SAP AG
+DOMAIN-SUFFIX,seek,PROXY    #Seek Limited
+DOMAIN-SUFFIX,wtc,PROXY    #World Trade Centers Association, Inc.
+DOMAIN-SUFFIX,xerox,PROXY    #Business Products Services Domains
+
+# Fashion Domains
+DOMAIN-SUFFIX,athleta,PROXY    #The Gap, Inc.
+DOMAIN-SUFFIX,bloomberg,PROXY    #Bloomberg IP Holdings LLC
+DOMAIN-SUFFIX,calvinklein,PROXY    #Calvin Klein
+DOMAIN-SUFFIX,gap,PROXY    #The Gap, Inc.
+DOMAIN-SUFFIX,gucci,PROXY    #Guccio Gucci S.p.a.
+DOMAIN-SUFFIX,hermes,PROXY    #Hermes Internatinoal
+DOMAIN-SUFFIX,lancaster,PROXY    #Fashion Domains
+DOMAIN-SUFFIX,lipsy,PROXY    #Lipsy Ltd
+DOMAIN-SUFFIX,mango,PROXY    #Fashion Domains
+DOMAIN-SUFFIX,nextdirect,PROXY    #Next PLC
+DOMAIN-SUFFIX,next,PROXY    #Next PLC
+DOMAIN-SUFFIX,nike,PROXY    #Nike, Inc.
+DOMAIN-SUFFIX,omega,PROXY    #The Swatch Group Ltd
+DOMAIN-SUFFIX,redstone,PROXY    #Redstone Haute Couture Co., Ltd.
+DOMAIN-SUFFIX,swatch,PROXY    #The Swatch Group Ltd
+
+# Geographic top-level domains
+
+## Africa
+DOMAIN-SUFFIX,africa,PROXY    #Africa
+DOMAIN-SUFFIX,capetown,PROXY    #Cape Town, South Africa
+DOMAIN-SUFFIX,durban,PROXY    #Durban, South Africa
+DOMAIN-SUFFIX,joburg,PROXY    #Johannesburg, South Africa
+
+## Asia
+DOMAIN-SUFFIX,abudhabi,PROXY    #Abu Dhabi
+DOMAIN-SUFFIX,arab,PROXY    #Leagueof Arab States
+DOMAIN-SUFFIX,dubai,PROXY    #Dubai
+DOMAIN-SUFFIX,krd,PROXY    #Kurdistan
+DOMAIN-SUFFIX,kyoto,PROXY    #Kyoto, Japan
+DOMAIN-SUFFIX,nagoya,PROXY    #Nagoya, Japan
+DOMAIN-SUFFIX,okinawa,PROXY    #Okinawa, Japan
+DOMAIN-SUFFIX,osaka,PROXY    #Osaka, Japan
+DOMAIN-SUFFIX,ryukyu,PROXY    #Ryukyu Islands, Japan
+DOMAIN-SUFFIX,taipei,PROXY    #Taipei, Republic of China (Taiwan)
+DOMAIN-SUFFIX,tatar,PROXY    #Tatar peoples and places
+DOMAIN-SUFFIX,tokyo,PROXY    #Tokyo, Japan
+DOMAIN-SUFFIX,yokohama,PROXY    #Yokohama, Japan
+
+## Europe
+DOMAIN-SUFFIX,alsace,PROXY    #Alsace, France
+DOMAIN-SUFFIX,amsterdam,PROXY    #Amsterdam, Netherlands
+DOMAIN-SUFFIX,bar,PROXY    #Bar, Montenegro
+DOMAIN-SUFFIX,barcelona,PROXY    #Barcelona, Spain
+DOMAIN-SUFFIX,bayern,PROXY    #Bavaria, Germany
+DOMAIN-SUFFIX,bcn,PROXY    #Barcelona, Spain
+DOMAIN-SUFFIX,berlin,PROXY    #Berlin, Germany
+DOMAIN-SUFFIX,brussels,PROXY    #Brussels, Belgium
+DOMAIN-SUFFIX,bzh,PROXY    #Brittany, France
+DOMAIN-SUFFIX,cat,PROXY    #Catalonia, Spain
+DOMAIN-SUFFIX,corsica,PROXY    #Corsica, France
+DOMAIN-SUFFIX,cymru,PROXY    #Wales, United Kingdom
+DOMAIN-SUFFIX,eus,PROXY    #Basque
+DOMAIN-SUFFIX,frl,PROXY    #Friesland, Netherlands
+DOMAIN-SUFFIX,gal,PROXY    #Galicia, Spain
+DOMAIN-SUFFIX,gent,PROXY    #Ghent, Belgium
+DOMAIN-SUFFIX,hamburg,PROXY    #Hamburg, Germany
+DOMAIN-SUFFIX,helsinki,PROXY    #Helsinki, Finland
+DOMAIN-SUFFIX,irish,PROXY    #Ireland
+DOMAIN-SUFFIX,ist,PROXY    #İstanbul, Turkey
+DOMAIN-SUFFIX,istanbul,PROXY    #İstanbul, Turkey
+DOMAIN-SUFFIX,koeln,PROXY    #Cologne, Germany
+DOMAIN-SUFFIX,london,PROXY    #London, United Kingdom
+DOMAIN-SUFFIX,madrid,PROXY    #Madrid, Spain
+DOMAIN-SUFFIX,moscow,PROXY    #Moscow, Russia
+DOMAIN-SUFFIX,nrw,PROXY    #North Rhine-Westphalia, Germany
+DOMAIN-SUFFIX,paris,PROXY    #Paris, France
+DOMAIN-SUFFIX,ruhr,PROXY    #Ruhr, Germany
+DOMAIN-SUFFIX,saarland,PROXY    #Saarland, Germany
+DOMAIN-SUFFIX,scot,PROXY    #Scotland, United Kingdom
+DOMAIN-SUFFIX,stockholm,PROXY    #Stockholm, Sweden
+DOMAIN-SUFFIX,swiss,PROXY    #Switzerland
+DOMAIN-SUFFIX,tirol,PROXY    #Tyrol, Austria
+DOMAIN-SUFFIX,vlaanderen,PROXY    #Flanders, Belgium
+DOMAIN-SUFFIX,wales,PROXY    #Wales, United Kingdom
+DOMAIN-SUFFIX,wien,PROXY    #Vienna, Austria
+DOMAIN-SUFFIX,zuerich,PROXY    #Zurich, Switzerland
+
+## North America
+DOMAIN-SUFFIX,boston,PROXY    #Boston, Massachusetts, United States of America
+DOMAIN-SUFFIX,miami,PROXY    #Miami, Florida, United States of America
+DOMAIN-SUFFIX,nyc,PROXY    #New York City, New York, United States of America
+DOMAIN-SUFFIX,quebec,PROXY    #Quebec, Canada
+DOMAIN-SUFFIX,vegas,PROXY    #Las Vegas, Nevada, United States of America
+
+## Oceania
+DOMAIN-SUFFIX,kiwi,PROXY    #New Zealanders
+DOMAIN-SUFFIX,melbourne,PROXY    #Melbourne, Australia
+DOMAIN-SUFFIX,sydney,PROXY    #Sydney, Australia
+
+## South America
+DOMAIN-SUFFIX,lat,PROXY    #Latin America
+DOMAIN-SUFFIX,rio,PROXY    #Rio de Janeiro, Brazil
+
+# Health & Wellness Domains
+DOMAIN-SUFFIX,aarp,PROXY    #Health Wellness Domains
+DOMAIN-SUFFIX,abbott,PROXY    #Abbott Laboratories
+DOMAIN-SUFFIX,abbvie,PROXY    #Abbott Laboratories
+DOMAIN-SUFFIX,aetna,PROXY    #Aetna Life Insurance Company
+DOMAIN-SUFFIX,bms,PROXY    #Bristol-Myers Squibb Company
+DOMAIN-SUFFIX,boehringer,PROXY    #Boehringer Ingelheim Pharma GmbH & Co. KG
+DOMAIN-SUFFIX,dabur,PROXY    #Dabur India Limited
+DOMAIN-SUFFIX,fresenius,PROXY    #Fresenius Immobilien-Verwaltungs-GmbH
+DOMAIN-SUFFIX,jnj,PROXY    #Johnson & Johnson Services, Inc.
+DOMAIN-SUFFIX,sanofi,PROXY    #Health Wellness Domains
+
+# Industrial Domains
+DOMAIN-SUFFIX,aeg,PROXY    #Aktiebolaget Electrolux
+DOMAIN-SUFFIX,airbus,PROXY    #Airbus S.A.S.
+DOMAIN-SUFFIX,alstom,PROXY    #Industrial Domains
+DOMAIN-SUFFIX,aramco,PROXY    #Aramco Services Company
+DOMAIN-SUFFIX,bosch,PROXY    #Robert Bosch GMBH
+DOMAIN-SUFFIX,bostik,PROXY    #Bostik SA
+DOMAIN-SUFFIX,crown,PROXY    #Crown Equipment Corporation
+DOMAIN-SUFFIX,dupont,PROXY    #E.I. du Pont de Nemours and Company
+DOMAIN-SUFFIX,flir,PROXY    #FLIR Systems, Inc.
+DOMAIN-SUFFIX,grainger,PROXY    #Industrial Domains
+DOMAIN-SUFFIX,hitachi,PROXY    #Hitachi Ltd.
+DOMAIN-SUFFIX,ifm,PROXY    #Ifm Electronic gmbh
+DOMAIN-SUFFIX,ipiranga,PROXY    #Ipiranga Produtos de Petroleo S.A.
+DOMAIN-SUFFIX,jio,PROXY    #Reliance Industries Limited
+DOMAIN-SUFFIX,komatsu,PROXY    #Komatsu Ltd.
+DOMAIN-SUFFIX,kuokgroup,PROXY    #Kerry Trading Co. Limited
+DOMAIN-SUFFIX,leclerc,PROXY    #Industrial Domains
+DOMAIN-SUFFIX,lidl,PROXY    #Schwarzs und Services GmbH & Co. KG
+DOMAIN-SUFFIX,lotte,PROXY    #Lotte Holdings Co., Ltd.
+DOMAIN-SUFFIX,man,PROXY    #Man SE
+DOMAIN-SUFFIX,mtr,PROXY    #MTR Corporation Limited
+DOMAIN-SUFFIX,reliance,PROXY    #Reliance Industries Limited
+DOMAIN-SUFFIX,rexroth,PROXY    #Bosch Rexroth AG
+DOMAIN-SUFFIX,ril,PROXY    #Reliance Industries Limited
+DOMAIN-SUFFIX,rwe,PROXY    #Rwe AG
+DOMAIN-SUFFIX,sandvikcoromant,PROXY    #Sandvik AB
+DOMAIN-SUFFIX,sandvik,PROXY    #Sandvik AB
+DOMAIN-SUFFIX,schaeffler,PROXY    #Schaeffler Technologies AG & Co. KG
+DOMAIN-SUFFIX,schmidt,PROXY    #SALM S.A.S.
+DOMAIN-SUFFIX,schwarz,PROXY    #Schwarzs und Services GmbH & Co. KG
+DOMAIN-SUFFIX,sener,PROXY    #Sener Ingeniería y Sistemas, S.A.
+DOMAIN-SUFFIX,sew,PROXY    #Sew Eurodrive
+DOMAIN-SUFFIX,sncf,PROXY    #Société Nationale des Chemins de fer Francais S N C F
+DOMAIN-SUFFIX,total,PROXY    #Total SA
+DOMAIN-SUFFIX,walter,PROXY    #Sandvik AB
+DOMAIN-SUFFIX,weber,PROXY    #Saint-Gobain Weber SA
+DOMAIN-SUFFIX,weir,PROXY    #Weir Group IP Limited
+DOMAIN-SUFFIX,woodside,PROXY    #Woodside Petroleum Limited
+DOMAIN-SUFFIX,zara,PROXY    #Inditex, SA
+
+# Miscellaneous Domains
+DOMAIN-SUFFIX,africamagic,PROXY    #Electronic Media Network Limited
+DOMAIN-SUFFIX,agakhan,PROXY    #Aga Khan Foundation
+DOMAIN-SUFFIX,akdn,PROXY    #Aga Khan Foundation
+DOMAIN-SUFFIX,bar,PROXY    #A place which provide liquor
+DOMAIN-SUFFIX,bharti,PROXY    #Bharti Enterprises
+DOMAIN-SUFFIX,bingo,PROXY    #Bingo
+DOMAIN-SUFFIX,casa,PROXY    #Casa (Home)
+DOMAIN-SUFFIX,casino,PROXY    #Online Casino
+DOMAIN-SUFFIX,dating,PROXY    #Dating
+DOMAIN-SUFFIX,domains,PROXY    #Domain Name Register
+DOMAIN-SUFFIX,extraspace,PROXY    #Extra Space Storage LLC
+DOMAIN-SUFFIX,gay,PROXY    #Homosexuality
+DOMAIN-SUFFIX,genting,PROXY    #Resorts World Inc Pte. Ltd.
+DOMAIN-SUFFIX,hot,PROXY    #No specific purpose
+DOMAIN-SUFFIX,ikano,PROXY    #Ikano S.A.
+DOMAIN-SUFFIX,imamat,PROXY    #Aga Khan Foundation
+DOMAIN-SUFFIX,lgbt,PROXY    #Lesbian, Gay, Bisexual, Transgender
+DOMAIN-SUFFIX,maif,PROXY    #Mutuelle Assurance Instituteur France (MAIF)
+DOMAIN-SUFFIX,mattel,PROXY    #Mattel Sites, Inc.
+DOMAIN-SUFFIX,moe,PROXY    #Japanese slang
+DOMAIN-SUFFIX,sas,PROXY    #SAS institute
+DOMAIN-SUFFIX,shell,PROXY    #Shell Information Technology International Inc
+DOMAIN-SUFFIX,shia,PROXY    #Shia Muslim community
+DOMAIN-SUFFIX,style,PROXY    #though the comment actually seems to be about .tattoo
+DOMAIN-SUFFIX,sucks,PROXY    #Vox Populi Registry
+DOMAIN-SUFFIX,tatar,PROXY    #Limited Liability Company "Coordination Center of Regional Domain of Tatarstan Republic"
+DOMAIN-SUFFIX,tattoo,PROXY    #Tattoo
+DOMAIN-SUFFIX,vana,PROXY    #Scripps Networks Interactive, Inc.
+DOMAIN-SUFFIX,virgin,PROXY    #Virgin Enterprises Limited
+DOMAIN-SUFFIX,vodka,PROXY    #Alcohol
+DOMAIN-SUFFIX,wine,PROXY    #Alcohol
+DOMAIN-SUFFIX,wme,PROXY    #William Morris Endeavor Entertainment, LLC
+DOMAIN-SUFFIX,wtf,PROXY    #What the fuck
+
+# Religion
+DOMAIN-SUFFIX,bible,PROXY    #Bible
+DOMAIN-SUFFIX,catholic,PROXY    #Catholic
+DOMAIN-SUFFIX,ismaili,PROXY    #a Shiite sect
+DOMAIN-SUFFIX,xn--mgbi4ecexp,PROXY    #Arabic for Catholic
+
+# Research & Science Domains
+DOMAIN-SUFFIX,cern,PROXY    #European Organization for Nuclear Research
+DOMAIN-SUFFIX,emerck,PROXY    #Merck
+DOMAIN-SUFFIX,hisamitsu,PROXY    #Hisamitsu Pharmaceutical Co., Inc.
+DOMAIN-SUFFIX,lilly,PROXY    #Eli Lilly and Company
+DOMAIN-SUFFIX,lundbeck,PROXY    #H. Lundbeck A/S
+DOMAIN-SUFFIX,merckmsd,PROXY    #Merck
+DOMAIN-SUFFIX,msd,PROXY    #Merck
+DOMAIN-SUFFIX,otsuka,PROXY    #Otsuka Holdings Co., Ltd.
+DOMAIN-SUFFIX,pfizer,PROXY    #Pfizer Inc.
+DOMAIN-SUFFIX,stada,PROXY    #STADA Arzneimittel AG
+DOMAIN-SUFFIX,teva,PROXY    #Teva Pharmaceutical Industries Limited
+DOMAIN-SUFFIX,toray,PROXY    #Toray Industries, Inc.
+DOMAIN-SUFFIX,weather,PROXY    #The Weather Channel LLC
+
+# Sex & Porn
+DOMAIN-SUFFIX,adult,PROXY    #Adult content
+DOMAIN-SUFFIX,porn,PROXY    #Pornographic website
+DOMAIN-SUFFIX,sex,PROXY    #Sex
+DOMAIN-SUFFIX,sexy,PROXY    #Sexy
+DOMAIN-SUFFIX,xxx,PROXY    #Pornographic website
+
+# Shipping & Delivery Domains
+DOMAIN-SUFFIX,auspost,PROXY    #Australian Postal Corporation
+DOMAIN-SUFFIX,dhl,PROXY    #Deutsche Post AG
+DOMAIN-SUFFIX,fedex,PROXY    #Federal Express Corporation
+
+# Top domain of Country or Region (Internationalized Domain Name)
+
+DOMAIN-SUFFIX,xn--lgbbat1ad8j,PROXY    #الجزائر Algeria
+DOMAIN-SUFFIX,xn--y9a3aq,PROXY    #հայ Armenia
+DOMAIN-SUFFIX,xn--mgbcpq6gpa1a,PROXY    #البحرين Bahrain
+DOMAIN-SUFFIX,xn--54b7fta0cc,PROXY    #বাংলা Bangladesh
+DOMAIN-SUFFIX,xn--90ais,PROXY    #бел Belarus
+DOMAIN-SUFFIX,xn--90ae,PROXY    #бг Bulgaria
+DOMAIN-SUFFIX,xn--wgbh1c,PROXY    #مصر Egypt
+DOMAIN-SUFFIX,xn--e1a4c,PROXY    #ею European Union
+DOMAIN-SUFFIX,xn--qxa6a,PROXY    #ευ European Union
+DOMAIN-SUFFIX,xn--node,PROXY    #გე Georgia
+DOMAIN-SUFFIX,xn--qxam,PROXY    #ελ Greece
+DOMAIN-SUFFIX,xn--4dbrk0ce,PROXY    #ישראל Israel
+DOMAIN-SUFFIX,xn--h2brj9c,PROXY    #भारत India
+DOMAIN-SUFFIX,xn--mgbbh1a71e,PROXY    #بھارت India
+DOMAIN-SUFFIX,xn--fpcrj9c3d,PROXY    #భారత్ India
+DOMAIN-SUFFIX,xn--gecrj9c,PROXY    #ભારત India
+DOMAIN-SUFFIX,xn--s9brj9c,PROXY    #ਭਾਰਤ India
+DOMAIN-SUFFIX,xn--45brj9c,PROXY    #ভারত India
+DOMAIN-SUFFIX,xn--xkc2dl3a5ee0h,PROXY    #இந்தியா India
+DOMAIN-SUFFIX,xn--2scrj9c,PROXY    #ಭಾರತ India
+DOMAIN-SUFFIX,xn--rvc1e0am3e,PROXY    #ഭാരതം India
+DOMAIN-SUFFIX,xn--45br5cyl,PROXY    #ভাৰত India
+DOMAIN-SUFFIX,xn--3hcrj9c,PROXY    #ଭାରତ India
+DOMAIN-SUFFIX,xn--mgbbh1a,PROXY    #بارت India
+DOMAIN-SUFFIX,xn--h2breg3eve,PROXY    #भारतम् India
+DOMAIN-SUFFIX,xn--h2brj9c8c,PROXY    #भारोत India
+DOMAIN-SUFFIX,xn--mgbgu82a,PROXY    #ڀارت India
+DOMAIN-SUFFIX,xn--mgba3a4f16a,PROXY    #ایران Iran
+DOMAIN-SUFFIX,xn--mgba3a4fra,PROXY    #ايران Iran
+DOMAIN-SUFFIX,xn--mgbtx2b,PROXY    #عراق Iraq
+DOMAIN-SUFFIX,xn--mgbayh7gpa,PROXY    #الاردن Jordan
+DOMAIN-SUFFIX,xn--80ao21a,PROXY    #қаз Kazakhstan
+DOMAIN-SUFFIX,xn--3e0b707e,PROXY    #한국 Korea
+DOMAIN-SUFFIX,xn--q7ce6a,PROXY    #ລາວ Laos
+DOMAIN-SUFFIX,xn--mix891f,PROXY    #澳門 Macao SAR, People's Republic of China
+DOMAIN-SUFFIX,xn--mix082f,PROXY    #澳门 Macao SAR, People's Republic of China
+DOMAIN-SUFFIX,xn--d1alf,PROXY    #мкд North Macedonia
+DOMAIN-SUFFIX,xn--mgbx4cd0ab,PROXY    #مليسيا. Malaysia
+DOMAIN-SUFFIX,xn--mgbah1a3hjkrd,PROXY    #موريتانيا Mauritania
+DOMAIN-SUFFIX,xn--l1acc,PROXY    #мон Mongolia
+DOMAIN-SUFFIX,xn--mgbc0a9azcg,PROXY    #المغرب Morocco
+DOMAIN-SUFFIX,xn--mgb9awbf,PROXY    #عمان Oman
+DOMAIN-SUFFIX,xn--mgbai9azgqp6j,PROXY    #پاکستان Pakistan
+DOMAIN-SUFFIX,xn--mgbai9a5eva00b,PROXY    #پاكستان Pakistan
+DOMAIN-SUFFIX,xn--ygbi2ammx,PROXY    #فلسطين Palestine
+DOMAIN-SUFFIX,xn--wgbl6a,PROXY    #قطر Qatar
+DOMAIN-SUFFIX,xn--p1ai,PROXY    #рф Russian Federation
+DOMAIN-SUFFIX,xn--mgberp4a5d4ar,PROXY    #السعودية Saudi Arabia
+DOMAIN-SUFFIX,xn--mgberp4a5d4a87g,PROXY    #السعودیة Saudi Arabia
+DOMAIN-SUFFIX,xn--mgbqly7c0a67fbc,PROXY    #السعودیۃ Saudi Arabia
+DOMAIN-SUFFIX,xn--mgbqly7cvafr,PROXY    #السعوديه Saudi Arabia
+DOMAIN-SUFFIX,xn--90a3ac,PROXY    #срб Serbia
+DOMAIN-SUFFIX,xn--yfro4i67o,PROXY    #新加坡 Singapore
+DOMAIN-SUFFIX,xn--fzc2c9e2c,PROXY    #ලංකා Sri Lanka
+DOMAIN-SUFFIX,xn--mgbpl2fh,PROXY    #سودان Sudan
+DOMAIN-SUFFIX,xn--ogbpf8fl,PROXY    #سورية Syrian Arab Republic
+DOMAIN-SUFFIX,xn--mgbtf8fl,PROXY    #سوريا Syrian Arab Republic
+DOMAIN-SUFFIX,xn--kpry57d,PROXY    #台灣 Taiwan Province, Republic of China
+DOMAIN-SUFFIX,xn--kprw13d,PROXY    #台湾 Taiwan Province, Republic of China
+DOMAIN-SUFFIX,xn--nnx388a,PROXY    #臺灣 Taiwan Province, Republic of China
+DOMAIN-SUFFIX,xn--o3cw4h,PROXY    #ไทย Thailand
+DOMAIN-SUFFIX,xn--pgbs0dh,PROXY    #تونس Tunisia
+DOMAIN-SUFFIX,xn--j1amh,PROXY    #укр Ukraine
+DOMAIN-SUFFIX,xn--mgbaam7a8h,PROXY    #امارات United Arab Emirates
+DOMAIN-SUFFIX,xn--mgb2ddes,PROXY    #اليمن Yemen
+
+# Automotive Domains
+DOMAIN-SUFFIX,aaa,PROXY    #American Automobile Association
+DOMAIN-SUFFIX,audi,PROXY    #Automotive Domains
+DOMAIN-SUFFIX,bentley,PROXY    #Bentley Motors Limited
+DOMAIN-SUFFIX,bmw,PROXY    #Bayerische Motoren Werke AG
+DOMAIN-SUFFIX,bridgestone,PROXY    #Bridgestone Corporation
+DOMAIN-SUFFIX,case,PROXY    #Fiat Industrial S.p.A
+DOMAIN-SUFFIX,datsun,PROXY    #Nissan Motor Company
+DOMAIN-SUFFIX,dunlop,PROXY    #The Goodyear Tire & Rubber Company
+DOMAIN-SUFFIX,ferrari,PROXY    #Fiat Industrial S.p.A
+DOMAIN-SUFFIX,firestone,PROXY    #Bridgestone Corporation
+DOMAIN-SUFFIX,ford,PROXY    #Ford Motor Company
+DOMAIN-SUFFIX,goodyear,PROXY    #The Goodyear Tire & Rubber Company
+DOMAIN-SUFFIX,honda,PROXY    #Honda Motor Co., Ltd.
+DOMAIN-SUFFIX,hyundai,PROXY    #Hyundai Motor Company
+DOMAIN-SUFFIX,infiniti,PROXY    #Nissan Motor Company
+DOMAIN-SUFFIX,jaguar,PROXY    #Jaguar Cars Limited
+DOMAIN-SUFFIX,jeep,PROXY    #Chrysler Group LLC.
+DOMAIN-SUFFIX,kia,PROXY    #Kia Motors Corporation
+DOMAIN-SUFFIX,lamborghini,PROXY    #Automobili Lamborghini S.p.A.
+DOMAIN-SUFFIX,landrover,PROXY    #Land Rover
+DOMAIN-SUFFIX,lexus,PROXY    #Toyota
+DOMAIN-SUFFIX,lincoln,PROXY    #Ford Motor Company
+DOMAIN-SUFFIX,mini,PROXY    #Bayerische Motoren Werke Aktiengesellschaft
+DOMAIN-SUFFIX,mitsubishi,PROXY    #Mitsubishi Corporation
+DOMAIN-SUFFIX,nissan,PROXY    #Nissan Motor Company
+DOMAIN-SUFFIX,seat,PROXY    #SEAT, S.A. (Sociedad Unipersonal)
+DOMAIN-SUFFIX,suzuki,PROXY    #Suzuki Motor Corporation
+DOMAIN-SUFFIX,tatamotors,PROXY    #Tata Motors Ltd
+DOMAIN-SUFFIX,toyota,PROXY    #Automotive Domains
+DOMAIN-SUFFIX,tvs,PROXY    #T V Sundram Iyengar & Sons Limited
+DOMAIN-SUFFIX,volvo,PROXY    #Volvo Cars
+
+# Computers & Electronics Domains
+DOMAIN-SUFFIX,android,PROXY    #Google
+DOMAIN-SUFFIX,apple,PROXY    #Apple Inc.
+DOMAIN-SUFFIX,bestbuy,PROXY    #BBY Solutions, Inc.
+DOMAIN-SUFFIX,brother,PROXY    #Brother Industries, Ltd.
+DOMAIN-SUFFIX,canon,PROXY    #Computers Electronics Domains
+DOMAIN-SUFFIX,dell,PROXY    #Dell Inc.
+DOMAIN-SUFFIX,fujitsu,PROXY    #Fujitsu Limited
+DOMAIN-SUFFIX,goldpoint,PROXY    #Yodobashi Camera Co., LTD
+DOMAIN-SUFFIX,ibm,PROXY    #International Business Machines Corporation
+DOMAIN-SUFFIX,nikon,PROXY    #Nikon Corporation
+DOMAIN-SUFFIX,nokia,PROXY    #Nokia Corporation
+DOMAIN-SUFFIX,panasonic,PROXY    #Panasonic Corporation
+DOMAIN-SUFFIX,philips,PROXY    #Koninklijke Philips Electronics N.V.
+DOMAIN-SUFFIX,pioneer,PROXY    #Pioneer Corporation
+DOMAIN-SUFFIX,samsung,PROXY    #Samsung SDS Co., LTD
+DOMAIN-SUFFIX,sharp,PROXY    #Sharp Corporation
+DOMAIN-SUFFIX,sony,PROXY    #Computers Electronics Domains
+DOMAIN-SUFFIX,toshiba,PROXY    #Toshiba Corporation
+DOMAIN-SUFFIX,yodobashi,PROXY    #Yodobashi Camera Co., LTD
+
+# Financial Services Domains
+DOMAIN-SUFFIX,allfinanz,PROXY    #Allfinanz Deutsche Vermögensberatung Aktiengesellschaft
+DOMAIN-SUFFIX,ally,PROXY    #Ally Financial Inc.
+DOMAIN-SUFFIX,americanexpress,PROXY    #American Express
+DOMAIN-SUFFIX,amex,PROXY    #American Express
+DOMAIN-SUFFIX,anz,PROXY    #Australia and New Zealand Banking Group Limited
+DOMAIN-SUFFIX,banamex,PROXY    #Citigroup, Inc.
+DOMAIN-SUFFIX,barclaycard,PROXY    #Barclays Bank
+DOMAIN-SUFFIX,barclays,PROXY    #Barclays Bank
+DOMAIN-SUFFIX,bbt,PROXY    #BB&T Corporation
+DOMAIN-SUFFIX,bbva,PROXY    #Banco Bilbao Vizcaya Argentaria, S.A.
+DOMAIN-SUFFIX,bnpparibas,PROXY    #BNP Paribas
+DOMAIN-SUFFIX,bofa,PROXY    #NMS Services, Inc.
+DOMAIN-SUFFIX,bradesco,PROXY    #Banco Bradesco S.A.
+DOMAIN-SUFFIX,capitalone,PROXY    #Capital One Financial Corporation
+DOMAIN-SUFFIX,cba,PROXY    #Commonwealth Bank of Australia
+DOMAIN-SUFFIX,cfa,PROXY    #CFA Institute
+DOMAIN-SUFFIX,citadel,PROXY    #Citadel, LLC
+DOMAIN-SUFFIX,citi,PROXY    #Citigroup Inc.
+DOMAIN-SUFFIX,commbank,PROXY    #Commonwealth Bank of Australia
+DOMAIN-SUFFIX,deloitte,PROXY    #Financial Services Domains
+DOMAIN-SUFFIX,discover,PROXY    #Discover Financial Services
+DOMAIN-SUFFIX,fidelity,PROXY    #Fidelity Brokerage Services, LLC
+DOMAIN-SUFFIX,hdfcbank,PROXY    #HDFC Bank Limited
+DOMAIN-SUFFIX,hdfc,PROXY    #Housing Development Finance Corporation Limited
+DOMAIN-SUFFIX,hsbc,PROXY    #HSBC Bank
+DOMAIN-SUFFIX,itau,PROXY    #Itau Unibanco Holding S.A.
+DOMAIN-SUFFIX,jcb,PROXY    #JCB Co., Ltd.
+DOMAIN-SUFFIX,jll,PROXY    #Jones Lang LaSalle Incorporated
+DOMAIN-SUFFIX,kfh,PROXY    #Kuwait Finance House
+DOMAIN-SUFFIX,kpmg,PROXY    #KPMG International Cooperative
+DOMAIN-SUFFIX,lacaixa,PROXY    #La Caixa
+DOMAIN-SUFFIX,lasalle,PROXY    #Jones Lang LaSalle Incorporated
+DOMAIN-SUFFIX,lplfinancial,PROXY    #LPL Financial
+DOMAIN-SUFFIX,lpl,PROXY    #LPL Financial
+DOMAIN-SUFFIX,nab,PROXY    #National Australia Bank Limited
+DOMAIN-SUFFIX,netbank,PROXY    #Commonwealth Bank of Australia
+DOMAIN-SUFFIX,open,PROXY    #American Express Travel Related Services Company, Inc.
+DOMAIN-SUFFIX,pictet,PROXY    #Pictet Europe S.A.
+DOMAIN-SUFFIX,pnc,PROXY    #PNC Financial Services
+DOMAIN-SUFFIX,pohl,PROXY    #Deutsche Vermögensberatung Aktiengesellschaft DVAG
+DOMAIN-SUFFIX,pramerica,PROXY    #Prudential Financial, Inc.
+DOMAIN-SUFFIX,prudential,PROXY    #Prudential Financial, Inc.
+DOMAIN-SUFFIX,pru,PROXY    #Prudential Financial, Inc.
+DOMAIN-SUFFIX,pwc,PROXY    #PwC Business Trust
+DOMAIN-SUFFIX,sbi,PROXY    #State Bank of India
+DOMAIN-SUFFIX,scb,PROXY    #The Siam Commercial Bank Public Company Limited
+DOMAIN-SUFFIX,softbank,PROXY    #Softbank Corporation
+DOMAIN-SUFFIX,statebank,PROXY    #State Bank of India
+DOMAIN-SUFFIX,temasek,PROXY    #Temasek Holdings Limtied
+DOMAIN-SUFFIX,ubank,PROXY    #National Australia Bank Limited
+DOMAIN-SUFFIX,ubs,PROXY    #UBS AG
+DOMAIN-SUFFIX,vanguard,PROXY    #The Vanguard Group, Inc.
+DOMAIN-SUFFIX,visa,PROXY    #Visa International Service Association
+DOMAIN-SUFFIX,wolterskluwer,PROXY    #Wolters Kluwer N.V.
+
+# Home & Garden Domains
+DOMAIN-SUFFIX,aquarelle,PROXY    #Aquarelle.com
+DOMAIN-SUFFIX,diy,PROXY    #Lifestyle Domain Holdings, Inc
+DOMAIN-SUFFIX,homedepot,PROXY    #Homer TLC, Inc.
+DOMAIN-SUFFIX,homegoods,PROXY    #The TJX Companies, Inc.
+
+# Insurance Domains
+DOMAIN-SUFFIX,aig,PROXY    #American International Group, Inc.
+DOMAIN-SUFFIX,allstate,PROXY    #Allstate Fire and Casualty Insurance Company
+DOMAIN-SUFFIX,americanfamily,PROXY    #AmFam, Inc.
+DOMAIN-SUFFIX,amfam,PROXY    #AmFam, Inc.
+DOMAIN-SUFFIX,amica,PROXY    #Amica Mutual Insurance Company
+DOMAIN-SUFFIX,axa,PROXY    #AXA SA
+DOMAIN-SUFFIX,farmers,PROXY    #Farmers Insurance Exchange
+DOMAIN-SUFFIX,mma,PROXY    #MMA Cooperations
+DOMAIN-SUFFIX,nissay,PROXY    #Nippon Life Insurance Company
+DOMAIN-SUFFIX,progressive,PROXY    #Progressive Casualty Insurance Company
+DOMAIN-SUFFIX,redumbrella,PROXY    #Travelers TLD, LLC
+DOMAIN-SUFFIX,statefarm,PROXY    #State Farm Mutual Automobile Insurance Company
+DOMAIN-SUFFIX,tiaa,PROXY    #Teachers Insurance and Annuity Association of America
+DOMAIN-SUFFIX,travelersinsurance,PROXY    #Travelers TLD, LLC
+DOMAIN-SUFFIX,travelers,PROXY    #Travelers TLD, LLC
+DOMAIN-SUFFIX,trv,PROXY    #Travelers TLD, LLC
+DOMAIN-SUFFIX,vig,PROXY    #Vienna Insurance Group
+
+# Music & Entertainment Domains
+DOMAIN-SUFFIX,beats,PROXY    #Beats Electronics, LLC
+DOMAIN-SUFFIX,blockbuster,PROXY    #Dish DBS Corporation
+DOMAIN-SUFFIX,netflix,PROXY    #Netflix, Inc.
+DOMAIN-SUFFIX,playstation,PROXY    #Sony
+DOMAIN-SUFFIX,tab,PROXY    #Tabcorp Holdings Limited
+DOMAIN-SUFFIX,williamhill,PROXY    #William Hill Organization Limited
+DOMAIN-SUFFIX,xbox,PROXY    #Microsoft
+
+# Retail Domains
+DOMAIN-SUFFIX,asda,PROXY    #Wal-Mart Stores, Inc.
+DOMAIN-SUFFIX,george,PROXY    #Wal-Mart Stores, Inc.
+DOMAIN-SUFFIX,homesense,PROXY    #The TJX Companies, Inc.
+DOMAIN-SUFFIX,lego,PROXY    #LEGO Juris A/S
+DOMAIN-SUFFIX,marshalls,PROXY    #The TJX Companies, Inc.
+DOMAIN-SUFFIX,obi,PROXY    #OBI Group Holding GmbH
+DOMAIN-SUFFIX,samsclub,PROXY    #Wal-Mart Stores, Inc.
+DOMAIN-SUFFIX,staples,PROXY    #Staples, Inc.
+DOMAIN-SUFFIX,target,PROXY    #Target Holdings, LLC
+DOMAIN-SUFFIX,thd,PROXY    #Homer TLC, Inc.
+DOMAIN-SUFFIX,tjmaxx,PROXY    #The TJX Companies, Inc.
+DOMAIN-SUFFIX,tjx,PROXY    #The TJX Companies, Inc.
+DOMAIN-SUFFIX,tkmaxx,PROXY    #The TJX Companies, Inc.
+DOMAIN-SUFFIX,walmart,PROXY    #Wal-Mart Stores, Inc.
+
+# Tech Domains
+DOMAIN-SUFFIX,abb,PROXY    #ABB Ltd.
+DOMAIN-SUFFIX,accenture,PROXY    #Accenture Global Services Limited
+DOMAIN-SUFFIX,aco,PROXY    #ACO Severin Ahlmann GmbH & Co. KG
+DOMAIN-SUFFIX,airtel,PROXY    #Bharti Airtel Limited
+DOMAIN-SUFFIX,amazon,PROXY    #Technology Domains
+DOMAIN-SUFFIX,aol,PROXY    #AOL Inc.
+DOMAIN-SUFFIX,aws,PROXY    #Amazon
+DOMAIN-SUFFIX,azure,PROXY    #Microsoft
+DOMAIN-SUFFIX,chrome,PROXY    #Google
+DOMAIN-SUFFIX,cisco,PROXY    #Cisco Technology, Inc.
+DOMAIN-SUFFIX,dclk,PROXY    #Google
+DOMAIN-SUFFIX,dish,PROXY    #Dish DBS Corporation
+DOMAIN-SUFFIX,dtv,PROXY    #Dish DBS Corporation
+DOMAIN-SUFFIX,epson,PROXY    #Seiko Epson Corporation
+DOMAIN-SUFFIX,ericsson,PROXY    #Telefonaktiebolaget L M Ericsson
+DOMAIN-SUFFIX,fairwinds,PROXY    #FairWinds Partners, LLC
+DOMAIN-SUFFIX,fido,PROXY    #Rogers Communications Partnership
+DOMAIN-SUFFIX,flickr,PROXY    #Yahoo
+DOMAIN-SUFFIX,frogans,PROXY    #Technology Domains
+DOMAIN-SUFFIX,frontier,PROXY    #Frontier Communications Corporation
+DOMAIN-SUFFIX,ftr,PROXY    #Frontier Communications Corporation
+DOMAIN-SUFFIX,gbiz,PROXY    #Google
+DOMAIN-SUFFIX,gea,PROXY    #GEA Group Aktiengesellschaft
+DOMAIN-SUFFIX,ggee,PROXY    #G-Gee
+DOMAIN-SUFFIX,gle,PROXY    #Google
+DOMAIN-SUFFIX,gmail,PROXY    #Google
+DOMAIN-SUFFIX,gmo,PROXY    #GMO Internet
+DOMAIN-SUFFIX,gmx,PROXY    #1&1 Mail & Media GmbH
+DOMAIN-SUFFIX,godaddy,PROXY    #GoDaddy
+DOMAIN-SUFFIX,goog,PROXY    #Google
+DOMAIN-SUFFIX,google,PROXY    #Google
+DOMAIN-SUFFIX,goo,PROXY    #Google
+DOMAIN-SUFFIX,guge,PROXY    #Google
+DOMAIN-SUFFIX,hangout,PROXY    #Google
+DOMAIN-SUFFIX,hkt,PROXY    #PCCW-HKT DataCom Services Limited
+DOMAIN-SUFFIX,hotmail,PROXY    #Microsoft
+DOMAIN-SUFFIX,hughes,PROXY    #Hughes Satellite Systems Corporation
+DOMAIN-SUFFIX,ieee,PROXY    #.IEEE Global LLC
+DOMAIN-SUFFIX,intuit,PROXY    #Intuit Administrative Services, Inc.
+DOMAIN-SUFFIX,java,PROXY    #Oracle Corporation
+DOMAIN-SUFFIX,jmp,PROXY    #Matrix IP LLC
+DOMAIN-SUFFIX,jprs,PROXY    #Japan Registry Services Co., Ltd.
+DOMAIN-SUFFIX,juniper,PROXY    #Juniper Networks, Inc.
+DOMAIN-SUFFIX,kddi,PROXY    #Kddi Corporation
+DOMAIN-SUFFIX,kindle,PROXY    #Amazon
+DOMAIN-SUFFIX,kpn,PROXY    #Technology Domains
+DOMAIN-SUFFIX,lanxess,PROXY    #LANXESS Corporation
+DOMAIN-SUFFIX,locker,PROXY    #Dish DBS Corporation
+DOMAIN-SUFFIX,microsoft,PROXY    #Microsoft
+DOMAIN-SUFFIX,mint,PROXY    #Intuit Administrative Services, Inc.
+DOMAIN-SUFFIX,mit,PROXY    #Massachusetts Institute of Technology
+DOMAIN-SUFFIX,mtn,PROXY    #MTN Dubai Limited
+DOMAIN-SUFFIX,nec,PROXY    #NEC Corporation
+DOMAIN-SUFFIX,neustar,PROXY    #Technology Domains
+DOMAIN-SUFFIX,nexus,PROXY    #Google
+DOMAIN-SUFFIX,nico,PROXY    #Dwango Co., Ltd.
+DOMAIN-SUFFIX,norton,PROXY    #Symantec Corporation
+DOMAIN-SUFFIX,ntt,PROXY    #Nippon Telegraph and Telephone Corporation
+DOMAIN-SUFFIX,office,PROXY    #Microsoft
+DOMAIN-SUFFIX,ollo,PROXY    #Dish DBS Corporation
+DOMAIN-SUFFIX,oracle,PROXY    #Oracle Corporation
+DOMAIN-SUFFIX,orange,PROXY    #Orange Brand Services Limited
+DOMAIN-SUFFIX,ovh,PROXY    #OVH SAS
+DOMAIN-SUFFIX,pccw,PROXY    #PCCW Enterprises Limited
+DOMAIN-SUFFIX,richardli,PROXY    #Pacific Century Asset Management (HK) Limited
+DOMAIN-SUFFIX,ricoh,PROXY    #Ricoh Company, Ltd.
+DOMAIN-SUFFIX,rogers,PROXY    #Rogers Communications Partnership
+DOMAIN-SUFFIX,sakura,PROXY    #Sakura Internet Inc.
+DOMAIN-SUFFIX,sas,PROXY    #Scandinavian Airlines System Group
+DOMAIN-SUFFIX,sfr,PROXY    #Societe Francaise du Radiotelephone
+DOMAIN-SUFFIX,shaw,PROXY    #Shaw Cablesystems G.P.
+DOMAIN-SUFFIX,skype,PROXY    #Microsoft
+DOMAIN-SUFFIX,sling,PROXY    #Hughes Satellite Systems Corporation
+DOMAIN-SUFFIX,smart,PROXY    #Smart Communications, Inc.
+DOMAIN-SUFFIX,stcgroup,PROXY    #Saudi Telecom Company
+DOMAIN-SUFFIX,stc,PROXY    #Saudi Telecom Company
+DOMAIN-SUFFIX,tci,PROXY    #Asia Green IT System Bilgisayar San. ve Tic.
+DOMAIN-SUFFIX,tdk,PROXY    #TDK Corporation
+DOMAIN-SUFFIX,uol,PROXY    #UBN Internet
+DOMAIN-SUFFIX,verisign,PROXY    #Technology Domains
+DOMAIN-SUFFIX,viva,PROXY    #Saudi Telecom Company
+DOMAIN-SUFFIX,vivo,PROXY    #Telefonica Brasil S.A.
+DOMAIN-SUFFIX,windows,PROXY    #Microsoft
+DOMAIN-SUFFIX,yahoo,PROXY    #Yahoo!
+DOMAIN-SUFFIX,yamaxun,PROXY    #Amazon
+DOMAIN-SUFFIX,yandex,PROXY    #Yandex, LLC
+DOMAIN-SUFFIX,youtube,PROXY    #Google
+DOMAIN-SUFFIX,zappos,PROXY    #Amazon
+DOMAIN-SUFFIX,chanel,PROXY    #Chanel International B.V.
+DOMAIN-SUFFIX,clinique,PROXY    #ELC Online Inc.
+DOMAIN-SUFFIX,lamer,PROXY    #ELC Online Inc.
+DOMAIN-SUFFIX,natura,PROXY    #Natura Cosmeticos S.A.
+DOMAIN-SUFFIX,origins,PROXY    #ELC Online Inc.
+
+# Consumables Domains
+DOMAIN-SUFFIX,barefoot,PROXY    #Gallo Vineyards, Inc.
+DOMAIN-SUFFIX,cuisinella,PROXY    #SALM S.A.S.
+DOMAIN-SUFFIX,edeka,PROXY    #EDEKA Verband kaufmännischer Genossenschaften e.V.
+DOMAIN-SUFFIX,fage,PROXY    #FAGE Dairy Industry S.A.
+DOMAIN-SUFFIX,ferrero,PROXY    #Ferrero Trading Lux S.A.
+DOMAIN-SUFFIX,food,PROXY    #Scripps Networks Interactive, Inc
+DOMAIN-SUFFIX,gallo,PROXY    #Gallo Vineyards, Inc.
+
+# Full - IDN Domains
+DOMAIN-SUFFIX,xn--5su34j936bgsg,PROXY    #.香格里拉 Shangri-La International Hotel Management Limited
+DOMAIN-SUFFIX,xn--b4w605ferd,PROXY    #.淡马锡 Temasek Holdings Limtied
+DOMAIN-SUFFIX,xn--cckwcxetd,PROXY    #.アマゾン Amazon
+DOMAIN-SUFFIX,xn--cg4bki,PROXY    #.삼성 Samsung SDS Co., LTD
+DOMAIN-SUFFIX,xn--flw351e,PROXY    #.谷歌 Google
+DOMAIN-SUFFIX,xn--fzys8d69uvgm,PROXY    #.電訊盈科 PCCW Enterprises Limited
+DOMAIN-SUFFIX,xn--jlq480n2rg,PROXY    #.亚马逊 Amazon
+DOMAIN-SUFFIX,xn--kcrx77d1x4a,PROXY    #.飞利浦 Koninklijke Philips Electronics N.V.
+DOMAIN-SUFFIX,xn--mgba3a3ejt,PROXY    #.ارامكو Aramco Services Company
+DOMAIN-SUFFIX,xn--mgba7c0bbn0a,PROXY    #.العليان Olayan Investments Company Establishment
+DOMAIN-SUFFIX,xn--ngbe9e0a,PROXY    #.بيتك Kuwait Finance House
+DOMAIN-SUFFIX,xn--qcka1pmc,PROXY    #.グーグル Google
+DOMAIN-SUFFIX,xn--w4r85el8fhu5dnra,PROXY    #.嘉里大酒店 Kerry Trading Co. Limited
+DOMAIN-SUFFIX,xn--w4rs40l,PROXY    #.嘉里 Kerry Trading Co. Limited
+
+# Hotel & Travel Domains
+DOMAIN-SUFFIX,caravan,PROXY    #Caravan International, Inc.
+DOMAIN-SUFFIX,cipriani,PROXY    #Hotel Cipriani
+DOMAIN-SUFFIX,clubmed,PROXY    #Club Méditerranée S.A.
+DOMAIN-SUFFIX,delta,PROXY    #Delta Air Lines, Inc.
+DOMAIN-SUFFIX,firmdale,PROXY    #Firmdale Holdings Limited
+DOMAIN-SUFFIX,hyatt,PROXY    #Hyatt Hotels Corporation
+DOMAIN-SUFFIX,kerryhotels,PROXY    #Kerry Trading Co. Limited
+DOMAIN-SUFFIX,kerryproperties,PROXY    #Kerry Trading Co. Limited
+DOMAIN-SUFFIX,marriott,PROXY    #Marriott Worldwide Corporation
+DOMAIN-SUFFIX,shangrila,PROXY    #Shangri-La International Hotel Management Limited
+DOMAIN-SUFFIX,tui,PROXY    #TUI AG
+DOMAIN-SUFFIX,viking,PROXY    #Viking River Cruises
+DOMAIN-SUFFIX,virgin,PROXY    #Virgin Enterprises Limited
+
+# Land & Buildings Domains
+DOMAIN-SUFFIX,able,PROXY    #Able Inc.
+DOMAIN-SUFFIX,cbre,PROXY    #CBRE, Inc.
+DOMAIN-SUFFIX,chintai,PROXY    #Chintai Corporation
+DOMAIN-SUFFIX,lefrak,PROXY    #LeFrak Organization, Inc.
+
+# News & Media Domains
+DOMAIN-SUFFIX,abc,PROXY    #American Broadcasting Companies, Inc.
+DOMAIN-SUFFIX,arte,PROXY    #Association Relative à la Télévision Européenne
+DOMAIN-SUFFIX,bbc,PROXY    #British Broadcasting Corporation
+DOMAIN-SUFFIX,cbn,PROXY    #The Christian Broadcasting Network, Inc.
+DOMAIN-SUFFIX,eurovision,PROXY    #European Broadcasting Union
+DOMAIN-SUFFIX,fox,PROXY    #FOX Businesses
+DOMAIN-SUFFIX,gallup,PROXY    #Gallup, Inc.
+DOMAIN-SUFFIX,globo,PROXY    #Globo Comunicação e Participações S.A
+DOMAIN-SUFFIX,hbo,PROXY    #Home Box Office, Inc
+DOMAIN-SUFFIX,imdb,PROXY    #Amazon
+DOMAIN-SUFFIX,itv,PROXY    #ITV Services Limited
+DOMAIN-SUFFIX,nhk,PROXY    #Japan Broadcasting Corporation (NHK)
+DOMAIN-SUFFIX,nowtv,PROXY    #Starbucks (HK) Limited
+DOMAIN-SUFFIX,sbs,PROXY    #Special Broadcasting Service Corporation
+DOMAIN-SUFFIX,seven,PROXY    #Seven West Media Ltd
+DOMAIN-SUFFIX,sky,PROXY    #Sky IP International Ltd
+DOMAIN-SUFFIX,weatherchannel,PROXY    #The Weather Channel, LLC
+
+# School & Training Domains
+DOMAIN-SUFFIX,bauhaus,PROXY    #Werkhaus GmbH
+DOMAIN-SUFFIX,latrobe,PROXY    #La Trobe University
+DOMAIN-SUFFIX,monash,PROXY    #Monash University

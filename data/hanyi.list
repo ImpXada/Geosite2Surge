@@ -1,0 +1,11 @@
+#include:hellofont
+DOMAIN-SUFFIX,hellofont.cn,PROXY
+DOMAIN-SUFFIX,hellowebfont.com,PROXY
+
+DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com,PROXY
+DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com,PROXY
+
+DOMAIN-SUFFIX,hanyi.com.cn,PROXY
+
+# Font Star
+DOMAIN-SUFFIX,fontstar.com.cn,PROXY

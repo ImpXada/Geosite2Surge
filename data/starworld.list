@@ -1,0 +1,27 @@
+# StarWorld Games is a wholly owned subsidiary of Qihoo 360
+
+DOMAIN-SUFFIX,360-api.cn,PROXY
+DOMAIN-SUFFIX,360-g.cn,PROXY
+DOMAIN-SUFFIX,360-g.net,PROXY
+DOMAIN-SUFFIX,360-game.net,PROXY
+DOMAIN-SUFFIX,360pay.cn,PROXY
+DOMAIN-SUFFIX,360sjyh.cn,PROXY
+DOMAIN-SUFFIX,gamepack.cn,PROXY
+DOMAIN-SUFFIX,qftexpay.cn,PROXY
+DOMAIN-SUFFIX,qikoo.com,PROXY
+DOMAIN-SUFFIX,qiku.com,PROXY
+DOMAIN-SUFFIX,qikucdn.com,PROXY
+DOMAIN-SUFFIX,starworldgames.com,PROXY
+DOMAIN-SUFFIX,theworld.cn,PROXY
+DOMAIN-SUFFIX,warsaga.cn,PROXY
+DOMAIN-SUFFIX,wggames.cn,PROXY
+DOMAIN-SUFFIX,worldofship.cn,PROXY
+DOMAIN-SUFFIX,worldoftank.cn,PROXY
+DOMAIN-SUFFIX,worldoftanks.cn,PROXY
+DOMAIN-SUFFIX,worldoftanks.com.cn,PROXY
+DOMAIN-SUFFIX,wotgame.cn,PROXY
+DOMAIN-SUFFIX,wowsgame.cn,PROXY
+DOMAIN-SUFFIX,woxihuan.com,PROXY
+DOMAIN-SUFFIX,wztsy.cn,PROXY
+DOMAIN-SUFFIX,wztsy.com,PROXY
+DOMAIN-SUFFIX,yiwanzhushou.com,PROXY

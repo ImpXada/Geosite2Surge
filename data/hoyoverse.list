@@ -1,0 +1,23 @@
+# 原神
+DOMAIN-SUFFIX,genshinimpact.com,PROXY
+
+# 崩壞3
+DOMAIN-SUFFIX,honkaiimpact3.com,PROXY
+
+# 星穹鐵道
+DOMAIN-SUFFIX,honkaistarrail.com,PROXY
+
+# 短網址
+DOMAIN-SUFFIX,hoyo.link,PROXY
+
+# HoYoLab
+DOMAIN-SUFFIX,hoyolab.com,PROXY
+
+# HoYoverse
+DOMAIN-SUFFIX,hoyoverse.com,PROXY
+
+# n0va
+DOMAIN-SUFFIX,n0vadesktop.com,PROXY
+
+# 絕區零(Zenless Zone Zero)
+DOMAIN-SUFFIX,zenlesszonezero.com,PROXY

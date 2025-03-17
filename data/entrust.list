@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,entrust.net,PROXY
+DOMAIN-SUFFIX,entrustdatacard.com,PROXY
+
+# Sub brand
+DOMAIN-SUFFIX,affirmtrust.com,PROXY
+DOMAIN-SUFFIX,atos.net,PROXY
+DOMAIN-SUFFIX,myatos.net,PROXY
+DOMAIN-SUFFIX,certificat2.com,PROXY
+DOMAIN-SUFFIX,trendmicro.com,PROXY

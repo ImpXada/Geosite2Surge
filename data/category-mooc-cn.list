@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,chinesemooc.org,PROXY
+DOMAIN-SUFFIX,cnmooc.org,PROXY
+DOMAIN-SUFFIX,icourse163.org,PROXY
+DOMAIN-SUFFIX,icourses.cn,PROXY
+DOMAIN-SUFFIX,icve.com.cn,PROXY
+DOMAIN-SUFFIX,mooc.cn,PROXY
+DOMAIN-SUFFIX,openlearning.com,PROXY
+DOMAIN-SUFFIX,pmphmooc.com,PROXY
+
+DOMAIN,moocs.unipus.cn,PROXY
+DOMAIN,opencourse.pku.edu.cn,PROXY
+DOMAIN,study.163.com,PROXY

@@ -1,0 +1,34 @@
+# Core
+DOMAIN-SUFFIX,dis.gd,PROXY
+DOMAIN-SUFFIX,discord.co,PROXY
+DOMAIN-SUFFIX,discord.com,PROXY
+DOMAIN-SUFFIX,discord.design,PROXY
+DOMAIN-SUFFIX,discord.dev,PROXY
+DOMAIN-SUFFIX,discord.gg,PROXY
+DOMAIN-SUFFIX,discord.gift,PROXY
+DOMAIN-SUFFIX,discord.gifts,PROXY
+DOMAIN-SUFFIX,discord.media,PROXY
+DOMAIN-SUFFIX,discord.new,PROXY
+DOMAIN-SUFFIX,discord.store,PROXY
+DOMAIN-SUFFIX,discord.tools,PROXY
+DOMAIN-SUFFIX,discord-activities.com,PROXY
+DOMAIN-SUFFIX,discordactivities.com,PROXY
+DOMAIN-SUFFIX,discordapp.com,PROXY
+DOMAIN-SUFFIX,discordapp.net,PROXY
+DOMAIN-SUFFIX,discordmerch.com,PROXY
+DOMAIN-SUFFIX,discordpartygames.com,PROXY
+DOMAIN-SUFFIX,discordsays.com,PROXY
+DOMAIN-SUFFIX,discordstatus.com,PROXY
+
+# Other
+DOMAIN-SUFFIX,airhorn.solutions,PROXY
+DOMAIN-SUFFIX,airhornbot.com,PROXY
+DOMAIN-SUFFIX,bigbeans.solutions,PROXY
+DOMAIN-SUFFIX,watchanimeattheoffice.com,PROXY
+
+# Unused
+DOMAIN-SUFFIX,discordapp.io,PROXY
+DOMAIN-SUFFIX,discordcdn.com,PROXY
+
+DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com,PROXY
+DOMAIN,hammerandchisel.ssl.zendesk.com,PROXY

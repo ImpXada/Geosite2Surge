@@ -1,0 +1,182 @@
+# References:
+# https://www.iana.org/assignments/special-use-domain-names/special-use-domain-names.xhtml
+# https://unix.stackexchange.com/questions/92441/whats-the-difference-between-local-home-and-lan
+DOMAIN-SUFFIX,lan,PROXY
+DOMAIN-SUFFIX,localdomain,PROXY
+
+# https://tools.ietf.org/html/rfc2606
+# https://tools.ietf.org/html/rfc6761
+DOMAIN-SUFFIX,example,PROXY
+DOMAIN-SUFFIX,invalid,PROXY
+DOMAIN-SUFFIX,localhost,PROXY
+DOMAIN-SUFFIX,test,PROXY
+
+# https://tools.ietf.org/html/rfc6762
+DOMAIN-SUFFIX,local,PROXY
+
+# https://tools.ietf.org/html/rfc8375
+DOMAIN-SUFFIX,home.arpa,PROXY
+
+# References: https://www.iana.org/assignments/locally-served-dns-zones/locally-served-dns-zones.xhtml
+# https://www.rfc-editor.org/rfc/rfc6303.html
+DOMAIN-SUFFIX,0.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,2.0.192.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,10.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,16.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,17.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,18.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,19.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,20.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,21.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,22.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,23.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,24.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,25.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,26.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,27.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,28.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,29.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,30.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,31.172.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,100.51.198.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,113.0.203.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,127.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,168.192.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,254.169.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,255.255.255.255.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,PROXY
+DOMAIN-SUFFIX,1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa,PROXY
+DOMAIN-SUFFIX,8.b.d.0.1.0.0.2.ip6.arpa,PROXY
+DOMAIN-SUFFIX,8.e.f.ip6.arpa,PROXY
+DOMAIN-SUFFIX,9.e.f.ip6.arpa,PROXY
+DOMAIN-SUFFIX,a.e.f.ip6.arpa,PROXY
+DOMAIN-SUFFIX,b.e.f.ip6.arpa,PROXY
+DOMAIN-SUFFIX,d.f.ip6.arpa,PROXY
+
+# https://www.rfc-editor.org/rfc/rfc7793.html
+DOMAIN-SUFFIX,64.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,65.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,66.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,67.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,68.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,69.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,70.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,71.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,72.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,73.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,74.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,75.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,76.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,77.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,78.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,79.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,80.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,81.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,82.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,83.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,84.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,85.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,86.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,87.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,88.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,89.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,90.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,91.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,92.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,93.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,94.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,95.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,96.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,97.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,98.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,99.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,100.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,101.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,102.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,103.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,104.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,105.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,106.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,107.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,108.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,109.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,110.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,111.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,112.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,113.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,114.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,115.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,116.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,117.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,118.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,119.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,120.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,121.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,122.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,123.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,124.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,125.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,126.100.in-addr.arpa,PROXY
+DOMAIN-SUFFIX,127.100.in-addr.arpa,PROXY
+
+# Dotless domains
+DOMAIN-WILDCARD,?*,PROXY
+
+# Aruba router
+DOMAIN,instant.arubanetworks.com,PROXY
+DOMAIN,setmeup.arubanetworks.com,PROXY
+
+# ASUS router
+# Reference: https://www.asus.com/support/FAQ/1005263/
+DOMAIN,asusrouter.com,PROXY
+DOMAIN,router.asus.com,PROXY
+DOMAIN,www.asusrouter.com,PROXY
+
+# H3C
+# https://wwwsg.h3c.com/cn/d_202007/1316557_30005_0.htm#_Toc46214911
+DOMAIN,oasisauth.h3c.com,PROXY
+
+# Netgear router
+# Reference: https://kb.netgear.com/27199/I-can-t-access-my-router-what-do-I-do
+# https://www.netgear.com/business/services/aplogincom/
+DOMAIN,routerlogin.com,PROXY
+DOMAIN,www.routerlogin.com,PROXY
+
+# Other router
+DOMAIN-SUFFIX,hiwifi.com,PROXY
+DOMAIN-SUFFIX,leike.cc,PROXY
+DOMAIN-SUFFIX,my.router,PROXY
+DOMAIN-SUFFIX,peiluyou.com,PROXY
+DOMAIN-SUFFIX,phicomm.me,PROXY
+DOMAIN-SUFFIX,router.ctc,PROXY
+
+# Plex Media Server
+# Reference: https://support.plex.tv/articles/206225077-how-to-use-secure-server-connections/
+DOMAIN-SUFFIX,plex.direct,PROXY
+
+# QQ SSO for quick login
+DOMAIN-SUFFIX,localhost.sec.qq.com,PROXY
+DOMAIN-SUFFIX,localhost.ptlogin2.qq.com,PROXY
+
+# Steam Deck Game mode
+DOMAIN-SUFFIX,test.steampowered.com,PROXY
+
+# Tenda router
+DOMAIN-SUFFIX,tendawifi.com,PROXY
+
+# TP-Link router
+# Reference: https://resource.tp-link.com.cn/m/productClass/product_document?id=1655112502304621
+DOMAIN-SUFFIX,tplinkwifi.net,PROXY
+DOMAIN,tplogin.cn,PROXY
+
+# Xiaomi router
+# Reference: https://www1.miwifi.com/miwifi_faq.html
+DOMAIN,miwifi.com,PROXY
+DOMAIN,www.miwifi.com,PROXY
+
+# ZTE router
+DOMAIN-SUFFIX,zte.home,PROXY
+
+# Tailscale Magic DNS
+# Reference: https://tailscale.com/kb/1081/magicdns/#fully-qualified-domain-names-vs-machine-names
+DOMAIN-SUFFIX,ts.net,PROXY

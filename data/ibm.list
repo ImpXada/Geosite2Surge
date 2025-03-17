@@ -1,0 +1,28 @@
+#include:hashicorp
+DOMAIN-SUFFIX,consul.io,PROXY
+DOMAIN-SUFFIX,hashicorp.com,PROXY
+DOMAIN-SUFFIX,nomadproject.io,PROXY
+DOMAIN-SUFFIX,packer.io,PROXY
+DOMAIN-SUFFIX,terraform.io,PROXY
+DOMAIN-SUFFIX,vagrantcloud.com,PROXY
+DOMAIN-SUFFIX,vagrantup.com,PROXY
+DOMAIN-SUFFIX,vaultproject.io,PROXY
+
+# All .ibm domains
+DOMAIN-SUFFIX,ibm,PROXY
+
+# All .weatherchannel domains
+DOMAIN-SUFFIX,weatherchannel,PROXY
+
+# All .weather domains
+DOMAIN-SUFFIX,weather,PROXY
+
+DOMAIN-SUFFIX,appdomain.cloud,PROXY
+DOMAIN-SUFFIX,bluemix.com,PROXY
+DOMAIN-SUFFIX,bluemix.net,PROXY
+DOMAIN-SUFFIX,ibm.com,PROXY
+DOMAIN-SUFFIX,ibm.eu,PROXY
+DOMAIN-SUFFIX,ibm.net,PROXY
+DOMAIN-SUFFIX,ibm.us,PROXY
+DOMAIN-SUFFIX,s-bluemix.net,PROXY
+DOMAIN-SUFFIX,s81c.com,PROXY

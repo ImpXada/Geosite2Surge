@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,tailscale.com,PROXY
+DOMAIN-SUFFIX,tailscale.io,PROXY
+DOMAIN-SUFFIX,ts.net,PROXY
