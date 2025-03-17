@@ -169,7 +169,7 @@ def process_line(line: str):
     if tags:
         for tag in tags:
             if tag:  # Ensure tag is not empty
-                tag_filename = os.path.join(output_dir, f"{tag}.list")
+                tag_filename = os.path.join(output_dir, tag)
                 with open(tag_filename, "a", encoding="utf-8") as tag_f:
                     tag_f.write(res)
     
@@ -190,7 +190,7 @@ def convert_geosite_to_surge(geosite_dir: str, output_dir: str):
             lines = f.readlines()
 
         # 生成 Surge 规则文件
-        surge_file = os.path.join(output_dir, f"{file}.list")
+        surge_file = os.path.join(output_dir, file)
         with open(surge_file, "w", encoding="utf-8") as f:
             need_break = False
             for line in lines:
@@ -226,7 +226,7 @@ def convert_unfinished_files(geosite_dir: str, output_dir: str):
         # 读取 Geosite 规则文件
         with open(file_path, "r", encoding="utf-8") as f:
             lines = f.readlines()
-        surge_file = os.path.join(output_dir, f"{file}.list")
+        surge_file = os.path.join(output_dir, file)
         with open(surge_file, "w", encoding="utf-8") as f:
             for line in lines:
                 line = line.strip()
@@ -236,7 +236,7 @@ def convert_unfinished_files(geosite_dir: str, output_dir: str):
 
                 if line.startswith("include:"):
                     included_file = line.split(':')[1].strip()
-                    included_path = os.path.join(output_dir, included_file+".list")
+                    included_path = os.path.join(output_dir, included_file)
                     if os.path.exists(included_path):
                         f.write(f"#include:{included_file}\n")
                         with open(included_path, 'r', encoding='utf-8') as inc_f:
