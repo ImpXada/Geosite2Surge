@@ -5,6 +5,7 @@ import sre_parse
 import sre_constants
 
 unfinished_files = []
+finished_files = []
 
 def regex_ast_to_wildcard(regex: str) -> str:
     """
@@ -100,7 +101,7 @@ def process_line(line: str):
         if current_section.startswith('@'):
             potential_tag = current_section[1:].strip()
             # Skip tags that appear to be URLs
-            if not (potential_tag.startswith('http://') or 
+            if not (potential_tag.startswith('http://') or
                    potential_tag.startswith('https://') or
                    potential_tag.startswith('www.')):
                 tags.append(potential_tag)
@@ -169,6 +170,7 @@ def process_line(line: str):
     if tags:
         for tag in tags:
             if tag:  # Ensure tag is not empty
+                finished_files.append(tag)
                 tag_filename = os.path.join(output_dir, tag)
                 with open(tag_filename, "a", encoding="utf-8") as tag_f:
                     tag_f.write(res)
@@ -218,7 +220,7 @@ def convert_geosite_to_surge(geosite_dir: str, output_dir: str):
 
             if need_break:
                 continue
-
+        finished_files.append(file)
         print(f"转换完成: {file} → {surge_file}")
 
 def convert_unfinished_files(geosite_dir: str, output_dir: str):
@@ -250,6 +252,7 @@ def convert_unfinished_files(geosite_dir: str, output_dir: str):
 
                 f.write(process_line(line))
         unfinished_files.remove(file)
+        finished_files.append(file)
         print(f"转换完成: {file} → {surge_file}")
         
 if __name__ == "__main__":
@@ -265,3 +268,23 @@ if __name__ == "__main__":
     convert_geosite_to_surge(geosite_dir, output_dir)
     while unfinished_files:
         convert_unfinished_files(geosite_dir, output_dir)
+
+    finished_files = list(set(finished_files))
+    finished_files.sort()
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write("# Geosite2Surge\n")
+        f.write("Geosite to Surge rule converter\n")
+        f.write("## Usage\n")
+        f.write("```\n")
+        f.write("geosite:google\n")
+        f.write("RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/google,PROXY\n")
+        f.write("geosite:xxxxxx\n")
+        f.write("RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/xxxxxx,PROXY\n")
+        f.write("```\n")
+        f.write("\n")
+        f.write("## Rules\n")
+        f.write("| geosite name | surge config url |\n")
+        f.write("|--------------|------------------|\n")
+        for file in finished_files:
+            url = f"https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/{file}"
+            f.write(f"| {file} | {url} |\n")

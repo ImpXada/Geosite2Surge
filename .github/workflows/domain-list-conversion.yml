@@ -39,6 +39,7 @@ jobs:
           
           # Add all changes in the data directory
           git add data/
+          git add README.md
           
           # Only commit if there are changes
           if git diff --staged --quiet; then
