@@ -12,6 +12,10 @@ DOMAIN-SUFFIX,apipost.net,PROXY
 #end include:apipost
 #include:baltamatica
 # 北太天元通用数值计算
+# 北太振寰（重庆）科技有限公司 渝ICP备2022008375号
+DOMAIN-SUFFIX,baltamatica.cn,PROXY
+DOMAIN-SUFFIX,baltamatica.net,PROXY
+DOMAIN-SUFFIX,baltamatica.org.cn,PROXY
 DOMAIN-SUFFIX,baltamatica.com,PROXY
 #end include:baltamatica
 #include:cnblogs
@@ -111,14 +115,6 @@ DOMAIN-SUFFIX,dengguobi.com,PROXY
 DOMAIN-SUFFIX,houyicaiji.com,PROXY
 DOMAIN-SUFFIX,jinglingbiaozhu.com,PROXY
 #end include:kuaiyikeji
-#include:oschina
-#include:gitee
-DOMAIN-SUFFIX,gitee.com,PROXY
-DOMAIN-SUFFIX,gitee.io,PROXY
-#end include:gitee
-
-DOMAIN-SUFFIX,oschina.net,PROXY
-#end include:oschina
 #include:pgyer
 DOMAIN-SUFFIX,pgyer.com,PROXY
 DOMAIN-SUFFIX,tracup.com,PROXY

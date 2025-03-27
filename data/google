@@ -1071,6 +1071,7 @@ DOMAIN,google-ohttp-relay-safebrowsing.fastly-edge.com,PROXY
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:google@cn"
 DOMAIN,www.recaptcha.net,PROXY
+DOMAIN,safebrowsing-cache.google.com,PROXY
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/google.china.conf
 # Revision: 1cb04ffd38b040ccbe6f903db9d118e78a2d10d8

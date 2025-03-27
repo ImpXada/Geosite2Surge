@@ -925,6 +925,12 @@ DOMAIN-SUFFIX,yfanads.com,PROXY
 # 数字联盟(device ad id)
 DOMAIN-SUFFIX,shuzilm.cn,PROXY
 
+# 中国广告协会CAID
+DOMAIN-SUFFIX,china-caa.org,PROXY
+DOMAIN-SUFFIX,cnaa123.com,PROXY
+DOMAIN-SUFFIX,chinaciaf.org,PROXY
+DOMAIN-SUFFIX,iabchina.cn,PROXY
+
 # 卓信id
 DOMAIN-SUFFIX,zxid-api.mobileservice.cn,PROXY
 DOMAIN-SUFFIX,zxid-m.mobileservice.cn,PROXY

@@ -34,6 +34,10 @@ DOMAIN-SUFFIX,gemini.google.com,PROXY
 #include:groq
 DOMAIN-SUFFIX,groq.com,PROXY
 #end include:groq
+#include:huggingface
+DOMAIN-SUFFIX,hf.co,PROXY
+DOMAIN-SUFFIX,huggingface.co,PROXY
+#end include:huggingface
 #include:openai
 # Main domain
 DOMAIN-SUFFIX,chatgpt.com,PROXY
@@ -94,3 +98,4 @@ DOMAIN-SUFFIX,dify.ai,PROXY
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com,PROXY
 DOMAIN-SUFFIX,meta.ai,PROXY
 DOMAIN-SUFFIX,openart.ai,PROXY
+DOMAIN-SUFFIX,openrouter.ai,PROXY

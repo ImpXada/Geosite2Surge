@@ -151,3 +151,6 @@ DOMAIN-SUFFIX,oldboyedu.com,PROXY
 DOMAIN-SUFFIX,eduei.com,PROXY
 
 DOMAIN-SUFFIX,edu.cn,PROXY
+
+# “叶圣陶杯”全国中学生新作文大赛
+DOMAIN-SUFFIX,ystbds.com,PROXY

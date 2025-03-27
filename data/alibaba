@@ -186,6 +186,13 @@ DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com,PROXY
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com,PROXY
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com,PROXY
 #end include:aliyun
+#include:cainiao
+DOMAIN-SUFFIX,cainiao-inc.com,PROXY
+DOMAIN-SUFFIX,cainiao.com,PROXY
+DOMAIN-SUFFIX,cainiao.com.cn,PROXY
+DOMAIN-SUFFIX,cainiaoyizhan.com,PROXY
+DOMAIN-SUFFIX,guoguo-app.com,PROXY
+#end include:cainiao
 #include:dingtalk
 DOMAIN-SUFFIX,ddurl.to,PROXY
 DOMAIN-SUFFIX,dingding.xin,PROXY
@@ -350,11 +357,6 @@ DOMAIN-SUFFIX,alicloudccp.com,PROXY
 DOMAIN-SUFFIX,alipan.com,PROXY
 DOMAIN-SUFFIX,aliyundrive.com,PROXY
 DOMAIN-SUFFIX,aliyundrive.net,PROXY
-
-# 菜鸟
-DOMAIN-SUFFIX,cainiao.com,PROXY
-DOMAIN-SUFFIX,cainiao.com.cn,PROXY
-DOMAIN-SUFFIX,cainiao-inc.com,PROXY
 
 # 盒马
 DOMAIN-SUFFIX,freshhema.com,PROXY

@@ -1,7 +1,12 @@
+DOMAIN-SUFFIX,bestsrv.de,PROXY
 DOMAIN-SUFFIX,customercontrolpanel.de,PROXY
 DOMAIN-SUFFIX,dnsserver1.de,PROXY
 DOMAIN-SUFFIX,dnsserver2.de,PROXY
+DOMAIN-SUFFIX,goodsrv.de,PROXY
+DOMAIN-SUFFIX,happysrv.de,PROXY
+DOMAIN-SUFFIX,hotsrv.de,PROXY
 DOMAIN-SUFFIX,luckysrv.de,PROXY
+DOMAIN-SUFFIX,megasrv.de,PROXY
 DOMAIN-SUFFIX,netcup.cafe,PROXY
 DOMAIN-SUFFIX,netcup.com,PROXY
 DOMAIN-SUFFIX,netcup.de,PROXY
@@ -10,6 +15,10 @@ DOMAIN-SUFFIX,netcup.net,PROXY
 DOMAIN-SUFFIX,netcup-news.de,PROXY
 DOMAIN-SUFFIX,netcup-sonderangebote.de,PROXY
 DOMAIN-SUFFIX,netcup-wiki.de,PROXY
+DOMAIN-SUFFIX,nicesrv.de,PROXY
+DOMAIN-SUFFIX,powersrv.de,PROXY
+DOMAIN-SUFFIX,quicksrv.de,PROXY
 DOMAIN-SUFFIX,servercontrolpanel.de,PROXY
 DOMAIN-SUFFIX,supersrv.de,PROXY
+DOMAIN-SUFFIX,ultrasrv.de,PROXY
 DOMAIN-SUFFIX,yourvserver.net,PROXY

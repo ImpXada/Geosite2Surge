@@ -127,3 +127,7 @@ DOMAIN-SUFFIX,tailf.com,PROXY
 
 DOMAIN,cisco.evergage.com,PROXY
 DOMAIN,ciscolivehls-i.akamaihd.net,PROXY
+
+# DNS service
+DOMAIN-SUFFIX,umbrella.com,PROXY
+DOMAIN-SUFFIX,opendns.com,PROXY

@@ -1,0 +1,189 @@
+#include:800best
+# 百世
+# 浙B2-20070189
+DOMAIN-SUFFIX,56laile.com,PROXY
+DOMAIN-SUFFIX,800best.cn,PROXY
+DOMAIN-SUFFIX,800best.com,PROXY
+DOMAIN-SUFFIX,800best.com.cn,PROXY
+DOMAIN-SUFFIX,800best.net,PROXY
+DOMAIN-SUFFIX,800bestapi.cn,PROXY
+DOMAIN-SUFFIX,800bestapi.com,PROXY
+DOMAIN-SUFFIX,800bestapp.cn,PROXY
+DOMAIN-SUFFIX,800bestapp.com,PROXY
+DOMAIN-SUFFIX,baishinetwork.com,PROXY
+DOMAIN-SUFFIX,best-inc.com,PROXY
+DOMAIN-SUFFIX,bestcrossborder.com,PROXY
+DOMAIN-SUFFIX,bestdataclub.com,PROXY
+DOMAIN-SUFFIX,bestincapi.cn,PROXY
+DOMAIN-SUFFIX,bestincapi.com,PROXY
+DOMAIN-SUFFIX,bestincapp.cn,PROXY
+DOMAIN-SUFFIX,bestincapp.com,PROXY
+DOMAIN-SUFFIX,linliyz.com,PROXY
+DOMAIN-SUFFIX,qiancangwms.com,PROXY
+DOMAIN-SUFFIX,qianyierp.com,PROXY
+DOMAIN-SUFFIX,t1tms.com,PROXY
+DOMAIN-SUFFIX,t8tms.com,PROXY
+DOMAIN-SUFFIX,t9tms.com,PROXY
+DOMAIN-SUFFIX,tnettms.com,PROXY
+DOMAIN-SUFFIX,wangniuwms.com,PROXY
+DOMAIN-SUFFIX,xinyuanfin.com,PROXY
+DOMAIN-SUFFIX,youyierp.com,PROXY
+DOMAIN-SUFFIX,youyitms.com,PROXY
+DOMAIN-SUFFIX,youyiwms.com,PROXY
+#end include:800best
+#include:cainiao
+DOMAIN-SUFFIX,cainiao-inc.com,PROXY
+DOMAIN-SUFFIX,cainiao.com,PROXY
+DOMAIN-SUFFIX,cainiao.com.cn,PROXY
+DOMAIN-SUFFIX,cainiaoyizhan.com,PROXY
+DOMAIN-SUFFIX,guoguo-app.com,PROXY
+#end include:cainiao
+#include:deppon
+# 德邦
+# 沪ICP备10005645号
+DOMAIN-SUFFIX,deppon.com,PROXY
+DOMAIN-SUFFIX,deppon.com.cn,PROXY
+DOMAIN-SUFFIX,dpma.cc,PROXY
+#end include:deppon
+#include:fcbox
+# 丰巢
+DOMAIN-SUFFIX,fcbox.com,PROXY
+DOMAIN-SUFFIX,fcboxmall.com,PROXY
+#end include:fcbox
+#include:jtexpress
+# 极兔
+# 沪ICP备2020025698号
+DOMAIN-SUFFIX,bxexpress.com.cn,PROXY
+DOMAIN-SUFFIX,jtexpress.cn,PROXY
+DOMAIN-SUFFIX,jtexpress.com,PROXY
+DOMAIN-SUFFIX,jtfulfillment.cn,PROXY
+DOMAIN-SUFFIX,jtfulfillment.com,PROXY
+DOMAIN-SUFFIX,jtjms-ae.com,PROXY
+DOMAIN-SUFFIX,jtjms-br.com,PROXY
+DOMAIN-SUFFIX,jtjms-eg.com,PROXY
+DOMAIN-SUFFIX,jtjms-mx.com,PROXY
+DOMAIN-SUFFIX,jtjms-sa.com,PROXY
+DOMAIN-SUFFIX,upfos.cn,PROXY
+DOMAIN-SUFFIX,upfos.com,PROXY
+
+# 粤ICP备18009307号
+DOMAIN-SUFFIX,cr-cts.com,PROXY
+DOMAIN-SUFFIX,crscm.com,PROXY
+DOMAIN-SUFFIX,jet-ego.com,PROXY
+DOMAIN-SUFFIX,jet-logistics.com,PROXY
+DOMAIN-SUFFIX,jetlogistic.com,PROXY
+DOMAIN-SUFFIX,jnt-express.com.cn,PROXY
+DOMAIN-SUFFIX,jtexpress.com.cn,PROXY
+DOMAIN-SUFFIX,jtexpress.top,PROXY
+DOMAIN-SUFFIX,jtg2g.com,PROXY
+DOMAIN-SUFFIX,yl-scm.com,PROXY
+#end include:jtexpress
+#include:kuaidi100
+DOMAIN-SUFFIX,ckd.im,PROXY
+DOMAIN-SUFFIX,kd100.com,PROXY
+DOMAIN-SUFFIX,kuaidi100.com,PROXY
+DOMAIN-SUFFIX,kuaidilab.com,PROXY
+#end include:kuaidi100
+#include:sf-express
+DOMAIN-SUFFIX,feng1.com,PROXY
+DOMAIN-SUFFIX,ibobscs.com,PROXY
+DOMAIN-SUFFIX,rongechain.com,PROXY
+DOMAIN-SUFFIX,sf-airlines.com,PROXY
+DOMAIN-SUFFIX,sf-cityrush.com,PROXY
+DOMAIN-SUFFIX,sf-express.com,PROXY
+DOMAIN-SUFFIX,sf-financial.com,PROXY
+DOMAIN-SUFFIX,sf-international.com,PROXY
+DOMAIN-SUFFIX,sf-saas.com,PROXY
+DOMAIN-SUFFIX,sf-tech.com.cn,PROXY
+DOMAIN-SUFFIX,sf.cn,PROXY
+DOMAIN-SUFFIX,sfbuy.com,PROXY
+DOMAIN-SUFFIX,sfcar.hk,PROXY
+DOMAIN-SUFFIX,sffix.cn,PROXY
+DOMAIN-SUFFIX,sfgy.org,PROXY
+#end include:sf-express
+#include:sto-express
+DOMAIN-SUFFIX,sto-express.cn,PROXY
+DOMAIN-SUFFIX,sto-express.com,PROXY
+DOMAIN-SUFFIX,sto-express.com.cn,PROXY
+DOMAIN-SUFFIX,sto.cn,PROXY
+
+# 申通国际
+DOMAIN-SUFFIX,stointl.com,PROXY
+DOMAIN-SUFFIX,stosolution.com,PROXY
+#end include:sto-express
+#include:yto-express
+# 沪ICP备05004632号
+DOMAIN-SUFFIX,gpall.cn,PROXY
+DOMAIN-SUFFIX,gpall.net,PROXY
+DOMAIN-SUFFIX,kjwugx.com,PROXY
+DOMAIN-SUFFIX,mamayz.cn,PROXY
+DOMAIN-SUFFIX,mamayz.com,PROXY
+DOMAIN-SUFFIX,mumbuy365.com,PROXY
+DOMAIN-SUFFIX,nellit.cn,PROXY
+DOMAIN-SUFFIX,nellit.com.cn,PROXY
+DOMAIN-SUFFIX,nellit.info,PROXY
+DOMAIN-SUFFIX,nellit.net,PROXY
+DOMAIN-SUFFIX,nellit.net.cn,PROXY
+DOMAIN-SUFFIX,nellit.org.cn,PROXY
+DOMAIN-SUFFIX,nellit.xyz,PROXY
+DOMAIN-SUFFIX,sxgou.cn,PROXY
+DOMAIN-SUFFIX,tianxiajiameng.cn,PROXY
+DOMAIN-SUFFIX,tianxiajiameng.com,PROXY
+DOMAIN-SUFFIX,yt0.cc,PROXY
+DOMAIN-SUFFIX,yto-jsd.com,PROXY
+DOMAIN-SUFFIX,yto-lgs.com,PROXY
+DOMAIN-SUFFIX,yto-lgs.net,PROXY
+DOMAIN-SUFFIX,yto.net.cn,PROXY
+DOMAIN-SUFFIX,yto.top,PROXY
+DOMAIN-SUFFIX,yto.vip,PROXY
+DOMAIN-SUFFIX,yto.xin,PROXY
+DOMAIN-SUFFIX,yto56.com.cn,PROXY
+DOMAIN-SUFFIX,yto56.net.cn,PROXY
+DOMAIN-SUFFIX,yto56test.com,PROXY
+DOMAIN-SUFFIX,ytocargo.com,PROXY
+DOMAIN-SUFFIX,ytocargo.com.cn,PROXY
+DOMAIN-SUFFIX,ytoexpress.com,PROXY
+DOMAIN-SUFFIX,ytoholding.com,PROXY
+DOMAIN-SUFFIX,ytojg.com.cn,PROXY
+DOMAIN-SUFFIX,ytokj.cn,PROXY
+DOMAIN-SUFFIX,ytokj.com,PROXY
+DOMAIN-SUFFIX,ytokj.com.cn,PROXY
+DOMAIN-SUFFIX,ytokj.net,PROXY
+DOMAIN-SUFFIX,ytokj.net.cn,PROXY
+DOMAIN-SUFFIX,ytoluohan.cn,PROXY
+DOMAIN-SUFFIX,ytoluohan.com,PROXY
+DOMAIN-SUFFIX,ytoluohan.net,PROXY
+DOMAIN-SUFFIX,ytoluohan.xin,PROXY
+DOMAIN-SUFFIX,yuantongyizhan.cn,PROXY
+DOMAIN-SUFFIX,yuantongyizhan.com,PROXY
+#end include:yto-express
+#include:yundaex
+DOMAIN-SUFFIX,ydsys.cn,PROXY
+DOMAIN-SUFFIX,yundaex.cn,PROXY
+DOMAIN-SUFFIX,yundaex.com,PROXY
+DOMAIN-SUFFIX,yundasys.com,PROXY
+
+# 韵达快运
+DOMAIN-SUFFIX,yunda56.com,PROXY
+DOMAIN-SUFFIX,yundalog.com,PROXY
+DOMAIN-SUFFIX,yundaltl.com,PROXY
+
+# 韵达国际
+DOMAIN-SUFFIX,udalogistic.com,PROXY
+DOMAIN-SUFFIX,udalogistic.cn,PROXY
+#end include:yundaex
+#include:zto-express
+# 沪ICP备13044869号
+DOMAIN-SUFFIX,95311.com,PROXY
+DOMAIN-SUFFIX,izto.com,PROXY
+DOMAIN-SUFFIX,izto.com.cn,PROXY
+DOMAIN-SUFFIX,mlzt.com.cn,PROXY
+DOMAIN-SUFFIX,zt-express.com,PROXY
+DOMAIN-SUFFIX,zto.cn,PROXY
+DOMAIN-SUFFIX,zto.com,PROXY
+DOMAIN-SUFFIX,zto.net,PROXY
+DOMAIN-SUFFIX,ztoapp.com,PROXY
+DOMAIN-SUFFIX,ztoglobal.com,PROXY
+DOMAIN-SUFFIX,ztogroup.com,PROXY
+DOMAIN-SUFFIX,ztoyh.com,PROXY
+#end include:zto-express

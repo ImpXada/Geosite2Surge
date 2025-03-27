@@ -173,20 +173,8 @@ DOMAIN-SUFFIX,bilibili.tv,PROXY
 DOMAIN-SUFFIX,biliintl.com,PROXY
 DOMAIN-SUFFIX,dreamcast.hk,PROXY
 DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
-DOMAIN-SUFFIX,alihealth.hk,PROXY
-DOMAIN-SUFFIX,aliexpress.ru,PROXY
-DOMAIN-SUFFIX,alipay.hk,PROXY
-DOMAIN-SUFFIX,alipaymo.com,PROXY
-DOMAIN-SUFFIX,tmall.ru,PROXY
-DOMAIN-SUFFIX,fliggy.hk,PROXY
 DOMAIN-SUFFIX,chinatelecomglobal.com,PROXY
 DOMAIN-SUFFIX,chinatelecomhk.com,PROXY
-DOMAIN-SUFFIX,iq.com,PROXY
-DOMAIN-SUFFIX,tencent.co.id,PROXY
-DOMAIN-SUFFIX,tencent.com.hk,PROXY
-DOMAIN-SUFFIX,wetv.vip,PROXY
-DOMAIN-SUFFIX,wetvinfo.com,PROXY
-DOMAIN,wetv.qq.com,PROXY
 DOMAIN-SUFFIX,intltencentcos.com,PROXY
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com,PROXY    #中国香港
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com,PROXY    #新加坡
@@ -248,3 +236,15 @@ DOMAIN-SUFFIX,hk.file.myqcloud.com,PROXY    #中国香港
 DOMAIN-SUFFIX,sgp.file.myqcloud.com,PROXY    #新加坡
 DOMAIN-SUFFIX,ca.file.myqcloud.com,PROXY    #多伦多
 DOMAIN-SUFFIX,ger.file.myqcloud.com,PROXY    #法兰克福
+DOMAIN-SUFFIX,tencent.co.id,PROXY
+DOMAIN-SUFFIX,tencent.com.hk,PROXY
+DOMAIN-SUFFIX,wetv.vip,PROXY
+DOMAIN-SUFFIX,wetvinfo.com,PROXY
+DOMAIN,wetv.qq.com,PROXY
+DOMAIN-SUFFIX,iq.com,PROXY
+DOMAIN-SUFFIX,alihealth.hk,PROXY
+DOMAIN-SUFFIX,aliexpress.ru,PROXY
+DOMAIN-SUFFIX,alipay.hk,PROXY
+DOMAIN-SUFFIX,alipaymo.com,PROXY
+DOMAIN-SUFFIX,tmall.ru,PROXY
+DOMAIN-SUFFIX,fliggy.hk,PROXY

@@ -293,3 +293,6 @@ DOMAIN-SUFFIX,sign.new,PROXY
 
 # Adobe Dynamic Media Delivery
 DOMAIN-SUFFIX,scene7.com,PROXY
+
+# Adobe Stats IO
+DOMAIN-SUFFIX,adobestats.io,PROXY

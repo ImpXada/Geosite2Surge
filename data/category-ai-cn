@@ -45,9 +45,17 @@ DOMAIN-SUFFIX,hunyuan.tencent.com,PROXY
 # 百川智能
 DOMAIN-SUFFIX,baichuan-ai.com,PROXY
 
+# 深度求索
+DOMAIN-SUFFIX,deepseek.com,PROXY
+
 DOMAIN-SUFFIX,botvip.cn,PROXY
 DOMAIN-SUFFIX,liblib.art,PROXY
 
 # 夸克 CueMe
 DOMAIN-SUFFIX,cueme.cn,PROXY
 DOMAIN,cueme-api.quark.cn,PROXY
+
+# 360 纳米AI搜索
+DOMAIN-SUFFIX,n.cn,PROXY
+DOMAIN-SUFFIX,namiso.com,PROXY
+DOMAIN,ai.zhaomi.cn,PROXY

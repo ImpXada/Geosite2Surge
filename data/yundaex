@@ -1,0 +1,13 @@
+DOMAIN-SUFFIX,ydsys.cn,PROXY
+DOMAIN-SUFFIX,yundaex.cn,PROXY
+DOMAIN-SUFFIX,yundaex.com,PROXY
+DOMAIN-SUFFIX,yundasys.com,PROXY
+
+# 韵达快运
+DOMAIN-SUFFIX,yunda56.com,PROXY
+DOMAIN-SUFFIX,yundalog.com,PROXY
+DOMAIN-SUFFIX,yundaltl.com,PROXY
+
+# 韵达国际
+DOMAIN-SUFFIX,udalogistic.com,PROXY
+DOMAIN-SUFFIX,udalogistic.cn,PROXY

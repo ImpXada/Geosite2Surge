@@ -363,11 +363,19 @@ DOMAIN,www4-static.gog-statics.com,PROXY
 DOMAIN-WILDCARD,cdn-akamai-*.gog-services.com,PROXY
 DOMAIN-WILDCARD,gog-cdn-*.footprint.net,PROXY
 DOMAIN-WILDCARD,images*.gog-statics.com,PROXY
+
+# CDN available in China mainland
+DOMAIN,gog-cdn-fastly.gog.com,PROXY
+DOMAIN,gog-cdn.akamaized.net,PROXY
 #end include:gog
 #include:illusion
 DOMAIN-SUFFIX,illusion.co.jp,PROXY
 DOMAIN-SUFFIX,illusion.jp,PROXY
 #end include:illusion
+#include:itchio
+DOMAIN-SUFFIX,itch.io,PROXY
+DOMAIN-SUFFIX,itch.zone,PROXY
+#end include:itchio
 #include:kurogames
 DOMAIN-SUFFIX,kurogames.com,PROXY
 

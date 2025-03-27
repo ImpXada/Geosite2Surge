@@ -576,45 +576,6 @@ DOMAIN-SUFFIX,termux.com,PROXY
 DOMAIN-SUFFIX,termux.dev,PROXY
 DOMAIN-SUFFIX,termux.org,PROXY
 #end include:termux
-#include:thelinuxfoundation
-#include:kernel
-DOMAIN-SUFFIX,kernel.org,PROXY
-#end include:kernel
-#include:linux
-DOMAIN-SUFFIX,linux.org,PROXY
-#end include:linux
-#include:openjsfoundation
-#include:amp
-DOMAIN-SUFFIX,amp.dev,PROXY
-DOMAIN-SUFFIX,ampproject.com,PROXY
-DOMAIN-SUFFIX,ampproject.net,PROXY
-DOMAIN-SUFFIX,ampproject.org,PROXY
-
-DOMAIN,cdn.ampproject.org,PROXY
-
-DOMAIN,amp.akamaized.net,PROXY
-#end include:amp
-#include:electron
-DOMAIN-SUFFIX,electronjs.org,PROXY
-#end include:electron
-#include:jquery
-DOMAIN-SUFFIX,jquery.com,PROXY
-DOMAIN-SUFFIX,jquerymobile.com,PROXY
-DOMAIN-SUFFIX,jqueryui.com,PROXY
-#end include:jquery
-#include:mocha
-DOMAIN-SUFFIX,mochajs.org,PROXY
-#end include:mocha
-#include:nodejs
-DOMAIN-SUFFIX,nodejs.org,PROXY
-#end include:nodejs
-
-DOMAIN-SUFFIX,openjsf.org,PROXY
-#end include:openjsfoundation
-
-DOMAIN-SUFFIX,lfai.foundation,PROXY
-DOMAIN-SUFFIX,linuxfoundation.org,PROXY
-#end include:thelinuxfoundation
 #include:topcoder
 DOMAIN-SUFFIX,topcoder.com,PROXY
 #end include:topcoder
@@ -736,6 +697,3 @@ DOMAIN-SUFFIX,x.org,PROXY
 DOMAIN-SUFFIX,xposed.info,PROXY
 DOMAIN-SUFFIX,yarnpkg.com,PROXY
 DOMAIN-SUFFIX,zsh.org,PROXY
-
-# Hugging Face official website.
-DOMAIN-SUFFIX,huggingface.co,PROXY
