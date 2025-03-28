@@ -922,6 +922,11 @@ DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e,PROXY    #耐克.网店
 DOMAIN-SUFFIX,nordstrom.com,PROXY
 DOMAIN-SUFFIX,nordstrommedia.com,PROXY
 #end include:nordstrom
+#include:ozon
+DOMAIN-SUFFIX,ozon.ru,PROXY
+DOMAIN-SUFFIX,ozone.ru,PROXY
+DOMAIN-SUFFIX,ozonusercontent.com,PROXY
+#end include:ozon
 #include:pchome
 DOMAIN-SUFFIX,ecimg.tw,PROXY
 DOMAIN-SUFFIX,pchome.com.tw,PROXY
@@ -978,6 +983,16 @@ DOMAIN-SUFFIX,shopeemobile.com,PROXY
 DOMAIN-SUFFIX,shopeesz.com,PROXY
 DOMAIN-SUFFIX,shp.ee,PROXY
 #end include:shopee
+#include:shopify
+DOMAIN-SUFFIX,myshopify.com,PROXY
+DOMAIN-SUFFIX,shop.app,PROXY
+DOMAIN-SUFFIX,shopify.com,PROXY
+DOMAIN-SUFFIX,shopify.dev,PROXY
+DOMAIN-SUFFIX,shopifycdn.com,PROXY
+DOMAIN-SUFFIX,shopifycloud.com,PROXY
+DOMAIN-SUFFIX,shopifystatus.com,PROXY
+DOMAIN-SUFFIX,shopifysvc.com,PROXY
+#end include:shopify
 #include:suruga-ya
 DOMAIN-SUFFIX,suruga-ya.com,PROXY
 DOMAIN-SUFFIX,suruga-ya.jp,PROXY

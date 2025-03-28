@@ -1,0 +1,6 @@
+# Symantec CA
+DOMAIN-SUFFIX,pki.symantec.com,PROXY
+DOMAIN-SUFFIX,symauth.com,PROXY
+DOMAIN-SUFFIX,symcb.com,PROXY
+DOMAIN-SUFFIX,symcd.com,PROXY
+DOMAIN-SUFFIX,ws.symantec.com,PROXY

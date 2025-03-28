@@ -1,6 +1,10 @@
 #include:hinet-eca
+# Chunghwa Telecom PKI
 DOMAIN-SUFFIX,eca.hinet.net,PROXY
 DOMAIN-SUFFIX,gtlsca.nat.gov.tw,PROXY
+DOMAIN-SUFFIX,pki.hinet.net,PROXY
+DOMAIN-SUFFIX,publicca.hinet.net,PROXY
+DOMAIN-SUFFIX,tls.hinet.net,PROXY
 #end include:hinet-eca
 
 DOMAIN-SUFFIX,cht.com.tw,PROXY

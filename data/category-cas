@@ -19,6 +19,7 @@ DOMAIN,ocsp-lb.apple.com.akadns.net,PROXY
 DOMAIN,ocsp.apple.com,PROXY
 DOMAIN,ocsp2-lb.apple.com.akadns.net,PROXY
 DOMAIN,ocsp2.apple.com,PROXY
+DOMAIN,valid.apple.com,PROXY
 #end include:apple-pki
 #include:buypass
 DOMAIN-SUFFIX,buypass-ssl.com,PROXY
@@ -38,24 +39,14 @@ DOMAIN-SUFFIX,ocsp-certum.com,PROXY
 # Sub brand
 DOMAIN-SUFFIX,ocsp-responder.com,PROXY    #Yandex
 #end include:certum
-#include:comodo
-DOMAIN-SUFFIX,comodo.com,PROXY
-DOMAIN-SUFFIX,comodo.net,PROXY
-DOMAIN-SUFFIX,comodoca.com,PROXY
-DOMAIN-SUFFIX,comodoca2.com,PROXY
-DOMAIN-SUFFIX,comodoca3.com,PROXY
-DOMAIN-SUFFIX,comodoca4.com,PROXY
-#end include:comodo
-#include:cybertrust
-DOMAIN-SUFFIX,cybertrust.co.jp,PROXY
-DOMAIN-SUFFIX,cybertrust.ne.jp,PROXY
-#end include:cybertrust
 #include:digicert
 DOMAIN-SUFFIX,dcocsp.cn,PROXY
 DOMAIN-SUFFIX,digicert-cn.com,PROXY    #Not in Chinese Mainland
 DOMAIN-SUFFIX,digicert-validation.com,PROXY
 DOMAIN-SUFFIX,digicert.cn,PROXY
+DOMAIN-SUFFIX,digicert.co.jp,PROXY
 DOMAIN-SUFFIX,digicert.com,PROXY
+DOMAIN-SUFFIX,digicert.eu,PROXY
 DOMAIN-SUFFIX,digitalcertvalidation.com,PROXY
 DOMAIN-SUFFIX,freessl.com,PROXY
 DOMAIN-SUFFIX,geotrust.com,PROXY
@@ -64,15 +55,87 @@ DOMAIN-SUFFIX,thawte.com,PROXY
 DOMAIN-SUFFIX,thawte.de,PROXY
 DOMAIN-SUFFIX,thawte.fr,PROXY
 
+#include:cybertrust
+DOMAIN-SUFFIX,cybertrust.co.jp,PROXY
+DOMAIN-SUFFIX,cybertrust.ne.jp,PROXY
+#end include:cybertrust
+#include:verisign-pki
+# Verisign CA
+DOMAIN-SUFFIX,adobe-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,certipath-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,certipath-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,crl.verisign.com,PROXY
+DOMAIN-SUFFIX,csc3-2004-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,csc3-2004-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,csc3-2009-2-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,csc3-2009-2-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,csc3-2009-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,csc3-2009-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,csc3-2010-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,csc3-2010-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,eca-client-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,eca-client-ocsp.verisign.com,PROXY
+DOMAIN-SUFFIX,evintl-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,evintl-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,evintl-ocsp.verisign.com,PROXY
+DOMAIN-SUFFIX,evintl-t1-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,evsecure-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,evsecure-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,evsecure-ocsp.verisign.com,PROXY
+DOMAIN-SUFFIX,evsecure-t1-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,evsecure-t1-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,ocsp.verisign.com,PROXY
+DOMAIN-SUFFIX,onsitecrl.verisign.com,PROXY
+DOMAIN-SUFFIX,orgc3-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,pki-ocsp.verisign.com,PROXY
+DOMAIN-SUFFIX,ssp-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,ssp-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,ssp-ocsp.verisign.com,PROXY
+DOMAIN-SUFFIX,svr-wimax-ocsp.verisign.com,PROXY
+DOMAIN-SUFFIX,svrintl-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrintl-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,svrintl-g3-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrintl-g3-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,svrintl-t1-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrintl-t1-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-g2-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-g2-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-g3-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-g3-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-oracle-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-oracle-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-oracle-ocsp.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-t1-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrsecure-t1-crl.verisign.com,PROXY
+DOMAIN-SUFFIX,svrtrial-g2-aia.verisign.com,PROXY
+DOMAIN-SUFFIX,svrtrial-g2-crl.verisign.com,PROXY
+#end include:verisign-pki
+#include:symantec-pki
+# Symantec CA
+DOMAIN-SUFFIX,pki.symantec.com,PROXY
+DOMAIN-SUFFIX,symauth.com,PROXY
+DOMAIN-SUFFIX,symcb.com,PROXY
+DOMAIN-SUFFIX,symcd.com,PROXY
+DOMAIN-SUFFIX,ws.symantec.com,PROXY
+#end include:symantec-pki
+
 # Quovadis
 DOMAIN-SUFFIX,quovadisglobal.com,PROXY
 
 # Public Trust
 DOMAIN-SUFFIX,public-trust.com,PROXY
+
+# Verizon CA
+DOMAIN-SUFFIX,omniroot.com,PROXY
 #end include:digicert
 #include:entrust
+DOMAIN-SUFFIX,entrust.cn,PROXY
+DOMAIN-SUFFIX,entrust.com,PROXY
 DOMAIN-SUFFIX,entrust.net,PROXY
 DOMAIN-SUFFIX,entrustdatacard.com,PROXY
+DOMAIN,www.entrust.cn,PROXY
 
 # Sub brand
 DOMAIN-SUFFIX,affirmtrust.com,PROXY
@@ -106,6 +169,7 @@ DOMAIN-SUFFIX,globalsign.nl,PROXY
 DOMAIN-SUFFIX,globalsigncdn.com,PROXY
 
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net,PROXY
+DOMAIN,crl.globalsign.net,PROXY
 #end include:globalsign
 #include:godaddy
 DOMAIN-SUFFIX,godaddy.com,PROXY
@@ -137,8 +201,12 @@ DOMAIN,crls.pki.goog,PROXY
 DOMAIN,ocsp.pki.goog,PROXY
 #end include:google-trust-services
 #include:hinet-eca
+# Chunghwa Telecom PKI
 DOMAIN-SUFFIX,eca.hinet.net,PROXY
 DOMAIN-SUFFIX,gtlsca.nat.gov.tw,PROXY
+DOMAIN-SUFFIX,pki.hinet.net,PROXY
+DOMAIN-SUFFIX,publicca.hinet.net,PROXY
+DOMAIN-SUFFIX,tls.hinet.net,PROXY
 #end include:hinet-eca
 #include:hongkongpost
 DOMAIN-SUFFIX,hongkongpost.gov.hk,PROXY
@@ -193,6 +261,12 @@ DOMAIN-SUFFIX,aoc.cat,PROXY
 DOMAIN-SUFFIX,catcert.cat,PROXY
 DOMAIN-SUFFIX,incommon-rsa.org,PROXY
 DOMAIN-SUFFIX,netsolssl.com,PROXY
+
+# Comodo CA
+DOMAIN-SUFFIX,comodoca.com,PROXY
+DOMAIN-SUFFIX,comodoca2.com,PROXY
+DOMAIN-SUFFIX,comodoca3.com,PROXY
+DOMAIN-SUFFIX,comodoca4.com,PROXY
 #end include:sectigo
 #include:sslcom
 DOMAIN-SUFFIX,ssl.com,PROXY
@@ -234,12 +308,6 @@ DOMAIN-SUFFIX,trustdoc.ch,PROXY
 DOMAIN-SUFFIX,trustsign.ch,PROXY
 DOMAIN-SUFFIX,zert.ch,PROXY
 #end include:swisssign
-#include:symantec
-DOMAIN-SUFFIX,managedpki.com,PROXY
-DOMAIN-SUFFIX,symantec.com,PROXY
-DOMAIN-SUFFIX,symcb.com,PROXY
-DOMAIN-SUFFIX,symcd.com,PROXY
-#end include:symantec
 #include:telekom
 DOMAIN-SUFFIX,telekom.com,PROXY
 DOMAIN-SUFFIX,telekom.de,PROXY
@@ -251,41 +319,6 @@ DOMAIN-SUFFIX,trustwave.com,PROXY
 #include:twca
 DOMAIN-SUFFIX,twca.com.tw,PROXY
 #end include:twca
-#include:verisign
-DOMAIN-SUFFIX,verisign.asia,PROXY
-DOMAIN-SUFFIX,verisign.biz,PROXY
-DOMAIN-SUFFIX,verisign.ch,PROXY
-DOMAIN-SUFFIX,verisign.co.in,PROXY
-DOMAIN-SUFFIX,verisign.co.uk,PROXY
-DOMAIN-SUFFIX,verisign.com,PROXY
-DOMAIN-SUFFIX,verisign.com.au,PROXY
-DOMAIN-SUFFIX,verisign.com.br,PROXY
-DOMAIN-SUFFIX,verisign.com.cn,PROXY
-DOMAIN-SUFFIX,verisign.com.es,PROXY
-DOMAIN-SUFFIX,verisign.com.hk,PROXY
-DOMAIN-SUFFIX,verisign.com.sg,PROXY
-DOMAIN-SUFFIX,verisign.com.tw,PROXY
-DOMAIN-SUFFIX,verisign.com.vn,PROXY
-DOMAIN-SUFFIX,verisign.de,PROXY
-DOMAIN-SUFFIX,verisign.dk,PROXY
-DOMAIN-SUFFIX,verisign.es,PROXY
-DOMAIN-SUFFIX,verisign.fr,PROXY
-DOMAIN-SUFFIX,verisign.hk,PROXY
-DOMAIN-SUFFIX,verisign.in,PROXY
-DOMAIN-SUFFIX,verisign.info,PROXY
-DOMAIN-SUFFIX,verisign.jobs,PROXY
-DOMAIN-SUFFIX,verisign.mobi,PROXY
-DOMAIN-SUFFIX,verisign.name,PROXY
-DOMAIN-SUFFIX,verisign.net,PROXY
-DOMAIN-SUFFIX,verisign.org,PROXY
-DOMAIN-SUFFIX,verisign.pro,PROXY
-DOMAIN-SUFFIX,verisign.se,PROXY
-DOMAIN-SUFFIX,verisign.sg,PROXY
-DOMAIN-SUFFIX,verisign.tw,PROXY
-DOMAIN-SUFFIX,verisign.us,PROXY
-DOMAIN-SUFFIX,verisign.vn,PROXY
-DOMAIN-SUFFIX,verisigninc.com,PROXY
-#end include:verisign
 #include:verizon
 # All .flickr domains
 DOMAIN-SUFFIX,flickr,PROXY
@@ -489,9 +522,6 @@ DOMAIN-SUFFIX,verizonmedia.com,PROXY
 DOMAIN-SUFFIX,verizonwireless.com,PROXY
 DOMAIN-SUFFIX,vzw.com,PROXY
 DOMAIN-SUFFIX,xo.com,PROXY
-
-# PKI
-DOMAIN-SUFFIX,omniroot.com,PROXY
 #end include:verizon
 #include:vodafone
 DOMAIN-SUFFIX,myvodafone.com.au,PROXY
@@ -521,6 +551,7 @@ DOMAIN-SUFFIX,fnmt.es,PROXY
 DOMAIN-SUFFIX,harica.gr,PROXY
 DOMAIN-SUFFIX,infocert.digital,PROXY
 DOMAIN-SUFFIX,infocert.it,PROXY
+DOMAIN-SUFFIX,managedpki.com,PROXY
 DOMAIN-SUFFIX,netlock.hu,PROXY
 DOMAIN-SUFFIX,trustcor.ca,PROXY
 DOMAIN-SUFFIX,trustcor.com,PROXY

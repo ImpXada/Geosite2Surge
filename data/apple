@@ -81,7 +81,20 @@ DOMAIN,ocsp-lb.apple.com.akadns.net,PROXY
 DOMAIN,ocsp.apple.com,PROXY
 DOMAIN,ocsp2-lb.apple.com.akadns.net,PROXY
 DOMAIN,ocsp2.apple.com,PROXY
+DOMAIN,valid.apple.com,PROXY
 #end include:apple-pki
+#include:apple-tvplus
+# Apple TV+
+DOMAIN,apple-tv-plus-press.apple.com,PROXY
+DOMAIN,hls-amt.itunes.apple.com,PROXY
+DOMAIN,hls.itunes.apple.com,PROXY
+DOMAIN,np-edge.itunes.apple.com,PROXY
+DOMAIN,play-edge.itunes.apple.com,PROXY
+DOMAIN,tv.applemusic.com,PROXY
+DOMAIN,uts-api.itunes.apple.com,PROXY
+
+DOMAIN-SUFFIX,tv.apple.com,PROXY
+#end include:apple-tvplus
 #include:apple-update
 # https://support.apple.com/en-us/HT210060
 
@@ -1945,7 +1958,6 @@ DOMAIN,tj-pod1-smp-device.apple.com,PROXY
 DOMAIN,updates-http.cdn-apple.com,PROXY
 DOMAIN,updates-http.cdn-apple.com.akadns.net,PROXY
 DOMAIN,updates.cdn-apple.com,PROXY
-DOMAIN,valid.apple.com,PROXY
 DOMAIN,valid.origin-apple.com.akadns.net,PROXY
 DOMAIN,weather-data.apple.com,PROXY
 DOMAIN,weather-data.apple.com.akadns.net,PROXY

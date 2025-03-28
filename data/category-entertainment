@@ -66,6 +66,18 @@ DOMAIN-SUFFIX,gogocdn.net,PROXY    #image hosting site
 # hidive
 DOMAIN-SUFFIX,hidive.com,PROXY
 #end include:anime
+#include:apple-tvplus
+# Apple TV+
+DOMAIN,apple-tv-plus-press.apple.com,PROXY
+DOMAIN,hls-amt.itunes.apple.com,PROXY
+DOMAIN,hls.itunes.apple.com,PROXY
+DOMAIN,np-edge.itunes.apple.com,PROXY
+DOMAIN,play-edge.itunes.apple.com,PROXY
+DOMAIN,tv.applemusic.com,PROXY
+DOMAIN,uts-api.itunes.apple.com,PROXY
+
+DOMAIN-SUFFIX,tv.apple.com,PROXY
+#end include:apple-tvplus
 #include:archiveofourown
 DOMAIN-SUFFIX,ao3.org,PROXY
 DOMAIN-SUFFIX,archiveofourown.org,PROXY

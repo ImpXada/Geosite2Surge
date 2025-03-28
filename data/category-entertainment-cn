@@ -255,40 +255,6 @@ DOMAIN-SUFFIX,mgtv.com,PROXY
 DOMAIN-SUFFIX,huya.com,PROXY
 DOMAIN-SUFFIX,msstatic.com,PROXY
 #end include:huya
-#include:iqiyi
-DOMAIN-SUFFIX,71.am,PROXY
-DOMAIN-SUFFIX,iq.com,PROXY
-DOMAIN-SUFFIX,iqiyi.com,PROXY
-DOMAIN-SUFFIX,iqiyipic.com,PROXY
-DOMAIN-SUFFIX,pps.tv,PROXY
-DOMAIN-SUFFIX,ppsimg.com,PROXY
-DOMAIN-SUFFIX,qiyi.com,PROXY
-DOMAIN-SUFFIX,qiyipic.com,PROXY
-DOMAIN-SUFFIX,qy.net,PROXY
-
-# CDN used by iqiyi
-DOMAIN-SUFFIX,71edge.com,PROXY
-
-#include:iqiyi-ads
-DOMAIN-SUFFIX,a.ckm.iqiyi.com,PROXY
-DOMAIN-SUFFIX,ad.m.iqiyi.com,PROXY
-DOMAIN-SUFFIX,afp.iqiyi.com,PROXY
-DOMAIN-SUFFIX,c.uaa.iqiyi.com,PROXY
-DOMAIN-SUFFIX,cloudpush.iqiyi.com,PROXY
-DOMAIN-SUFFIX,cm.passport.iqiyi.com,PROXY
-DOMAIN-SUFFIX,cupid.iqiyi.com,PROXY
-DOMAIN-SUFFIX,emoticon.sns.iqiyi.com,PROXY
-DOMAIN-SUFFIX,gamecenter.iqiyi.com,PROXY
-DOMAIN-SUFFIX,hotchat-im.iqiyi.com,PROXY
-DOMAIN-SUFFIX,ifacelog.iqiyi.com,PROXY
-DOMAIN-SUFFIX,mbdlog.iqiyi.com,PROXY
-DOMAIN-SUFFIX,msg.71.am,PROXY
-DOMAIN-SUFFIX,msg.video.qiyi.com,PROXY
-DOMAIN-SUFFIX,msg2.video.qiyi.com,PROXY
-DOMAIN-SUFFIX,policy.video.iqiyi.com,PROXY
-DOMAIN-SUFFIX,yuedu.iqiyi.com,PROXY
-#end include:iqiyi-ads
-#end include:iqiyi
 #include:jinjiang
 DOMAIN-SUFFIX,jjwxc.net,PROXY
 #end include:jinjiang
@@ -301,29 +267,6 @@ DOMAIN-SUFFIX,ku6img.com,PROXY
 DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
-#include:kuaishou
-# Beijing Kuaishou Technology Co., Ltd.
-
-DOMAIN-SUFFIX,gifshow.com,PROXY
-DOMAIN-SUFFIX,inkwai.com,PROXY
-DOMAIN-SUFFIX,ksapisrv.com,PROXY
-DOMAIN-SUFFIX,kuaishou.com,PROXY
-DOMAIN-SUFFIX,kwaizt.com,PROXY
-DOMAIN-SUFFIX,kuaishouzt.com,PROXY
-DOMAIN-SUFFIX,kwimgs.com,PROXY
-DOMAIN-SUFFIX,yximgs.com,PROXY
-
-#include:kuaishou-ads
-DOMAIN-SUFFIX,adbkwai.com,PROXY
-DOMAIN-SUFFIX,adkwai.com,PROXY
-DOMAIN-SUFFIX,adukwai.com,PROXY
-DOMAIN-SUFFIX,e.kuaishou.cn,PROXY
-DOMAIN-SUFFIX,e.kuaishou.com,PROXY
-
-DOMAIN,log-sdk.gifshow.com,PROXY
-DOMAIN,wlog.kuaishou.com,PROXY
-#end include:kuaishou-ads
-#end include:kuaishou
 #include:kugou
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY

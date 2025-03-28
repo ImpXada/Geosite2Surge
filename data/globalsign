@@ -19,3 +19,4 @@ DOMAIN-SUFFIX,globalsign.nl,PROXY
 DOMAIN-SUFFIX,globalsigncdn.com,PROXY
 
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net,PROXY
+DOMAIN,crl.globalsign.net,PROXY

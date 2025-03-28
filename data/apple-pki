@@ -6,3 +6,4 @@ DOMAIN,ocsp-lb.apple.com.akadns.net,PROXY
 DOMAIN,ocsp.apple.com,PROXY
 DOMAIN,ocsp2-lb.apple.com.akadns.net,PROXY
 DOMAIN,ocsp2.apple.com,PROXY
+DOMAIN,valid.apple.com,PROXY

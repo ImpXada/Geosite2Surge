@@ -200,6 +200,3 @@ DOMAIN-SUFFIX,verizonmedia.com,PROXY
 DOMAIN-SUFFIX,verizonwireless.com,PROXY
 DOMAIN-SUFFIX,vzw.com,PROXY
 DOMAIN-SUFFIX,xo.com,PROXY
-
-# PKI
-DOMAIN-SUFFIX,omniroot.com,PROXY

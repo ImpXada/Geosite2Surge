@@ -17,3 +17,9 @@ DOMAIN-SUFFIX,aoc.cat,PROXY
 DOMAIN-SUFFIX,catcert.cat,PROXY
 DOMAIN-SUFFIX,incommon-rsa.org,PROXY
 DOMAIN-SUFFIX,netsolssl.com,PROXY
+
+# Comodo CA
+DOMAIN-SUFFIX,comodoca.com,PROXY
+DOMAIN-SUFFIX,comodoca2.com,PROXY
+DOMAIN-SUFFIX,comodoca3.com,PROXY
+DOMAIN-SUFFIX,comodoca4.com,PROXY

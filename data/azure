@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,21vbc.com,PROXY
 DOMAIN-SUFFIX,21vbluecloud.com,PROXY
 DOMAIN-SUFFIX,21vbluecloud.net,PROXY
 DOMAIN-SUFFIX,aadrm.cn,PROXY
+DOMAIN-SUFFIX,aadrm.com,PROXY
 DOMAIN-SUFFIX,aggresmart.com,PROXY
 DOMAIN-SUFFIX,apihub-internal.cn,PROXY
 DOMAIN-SUFFIX,appserviceenvironment.cn,PROXY
@@ -83,6 +84,7 @@ DOMAIN-SUFFIX,management-azure-devices.cn,PROXY
 DOMAIN-SUFFIX,management-azure-devices.net,PROXY
 DOMAIN-SUFFIX,mcchcdn.com,PROXY
 DOMAIN-SUFFIX,mgmt-azure-api.cn,PROXY
+DOMAIN-SUFFIX,microsoftazuread-sso.com,PROXY
 DOMAIN-SUFFIX,microsoftazuresponsorships.com,PROXY
 DOMAIN-SUFFIX,microsoftazurestatus.cn,PROXY
 DOMAIN-SUFFIX,microsofteca.com,PROXY
@@ -95,6 +97,8 @@ DOMAIN-SUFFIX,msftcloudes.cn,PROXY
 DOMAIN-SUFFIX,msidentity.cn,PROXY
 DOMAIN-SUFFIX,msidlabpbmc.cn,PROXY
 DOMAIN-SUFFIX,msn.net,PROXY
+DOMAIN-SUFFIX,playfab.com,PROXY
+DOMAIN-SUFFIX,playfabapi.com,PROXY
 DOMAIN-SUFFIX,serverlesslibrary.net,PROXY
 DOMAIN-SUFFIX,trafficmanager.cn,PROXY
 DOMAIN-SUFFIX,trafficmanager.net,PROXY

@@ -1,5 +1,8 @@
+DOMAIN-SUFFIX,entrust.cn,PROXY
+DOMAIN-SUFFIX,entrust.com,PROXY
 DOMAIN-SUFFIX,entrust.net,PROXY
 DOMAIN-SUFFIX,entrustdatacard.com,PROXY
+DOMAIN,www.entrust.cn,PROXY
 
 # Sub brand
 DOMAIN-SUFFIX,affirmtrust.com,PROXY
