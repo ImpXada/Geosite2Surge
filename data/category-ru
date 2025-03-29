@@ -167,6 +167,11 @@ DOMAIN-SUFFIX,mycdn.me,PROXY
 #include:ok
 DOMAIN-SUFFIX,ok.ru,PROXY
 #end include:ok
+#include:ozon
+DOMAIN-SUFFIX,ozon.ru,PROXY
+DOMAIN-SUFFIX,ozone.ru,PROXY
+DOMAIN-SUFFIX,ozonusercontent.com,PROXY
+#end include:ozon
 #include:vk
 DOMAIN-SUFFIX,mvk.com,PROXY
 DOMAIN-SUFFIX,userapi.com,PROXY
