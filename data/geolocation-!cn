@@ -4664,8 +4664,7 @@ DOMAIN-SUFFIX,redditmedia.com,PROXY
 DOMAIN-SUFFIX,redditspace.com,PROXY
 DOMAIN-SUFFIX,redditstatic.com,PROXY
 DOMAIN-SUFFIX,redditstatus.com,PROXY
-
-DOMAIN,reddit.map.fastly.net,PROXY
+DOMAIN-SUFFIX,reddit.map.fastly.net,PROXY
 #end include:reddit
 #include:rutracker
 DOMAIN-SUFFIX,maintracker.org,PROXY
