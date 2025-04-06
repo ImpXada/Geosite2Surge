@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com,PROXY    #拉美-圣保罗一
 DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com,PROXY    #土耳其-伊斯坦布尔
 DOMAIN-SUFFIX,cmbi.com.hk,PROXY
 DOMAIN-SUFFIX,cmbwinglungbank.com,PROXY
+DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com,PROXY
 DOMAIN-SUFFIX,ccbintl.com.hk,PROXY
 DOMAIN-SUFFIX,ccbseoul.com,PROXY
 DOMAIN-SUFFIX,ctexcel.ca,PROXY
@@ -173,6 +174,8 @@ DOMAIN-SUFFIX,bilibili.tv,PROXY
 DOMAIN-SUFFIX,biliintl.com,PROXY
 DOMAIN-SUFFIX,dreamcast.hk,PROXY
 DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
+DOMAIN-SUFFIX,chinatelecomglobal.com,PROXY
+DOMAIN-SUFFIX,chinatelecomhk.com,PROXY
 DOMAIN-SUFFIX,intltencentcos.com,PROXY
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com,PROXY    #中国香港
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com,PROXY    #新加坡
@@ -240,8 +243,6 @@ DOMAIN-SUFFIX,wetv.vip,PROXY
 DOMAIN-SUFFIX,wetvinfo.com,PROXY
 DOMAIN,wetv.qq.com,PROXY
 DOMAIN-SUFFIX,iq.com,PROXY
-DOMAIN-SUFFIX,chinatelecomglobal.com,PROXY
-DOMAIN-SUFFIX,chinatelecomhk.com,PROXY
 DOMAIN-SUFFIX,alihealth.hk,PROXY
 DOMAIN-SUFFIX,aliexpress.ru,PROXY
 DOMAIN-SUFFIX,alipay.hk,PROXY

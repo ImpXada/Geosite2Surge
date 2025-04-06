@@ -1181,6 +1181,18 @@ DOMAIN-SUFFIX,xunyou.com,PROXY    #蜀ICP备07504248号-4
 # 薄荷加速器
 DOMAIN-SUFFIX,bohejiasuqi.com,PROXY
 DOMAIN-SUFFIX,jiasu.bohe.com,PROXY    #鄂ICP备18023477号-1
+
+# GoLink 加速器 苏ICP备18014251号-2
+DOMAIN-SUFFIX,golink.com,PROXY
+DOMAIN-SUFFIX,golinkapi.com,PROXY
+DOMAIN-SUFFIX,golinkcn.com,PROXY
+
+# Watt Toolkit 苏ICP备2023005487号-1
+DOMAIN-SUFFIX,steampp.net,PROXY
+DOMAIN-SUFFIX,rmbgame.net,PROXY
+
+# Steamcommunity 302
+DOMAIN-SUFFIX,steam302.xyz,PROXY
 #end include:category-game-accelerator-cn
 
 # Forums
@@ -5029,3 +5041,6 @@ DOMAIN-SUFFIX,bdcat.top,PROXY
 
 # 宁停车
 DOMAIN-SUFFIX,ningtingche.com,PROXY
+
+# 沉浸式翻译 沪ICP备2023011353号
+DOMAIN-SUFFIX,immersivetranslate.com,PROXY

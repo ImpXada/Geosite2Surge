@@ -267,6 +267,29 @@ DOMAIN-SUFFIX,ku6img.com,PROXY
 DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
+#include:kuaishou
+# Beijing Kuaishou Technology Co., Ltd.
+
+DOMAIN-SUFFIX,gifshow.com,PROXY
+DOMAIN-SUFFIX,inkwai.com,PROXY
+DOMAIN-SUFFIX,ksapisrv.com,PROXY
+DOMAIN-SUFFIX,kuaishou.com,PROXY
+DOMAIN-SUFFIX,kwaizt.com,PROXY
+DOMAIN-SUFFIX,kuaishouzt.com,PROXY
+DOMAIN-SUFFIX,kwimgs.com,PROXY
+DOMAIN-SUFFIX,yximgs.com,PROXY
+
+#include:kuaishou-ads
+DOMAIN-SUFFIX,adbkwai.com,PROXY
+DOMAIN-SUFFIX,adkwai.com,PROXY
+DOMAIN-SUFFIX,adukwai.com,PROXY
+DOMAIN-SUFFIX,e.kuaishou.cn,PROXY
+DOMAIN-SUFFIX,e.kuaishou.com,PROXY
+
+DOMAIN,log-sdk.gifshow.com,PROXY
+DOMAIN,wlog.kuaishou.com,PROXY
+#end include:kuaishou-ads
+#end include:kuaishou
 #include:kugou
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY
@@ -459,6 +482,9 @@ DOMAIN-SUFFIX,steampp.net,PROXY
 # Android Emulator
 DOMAIN-SUFFIX,lsplayer.com,PROXY
 DOMAIN-SUFFIX,yeshen.com,PROXY
+
+# 九九互动 粤ICP备19068416号
+DOMAIN-SUFFIX,forevernine.com,PROXY
 
 DOMAIN-SUFFIX,ledu.com,PROXY
 DOMAIN-SUFFIX,pearvideo.com,PROXY

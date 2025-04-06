@@ -1228,6 +1228,18 @@ DOMAIN-SUFFIX,xunyou.com,PROXY    #蜀ICP备07504248号-4
 # 薄荷加速器
 DOMAIN-SUFFIX,bohejiasuqi.com,PROXY
 DOMAIN-SUFFIX,jiasu.bohe.com,PROXY    #鄂ICP备18023477号-1
+
+# GoLink 加速器 苏ICP备18014251号-2
+DOMAIN-SUFFIX,golink.com,PROXY
+DOMAIN-SUFFIX,golinkapi.com,PROXY
+DOMAIN-SUFFIX,golinkcn.com,PROXY
+
+# Watt Toolkit 苏ICP备2023005487号-1
+DOMAIN-SUFFIX,steampp.net,PROXY
+DOMAIN-SUFFIX,rmbgame.net,PROXY
+
+# Steamcommunity 302
+DOMAIN-SUFFIX,steam302.xyz,PROXY
 #end include:category-game-accelerator-cn
 
 # Forums
@@ -5076,9 +5088,10 @@ DOMAIN-SUFFIX,bdcat.top,PROXY
 
 # 宁停车
 DOMAIN-SUFFIX,ningtingche.com,PROXY
+
+# 沉浸式翻译 沪ICP备2023011353号
+DOMAIN-SUFFIX,immersivetranslate.com,PROXY
 #end include:geolocation-cn
-DOMAIN-SUFFIX,reckittbenckiser.cn,PROXY
-DOMAIN-SUFFIX,reckittbenckiser.com.cn,PROXY
 DOMAIN-SUFFIX,apple.cn,PROXY
 DOMAIN-SUFFIX,apple.com.cn,PROXY
 DOMAIN-SUFFIX,apple-store.cn,PROXY
@@ -5372,79 +5385,4 @@ DOMAIN,www.apple.com,PROXY
 DOMAIN,www.apple.com.edgekey.net,PROXY
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net,PROXY
 DOMAIN,xp.apple.com,PROXY
-DOMAIN-SUFFIX,adobedc.cn,PROXY
-DOMAIN-SUFFIX,dcg.microsoft.com,PROXY
-DOMAIN-SUFFIX,dynamics.cn,PROXY
-DOMAIN-SUFFIX,engkoo.com,PROXY
-DOMAIN-SUFFIX,lync.cn,PROXY
-DOMAIN-SUFFIX,microsoft-smb.cn,PROXY
-DOMAIN-SUFFIX,microsoftonline-i.cn,PROXY
-DOMAIN-SUFFIX,microsoftonline-m-i.cn,PROXY
-DOMAIN-SUFFIX,microsoftonline-m.cn,PROXY
-DOMAIN-SUFFIX,microsoftonline-p-i.cn,PROXY
-DOMAIN-SUFFIX,microsoftonline-p-i.net.cn,PROXY
-DOMAIN-SUFFIX,microsoftonline-p.cn,PROXY
-DOMAIN-SUFFIX,microsoftonline-p.net.cn,PROXY
-DOMAIN-SUFFIX,microsoftonline.cn,PROXY
-DOMAIN-SUFFIX,microsoftstore.com.cn,PROXY
-DOMAIN-SUFFIX,microsofttranslator-int.cn,PROXY
-DOMAIN-SUFFIX,msauth.cn,PROXY
-DOMAIN-SUFFIX,msauthimages.cn,PROXY
-DOMAIN-SUFFIX,msftauth.cn,PROXY
-DOMAIN-SUFFIX,msftauthimages.cn,PROXY
-DOMAIN-SUFFIX,mspil.cn,PROXY
-DOMAIN-SUFFIX,msra.cn,PROXY
-DOMAIN-SUFFIX,o365cn.com,PROXY
-DOMAIN-SUFFIX,o365files.cn,PROXY
-DOMAIN-SUFFIX,office365-net.cn,PROXY
-DOMAIN-SUFFIX,office365.cn,PROXY
-DOMAIN-SUFFIX,officeplus.cn,PROXY
-DOMAIN-SUFFIX,officewebapps.cn,PROXY
-DOMAIN-SUFFIX,onmschina.cn,PROXY
-DOMAIN-SUFFIX,outlook.cn,PROXY
-DOMAIN-SUFFIX,pbiwebcontent.cn,PROXY
-DOMAIN-SUFFIX,powerapps.cn,PROXY
-DOMAIN-SUFFIX,powerappsportals.cn,PROXY
-DOMAIN-SUFFIX,powerautomate.cn,PROXY
-DOMAIN-SUFFIX,powerbi.cn,PROXY
-DOMAIN-SUFFIX,sharepoint.cn,PROXY
-DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,PROXY
-DOMAIN-SUFFIX,download.windowsupdate.com,PROXY
-DOMAIN,b.c2r.ts.cdn.office.net,PROXY
-DOMAIN,bg.v4.a.dl.ws.microsoft.com,PROXY
-DOMAIN,bg4.v4.a.dl.ws.microsoft.com,PROXY
-DOMAIN,build.microsoft.com,PROXY
-DOMAIN,cdn.marketplaceimages.windowsphone.com,PROXY
-DOMAIN,cn.windowssearch.com,PROXY
-DOMAIN,ctldl.windowsupdate.com,PROXY
-DOMAIN,devblogs.microsoft.com,PROXY
-DOMAIN,developer.microsoft.com,PROXY
-DOMAIN,docs.microsoft.com,PROXY
-DOMAIN,download.microsoft.com,PROXY
-DOMAIN,download.visualstudio.microsoft.com,PROXY
-DOMAIN,f.c2r.ts.cdn.office.net,PROXY
-DOMAIN,fs.microsoft.com,PROXY
-DOMAIN,learn.microsoft.com,PROXY
-DOMAIN,msgr.dlservice.microsoft.com,PROXY
-DOMAIN,msgruser.dlservice.microsoft.com,PROXY
-DOMAIN,myvs.download.prss.microsoft.com,PROXY
-DOMAIN,oemsoc.download.prss.microsoft.com,PROXY
-DOMAIN,officecdn.microsoft.com,PROXY
-DOMAIN,qh.dlservice.microsoft.com,PROXY
-DOMAIN,res-1.cdn.office.net,PROXY
-DOMAIN,res.cdn.office.net,PROXY
-DOMAIN,sdx.microsoft.com,PROXY
-DOMAIN,shell.cdn.office.net,PROXY
-DOMAIN,silverlight.dlservice.microsoft.com,PROXY
-DOMAIN,slupdate.dlservice.microsoft.com,PROXY
-DOMAIN,software.download.prss.microsoft.com,PROXY
-DOMAIN,statics.teams.cdn.office.net,PROXY
-DOMAIN,storeedgefd.dsx.mp.microsoft.com,PROXY
-DOMAIN,surface.downloads.prss.microsoft.com,PROXY
-DOMAIN,vscode.download.prss.microsoft.com,PROXY
-DOMAIN,vz.download.prss.microsoft.com,PROXY
-DOMAIN,wl.dlservice.microsoft.com,PROXY
-DOMAIN,wscont1.apps.microsoft.com,PROXY
-DOMAIN,wscont2.apps.microsoft.com,PROXY
-DOMAIN,xb.dlservice.microsoft.com,PROXY
 DOMAIN-SUFFIX,bluepoch.com,PROXY
