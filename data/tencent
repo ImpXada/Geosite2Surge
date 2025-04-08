@@ -213,6 +213,8 @@ DOMAIN-SUFFIX,wechatpay.cn,PROXY
 DOMAIN-SUFFIX,weiyun.com,PROXY
 DOMAIN-SUFFIX,wetv.vip,PROXY
 DOMAIN-SUFFIX,wetvinfo.com,PROXY
+DOMAIN-SUFFIX,wxcloudrun.com,PROXY
+DOMAIN-SUFFIX,wxgateway.com,PROXY
 DOMAIN-SUFFIX,wxlivecdn.com,PROXY
 
 DOMAIN,wetv.qq.com,PROXY
