@@ -359,6 +359,7 @@ DOMAIN-SUFFIX,kotlinlang.org,PROXY
 DOMAIN-SUFFIX,cdn.jetbrains.com,PROXY
 DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn,PROXY
 DOMAIN-SUFFIX,jb.gg,PROXY
+DOMAIN-SUFFIX,youtrack.cloud,PROXY
 #end include:jetbrains
 #include:jetbrains-ai
 DOMAIN-SUFFIX,grazie.ai,PROXY

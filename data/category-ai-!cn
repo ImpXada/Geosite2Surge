@@ -94,8 +94,10 @@ DOMAIN-SUFFIX,jasper.ai,PROXY
 DOMAIN-SUFFIX,notebooklm.google,PROXY
 DOMAIN-SUFFIX,notebooklm.google.com,PROXY
 
+DOMAIN-SUFFIX,chutes.ai,PROXY
 DOMAIN-SUFFIX,dify.ai,PROXY
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com,PROXY
 DOMAIN-SUFFIX,meta.ai,PROXY
+DOMAIN-SUFFIX,mistral.ai,PROXY
 DOMAIN-SUFFIX,openart.ai,PROXY
 DOMAIN-SUFFIX,openrouter.ai,PROXY

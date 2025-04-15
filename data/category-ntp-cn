@@ -9,6 +9,9 @@ DOMAIN,ntp5.aliyun.com,PROXY
 DOMAIN,ntp6.aliyun.com,PROXY
 DOMAIN,ntp7.aliyun.com,PROXY
 
+# AWS
+DOMAIN,time.amazonaws.cn,PROXY
+
 # Qualcomm
 DOMAIN,time.izatcloud.net,PROXY
 DOMAIN,time.xtracloud.net,PROXY

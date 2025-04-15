@@ -11496,6 +11496,9 @@ DOMAIN-SUFFIX,unlocktool.net,PROXY
 DOMAIN,time.apple.com,PROXY
 DOMAIN,time.euro.apple.com,PROXY
 
+# AWS
+DOMAIN,time.aws.com,PROXY
+
 # Facebook
 # regexp:^time([1-5])?\.facebook\.com$
 DOMAIN,time.facebook.com,PROXY
@@ -11575,6 +11578,9 @@ DOMAIN,ntp4.aliyun.com,PROXY
 DOMAIN,ntp5.aliyun.com,PROXY
 DOMAIN,ntp6.aliyun.com,PROXY
 DOMAIN,ntp7.aliyun.com,PROXY
+
+# AWS
+DOMAIN,time.amazonaws.cn,PROXY
 
 # Qualcomm
 DOMAIN,time.izatcloud.net,PROXY
@@ -11666,6 +11672,7 @@ DOMAIN-SUFFIX,addthisedge.com,PROXY
 DOMAIN-SUFFIX,addtoany.com,PROXY
 #end include:addtoany
 #include:adguard
+DOMAIN-SUFFIX,adguardaccount.com,PROXY
 DOMAIN-SUFFIX,adguard.app,PROXY
 DOMAIN-SUFFIX,adguard.com,PROXY
 DOMAIN-SUFFIX,adguard.info,PROXY

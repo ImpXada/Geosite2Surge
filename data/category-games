@@ -307,6 +307,10 @@ DOMAIN,ea.tt.omtrdc.net,PROXY
 DOMAIN,eaassets-a.akamaihd.net,PROXY
 #end include:ea
 #include:epicgames
+DOMAIN-SUFFIX,3lateral.com,PROXY
+DOMAIN-SUFFIX,artstation.com,PROXY
+DOMAIN-SUFFIX,capturingreality.com,PROXY
+DOMAIN-SUFFIX,cubicmotion.com,PROXY
 DOMAIN-SUFFIX,battlebreakers.com,PROXY
 DOMAIN-SUFFIX,eac-cdn.com,PROXY
 DOMAIN-SUFFIX,easy.ac,PROXY
@@ -314,12 +318,20 @@ DOMAIN-SUFFIX,easyanticheat.net,PROXY
 DOMAIN-SUFFIX,epicgames.com,PROXY
 DOMAIN-SUFFIX,epicgames.dev,PROXY
 DOMAIN-SUFFIX,epicgamescdn.com,PROXY
+DOMAIN-SUFFIX,fab.com,PROXY
 DOMAIN-SUFFIX,fortnite.com,PROXY
+DOMAIN-SUFFIX,hyprsense.com,PROXY
 DOMAIN-SUFFIX,paragon.com,PROXY
 DOMAIN-SUFFIX,playparagon.com,PROXY
+DOMAIN-SUFFIX,quixel.com,PROXY
+DOMAIN-SUFFIX,quixel.se,PROXY
+DOMAIN-SUFFIX,radgametools.com,PROXY
+DOMAIN-SUFFIX,realityscan.com,PROXY
 DOMAIN-SUFFIX,roborecall.com,PROXY
 DOMAIN-SUFFIX,shadowcomplex.com,PROXY
+DOMAIN-SUFFIX,sketchfab.com,PROXY
 DOMAIN-SUFFIX,spyjinx.com,PROXY
+DOMAIN-SUFFIX,twinmotion.com,PROXY
 DOMAIN-SUFFIX,unrealengine.com,PROXY
 DOMAIN-SUFFIX,unrealtournament.com,PROXY
 

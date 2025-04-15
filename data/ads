@@ -382,6 +382,9 @@ DOMAIN,o4504926511693824.ingest.sentry.io,PROXY
 DOMAIN-SUFFIX,graph.whatsapp.com,PROXY
 DOMAIN-SUFFIX,graph.whatsapp.net,PROXY
 DOMAIN-SUFFIX,adjust.com,PROXY
+DOMAIN-SUFFIX,adjust.net.in,PROXY
+DOMAIN-SUFFIX,adjust.io,PROXY
+DOMAIN-SUFFIX,adjust.world,PROXY
 DOMAIN,o33249.ingest.sentry.io,PROXY
 DOMAIN,openaicom.imgix.net,PROXY
 DOMAIN,browser-intake-datadoghq.com,PROXY

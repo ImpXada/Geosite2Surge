@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,adcolony.com,PROXY
 #end include:adcolony-ads
 #include:adjust-ads
 DOMAIN-SUFFIX,adjust.com,PROXY
+DOMAIN-SUFFIX,adjust.net.in,PROXY
+DOMAIN-SUFFIX,adjust.io,PROXY
+DOMAIN-SUFFIX,adjust.world,PROXY
 #end include:adjust-ads
 #include:adobe-ads
 DOMAIN-SUFFIX,advertising.adobe.com,PROXY

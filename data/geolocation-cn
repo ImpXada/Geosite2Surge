@@ -1173,10 +1173,17 @@ DOMAIN-SUFFIX,vipstatic.com,PROXY
 
 # Game Accelerator
 #include:category-game-accelerator-cn
-DOMAIN-SUFFIX,leigod.com,PROXY    #鄂ICP备19027593号-2
-DOMAIN-SUFFIX,tmjiasuqi.com,PROXY    #蜀ICP备17036496号-7
+# 雷神加速器 鄂ICP备19027593号-2
+DOMAIN-SUFFIX,leigod.com,PROXY
+
+# TM 加速器 蜀ICP备17036496号-7
+DOMAIN-SUFFIX,tmjiasuqi.com,PROXY
+
+# 网易 UU 加速器 粤B2-20090191-18
 DOMAIN-SUFFIX,uu.163.com,PROXY
-DOMAIN-SUFFIX,xunyou.com,PROXY    #蜀ICP备07504248号-4
+
+# 迅游加速器 蜀ICP备07504248号-4
+DOMAIN-SUFFIX,xunyou.com,PROXY
 
 # 薄荷加速器
 DOMAIN-SUFFIX,bohejiasuqi.com,PROXY
@@ -1193,6 +1200,67 @@ DOMAIN-SUFFIX,rmbgame.net,PROXY
 
 # Steamcommunity 302
 DOMAIN-SUFFIX,steam302.xyz,PROXY
+
+# 奔富加速器 皖ICP备2023025306号-4
+DOMAIN-SUFFIX,benfuip.com,PROXY
+
+# 帆游加速器 闽ICP备 2022009478号-3
+DOMAIN-SUFFIX,funjsq.com,PROXY
+
+# biubiu 加速器 粤ICP备16043020号
+DOMAIN-SUFFIX,biubiu001.com,PROXY
+
+# 奇游加速器 蜀ICP备18018251号
+DOMAIN-SUFFIX,qiyou.cn,PROXY
+
+# 海豚加速器 蜀ICP备2020025877号-6
+DOMAIN-SUFFIX,htjsq.com,PROXY
+DOMAIN-SUFFIX,htjsq.mobi,PROXY
+
+# 凤凰加速器 浙ICP备12018679号-9
+DOMAIN-SUFFIX,fhyx.com,PROXY
+
+# AK 加速器 蜀ICP备2021022647号
+DOMAIN-SUFFIX,akspeedy.com,PROXY
+
+# 野豹游戏加速器 蜀ICP备2021006045号
+DOMAIN-SUFFIX,yebaojiasu.com,PROXY
+
+# 流星免费加速器 苏ICP备18022598号-8
+DOMAIN-SUFFIX,liuxing.com,PROXY
+DOMAIN-SUFFIX,lxjiasu.com,PROXY
+
+# 古怪加速器 蜀ICP备2023020301号-1
+DOMAIN-SUFFIX,ggkuai.com,PROXY
+
+# CC 加速器 闽ICP备19007929号-2
+DOMAIN-SUFFIX,ccspeed.cn,PROXY
+
+# 月轮加速器 闽ICP备14006637号
+DOMAIN-SUFFIX,yuelun.com,PROXY
+
+# GI 加速器 滇ICP备2021000937号-4
+DOMAIN-SUFFIX,gijsq.com,PROXY
+
+# KK 加速器 苏ICP备18051860号-14
+DOMAIN-SUFFIX,kk1.vip,PROXY
+
+# 3DM 网游加速器 粤ICP备17015496号
+DOMAIN-SUFFIX,3dmjiasu.com,PROXY
+
+# 斧牛加速器 豫ICP备20019239号-6
+DOMAIN-SUFFIX,fnjiasu.com,PROXY
+DOMAIN-SUFFIX,lorhf.com,PROXY
+
+# OO 加速器 鄂ICP备2022019723号-2
+DOMAIN-SUFFIX,oojsq.com,PROXY
+
+# 外星人加速器 沪ICP备2023020020号-1
+DOMAIN-SUFFIX,et001.com,PROXY
+DOMAIN-SUFFIX,et-api.com,PROXY
+
+# 怪库加速器 闽ICP备2023006037号-2
+DOMAIN-SUFFIX,guaiku.com,PROXY
 #end include:category-game-accelerator-cn
 
 # Forums
@@ -1556,6 +1624,9 @@ DOMAIN,ntp4.aliyun.com,PROXY
 DOMAIN,ntp5.aliyun.com,PROXY
 DOMAIN,ntp6.aliyun.com,PROXY
 DOMAIN,ntp7.aliyun.com,PROXY
+
+# AWS
+DOMAIN,time.amazonaws.cn,PROXY
 
 # Qualcomm
 DOMAIN,time.izatcloud.net,PROXY
@@ -5044,3 +5115,6 @@ DOMAIN-SUFFIX,ningtingche.com,PROXY
 
 # 沉浸式翻译 沪ICP备2023011353号
 DOMAIN-SUFFIX,immersivetranslate.com,PROXY
+
+# 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
+DOMAIN-SUFFIX,mingxuan.store,PROXY

@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,amazonworkdocs.com,PROXY
 DOMAIN-SUFFIX,amplifyapp.com,PROXY
 DOMAIN-SUFFIX,amplifyframework.com,PROXY
 DOMAIN-SUFFIX,aws-iot-hackathon.com,PROXY
+DOMAIN-SUFFIX,aws.com,PROXY
 DOMAIN-SUFFIX,awsautopilot.com,PROXY
 DOMAIN-SUFFIX,awsautoscaling.com,PROXY
 DOMAIN-SUFFIX,awsbraket.com,PROXY
