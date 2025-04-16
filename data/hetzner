@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,hetzner.cloud,PROXY
 DOMAIN-SUFFIX,hetzner.com,PROXY
 DOMAIN-SUFFIX,hetzner.company,PROXY
 DOMAIN-SUFFIX,hetzner.de,PROXY
+DOMAIN-SUFFIX,hetzner.social,PROXY
 DOMAIN-SUFFIX,htznr.li,PROXY
 DOMAIN-SUFFIX,second-ns.com,PROXY
 DOMAIN-SUFFIX,second-ns.de,PROXY
