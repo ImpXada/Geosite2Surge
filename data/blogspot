@@ -76,3 +76,6 @@ DOMAIN-SUFFIX,blogspot.td,PROXY
 DOMAIN-SUFFIX,blogspot.tw,PROXY
 DOMAIN-SUFFIX,blogspot.ug,PROXY
 DOMAIN-SUFFIX,blogspot.vn,PROXY
+
+# Other related domains:
+DOMAIN-SUFFIX,blogger.googleusercontent.com,PROXY

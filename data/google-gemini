@@ -19,5 +19,6 @@ DOMAIN-SUFFIX,makersuite.google.com,PROXY
 
 DOMAIN-SUFFIX,aistudio.google.com,PROXY
 DOMAIN-SUFFIX,bard.google.com,PROXY
+DOMAIN-SUFFIX,gemini.google,PROXY
 DOMAIN-SUFFIX,gemini.google.com,PROXY
 #end include:google-deepmind

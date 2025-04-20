@@ -62,7 +62,12 @@ DOMAIN-SUFFIX,yxhhdl.com,PROXY
 #include:acfun
 # Beijing Danmu Network Technology Co., Ltd.
 
+DOMAIN-SUFFIX,ac.fun,PROXY
 DOMAIN-SUFFIX,acfun.cn,PROXY
+DOMAIN-SUFFIX,acfun.net,PROXY
+DOMAIN-SUFFIX,acfunchina.cn,PROXY
+DOMAIN-SUFFIX,acfunchina.com,PROXY
+DOMAIN-SUFFIX,acfunchina.net,PROXY
 DOMAIN-SUFFIX,aixifan.com,PROXY
 
 DOMAIN,apilog-web.acfun.cn,PROXY
@@ -267,29 +272,6 @@ DOMAIN-SUFFIX,ku6img.com,PROXY
 DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
-#include:kuaishou
-# Beijing Kuaishou Technology Co., Ltd.
-
-DOMAIN-SUFFIX,gifshow.com,PROXY
-DOMAIN-SUFFIX,inkwai.com,PROXY
-DOMAIN-SUFFIX,ksapisrv.com,PROXY
-DOMAIN-SUFFIX,kuaishou.com,PROXY
-DOMAIN-SUFFIX,kwaizt.com,PROXY
-DOMAIN-SUFFIX,kuaishouzt.com,PROXY
-DOMAIN-SUFFIX,kwimgs.com,PROXY
-DOMAIN-SUFFIX,yximgs.com,PROXY
-
-#include:kuaishou-ads
-DOMAIN-SUFFIX,adbkwai.com,PROXY
-DOMAIN-SUFFIX,adkwai.com,PROXY
-DOMAIN-SUFFIX,adukwai.com,PROXY
-DOMAIN-SUFFIX,e.kuaishou.cn,PROXY
-DOMAIN-SUFFIX,e.kuaishou.com,PROXY
-
-DOMAIN,log-sdk.gifshow.com,PROXY
-DOMAIN,wlog.kuaishou.com,PROXY
-#end include:kuaishou-ads
-#end include:kuaishou
 #include:kugou
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY

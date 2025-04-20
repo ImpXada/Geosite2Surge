@@ -45,9 +45,6 @@ DOMAIN-SUFFIX,hunyuan.tencent.com,PROXY
 # 百川智能
 DOMAIN-SUFFIX,baichuan-ai.com,PROXY
 
-# 深度求索
-DOMAIN-SUFFIX,deepseek.com,PROXY
-
 DOMAIN-SUFFIX,botvip.cn,PROXY
 DOMAIN-SUFFIX,liblib.art,PROXY
 

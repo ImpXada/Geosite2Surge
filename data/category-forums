@@ -95,11 +95,16 @@ DOMAIN-SUFFIX,rutracker.org,PROXY
 DOMAIN-SUFFIX,rutrecker.net,PROXY
 DOMAIN-SUFFIX,rutrk.org,PROXY
 #end include:rutracker
+#include:soyjakparty
+DOMAIN-SUFFIX,soyjak.party,PROXY
+DOMAIN-SUFFIX,soyjak.st,PROXY
+#end include:soyjakparty
 #include:yamibo
 DOMAIN-SUFFIX,yamibo.com,PROXY
 #end include:yamibo
 
 DOMAIN-SUFFIX,18p2p.com,PROXY
+DOMAIN-SUFFIX,8chan.moe,PROXY
 DOMAIN-SUFFIX,avsforum.com,PROXY
 DOMAIN-SUFFIX,disp.cc,PROXY
 DOMAIN-SUFFIX,doom9.org,PROXY

@@ -1,0 +1,5 @@
+#Domain for generated download links:
+DOMAIN-SUFFIX,userdrive.org,PROXY
+
+#Main website:
+DOMAIN-SUFFIX,usersdrive.com,PROXY

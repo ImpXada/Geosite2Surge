@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 #end include:cloudflare-ipfs
 
 DOMAIN-SUFFIX,argotunnel.com,PROXY
+DOMAIN-SUFFIX,cfargotunnel.com,PROXY
 DOMAIN-SUFFIX,cfl.re,PROXY
 DOMAIN-SUFFIX,cloudflare-dns.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ech.com,PROXY

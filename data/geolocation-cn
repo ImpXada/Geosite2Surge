@@ -2874,6 +2874,8 @@ DOMAIN-SUFFIX,huaweicloud-dns.net,PROXY
 DOMAIN-SUFFIX,huaweicloud-dns.org,PROXY
 DOMAIN-SUFFIX,huaweicloud-idme.cn,PROXY
 DOMAIN-SUFFIX,huaweicloud-idme.com,PROXY
+DOMAIN-SUFFIX,huaweicloud-koophone.cn,PROXY
+DOMAIN-SUFFIX,huaweicloud-koophone.com,PROXY
 DOMAIN-SUFFIX,huaweicloud-smn.cn,PROXY
 DOMAIN-SUFFIX,huaweicloud-smn.com,PROXY
 DOMAIN-SUFFIX,huaweicloud-smn.net,PROXY
@@ -2931,6 +2933,8 @@ DOMAIN-SUFFIX,kmop-cn-north-4.cn,PROXY
 DOMAIN-SUFFIX,livehwc3.cn,PROXY
 DOMAIN-SUFFIX,modelarts-infer.cn,PROXY
 DOMAIN-SUFFIX,modelarts-infer.com,PROXY
+DOMAIN-SUFFIX,modelarts-maas.cn,PROXY
+DOMAIN-SUFFIX,modelarts-maas.com,PROXY
 DOMAIN-SUFFIX,myhuaweicloud-custom.cn,PROXY
 DOMAIN-SUFFIX,myhuaweicloud-custom.com,PROXY
 DOMAIN-SUFFIX,myhuaweicloud-koodrive.cn,PROXY

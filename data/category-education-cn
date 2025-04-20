@@ -70,6 +70,35 @@ DOMAIN-SUFFIX,fenbilantian.com,PROXY
 DOMAIN-SUFFIX,zhihuishu.com,PROXY
 #end include:zhihuishu
 
+# 教育部学生服务与素质发展中心
+# 京ICP备19004913号
+DOMAIN-SUFFIX,cedf.cn,PROXY
+DOMAIN-SUFFIX,cedf.org.cn,PROXY
+DOMAIN-SUFFIX,chdi.com.cn,PROXY
+DOMAIN-SUFFIX,chei.com.cn,PROXY
+DOMAIN-SUFFIX,chesicc.cn,PROXY
+DOMAIN-SUFFIX,chesicc.com,PROXY
+DOMAIN-SUFFIX,chesicc.com.cn,PROXY
+DOMAIN-SUFFIX,chesicc.net,PROXY
+DOMAIN-SUFFIX,chesicc.net.cn,PROXY
+DOMAIN-SUFFIX,chesicc.org.cn,PROXY
+DOMAIN-SUFFIX,chinayz.com.cn,PROXY
+DOMAIN-SUFFIX,chsi.cn,PROXY
+DOMAIN-SUFFIX,chsi.com.cn,PROXY
+DOMAIN-SUFFIX,gatzs.com.cn,PROXY
+DOMAIN-SUFFIX,gfbzb.cn,PROXY
+DOMAIN-SUFFIX,gfbzb.com,PROXY
+DOMAIN-SUFFIX,gfbzb.com.cn,PROXY
+DOMAIN-SUFFIX,gfbzb.gov.cn,PROXY
+DOMAIN-SUFFIX,gfbzb.net,PROXY
+DOMAIN-SUFFIX,ncss.cn,PROXY
+DOMAIN-SUFFIX,ncss.org.cn,PROXY
+DOMAIN-SUFFIX,qgzb.com.cn,PROXY
+DOMAIN-SUFFIX,qgzb.gov.cn,PROXY
+DOMAIN-SUFFIX,qgzb.net,PROXY
+DOMAIN-SUFFIX,zbbm.gov.cn,PROXY
+DOMAIN-SUFFIX,zbbm.net,PROXY
+
 # 雨课堂
 #include:yuketang
 DOMAIN-SUFFIX,rainclassroom.com,PROXY

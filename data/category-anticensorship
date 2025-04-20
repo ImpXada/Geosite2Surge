@@ -97,6 +97,7 @@ DOMAIN-SUFFIX,onionshare.org,PROXY
 DOMAIN-SUFFIX,ooni.org,PROXY
 DOMAIN-SUFFIX,openvpn.net,PROXY
 DOMAIN-SUFFIX,privacytools.io,PROXY
+DOMAIN-SUFFIX,proxifier.com,PROXY
 DOMAIN-SUFFIX,psiphon.ca,PROXY
 DOMAIN-SUFFIX,psiphon3.com,PROXY
 DOMAIN-SUFFIX,sagernet.org,PROXY
@@ -109,8 +110,10 @@ DOMAIN-SUFFIX,tunsafe.com,PROXY
 DOMAIN-SUFFIX,turkeyblocks.org,PROXY
 DOMAIN-SUFFIX,twister.net.co,PROXY
 DOMAIN-SUFFIX,uproxy.org,PROXY
+DOMAIN-SUFFIX,vpnrouter.homes,PROXY
 DOMAIN-SUFFIX,vuvuzela.io,PROXY
 DOMAIN-SUFFIX,whonix.org,PROXY
 DOMAIN-SUFFIX,wikileaks.org,PROXY
 DOMAIN-SUFFIX,wireguard.com,PROXY
+DOMAIN-SUFFIX,xtls.github.io,PROXY
 DOMAIN-SUFFIX,zeronet.io,PROXY

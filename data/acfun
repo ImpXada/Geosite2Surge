@@ -1,6 +1,11 @@
 # Beijing Danmu Network Technology Co., Ltd.
 
+DOMAIN-SUFFIX,ac.fun,PROXY
 DOMAIN-SUFFIX,acfun.cn,PROXY
+DOMAIN-SUFFIX,acfun.net,PROXY
+DOMAIN-SUFFIX,acfunchina.cn,PROXY
+DOMAIN-SUFFIX,acfunchina.com,PROXY
+DOMAIN-SUFFIX,acfunchina.net,PROXY
 DOMAIN-SUFFIX,aixifan.com,PROXY
 
 DOMAIN,apilog-web.acfun.cn,PROXY

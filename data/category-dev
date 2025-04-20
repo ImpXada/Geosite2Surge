@@ -100,6 +100,27 @@ DOMAIN-SUFFIX,forthebadge.com,PROXY
 # Stock Against Photography
 DOMAIN-SUFFIX,stockagainstphotography.com,PROXY
 #end include:braveux
+#include:canonical
+#include:launchpad
+DOMAIN-SUFFIX,launchpad.net,PROXY
+DOMAIN-SUFFIX,launchpadcontent.net,PROXY
+DOMAIN-SUFFIX,launchpadlibrarian.com,PROXY
+DOMAIN-SUFFIX,launchpadlibrarian.net,PROXY
+DOMAIN-SUFFIX,launchpadlibrarian.org,PROXY
+#end include:launchpad
+#include:snapcraft
+DOMAIN-SUFFIX,snapcraft.io,PROXY
+DOMAIN-SUFFIX,snapstore.io,PROXY
+#end include:snapcraft
+#include:ubuntu
+DOMAIN-SUFFIX,ubuntu.com,PROXY
+DOMAIN-SUFFIX,ubuntu.net,PROXY
+DOMAIN-SUFFIX,ubuntuforums.org,PROXY
+DOMAIN-SUFFIX,ubuntu-touch.io,PROXY
+#end include:ubuntu
+
+DOMAIN-SUFFIX,canonical.com,PROXY
+#end include:canonical
 #include:category-container
 DOMAIN-SUFFIX,azurecr.io,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY

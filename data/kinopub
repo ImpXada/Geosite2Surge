@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,kino.pub,PROXY
+DOMAIN-SUFFIX,kinopub.online,PROXY
+
+# Mirror sites
+DOMAIN-SUFFIX,gfw.ovh,PROXY    #sub domains mirror
+DOMAIN-SUFFIX,mos-gorsud.co,PROXY    #kinopub domain to generate a mirror site through gfw.ovh
+
+# kinopub CDN servers
+DOMAIN-WILDCARD,-static-*.cdntogo.net,PROXY

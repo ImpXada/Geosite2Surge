@@ -772,6 +772,7 @@ DOMAIN-SUFFIX,msg.video.qiyi.com,PROXY
 DOMAIN-SUFFIX,msg2.video.qiyi.com,PROXY
 DOMAIN-SUFFIX,policy.video.iqiyi.com,PROXY
 DOMAIN-SUFFIX,yuedu.iqiyi.com,PROXY
+DOMAIN-SUFFIX,nelreports.net,PROXY
 DOMAIN-SUFFIX,7box.vip,PROXY
 DOMAIN-SUFFIX,ad-delivery.net,PROXY
 DOMAIN-SUFFIX,adinplay.com,PROXY
@@ -793,4 +794,3 @@ DOMAIN-SUFFIX,snapads.com,PROXY
 DOMAIN-SUFFIX,spotxchange.com,PROXY
 DOMAIN-SUFFIX,unimhk.com,PROXY
 DOMAIN-SUFFIX,upapi.net,PROXY
-DOMAIN-SUFFIX,nelreports.net,PROXY
