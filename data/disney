@@ -115,7 +115,6 @@ DOMAIN-SUFFIX,disney-plus.net,PROXY
 DOMAIN-SUFFIX,disney-portal.my.onetrust.com,PROXY
 DOMAIN-SUFFIX,disney-studio.com,PROXY
 DOMAIN-SUFFIX,disney-studio.net,PROXY
-DOMAIN-SUFFIX,disney.my.sentry.io,PROXY
 DOMAIN-SUFFIX,disneyadsales.com,PROXY
 DOMAIN-SUFFIX,disneyarena.com,PROXY
 DOMAIN-SUFFIX,disneyaulani.com,PROXY
@@ -182,3 +181,6 @@ DOMAIN-SUFFIX,streamingdisney.net,PROXY
 DOMAIN-SUFFIX,thestationbymaker.com,PROXY
 DOMAIN-SUFFIX,thisispolaris.com,PROXY
 DOMAIN-SUFFIX,watchdisneyfe.com,PROXY
+
+# tracking
+DOMAIN,disney.my.sentry.io,PROXY

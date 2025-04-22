@@ -772,6 +772,7 @@ DOMAIN-SUFFIX,msg.video.qiyi.com,PROXY
 DOMAIN-SUFFIX,msg2.video.qiyi.com,PROXY
 DOMAIN-SUFFIX,policy.video.iqiyi.com,PROXY
 DOMAIN-SUFFIX,yuedu.iqiyi.com,PROXY
+DOMAIN,disney.my.sentry.io,PROXY
 DOMAIN-SUFFIX,nelreports.net,PROXY
 DOMAIN-SUFFIX,7box.vip,PROXY
 DOMAIN-SUFFIX,ad-delivery.net,PROXY

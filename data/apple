@@ -1428,6 +1428,9 @@ DOMAIN-SUFFIX,appleone.website,PROXY
 # Shazam
 DOMAIN-SUFFIX,shazam.com,PROXY
 
+# Apple Health Studies
+DOMAIN,ingest.apple-studies.com,PROXY    #采集心率、运动、听力等传感器数据，以及用户填报的研究问卷，将其加密后上传至 Apple 后端
+
 # Others
 DOMAIN-SUFFIX,1to1computing.com.au,PROXY
 DOMAIN-SUFFIX,1to1conference.com.au,PROXY
