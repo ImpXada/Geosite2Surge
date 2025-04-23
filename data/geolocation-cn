@@ -829,6 +829,11 @@ DOMAIN-SUFFIX,toursbms.com,PROXY
 DOMAIN-SUFFIX,trip.com,PROXY
 DOMAIN-SUFFIX,tripcdn.com,PROXY
 DOMAIN-SUFFIX,vipdlt.com,PROXY
+
+# qunar
+DOMAIN-SUFFIX,qunar.com,PROXY
+DOMAIN-SUFFIX,qunarcdn.com,PROXY
+DOMAIN-SUFFIX,qunarzz.com,PROXY
 #end include:ctrip
 #include:dangdang
 DOMAIN-SUFFIX,dangdang.com,PROXY
@@ -1163,11 +1168,16 @@ DOMAIN-SUFFIX,ziroomapartment.com,PROXY
 # 孔夫子旧书网
 DOMAIN-SUFFIX,kongfz.com,PROXY
 DOMAIN-SUFFIX,kfzimg.com,PROXY
+# 朴朴
+DOMAIN-SUFFIX,pupuapi.com,PROXY
+DOMAIN-SUFFIX,pupumall.com,PROXY
 # 唯品会
 DOMAIN-SUFFIX,appsimg.com,PROXY
 DOMAIN-SUFFIX,appvipshop.com,PROXY
 DOMAIN-SUFFIX,vip.com,PROXY
 DOMAIN-SUFFIX,vipstatic.com,PROXY
+# 瞎买
+DOMAIN-SUFFIX,xiamai.net,PROXY
 
 # Entertainment & Videos & Games & Music & Podcasts
 
@@ -1293,6 +1303,7 @@ DOMAIN-SUFFIX,itsk.com,PROXY    #IT天空论坛
 DOMAIN-SUFFIX,kafan.cn,PROXY    #卡饭论坛
 DOMAIN-SUFFIX,kanxue.com,PROXY    #看雪
 DOMAIN-SUFFIX,kdslife.com,PROXY    #宽带山
+DOMAIN-SUFFIX,jandan.net,PROXY    #煎蛋
 DOMAIN-SUFFIX,klpbbs.com,PROXY    #苦力怕论坛
 DOMAIN-SUFFIX,mcbbs.net,PROXY    #MCBBS论坛
 DOMAIN-SUFFIX,pcbeta.com,PROXY    #远景论坛
@@ -1309,59 +1320,6 @@ DOMAIN-SUFFIX,winos.me,PROXY    #WINOS 精简社区
 # Media & News & Press
 
 # Netdisk
-#include:category-netdisk-cn
-DOMAIN-SUFFIX,cloud.189.cn,PROXY    #天翼云盘
-DOMAIN-SUFFIX,ctfile.com,PROXY    #城通网盘
-DOMAIN-SUFFIX,feimaoyun.com,PROXY    #飞猫盘
-DOMAIN-SUFFIX,filez.com,PROXY    #联想企业网盘
-DOMAIN-SUFFIX,jianguoyun.com,PROXY    #坚果云
-DOMAIN-SUFFIX,pan.baidu.com,PROXY    #百度网盘
-DOMAIN-SUFFIX,pan.quark.cn,PROXY    #夸克网盘
-DOMAIN-SUFFIX,pan.xunlei.com,PROXY    #迅雷云盘
-DOMAIN-SUFFIX,weiyun.com,PROXY    #微云
-DOMAIN-SUFFIX,yun.139.com,PROXY    #中国移动云盘
-DOMAIN-SUFFIX,yunpan.com,PROXY    #360安全云盘
-
-# 123云盘
-DOMAIN-SUFFIX,123pan.cn,PROXY
-DOMAIN-SUFFIX,123pan.com,PROXY
-
-# 阿里云盘
-DOMAIN-SUFFIX,alipan.com,PROXY
-DOMAIN-SUFFIX,aliyundrive.com,PROXY
-DOMAIN-SUFFIX,yunpan.aliyun.com,PROXY
-
-# 蓝奏云
-DOMAIN-SUFFIX,baidupan.com,PROXY
-DOMAIN-SUFFIX,ilanzou.com,PROXY
-DOMAIN-SUFFIX,lanosso.com,PROXY
-DOMAIN-SUFFIX,lanrar.com,PROXY
-DOMAIN-SUFFIX,lanzou.com,PROXY
-DOMAIN-SUFFIX,lanzoub.com,PROXY
-DOMAIN-SUFFIX,lanzouc.com,PROXY
-DOMAIN-SUFFIX,lanzoue.com,PROXY
-DOMAIN-SUFFIX,lanzouf.com,PROXY
-DOMAIN-SUFFIX,lanzoug.com,PROXY
-DOMAIN-SUFFIX,lanzouh.com,PROXY
-DOMAIN-SUFFIX,lanzoui.com,PROXY
-DOMAIN-SUFFIX,lanzouj.com,PROXY
-DOMAIN-SUFFIX,lanzouk.com,PROXY
-DOMAIN-SUFFIX,lanzoul.com,PROXY
-DOMAIN-SUFFIX,lanzoum.com,PROXY
-DOMAIN-SUFFIX,lanzouo.com,PROXY
-DOMAIN-SUFFIX,lanzoup.com,PROXY
-DOMAIN-SUFFIX,lanzouq.com,PROXY
-DOMAIN-SUFFIX,lanzous.com,PROXY
-DOMAIN-SUFFIX,lanzout.com,PROXY
-DOMAIN-SUFFIX,lanzouu.com,PROXY
-DOMAIN-SUFFIX,lanzouv.com,PROXY
-DOMAIN-SUFFIX,lanzouw.com,PROXY
-DOMAIN-SUFFIX,lanzoux.com,PROXY
-DOMAIN-SUFFIX,lanzouy.com,PROXY
-DOMAIN-SUFFIX,lanzov.com,PROXY
-DOMAIN-SUFFIX,woozooo.com,PROXY
-#end include:lanzou
-#end include:category-netdisk-cn
 
 # Network Security
 #include:category-network-security-cn
@@ -1540,17 +1498,6 @@ DOMAIN-SUFFIX,wf.pub,PROXY
 #end include:wanfang
 
 # Services & Softwares
-#include:115
-DOMAIN-SUFFIX,115.com,PROXY
-DOMAIN-SUFFIX,115cdn.com,PROXY
-DOMAIN-SUFFIX,115cdn.net,PROXY
-DOMAIN-SUFFIX,115img.com,PROXY
-DOMAIN-SUFFIX,116cd.cn,PROXY
-DOMAIN-SUFFIX,116cd.com,PROXY
-DOMAIN-SUFFIX,116cd.net,PROXY
-DOMAIN-SUFFIX,anxia.com,PROXY
-DOMAIN-SUFFIX,sq.cc,PROXY
-#end include:115
 #include:3type
 DOMAIN-SUFFIX,3type.cn,PROXY
 #end include:3type
@@ -2148,6 +2095,29 @@ DOMAIN-SUFFIX,bsurl.cn,PROXY
 DOMAIN-SUFFIX,zhiye.com,PROXY
 #end include:beisen
 #include:bytedance
+#include:bytedance-ads
+DOMAIN-SUFFIX,bds.snssdk.com,PROXY
+DOMAIN-SUFFIX,byteadverts.com,PROXY
+DOMAIN-SUFFIX,ctobsnssdk.com,PROXY
+DOMAIN-SUFFIX,dig.bdurl.net,PROXY
+DOMAIN-SUFFIX,extlog.snssdk.com,PROXY
+DOMAIN-SUFFIX,i.snssdk.com,PROXY
+DOMAIN-SUFFIX,mcs.snssdk.com,PROXY
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com,PROXY
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com,PROXY
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,PROXY
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,PROXY
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,PROXY
+DOMAIN-SUFFIX,pangolin.snssdk.com,PROXY
+DOMAIN-SUFFIX,panplayable-toutiao-b.com,PROXY
+DOMAIN-SUFFIX,panplayable-toutiao.com,PROXY
+DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com,PROXY
+DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com,PROXY
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com,PROXY
+DOMAIN-SUFFIX,pglstatp-toutiao.com,PROXY
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,PROXY
+#end include:bytedance-ads
+
 #include:bcy
 DOMAIN-SUFFIX,bcy.net,PROXY
 DOMAIN-SUFFIX,bcyimg.com,PROXY
@@ -2235,28 +2205,6 @@ DOMAIN-SUFFIX,ttwstatic.com,PROXY
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
 #end include:tiktok
-#include:bytedance-ads
-DOMAIN-SUFFIX,bds.snssdk.com,PROXY
-DOMAIN-SUFFIX,byteadverts.com,PROXY
-DOMAIN-SUFFIX,ctobsnssdk.com,PROXY
-DOMAIN-SUFFIX,dig.bdurl.net,PROXY
-DOMAIN-SUFFIX,extlog.snssdk.com,PROXY
-DOMAIN-SUFFIX,i.snssdk.com,PROXY
-DOMAIN-SUFFIX,mcs.snssdk.com,PROXY
-DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com,PROXY
-DOMAIN-SUFFIX,pangolin-dsp-toutiao.com,PROXY
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,PROXY
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,PROXY
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,PROXY
-DOMAIN-SUFFIX,pangolin.snssdk.com,PROXY
-DOMAIN-SUFFIX,panplayable-toutiao-b.com,PROXY
-DOMAIN-SUFFIX,panplayable-toutiao.com,PROXY
-DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com,PROXY
-DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com,PROXY
-DOMAIN-SUFFIX,pglstatp-toutiao-b.com,PROXY
-DOMAIN-SUFFIX,pglstatp-toutiao.com,PROXY
-DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,PROXY
-#end include:bytedance-ads
 #include:volcengine
 DOMAIN-SUFFIX,aigc-cloud.com,PROXY
 DOMAIN-SUFFIX,bdegnine.com,PROXY
@@ -2801,7 +2749,18 @@ DOMAIN-SUFFIX,gogokid.com.cn,PROXY
 DOMAIN-SUFFIX,gogokid.com,PROXY
 
 # 皮皮虾
+DOMAIN-SUFFIX,hapierxia.com,PROXY
+DOMAIN-SUFFIX,hapipixia.com,PROXY
+DOMAIN-SUFFIX,hapiyixia.com,PROXY
+DOMAIN-SUFFIX,kuailepipixia.com,PROXY
 DOMAIN-SUFFIX,pipix.com,PROXY
+DOMAIN-SUFFIX,pipixiaha.com,PROXY
+DOMAIN-SUFFIX,piyipiba.com,PROXY
+DOMAIN-SUFFIX,ppxhhh.com,PROXY
+DOMAIN-SUFFIX,ppximg.com,PROXY
+DOMAIN-SUFFIX,ppxstatic.com,PROXY
+DOMAIN-SUFFIX,ppxvod.com,PROXY
+DOMAIN-SUFFIX,xiaoxiaapi.com,PROXY
 
 # faceu
 DOMAIN-SUFFIX,faceu.com,PROXY
@@ -2833,6 +2792,16 @@ DOMAIN-SUFFIX,djiops.com,PROXY
 DOMAIN-SUFFIX,djiservice.org,PROXY
 DOMAIN-SUFFIX,skypixel.com,PROXY
 #end include:dji
+#include:honor
+DOMAIN-SUFFIX,hihonor.cn,PROXY
+DOMAIN-SUFFIX,hihonor.com,PROXY
+DOMAIN-SUFFIX,hihonorcdn.com,PROXY
+DOMAIN-SUFFIX,hihonorcloud.com,PROXY
+DOMAIN-SUFFIX,honor.cn,PROXY
+DOMAIN-SUFFIX,honor.com,PROXY
+DOMAIN-SUFFIX,honor.com.cn,PROXY
+DOMAIN-SUFFIX,honorfile.com,PROXY
+#end include:honor
 #include:huawei
 DOMAIN-SUFFIX,bisheng.cn,PROXY
 DOMAIN-SUFFIX,bishengcompiler.cn,PROXY
@@ -3160,8 +3129,6 @@ DOMAIN-SUFFIX,dbankcloud.com,PROXY
 DOMAIN-SUFFIX,dbankedge.cn,PROXY
 DOMAIN-SUFFIX,dbankedge.net,PROXY
 DOMAIN-SUFFIX,hicloud.com,PROXY
-DOMAIN-SUFFIX,hihonor.com,PROXY
-DOMAIN-SUFFIX,honor.cn,PROXY
 DOMAIN-SUFFIX,huawei.cn,PROXY
 DOMAIN-SUFFIX,huawei.com,PROXY
 DOMAIN-SUFFIX,huawei.com.cn,PROXY
@@ -3573,6 +3540,7 @@ DOMAIN,ztedevices.com,PROXY
 #end include:zte
 
 DOMAIN-SUFFIX,huorong.cn,PROXY    #火绒
+DOMAIN-SUFFIX,socpk.com,PROXY    #极客湾移动芯片排行
 DOMAIN-SUFFIX,udesk.cn,PROXY    #沃丰科技
 
 # 明源云
@@ -3581,6 +3549,12 @@ DOMAIN-SUFFIX,mingyuanyun.com,PROXY
 DOMAIN-SUFFIX,mypaas.com,PROXY
 DOMAIN-SUFFIX,mypaas.com.cn,PROXY
 DOMAIN-SUFFIX,myypark.com,PROXY
+
+# 开普云
+DOMAIN-SUFFIX,kaipuyun.cn,PROXY
+DOMAIN-SUFFIX,kaipuyun.com,PROXY
+DOMAIN-SUFFIX,kaipuyun.com.cn,PROXY
+DOMAIN-SUFFIX,kaipuyun.net,PROXY
 
 DOMAIN-SUFFIX,51togic.com,PROXY    #泰捷WEBOX
 DOMAIN-SUFFIX,ezpro.pro,PROXY    #小马路由
@@ -4398,7 +4372,6 @@ DOMAIN-SUFFIX,itjuzi.com,PROXY
 DOMAIN-SUFFIX,itmop.com,PROXY
 DOMAIN-SUFFIX,iyiou.com,PROXY
 DOMAIN-SUFFIX,izuche.com,PROXY
-DOMAIN-SUFFIX,jandan.net,PROXY
 DOMAIN-SUFFIX,jb51.com,PROXY
 DOMAIN-SUFFIX,jia.com,PROXY
 DOMAIN-SUFFIX,jiameng.com,PROXY
@@ -4627,8 +4600,6 @@ DOMAIN-SUFFIX,qschou.com,PROXY
 DOMAIN-SUFFIX,qtmojo.com,PROXY
 DOMAIN-SUFFIX,qudong.com,PROXY
 DOMAIN-SUFFIX,qugame.com,PROXY
-DOMAIN-SUFFIX,qunar.com,PROXY
-DOMAIN-SUFFIX,qunarzz.com,PROXY
 DOMAIN-SUFFIX,qunjielong.com,PROXY    #桂ICP备14006138号-2
 DOMAIN-SUFFIX,qyer.com,PROXY
 DOMAIN-SUFFIX,rockyenglish.com,PROXY

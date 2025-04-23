@@ -27,3 +27,8 @@ DOMAIN-SUFFIX,toursbms.com,PROXY
 DOMAIN-SUFFIX,trip.com,PROXY
 DOMAIN-SUFFIX,tripcdn.com,PROXY
 DOMAIN-SUFFIX,vipdlt.com,PROXY
+
+# qunar
+DOMAIN-SUFFIX,qunar.com,PROXY
+DOMAIN-SUFFIX,qunarcdn.com,PROXY
+DOMAIN-SUFFIX,qunarzz.com,PROXY

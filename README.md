@@ -595,6 +595,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | homedepot | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/homedepot |
 | hongdunwang | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hongdunwang |
 | hongkongpost | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hongkongpost |
+| honor | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/honor |
 | hooligapps | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hooligapps |
 | hotjar-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hotjar-ads |
 | hotstar | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hotstar |

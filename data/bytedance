@@ -1,3 +1,26 @@
+#include:bytedance-ads
+DOMAIN-SUFFIX,bds.snssdk.com,PROXY
+DOMAIN-SUFFIX,byteadverts.com,PROXY
+DOMAIN-SUFFIX,ctobsnssdk.com,PROXY
+DOMAIN-SUFFIX,dig.bdurl.net,PROXY
+DOMAIN-SUFFIX,extlog.snssdk.com,PROXY
+DOMAIN-SUFFIX,i.snssdk.com,PROXY
+DOMAIN-SUFFIX,mcs.snssdk.com,PROXY
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com,PROXY
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com,PROXY
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,PROXY
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,PROXY
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,PROXY
+DOMAIN-SUFFIX,pangolin.snssdk.com,PROXY
+DOMAIN-SUFFIX,panplayable-toutiao-b.com,PROXY
+DOMAIN-SUFFIX,panplayable-toutiao.com,PROXY
+DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com,PROXY
+DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com,PROXY
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com,PROXY
+DOMAIN-SUFFIX,pglstatp-toutiao.com,PROXY
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,PROXY
+#end include:bytedance-ads
+
 #include:bcy
 DOMAIN-SUFFIX,bcy.net,PROXY
 DOMAIN-SUFFIX,bcyimg.com,PROXY
@@ -85,28 +108,6 @@ DOMAIN-SUFFIX,ttwstatic.com,PROXY
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
 #end include:tiktok
-#include:bytedance-ads
-DOMAIN-SUFFIX,bds.snssdk.com,PROXY
-DOMAIN-SUFFIX,byteadverts.com,PROXY
-DOMAIN-SUFFIX,ctobsnssdk.com,PROXY
-DOMAIN-SUFFIX,dig.bdurl.net,PROXY
-DOMAIN-SUFFIX,extlog.snssdk.com,PROXY
-DOMAIN-SUFFIX,i.snssdk.com,PROXY
-DOMAIN-SUFFIX,mcs.snssdk.com,PROXY
-DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com,PROXY
-DOMAIN-SUFFIX,pangolin-dsp-toutiao.com,PROXY
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,PROXY
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,PROXY
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,PROXY
-DOMAIN-SUFFIX,pangolin.snssdk.com,PROXY
-DOMAIN-SUFFIX,panplayable-toutiao-b.com,PROXY
-DOMAIN-SUFFIX,panplayable-toutiao.com,PROXY
-DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com,PROXY
-DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com,PROXY
-DOMAIN-SUFFIX,pglstatp-toutiao-b.com,PROXY
-DOMAIN-SUFFIX,pglstatp-toutiao.com,PROXY
-DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,PROXY
-#end include:bytedance-ads
 #include:volcengine
 DOMAIN-SUFFIX,aigc-cloud.com,PROXY
 DOMAIN-SUFFIX,bdegnine.com,PROXY
@@ -651,7 +652,18 @@ DOMAIN-SUFFIX,gogokid.com.cn,PROXY
 DOMAIN-SUFFIX,gogokid.com,PROXY
 
 # 皮皮虾
+DOMAIN-SUFFIX,hapierxia.com,PROXY
+DOMAIN-SUFFIX,hapipixia.com,PROXY
+DOMAIN-SUFFIX,hapiyixia.com,PROXY
+DOMAIN-SUFFIX,kuailepipixia.com,PROXY
 DOMAIN-SUFFIX,pipix.com,PROXY
+DOMAIN-SUFFIX,pipixiaha.com,PROXY
+DOMAIN-SUFFIX,piyipiba.com,PROXY
+DOMAIN-SUFFIX,ppxhhh.com,PROXY
+DOMAIN-SUFFIX,ppximg.com,PROXY
+DOMAIN-SUFFIX,ppxstatic.com,PROXY
+DOMAIN-SUFFIX,ppxvod.com,PROXY
+DOMAIN-SUFFIX,xiaoxiaapi.com,PROXY
 
 # faceu
 DOMAIN-SUFFIX,faceu.com,PROXY
