@@ -1,3 +1,4 @@
+#include:bethesda
 DOMAIN-SUFFIX,beth.games,PROXY
 DOMAIN-SUFFIX,bethesda.net,PROXY
 DOMAIN-SUFFIX,bethesdagamestudios.com,PROXY
@@ -9,6 +10,7 @@ DOMAIN-SUFFIX,doom.com,PROXY
 # The Elder Scrolls
 DOMAIN-SUFFIX,elderscrolls.com,PROXY
 #end include:bethesda
+#include:mojang
 DOMAIN-SUFFIX,callersbane.com,PROXY
 DOMAIN-SUFFIX,minecraft.net,PROXY
 DOMAIN-SUFFIX,minecraftservices.com,PROXY

@@ -1,4 +1,3 @@
-#include:gitee
 DOMAIN-SUFFIX,gitee.com,PROXY
 DOMAIN-SUFFIX,gitee.io,PROXY
 #end include:gitee

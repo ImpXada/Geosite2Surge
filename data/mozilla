@@ -1,6 +1,8 @@
+#include:firefox
 DOMAIN-SUFFIX,firefox.com,PROXY
 DOMAIN-SUFFIX,firefoxusercontent.com,PROXY
 #end include:firefox
+#include:mdn
 DOMAIN-SUFFIX,developer.allizom.org,PROXY
 DOMAIN-SUFFIX,developer.mozilla.org,PROXY
 DOMAIN-SUFFIX,mdn.allizom.net,PROXY
@@ -12,6 +14,7 @@ DOMAIN-SUFFIX,mdnyalp.dev,PROXY
 
 DOMAIN,mdn.mozillademos.org,PROXY
 #end include:mdn
+#include:rust
 DOMAIN-SUFFIX,rust-lang.org,PROXY
 DOMAIN-SUFFIX,rustup.rs,PROXY
 DOMAIN-SUFFIX,crates.io,PROXY

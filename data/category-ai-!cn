@@ -6,32 +6,6 @@ DOMAIN-SUFFIX,claudeusercontent.com,PROXY
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net,PROXY
 #end include:anthropic
-#include:google-gemini
-# This list is for backward compatibility
-
-#include:google-deepmind
-# Google DeepMind
-DOMAIN-SUFFIX,deepmind.com,PROXY
-DOMAIN-SUFFIX,deepmind.google,PROXY
-
-# Google Generative Language API
-DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
-DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY
-DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
-
-# Google AI Studio
-DOMAIN,ai.google.dev,PROXY
-DOMAIN,alkalicore-pa.clients6.google.com,PROXY
-DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
-DOMAIN-SUFFIX,generativeai.google,PROXY
-DOMAIN-SUFFIX,makersuite.google.com,PROXY
-
-DOMAIN-SUFFIX,aistudio.google.com,PROXY
-DOMAIN-SUFFIX,bard.google.com,PROXY
-DOMAIN-SUFFIX,gemini.google,PROXY
-DOMAIN-SUFFIX,gemini.google.com,PROXY
-#end include:google-deepmind
-#end include:google-gemini
 #include:groq
 DOMAIN-SUFFIX,groq.com,PROXY
 #end include:groq

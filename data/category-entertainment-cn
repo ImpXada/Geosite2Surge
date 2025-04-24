@@ -91,7 +91,6 @@ DOMAIN-SUFFIX,bestvcdn.net,PROXY
 DOMAIN-SUFFIX,smgbb.cn,PROXY
 #end include:bestv
 #include:bilibili
-#include:bilibili-game
 DOMAIN-SUFFIX,bilibiligame.cn,PROXY
 DOMAIN-SUFFIX,bilibiligame.co,PROXY
 DOMAIN-SUFFIX,bilibiligame.net,PROXY
@@ -239,23 +238,6 @@ DOMAIN-SUFFIX,gcores.com,PROXY
 DOMAIN-SUFFIX,gitv.cn,PROXY
 DOMAIN-SUFFIX,gitv.tv,PROXY
 #end include:gitv
-#include:hunantv
-# 湖南广电（芒果TV）
-DOMAIN-SUFFIX,click.hunantv.com,PROXY
-DOMAIN-SUFFIX,da.hunantv.com,PROXY
-DOMAIN-SUFFIX,da.mgtv.com,PROXY
-DOMAIN-SUFFIX,log.hunantv.com,PROXY
-DOMAIN-SUFFIX,log.v2.hunantv.com,PROXY
-DOMAIN-SUFFIX,res.hunantv.com,PROXY
-#end include:hunantv-ads
-DOMAIN-SUFFIX,hifuntv.com,PROXY
-DOMAIN-SUFFIX,hitv.com,PROXY
-DOMAIN-SUFFIX,hnbntv.com,PROXY
-DOMAIN-SUFFIX,hunaniptv.com,PROXY
-DOMAIN-SUFFIX,hunantv.com,PROXY
-DOMAIN-SUFFIX,imgo.tv,PROXY
-DOMAIN-SUFFIX,mgtv.com,PROXY
-#end include:hunantv
 #include:huya
 DOMAIN-SUFFIX,huya.com,PROXY
 DOMAIN-SUFFIX,msstatic.com,PROXY
@@ -274,7 +256,6 @@ DOMAIN-SUFFIX,qy.net,PROXY
 # CDN used by iqiyi
 DOMAIN-SUFFIX,71edge.com,PROXY
 
-#include:iqiyi-ads
 DOMAIN-SUFFIX,a.ckm.iqiyi.com,PROXY
 DOMAIN-SUFFIX,ad.m.iqiyi.com,PROXY
 DOMAIN-SUFFIX,afp.iqiyi.com,PROXY
@@ -330,6 +311,7 @@ DOMAIN,wlog.kuaishou.com,PROXY
 #end include:kuaishou-ads
 #end include:kuaishou
 #include:kugou
+#include:kugou-ads
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY
 DOMAIN-SUFFIX,adserviceretry.kugou.com,PROXY
@@ -358,6 +340,7 @@ DOMAIN-SUFFIX,koowo.com,PROXY
 DOMAIN-SUFFIX,kuwo.cn,PROXY
 #end include:kuwo
 #include:le
+#include:letv-ads
 DOMAIN-SUFFIX,api.game.letvstore.com,PROXY
 DOMAIN-SUFFIX,ark.letv.com,PROXY
 DOMAIN-SUFFIX,dc.letv.com,PROXY
