@@ -501,6 +501,7 @@ DOMAIN,licdn.cn.cdn20.com,PROXY
 DOMAIN,linkedin.sc.omtrdc.net,PROXY
 #end include:linkedin
 #include:threads
+DOMAIN-SUFFIX,threads.com,PROXY
 DOMAIN-SUFFIX,threads.net,PROXY
 #end include:threads
 #include:twitter

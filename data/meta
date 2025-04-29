@@ -549,6 +549,7 @@ DOMAIN-SUFFIX,oculusvr.com,PROXY
 DOMAIN-SUFFIX,powersunitedvr.com,PROXY
 #end include:oculus
 #include:threads
+DOMAIN-SUFFIX,threads.com,PROXY
 DOMAIN-SUFFIX,threads.net,PROXY
 #end include:threads
 
