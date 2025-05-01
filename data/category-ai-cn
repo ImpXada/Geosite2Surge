@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,tongyi.aliyun.com,PROXY
 DOMAIN-SUFFIX,qianwen.aliyun.com,PROXY
 DOMAIN-SUFFIX,qwen.ai,PROXY
 DOMAIN-SUFFIX,qwenlm.ai,PROXY
+DOMAIN-SUFFIX,tongyi.com,PROXY
 
 # 文心一言
 DOMAIN-SUFFIX,yiyan.baidu.com,PROXY

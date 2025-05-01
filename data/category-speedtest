@@ -27,17 +27,26 @@ DOMAIN-SUFFIX,speed.hinet.net,PROXY
 DOMAIN-SUFFIX,speed.nccu.edu.tw,PROXY
 DOMAIN-SUFFIX,speed.neu6.edu.cn,PROXY
 DOMAIN-SUFFIX,speed.nuaa.edu.cn,PROXY
+DOMAIN-SUFFIX,speed.qlu.edu.cn,PROXY
+DOMAIN-SUFFIX,speed.ujs.edu.cn,PROXY
+DOMAIN-SUFFIX,speed6.ujs.edu.cn,PROXY
 DOMAIN-SUFFIX,speed2.hinet.net,PROXY
 DOMAIN-SUFFIX,speed5.ntu.edu.tw,PROXY
 DOMAIN-SUFFIX,speedtest.cn,PROXY
 DOMAIN-SUFFIX,speedtest.im,PROXY
 DOMAIN-SUFFIX,speedtest.mfcyun.com,PROXY
 DOMAIN-SUFFIX,speedtest.shu.edu.cn,PROXY
+DOMAIN-SUFFIX,speedtest6.shu.edu.cn,PROXY
+DOMAIN-SUFFIX,speedtest.xaut.edu.cn,PROXY
 DOMAIN-SUFFIX,speedtest.xfinity.com,PROXY
 DOMAIN-SUFFIX,speedtestcustom.com,PROXY
 DOMAIN-SUFFIX,test.ustc.edu.cn,PROXY
+DOMAIN-SUFFIX,test6.ustc.edu.cn,PROXY
 DOMAIN-SUFFIX,test.nju.edu.cn,PROXY
+DOMAIN-SUFFIX,test6.nju.edu.cn,PROXY
+DOMAIN-SUFFIX,speed.nju.edu.cn,PROXY
 DOMAIN-SUFFIX,testmy.net,PROXY
+DOMAIN-SUFFIX,xnfz.seu.edu.cn,PROXY
 
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com,PROXY
 

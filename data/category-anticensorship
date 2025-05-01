@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,proxifier.com,PROXY
 DOMAIN-SUFFIX,psiphon.ca,PROXY
 DOMAIN-SUFFIX,psiphon3.com,PROXY
 DOMAIN-SUFFIX,sagernet.org,PROXY
+DOMAIN-SUFFIX,sing-box.app,PROXY
 DOMAIN-SUFFIX,shadowsocks.org,PROXY
 DOMAIN-SUFFIX,sspanel.net,PROXY
 DOMAIN-SUFFIX,stunnel.org,PROXY
@@ -116,4 +117,6 @@ DOMAIN-SUFFIX,whonix.org,PROXY
 DOMAIN-SUFFIX,wikileaks.org,PROXY
 DOMAIN-SUFFIX,wireguard.com,PROXY
 DOMAIN-SUFFIX,xtls.github.io,PROXY
+DOMAIN-SUFFIX,trojan-gfw.github.io,PROXY
 DOMAIN-SUFFIX,zeronet.io,PROXY
+DOMAIN-SUFFIX,metacubex.one,PROXY

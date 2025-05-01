@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,tongyi.aliyun.com,PROXY
 DOMAIN-SUFFIX,qianwen.aliyun.com,PROXY
 DOMAIN-SUFFIX,qwen.ai,PROXY
 DOMAIN-SUFFIX,qwenlm.ai,PROXY
+DOMAIN-SUFFIX,tongyi.com,PROXY
 
 # 文心一言
 DOMAIN-SUFFIX,yiyan.baidu.com,PROXY
@@ -2671,8 +2672,10 @@ DOMAIN-SUFFIX,yingjiesheng.net,PROXY
 DOMAIN-SUFFIX,zhiding.com.cn,PROXY
 #end include:51job
 #include:afdian
+DOMAIN-SUFFIX,afdian.com,PROXY
 DOMAIN-SUFFIX,afdian.net,PROXY
 DOMAIN-SUFFIX,afdiancdn.com,PROXY
+DOMAIN-SUFFIX,ifdian.net,PROXY
 #end include:afdian
 #include:agora
 DOMAIN-SUFFIX,agora.io,PROXY
@@ -4816,6 +4819,7 @@ DOMAIN-SUFFIX,xiaojukeji.com,PROXY
 DOMAIN-SUFFIX,dji.com,PROXY
 DOMAIN-SUFFIX,dji.net,PROXY
 DOMAIN-SUFFIX,djicdn.com,PROXY
+DOMAIN-SUFFIX,djiits.com,PROXY
 DOMAIN-SUFFIX,djiops.com,PROXY
 DOMAIN-SUFFIX,djiservice.org,PROXY
 DOMAIN-SUFFIX,skypixel.com,PROXY
@@ -6021,6 +6025,7 @@ DOMAIN-SUFFIX,miui.com,PROXY
 DOMAIN-SUFFIX,miwifi.com,PROXY
 DOMAIN-SUFFIX,xiaomi.cn,PROXY
 DOMAIN-SUFFIX,xiaomi.com,PROXY
+DOMAIN-SUFFIX,xiaomi.eu,PROXY
 DOMAIN-SUFFIX,xiaomi.net,PROXY
 DOMAIN-SUFFIX,xiaomicp.com,PROXY
 DOMAIN-SUFFIX,xiaomidns.cn,PROXY
@@ -7112,6 +7117,7 @@ DOMAIN-SUFFIX,mokahr.com,PROXY
 DOMAIN-SUFFIX,moleecel.com,PROXY
 DOMAIN-SUFFIX,moocollege.com,PROXY
 DOMAIN-SUFFIX,mop.com,PROXY
+DOMAIN-SUFFIX,morefreegame.com,PROXY    #京ICP备20006112号-2
 DOMAIN-SUFFIX,msanjia.com,PROXY
 DOMAIN-SUFFIX,mscbsc.com,PROXY
 DOMAIN-SUFFIX,mukewang.com,PROXY

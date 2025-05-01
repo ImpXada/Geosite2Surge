@@ -74,7 +74,11 @@ DOMAIN-SUFFIX,m-team.io,PROXY
 
 DOMAIN-SUFFIX,myanonamouse.net,PROXY
 DOMAIN-SUFFIX,torrentleech.org,PROXY
-DOMAIN-SUFFIX,u2.dmhy.org,PROXY
+DOMAIN-SUFFIX,nebulance.io,PROXY
+
+# U2
+DOMAIN-SUFFIX,dmhy.org,PROXY
+DOMAIN-SUFFIX,dmhy.best,PROXY
 
 # To the Chinese Users:
 #    The following domains are supposed not to go through the proxy

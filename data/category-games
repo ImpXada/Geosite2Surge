@@ -740,6 +740,9 @@ DOMAIN-SUFFIX,csgo.wmsj.cn,PROXY
 DOMAIN-SUFFIX,dota2.wmsj.cn,PROXY
 DOMAIN-SUFFIX,wmsjsteam.com,PROXY
 
+# Steam更新
+DOMAIN-SUFFIX,client-update.queniuqe.com,PROXY
+
 # 新流云
 DOMAIN-SUFFIX,dl.steam.clngaa.com,PROXY
 
