@@ -61,15 +61,6 @@ DOMAIN-SUFFIX,ptt.cc,PROXY
 DOMAIN-SUFFIX,ptt2.cc,PROXY
 DOMAIN-SUFFIX,ptt3.cc,PROXY
 #end include:ptt
-#include:quora
-DOMAIN-SUFFIX,poe.com,PROXY
-DOMAIN-SUFFIX,poecdn.net,PROXY
-#end include:poe
-
-DOMAIN-SUFFIX,qr.ae,PROXY
-DOMAIN-SUFFIX,quora.com,PROXY
-DOMAIN-SUFFIX,quoracdn.net,PROXY
-#end include:quora
 #include:reddit
 DOMAIN-SUFFIX,redd.it,PROXY
 DOMAIN-SUFFIX,reddit.app.link,PROXY

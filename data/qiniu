@@ -1,4 +1,3 @@
-#include:staticfile
 DOMAIN-SUFFIX,staticfile.net,PROXY
 DOMAIN-SUFFIX,staticfile.org,PROXY
 #end include:staticfile

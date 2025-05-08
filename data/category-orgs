@@ -1,5 +1,16 @@
 # This list contains organizations outside China mainland.
 
+#include:archive
+DOMAIN-SUFFIX,4pcdn.org,PROXY
+DOMAIN-SUFFIX,4plebs.org,PROXY
+#end include:4plebs
+
+DOMAIN-SUFFIX,archive-it.org,PROXY
+DOMAIN-SUFFIX,archive.org,PROXY
+DOMAIN-SUFFIX,archive.ph,PROXY
+DOMAIN-SUFFIX,archive.today,PROXY
+DOMAIN-SUFFIX,openlibrary.org,PROXY
+#end include:archive
 #include:creativecommons
 DOMAIN-SUFFIX,ccstatic.org,PROXY
 DOMAIN-SUFFIX,creativecommons.org,PROXY

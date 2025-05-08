@@ -1,4 +1,3 @@
-#include:category-ipfs
 # Reference: https://ipfs.github.io/public-gateway-checker/
 
 DOMAIN-SUFFIX,cf-ipfs.com,PROXY
@@ -25,17 +24,13 @@ DOMAIN-SUFFIX,jorropo.net,PROXY
 DOMAIN-SUFFIX,nftstorage.link,PROXY
 DOMAIN-SUFFIX,via0.com,PROXY
 #end include:category-ipfs
-#include:ceno
 DOMAIN-SUFFIX,censorship.no,PROXY
 #end include:ceno
-#include:citizenlab
 DOMAIN-SUFFIX,citizenlab.ca,PROXY
 DOMAIN-SUFFIX,citizenlab.org,PROXY
 #end include:citizenlab
-#include:epicbrowser
 DOMAIN-SUFFIX,epicbrowser.com,PROXY
 #end include:epicbrowser
-#include:greatfire
 DOMAIN-SUFFIX,applecensorship.com,PROXY
 DOMAIN-SUFFIX,freebrowser.org,PROXY
 DOMAIN-SUFFIX,freewechat.com,PROXY
@@ -45,30 +40,23 @@ DOMAIN-SUFFIX,greatfire.org,PROXY
 DOMAIN-SUFFIX,pao-pao.net,PROXY
 DOMAIN-SUFFIX,wikiunblocked.org,PROXY
 #end include:greatfire
-#include:haveibeenpwned
 DOMAIN-SUFFIX,haveibeenpwned.com,PROXY
 DOMAIN-SUFFIX,pwnedpasswords.com,PROXY
 #end include:haveibeenpwned
-#include:lantern
 DOMAIN-SUFFIX,getlantern.org,PROXY
 DOMAIN-SUFFIX,lantern.io,PROXY
 #end include:lantern
-#include:paskoocheh
 DOMAIN-SUFFIX,paskoocheh.com,PROXY
 #end include:paskoocheh
-#include:softether
 DOMAIN-SUFFIX,softether.org,PROXY
 DOMAIN-SUFFIX,softether-download.com,PROXY
 #end include:softether
-#include:torproject
 DOMAIN-SUFFIX,torproject.org,PROXY
 #end include:torproject
-#include:v2ray
 DOMAIN-SUFFIX,v2ray.com,PROXY
 DOMAIN-SUFFIX,v2ray.cool,PROXY
 DOMAIN-SUFFIX,v2fly.org,PROXY
 #end include:v2ray
-#include:vpngate
 DOMAIN-SUFFIX,opengw.net,PROXY
 DOMAIN-SUFFIX,vpngate.jp,PROXY
 DOMAIN-SUFFIX,vpngate.net,PROXY

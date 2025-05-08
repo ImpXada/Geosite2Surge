@@ -1,3 +1,4 @@
+#include:teamviewer
 DOMAIN-SUFFIX,teamviewer.cn,PROXY
 DOMAIN-SUFFIX,teamviewer.com,PROXY
 DOMAIN-SUFFIX,teamviewer.us,PROXY
