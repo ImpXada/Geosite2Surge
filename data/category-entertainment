@@ -1604,6 +1604,10 @@ DOMAIN-SUFFIX,juequling.com,PROXY
 DOMAIN-WILDCARD,*-mihayo.akamaized.net,PROXY
 #end include:mihoyo-cn
 #end include:mihoyo
+#include:mubi
+DOMAIN-SUFFIX,mubi.com,PROXY
+DOMAIN-SUFFIX,mubicdn.net,PROXY
+#end include:mubi
 #include:mudvod
 DOMAIN-SUFFIX,biggggg.com,PROXY
 DOMAIN-SUFFIX,mudvod.tv,PROXY

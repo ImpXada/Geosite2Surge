@@ -849,6 +849,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | mpv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mpv |
 | msi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/msi |
 | msn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/msn |
+| mubi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mubi |
 | mucinex | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mucinex |
 | mudvod | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mudvod |
 | muji | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/muji |
