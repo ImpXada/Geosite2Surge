@@ -238,23 +238,6 @@ DOMAIN-SUFFIX,gcores.com,PROXY
 DOMAIN-SUFFIX,gitv.cn,PROXY
 DOMAIN-SUFFIX,gitv.tv,PROXY
 #end include:gitv
-#include:hunantv
-# 湖南广电（芒果TV）
-DOMAIN-SUFFIX,click.hunantv.com,PROXY
-DOMAIN-SUFFIX,da.hunantv.com,PROXY
-DOMAIN-SUFFIX,da.mgtv.com,PROXY
-DOMAIN-SUFFIX,log.hunantv.com,PROXY
-DOMAIN-SUFFIX,log.v2.hunantv.com,PROXY
-DOMAIN-SUFFIX,res.hunantv.com,PROXY
-#end include:hunantv-ads
-DOMAIN-SUFFIX,hifuntv.com,PROXY
-DOMAIN-SUFFIX,hitv.com,PROXY
-DOMAIN-SUFFIX,hnbntv.com,PROXY
-DOMAIN-SUFFIX,hunaniptv.com,PROXY
-DOMAIN-SUFFIX,hunantv.com,PROXY
-DOMAIN-SUFFIX,imgo.tv,PROXY
-DOMAIN-SUFFIX,mgtv.com,PROXY
-#end include:hunantv
 #include:huya
 DOMAIN-SUFFIX,huya.com,PROXY
 DOMAIN-SUFFIX,msstatic.com,PROXY
@@ -316,6 +299,7 @@ DOMAIN-SUFFIX,kuaishouzt.com,PROXY
 DOMAIN-SUFFIX,kwimgs.com,PROXY
 DOMAIN-SUFFIX,yximgs.com,PROXY
 
+#include:kuaishou-ads
 DOMAIN-SUFFIX,adbkwai.com,PROXY
 DOMAIN-SUFFIX,adkwai.com,PROXY
 DOMAIN-SUFFIX,adukwai.com,PROXY
@@ -327,6 +311,7 @@ DOMAIN,wlog.kuaishou.com,PROXY
 #end include:kuaishou-ads
 #end include:kuaishou
 #include:kugou
+#include:kugou-ads
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY
 DOMAIN-SUFFIX,adserviceretry.kugou.com,PROXY
@@ -355,6 +340,7 @@ DOMAIN-SUFFIX,koowo.com,PROXY
 DOMAIN-SUFFIX,kuwo.cn,PROXY
 #end include:kuwo
 #include:le
+#include:letv-ads
 DOMAIN-SUFFIX,api.game.letvstore.com,PROXY
 DOMAIN-SUFFIX,ark.letv.com,PROXY
 DOMAIN-SUFFIX,dc.letv.com,PROXY
@@ -475,7 +461,6 @@ DOMAIN-SUFFIX,wasu.tv,PROXY
 DOMAIN-SUFFIX,wasumedia.cn,PROXY
 #end include:wasu
 #include:xd
-#include:taptap
 DOMAIN-SUFFIX,tapimg.com,PROXY
 DOMAIN-SUFFIX,tapimg.net,PROXY
 DOMAIN-SUFFIX,taptap.cn,PROXY

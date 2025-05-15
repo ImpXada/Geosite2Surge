@@ -1,4 +1,5 @@
 # 湖南广电（芒果TV）
+#include:hunantv-ads
 DOMAIN-SUFFIX,click.hunantv.com,PROXY
 DOMAIN-SUFFIX,da.hunantv.com,PROXY
 DOMAIN-SUFFIX,da.mgtv.com,PROXY

@@ -1,3 +1,4 @@
+#include:twitter
 DOMAIN-SUFFIX,ads-twitter.com,PROXY
 DOMAIN-SUFFIX,cms-twdigitalassets.com,PROXY
 DOMAIN-SUFFIX,periscope.tv,PROXY
@@ -23,6 +24,7 @@ DOMAIN-SUFFIX,twvid.com,PROXY
 DOMAIN-SUFFIX,vine.co,PROXY
 DOMAIN-SUFFIX,x.com,PROXY
 #end include:twitter
+#include:xai
 DOMAIN-SUFFIX,grok.com,PROXY
 DOMAIN-SUFFIX,x.ai,PROXY
 #end include:xai

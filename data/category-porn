@@ -585,7 +585,6 @@ DOMAIN-SUFFIX,uun99.com,PROXY
 DOMAIN-SUFFIX,uux68.com,PROXY
 #end include:uu-chat
 #include:xhamster
-#include:xhamster-ads
 DOMAIN-SUFFIX,collector.xhamster.com,PROXY
 #end include:xhamster-ads
 

@@ -1,3 +1,4 @@
+#include:sina-ads
 DOMAIN-SUFFIX,2016.sina.cn,PROXY
 DOMAIN-SUFFIX,ad.sina.com.cn,PROXY
 DOMAIN-SUFFIX,adbox.sina.com.cn,PROXY

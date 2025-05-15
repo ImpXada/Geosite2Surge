@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,hupucdn.com,PROXY
 DOMAIN-SUFFIX,shihuo.cn,PROXY
 #end include:hupu
 #include:sina
+#include:sina-ads
 DOMAIN-SUFFIX,2016.sina.cn,PROXY
 DOMAIN-SUFFIX,ad.sina.com.cn,PROXY
 DOMAIN-SUFFIX,adbox.sina.com.cn,PROXY

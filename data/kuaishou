@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,kuaishouzt.com,PROXY
 DOMAIN-SUFFIX,kwimgs.com,PROXY
 DOMAIN-SUFFIX,yximgs.com,PROXY
 
+#include:kuaishou-ads
 DOMAIN-SUFFIX,adbkwai.com,PROXY
 DOMAIN-SUFFIX,adkwai.com,PROXY
 DOMAIN-SUFFIX,adukwai.com,PROXY

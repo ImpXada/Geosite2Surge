@@ -115,6 +115,13 @@ DOMAIN-SUFFIX,dengguobi.com,PROXY
 DOMAIN-SUFFIX,houyicaiji.com,PROXY
 DOMAIN-SUFFIX,jinglingbiaozhu.com,PROXY
 #end include:kuaiyikeji
+#include:oschina
+DOMAIN-SUFFIX,gitee.com,PROXY
+DOMAIN-SUFFIX,gitee.io,PROXY
+#end include:gitee
+
+DOMAIN-SUFFIX,oschina.net,PROXY
+#end include:oschina
 #include:pgyer
 DOMAIN-SUFFIX,pgyer.com,PROXY
 DOMAIN-SUFFIX,tracup.com,PROXY

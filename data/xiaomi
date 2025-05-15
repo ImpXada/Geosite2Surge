@@ -1,3 +1,4 @@
+#include:xiaomi-ads
 DOMAIN-SUFFIX,a.market.xiaomi.com,PROXY
 DOMAIN-SUFFIX,ad.intl.xiaomi.com,PROXY
 DOMAIN-SUFFIX,ad.mi.com,PROXY
