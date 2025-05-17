@@ -1,3 +1,4 @@
+#include:reuters
 DOMAIN-SUFFIX,reut.rs,PROXY
 DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reuters.tv,PROXY

@@ -1,3 +1,4 @@
+#include:huawei-dev
 DOMAIN-SUFFIX,bisheng.cn,PROXY
 DOMAIN-SUFFIX,bishengcompiler.cn,PROXY
 DOMAIN-SUFFIX,devui.design,PROXY
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,owsgo.com,PROXY
 DOMAIN-SUFFIX,teleows.com,PROXY
 DOMAIN-SUFFIX,saasops.tech,PROXY
 #end include:huawei-dev
+#include:huaweicloud
 DOMAIN-SUFFIX,aadcloud.cn,PROXY
 DOMAIN-SUFFIX,aadcloud.com,PROXY
 DOMAIN-SUFFIX,ami-alliance.org.cn,PROXY

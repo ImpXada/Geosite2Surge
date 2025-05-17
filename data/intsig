@@ -8,5 +8,6 @@ DOMAIN-SUFFIX,camscanner.com,PROXY
 DOMAIN-SUFFIX,camcard.com,PROXY
 
 # 启信宝
+#include:qixin
 DOMAIN-SUFFIX,qixin.com,PROXY
 #end include:qixin

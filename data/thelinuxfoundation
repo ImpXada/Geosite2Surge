@@ -4,6 +4,29 @@ DOMAIN-SUFFIX,kernel.org,PROXY
 #include:linux
 DOMAIN-SUFFIX,linux.org,PROXY
 #end include:linux
+#include:openjsfoundation
+DOMAIN-SUFFIX,amp.dev,PROXY
+DOMAIN-SUFFIX,ampproject.com,PROXY
+DOMAIN-SUFFIX,ampproject.net,PROXY
+DOMAIN-SUFFIX,ampproject.org,PROXY
+
+DOMAIN,cdn.ampproject.org,PROXY
+
+DOMAIN,amp.akamaized.net,PROXY
+#end include:amp
+DOMAIN-SUFFIX,electronjs.org,PROXY
+#end include:electron
+DOMAIN-SUFFIX,jquery.com,PROXY
+DOMAIN-SUFFIX,jquerymobile.com,PROXY
+DOMAIN-SUFFIX,jqueryui.com,PROXY
+#end include:jquery
+DOMAIN-SUFFIX,mochajs.org,PROXY
+#end include:mocha
+DOMAIN-SUFFIX,nodejs.org,PROXY
+#end include:nodejs
+
+DOMAIN-SUFFIX,openjsf.org,PROXY
+#end include:openjsfoundation
 
 DOMAIN-SUFFIX,lfai.foundation,PROXY
 DOMAIN-SUFFIX,linuxfoundation.org,PROXY

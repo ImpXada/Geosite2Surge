@@ -1,4 +1,3 @@
-#include:mytvsuper
 DOMAIN-SUFFIX,mytvsuper.com,PROXY
 DOMAIN-SUFFIX,tvb.com,PROXY
 #end include:mytvsuper

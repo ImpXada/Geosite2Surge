@@ -1,4 +1,3 @@
-#include:category-bank-mm
 #Banking website in Myanmar
 DOMAIN-SUFFIX,abank.com.mm,PROXY
 DOMAIN-SUFFIX,ablmm.com,PROXY
@@ -31,7 +30,6 @@ DOMAIN-SUFFIX,waveomoney.com.mm,PROXY
 DOMAIN-SUFFIX,yomabank.com,PROXY
 DOMAIN-SUFFIX,ysx-mm.com,PROXY
 #end include:category-bank-mm
-#include:hsbc
 # TLD
 DOMAIN-SUFFIX,hsbc,PROXY
 
@@ -100,7 +98,6 @@ DOMAIN-SUFFIX,hsbc.co.jp,PROXY
 DOMAIN-SUFFIX,hsbc.fr,PROXY
 DOMAIN-SUFFIX,hsbctrinkaus.de,PROXY
 #end include:hsbc
-#include:ifast
 DOMAIN-SUFFIX,fsmone.com,PROXY
 DOMAIN-SUFFIX,fsmone.com.hk,PROXY
 DOMAIN-SUFFIX,fsmone.com.my,PROXY
@@ -116,7 +113,6 @@ DOMAIN-SUFFIX,ifastnetwork.com,PROXY
 DOMAIN-SUFFIX,ifastps.com.cn,PROXY
 DOMAIN-SUFFIX,ifasttv.com,PROXY
 #end include:ifast
-#include:longbridge
 DOMAIN-SUFFIX,longbridge.cloud,PROXY
 DOMAIN-SUFFIX,longbridge.global,PROXY
 DOMAIN-SUFFIX,longbridge.hk,PROXY
@@ -128,7 +124,6 @@ DOMAIN-SUFFIX,longportapp.com,PROXY
 DOMAIN-SUFFIX,lbkrs.com,PROXY
 DOMAIN-SUFFIX,wbrks.com,PROXY
 #end include:longbridge
-#include:wise
 DOMAIN-SUFFIX,transferwise.com,PROXY
 DOMAIN-SUFFIX,wise.com,PROXY
 #end include:wise

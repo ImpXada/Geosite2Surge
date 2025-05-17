@@ -1,4 +1,3 @@
-#include:intel-dev
 DOMAIN-SUFFIX,01.org,PROXY
 DOMAIN-SUFFIX,hyperscan.io,PROXY
 DOMAIN-SUFFIX,intellinuxgraphics.com,PROXY

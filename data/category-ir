@@ -177,6 +177,40 @@ DOMAIN-SUFFIX,sinainsurance.com,PROXY
 DOMAIN-SUFFIX,tamin.ir,PROXY
 DOMAIN-SUFFIX,tins.ir,PROXY
 #end include:category-insurance-ir
+#include:category-media-ir
+# Iranian media websites
+#include:aparat
+DOMAIN-SUFFIX,aparat.com,PROXY
+DOMAIN-SUFFIX,aparatkids.com,PROXY
+DOMAIN-SUFFIX,aparatsport.com,PROXY
+#end include:aparat
+#include:filimo
+DOMAIN-SUFFIX,filimo.com,PROXY
+DOMAIN-SUFFIX,filimo.school,PROXY
+#end include:filimo
+
+DOMAIN-SUFFIX,cinematicket.org,PROXY
+DOMAIN-SUFFIX,filmnet.ir,PROXY
+DOMAIN-SUFFIX,irib.ir,PROXY
+DOMAIN-SUFFIX,iribtv.ir,PROXY
+DOMAIN-SUFFIX,irinn.ir,PROXY
+DOMAIN-SUFFIX,jjtvn.ir,PROXY
+DOMAIN-SUFFIX,namava.ir,PROXY
+DOMAIN-SUFFIX,qurantv.ir,PROXY
+DOMAIN-SUFFIX,radio.ir,PROXY
+DOMAIN-SUFFIX,radioiran.ir,PROXY
+DOMAIN-SUFFIX,radiojavan.ir,PROXY
+DOMAIN-SUFFIX,radiomaaref.ir,PROXY
+DOMAIN-SUFFIX,radiopayam.ir,PROXY
+DOMAIN-SUFFIX,radioquran.ir,PROXY
+DOMAIN-SUFFIX,radiotehran.ir,PROXY
+DOMAIN-SUFFIX,radiovarzesh.ir,PROXY
+DOMAIN-SUFFIX,telewebion.com,PROXY
+DOMAIN-SUFFIX,tmk.ir,PROXY
+DOMAIN-SUFFIX,tv3.ir,PROXY
+DOMAIN-SUFFIX,tv5.ir,PROXY
+DOMAIN-SUFFIX,tv7.ir,PROXY
+#end include:category-media-ir
 #include:category-news-ir
 # Iranian news websites
 
@@ -272,6 +306,7 @@ DOMAIN-SUFFIX,srttu.edu,PROXY
 #end include:category-scholar-ir
 #include:category-shopping-ir
 # Iranian shopping websites
+#include:divar
 DOMAIN-SUFFIX,divar.cloud,PROXY
 DOMAIN-SUFFIX,divar.ir,PROXY
 DOMAIN-SUFFIX,divarcdn.com,PROXY

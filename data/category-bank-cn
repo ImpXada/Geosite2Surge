@@ -1,4 +1,3 @@
-#include:boc
 DOMAIN-SUFFIX,boc.cn,PROXY
 
 # BOC International
@@ -26,7 +25,6 @@ DOMAIN-SUFFIX,bocigroup.com,PROXY
 DOMAIN-SUFFIX,bocim.com,PROXY
 DOMAIN-SUFFIX,bocservices.com.cn,PROXY
 #end include:boc
-#include:ccb
 DOMAIN-SUFFIX,ccb-life.com.cn,PROXY
 DOMAIN-SUFFIX,ccb.cn,PROXY
 DOMAIN-SUFFIX,ccb.com,PROXY
@@ -44,7 +42,6 @@ DOMAIN-SUFFIX,ccbseoul.com,PROXY
 DOMAIN-SUFFIX,ccbtrust.com.cn,PROXY
 DOMAIN-SUFFIX,ccbxt.com,PROXY
 #end include:ccb
-#include:citic
 # All .citic domains
 DOMAIN-SUFFIX,citic,PROXY
 
@@ -64,7 +61,6 @@ DOMAIN-SUFFIX,csci.hk,PROXY
 DOMAIN-SUFFIX,ecitic.com,PROXY
 
 #end include:citic
-#include:cmb
 DOMAIN-SUFFIX,8008205555.cn,PROXY
 DOMAIN-SUFFIX,8008205555.com,PROXY
 DOMAIN-SUFFIX,cignacmb-ipmi.com,PROXY
@@ -90,12 +86,10 @@ DOMAIN-SUFFIX,test-cignacmb.com,PROXY
 # 招赢&玖盈
 DOMAIN-SUFFIX,joying.com,PROXY
 #end include:cmb
-#include:hsbc-cn
 DOMAIN-SUFFIX,hsbc.com.cn,PROXY
 DOMAIN-SUFFIX,hsbcqh.com.cn,PROXY
 DOMAIN-SUFFIX,hsbcinsurance.com.cn,PROXY
 #end include:hsbc-cn
-#include:icbc
 # All .icbc domains
 DOMAIN-SUFFIX,icbc,PROXY
 
@@ -157,7 +151,6 @@ DOMAIN-SUFFIX,icbcthai.com,PROXY
 DOMAIN-SUFFIX,icbkfs.com,PROXY
 DOMAIN-SUFFIX,icbkus.com,PROXY
 #end include:icbc
-#include:unionpay
 DOMAIN-SUFFIX,95516.com,PROXY
 DOMAIN-SUFFIX,95516.net,PROXY
 DOMAIN-SUFFIX,chinaunionpay.com,PROXY

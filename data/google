@@ -201,6 +201,31 @@ DOMAIN-SUFFIX,bard.google.com,PROXY
 DOMAIN-SUFFIX,gemini.google,PROXY
 DOMAIN-SUFFIX,gemini.google.com,PROXY
 #end include:google-deepmind
+#include:google-gemini
+# This list is for backward compatibility
+
+# Google DeepMind
+DOMAIN-SUFFIX,deepmind.com,PROXY
+DOMAIN-SUFFIX,deepmind.google,PROXY
+
+# Google Generative Language API
+DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
+DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
+
+# Google AI Studio
+DOMAIN,ai.google.dev,PROXY
+DOMAIN,alkalicore-pa.clients6.google.com,PROXY
+DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
+DOMAIN-SUFFIX,generativeai.google,PROXY
+DOMAIN-SUFFIX,makersuite.google.com,PROXY
+
+DOMAIN-SUFFIX,aistudio.google.com,PROXY
+DOMAIN-SUFFIX,bard.google.com,PROXY
+DOMAIN-SUFFIX,gemini.google,PROXY
+DOMAIN-SUFFIX,gemini.google.com,PROXY
+#end include:google-deepmind
+#end include:google-gemini
 #include:google-play
 DOMAIN-SUFFIX,googleplay.com,PROXY
 DOMAIN-SUFFIX,play-fe.googleapis.com,PROXY

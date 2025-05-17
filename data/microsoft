@@ -196,6 +196,7 @@ DOMAIN,bj1.api.bing.com,PROXY
 DOMAIN,emoi-cncdn.bing.com,PROXY
 #end include:bing
 #include:github
+#include:npmjs
 DOMAIN-SUFFIX,npm.community,PROXY
 DOMAIN-SUFFIX,npmjs.com,PROXY
 DOMAIN-SUFFIX,npmjs.org,PROXY

@@ -1,5 +1,4 @@
 # DeepSeek
-#include:deepseek
 # Main domain
 DOMAIN-SUFFIX,deepseek.com,PROXY
 #end include:deepseek

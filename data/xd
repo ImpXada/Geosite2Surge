@@ -1,3 +1,4 @@
+#include:taptap
 DOMAIN-SUFFIX,tapimg.com,PROXY
 DOMAIN-SUFFIX,tapimg.net,PROXY
 DOMAIN-SUFFIX,taptap.cn,PROXY
