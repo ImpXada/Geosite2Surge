@@ -81,6 +81,10 @@ DOMAIN-SUFFIX,dotdeb.org,PROXY
 DOMAIN-SUFFIX,compose-spec.io,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
+DOMAIN-SUFFIX,dockerstatic.com,PROXY
+
+DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com,PROXY
+DOMAIN,docker-pinata-support.s3.amazonaws.com,PROXY
 #end include:docker
 #include:embedly
 DOMAIN-SUFFIX,embed.ly,PROXY

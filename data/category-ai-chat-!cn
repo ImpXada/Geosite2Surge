@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
 DOMAIN,ai.google.dev,PROXY
 DOMAIN,alkalicore-pa.clients6.google.com,PROXY
 DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,PROXY
 DOMAIN-SUFFIX,generativeai.google,PROXY
 DOMAIN-SUFFIX,makersuite.google.com,PROXY
 
@@ -88,6 +89,10 @@ DOMAIN-SUFFIX,cursor.com,PROXY
 DOMAIN-SUFFIX,cursor.sh,PROXY
 DOMAIN-SUFFIX,cursorapi.com,PROXY
 #end include:cursor
+
+# CodeRabbit
+DOMAIN-SUFFIX,coderabbit.ai,PROXY
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io,PROXY
 
 # Jasper
 DOMAIN-SUFFIX,clipdrop.co,PROXY

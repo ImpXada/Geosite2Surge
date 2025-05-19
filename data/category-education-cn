@@ -183,3 +183,11 @@ DOMAIN-SUFFIX,edu.cn,PROXY
 
 # “叶圣陶杯”全国中学生新作文大赛
 DOMAIN-SUFFIX,ystbds.com,PROXY
+
+# CIS NanoMasters
+# 粤ICP备2022138914号
+DOMAIN-SUFFIX,neoscholar.com,PROXY
+DOMAIN-SUFFIX,neoschool.com,PROXY
+
+# 北京嘉瑞新创教育咨询有限公司 京ICP备2020046790号-3
+DOMAIN-SUFFIX,winyoungreading.com,PROXY

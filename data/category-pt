@@ -23,10 +23,6 @@ DOMAIN-SUFFIX,hdpt.xyz,PROXY
 DOMAIN-SUFFIX,iptorrents.com,PROXY
 DOMAIN-SUFFIX,jpopsuki.eu,PROXY
 DOMAIN-SUFFIX,jptv.club,PROXY
-DOMAIN-SUFFIX,lemonhd.org,PROXY
-DOMAIN-SUFFIX,lemonhd.club,PROXY
-DOMAIN-SUFFIX,lemonhd.net,PROXY
-DOMAIN-SUFFIX,ilovelemonhd.me,PROXY
 DOMAIN-SUFFIX,pttime.org,PROXY
 DOMAIN-SUFFIX,pttime.top,PROXY
 DOMAIN-SUFFIX,ianon.app,PROXY
@@ -102,6 +98,43 @@ DOMAIN-SUFFIX,rainbowisland.co,PROXY
 DOMAIN-SUFFIX,hdkyl.in,PROXY
 DOMAIN-SUFFIX,hdkylin.top,PROXY
 DOMAIN-SUFFIX,hdkylin.work,PROXY
+
+# 好多油
+DOMAIN-SUFFIX,pt.hdupt.com,PROXY
+DOMAIN-SUFFIX,pt.upxin.net,PROXY
+
+# ubits 你堡
+DOMAIN-SUFFIX,ubits.club,PROXY
+
+# UltraHD
+DOMAIN-SUFFIX,ultrahd.net,PROXY
+
+# 咖啡
+DOMAIN-SUFFIX,ptcafe.club,PROXY
+
+# 织匿名
+DOMAIN-SUFFIX,zmpt.cc,PROXY
+
+# 冬樱
+DOMAIN-SUFFIX,wintersakura.net,PROXY
+
+# 熊猫
+DOMAIN-SUFFIX,pandapt.net,PROXY
+
+# 壹PT
+DOMAIN-SUFFIX,1ptba.com,PROXY
+
+# 冰激淋
+DOMAIN-SUFFIX,icc2022.com,PROXY
+
+# 大青虫
+DOMAIN-SUFFIX,cyanbug.net,PROXY
+
+# 柠檬PT
+DOMAIN-SUFFIX,ilovelemonhd.me,PROXY
+DOMAIN-SUFFIX,lemonhd.club,PROXY
+DOMAIN-SUFFIX,lemonhd.net,PROXY
+DOMAIN-SUFFIX,lemonhd.org,PROXY
 
 DOMAIN-SUFFIX,bitpt.cn,PROXY
 DOMAIN-SUFFIX,hdchina.org,PROXY

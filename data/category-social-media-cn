@@ -25,6 +25,20 @@ DOMAIN-SUFFIX,hupu.com,PROXY
 DOMAIN-SUFFIX,hupucdn.com,PROXY
 DOMAIN-SUFFIX,shihuo.cn,PROXY
 #end include:hupu
+#include:meipian
+# 美篇
+DOMAIN-SUFFIX,ivwen.com,PROXY
+DOMAIN-SUFFIX,meipian.cn,PROXY
+DOMAIN-SUFFIX,meipian.me,PROXY
+#end include:meipian
+#include:okjike
+# 即刻 沪ICP备15000478号
+DOMAIN-SUFFIX,jike.city,PROXY
+DOMAIN-SUFFIX,jikecdn.com,PROXY
+DOMAIN-SUFFIX,okjike.com,PROXY
+DOMAIN-SUFFIX,okjk.co,PROXY
+DOMAIN-SUFFIX,ruguoapp.com,PROXY
+#end include:okjike
 #include:sina
 #include:sina-ads
 DOMAIN-SUFFIX,2016.sina.cn,PROXY

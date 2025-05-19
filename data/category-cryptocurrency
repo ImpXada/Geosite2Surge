@@ -110,6 +110,10 @@ DOMAIN-SUFFIX,huobitoken.com,PROXY
 DOMAIN-SUFFIX,kraken.com,PROXY
 DOMAIN-SUFFIX,kraken.onl,PROXY
 #end include:kraken
+#include:kucoin
+DOMAIN-SUFFIX,kucoin.com,PROXY
+DOMAIN-SUFFIX,kucoin.plus,PROXY
+#end include:kucoin
 #include:localbitcoins
 DOMAIN-SUFFIX,localbitcoins.com,PROXY
 DOMAIN-SUFFIX,localbitcoinschain.com,PROXY
@@ -135,6 +139,16 @@ DOMAIN-SUFFIX,onekeycn.com,PROXY
 
 DOMAIN,onekey.zendesk.com,PROXY
 #end include:onekey
+#include:redotpay
+DOMAIN-SUFFIX,redotpay.com,PROXY
+DOMAIN-SUFFIX,redotpay.zendesk.com,PROXY
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com,PROXY
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,PROXY
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,PROXY
+#end include:redotpay
+#include:trustwallet
+DOMAIN-SUFFIX,trustwallet.com,PROXY
+#end include:trustwallet
 #include:wisekey
 DOMAIN-SUFFIX,wisecoin.com,PROXY
 DOMAIN-SUFFIX,wiseid.com,PROXY
@@ -151,17 +165,6 @@ DOMAIN-SUFFIX,zb.com,PROXY
 DOMAIN-SUFFIX,zb.io,PROXY
 DOMAIN-SUFFIX,zb.live,PROXY
 #end include:zb
-#include:kucoin
-DOMAIN-SUFFIX,kucoin.com,PROXY
-DOMAIN-SUFFIX,kucoin.plus,PROXY
-#end include:kucoin
-#include:redotpay
-DOMAIN-SUFFIX,redotpay.com,PROXY
-DOMAIN-SUFFIX,redotpay.zendesk.com,PROXY
-DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com,PROXY
-DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,PROXY
-DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,PROXY
-#end include:redotpay
 
 DOMAIN-SUFFIX,1inch.io,PROXY
 DOMAIN-SUFFIX,aave.com,PROXY

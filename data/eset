@@ -1,0 +1,14 @@
+# ESET Wiki - [KB332] Ports and addresses required to use your ESET product with a third-party firewall
+DOMAIN-SUFFIX,cn.eset.com,PROXY
+DOMAIN-SUFFIX,e5.sk,PROXY
+DOMAIN-SUFFIX,eset.com,PROXY
+DOMAIN-SUFFIX,eset.eu,PROXY
+DOMAIN-SUFFIX,eset.sk,PROXY
+DOMAIN-SUFFIX,eset.systems,PROXY
+DOMAIN-SUFFIX,esetsoftware.com,PROXY
+
+# ESET Password Manager
+DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com,PROXY
+
+# Connection between the Agent and ESET PROTECT
+DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com,PROXY

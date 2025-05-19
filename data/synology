@@ -6,3 +6,18 @@ DOMAIN-SUFFIX,synologyupdate.com,PROXY
 
 DOMAIN-SUFFIX,quickconnect.cn,PROXY
 DOMAIN-SUFFIX,synology.cn,PROXY
+
+# Synology DDNS
+DOMAIN-SUFFIX,diskstation.me,PROXY
+DOMAIN-SUFFIX,dscloud.biz,PROXY
+DOMAIN-SUFFIX,dscloud.me,PROXY
+DOMAIN-SUFFIX,dscloud.mobi,PROXY
+DOMAIN-SUFFIX,dsmynas.com,PROXY
+DOMAIN-SUFFIX,dsmynas.net,PROXY
+DOMAIN-SUFFIX,dsmynas.org,PROXY
+DOMAIN-SUFFIX,familyds.com,PROXY
+DOMAIN-SUFFIX,familyds.net,PROXY
+DOMAIN-SUFFIX,familyds.org,PROXY
+DOMAIN-SUFFIX,i234.me,PROXY
+DOMAIN-SUFFIX,myds.me,PROXY
+DOMAIN-SUFFIX,synology.me,PROXY

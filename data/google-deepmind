@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
 DOMAIN,ai.google.dev,PROXY
 DOMAIN,alkalicore-pa.clients6.google.com,PROXY
 DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,PROXY
 DOMAIN-SUFFIX,generativeai.google,PROXY
 DOMAIN-SUFFIX,makersuite.google.com,PROXY
 

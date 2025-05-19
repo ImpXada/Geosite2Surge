@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
 DOMAIN,ai.google.dev,PROXY
 DOMAIN,alkalicore-pa.clients6.google.com,PROXY
 DOMAIN,alkalimakersuite-pa.clients6.google.com,PROXY
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com,PROXY
 DOMAIN-SUFFIX,generativeai.google,PROXY
 DOMAIN-SUFFIX,makersuite.google.com,PROXY
 
@@ -89,6 +90,10 @@ DOMAIN-SUFFIX,cursor.com,PROXY
 DOMAIN-SUFFIX,cursor.sh,PROXY
 DOMAIN-SUFFIX,cursorapi.com,PROXY
 #end include:cursor
+
+# CodeRabbit
+DOMAIN-SUFFIX,coderabbit.ai,PROXY
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io,PROXY
 
 # Jasper
 DOMAIN-SUFFIX,clipdrop.co,PROXY
@@ -858,6 +863,19 @@ DOMAIN-SUFFIX,hsbc.co.jp,PROXY
 DOMAIN-SUFFIX,hsbc.fr,PROXY
 DOMAIN-SUFFIX,hsbctrinkaus.de,PROXY
 #end include:hsbc
+DOMAIN-SUFFIX,ibkr.com,PROXY
+DOMAIN-SUFFIX,ibllc.com,PROXY
+DOMAIN-SUFFIX,interactivebrokers.ca,PROXY
+DOMAIN-SUFFIX,interactivebrokers.co.in,PROXY
+DOMAIN-SUFFIX,interactivebrokers.co.jp,PROXY
+DOMAIN-SUFFIX,interactivebrokers.co.uk,PROXY
+DOMAIN-SUFFIX,interactivebrokers.com,PROXY
+DOMAIN-SUFFIX,interactivebrokers.com.au,PROXY
+DOMAIN-SUFFIX,interactivebrokers.com.hk,PROXY
+DOMAIN-SUFFIX,interactivebrokers.com.sg,PROXY
+DOMAIN-SUFFIX,interactivebrokers.eu,PROXY
+DOMAIN-SUFFIX,interactivebrokers.ie,PROXY
+#end include:ibkr
 DOMAIN-SUFFIX,fsmone.com,PROXY
 DOMAIN-SUFFIX,fsmone.com.hk,PROXY
 DOMAIN-SUFFIX,fsmone.com.my,PROXY
@@ -2033,6 +2051,10 @@ DOMAIN-SUFFIX,huobitoken.com,PROXY
 DOMAIN-SUFFIX,kraken.com,PROXY
 DOMAIN-SUFFIX,kraken.onl,PROXY
 #end include:kraken
+#include:kucoin
+DOMAIN-SUFFIX,kucoin.com,PROXY
+DOMAIN-SUFFIX,kucoin.plus,PROXY
+#end include:kucoin
 #include:localbitcoins
 DOMAIN-SUFFIX,localbitcoins.com,PROXY
 DOMAIN-SUFFIX,localbitcoinschain.com,PROXY
@@ -2058,6 +2080,16 @@ DOMAIN-SUFFIX,onekeycn.com,PROXY
 
 DOMAIN,onekey.zendesk.com,PROXY
 #end include:onekey
+#include:redotpay
+DOMAIN-SUFFIX,redotpay.com,PROXY
+DOMAIN-SUFFIX,redotpay.zendesk.com,PROXY
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com,PROXY
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,PROXY
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,PROXY
+#end include:redotpay
+#include:trustwallet
+DOMAIN-SUFFIX,trustwallet.com,PROXY
+#end include:trustwallet
 #include:wisekey
 DOMAIN-SUFFIX,wisecoin.com,PROXY
 DOMAIN-SUFFIX,wiseid.com,PROXY
@@ -2074,17 +2106,6 @@ DOMAIN-SUFFIX,zb.com,PROXY
 DOMAIN-SUFFIX,zb.io,PROXY
 DOMAIN-SUFFIX,zb.live,PROXY
 #end include:zb
-#include:kucoin
-DOMAIN-SUFFIX,kucoin.com,PROXY
-DOMAIN-SUFFIX,kucoin.plus,PROXY
-#end include:kucoin
-#include:redotpay
-DOMAIN-SUFFIX,redotpay.com,PROXY
-DOMAIN-SUFFIX,redotpay.zendesk.com,PROXY
-DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com,PROXY
-DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,PROXY
-DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,PROXY
-#end include:redotpay
 
 DOMAIN-SUFFIX,1inch.io,PROXY
 DOMAIN-SUFFIX,aave.com,PROXY
@@ -11762,6 +11783,10 @@ DOMAIN-SUFFIX,dotdeb.org,PROXY
 DOMAIN-SUFFIX,compose-spec.io,PROXY
 DOMAIN-SUFFIX,docker.com,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
+DOMAIN-SUFFIX,dockerstatic.com,PROXY
+
+DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com,PROXY
+DOMAIN,docker-pinata-support.s3.amazonaws.com,PROXY
 #end include:docker
 #include:embedly
 DOMAIN-SUFFIX,embed.ly,PROXY
@@ -14076,6 +14101,7 @@ DOMAIN-SUFFIX,s81c.com,PROXY
 #end include:ibm
 #include:ibkr
 DOMAIN-SUFFIX,ibkr.com,PROXY
+DOMAIN-SUFFIX,ibllc.com,PROXY
 DOMAIN-SUFFIX,interactivebrokers.ca,PROXY
 DOMAIN-SUFFIX,interactivebrokers.co.in,PROXY
 DOMAIN-SUFFIX,interactivebrokers.co.jp,PROXY
@@ -15096,6 +15122,21 @@ DOMAIN-SUFFIX,synologyupdate.com,PROXY
 
 DOMAIN-SUFFIX,quickconnect.cn,PROXY
 DOMAIN-SUFFIX,synology.cn,PROXY
+
+# Synology DDNS
+DOMAIN-SUFFIX,diskstation.me,PROXY
+DOMAIN-SUFFIX,dscloud.biz,PROXY
+DOMAIN-SUFFIX,dscloud.me,PROXY
+DOMAIN-SUFFIX,dscloud.mobi,PROXY
+DOMAIN-SUFFIX,dsmynas.com,PROXY
+DOMAIN-SUFFIX,dsmynas.net,PROXY
+DOMAIN-SUFFIX,dsmynas.org,PROXY
+DOMAIN-SUFFIX,familyds.com,PROXY
+DOMAIN-SUFFIX,familyds.net,PROXY
+DOMAIN-SUFFIX,familyds.org,PROXY
+DOMAIN-SUFFIX,i234.me,PROXY
+DOMAIN-SUFFIX,myds.me,PROXY
+DOMAIN-SUFFIX,synology.me,PROXY
 #end include:synology
 #include:symantec
 DOMAIN-SUFFIX,symantec.com,PROXY

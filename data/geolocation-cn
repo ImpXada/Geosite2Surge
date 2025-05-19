@@ -797,6 +797,7 @@ DOMAIN-SUFFIX,95311.com,PROXY
 DOMAIN-SUFFIX,izto.com,PROXY
 DOMAIN-SUFFIX,izto.com.cn,PROXY
 DOMAIN-SUFFIX,mlzt.com.cn,PROXY
+DOMAIN-SUFFIX,tuxi.com,PROXY
 DOMAIN-SUFFIX,zt-express.com,PROXY
 DOMAIN-SUFFIX,zto.cn,PROXY
 DOMAIN-SUFFIX,zto.com,PROXY
@@ -1080,6 +1081,10 @@ DOMAIN-SUFFIX,ctrip.my,PROXY
 DOMAIN-SUFFIX,ctrip.sg,PROXY
 DOMAIN-SUFFIX,ctripbiz.com,PROXY
 DOMAIN-SUFFIX,ctripbuy.hk,PROXY
+DOMAIN-SUFFIX,ctripgslb.cn,PROXY
+DOMAIN-SUFFIX,ctripgslb.com,PROXY
+DOMAIN-SUFFIX,ctripgslb.com.cn,PROXY
+DOMAIN-SUFFIX,ctripgslb.net,PROXY
 DOMAIN-SUFFIX,ctripteam.com,PROXY
 DOMAIN-SUFFIX,doticloud.com,PROXY
 DOMAIN-SUFFIX,easytrip.com,PROXY
@@ -1095,6 +1100,7 @@ DOMAIN-SUFFIX,tieyou.com,PROXY
 DOMAIN-SUFFIX,toptown.cn,PROXY
 DOMAIN-SUFFIX,toursbms.com,PROXY
 DOMAIN-SUFFIX,trip.com,PROXY
+DOMAIN-SUFFIX,tripcdn.cn,PROXY
 DOMAIN-SUFFIX,tripcdn.com,PROXY
 DOMAIN-SUFFIX,vipdlt.com,PROXY
 
@@ -1433,6 +1439,83 @@ DOMAIN-SUFFIX,ziroom.com,PROXY
 DOMAIN-SUFFIX,ziroomapartment.com,PROXY
 #end include:ziroom
 
+# Electronic
+#include:category-electronic-cn
+# Electronic store/company's website with access point in China
+
+# Analog
+DOMAIN-SUFFIX,analog.com,PROXY
+
+# 艾睿电子
+DOMAIN-SUFFIX,arrow.cn,PROXY
+
+# 博流智能
+DOMAIN-SUFFIX,bouffalolab.com,PROXY
+
+# 乐鑫信息科技
+DOMAIN-SUFFIX,esp8266.cn,PROXY
+DOMAIN-SUFFIX,esp8266.com,PROXY
+DOMAIN-SUFFIX,esp8266.com.cn,PROXY
+DOMAIN-SUFFIX,espressif.cn,PROXY
+DOMAIN-SUFFIX,espressif.com,PROXY
+DOMAIN-SUFFIX,espressif.com.cn,PROXY
+
+# 华秋电子
+DOMAIN-SUFFIX,eda.cn,PROXY
+DOMAIN-SUFFIX,elecfans.com,PROXY
+DOMAIN-SUFFIX,hqchip.com,PROXY
+DOMAIN-SUFFIX,hqdoc.com,PROXY
+DOMAIN-SUFFIX,hqpcb.com,PROXY
+
+# 英飞凌
+DOMAIN-SUFFIX,infineon.com,PROXY
+
+# 嘉立创集团
+DOMAIN-SUFFIX,forface3d.com,PROXY
+DOMAIN-SUFFIX,jlcfa.com,PROXY
+DOMAIN-SUFFIX,jlcgroup.cn,PROXY
+DOMAIN-SUFFIX,jlc-3dp.cn,PROXY
+DOMAIN-SUFFIX,jlc-bbs.com,PROXY
+DOMAIN-SUFFIX,jlc-cnc.com,PROXY
+DOMAIN-SUFFIX,jlc-dfm.com,PROXY
+DOMAIN-SUFFIX,jlc-drm.com,PROXY
+DOMAIN-SUFFIX,jlc-fpc.com,PROXY
+DOMAIN-SUFFIX,jlc-gw.com,PROXY
+DOMAIN-SUFFIX,jlc-smt.com,PROXY
+DOMAIN-SUFFIX,jlc-layout.com,PROXY
+DOMAIN-SUFFIX,jlc-zh.com,PROXY
+DOMAIN-SUFFIX,oshwhub.com,PROXY
+DOMAIN-SUFFIX,szlcsc.com,PROXY
+DOMAIN-SUFFIX,sz-jlc.com,PROXY
+DOMAIN-SUFFIX,zxhgroup.com,PROXY
+
+# 移远通信
+DOMAIN-SUFFIX,quecmall.cn,PROXY
+DOMAIN-SUFFIX,quectel.com.cn,PROXY
+DOMAIN-SUFFIX,iotronic.tech,PROXY
+
+# 瑞芯微电子
+DOMAIN-SUFFIX,rock-chips.com,PROXY
+
+# 矽递科技
+DOMAIN-SUFFIX,seeed.cn,PROXY
+DOMAIN-SUFFIX,seeed.cc,PROXY
+DOMAIN-SUFFIX,seeed.com.cn,PROXY
+DOMAIN-SUFFIX,seeedstudio.com.cn,PROXY
+
+# 矽速科技
+DOMAIN-SUFFIX,sipeed.com,PROXY
+DOMAIN-SUFFIX,maixhub.com,PROXY
+
+# 德州仪器
+DOMAIN-SUFFIX,ti.com,PROXY
+DOMAIN-SUFFIX,ti.com.cn,PROXY
+
+# 沁恒微电子
+DOMAIN-SUFFIX,wch.cn,PROXY
+DOMAIN-SUFFIX,wch-ic.com,PROXY
+#end include:category-electronic-cn
+
 # 孔夫子旧书网
 DOMAIN-SUFFIX,kongfz.com,PROXY
 DOMAIN-SUFFIX,kfzimg.com,PROXY
@@ -1616,7 +1699,12 @@ DOMAIN-SUFFIX,yunpan.aliyun.com,PROXY
 DOMAIN-SUFFIX,115.com,PROXY
 DOMAIN-SUFFIX,115cdn.com,PROXY
 DOMAIN-SUFFIX,115cdn.net,PROXY
+DOMAIN-SUFFIX,115cloud.cn,PROXY
+DOMAIN-SUFFIX,115cloud.com,PROXY
+DOMAIN-SUFFIX,115cloud.net,PROXY
 DOMAIN-SUFFIX,115img.com,PROXY
+DOMAIN-SUFFIX,115meta.com,PROXY
+DOMAIN-SUFFIX,115vod.com,PROXY
 DOMAIN-SUFFIX,116cd.cn,PROXY
 DOMAIN-SUFFIX,116cd.com,PROXY
 DOMAIN-SUFFIX,116cd.net,PROXY

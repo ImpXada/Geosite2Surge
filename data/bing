@@ -36,5 +36,7 @@ DOMAIN-SUFFIX,cn.bing.com,PROXY
 DOMAIN-SUFFIX,cn.bing.net,PROXY
 DOMAIN-SUFFIX,cn.mm.bing.net,PROXY
 DOMAIN-SUFFIX,ditu.live.com,PROXY
+DOMAIN-SUFFIX,r.bing.com,PROXY
+DOMAIN-SUFFIX,th.bing.com,PROXY
 DOMAIN,bj1.api.bing.com,PROXY
 DOMAIN,emoi-cncdn.bing.com,PROXY

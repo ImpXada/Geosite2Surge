@@ -96,6 +96,12 @@ DOMAIN-SUFFIX,ciweimao.com,PROXY
 DOMAIN-SUFFIX,hbooker.com,PROXY
 DOMAIN-SUFFIX,kuangxiangit.com,PROXY
 #end include:ciweimao
+#include:copymanga
+DOMAIN-SUFFIX,copy-manga.com,PROXY
+DOMAIN-SUFFIX,mangacopy.com,PROXY
+DOMAIN-SUFFIX,mangafuna.xyz,PROXY
+DOMAIN-SUFFIX,mangafunb.fun,PROXY
+#end include:copymanga
 #include:cowlevel
 DOMAIN-SUFFIX,cowlevel.net,PROXY
 DOMAIN-SUFFIX,cdncl.net,PROXY
@@ -425,6 +431,10 @@ DOMAIN-SUFFIX,yeshen.com,PROXY
 
 # 九九互动 粤ICP备19068416号
 DOMAIN-SUFFIX,forevernine.com,PROXY
+
+# 沪ICP备18041304号-1
+DOMAIN-SUFFIX,tgpro.top,PROXY
+DOMAIN-SUFFIX,tgprocs.net,PROXY
 
 DOMAIN-SUFFIX,ledu.com,PROXY
 DOMAIN-SUFFIX,pearvideo.com,PROXY
