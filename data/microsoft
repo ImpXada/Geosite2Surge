@@ -480,6 +480,7 @@ DOMAIN-SUFFIX,c-msedge.net,PROXY
 DOMAIN-SUFFIX,centralvalidation.com,PROXY
 DOMAIN-SUFFIX,ch9.ms,PROXY
 DOMAIN-SUFFIX,charticulator.com,PROXY
+DOMAIN-SUFFIX,clarity.ms,PROXY
 DOMAIN-SUFFIX,cloudapp.net,PROXY
 DOMAIN-SUFFIX,cloudappsecurity.com,PROXY
 DOMAIN-SUFFIX,cortanaanalytics.com,PROXY
@@ -598,6 +599,7 @@ DOMAIN-SUFFIX,msft.net,PROXY
 DOMAIN-SUFFIX,msftauth.cn,PROXY
 DOMAIN-SUFFIX,msftauth.net,PROXY
 DOMAIN-SUFFIX,msftauthimages.cn,PROXY
+DOMAIN-SUFFIX,msftauthimages.net,PROXY
 DOMAIN-SUFFIX,msftconnecttest.com,PROXY
 DOMAIN-SUFFIX,msfteducation.ca,PROXY
 DOMAIN-SUFFIX,msftncsi.com,PROXY

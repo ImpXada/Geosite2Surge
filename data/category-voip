@@ -1,0 +1,12 @@
+# imported from https://github.com/mottzz87/crules/blob/3e9cabc9f59c40ef8ac9773dda38dd9985b90dae/rule/talkatone.list
+# credit to @mottzz87
+DOMAIN-SUFFIX,agkn.com,PROXY
+DOMAIN-SUFFIX,cohere.com,PROXY
+DOMAIN-SUFFIX,inmobi.com,PROXY
+DOMAIN-SUFFIX,ip-api.com,PROXY
+DOMAIN-SUFFIX,kochava.com,PROXY
+DOMAIN-SUFFIX,mobilefuse.com,PROXY
+DOMAIN-SUFFIX,talkatone.com,PROXY
+DOMAIN-SUFFIX,tktn.at,PROXY
+DOMAIN-SUFFIX,tktn.be,PROXY
+#end include:talktone
