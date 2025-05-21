@@ -2,6 +2,8 @@ DOMAIN-SUFFIX,10086.cn,PROXY
 DOMAIN-SUFFIX,139.com,PROXY
 DOMAIN-SUFFIX,chinamobile.com,PROXY
 DOMAIN-SUFFIX,chinamobileltd.com,PROXY
+DOMAIN-SUFFIX,speedtest.hk.chinamobile.com,PROXY
+DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com,PROXY
 
 # Migu
 DOMAIN-SUFFIX,migucloud.com,PROXY

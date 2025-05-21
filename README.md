@@ -773,6 +773,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | linkedin | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/linkedin |
 | linotype | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/linotype |
 | linux | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/linux |
+| linuxdo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/linuxdo |
 | lisiku | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lisiku |
 | litv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/litv |
 | lizhi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lizhi |

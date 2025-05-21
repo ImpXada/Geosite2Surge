@@ -41,6 +41,10 @@ DOMAIN-SUFFIX,hkgolden.media,PROXY
 DOMAIN-SUFFIX,lih.kg,PROXY
 DOMAIN-SUFFIX,lihkg.com,PROXY
 #end include:lihkg
+#include:linuxdo
+DOMAIN-SUFFIX,linux.do,PROXY
+DOMAIN-SUFFIX,ldstatic.com,PROXY
+#end include:linuxdo
 #include:mobile01
 DOMAIN-SUFFIX,5i01.com,PROXY
 DOMAIN-SUFFIX,mobile01.com,PROXY
@@ -99,9 +103,17 @@ DOMAIN-SUFFIX,rutrk.org,PROXY
 DOMAIN-SUFFIX,soyjak.party,PROXY
 DOMAIN-SUFFIX,soyjak.st,PROXY
 #end include:soyjakparty
+#include:xda
+DOMAIN-SUFFIX,xda-cdn.com,PROXY
+DOMAIN-SUFFIX,xda-developers.com,PROXY
+DOMAIN-SUFFIX,xdaforums.com,PROXY
+DOMAIN-SUFFIX,xdaimages.com,PROXY
+#end include:xda
 #include:yamibo
 DOMAIN-SUFFIX,yamibo.com,PROXY
 #end include:yamibo
+
+DOMAIN,bbs.boingboing.net,PROXY
 
 DOMAIN-SUFFIX,18p2p.com,PROXY
 DOMAIN-SUFFIX,8chan.moe,PROXY

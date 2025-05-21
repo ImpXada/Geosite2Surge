@@ -1359,11 +1359,13 @@ DOMAIN-SUFFIX,yizhitou.com,PROXY
 DOMAIN-SUFFIX,duolabao.com,PROXY
 
 DOMAIN-SUFFIX,ads.union.jd.com,PROXY
+DOMAIN-SUFFIX,ads-union.jd.com,PROXY
 DOMAIN-SUFFIX,c-nfa.jd.com,PROXY
 DOMAIN-SUFFIX,cps.360buy.com,PROXY
+DOMAIN-SUFFIX,gia.jd.com,PROXY
+DOMAIN-SUFFIX,img-x.jd.com,PROXY
 DOMAIN-SUFFIX,jzt.jd.com,PROXY
 DOMAIN-SUFFIX,stat.m.jd.com,PROXY
-DOMAIN-SUFFIX,img-x.jd.com,PROXY
 #end include:jd-ads
 #end include:jd
 #include:lianjia
@@ -3522,6 +3524,8 @@ DOMAIN-SUFFIX,10086.cn,PROXY
 DOMAIN-SUFFIX,139.com,PROXY
 DOMAIN-SUFFIX,chinamobile.com,PROXY
 DOMAIN-SUFFIX,chinamobileltd.com,PROXY
+DOMAIN-SUFFIX,speedtest.hk.chinamobile.com,PROXY
+DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com,PROXY
 
 # Migu
 DOMAIN-SUFFIX,migucloud.com,PROXY
@@ -3551,8 +3555,6 @@ DOMAIN-SUFFIX,chinaunicom.com.hk,PROXY
 DOMAIN-SUFFIX,chinaunicomglobal.com,PROXY
 DOMAIN-SUFFIX,cuniq.com,PROXY
 DOMAIN-SUFFIX,mychinaunicom.com,PROXY
-DOMAIN-SUFFIX,speedtest.hk.chinamobile.com,PROXY
-DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com,PROXY
 DOMAIN-SUFFIX,wo.cn,PROXY
 DOMAIN-SUFFIX,wo.com.cn,PROXY
 DOMAIN-SUFFIX,wo116114.com,PROXY

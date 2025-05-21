@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,speedtest.hk.chinamobile.com,PROXY
+DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com,PROXY
 DOMAIN,ztedevices.com,PROXY
 DOMAIN-SUFFIX,supercell.com,PROXY
 DOMAIN-SUFFIX,cmbi.com.hk,PROXY
@@ -5,8 +7,6 @@ DOMAIN-SUFFIX,cmbwinglungbank.com,PROXY
 DOMAIN-SUFFIX,chinaunicom.com.hk,PROXY
 DOMAIN-SUFFIX,chinaunicomglobal.com,PROXY
 DOMAIN-SUFFIX,cuniq.com,PROXY
-DOMAIN-SUFFIX,speedtest.hk.chinamobile.com,PROXY
-DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com,PROXY
 DOMAIN-SUFFIX,citics.com.hk,PROXY
 DOMAIN-SUFFIX,cncbinternational.com,PROXY
 DOMAIN-SUFFIX,csci.hk,PROXY

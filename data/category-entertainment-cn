@@ -177,6 +177,12 @@ DOMAIN,rtlog5-applog-hl.fqnovel.com,PROXY
 #end include:fqnovel
 #include:gamersky
 DOMAIN-SUFFIX,gamersky.com,PROXY
+
+DOMAIN-SUFFIX,click.gamersky.com,PROXY
+DOMAIN-SUFFIX,ja.gamersky.com,PROXY
+DOMAIN-SUFFIX,ja1.gamersky.com,PROXY
+DOMAIN-SUFFIX,ja2.gamersky.com,PROXY
+DOMAIN-SUFFIX,wmbd.gamersky.com,PROXY
 #end include:gamersky
 #include:gcores
 DOMAIN-SUFFIX,gcores.com,PROXY

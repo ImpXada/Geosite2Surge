@@ -517,12 +517,6 @@ DOMAIN-SUFFIX,v8project.org,PROXY
 #include:vim
 DOMAIN-SUFFIX,vim.org,PROXY
 #end include:vim
-#include:xda
-DOMAIN-SUFFIX,xda-cdn.com,PROXY
-DOMAIN-SUFFIX,xda-developers.com,PROXY
-DOMAIN-SUFFIX,xdaforums.com,PROXY
-DOMAIN-SUFFIX,xdaimages.com,PROXY
-#end include:xda
 
 DOMAIN-SUFFIX,adventofcode.com,PROXY
 DOMAIN-SUFFIX,alpinelinux.org,PROXY
