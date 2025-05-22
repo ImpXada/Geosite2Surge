@@ -1,0 +1,7 @@
+# vr中文库
+DOMAIN-SUFFIX,vrzwk.cn,PROXY
+
+# quest助手文件下载
+DOMAIN-SUFFIX,vrzwk.com,PROXY
+DOMAIN-SUFFIX,vrzwk.net,PROXY
+DOMAIN-SUFFIX,vrzwk.top,PROXY
