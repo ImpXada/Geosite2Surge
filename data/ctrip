@@ -29,9 +29,17 @@ DOMAIN-SUFFIX,tieyou.com,PROXY
 DOMAIN-SUFFIX,toptown.cn,PROXY
 DOMAIN-SUFFIX,toursbms.com,PROXY
 DOMAIN-SUFFIX,trip.com,PROXY
+DOMAIN-SUFFIX,vipdlt.com,PROXY
+
+DOMAIN-SUFFIX,ak-p.tripcdn.com,PROXY
+DOMAIN-SUFFIX,ak-s-cw.tripcdn.com,PROXY
+DOMAIN-SUFFIX,ak-s.tripcdn.com,PROXY
+DOMAIN-SUFFIX,akatest.tripcdn.com,PROXY
+DOMAIN-SUFFIX,aw-d.tripcdn.com,PROXY
+DOMAIN-SUFFIX,aw-p.tripcdn.com,PROXY
+DOMAIN-SUFFIX,aw-s.tripcdn.com,PROXY
 DOMAIN-SUFFIX,tripcdn.cn,PROXY
 DOMAIN-SUFFIX,tripcdn.com,PROXY
-DOMAIN-SUFFIX,vipdlt.com,PROXY
 
 # qunar
 DOMAIN-SUFFIX,qunar.com,PROXY

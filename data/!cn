@@ -21,6 +21,13 @@ DOMAIN-SUFFIX,ctrip.sg,PROXY
 DOMAIN-SUFFIX,ctripbuy.hk,PROXY
 DOMAIN-SUFFIX,hhtravel.com.tw,PROXY
 DOMAIN-SUFFIX,trip.com,PROXY
+DOMAIN-SUFFIX,ak-p.tripcdn.com,PROXY
+DOMAIN-SUFFIX,ak-s-cw.tripcdn.com,PROXY
+DOMAIN-SUFFIX,ak-s.tripcdn.com,PROXY
+DOMAIN-SUFFIX,akatest.tripcdn.com,PROXY
+DOMAIN-SUFFIX,aw-d.tripcdn.com,PROXY
+DOMAIN-SUFFIX,aw-p.tripcdn.com,PROXY
+DOMAIN-SUFFIX,aw-s.tripcdn.com,PROXY
 DOMAIN-SUFFIX,icbc-at.com,PROXY
 DOMAIN-SUFFIX,icbc-cz.com,PROXY
 DOMAIN-SUFFIX,icbc-ltd.com,PROXY
