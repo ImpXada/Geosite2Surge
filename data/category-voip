@@ -9,4 +9,4 @@ DOMAIN-SUFFIX,mobilefuse.com,PROXY
 DOMAIN-SUFFIX,talkatone.com,PROXY
 DOMAIN-SUFFIX,tktn.at,PROXY
 DOMAIN-SUFFIX,tktn.be,PROXY
-#end include:talktone
+#end include:talkatone
