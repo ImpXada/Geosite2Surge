@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,doubao.com,PROXY
 DOMAIN-SUFFIX,marscode.cn,PROXY
 
 # 智谱清言
+DOMAIN-SUFFIX,bigmodel.cn,PROXY
 DOMAIN-SUFFIX,chatglm.cn,PROXY
 DOMAIN-SUFFIX,zhipuai.cn,PROXY
 
@@ -1719,10 +1720,10 @@ DOMAIN-SUFFIX,right.com.cn,PROXY    #恩山论坛
 DOMAIN-SUFFIX,uiwow.com,PROXY    #魔兽有爱论坛
 DOMAIN-SUFFIX,wuyou.net,PROXY    #无忧启动论坛
 
-DOMAIN-SUFFIX,upe.net,PROXY    #优启通官网（IT天空）
-
 DOMAIN-SUFFIX,423down.com,PROXY    #423Down
 DOMAIN-SUFFIX,ghxi.com,PROXY    #果核剥壳
+DOMAIN-SUFFIX,moyubuluo.com,PROXY    #墨鱼部落格 鲁ICP备16022801号-9
+DOMAIN-SUFFIX,upe.net,PROXY    #优启通官网（IT天空）
 DOMAIN-SUFFIX,winos.me,PROXY    #WINOS 精简社区
 
 # Media & News & Press
@@ -1960,6 +1961,10 @@ DOMAIN-SUFFIX,ntp.neu.edu.cn,PROXY
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn,PROXY
 DOMAIN-SUFFIX,ntp.org.cn,PROXY
 #end include:category-ntp-cn
+#include:category-outsource-cn
+DOMAIN-SUFFIX,mihuashi.com,PROXY
+#end include:category-outsource-cn
+
 #include:capitalonline
 DOMAIN-SUFFIX,capitalonline.net,PROXY
 DOMAIN-SUFFIX,mirrors.yun-idc.com,PROXY
@@ -2194,8 +2199,6 @@ DOMAIN-SUFFIX,bosszhipin.com,PROXY
 
 DOMAIN-SUFFIX,zhaopin.cn,PROXY    #智联招聘
 DOMAIN-SUFFIX,moseeker.com,PROXY    #仟寻招聘
-
-DOMAIN-SUFFIX,mihuashi.com,PROXY    #米畫師
 
 
 # Social Media

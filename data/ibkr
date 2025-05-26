@@ -1,4 +1,13 @@
+DOMAIN-SUFFIX,ibkr.ca,PROXY
+DOMAIN-SUFFIX,ibkr.co.in,PROXY
+DOMAIN-SUFFIX,ibkr.co.uk,PROXY
 DOMAIN-SUFFIX,ibkr.com,PROXY
+DOMAIN-SUFFIX,ibkr.com.au,PROXY
+DOMAIN-SUFFIX,ibkr.com.hk,PROXY
+DOMAIN-SUFFIX,ibkr.com.sg,PROXY
+DOMAIN-SUFFIX,ibkr.eu,PROXY
+DOMAIN-SUFFIX,ibkr.ie,PROXY
+DOMAIN-SUFFIX,ibkrguides.com,PROXY
 DOMAIN-SUFFIX,ibllc.com,PROXY
 DOMAIN-SUFFIX,interactivebrokers.ca,PROXY
 DOMAIN-SUFFIX,interactivebrokers.co.in,PROXY

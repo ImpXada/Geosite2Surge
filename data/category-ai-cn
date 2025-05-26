@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,doubao.com,PROXY
 DOMAIN-SUFFIX,marscode.cn,PROXY
 
 # 智谱清言
+DOMAIN-SUFFIX,bigmodel.cn,PROXY
 DOMAIN-SUFFIX,chatglm.cn,PROXY
 DOMAIN-SUFFIX,zhipuai.cn,PROXY
 

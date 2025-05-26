@@ -1,3 +1,7 @@
+#include:openspeedtest
+DOMAIN-SUFFIX,open.cachefly.net,PROXY
+DOMAIN-SUFFIX,openspeedtest.com,PROXY
+#end include:openspeedtest
 
 DOMAIN-SUFFIX,cnspeedtest.cn,PROXY
 DOMAIN-SUFFIX,fast.com,PROXY

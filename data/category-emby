@@ -164,7 +164,7 @@ DOMAIN-SUFFIX,loseremby.org,PROXY
 DOMAIN,cc.ccemby.tk,PROXY
 
 # Nebula
-DOMAIN,direct.nebula-emby.com,PROXY
+DOMAIN-SUFFIX,nebula-emby.com,PROXY
 
 # 狂热云
 DOMAIN-SUFFIX,feverss.cloud,PROXY
@@ -179,3 +179,6 @@ DOMAIN-SUFFIX,media-1.co.uk,PROXY
 DOMAIN-SUFFIX,sptv.ii00.cc,PROXY
 DOMAIN-SUFFIX,sgtv.ii00.cc,PROXY
 DOMAIN-SUFFIX,cn-music.mefun.vip,PROXY
+
+# 红杏云
+DOMAIN-SUFFIX,hongxingyunmovie.vip,PROXY

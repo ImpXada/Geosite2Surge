@@ -21,4 +21,12 @@ DOMAIN-SUFFIX,aistudio.google.com,PROXY
 DOMAIN-SUFFIX,bard.google.com,PROXY
 DOMAIN-SUFFIX,gemini.google,PROXY
 DOMAIN-SUFFIX,gemini.google.com,PROXY
+
+# NotebookLM
+DOMAIN-SUFFIX,notebooklm.google,PROXY
+DOMAIN-SUFFIX,notebooklm.google.com,PROXY
+
+# Jules
+DOMAIN-SUFFIX,jules.google,PROXY
+DOMAIN-SUFFIX,jules.google.com,PROXY
 #end include:google-deepmind

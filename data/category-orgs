@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,4plebs.org,PROXY
 #end include:4plebs
 
 DOMAIN-SUFFIX,archive-it.org,PROXY
+DOMAIN-SUFFIX,archive.md,PROXY
 DOMAIN-SUFFIX,archive.org,PROXY
 DOMAIN-SUFFIX,archive.ph,PROXY
 DOMAIN-SUFFIX,archive.today,PROXY

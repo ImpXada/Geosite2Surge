@@ -531,8 +531,10 @@ DOMAIN-SUFFIX,vine.co,PROXY
 DOMAIN-SUFFIX,x.com,PROXY
 #end include:twitter
 #include:vk
+DOMAIN-SUFFIX,mradx.net,PROXY
 DOMAIN-SUFFIX,mvk.com,PROXY
 DOMAIN-SUFFIX,userapi.com,PROXY
+DOMAIN-SUFFIX,vk-analytics.ru,PROXY
 DOMAIN-SUFFIX,vk-apps.com,PROXY
 DOMAIN-SUFFIX,vk-apps.ru,PROXY
 DOMAIN-SUFFIX,vk-cdn.me,PROXY

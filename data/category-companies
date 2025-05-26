@@ -1776,7 +1776,16 @@ DOMAIN-SUFFIX,s-bluemix.net,PROXY
 DOMAIN-SUFFIX,s81c.com,PROXY
 #end include:ibm
 #include:ibkr
+DOMAIN-SUFFIX,ibkr.ca,PROXY
+DOMAIN-SUFFIX,ibkr.co.in,PROXY
+DOMAIN-SUFFIX,ibkr.co.uk,PROXY
 DOMAIN-SUFFIX,ibkr.com,PROXY
+DOMAIN-SUFFIX,ibkr.com.au,PROXY
+DOMAIN-SUFFIX,ibkr.com.hk,PROXY
+DOMAIN-SUFFIX,ibkr.com.sg,PROXY
+DOMAIN-SUFFIX,ibkr.eu,PROXY
+DOMAIN-SUFFIX,ibkr.ie,PROXY
+DOMAIN-SUFFIX,ibkrguides.com,PROXY
 DOMAIN-SUFFIX,ibllc.com,PROXY
 DOMAIN-SUFFIX,interactivebrokers.ca,PROXY
 DOMAIN-SUFFIX,interactivebrokers.co.in,PROXY
@@ -2928,7 +2937,10 @@ DOMAIN-SUFFIX,yandex,PROXY
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai,PROXY
 
 DOMAIN-SUFFIX,dzen.ru,PROXY
+DOMAIN-SUFFIX,rostaxi.org,PROXY
 DOMAIN-SUFFIX,ya.ru,PROXY
+DOMAIN-SUFFIX,yandex-bank.net,PROXY
+DOMAIN-SUFFIX,yandex-images.clstorage.net,PROXY
 DOMAIN-SUFFIX,yandex.aero,PROXY
 DOMAIN-SUFFIX,yandex.az,PROXY
 DOMAIN-SUFFIX,yandex.by,PROXY
@@ -2960,7 +2972,10 @@ DOMAIN-SUFFIX,yandex.tj,PROXY
 DOMAIN-SUFFIX,yandex.tm,PROXY
 DOMAIN-SUFFIX,yandex.ua,PROXY
 DOMAIN-SUFFIX,yandex.uz,PROXY
+DOMAIN-SUFFIX,yandexadexchange.net,PROXY
 DOMAIN-SUFFIX,yandexcloud.net,PROXY
+DOMAIN-SUFFIX,yandexcom.net,PROXY
+DOMAIN-SUFFIX,yandexwebcache.org,PROXY
 DOMAIN-SUFFIX,yastatic.net,PROXY
 #end include:yandex
 #include:xai

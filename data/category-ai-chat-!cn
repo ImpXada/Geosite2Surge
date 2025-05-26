@@ -9,9 +9,7 @@ DOMAIN-SUFFIX,claudeusercontent.com,PROXY
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net,PROXY
 #end include:anthropic
-#include:google-gemini
-# This list is for backward compatibility
-
+#include:google-deepmind
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com,PROXY
 DOMAIN-SUFFIX,deepmind.google,PROXY
@@ -33,8 +31,15 @@ DOMAIN-SUFFIX,aistudio.google.com,PROXY
 DOMAIN-SUFFIX,bard.google.com,PROXY
 DOMAIN-SUFFIX,gemini.google,PROXY
 DOMAIN-SUFFIX,gemini.google.com,PROXY
+
+# NotebookLM
+DOMAIN-SUFFIX,notebooklm.google,PROXY
+DOMAIN-SUFFIX,notebooklm.google.com,PROXY
+
+# Jules
+DOMAIN-SUFFIX,jules.google,PROXY
+DOMAIN-SUFFIX,jules.google.com,PROXY
 #end include:google-deepmind
-#end include:google-gemini
 #include:groq
 DOMAIN-SUFFIX,groq.com,PROXY
 #end include:groq
@@ -97,10 +102,6 @@ DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io,PROXY
 # Jasper
 DOMAIN-SUFFIX,clipdrop.co,PROXY
 DOMAIN-SUFFIX,jasper.ai,PROXY
-
-# NotebookLM
-DOMAIN-SUFFIX,notebooklm.google,PROXY
-DOMAIN-SUFFIX,notebooklm.google.com,PROXY
 
 DOMAIN-SUFFIX,chutes.ai,PROXY
 DOMAIN-SUFFIX,dify.ai,PROXY

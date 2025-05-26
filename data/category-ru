@@ -179,8 +179,10 @@ DOMAIN-SUFFIX,ozone.ru,PROXY
 DOMAIN-SUFFIX,ozonusercontent.com,PROXY
 #end include:ozon
 #include:vk
+DOMAIN-SUFFIX,mradx.net,PROXY
 DOMAIN-SUFFIX,mvk.com,PROXY
 DOMAIN-SUFFIX,userapi.com,PROXY
+DOMAIN-SUFFIX,vk-analytics.ru,PROXY
 DOMAIN-SUFFIX,vk-apps.com,PROXY
 DOMAIN-SUFFIX,vk-apps.ru,PROXY
 DOMAIN-SUFFIX,vk-cdn.me,PROXY
@@ -220,7 +222,10 @@ DOMAIN-SUFFIX,yandex,PROXY
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai,PROXY
 
 DOMAIN-SUFFIX,dzen.ru,PROXY
+DOMAIN-SUFFIX,rostaxi.org,PROXY
 DOMAIN-SUFFIX,ya.ru,PROXY
+DOMAIN-SUFFIX,yandex-bank.net,PROXY
+DOMAIN-SUFFIX,yandex-images.clstorage.net,PROXY
 DOMAIN-SUFFIX,yandex.aero,PROXY
 DOMAIN-SUFFIX,yandex.az,PROXY
 DOMAIN-SUFFIX,yandex.by,PROXY
@@ -252,6 +257,9 @@ DOMAIN-SUFFIX,yandex.tj,PROXY
 DOMAIN-SUFFIX,yandex.tm,PROXY
 DOMAIN-SUFFIX,yandex.ua,PROXY
 DOMAIN-SUFFIX,yandex.uz,PROXY
+DOMAIN-SUFFIX,yandexadexchange.net,PROXY
 DOMAIN-SUFFIX,yandexcloud.net,PROXY
+DOMAIN-SUFFIX,yandexcom.net,PROXY
+DOMAIN-SUFFIX,yandexwebcache.org,PROXY
 DOMAIN-SUFFIX,yastatic.net,PROXY
 #end include:yandex
