@@ -397,6 +397,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | deribit | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/deribit |
 | dettol | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/dettol |
 | deviantart | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/deviantart |
+| dewu | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/dewu |
 | dgtle | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/dgtle |
 | dida365 | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/dida365 |
 | didi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/didi |

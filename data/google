@@ -2,6 +2,8 @@
 #include:android
 DOMAIN-SUFFIX,android.com,PROXY
 DOMAIN-SUFFIX,androidify.com,PROXY
+
+DOMAIN,android.googlesource.com,PROXY
 #end include:android
 #include:blogspot
 # Main domain which weblogs are registered in

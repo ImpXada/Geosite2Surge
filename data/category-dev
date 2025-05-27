@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,conda.io,PROXY
 #include:android
 DOMAIN-SUFFIX,android.com,PROXY
 DOMAIN-SUFFIX,androidify.com,PROXY
+
+DOMAIN,android.googlesource.com,PROXY
 #end include:android
 #include:archlinux
 DOMAIN-SUFFIX,archlinux.org,PROXY

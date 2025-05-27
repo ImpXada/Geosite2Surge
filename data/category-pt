@@ -1,64 +1,72 @@
-#TODO: add annotations
+## TODO: add annotations
+DOMAIN-SUFFIX,52pt.site,PROXY
 DOMAIN-SUFFIX,audiences.me,PROXY
+DOMAIN-SUFFIX,carpt.net,PROXY
+DOMAIN-SUFFIX,ccfbits.org,PROXY
+DOMAIN-SUFFIX,dicmusic.com,PROXY
+DOMAIN-SUFFIX,eastgame.org,PROXY
+DOMAIN-SUFFIX,et8.org,PROXY
+DOMAIN-SUFFIX,greatposterwall.com,PROXY
+DOMAIN-SUFFIX,haidan.video,PROXY
+DOMAIN-SUFFIX,hdarea.club,PROXY
+DOMAIN-SUFFIX,hdatmos.club,PROXY
+DOMAIN-SUFFIX,hdcity.city,PROXY
+DOMAIN-SUFFIX,hddolby.com,PROXY
+DOMAIN-SUFFIX,hdfans.org,PROXY
+DOMAIN-SUFFIX,hdmayi.com,PROXY
+DOMAIN-SUFFIX,hdpt.xyz,PROXY
+DOMAIN-SUFFIX,hdtime.org,PROXY
+DOMAIN-SUFFIX,hdvideo.one,PROXY
+DOMAIN-SUFFIX,hhan.club,PROXY
+DOMAIN-SUFFIX,hhanclub.top,PROXY
+DOMAIN-SUFFIX,ianon.app,PROXY
+DOMAIN-SUFFIX,kufei.com,PROXY
+DOMAIN-SUFFIX,kufei.org,PROXY
+DOMAIN-SUFFIX,leaves.red,PROXY
+DOMAIN-SUFFIX,nicept.net,PROXY
+DOMAIN-SUFFIX,open.cd,PROXY
+DOMAIN-SUFFIX,piggo.me,PROXY
+DOMAIN-SUFFIX,pt.0ff.cc,PROXY
+DOMAIN-SUFFIX,pt.btschool.club,PROXY
+DOMAIN-SUFFIX,pt.eastgame.org,PROXY
+DOMAIN-SUFFIX,pt.hd4fans.org,PROXY
+DOMAIN-SUFFIX,pt.soulvoice.club,PROXY
+DOMAIN-SUFFIX,ptchina.org,PROXY
+DOMAIN-SUFFIX,pthome.net,PROXY
+DOMAIN-SUFFIX,ptsbao.club,PROXY
+DOMAIN-SUFFIX,pttime.org,PROXY
+DOMAIN-SUFFIX,pttime.top,PROXY
+DOMAIN-SUFFIX,rousi.zip,PROXY
+DOMAIN-SUFFIX,share.ilolicon.com,PROXY
+DOMAIN-SUFFIX,sharkpt.net,PROXY
+DOMAIN-SUFFIX,zhuque.in,PROXY
+
+
+# Non-Chinese trackers
+DOMAIN-SUFFIX,myanonamouse.net,PROXY
+DOMAIN-SUFFIX,nebulance.io,PROXY
+DOMAIN-SUFFIX,torrentleech.org,PROXY
+## TODO: add annotations
 DOMAIN-SUFFIX,avistaz.to,PROXY
 DOMAIN-SUFFIX,beyond-hd.me,PROXY
 DOMAIN-SUFFIX,bibliotik.me,PROXY
 DOMAIN-SUFFIX,blutopia.cc,PROXY
 DOMAIN-SUFFIX,broadcasthe.net,PROXY
-DOMAIN-SUFFIX,ccfbits.org,PROXY
 DOMAIN-SUFFIX,cinemaz.to,PROXY
-DOMAIN-SUFFIX,dicmusic.com,PROXY
-DOMAIN-SUFFIX,eastgame.org,PROXY
-DOMAIN-SUFFIX,et8.org,PROXY
 DOMAIN-SUFFIX,exoticaz.to,PROXY
 DOMAIN-SUFFIX,filelist.io,PROXY
-DOMAIN-SUFFIX,greatposterwall.com,PROXY
 DOMAIN-SUFFIX,hdbits.org,PROXY
-DOMAIN-SUFFIX,hdcity.city,PROXY
-DOMAIN-SUFFIX,hdfans.org,PROXY
-DOMAIN-SUFFIX,hdtime.org,PROXY
-DOMAIN-SUFFIX,hhanclub.top,PROXY
-DOMAIN-SUFFIX,hddolby.com,PROXY
-DOMAIN-SUFFIX,hdpt.xyz,PROXY
 DOMAIN-SUFFIX,iptorrents.com,PROXY
 DOMAIN-SUFFIX,jpopsuki.eu,PROXY
 DOMAIN-SUFFIX,jptv.club,PROXY
-DOMAIN-SUFFIX,pttime.org,PROXY
-DOMAIN-SUFFIX,pttime.top,PROXY
-DOMAIN-SUFFIX,ianon.app,PROXY
-DOMAIN-SUFFIX,hdatmos.club,PROXY
-DOMAIN-SUFFIX,ptchina.org,PROXY
-DOMAIN-SUFFIX,piggo.me,PROXY
-DOMAIN-SUFFIX,leaves.red,PROXY
-DOMAIN-SUFFIX,nicept.net,PROXY
-DOMAIN-SUFFIX,hdmayi.com,PROXY
-DOMAIN-SUFFIX,carpt.net,PROXY
-DOMAIN-SUFFIX,hdvideo.one,PROXY
-DOMAIN-SUFFIX,pt.0ff.cc,PROXY
-
 DOMAIN-SUFFIX,morethantv.me,PROXY
-DOMAIN-SUFFIX,open.cd,PROXY
 DOMAIN-SUFFIX,passthepopcorn.me,PROXY
 DOMAIN-SUFFIX,privatehd.to,PROXY
-DOMAIN-SUFFIX,pt.btschool.club,PROXY
-DOMAIN-SUFFIX,pt.eastgame.org,PROXY
-DOMAIN-SUFFIX,pt.hd4fans.org,PROXY
-DOMAIN-SUFFIX,pt.soulvoice.club,PROXY
-DOMAIN-SUFFIX,pt.xauat.edu.cn,PROXY
-DOMAIN-SUFFIX,pthome.net,PROXY
-DOMAIN-SUFFIX,ptsbao.club,PROXY
-DOMAIN-SUFFIX,share.ilolicon.com,PROXY
-DOMAIN-SUFFIX,sharkpt.net,PROXY
 DOMAIN-SUFFIX,uhdbits.org,PROXY
-DOMAIN-SUFFIX,zhuque.in,PROXY
-DOMAIN-SUFFIX,kufei.org,PROXY
-DOMAIN-SUFFIX,kufei.com,PROXY
-DOMAIN-SUFFIX,rousi.zip,PROXY
-DOMAIN-SUFFIX,haidan.video,PROXY
-DOMAIN-SUFFIX,hhan.club,PROXY
-DOMAIN-SUFFIX,hdarea.club,PROXY
-DOMAIN-SUFFIX,52pt.site,PROXY
 
+
+# To Chinese Users:
+#    The following domains are not supposed to be proxied
 
 # 天雪论坛
 DOMAIN-SUFFIX,skyey2.com,PROXY
@@ -68,16 +76,9 @@ DOMAIN-SUFFIX,skyeysnow.com,PROXY
 DOMAIN-SUFFIX,m-team.cc,PROXY
 DOMAIN-SUFFIX,m-team.io,PROXY
 
-DOMAIN-SUFFIX,myanonamouse.net,PROXY
-DOMAIN-SUFFIX,torrentleech.org,PROXY
-DOMAIN-SUFFIX,nebulance.io,PROXY
-
 # U2
-DOMAIN-SUFFIX,dmhy.org,PROXY
 DOMAIN-SUFFIX,dmhy.best,PROXY
-
-# To the Chinese Users:
-#    The following domains are supposed not to go through the proxy
+DOMAIN-SUFFIX,dmhy.org,PROXY
 
 # 北邮人
 DOMAIN-SUFFIX,bt.byr.cn,PROXY
@@ -90,8 +91,8 @@ DOMAIN-SUFFIX,tjupt.org,PROXY
 # CHD
 DOMAIN-SUFFIX,chdbits.co,PROXY
 DOMAIN-SUFFIX,chdbits.xyz,PROXY
-DOMAIN-SUFFIX,ptchdbits.co,PROXY
 DOMAIN-SUFFIX,chddiy.xyz,PROXY
+DOMAIN-SUFFIX,ptchdbits.co,PROXY
 DOMAIN-SUFFIX,rainbowisland.co,PROXY
 
 # HDKylin
@@ -138,8 +139,10 @@ DOMAIN-SUFFIX,lemonhd.org,PROXY
 
 DOMAIN-SUFFIX,bitpt.cn,PROXY
 DOMAIN-SUFFIX,hdchina.org,PROXY
+DOMAIN-SUFFIX,hdcmct.org,PROXY
 DOMAIN-SUFFIX,hdhome.org,PROXY
 DOMAIN-SUFFIX,hdsky.me,PROXY
+DOMAIN-SUFFIX,hitpt.com,PROXY
 DOMAIN-SUFFIX,hudbt.hust.edu.cn,PROXY
 DOMAIN-SUFFIX,keepfrds.com,PROXY
 DOMAIN-SUFFIX,nanyangpt.com,PROXY
@@ -148,6 +151,7 @@ DOMAIN-SUFFIX,npupt.com,PROXY
 DOMAIN-SUFFIX,ourbits.club,PROXY
 DOMAIN-SUFFIX,pt.nwsuaf6.edu.cn,PROXY
 DOMAIN-SUFFIX,pt.sjtu.edu.cn,PROXY
+DOMAIN-SUFFIX,pt.xauat.edu.cn,PROXY
 DOMAIN-SUFFIX,pterclub.com,PROXY
 DOMAIN-SUFFIX,springsunday.net,PROXY
 DOMAIN-SUFFIX,totheglory.im,PROXY

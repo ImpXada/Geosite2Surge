@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,android.com,PROXY
 DOMAIN-SUFFIX,androidify.com,PROXY
+
+DOMAIN,android.googlesource.com,PROXY
