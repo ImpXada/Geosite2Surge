@@ -2826,6 +2826,7 @@ DOMAIN-SUFFIX,synology.me,PROXY
 #end include:synology
 #include:symantec
 DOMAIN-SUFFIX,symantec.com,PROXY
+DOMAIN-SUFFIX,symantecliveupdate.com,PROXY
 #end include:symantec
 #include:tailscale
 DOMAIN-SUFFIX,tailscale.com,PROXY
