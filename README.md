@@ -870,6 +870,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | myradio | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/myradio |
 | mytvsuper | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mytvsuper |
 | mzed | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mzed |
+| n26 | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/n26 |
 | n3ro | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/n3ro |
 | narwal | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/narwal |
 | nat-test | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nat-test |
