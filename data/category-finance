@@ -152,6 +152,10 @@ DOMAIN-SUFFIX,yomabank.com,PROXY
 DOMAIN-SUFFIX,ysx-mm.com,PROXY
 #end include:category-bank-mm
 
+DOMAIN-SUFFIX,fibank.bg,PROXY
+DOMAIN-SUFFIX,meawallet.app,PROXY
+DOMAIN-SUFFIX,myfin.bg,PROXY
+#end include:fibank
 # TLD
 DOMAIN-SUFFIX,hsbc,PROXY
 

@@ -493,6 +493,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | feishu | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/feishu |
 | fengxing | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/fengxing |
 | fflogs | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/fflogs |
+| fibank | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/fibank |
 | figma | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/figma |
 | filimo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/filimo |
 | finish | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/finish |
