@@ -1735,7 +1735,7 @@ DOMAIN,s4.mzstatic.com,PROXY
 DOMAIN,s5.mzstatic.com,PROXY
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: e54aa75ca9c6567ac5b67093e5471eb1c8041e86
+# Revision: 4d392cc0a822ac5626bb97fef3fe5e04e86b28b0
 # Use in config file like this: "geosite:apple@cn"
 DOMAIN,a1.mzstatic.com,PROXY
 DOMAIN,a2.mzstatic.com,PROXY
@@ -1744,16 +1744,15 @@ DOMAIN,a4.mzstatic.com,PROXY
 DOMAIN,a5.mzstatic.com,PROXY
 DOMAIN,adcdownload.apple.com,PROXY
 DOMAIN,adcdownload.apple.com.akadns.net,PROXY
+DOMAIN,amp-api-updates.apps.apple.com,PROXY
 DOMAIN,amp-api.media.apple.com,PROXY
-DOMAIN,api-p-ap-c.smoot.apple.com,PROXY
-DOMAIN,api-p-ap-d.smoot.apple.com,PROXY
-DOMAIN,api-p-ap-e.smoot.apple.com,PROXY
 DOMAIN,app-site-association.cdn-apple.com,PROXY
 DOMAIN,appldnld.apple.com,PROXY
 DOMAIN,appldnld.g.aaplimg.com,PROXY
 DOMAIN,appleid.cdn-apple.com,PROXY
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 DOMAIN,apps.mzstatic.com,PROXY
+DOMAIN,bag-cdn.itunes-apple.com.akadns.net,PROXY
 DOMAIN,cdn-cn1.apple-mapkit.com,PROXY
 DOMAIN,cdn-cn2.apple-mapkit.com,PROXY
 DOMAIN,cdn-cn3.apple-mapkit.com,PROXY
@@ -1767,6 +1766,7 @@ DOMAIN,cds-cdn.v.aaplimg.com,PROXY
 DOMAIN,cds.apple.com,PROXY
 DOMAIN,cds.apple.com.akadns.net,PROXY
 DOMAIN,cdsassets.apple.com,PROXY
+DOMAIN,certs.apple.com,PROXY
 DOMAIN,cl1-cdn.origin-apple.com.akadns.net,PROXY
 DOMAIN,cl1.apple.com,PROXY
 DOMAIN,cl2-cn.apple.com,PROXY
@@ -1783,10 +1783,13 @@ DOMAIN,clientflow.apple.com.akadns.net,PROXY
 DOMAIN,cn-smp-paymentservices.apple.com,PROXY
 DOMAIN,configuration.apple.com,PROXY
 DOMAIN,configuration.apple.com.akadns.net,PROXY
+DOMAIN,crl.apple.com,PROXY
 DOMAIN,cstat.apple.com,PROXY
 DOMAIN,cstat.cdn-apple.com,PROXY
 DOMAIN,dd-cdn.origin-apple.com.akadns.net,PROXY
 DOMAIN,dejavu.apple.com,PROXY
+DOMAIN,devimages-cdn.apple.com,PROXY
+DOMAIN,devstreaming-cdn.apple.com,PROXY
 DOMAIN,download.developer.apple.com,PROXY
 DOMAIN,experiments.apple.com,PROXY
 DOMAIN,gs-loc-cn.apple.com,PROXY
@@ -1795,16 +1798,15 @@ DOMAIN,gsp10-ssl-cn.ls.apple.com,PROXY
 DOMAIN,gsp12-cn.ls.apple.com,PROXY
 DOMAIN,gsp13-cn.ls.apple.com,PROXY
 DOMAIN,gsp4-cn.ls.apple.com,PROXY
-DOMAIN,gsp4-cn.ls.apple.com.edgekey.net,PROXY
 DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net,PROXY
 DOMAIN,gsp5-cn.ls.apple.com,PROXY
 DOMAIN,gsp85-cn-ssl.ls.apple.com,PROXY
+DOMAIN,gspe19-2-cn-ssl.ls-apple.com.akadns.net,PROXY
 DOMAIN,gspe19-2-cn-ssl.ls.apple.com,PROXY
 DOMAIN,gspe19-cn-ssl.ls.apple.com,PROXY
 DOMAIN,gspe19-cn.ls-apple.com.akadns.net,PROXY
 DOMAIN,gspe19-cn.ls.apple.com,PROXY
 DOMAIN,gspe21-ssl.ls.apple.com,PROXY
-DOMAIN,gspe21.ls.apple.com,PROXY
 DOMAIN,gspe35-ssl.ls.apple.com,PROXY
 DOMAIN,gspe79-cn-ssl.ls.apple.com,PROXY
 DOMAIN,guzzoni-apple-com.v.aaplimg.com,PROXY
@@ -1813,8 +1815,6 @@ DOMAIN,guzzoni.smoot.apple.com,PROXY
 # full:iadsdk.apple.com has already been defined in apple-ads
 DOMAIN,icloud-cdn.icloud.com.akadns.net,PROXY
 DOMAIN,icloud.cdn-apple.com,PROXY
-DOMAIN,images.apple.com,PROXY
-DOMAIN,images.apple.com.akadns.net,PROXY
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net,PROXY
 DOMAIN,init-kt.apple.com,PROXY
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net,PROXY
@@ -1828,6 +1828,7 @@ DOMAIN,iosapps.itunes.g.aaplimg.com,PROXY
 DOMAIN,ipcdn.apple.com,PROXY
 DOMAIN,iphone-ld.apple.com,PROXY
 DOMAIN,iphone-ld.origin-apple.com.akadns.net,PROXY
+DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net,PROXY
 DOMAIN,is1-ssl.mzstatic.com,PROXY
 DOMAIN,is1.mzstatic.com,PROXY
 DOMAIN,is2-ssl.mzstatic.com,PROXY
@@ -1893,6 +1894,7 @@ DOMAIN,tj-pod1-smp-device.apple.com,PROXY
 DOMAIN,updates-http.cdn-apple.com,PROXY
 DOMAIN,updates-http.cdn-apple.com.akadns.net,PROXY
 DOMAIN,updates.cdn-apple.com,PROXY
+DOMAIN,valid.apple.com,PROXY
 DOMAIN,valid.origin-apple.com.akadns.net,PROXY
 DOMAIN,weather-data.apple.com,PROXY
 DOMAIN,weather-data.apple.com.akadns.net,PROXY
@@ -1900,6 +1902,5 @@ DOMAIN,weather-map.apple.com,PROXY
 DOMAIN,weather-map2.apple.com,PROXY
 DOMAIN,weatherkit.apple.com,PROXY
 DOMAIN,www.apple.com,PROXY
-DOMAIN,www.apple.com.edgekey.net,PROXY
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net,PROXY
 DOMAIN,xp.apple.com,PROXY

@@ -1,0 +1,6 @@
+DOMAIN-SUFFIX,forza.net,PROXY
+DOMAIN-SUFFIX,forzamotorsport.net,PROXY
+DOMAIN-SUFFIX,forzaracingchampionship.com,PROXY
+DOMAIN-SUFFIX,forzarc.com,PROXY
+
+DOMAIN,prodforza.blob.core.windows.net,PROXY
