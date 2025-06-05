@@ -991,6 +991,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | pocketcasts | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pocketcasts |
 | pocoiq-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pocoiq-ads |
 | poe | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/poe |
+| polocloud | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/polocloud |
 | polymer | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/polymer |
 | polyv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/polyv |
 | pornhub | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pornhub |
