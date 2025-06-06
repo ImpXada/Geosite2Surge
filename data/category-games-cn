@@ -1,4 +1,3 @@
-#include:category-games-cn
 #include:4399
 DOMAIN-SUFFIX,3304399.com,PROXY
 DOMAIN-SUFFIX,3304399.net,PROXY
@@ -254,4 +253,3 @@ DOMAIN-SUFFIX,tgpro.top,PROXY
 DOMAIN-SUFFIX,tgprocs.net,PROXY
 # 畅玩空间 冀ICP备20019223号
 DOMAIN-SUFFIX,wo1wan.com,PROXY
-#end include:category-games-cn

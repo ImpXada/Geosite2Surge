@@ -1,137 +1,12 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
-#include:abema
-DOMAIN-SUFFIX,abema.io,PROXY
-DOMAIN-SUFFIX,abema.tv,PROXY
-DOMAIN-SUFFIX,abema-tv.com,PROXY
-DOMAIN-SUFFIX,abematv.co.jp,PROXY
-DOMAIN-SUFFIX,adx.promo,PROXY
-DOMAIN-SUFFIX,ameba.jp,PROXY
-DOMAIN-SUFFIX,amebame.com,PROXY
-DOMAIN-SUFFIX,amebaownd.com,PROXY
-DOMAIN-SUFFIX,amebaowndme.com,PROXY
-DOMAIN-SUFFIX,ameblo.jp,PROXY
-DOMAIN-SUFFIX,bucketeer.jp,PROXY
-DOMAIN-SUFFIX,dokusho-ojikan.jp,PROXY
-DOMAIN-SUFFIX,hayabusa.dev,PROXY
-DOMAIN-SUFFIX,hayabusa.io,PROXY
-DOMAIN-SUFFIX,hayabusa.media,PROXY
-DOMAIN-SUFFIX,winticket.jp,PROXY
-
-# Abema TV CDN FQDN
-DOMAIN,abematv.akamaized.net,PROXY
-DOMAIN,ds-linear-abematv.akamaized.net,PROXY
-DOMAIN,ds-vod-abematv.akamaized.net,PROXY
-DOMAIN,linear-abematv.akamaized.net,PROXY
-DOMAIN,vod-abematv.akamaized.net,PROXY
-#end include:abema
-#include:amc
-DOMAIN-SUFFIX,amc.com,PROXY
-DOMAIN-SUFFIX,amcn.com,PROXY
-DOMAIN-SUFFIX,amcnetworks.com,PROXY
-DOMAIN-SUFFIX,amcplus.com,PROXY
-DOMAIN-SUFFIX,e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com,PROXY
-#end include:amc
-#include:anime
-# 9amine
-DOMAIN-SUFFIX,9anime.cz,PROXY
-DOMAIN-SUFFIX,9anime.id,PROXY
-DOMAIN-SUFFIX,9anime.to,PROXY
-DOMAIN-SUFFIX,9anime.ws,PROXY
-
-# agefans: https://github.com/agefanscom/website
-DOMAIN-SUFFIX,age.tv,PROXY
-DOMAIN-SUFFIX,agedm.org,PROXY
-DOMAIN-SUFFIX,agedm.tv,PROXY
-DOMAIN-SUFFIX,agefans.com,PROXY
-DOMAIN-SUFFIX,agemys.org,PROXY
-DOMAIN-SUFFIX,agedm.app,PROXY    #app
-
-# animedao
-DOMAIN-SUFFIX,animedao-tv.com,PROXY
-
-# Crunchyroll
-DOMAIN-SUFFIX,crunchyroll.com,PROXY
-DOMAIN-SUFFIX,funimation.com,PROXY    #funimation
-DOMAIN-SUFFIX,vrv.co,PROXY    #vrv
-
-# Gogoanime
-DOMAIN-SUFFIX,gogoanime.vc,PROXY
-DOMAIN-SUFFIX,gogoanime.wiki,PROXY
-DOMAIN-SUFFIX,gogoanime3.co,PROXY
-DOMAIN-SUFFIX,gogotaku.info,PROXY
-DOMAIN-SUFFIX,gogo-load.com,PROXY
-DOMAIN-SUFFIX,gogocdn.net,PROXY    #image hosting site
-
-# hidive
-DOMAIN-SUFFIX,hidive.com,PROXY
-#end include:anime
-#include:apple-tvplus
-# Apple TV+
-DOMAIN,apple-tv-plus-press.apple.com,PROXY
-DOMAIN,hls-amt.itunes.apple.com,PROXY
-DOMAIN,hls.itunes.apple.com,PROXY
-DOMAIN,np-edge.itunes.apple.com,PROXY
-DOMAIN,play-edge.itunes.apple.com,PROXY
-DOMAIN,tv.applemusic.com,PROXY
-DOMAIN,uts-api.itunes.apple.com,PROXY
-
-DOMAIN-SUFFIX,tv.apple.com,PROXY
-#end include:apple-tvplus
-#include:archiveofourown
-DOMAIN-SUFFIX,ao3.org,PROXY
-DOMAIN-SUFFIX,archiveofourown.org,PROXY
-DOMAIN-SUFFIX,archiveofourown.com,PROXY
-DOMAIN-SUFFIX,archiveofourown.net,PROXY
-#end include:archiveofourown
-#include:attwatchtv
-DOMAIN-SUFFIX,att.tv,PROXY
-DOMAIN-SUFFIX,atttvnow.com,PROXY
-DOMAIN-SUFFIX,attwatchtv.com,PROXY
-DOMAIN-SUFFIX,directv.com,PROXY
-DOMAIN-SUFFIX,dtvce.com,PROXY
-DOMAIN-SUFFIX,nettyinternet.com,PROXY
-#end include:attwatchtv
-#include:bahamut
-DOMAIN-SUFFIX,bahamut.akamaized.net,PROXY
-DOMAIN-SUFFIX,bahamut.com.tw,PROXY
-DOMAIN-SUFFIX,gamer.com.tw,PROXY
-
-DOMAIN,gamer2-cds.cdn.hinet.net,PROXY
-DOMAIN,gamer-cds.cdn.hinet.net,PROXY
-#end include:bahamut
-#include:bandcamp
-DOMAIN-SUFFIX,bandcamp.com,PROXY
-DOMAIN-SUFFIX,bcbits.com,PROXY
-#end include:bandcamp
-#include:bangumi
-DOMAIN-SUFFIX,bangumi.tv,PROXY
-DOMAIN-SUFFIX,bgm.tv,PROXY
-DOMAIN-SUFFIX,chii.in,PROXY
-#end include:bangumi
-#include:boomerang
-DOMAIN-SUFFIX,boomerang.com,PROXY
-DOMAIN-SUFFIX,wbdnbo.net,PROXY
-#end include:boomerang
-#include:catchplay
-DOMAIN-SUFFIX,catchplay.com,PROXY
-DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net,PROXY
-#end include:catchplay
-#include:category-games
+#include:category-games-!cn
 #include:2kgames
 DOMAIN-SUFFIX,2k.com,PROXY
 DOMAIN-SUFFIX,2kcoretech.online,PROXY
 DOMAIN-SUFFIX,2kgames.com,PROXY
 DOMAIN-SUFFIX,take2games.com,PROXY
 #end include:2kgames
-#include:bilibili-game
-DOMAIN-SUFFIX,bilibiligame.cn,PROXY
-DOMAIN-SUFFIX,bilibiligame.co,PROXY
-DOMAIN-SUFFIX,bilibiligame.net,PROXY
-DOMAIN-SUFFIX,biligame.co,PROXY
-DOMAIN-SUFFIX,biligame.com,PROXY
-DOMAIN-SUFFIX,biligame.net,PROXY
-#end include:bilibili-game
 #include:blizzard
 DOMAIN-SUFFIX,blizzard.com,PROXY
 DOMAIN-SUFFIX,blizzardgearstore.com,PROXY
@@ -179,10 +54,6 @@ DOMAIN-SUFFIX,bluearchive.jp,PROXY
 DOMAIN-SUFFIX,bluearchive.nexon.com,PROXY
 DOMAIN-SUFFIX,bluearchive-cn.com,PROXY
 #end include:bluearchive
-#include:bluepoch-games
-# From reverse 1999
-DOMAIN-SUFFIX,sl916.com,PROXY
-#end include:bluepoch-games
 #include:curseforge
 DOMAIN-SUFFIX,curseforge.com,PROXY
 DOMAIN-SUFFIX,forgecdn.net,PROXY
@@ -500,24 +371,7 @@ DOMAIN-WILDCARD,images*.gog-statics.com,PROXY
 DOMAIN,gog-cdn-fastly.gog.com,PROXY
 DOMAIN,gog-cdn.akamaized.net,PROXY
 #end include:gog
-#include:illusion
-DOMAIN-SUFFIX,illusion.co.jp,PROXY
-DOMAIN-SUFFIX,illusion.jp,PROXY
-#end include:illusion
-#include:itchio
-DOMAIN-SUFFIX,itch.io,PROXY
-DOMAIN-SUFFIX,itch.zone,PROXY
-#end include:itchio
-#include:kurogames
-DOMAIN-SUFFIX,kurogames.com,PROXY
-
-# Wuthering Waves
-DOMAIN-SUFFIX,aki-game.com,PROXY
-#end include:kurogames
-#include:lowiro
-DOMAIN-SUFFIX,lowiro.com,PROXY
-#end include:lowiro
-#include:mihoyo
+#include:hoyoverse
 # 原神
 DOMAIN-SUFFIX,genshinimpact.com,PROXY
 
@@ -542,39 +396,17 @@ DOMAIN-SUFFIX,n0vadesktop.com,PROXY
 # 絕區零(Zenless Zone Zero)
 DOMAIN-SUFFIX,zenlesszonezero.com,PROXY
 #end include:hoyoverse
-# 米哈游
-DOMAIN-SUFFIX,mhystatic.com,PROXY
-DOMAIN-SUFFIX,mhyurl.cn,PROXY
-DOMAIN-SUFFIX,mihayo.com,PROXY
-DOMAIN-SUFFIX,mihayou.com,PROXY
-DOMAIN-SUFFIX,mihoyo.com,PROXY
-DOMAIN-SUFFIX,mihoyocg.com,PROXY
-DOMAIN-SUFFIX,mihoyogift.com,PROXY
-DOMAIN-SUFFIX,mihoyomall.com,PROXY
-DOMAIN-SUFFIX,miyoushe.com,PROXY
-
-# 崩坏2
-DOMAIN-SUFFIX,benghuai.com,PROXY
-
-# 崩坏3
-DOMAIN-SUFFIX,bh3.com,PROXY
-
-# 星穹铁道
-DOMAIN-SUFFIX,bhsr.com,PROXY
-
-# 未定事件簿
-DOMAIN-SUFFIX,themisweeps.com,PROXY
-
-# 原神
-DOMAIN-SUFFIX,yuanshen.com,PROXY
-
-#绝区零
-DOMAIN-SUFFIX,juequling.com,PROXY
-
-# Akamai
-DOMAIN-WILDCARD,*-mihayo.akamaized.net,PROXY
-#end include:mihoyo-cn
-#end include:mihoyo
+#include:illusion
+DOMAIN-SUFFIX,illusion.co.jp,PROXY
+DOMAIN-SUFFIX,illusion.jp,PROXY
+#end include:illusion
+#include:itchio
+DOMAIN-SUFFIX,itch.io,PROXY
+DOMAIN-SUFFIX,itch.zone,PROXY
+#end include:itchio
+#include:lowiro
+DOMAIN-SUFFIX,lowiro.com,PROXY
+#end include:lowiro
 #include:nexon
 DOMAIN-SUFFIX,nexon.co.jp,PROXY
 DOMAIN-SUFFIX,nexon.com,PROXY
@@ -972,115 +804,6 @@ DOMAIN-SUFFIX,supercellgames.com,PROXY
 DOMAIN-SUFFIX,supercellid.com,PROXY
 DOMAIN-SUFFIX,supercellstore.com,PROXY
 #end include:supercell
-#include:tencent-games
-DOMAIN-SUFFIX,battlecare.net,PROXY
-DOMAIN-SUFFIX,gameitop.com,PROXY
-DOMAIN-SUFFIX,gameloop.com,PROXY
-DOMAIN-SUFFIX,gcloudcs.com,PROXY
-DOMAIN-SUFFIX,gcloudcstest.com,PROXY
-DOMAIN-SUFFIX,gcloudcstestonly.com,PROXY
-DOMAIN-SUFFIX,gclouddolphin.com,PROXY
-DOMAIN-SUFFIX,gcloudsdk.com,PROXY
-DOMAIN-SUFFIX,gdtimg.com,PROXY
-DOMAIN-SUFFIX,goto-game.com,PROXY
-DOMAIN-SUFFIX,goto-game.mobi,PROXY
-DOMAIN-SUFFIX,goto-game.net.cn,PROXY
-DOMAIN-SUFFIX,goto-game.org,PROXY
-DOMAIN-SUFFIX,happyhlddz.com,PROXY
-DOMAIN-SUFFIX,hdyxgame.com,PROXY
-DOMAIN-SUFFIX,hkgcloudcs.com,PROXY
-DOMAIN-SUFFIX,ihappystudio.cn,PROXY
-DOMAIN-SUFFIX,ihappystudio.com,PROXY
-DOMAIN-SUFFIX,in.th,PROXY
-DOMAIN-SUFFIX,ludosuperstar.cn,PROXY
-DOMAIN-SUFFIX,ludoworld.net,PROXY
-DOMAIN-SUFFIX,mahjongai.net,PROXY
-DOMAIN-SUFFIX,mahjongcup.cn,PROXY
-DOMAIN-SUFFIX,mahjongcup.com,PROXY
-DOMAIN-SUFFIX,mahjongcup.net,PROXY
-DOMAIN-SUFFIX,metalrevolution.com,PROXY
-DOMAIN-SUFFIX,midasbuy.com,PROXY
-DOMAIN-SUFFIX,nagcloudcs.com,PROXY
-DOMAIN-SUFFIX,proximabeta.com,PROXY
-DOMAIN-SUFFIX,pubghelper.com,PROXY
-DOMAIN-SUFFIX,pubgno1.cn,PROXY
-DOMAIN-SUFFIX,pubgtool.com,PROXY
-DOMAIN-SUFFIX,qqgameapp.com,PROXY
-DOMAIN-SUFFIX,rmwxgame.com,PROXY
-DOMAIN-SUFFIX,skydweller.cn,PROXY
-DOMAIN-SUFFIX,syxlgame.com,PROXY
-DOMAIN-SUFFIX,tencent-gcloud.com,PROXY
-DOMAIN-SUFFIX,tencentstart.com,PROXY
-DOMAIN-SUFFIX,texasholdemcup.cn,PROXY
-DOMAIN-SUFFIX,texasholdemcup.com,PROXY
-DOMAIN-SUFFIX,texasholdemcup.net,PROXY
-DOMAIN-SUFFIX,timibase.com,PROXY
-DOMAIN-SUFFIX,videoxiaoyouxi.com,PROXY
-DOMAIN-SUFFIX,wcbygame.com,PROXY
-DOMAIN-SUFFIX,yxdmgame.com,PROXY
-DOMAIN-SUFFIX,yximg.cn,PROXY
-DOMAIN-SUFFIX,yxwsgame.com,PROXY
-DOMAIN-SUFFIX,yzyxgame.com,PROXY
-DOMAIN-SUFFIX,zcjbgame.com,PROXY
-DOMAIN-SUFFIX,zhuoyuegame.com,PROXY
-
-DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn,PROXY    #碧蓝幻想.cn
-
-# Roblox
-DOMAIN-SUFFIX,roblox.cn,PROXY
-DOMAIN-SUFFIX,roblox.qq.com,PROXY
-DOMAIN-SUFFIX,robloxdev.cn,PROXY
-
-# NExT Studios
-DOMAIN-SUFFIX,nextstudios.com,PROXY
-DOMAIN-SUFFIX,nextworkshop.net,PROXY
-
-# 迷失之地
-DOMAIN-SUFFIX,mszdld.cn,PROXY
-DOMAIN-SUFFIX,mszdld.com,PROXY
-DOMAIN-SUFFIX,mszdld.net,PROXY
-
-# 篝火营地
-DOMAIN-SUFFIX,gamebonfire.com,PROXY
-DOMAIN-SUFFIX,gouhuo.qq.com,PROXY
-
-# WeGame
-DOMAIN-SUFFIX,ffbuddy.com,PROXY
-DOMAIN-SUFFIX,gotolink.net,PROXY
-DOMAIN-SUFFIX,gtgres.com,PROXY
-DOMAIN-SUFFIX,realcybertron.com,PROXY
-DOMAIN-SUFFIX,wegame.com,PROXY
-DOMAIN-SUFFIX,wegame.com.cn,PROXY
-DOMAIN-SUFFIX,wegameplus.com,PROXY
-DOMAIN-SUFFIX,werepository.com.cn,PROXY
-
-# Supercell
-DOMAIN-SUFFIX,brawlstars.cn,PROXY
-DOMAIN-SUFFIX,haydaypop.cn,PROXY
-DOMAIN-SUFFIX,labycore.cn,PROXY
-DOMAIN-SUFFIX,sccreator.cn,PROXY
-DOMAIN-SUFFIX,sccreators.cn,PROXY
-DOMAIN-SUFFIX,scescdn.cn,PROXY
-DOMAIN-SUFFIX,scid.cn,PROXY
-DOMAIN-SUFFIX,scsentry.cn,PROXY
-DOMAIN-SUFFIX,supercell.com,PROXY
-DOMAIN-SUFFIX,supercellcommunity.cn,PROXY
-DOMAIN-SUFFIX,supercellsupport.cn,PROXY
-
-# 使命召唤
-DOMAIN-SUFFIX,codm.com,PROXY
-
-# 穿越火线
-DOMAIN-SUFFIX,bcfmglobal.com,PROXY
-DOMAIN-SUFFIX,tcfmglobal.com,PROXY
-
-# 腾讯游戏安全专家
-DOMAIN-SUFFIX,anticheatexpert.com,PROXY
-
-# 洛克王国
-DOMAIN-SUFFIX,17roco.com,PROXY
-DOMAIN-SUFFIX,roco.qq.com,PROXY
-#end include:tencent-games
 #include:ubisoft
 DOMAIN-SUFFIX,ubi.com,PROXY
 DOMAIN-SUFFIX,ubisoft.com,PROXY
@@ -1179,13 +902,131 @@ DOMAIN-SUFFIX,protondb.com,PROXY
 DOMAIN-SUFFIX,quiltmc.org,PROXY
 DOMAIN-SUFFIX,speedrun.com,PROXY
 DOMAIN-SUFFIX,steamdb.info,PROXY
-#end include:category-games
+#end include:category-games-!cn
 #include:category-novel
 # This file contains domains of pirate chinese online novel sites that are blocked by GFW
 DOMAIN-SUFFIX,ptzwx.com,PROXY
 DOMAIN-SUFFIX,quanben-xiaoshuo.com,PROXY
 DOMAIN-SUFFIX,quanben.io,PROXY
 #end include:category-novel
+
+#include:abema
+DOMAIN-SUFFIX,abema.io,PROXY
+DOMAIN-SUFFIX,abema.tv,PROXY
+DOMAIN-SUFFIX,abema-tv.com,PROXY
+DOMAIN-SUFFIX,abematv.co.jp,PROXY
+DOMAIN-SUFFIX,adx.promo,PROXY
+DOMAIN-SUFFIX,ameba.jp,PROXY
+DOMAIN-SUFFIX,amebame.com,PROXY
+DOMAIN-SUFFIX,amebaownd.com,PROXY
+DOMAIN-SUFFIX,amebaowndme.com,PROXY
+DOMAIN-SUFFIX,ameblo.jp,PROXY
+DOMAIN-SUFFIX,bucketeer.jp,PROXY
+DOMAIN-SUFFIX,dokusho-ojikan.jp,PROXY
+DOMAIN-SUFFIX,hayabusa.dev,PROXY
+DOMAIN-SUFFIX,hayabusa.io,PROXY
+DOMAIN-SUFFIX,hayabusa.media,PROXY
+DOMAIN-SUFFIX,winticket.jp,PROXY
+
+# Abema TV CDN FQDN
+DOMAIN,abematv.akamaized.net,PROXY
+DOMAIN,ds-linear-abematv.akamaized.net,PROXY
+DOMAIN,ds-vod-abematv.akamaized.net,PROXY
+DOMAIN,linear-abematv.akamaized.net,PROXY
+DOMAIN,vod-abematv.akamaized.net,PROXY
+#end include:abema
+#include:amc
+DOMAIN-SUFFIX,amc.com,PROXY
+DOMAIN-SUFFIX,amcn.com,PROXY
+DOMAIN-SUFFIX,amcnetworks.com,PROXY
+DOMAIN-SUFFIX,amcplus.com,PROXY
+DOMAIN-SUFFIX,e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com,PROXY
+#end include:amc
+#include:anime
+# 9amine
+DOMAIN-SUFFIX,9anime.cz,PROXY
+DOMAIN-SUFFIX,9anime.id,PROXY
+DOMAIN-SUFFIX,9anime.to,PROXY
+DOMAIN-SUFFIX,9anime.ws,PROXY
+
+# agefans: https://github.com/agefanscom/website
+DOMAIN-SUFFIX,age.tv,PROXY
+DOMAIN-SUFFIX,agedm.org,PROXY
+DOMAIN-SUFFIX,agedm.tv,PROXY
+DOMAIN-SUFFIX,agefans.com,PROXY
+DOMAIN-SUFFIX,agemys.org,PROXY
+DOMAIN-SUFFIX,agedm.app,PROXY    #app
+
+# animedao
+DOMAIN-SUFFIX,animedao-tv.com,PROXY
+
+# Crunchyroll
+DOMAIN-SUFFIX,crunchyroll.com,PROXY
+DOMAIN-SUFFIX,funimation.com,PROXY    #funimation
+DOMAIN-SUFFIX,vrv.co,PROXY    #vrv
+
+# Gogoanime
+DOMAIN-SUFFIX,gogoanime.vc,PROXY
+DOMAIN-SUFFIX,gogoanime.wiki,PROXY
+DOMAIN-SUFFIX,gogoanime3.co,PROXY
+DOMAIN-SUFFIX,gogotaku.info,PROXY
+DOMAIN-SUFFIX,gogo-load.com,PROXY
+DOMAIN-SUFFIX,gogocdn.net,PROXY    #image hosting site
+
+# hidive
+DOMAIN-SUFFIX,hidive.com,PROXY
+#end include:anime
+#include:apple-tvplus
+# Apple TV+
+DOMAIN,apple-tv-plus-press.apple.com,PROXY
+DOMAIN,hls-amt.itunes.apple.com,PROXY
+DOMAIN,hls.itunes.apple.com,PROXY
+DOMAIN,np-edge.itunes.apple.com,PROXY
+DOMAIN,play-edge.itunes.apple.com,PROXY
+DOMAIN,tv.applemusic.com,PROXY
+DOMAIN,uts-api.itunes.apple.com,PROXY
+
+DOMAIN-SUFFIX,tv.apple.com,PROXY
+#end include:apple-tvplus
+#include:archiveofourown
+DOMAIN-SUFFIX,ao3.org,PROXY
+DOMAIN-SUFFIX,archiveofourown.org,PROXY
+DOMAIN-SUFFIX,archiveofourown.com,PROXY
+DOMAIN-SUFFIX,archiveofourown.net,PROXY
+#end include:archiveofourown
+#include:attwatchtv
+DOMAIN-SUFFIX,att.tv,PROXY
+DOMAIN-SUFFIX,atttvnow.com,PROXY
+DOMAIN-SUFFIX,attwatchtv.com,PROXY
+DOMAIN-SUFFIX,directv.com,PROXY
+DOMAIN-SUFFIX,dtvce.com,PROXY
+DOMAIN-SUFFIX,nettyinternet.com,PROXY
+#end include:attwatchtv
+#include:bahamut
+DOMAIN-SUFFIX,bahamut.akamaized.net,PROXY
+DOMAIN-SUFFIX,bahamut.com.tw,PROXY
+DOMAIN-SUFFIX,gamer.com.tw,PROXY
+
+DOMAIN,gamer2-cds.cdn.hinet.net,PROXY
+DOMAIN,gamer-cds.cdn.hinet.net,PROXY
+#end include:bahamut
+#include:bandcamp
+DOMAIN-SUFFIX,bandcamp.com,PROXY
+DOMAIN-SUFFIX,bcbits.com,PROXY
+#end include:bandcamp
+#include:bangumi
+DOMAIN-SUFFIX,bangumi.tv,PROXY
+DOMAIN-SUFFIX,bgm.tv,PROXY
+DOMAIN-SUFFIX,chii.in,PROXY
+#end include:bangumi
+#include:boomerang
+DOMAIN-SUFFIX,boomerang.com,PROXY
+DOMAIN-SUFFIX,wbdnbo.net,PROXY
+#end include:boomerang
+#include:catchplay
+DOMAIN-SUFFIX,catchplay.com,PROXY
+DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net,PROXY
+#end include:catchplay
 #include:dailymotion
 DOMAIN-SUFFIX,dailymotion.com,PROXY
 DOMAIN-SUFFIX,dm-event.net,PROXY

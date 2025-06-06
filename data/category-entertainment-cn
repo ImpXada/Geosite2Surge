@@ -1,7 +1,6 @@
 # Entertainment & Videos & Games & Music & Podcasts
-#include:3dm
-DOMAIN-SUFFIX,3dmgame.com,PROXY
-#end include:3dm
+
+#include:category-games-cn
 #include:4399
 DOMAIN-SUFFIX,3304399.com,PROXY
 DOMAIN-SUFFIX,3304399.net,PROXY
@@ -59,6 +58,209 @@ DOMAIN-SUFFIX,webgame163.com,PROXY
 DOMAIN-SUFFIX,youba.com,PROXY
 DOMAIN-SUFFIX,yxhhdl.com,PROXY
 #end include:4399
+#include:bilibili-game
+DOMAIN-SUFFIX,bilibiligame.cn,PROXY
+DOMAIN-SUFFIX,bilibiligame.co,PROXY
+DOMAIN-SUFFIX,bilibiligame.net,PROXY
+DOMAIN-SUFFIX,biligame.co,PROXY
+DOMAIN-SUFFIX,biligame.com,PROXY
+DOMAIN-SUFFIX,biligame.net,PROXY
+#end include:bilibili-game
+#include:bluepoch-games
+# From reverse 1999
+DOMAIN-SUFFIX,sl916.com,PROXY
+#end include:bluepoch-games
+#include:cowlevel
+DOMAIN-SUFFIX,cowlevel.net,PROXY
+DOMAIN-SUFFIX,cdncl.net,PROXY
+#end include:cowlevel
+#include:kurogames
+DOMAIN-SUFFIX,kurogames.com,PROXY
+
+# Wuthering Waves
+DOMAIN-SUFFIX,aki-game.com,PROXY
+#end include:kurogames
+#include:mihoyo-cn
+# 米哈游
+DOMAIN-SUFFIX,mhystatic.com,PROXY
+DOMAIN-SUFFIX,mhyurl.cn,PROXY
+DOMAIN-SUFFIX,mihayo.com,PROXY
+DOMAIN-SUFFIX,mihayou.com,PROXY
+DOMAIN-SUFFIX,mihoyo.com,PROXY
+DOMAIN-SUFFIX,mihoyocg.com,PROXY
+DOMAIN-SUFFIX,mihoyogift.com,PROXY
+DOMAIN-SUFFIX,mihoyomall.com,PROXY
+DOMAIN-SUFFIX,miyoushe.com,PROXY
+
+# 崩坏2
+DOMAIN-SUFFIX,benghuai.com,PROXY
+
+# 崩坏3
+DOMAIN-SUFFIX,bh3.com,PROXY
+
+# 星穹铁道
+DOMAIN-SUFFIX,bhsr.com,PROXY
+
+# 未定事件簿
+DOMAIN-SUFFIX,themisweeps.com,PROXY
+
+# 原神
+DOMAIN-SUFFIX,yuanshen.com,PROXY
+
+#绝区零
+DOMAIN-SUFFIX,juequling.com,PROXY
+
+# Akamai
+DOMAIN-WILDCARD,*-mihayo.akamaized.net,PROXY
+#end include:mihoyo-cn
+#include:tencent-games
+DOMAIN-SUFFIX,battlecare.net,PROXY
+DOMAIN-SUFFIX,gameitop.com,PROXY
+DOMAIN-SUFFIX,gameloop.com,PROXY
+DOMAIN-SUFFIX,gcloudcs.com,PROXY
+DOMAIN-SUFFIX,gcloudcstest.com,PROXY
+DOMAIN-SUFFIX,gcloudcstestonly.com,PROXY
+DOMAIN-SUFFIX,gclouddolphin.com,PROXY
+DOMAIN-SUFFIX,gcloudsdk.com,PROXY
+DOMAIN-SUFFIX,gdtimg.com,PROXY
+DOMAIN-SUFFIX,goto-game.com,PROXY
+DOMAIN-SUFFIX,goto-game.mobi,PROXY
+DOMAIN-SUFFIX,goto-game.net.cn,PROXY
+DOMAIN-SUFFIX,goto-game.org,PROXY
+DOMAIN-SUFFIX,happyhlddz.com,PROXY
+DOMAIN-SUFFIX,hdyxgame.com,PROXY
+DOMAIN-SUFFIX,hkgcloudcs.com,PROXY
+DOMAIN-SUFFIX,ihappystudio.cn,PROXY
+DOMAIN-SUFFIX,ihappystudio.com,PROXY
+DOMAIN-SUFFIX,in.th,PROXY
+DOMAIN-SUFFIX,ludosuperstar.cn,PROXY
+DOMAIN-SUFFIX,ludoworld.net,PROXY
+DOMAIN-SUFFIX,mahjongai.net,PROXY
+DOMAIN-SUFFIX,mahjongcup.cn,PROXY
+DOMAIN-SUFFIX,mahjongcup.com,PROXY
+DOMAIN-SUFFIX,mahjongcup.net,PROXY
+DOMAIN-SUFFIX,metalrevolution.com,PROXY
+DOMAIN-SUFFIX,midasbuy.com,PROXY
+DOMAIN-SUFFIX,nagcloudcs.com,PROXY
+DOMAIN-SUFFIX,proximabeta.com,PROXY
+DOMAIN-SUFFIX,pubghelper.com,PROXY
+DOMAIN-SUFFIX,pubgno1.cn,PROXY
+DOMAIN-SUFFIX,pubgtool.com,PROXY
+DOMAIN-SUFFIX,qqgameapp.com,PROXY
+DOMAIN-SUFFIX,rmwxgame.com,PROXY
+DOMAIN-SUFFIX,skydweller.cn,PROXY
+DOMAIN-SUFFIX,syxlgame.com,PROXY
+DOMAIN-SUFFIX,tencent-gcloud.com,PROXY
+DOMAIN-SUFFIX,tencentstart.com,PROXY
+DOMAIN-SUFFIX,texasholdemcup.cn,PROXY
+DOMAIN-SUFFIX,texasholdemcup.com,PROXY
+DOMAIN-SUFFIX,texasholdemcup.net,PROXY
+DOMAIN-SUFFIX,timibase.com,PROXY
+DOMAIN-SUFFIX,videoxiaoyouxi.com,PROXY
+DOMAIN-SUFFIX,wcbygame.com,PROXY
+DOMAIN-SUFFIX,yxdmgame.com,PROXY
+DOMAIN-SUFFIX,yximg.cn,PROXY
+DOMAIN-SUFFIX,yxwsgame.com,PROXY
+DOMAIN-SUFFIX,yzyxgame.com,PROXY
+DOMAIN-SUFFIX,zcjbgame.com,PROXY
+DOMAIN-SUFFIX,zhuoyuegame.com,PROXY
+
+DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn,PROXY    #碧蓝幻想.cn
+
+# Roblox
+DOMAIN-SUFFIX,roblox.cn,PROXY
+DOMAIN-SUFFIX,roblox.qq.com,PROXY
+DOMAIN-SUFFIX,robloxdev.cn,PROXY
+
+# NExT Studios
+DOMAIN-SUFFIX,nextstudios.com,PROXY
+DOMAIN-SUFFIX,nextworkshop.net,PROXY
+
+# 迷失之地
+DOMAIN-SUFFIX,mszdld.cn,PROXY
+DOMAIN-SUFFIX,mszdld.com,PROXY
+DOMAIN-SUFFIX,mszdld.net,PROXY
+
+# 篝火营地
+DOMAIN-SUFFIX,gamebonfire.com,PROXY
+DOMAIN-SUFFIX,gouhuo.qq.com,PROXY
+
+# WeGame
+DOMAIN-SUFFIX,ffbuddy.com,PROXY
+DOMAIN-SUFFIX,gotolink.net,PROXY
+DOMAIN-SUFFIX,gtgres.com,PROXY
+DOMAIN-SUFFIX,realcybertron.com,PROXY
+DOMAIN-SUFFIX,wegame.com,PROXY
+DOMAIN-SUFFIX,wegame.com.cn,PROXY
+DOMAIN-SUFFIX,wegameplus.com,PROXY
+DOMAIN-SUFFIX,werepository.com.cn,PROXY
+
+# Supercell
+DOMAIN-SUFFIX,brawlstars.cn,PROXY
+DOMAIN-SUFFIX,haydaypop.cn,PROXY
+DOMAIN-SUFFIX,labycore.cn,PROXY
+DOMAIN-SUFFIX,sccreator.cn,PROXY
+DOMAIN-SUFFIX,sccreators.cn,PROXY
+DOMAIN-SUFFIX,scescdn.cn,PROXY
+DOMAIN-SUFFIX,scid.cn,PROXY
+DOMAIN-SUFFIX,scsentry.cn,PROXY
+DOMAIN-SUFFIX,supercell.com,PROXY
+DOMAIN-SUFFIX,supercellcommunity.cn,PROXY
+DOMAIN-SUFFIX,supercellsupport.cn,PROXY
+
+# 使命召唤
+DOMAIN-SUFFIX,codm.com,PROXY
+
+# 穿越火线
+DOMAIN-SUFFIX,bcfmglobal.com,PROXY
+DOMAIN-SUFFIX,tcfmglobal.com,PROXY
+
+# 腾讯游戏安全专家
+DOMAIN-SUFFIX,anticheatexpert.com,PROXY
+
+# 洛克王国
+DOMAIN-SUFFIX,17roco.com,PROXY
+DOMAIN-SUFFIX,roco.qq.com,PROXY
+#end include:tencent-games
+#include:tgbus
+DOMAIN-SUFFIX,tgbus.com,PROXY
+#end include:tgbus
+#include:tiancity
+DOMAIN-SUFFIX,tiancity.com,PROXY
+DOMAIN-SUFFIX,tiancitycdn.com,PROXY
+#end include:tiancity
+#include:vgtime
+DOMAIN-SUFFIX,vgtime.com,PROXY
+#end include:vgtime
+#include:vrzwk
+# vr中文库
+DOMAIN-SUFFIX,vrzwk.cn,PROXY
+
+# quest助手文件下载
+DOMAIN-SUFFIX,vrzwk.com,PROXY
+DOMAIN-SUFFIX,vrzwk.net,PROXY
+DOMAIN-SUFFIX,vrzwk.top,PROXY
+#end include:vrzwk
+
+# 《异象回声》游戏官网 沪ICP备2023010411号-1
+DOMAIN-SUFFIX,astral-vector.com,PROXY
+# 九九互动 粤ICP备19068416号
+DOMAIN-SUFFIX,forevernine.com,PROXY
+# 乐都网 浙ICP备2024091002号-2
+DOMAIN-SUFFIX,ledu.com,PROXY
+# Enhance Gaming
+DOMAIN-SUFFIX,heavenlywind.cc,PROXY
+DOMAIN-SUFFIX,steampp.net,PROXY
+# 沪ICP备18041304号-1
+DOMAIN-SUFFIX,tgpro.top,PROXY
+DOMAIN-SUFFIX,tgprocs.net,PROXY
+# 畅玩空间 冀ICP备20019223号
+DOMAIN-SUFFIX,wo1wan.com,PROXY
+#end include:category-games-cn
+
+#include:3dm
+DOMAIN-SUFFIX,3dmgame.com,PROXY
+#end include:3dm
 #include:acfun
 # Beijing Danmu Network Technology Co., Ltd.
 
@@ -102,10 +304,6 @@ DOMAIN-SUFFIX,mangacopy.com,PROXY
 DOMAIN-SUFFIX,mangafuna.xyz,PROXY
 DOMAIN-SUFFIX,mangafunb.fun,PROXY
 #end include:copymanga
-#include:cowlevel
-DOMAIN-SUFFIX,cowlevel.net,PROXY
-DOMAIN-SUFFIX,cdncl.net,PROXY
-#end include:cowlevel
 #include:dedao
 # 得到
 DOMAIN-SUFFIX,biji.com,PROXY
@@ -258,17 +456,6 @@ DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
 #include:kuaishou
-# Beijing Kuaishou Technology Co., Ltd.
-
-DOMAIN-SUFFIX,gifshow.com,PROXY
-DOMAIN-SUFFIX,inkwai.com,PROXY
-DOMAIN-SUFFIX,ksapisrv.com,PROXY
-DOMAIN-SUFFIX,kuaishou.com,PROXY
-DOMAIN-SUFFIX,kwaizt.com,PROXY
-DOMAIN-SUFFIX,kuaishouzt.com,PROXY
-DOMAIN-SUFFIX,kwimgs.com,PROXY
-DOMAIN-SUFFIX,yximgs.com,PROXY
-
 DOMAIN-SUFFIX,adbkwai.com,PROXY
 DOMAIN-SUFFIX,adkwai.com,PROXY
 DOMAIN-SUFFIX,adukwai.com,PROXY
@@ -278,6 +465,21 @@ DOMAIN-SUFFIX,e.kuaishou.com,PROXY
 DOMAIN,log-sdk.gifshow.com,PROXY
 DOMAIN,wlog.kuaishou.com,PROXY
 #end include:kuaishou-ads
+
+DOMAIN-SUFFIX,ecukwai.com,PROXY
+DOMAIN-SUFFIX,gifshow.com,PROXY
+DOMAIN-SUFFIX,inkwai.com,PROXY
+DOMAIN-SUFFIX,ksapisrv.com,PROXY
+DOMAIN-SUFFIX,kskwai.com,PROXY
+DOMAIN-SUFFIX,kuaishou.com,PROXY
+DOMAIN-SUFFIX,kuaishouapps.com,PROXY
+DOMAIN-SUFFIX,kuaishoupay.com,PROXY
+DOMAIN-SUFFIX,kuaishouzt.com,PROXY
+DOMAIN-SUFFIX,kwaicdn.com,PROXY
+DOMAIN-SUFFIX,kwaizt.com,PROXY
+DOMAIN-SUFFIX,kwimgs.com,PROXY
+DOMAIN-SUFFIX,wsukwai.com,PROXY
+DOMAIN-SUFFIX,yximgs.com,PROXY
 #end include:kuaishou
 #include:kuwo
 DOMAIN-SUFFIX,koowo.cn,PROXY
@@ -321,39 +523,6 @@ DOMAIN-SUFFIX,mfuns.cn,PROXY
 #include:miaopai
 DOMAIN-SUFFIX,miaopai.com,PROXY
 #end include:miaopai
-#include:mihoyo-cn
-# 米哈游
-DOMAIN-SUFFIX,mhystatic.com,PROXY
-DOMAIN-SUFFIX,mhyurl.cn,PROXY
-DOMAIN-SUFFIX,mihayo.com,PROXY
-DOMAIN-SUFFIX,mihayou.com,PROXY
-DOMAIN-SUFFIX,mihoyo.com,PROXY
-DOMAIN-SUFFIX,mihoyocg.com,PROXY
-DOMAIN-SUFFIX,mihoyogift.com,PROXY
-DOMAIN-SUFFIX,mihoyomall.com,PROXY
-DOMAIN-SUFFIX,miyoushe.com,PROXY
-
-# 崩坏2
-DOMAIN-SUFFIX,benghuai.com,PROXY
-
-# 崩坏3
-DOMAIN-SUFFIX,bh3.com,PROXY
-
-# 星穹铁道
-DOMAIN-SUFFIX,bhsr.com,PROXY
-
-# 未定事件簿
-DOMAIN-SUFFIX,themisweeps.com,PROXY
-
-# 原神
-DOMAIN-SUFFIX,yuanshen.com,PROXY
-
-#绝区零
-DOMAIN-SUFFIX,juequling.com,PROXY
-
-# Akamai
-DOMAIN-WILDCARD,*-mihayo.akamaized.net,PROXY
-#end include:mihoyo-cn
 #include:muwai
 DOMAIN-SUFFIX,muwai.com,PROXY
 #end include:muwai
@@ -448,30 +617,11 @@ DOMAIN-SUFFIX,sfacg.com,PROXY
 DOMAIN-SUFFIX,61.com,PROXY
 DOMAIN-SUFFIX,taomee.com,PROXY
 #end include:taomee
-#include:tgbus
-DOMAIN-SUFFIX,tgbus.com,PROXY
-#end include:tgbus
-#include:tiancity
-DOMAIN-SUFFIX,tiancity.com,PROXY
-DOMAIN-SUFFIX,tiancitycdn.com,PROXY
-#end include:tiancity
 #include:u17
 DOMAIN-SUFFIX,u17.com,PROXY
 DOMAIN-SUFFIX,u17i.com,PROXY
 DOMAIN-SUFFIX,u17t.com,PROXY
 #end include:u17
-#include:vgtime
-DOMAIN-SUFFIX,vgtime.com,PROXY
-#end include:vgtime
-#include:vrzwk
-# vr中文库
-DOMAIN-SUFFIX,vrzwk.cn,PROXY
-
-# quest助手文件下载
-DOMAIN-SUFFIX,vrzwk.com,PROXY
-DOMAIN-SUFFIX,vrzwk.net,PROXY
-DOMAIN-SUFFIX,vrzwk.top,PROXY
-#end include:vrzwk
 #include:wasu
 # 华数传媒
 DOMAIN-SUFFIX,aichongzoo.cn,PROXY
@@ -503,24 +653,11 @@ DOMAIN-SUFFIX,cibntv.net,PROXY
 DOMAIN-SUFFIX,zhanqi.tv,PROXY
 #end include:zhanqi
 
-# Enhance Gaming
-DOMAIN-SUFFIX,heavenlywind.cc,PROXY
-DOMAIN-SUFFIX,steampp.net,PROXY
-
 # Android Emulator
 DOMAIN-SUFFIX,lsplayer.com,PROXY
 DOMAIN-SUFFIX,yeshen.com,PROXY
 
-# 九九互动 粤ICP备19068416号
-DOMAIN-SUFFIX,forevernine.com,PROXY
-
-# 沪ICP备18041304号-1
-DOMAIN-SUFFIX,tgpro.top,PROXY
-DOMAIN-SUFFIX,tgprocs.net,PROXY
-
 # B站空降助手 鲁ICP备2024098956号-1
 DOMAIN-SUFFIX,bsbsb.top,PROXY
 
-DOMAIN-SUFFIX,ledu.com,PROXY
 DOMAIN-SUFFIX,pearvideo.com,PROXY
-DOMAIN-SUFFIX,wo1wan.com,PROXY

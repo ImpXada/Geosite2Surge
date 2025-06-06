@@ -75,6 +75,7 @@ DOMAIN-SUFFIX,skyeysnow.com,PROXY
 # M-Team
 DOMAIN-SUFFIX,m-team.cc,PROXY
 DOMAIN-SUFFIX,m-team.io,PROXY
+DOMAIN-SUFFIX,mt.cc,PROXY
 
 # U2
 DOMAIN-SUFFIX,dmhy.best,PROXY
