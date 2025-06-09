@@ -1768,6 +1768,10 @@ DOMAIN,d2anahhhmp1ffz.cloudfront.net,PROXY
 DOMAIN-SUFFIX,mox.moe,PROXY
 DOMAIN-SUFFIX,vol.moe,PROXY
 #end include:volmoe
+#include:wallhaven
+DOMAIN-SUFFIX,wallhaven.cc,PROXY
+DOMAIN-SUFFIX,whvn.cc,PROXY
+#end include:wallhaven
 #include:webnovel
 DOMAIN-SUFFIX,webnovel.com,PROXY
 #end include:webnovel

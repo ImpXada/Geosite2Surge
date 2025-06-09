@@ -200,13 +200,6 @@ DOMAIN-SUFFIX,feng.com,PROXY
 DOMAIN-SUFFIX,fengimg.com,PROXY
 DOMAIN-SUFFIX,wfdata.club,PROXY
 #end include:weiphone
-#include:ynet
-# This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
-
-DOMAIN-SUFFIX,ynet.cn,PROXY
-DOMAIN-SUFFIX,ynet.com,PROXY
-DOMAIN-SUFFIX,ynet.com.cn,PROXY
-#end include:ynet
 #include:xueqiu
 DOMAIN-SUFFIX,aiganggu.com,PROXY
 DOMAIN-SUFFIX,danjuanfunds.com,PROXY
@@ -214,6 +207,13 @@ DOMAIN-SUFFIX,imedao.com,PROXY
 DOMAIN-SUFFIX,snowballsecurities.com,PROXY
 DOMAIN-SUFFIX,xueqiu.com,PROXY
 #end include:xueqiu
+#include:ynet
+# This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
+
+DOMAIN-SUFFIX,ynet.cn,PROXY
+DOMAIN-SUFFIX,ynet.com,PROXY
+DOMAIN-SUFFIX,ynet.com.cn,PROXY
+#end include:ynet
 
 # 证券时报网
 DOMAIN-SUFFIX,stcn.com,PROXY
@@ -297,6 +297,13 @@ DOMAIN-SUFFIX,thepaper.cn,PROXY
 
 # 封面新闻
 DOMAIN-SUFFIX,thecover.cn,PROXY
+
+# 参考消息
+DOMAIN-SUFFIX,cankaoxiaoxi.com,PROXY
+DOMAIN-SUFFIX,ckxx.net,PROXY
+
+# 大公网（大公报）
+DOMAIN-SUFFIX,takungpao.com,PROXY
 
 # 超能网
 DOMAIN-SUFFIX,expreview.com,PROXY

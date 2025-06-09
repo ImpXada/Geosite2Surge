@@ -1310,6 +1310,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | vrzwk | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/vrzwk |
 | vultr | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/vultr |
 | w3schools | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/w3schools |
+| wallhaven | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wallhaven |
 | walmart | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/walmart |
 | wanfang | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wanfang |
 | wangsu | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wangsu |
