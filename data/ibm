@@ -1,3 +1,4 @@
+#include:hashicorp
 DOMAIN-SUFFIX,consul.io,PROXY
 DOMAIN-SUFFIX,hashicorp.com,PROXY
 DOMAIN-SUFFIX,nomadproject.io,PROXY

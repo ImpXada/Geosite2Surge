@@ -1,14 +1,10 @@
-#include:amazon-ads
 DOMAIN-SUFFIX,amazon-adsystem.com,PROXY
 DOMAIN-SUFFIX,serving-sys.com,PROXY
 #end include:amazon-ads
-#include:amazontrust
 DOMAIN-SUFFIX,amazontrust.com,PROXY
 DOMAIN-SUFFIX,awstrust.com,PROXY
 DOMAIN-SUFFIX,ss2.us,PROXY
 #end include:amazontrust
-#include:aws
-#include:aws-cn
 DOMAIN-SUFFIX,a2z.org.cn,PROXY
 DOMAIN-SUFFIX,amazonaws.cn,PROXY
 DOMAIN-SUFFIX,amazonaws.com.cn,PROXY
@@ -94,7 +90,6 @@ DOMAIN-SUFFIX,amzndns.org,PROXY
 
 DOMAIN-WILDCARD,*.awsdns-??.,PROXY
 #end include:aws
-#include:imdb
 # All .imdb domains
 DOMAIN-SUFFIX,imdb,PROXY
 
@@ -103,7 +98,6 @@ DOMAIN-SUFFIX,imdb.com,PROXY
 DOMAIN-SUFFIX,imdb.to,PROXY
 DOMAIN-SUFFIX,media-imdb.com,PROXY
 #end include:imdb
-#include:kindle
 # All .kindle domains
 DOMAIN-SUFFIX,kindle,PROXY
 
@@ -128,7 +122,6 @@ DOMAIN-SUFFIX,kindleoasis.us,PROXY
 DOMAIN-SUFFIX,kindleoasisnews.com,PROXY
 DOMAIN-SUFFIX,kindleproject.com,PROXY
 #end include:kindle
-#include:primevideo
 # Prime Video
 DOMAIN-SUFFIX,aiv-cdn.net,PROXY
 DOMAIN-SUFFIX,amazonprimevideo.cn,PROXY
@@ -143,7 +136,6 @@ DOMAIN-SUFFIX,primevideo.info,PROXY
 DOMAIN-SUFFIX,primevideo.org,PROXY
 DOMAIN-SUFFIX,primevideo.tv,PROXY
 #end include:primevideo
-#include:wholefoodsmarket
 DOMAIN-SUFFIX,wfm.com,PROXY
 DOMAIN-SUFFIX,wholecitiesfoundation.org,PROXY
 DOMAIN-SUFFIX,wholefoods.com,PROXY

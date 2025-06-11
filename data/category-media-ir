@@ -1,10 +1,8 @@
 # Iranian media websites
-#include:aparat
 DOMAIN-SUFFIX,aparat.com,PROXY
 DOMAIN-SUFFIX,aparatkids.com,PROXY
 DOMAIN-SUFFIX,aparatsport.com,PROXY
 #end include:aparat
-#include:filimo
 DOMAIN-SUFFIX,filimo.com,PROXY
 DOMAIN-SUFFIX,filimo.school,PROXY
 #end include:filimo

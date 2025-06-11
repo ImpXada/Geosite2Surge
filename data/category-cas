@@ -55,11 +55,9 @@ DOMAIN-SUFFIX,thawte.com,PROXY
 DOMAIN-SUFFIX,thawte.de,PROXY
 DOMAIN-SUFFIX,thawte.fr,PROXY
 
-#include:cybertrust
 DOMAIN-SUFFIX,cybertrust.co.jp,PROXY
 DOMAIN-SUFFIX,cybertrust.ne.jp,PROXY
 #end include:cybertrust
-#include:verisign-pki
 # Verisign CA
 DOMAIN-SUFFIX,adobe-crl.verisign.com,PROXY
 DOMAIN-SUFFIX,certipath-aia.verisign.com,PROXY
@@ -112,7 +110,6 @@ DOMAIN-SUFFIX,svrsecure-t1-crl.verisign.com,PROXY
 DOMAIN-SUFFIX,svrtrial-g2-aia.verisign.com,PROXY
 DOMAIN-SUFFIX,svrtrial-g2-crl.verisign.com,PROXY
 #end include:verisign-pki
-#include:symantec-pki
 # Symantec CA
 DOMAIN-SUFFIX,pki.symantec.com,PROXY
 DOMAIN-SUFFIX,symauth.com,PROXY
@@ -319,24 +316,6 @@ DOMAIN-SUFFIX,trustwave.com,PROXY
 #include:twca
 DOMAIN-SUFFIX,twca.com.tw,PROXY
 #end include:twca
-#include:verizon
-
-DOMAIN-SUFFIX,oath.cloud,PROXY
-DOMAIN-SUFFIX,oath.com,PROXY
-DOMAIN-SUFFIX,ouroath.com,PROXY
-DOMAIN-SUFFIX,static-verizon.com,PROXY
-DOMAIN-SUFFIX,uplynk.com,PROXY
-DOMAIN-SUFFIX,verizon.com,PROXY
-DOMAIN-SUFFIX,verizon.net,PROXY
-DOMAIN-SUFFIX,verizonbusinessfios.com,PROXY
-DOMAIN-SUFFIX,verizondigitalmedia.com,PROXY
-DOMAIN-SUFFIX,verizonenterprise.com,PROXY
-DOMAIN-SUFFIX,verizonfios.com,PROXY
-DOMAIN-SUFFIX,verizonmedia.com,PROXY
-DOMAIN-SUFFIX,verizonwireless.com,PROXY
-DOMAIN-SUFFIX,vzw.com,PROXY
-DOMAIN-SUFFIX,xo.com,PROXY
-#end include:verizon
 #include:vodafone
 DOMAIN-SUFFIX,myvodafone.com.au,PROXY
 DOMAIN-SUFFIX,myvodafone.com.ws,PROXY

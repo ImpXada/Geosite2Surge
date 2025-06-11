@@ -1,4 +1,3 @@
-#include:800best
 # 百世
 # 浙B2-20070189
 DOMAIN-SUFFIX,56laile.com,PROXY
@@ -31,26 +30,22 @@ DOMAIN-SUFFIX,youyierp.com,PROXY
 DOMAIN-SUFFIX,youyitms.com,PROXY
 DOMAIN-SUFFIX,youyiwms.com,PROXY
 #end include:800best
-#include:cainiao
 DOMAIN-SUFFIX,cainiao-inc.com,PROXY
 DOMAIN-SUFFIX,cainiao.com,PROXY
 DOMAIN-SUFFIX,cainiao.com.cn,PROXY
 DOMAIN-SUFFIX,cainiaoyizhan.com,PROXY
 DOMAIN-SUFFIX,guoguo-app.com,PROXY
 #end include:cainiao
-#include:deppon
 # 德邦
 # 沪ICP备10005645号
 DOMAIN-SUFFIX,deppon.com,PROXY
 DOMAIN-SUFFIX,deppon.com.cn,PROXY
 DOMAIN-SUFFIX,dpma.cc,PROXY
 #end include:deppon
-#include:fcbox
 # 丰巢
 DOMAIN-SUFFIX,fcbox.com,PROXY
 DOMAIN-SUFFIX,fcboxmall.com,PROXY
 #end include:fcbox
-#include:jtexpress
 # 极兔
 # 沪ICP备2020025698号
 DOMAIN-SUFFIX,bxexpress.com.cn,PROXY
@@ -78,13 +73,11 @@ DOMAIN-SUFFIX,jtexpress.top,PROXY
 DOMAIN-SUFFIX,jtg2g.com,PROXY
 DOMAIN-SUFFIX,yl-scm.com,PROXY
 #end include:jtexpress
-#include:kuaidi100
 DOMAIN-SUFFIX,ckd.im,PROXY
 DOMAIN-SUFFIX,kd100.com,PROXY
 DOMAIN-SUFFIX,kuaidi100.com,PROXY
 DOMAIN-SUFFIX,kuaidilab.com,PROXY
 #end include:kuaidi100
-#include:sf-express
 DOMAIN-SUFFIX,feng1.com,PROXY
 DOMAIN-SUFFIX,ibobscs.com,PROXY
 DOMAIN-SUFFIX,rongechain.com,PROXY
@@ -101,7 +94,6 @@ DOMAIN-SUFFIX,sfcar.hk,PROXY
 DOMAIN-SUFFIX,sffix.cn,PROXY
 DOMAIN-SUFFIX,sfgy.org,PROXY
 #end include:sf-express
-#include:sto-express
 DOMAIN-SUFFIX,sto-express.cn,PROXY
 DOMAIN-SUFFIX,sto-express.com,PROXY
 DOMAIN-SUFFIX,sto-express.com.cn,PROXY
@@ -111,7 +103,6 @@ DOMAIN-SUFFIX,sto.cn,PROXY
 DOMAIN-SUFFIX,stointl.com,PROXY
 DOMAIN-SUFFIX,stosolution.com,PROXY
 #end include:sto-express
-#include:yto-express
 # 沪ICP备05004632号
 DOMAIN-SUFFIX,gpall.cn,PROXY
 DOMAIN-SUFFIX,gpall.net,PROXY
@@ -157,7 +148,6 @@ DOMAIN-SUFFIX,ytoluohan.xin,PROXY
 DOMAIN-SUFFIX,yuantongyizhan.cn,PROXY
 DOMAIN-SUFFIX,yuantongyizhan.com,PROXY
 #end include:yto-express
-#include:yundaex
 DOMAIN-SUFFIX,ydsys.cn,PROXY
 DOMAIN-SUFFIX,yundaex.cn,PROXY
 DOMAIN-SUFFIX,yundaex.com,PROXY
@@ -172,7 +162,6 @@ DOMAIN-SUFFIX,yundaltl.com,PROXY
 DOMAIN-SUFFIX,udalogistic.com,PROXY
 DOMAIN-SUFFIX,udalogistic.cn,PROXY
 #end include:yundaex
-#include:zto-express
 # 沪ICP备13044869号
 DOMAIN-SUFFIX,95311.com,PROXY
 DOMAIN-SUFFIX,izto.com,PROXY

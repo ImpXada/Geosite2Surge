@@ -1,14 +1,10 @@
-#include:ceno
 DOMAIN-SUFFIX,censorship.no,PROXY
 #end include:ceno
-#include:epicbrowser
 DOMAIN-SUFFIX,epicbrowser.com,PROXY
 #end include:epicbrowser
-#include:firefox
 DOMAIN-SUFFIX,firefox.com,PROXY
 DOMAIN-SUFFIX,firefoxusercontent.com,PROXY
 #end include:firefox
-#include:torproject
 DOMAIN-SUFFIX,torproject.org,PROXY
 #end include:torproject
 

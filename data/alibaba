@@ -224,6 +224,23 @@ DOMAIN-SUFFIX,uc123.com,PROXY
 DOMAIN-SUFFIX,ucweb.com,PROXY
 DOMAIN-SUFFIX,uczzd.cn,PROXY
 #end include:uc
+#include:umeng
+DOMAIN-SUFFIX,mobmore.com,PROXY
+DOMAIN-SUFFIX,umeng.com,PROXY
+DOMAIN-SUFFIX,umengcloud.com,PROXY
+DOMAIN-SUFFIX,umsns.com,PROXY
+DOMAIN-SUFFIX,umtrack.com,PROXY
+DOMAIN-SUFFIX,uyunad.com,PROXY
+DOMAIN-SUFFIX,whalecloud.com,PROXY
+
+DOMAIN-SUFFIX,alog.umeng.com,PROXY
+DOMAIN-SUFFIX,alog.umengcloud.com,PROXY
+
+# CNZZ
+DOMAIN-SUFFIX,w.cnzz.com,PROXY
+DOMAIN-SUFFIX,z.gds.cnzz.com,PROXY
+#end include:umeng-ads
+#end include:umeng
 
 DOMAIN-SUFFIX,25pp.com,PROXY
 DOMAIN-SUFFIX,56che.com,PROXY

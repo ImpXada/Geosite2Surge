@@ -1,4 +1,3 @@
-#include:cloudflare-cn
 DOMAIN-SUFFIX,cf-ns.com,PROXY
 DOMAIN-SUFFIX,cf-ns.net,PROXY
 DOMAIN-SUFFIX,cf-ns.site,PROXY
@@ -18,7 +17,6 @@ DOMAIN-SUFFIX,cloudflareprod.com,PROXY
 DOMAIN-SUFFIX,cloudflarestaging.com,PROXY
 DOMAIN-SUFFIX,cloudflarestoragegw.com,PROXY
 #end include:cloudflare-cn
-#include:cloudflare-ipfs
 DOMAIN-SUFFIX,cf-ipfs.com,PROXY
 DOMAIN-SUFFIX,cloudflare-ipfs.com,PROXY
 #end include:cloudflare-ipfs
