@@ -75,6 +75,13 @@ DOMAIN-SUFFIX,icbkfs.com,PROXY
 DOMAIN-SUFFIX,icbkus.com,PROXY
 DOMAIN-SUFFIX,vivoglobal.com,PROXY
 DOMAIN-SUFFIX,pingan.com.hk,PROXY
+DOMAIN,alt1-mtalk.google.com,PROXY
+DOMAIN,alt2-mtalk.google.com,PROXY
+DOMAIN,alt3-mtalk.google.com,PROXY
+DOMAIN,alt4-mtalk.google.com,PROXY
+DOMAIN,alt5-mtalk.google.com,PROXY
+DOMAIN,alt6-mtalk.google.com,PROXY
+DOMAIN,mtalk.google.com,PROXY
 DOMAIN-SUFFIX,myanonamouse.net,PROXY
 DOMAIN-SUFFIX,nebulance.io,PROXY
 DOMAIN-SUFFIX,torrentleech.org,PROXY
