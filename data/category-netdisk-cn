@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,aliyundrive.net,PROXY
 DOMAIN-SUFFIX,yunpan.aliyun.com,PROXY
 
 # 115网盘
-#include:115
 DOMAIN-SUFFIX,115.com,PROXY
 DOMAIN-SUFFIX,115cdn.com,PROXY
 DOMAIN-SUFFIX,115cdn.net,PROXY
@@ -39,7 +38,6 @@ DOMAIN-SUFFIX,anxia.com,PROXY
 DOMAIN-SUFFIX,sq.cc,PROXY
 #end include:115
 # 蓝奏云
-#include:lanzou
 DOMAIN-SUFFIX,baidupan.com,PROXY
 DOMAIN-SUFFIX,ilanzou.com,PROXY
 DOMAIN-SUFFIX,lanosso.com,PROXY

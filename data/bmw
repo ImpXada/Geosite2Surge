@@ -1,4 +1,3 @@
-#include:mini
 # All .mini domains
 DOMAIN-SUFFIX,mini,PROXY
 

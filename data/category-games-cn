@@ -1,4 +1,3 @@
-#include:4399
 DOMAIN-SUFFIX,3304399.com,PROXY
 DOMAIN-SUFFIX,3304399.net,PROXY
 DOMAIN-SUFFIX,3839.com,PROXY
@@ -55,7 +54,6 @@ DOMAIN-SUFFIX,webgame163.com,PROXY
 DOMAIN-SUFFIX,youba.com,PROXY
 DOMAIN-SUFFIX,yxhhdl.com,PROXY
 #end include:4399
-#include:bilibili-game
 DOMAIN-SUFFIX,bilibiligame.cn,PROXY
 DOMAIN-SUFFIX,bilibiligame.co,PROXY
 DOMAIN-SUFFIX,bilibiligame.net,PROXY
@@ -63,21 +61,17 @@ DOMAIN-SUFFIX,biligame.co,PROXY
 DOMAIN-SUFFIX,biligame.com,PROXY
 DOMAIN-SUFFIX,biligame.net,PROXY
 #end include:bilibili-game
-#include:bluepoch-games
 # From reverse 1999
 DOMAIN-SUFFIX,sl916.com,PROXY
 #end include:bluepoch-games
-#include:cowlevel
 DOMAIN-SUFFIX,cowlevel.net,PROXY
 DOMAIN-SUFFIX,cdncl.net,PROXY
 #end include:cowlevel
-#include:kurogames
 DOMAIN-SUFFIX,kurogames.com,PROXY
 
 # Wuthering Waves
 DOMAIN-SUFFIX,aki-game.com,PROXY
 #end include:kurogames
-#include:mihoyo-cn
 # 米哈游
 DOMAIN-SUFFIX,mhystatic.com,PROXY
 DOMAIN-SUFFIX,mhyurl.cn,PROXY
@@ -110,7 +104,6 @@ DOMAIN-SUFFIX,juequling.com,PROXY
 # Akamai
 DOMAIN-WILDCARD,*-mihayo.akamaized.net,PROXY
 #end include:mihoyo-cn
-#include:tencent-games
 DOMAIN-SUFFIX,battlecare.net,PROXY
 DOMAIN-SUFFIX,gameitop.com,PROXY
 DOMAIN-SUFFIX,gameloop.com,PROXY
@@ -219,17 +212,13 @@ DOMAIN-SUFFIX,anticheatexpert.com,PROXY
 DOMAIN-SUFFIX,17roco.com,PROXY
 DOMAIN-SUFFIX,roco.qq.com,PROXY
 #end include:tencent-games
-#include:tgbus
 DOMAIN-SUFFIX,tgbus.com,PROXY
 #end include:tgbus
-#include:tiancity
 DOMAIN-SUFFIX,tiancity.com,PROXY
 DOMAIN-SUFFIX,tiancitycdn.com,PROXY
 #end include:tiancity
-#include:vgtime
 DOMAIN-SUFFIX,vgtime.com,PROXY
 #end include:vgtime
-#include:vrzwk
 # vr中文库
 DOMAIN-SUFFIX,vrzwk.cn,PROXY
 
@@ -238,6 +227,20 @@ DOMAIN-SUFFIX,vrzwk.com,PROXY
 DOMAIN-SUFFIX,vrzwk.net,PROXY
 DOMAIN-SUFFIX,vrzwk.top,PROXY
 #end include:vrzwk
+DOMAIN-SUFFIX,tapimg.com,PROXY
+DOMAIN-SUFFIX,tapimg.net,PROXY
+DOMAIN-SUFFIX,taptap.cn,PROXY
+DOMAIN-SUFFIX,taptap.com,PROXY
+DOMAIN-SUFFIX,taptap.io,PROXY
+DOMAIN-SUFFIX,taptapdada.com,PROXY
+#end include:taptap
+
+DOMAIN-SUFFIX,ro.com,PROXY
+DOMAIN-SUFFIX,xd.cn,PROXY
+DOMAIN-SUFFIX,xd.com,PROXY
+DOMAIN-SUFFIX,xdcdn.net,PROXY
+DOMAIN-SUFFIX,xindong.com,PROXY
+#end include:xd
 
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX,astral-vector.com,PROXY

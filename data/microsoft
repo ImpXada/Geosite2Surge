@@ -197,6 +197,41 @@ DOMAIN-SUFFIX,th.bing.com,PROXY
 DOMAIN,bj1.api.bing.com,PROXY
 DOMAIN,emoi-cncdn.bing.com,PROXY
 #end include:bing
+#include:github
+DOMAIN-SUFFIX,npm.community,PROXY
+DOMAIN-SUFFIX,npmjs.com,PROXY
+DOMAIN-SUFFIX,npmjs.org,PROXY
+#end include:npmjs
+
+DOMAIN-SUFFIX,atom.io,PROXY
+DOMAIN-SUFFIX,dependabot.com,PROXY
+DOMAIN-SUFFIX,ghcr.io,PROXY
+DOMAIN-SUFFIX,git.io,PROXY
+DOMAIN-SUFFIX,github.blog,PROXY
+DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,github.community,PROXY
+DOMAIN-SUFFIX,github.dev,PROXY
+DOMAIN-SUFFIX,github.io,PROXY
+DOMAIN-SUFFIX,githubapp.com,PROXY
+DOMAIN-SUFFIX,githubassets.com,PROXY
+DOMAIN-SUFFIX,githubcopilot.com,PROXY
+DOMAIN-SUFFIX,githubhackathon.com,PROXY
+DOMAIN-SUFFIX,githubnext.com,PROXY
+DOMAIN-SUFFIX,githubpreview.dev,PROXY
+DOMAIN-SUFFIX,githubstatus.com,PROXY
+DOMAIN-SUFFIX,githubuniverse.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
+DOMAIN-SUFFIX,myoctocat.com,PROXY
+DOMAIN-SUFFIX,opensource.guide,PROXY
+DOMAIN-SUFFIX,repo.new,PROXY
+DOMAIN-SUFFIX,thegithubshop.com,PROXY
+
+# GitHub Actions Artifacts
+DOMAIN-SUFFIX,blob.core.windows.net,PROXY
+
+DOMAIN,github-cloud.s3.amazonaws.com,PROXY
+DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com,PROXY
+#end include:github
 #include:microsoft-dev
 DOMAIN-SUFFIX,adaptivecards.io,PROXY
 DOMAIN-SUFFIX,api-extractor.com,PROXY
@@ -314,70 +349,6 @@ DOMAIN-SUFFIX,onedrive.org,PROXY
 DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,storage.live.com,PROXY
 #end include:onedrive
-#include:xbox
-#include:asobo
-DOMAIN-SUFFIX,asobostudio.com,PROXY
-DOMAIN-SUFFIX,flightsimulator.com,PROXY
-
-DOMAIN,flightsimulator.azureedge.net,PROXY
-#end include:asobo
-#include:bethesda
-DOMAIN-SUFFIX,beth.games,PROXY
-DOMAIN-SUFFIX,bethesda.net,PROXY
-DOMAIN-SUFFIX,bethesdagamestudios.com,PROXY
-DOMAIN-SUFFIX,bethsoft.com,PROXY
-
-# Doom
-DOMAIN-SUFFIX,doom.com,PROXY
-
-# The Elder Scrolls
-DOMAIN-SUFFIX,elderscrolls.com,PROXY
-#end include:bethesda
-#include:forza
-DOMAIN-SUFFIX,forza.net,PROXY
-DOMAIN-SUFFIX,forzamotorsport.net,PROXY
-DOMAIN-SUFFIX,forzaracingchampionship.com,PROXY
-DOMAIN-SUFFIX,forzarc.com,PROXY
-
-DOMAIN,prodforza.blob.core.windows.net,PROXY
-#end include:forza
-#include:mojang
-DOMAIN-SUFFIX,callersbane.com,PROXY
-DOMAIN-SUFFIX,minecraft-services.net,PROXY
-DOMAIN-SUFFIX,minecraft.net,PROXY
-DOMAIN-SUFFIX,minecraftservices.com,PROXY
-DOMAIN-SUFFIX,minecraftshop.com,PROXY
-DOMAIN-SUFFIX,mojang.com,PROXY
-#end include:mojang
-
-# All .xbox domains
-DOMAIN-SUFFIX,xbox,PROXY
-
-DOMAIN-SUFFIX,gamepass.com,PROXY
-DOMAIN-SUFFIX,orithegame.com,PROXY
-DOMAIN-SUFFIX,renovacionxboxlive.com,PROXY
-DOMAIN-SUFFIX,tellmewhygame.com,PROXY
-DOMAIN-SUFFIX,xbox.co,PROXY
-DOMAIN-SUFFIX,xbox.com,PROXY
-DOMAIN-SUFFIX,xbox.eu,PROXY
-DOMAIN-SUFFIX,xbox.org,PROXY
-DOMAIN-SUFFIX,xbox360.co,PROXY
-DOMAIN-SUFFIX,xbox360.com,PROXY
-DOMAIN-SUFFIX,xbox360.eu,PROXY
-DOMAIN-SUFFIX,xbox360.org,PROXY
-DOMAIN-SUFFIX,xboxab.com,PROXY
-DOMAIN-SUFFIX,xboxgamepass.com,PROXY
-DOMAIN-SUFFIX,xboxgamestudios.com,PROXY
-DOMAIN-SUFFIX,xboxlive.cn,PROXY
-DOMAIN-SUFFIX,xboxlive.com,PROXY
-DOMAIN-SUFFIX,xboxone.co,PROXY
-DOMAIN-SUFFIX,xboxone.com,PROXY
-DOMAIN-SUFFIX,xboxone.eu,PROXY
-DOMAIN-SUFFIX,xboxplayanywhere.com,PROXY
-DOMAIN-SUFFIX,xboxservices.com,PROXY
-DOMAIN-SUFFIX,xboxstudios.com,PROXY
-DOMAIN-SUFFIX,xbx.lv,PROXY
-#end include:xbox
 
 # All .microsoft domains
 DOMAIN-SUFFIX,microsoft,PROXY

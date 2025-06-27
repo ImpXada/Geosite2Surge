@@ -8,6 +8,5 @@ DOMAIN-SUFFIX,acfunchina.com,PROXY
 DOMAIN-SUFFIX,acfunchina.net,PROXY
 DOMAIN-SUFFIX,aixifan.com,PROXY
 
-#include:acfun-ads
 DOMAIN,apilog-web.acfun.cn,PROXY
 #end include:acfun-ads

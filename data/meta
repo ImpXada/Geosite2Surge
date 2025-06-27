@@ -553,6 +553,7 @@ DOMAIN-SUFFIX,threads.com,PROXY
 DOMAIN-SUFFIX,threads.net,PROXY
 #end include:threads
 #include:whatsapp
+#include:whatsapp-ads
 DOMAIN-SUFFIX,graph.whatsapp.com,PROXY
 DOMAIN-SUFFIX,graph.whatsapp.net,PROXY
 #end include:whatsapp-ads

@@ -133,6 +133,7 @@ DOMAIN-SUFFIX,coupangcdn.com,PROXY
 DOMAIN-SUFFIX,craigslist.org,PROXY
 #end include:craigslist
 #include:dmm
+#include:dmm-ads
 # Refer: https://tonahazana.com/kancolle-2nd-weight-saving
 # If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
 
@@ -148,6 +149,7 @@ DOMAIN-SUFFIX,microad.co.jp,PROXY
 DOMAIN-SUFFIX,microad.jp,PROXY
 DOMAIN-SUFFIX,socdm.com,PROXY
 #end include:dmm-ads
+#include:dmm-porn
 DOMAIN-SUFFIX,dmm.co.jp,PROXY
 DOMAIN-SUFFIX,dmmrex.com,PROXY
 #end include:dmm-porn
