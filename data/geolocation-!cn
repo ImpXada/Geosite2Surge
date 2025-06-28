@@ -4487,6 +4487,31 @@ DOMAIN-SUFFIX,poi.moe,PROXY
 DOMAIN-SUFFIX,steampp.net,PROXY
 #end include:category-enhance-gaming
 
+#include:rsshub
+DOMAIN-SUFFIX,rsshub.app,PROXY
+#end include:rsshub
+#include:rsshub-3rd
+DOMAIN,holoxx.f5.si,PROXY
+DOMAIN,hub.slarker.me,PROXY
+DOMAIN,rss.4040940.xyz,PROXY
+DOMAIN,rss.datuan.dev,PROXY
+DOMAIN,rss.littlebaby.life,PROXY
+DOMAIN,rss.owo.nz,PROXY
+DOMAIN,rss.wudifeixue.com,PROXY
+DOMAIN,rsshub.asailor.org,PROXY
+DOMAIN,rsshub.email-once.com,PROXY
+DOMAIN,rsshub.henry.wang,PROXY
+DOMAIN,rsshub.isrss.com,PROXY
+DOMAIN,rsshub.ktachibana.party,PROXY
+DOMAIN,rsshub.pseudoyu.com,PROXY
+DOMAIN,rsshub.rss.tips,PROXY
+DOMAIN,rsshub.rssforever.com,PROXY
+DOMAIN,rsshub.umzzz.com,PROXY
+DOMAIN,rsshub.woodland.cafe,PROXY
+DOMAIN,rsshub2.asailor.org,PROXY
+DOMAIN,yangzhi.app,PROXY
+#end include:rsshub-3rd
+
 #include:accuweather
 DOMAIN-SUFFIX,accuweather.com,PROXY
 #end include:accuweather
@@ -4859,9 +4884,6 @@ DOMAIN-SUFFIX,rebrandly.com,PROXY
 #include:reurl
 DOMAIN-SUFFIX,reurl.cc,PROXY
 #end include:reurl
-#include:rsshub
-DOMAIN-SUFFIX,rsshub.app,PROXY
-#end include:rsshub
 #include:sb
 DOMAIN-SUFFIX,dns.sb,PROXY
 DOMAIN-SUFFIX,ip.gs,PROXY

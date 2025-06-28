@@ -1058,6 +1058,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | rockstar | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/rockstar |
 | roku | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/roku |
 | rsshub | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/rsshub |
+| rsshub-3rd | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/rsshub-3rd |
 | rthk | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/rthk |
 | ruanmei | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ruanmei |
 | ruby | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ruby |
