@@ -1,5 +1,7 @@
+#include:doc88
 DOMAIN-SUFFIX,doc88.com,PROXY
 #end include:doc88
+#include:docin
 DOMAIN-SUFFIX,docin.com,PROXY
 DOMAIN-SUFFIX,douding.cn,PROXY
 #end include:docin

@@ -1,15 +1,18 @@
 # Reference: https://zh.wikipedia.org/wiki/%E6%96%B0%E9%97%BB%E9%9B%86%E5%9B%A2
 
+#include:barrons
 DOMAIN-SUFFIX,barrons-advisor.com,PROXY
 DOMAIN-SUFFIX,barrons-conferences.com,PROXY
 DOMAIN-SUFFIX,barrons.com,PROXY
 DOMAIN-SUFFIX,wsjbarrons.com,PROXY
 #end include:barrons
+#include:dowjones
 DOMAIN-SUFFIX,djreprints.com,PROXY
 DOMAIN-SUFFIX,dowjones.com,PROXY
 DOMAIN-SUFFIX,dowjones.io,PROXY
 DOMAIN-SUFFIX,dowjoneson.com,PROXY
 #end include:dowjones
+#include:harpercollins
 DOMAIN-SUFFIX,bookclubgirl.com,PROXY
 DOMAIN-SUFFIX,collins.co.uk,PROXY
 DOMAIN-SUFFIX,collins.in,PROXY
@@ -31,10 +34,12 @@ DOMAIN-SUFFIX,librarylovefest.com,PROXY
 DOMAIN-SUFFIX,natgeokidsbooks.co.uk,PROXY
 DOMAIN-SUFFIX,shelfstuff.com,PROXY
 #end include:harpercollins
+#include:nypost
 DOMAIN-SUFFIX,nypost.com,PROXY
 DOMAIN-SUFFIX,nypost.help,PROXY
 DOMAIN-SUFFIX,nypostreprints.com,PROXY
 #end include:nypost
+#include:reagroup
 DOMAIN-SUFFIX,flatmates.com.au,PROXY
 DOMAIN-SUFFIX,hackday.com.au,PROXY
 DOMAIN-SUFFIX,hometrack.com.au,PROXY
@@ -68,6 +73,7 @@ DOMAIN-SUFFIX,spacely.com.au,PROXY
 DOMAIN-SUFFIX,squarefoot.com.hk,PROXY
 DOMAIN-SUFFIX,thinkofliving.com,PROXY
 #end include:reagroup
+#include:thesun
 DOMAIN-SUFFIX,dreamteamfc.com,PROXY
 DOMAIN-SUFFIX,page3.com,PROXY
 DOMAIN-SUFFIX,sunbingo.co.uk,PROXY
@@ -76,6 +82,7 @@ DOMAIN-SUFFIX,thescottishsun.co.uk,PROXY
 DOMAIN-SUFFIX,thesun.co.uk,PROXY
 DOMAIN-SUFFIX,thesun.ie,PROXY
 #end include:thesun
+#include:thetimes
 DOMAIN-SUFFIX,driving.co.uk,PROXY
 DOMAIN-SUFFIX,mytimesplus.co.uk,PROXY
 DOMAIN-SUFFIX,sportswomanoftheyear.co.uk,PROXY
@@ -86,6 +93,7 @@ DOMAIN-SUFFIX,thetimes.co.uk,PROXY
 DOMAIN-SUFFIX,thetimes.ie,PROXY
 DOMAIN-SUFFIX,timesmembership.com,PROXY
 #end include:thetimes
+#include:wsj
 DOMAIN-SUFFIX,careerjournal.com,PROXY
 DOMAIN-SUFFIX,collegejournal.com,PROXY
 DOMAIN-SUFFIX,opinionjournal.com,PROXY

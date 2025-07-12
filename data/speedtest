@@ -1,5 +1,6 @@
 # This tag 'speedtest' is for backward compatibility of 'geosite:speedtest' in V2Ray.
 
+#include:ookla-speedtest
 DOMAIN-SUFFIX,cdnst.net,PROXY
 DOMAIN-SUFFIX,cellmaps.com,PROXY
 DOMAIN-SUFFIX,ekahau.cloud,PROXY

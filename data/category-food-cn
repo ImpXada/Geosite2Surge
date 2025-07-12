@@ -1,9 +1,12 @@
+#include:bestore
 DOMAIN-SUFFIX,517lppz.com,PROXY
 DOMAIN-SUFFIX,lppz.com,PROXY
 DOMAIN-SUFFIX,lppzimg.com,PROXY
 #end include:bestore
+#include:heytea
 DOMAIN-SUFFIX,heytea.com,PROXY
 #end include:heytea
+#include:lkcoffee
 DOMAIN-SUFFIX,lkcoffee.com,PROXY
 DOMAIN-SUFFIX,luckincoffeecdn.com,PROXY
 DOMAIN-SUFFIX,yyds.co,PROXY

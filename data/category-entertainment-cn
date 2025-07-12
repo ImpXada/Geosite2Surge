@@ -1,6 +1,7 @@
 # Entertainment & Videos & Games & Music & Podcasts
 
 #include:category-games-cn
+#include:4399
 DOMAIN-SUFFIX,3304399.com,PROXY
 DOMAIN-SUFFIX,3304399.net,PROXY
 DOMAIN-SUFFIX,3839.com,PROXY
@@ -57,6 +58,7 @@ DOMAIN-SUFFIX,webgame163.com,PROXY
 DOMAIN-SUFFIX,youba.com,PROXY
 DOMAIN-SUFFIX,yxhhdl.com,PROXY
 #end include:4399
+#include:bilibili-game
 DOMAIN-SUFFIX,bilibiligame.cn,PROXY
 DOMAIN-SUFFIX,bilibiligame.co,PROXY
 DOMAIN-SUFFIX,bilibiligame.net,PROXY
@@ -64,17 +66,21 @@ DOMAIN-SUFFIX,biligame.co,PROXY
 DOMAIN-SUFFIX,biligame.com,PROXY
 DOMAIN-SUFFIX,biligame.net,PROXY
 #end include:bilibili-game
+#include:bluepoch-games
 # From reverse 1999
 DOMAIN-SUFFIX,sl916.com,PROXY
 #end include:bluepoch-games
+#include:cowlevel
 DOMAIN-SUFFIX,cowlevel.net,PROXY
 DOMAIN-SUFFIX,cdncl.net,PROXY
 #end include:cowlevel
+#include:kurogames
 DOMAIN-SUFFIX,kurogames.com,PROXY
 
 # Wuthering Waves
 DOMAIN-SUFFIX,aki-game.com,PROXY
 #end include:kurogames
+#include:mihoyo-cn
 # 米哈游
 DOMAIN-SUFFIX,mhystatic.com,PROXY
 DOMAIN-SUFFIX,mhyurl.cn,PROXY
@@ -107,6 +113,7 @@ DOMAIN-SUFFIX,juequling.com,PROXY
 # Akamai
 DOMAIN-WILDCARD,*-mihayo.akamaized.net,PROXY
 #end include:mihoyo-cn
+#include:tencent-games
 DOMAIN-SUFFIX,battlecare.net,PROXY
 DOMAIN-SUFFIX,gameitop.com,PROXY
 DOMAIN-SUFFIX,gameloop.com,PROXY
@@ -215,13 +222,17 @@ DOMAIN-SUFFIX,anticheatexpert.com,PROXY
 DOMAIN-SUFFIX,17roco.com,PROXY
 DOMAIN-SUFFIX,roco.qq.com,PROXY
 #end include:tencent-games
+#include:tgbus
 DOMAIN-SUFFIX,tgbus.com,PROXY
 #end include:tgbus
+#include:tiancity
 DOMAIN-SUFFIX,tiancity.com,PROXY
 DOMAIN-SUFFIX,tiancitycdn.com,PROXY
 #end include:tiancity
+#include:vgtime
 DOMAIN-SUFFIX,vgtime.com,PROXY
 #end include:vgtime
+#include:vrzwk
 # vr中文库
 DOMAIN-SUFFIX,vrzwk.cn,PROXY
 
@@ -230,6 +241,7 @@ DOMAIN-SUFFIX,vrzwk.com,PROXY
 DOMAIN-SUFFIX,vrzwk.net,PROXY
 DOMAIN-SUFFIX,vrzwk.top,PROXY
 #end include:vrzwk
+#include:xd
 DOMAIN-SUFFIX,tapimg.com,PROXY
 DOMAIN-SUFFIX,tapimg.net,PROXY
 DOMAIN-SUFFIX,taptap.cn,PROXY
@@ -296,7 +308,6 @@ DOMAIN-SUFFIX,bestvcdn.net,PROXY
 DOMAIN-SUFFIX,smgbb.cn,PROXY
 #end include:bestv
 #include:bilibili
-#include:bilibili-game
 DOMAIN-SUFFIX,bilibiligame.cn,PROXY
 DOMAIN-SUFFIX,bilibiligame.co,PROXY
 DOMAIN-SUFFIX,bilibiligame.net,PROXY
@@ -487,6 +498,7 @@ DOMAIN-SUFFIX,qy.net,PROXY
 # CDN used by iqiyi
 DOMAIN-SUFFIX,71edge.com,PROXY
 
+#include:iqiyi-ads
 DOMAIN-SUFFIX,a.ckm.iqiyi.com,PROXY
 DOMAIN-SUFFIX,ad.m.iqiyi.com,PROXY
 DOMAIN-SUFFIX,afp.iqiyi.com,PROXY
@@ -518,6 +530,32 @@ DOMAIN-SUFFIX,ku6img.com,PROXY
 DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
+#include:kuaishou
+DOMAIN-SUFFIX,adbkwai.com,PROXY
+DOMAIN-SUFFIX,adkwai.com,PROXY
+DOMAIN-SUFFIX,adukwai.com,PROXY
+DOMAIN-SUFFIX,e.kuaishou.cn,PROXY
+DOMAIN-SUFFIX,e.kuaishou.com,PROXY
+
+DOMAIN,log-sdk.gifshow.com,PROXY
+DOMAIN,wlog.kuaishou.com,PROXY
+#end include:kuaishou-ads
+
+DOMAIN-SUFFIX,ecukwai.com,PROXY
+DOMAIN-SUFFIX,gifshow.com,PROXY
+DOMAIN-SUFFIX,inkwai.com,PROXY
+DOMAIN-SUFFIX,ksapisrv.com,PROXY
+DOMAIN-SUFFIX,kskwai.com,PROXY
+DOMAIN-SUFFIX,kuaishou.com,PROXY
+DOMAIN-SUFFIX,kuaishouapps.com,PROXY
+DOMAIN-SUFFIX,kuaishoupay.com,PROXY
+DOMAIN-SUFFIX,kuaishouzt.com,PROXY
+DOMAIN-SUFFIX,kwaicdn.com,PROXY
+DOMAIN-SUFFIX,kwaizt.com,PROXY
+DOMAIN-SUFFIX,kwimgs.com,PROXY
+DOMAIN-SUFFIX,wsukwai.com,PROXY
+DOMAIN-SUFFIX,yximgs.com,PROXY
+#end include:kuaishou
 #include:kugou
 #include:kugou-ads
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
@@ -547,6 +585,33 @@ DOMAIN-SUFFIX,koowo.cn,PROXY
 DOMAIN-SUFFIX,koowo.com,PROXY
 DOMAIN-SUFFIX,kuwo.cn,PROXY
 #end include:kuwo
+#include:le
+#include:letv-ads
+DOMAIN-SUFFIX,api.game.letvstore.com,PROXY
+DOMAIN-SUFFIX,ark.letv.com,PROXY
+DOMAIN-SUFFIX,dc.letv.com,PROXY
+DOMAIN-SUFFIX,fz.letv.com,PROXY
+DOMAIN-SUFFIX,g3.letv.com,PROXY
+DOMAIN-SUFFIX,letv.allyes.com,PROXY
+DOMAIN-SUFFIX,minisite.letv.com,PROXY
+DOMAIN-SUFFIX,msg.m.letv.com,PROXY
+DOMAIN-SUFFIX,n.mark.letv.com,PROXY
+DOMAIN-SUFFIX,pro.hoye.letv.com,PROXY
+DOMAIN-SUFFIX,pro.letv.com,PROXY
+DOMAIN-SUFFIX,stat.letv.com,PROXY
+DOMAIN-SUFFIX,static.app.m.letv.com,PROXY
+#end include:letv-ads
+
+DOMAIN-SUFFIX,le.com,PROXY
+DOMAIN-SUFFIX,leautolink.com,PROXY
+DOMAIN-SUFFIX,lecloud.com,PROXY
+DOMAIN-SUFFIX,lecloudapi.com,PROXY
+DOMAIN-SUFFIX,lemall.com,PROXY
+DOMAIN-SUFFIX,leso.cn,PROXY
+DOMAIN-SUFFIX,letv.com,PROXY
+DOMAIN-SUFFIX,letvcdn.com,PROXY
+DOMAIN-SUFFIX,letvimg.com,PROXY
+#end include:le
 #include:lizhi
 DOMAIN-SUFFIX,lizhi.fm,PROXY
 DOMAIN-SUFFIX,lizhifm.com,PROXY

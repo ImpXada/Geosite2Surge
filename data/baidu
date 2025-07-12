@@ -1,4 +1,3 @@
-#include:baidu-ads
 DOMAIN-SUFFIX,a.baidu.com,PROXY
 DOMAIN-SUFFIX,ad.duapps.com,PROXY
 DOMAIN-SUFFIX,ad.player.baidu.com,PROXY
@@ -156,7 +155,6 @@ DOMAIN-SUFFIX,znsv.baidu.com,PROXY
 DOMAIN-SUFFIX,zz.bdstatic.com,PROXY
 DOMAIN-SUFFIX,zzy1.quyaoya.com,PROXY
 #end include:baidu-ads
-#include:zuoyebang
 DOMAIN-SUFFIX,zuoyebang.cc,PROXY
 DOMAIN-SUFFIX,zuoyebang.com,PROXY
 DOMAIN-SUFFIX,zybang.com,PROXY

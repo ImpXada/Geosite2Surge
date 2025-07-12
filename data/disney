@@ -1,15 +1,12 @@
-#include:abc
 # American Broadcasting Company
 
 DOMAIN-SUFFIX,abc-studios.com,PROXY
 DOMAIN-SUFFIX,abc.com,PROXY
 DOMAIN-SUFFIX,edgedatg.com,PROXY
 #end include:abc
-#include:bamtech
 DOMAIN-SUFFIX,bamgrid.com,PROXY
 DOMAIN-SUFFIX,dmed.technology,PROXY
 #end include:bamtech
-#include:espn
 DOMAIN-SUFFIX,dtci.co,PROXY
 DOMAIN-SUFFIX,dtci.technology,PROXY
 DOMAIN-SUFFIX,espn.co.uk,PROXY
@@ -23,7 +20,6 @@ DOMAIN,espn.api.edge.bamgrid.com,PROXY
 DOMAIN,espn.hb.omtrdc.net,PROXY
 DOMAIN,espndotcom.tt.omtrdc.net,PROXY
 #end include:espn
-#include:hotstar
 DOMAIN-SUFFIX,hotstar.com,PROXY
 DOMAIN-SUFFIX,hotstar-cdn.net,PROXY
 DOMAIN-SUFFIX,hotstar-labs.com,PROXY
@@ -32,7 +28,6 @@ DOMAIN-SUFFIX,hsprepack.akamaized.net,PROXY
 
 DOMAIN-WILDCARD,hses*.akamaized.net,PROXY
 #end include:hotstar
-#include:marvel
 DOMAIN-SUFFIX,marvel.com,PROXY
 DOMAIN-SUFFIX,marvel10thanniversary.com,PROXY
 DOMAIN-SUFFIX,marveldimensionofheroes.com,PROXY
@@ -44,13 +39,11 @@ DOMAIN-SUFFIX,marvelsuperheroseptember.com,PROXY
 DOMAIN-SUFFIX,marvelsuperwar.com,PROXY
 DOMAIN-SUFFIX,themarvelexperiencetour.com,PROXY
 #end include:marvel
-#include:nationalgeographic
 DOMAIN-SUFFIX,natgeomaps.com,PROXY
 DOMAIN-SUFFIX,nationalgeographic.com,PROXY
 DOMAIN-SUFFIX,nationalgeographicpartners.com,PROXY
 DOMAIN-SUFFIX,ngeo.com,PROXY
 #end include:nationalgeographic
-#include:starplus
 DOMAIN-SUFFIX,starott.com,PROXY
 DOMAIN-SUFFIX,starplus.com,PROXY
 
