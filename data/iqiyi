@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,qy.net,PROXY
 # CDN used by iqiyi
 DOMAIN-SUFFIX,71edge.com,PROXY
 
-#include:iqiyi-ads
 DOMAIN-SUFFIX,a.ckm.iqiyi.com,PROXY
 DOMAIN-SUFFIX,ad.m.iqiyi.com,PROXY
 DOMAIN-SUFFIX,afp.iqiyi.com,PROXY

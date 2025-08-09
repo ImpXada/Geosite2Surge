@@ -241,21 +241,6 @@ DOMAIN-SUFFIX,vrzwk.com,PROXY
 DOMAIN-SUFFIX,vrzwk.net,PROXY
 DOMAIN-SUFFIX,vrzwk.top,PROXY
 #end include:vrzwk
-#include:xd
-DOMAIN-SUFFIX,tapimg.com,PROXY
-DOMAIN-SUFFIX,tapimg.net,PROXY
-DOMAIN-SUFFIX,taptap.cn,PROXY
-DOMAIN-SUFFIX,taptap.com,PROXY
-DOMAIN-SUFFIX,taptap.io,PROXY
-DOMAIN-SUFFIX,taptapdada.com,PROXY
-#end include:taptap
-
-DOMAIN-SUFFIX,ro.com,PROXY
-DOMAIN-SUFFIX,xd.cn,PROXY
-DOMAIN-SUFFIX,xd.com,PROXY
-DOMAIN-SUFFIX,xdcdn.net,PROXY
-DOMAIN-SUFFIX,xindong.com,PROXY
-#end include:xd
 
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX,astral-vector.com,PROXY
@@ -287,6 +272,7 @@ DOMAIN-SUFFIX,acfunchina.com,PROXY
 DOMAIN-SUFFIX,acfunchina.net,PROXY
 DOMAIN-SUFFIX,aixifan.com,PROXY
 
+#include:acfun-ads
 DOMAIN,apilog-web.acfun.cn,PROXY
 #end include:acfun-ads
 #end include:acfun
@@ -465,6 +451,7 @@ DOMAIN-SUFFIX,gitv.tv,PROXY
 #end include:gitv
 #include:hunantv
 # 湖南广电（芒果TV）
+#include:hunantv-ads
 DOMAIN-SUFFIX,click.hunantv.com,PROXY
 DOMAIN-SUFFIX,da.hunantv.com,PROXY
 DOMAIN-SUFFIX,da.mgtv.com,PROXY
@@ -498,7 +485,6 @@ DOMAIN-SUFFIX,qy.net,PROXY
 # CDN used by iqiyi
 DOMAIN-SUFFIX,71edge.com,PROXY
 
-#include:iqiyi-ads
 DOMAIN-SUFFIX,a.ckm.iqiyi.com,PROXY
 DOMAIN-SUFFIX,ad.m.iqiyi.com,PROXY
 DOMAIN-SUFFIX,afp.iqiyi.com,PROXY
@@ -531,6 +517,7 @@ DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
 #include:kuaishou
+#include:kuaishou-ads
 DOMAIN-SUFFIX,adbkwai.com,PROXY
 DOMAIN-SUFFIX,adkwai.com,PROXY
 DOMAIN-SUFFIX,adukwai.com,PROXY
@@ -557,7 +544,6 @@ DOMAIN-SUFFIX,wsukwai.com,PROXY
 DOMAIN-SUFFIX,yximgs.com,PROXY
 #end include:kuaishou
 #include:kugou
-#include:kugou-ads
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY
 DOMAIN-SUFFIX,adserviceretry.kugou.com,PROXY
@@ -586,7 +572,6 @@ DOMAIN-SUFFIX,koowo.com,PROXY
 DOMAIN-SUFFIX,kuwo.cn,PROXY
 #end include:kuwo
 #include:le
-#include:letv-ads
 DOMAIN-SUFFIX,api.game.letvstore.com,PROXY
 DOMAIN-SUFFIX,ark.letv.com,PROXY
 DOMAIN-SUFFIX,dc.letv.com,PROXY

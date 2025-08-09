@@ -1,3 +1,4 @@
+#include:poe
 DOMAIN-SUFFIX,poe.com,PROXY
 DOMAIN-SUFFIX,poecdn.net,PROXY
 #end include:poe

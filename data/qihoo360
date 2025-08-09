@@ -1,9 +1,11 @@
+#include:75team
 DOMAIN-SUFFIX,75.team,PROXY
 DOMAIN-SUFFIX,75team.com,PROXY
 
 # 75CDN
 DOMAIN-SUFFIX,baomitu.com,PROXY
 #end include:75team
+#include:qihoo360-ads
 DOMAIN-SUFFIX,fenxi.com,PROXY
 DOMAIN-SUFFIX,lianmeng.360.cn,PROXY
 DOMAIN-SUFFIX,mediav.com,PROXY
@@ -13,6 +15,7 @@ DOMAIN-SUFFIX,s.360.cn,PROXY
 DOMAIN-SUFFIX,s.so.360.cn,PROXY
 DOMAIN-SUFFIX,s.union.360.cn,PROXY
 #end include:qihoo360-ads
+#include:starworld
 # StarWorld Games is a wholly owned subsidiary of Qihoo 360
 
 DOMAIN-SUFFIX,360-api.cn,PROXY

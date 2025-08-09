@@ -1,16 +1,21 @@
+#include:fontexplorer
 DOMAIN-SUFFIX,fontexplorerx.com,PROXY
 #end include:fontexplorer
+#include:fonts
 DOMAIN-SUFFIX,fonts.com,PROXY
 DOMAIN-SUFFIX,fonts.net,PROXY
 #end include:fonts
+#include:fontshop
 DOMAIN-SUFFIX,fontbook.com,PROXY
 DOMAIN-SUFFIX,fontshop.com,PROXY
 DOMAIN-SUFFIX,fstopimages.com,PROXY
 
 DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com,PROXY
 #end include:fontshop
+#include:linotype
 DOMAIN-SUFFIX,linotype.com,PROXY
 #end include:linotype
+#include:myfonts
 DOMAIN-SUFFIX,myfonts.com,PROXY
 DOMAIN-SUFFIX,myfonts.net,PROXY
 #end include:myfonts

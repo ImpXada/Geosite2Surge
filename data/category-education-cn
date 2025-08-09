@@ -1,4 +1,3 @@
-#include:category-mooc-cn
 DOMAIN-SUFFIX,chinesemooc.org,PROXY
 DOMAIN-SUFFIX,cnmooc.org,PROXY
 DOMAIN-SUFFIX,icourse163.org,PROXY
@@ -13,44 +12,36 @@ DOMAIN,opencourse.pku.edu.cn,PROXY
 DOMAIN,study.163.com,PROXY
 #end include:category-mooc-cn
 
-#include:17zuoye
 DOMAIN-SUFFIX,17zuoye.cn,PROXY
 DOMAIN-SUFFIX,17zuoye.com,PROXY
 DOMAIN-SUFFIX,17zuoye.net,PROXY
 #end include:17zuoye
-#include:applysquare
 DOMAIN-SUFFIX,applysquare.com,PROXY
 DOMAIN-SUFFIX,applysquare.net,PROXY
 #end include:applysquare
-#include:hugecore
 DOMAIN-SUFFIX,hugecore.net,PROXY
 DOMAIN-SUFFIX,shareintelli.com,PROXY
 
 # MOJi辞書
 DOMAIN-SUFFIX,mojidict.com,PROXY
 #end include:hugecore
-#include:hujiang
 DOMAIN-SUFFIX,cctalk.com,PROXY
 DOMAIN-SUFFIX,hjapi.com,PROXY
 DOMAIN-SUFFIX,hjfile.cn,PROXY
 DOMAIN-SUFFIX,hujiang.com,PROXY
 DOMAIN-SUFFIX,yeshj.com,PROXY
 #end include:hujiang
-#include:koolearn
 DOMAIN-SUFFIX,koocdn.com,PROXY
 DOMAIN-SUFFIX,koolearn.com,PROXY
 DOMAIN-SUFFIX,koopass.com,PROXY
 #end include:koolearn
-#include:shanbay
 DOMAIN-SUFFIX,baydn.com,PROXY
 DOMAIN-SUFFIX,shanbay.com,PROXY
 #end include:shanbay
-#include:xueersi
 DOMAIN-SUFFIX,speiyou.com,PROXY
 DOMAIN-SUFFIX,xesimg.com,PROXY
 DOMAIN-SUFFIX,xueersi.com,PROXY
 #end include:xueersi
-#include:yuanfudao
 DOMAIN-SUFFIX,banmaaike.com,PROXY
 DOMAIN-SUFFIX,xiaoyuankousuan.com,PROXY
 DOMAIN-SUFFIX,ybccode.com,PROXY
@@ -66,7 +57,6 @@ DOMAIN-SUFFIX,fenbike.com,PROXY
 DOMAIN-SUFFIX,fenbilantian.cn,PROXY
 DOMAIN-SUFFIX,fenbilantian.com,PROXY
 #end include:yuanfudao
-#include:zhihuishu
 DOMAIN-SUFFIX,zhihuishu.com,PROXY
 #end include:zhihuishu
 
@@ -100,7 +90,6 @@ DOMAIN-SUFFIX,zbbm.gov.cn,PROXY
 DOMAIN-SUFFIX,zbbm.net,PROXY
 
 # 雨课堂
-#include:yuketang
 DOMAIN-SUFFIX,rainclassroom.com,PROXY
 DOMAIN-SUFFIX,yuketang.cn,PROXY
 #end include:yuketang

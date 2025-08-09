@@ -1,4 +1,3 @@
-#include:letv-ads
 DOMAIN-SUFFIX,api.game.letvstore.com,PROXY
 DOMAIN-SUFFIX,ark.letv.com,PROXY
 DOMAIN-SUFFIX,dc.letv.com,PROXY

@@ -316,24 +316,6 @@ DOMAIN-SUFFIX,trustwave.com,PROXY
 #include:twca
 DOMAIN-SUFFIX,twca.com.tw,PROXY
 #end include:twca
-#include:verizon
-
-DOMAIN-SUFFIX,oath.cloud,PROXY
-DOMAIN-SUFFIX,oath.com,PROXY
-DOMAIN-SUFFIX,ouroath.com,PROXY
-DOMAIN-SUFFIX,static-verizon.com,PROXY
-DOMAIN-SUFFIX,uplynk.com,PROXY
-DOMAIN-SUFFIX,verizon.com,PROXY
-DOMAIN-SUFFIX,verizon.net,PROXY
-DOMAIN-SUFFIX,verizonbusinessfios.com,PROXY
-DOMAIN-SUFFIX,verizondigitalmedia.com,PROXY
-DOMAIN-SUFFIX,verizonenterprise.com,PROXY
-DOMAIN-SUFFIX,verizonfios.com,PROXY
-DOMAIN-SUFFIX,verizonmedia.com,PROXY
-DOMAIN-SUFFIX,verizonwireless.com,PROXY
-DOMAIN-SUFFIX,vzw.com,PROXY
-DOMAIN-SUFFIX,xo.com,PROXY
-#end include:verizon
 #include:vodafone
 DOMAIN-SUFFIX,myvodafone.com.au,PROXY
 DOMAIN-SUFFIX,myvodafone.com.ws,PROXY

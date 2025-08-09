@@ -814,11 +814,13 @@ DOMAIN,ubistatic3-a.akamaihd.net,PROXY
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com,PROXY
 #end include:ubisoft
 #include:xbox
+#include:asobo
 DOMAIN-SUFFIX,asobostudio.com,PROXY
 DOMAIN-SUFFIX,flightsimulator.com,PROXY
 
 DOMAIN,flightsimulator.azureedge.net,PROXY
 #end include:asobo
+#include:bethesda
 DOMAIN-SUFFIX,beth.games,PROXY
 DOMAIN-SUFFIX,bethesda.net,PROXY
 DOMAIN-SUFFIX,bethesdagamestudios.com,PROXY
@@ -830,6 +832,7 @@ DOMAIN-SUFFIX,doom.com,PROXY
 # The Elder Scrolls
 DOMAIN-SUFFIX,elderscrolls.com,PROXY
 #end include:bethesda
+#include:forza
 DOMAIN-SUFFIX,forza.net,PROXY
 DOMAIN-SUFFIX,forzamotorsport.net,PROXY
 DOMAIN-SUFFIX,forzaracingchampionship.com,PROXY
@@ -837,6 +840,7 @@ DOMAIN-SUFFIX,forzarc.com,PROXY
 
 DOMAIN,prodforza.blob.core.windows.net,PROXY
 #end include:forza
+#include:mojang
 DOMAIN-SUFFIX,callersbane.com,PROXY
 DOMAIN-SUFFIX,minecraft-services.net,PROXY
 DOMAIN-SUFFIX,minecraft.net,PROXY

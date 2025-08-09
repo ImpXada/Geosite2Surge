@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,ptt2.cc,PROXY
 DOMAIN-SUFFIX,ptt3.cc,PROXY
 #end include:ptt
 #include:quora
+#include:poe
 DOMAIN-SUFFIX,poe.com,PROXY
 DOMAIN-SUFFIX,poecdn.net,PROXY
 #end include:poe

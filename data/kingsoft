@@ -1,4 +1,3 @@
-#include:cheetahmobile
 DOMAIN-SUFFIX,cmcm.com,PROXY
 DOMAIN-SUFFIX,cmcmcdn.com,PROXY
 DOMAIN-SUFFIX,liebao.cn,PROXY
@@ -8,7 +7,6 @@ DOMAIN-SUFFIX,duba.com,PROXY
 DOMAIN-SUFFIX,duba.net,PROXY
 DOMAIN-SUFFIX,ijinshan.com,PROXY
 #end include:cheetahmobile
-#include:seasun
 DOMAIN-SUFFIX,seasungames.com,PROXY
 DOMAIN-SUFFIX,xishanju.com,PROXY
 DOMAIN-SUFFIX,xoyo.com,PROXY
@@ -20,7 +18,6 @@ DOMAIN-SUFFIX,cbjq.com,PROXY
 # Testplus
 DOMAIN-SUFFIX,testplus.cn,PROXY
 #end include:seasun
-#include:wps
 DOMAIN-SUFFIX,wps.cn,PROXY
 DOMAIN-SUFFIX,wps.com,PROXY
 DOMAIN-SUFFIX,wpscdn.cn,PROXY

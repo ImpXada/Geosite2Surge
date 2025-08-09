@@ -406,6 +406,7 @@ DOMAIN-SUFFIX,workplaceusecases.com,PROXY
 DOMAIN,fbcdn-a.akamaihd.net,PROXY
 #end include:facebook
 #include:instagram
+#include:instagram-ads
 DOMAIN-SUFFIX,graph.instagram.com,PROXY
 DOMAIN-SUFFIX,graph-fallback.instagram.com,PROXY
 #end include:instagram-ads

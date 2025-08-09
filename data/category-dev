@@ -102,6 +102,24 @@ DOMAIN-SUFFIX,forthebadge.com,PROXY
 # Stock Against Photography
 DOMAIN-SUFFIX,stockagainstphotography.com,PROXY
 #end include:braveux
+#include:canonical
+DOMAIN-SUFFIX,launchpad.net,PROXY
+DOMAIN-SUFFIX,launchpadcontent.net,PROXY
+DOMAIN-SUFFIX,launchpadlibrarian.com,PROXY
+DOMAIN-SUFFIX,launchpadlibrarian.net,PROXY
+DOMAIN-SUFFIX,launchpadlibrarian.org,PROXY
+#end include:launchpad
+DOMAIN-SUFFIX,snapcraft.io,PROXY
+DOMAIN-SUFFIX,snapstore.io,PROXY
+#end include:snapcraft
+DOMAIN-SUFFIX,ubuntu.com,PROXY
+DOMAIN-SUFFIX,ubuntu.net,PROXY
+DOMAIN-SUFFIX,ubuntuforums.org,PROXY
+DOMAIN-SUFFIX,ubuntu-touch.io,PROXY
+#end include:ubuntu
+
+DOMAIN-SUFFIX,canonical.com,PROXY
+#end include:canonical
 #include:category-container
 DOMAIN-SUFFIX,azurecr.io,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
@@ -248,6 +266,41 @@ DOMAIN-SUFFIX,gemfury.com,PROXY
 DOMAIN-SUFFIX,gitbook.com,PROXY
 DOMAIN-SUFFIX,gitbook.io,PROXY
 #end include:gitbook
+#include:github
+DOMAIN-SUFFIX,npm.community,PROXY
+DOMAIN-SUFFIX,npmjs.com,PROXY
+DOMAIN-SUFFIX,npmjs.org,PROXY
+#end include:npmjs
+
+DOMAIN-SUFFIX,atom.io,PROXY
+DOMAIN-SUFFIX,dependabot.com,PROXY
+DOMAIN-SUFFIX,ghcr.io,PROXY
+DOMAIN-SUFFIX,git.io,PROXY
+DOMAIN-SUFFIX,github.blog,PROXY
+DOMAIN-SUFFIX,github.com,PROXY
+DOMAIN-SUFFIX,github.community,PROXY
+DOMAIN-SUFFIX,github.dev,PROXY
+DOMAIN-SUFFIX,github.io,PROXY
+DOMAIN-SUFFIX,githubapp.com,PROXY
+DOMAIN-SUFFIX,githubassets.com,PROXY
+DOMAIN-SUFFIX,githubcopilot.com,PROXY
+DOMAIN-SUFFIX,githubhackathon.com,PROXY
+DOMAIN-SUFFIX,githubnext.com,PROXY
+DOMAIN-SUFFIX,githubpreview.dev,PROXY
+DOMAIN-SUFFIX,githubstatus.com,PROXY
+DOMAIN-SUFFIX,githubuniverse.com,PROXY
+DOMAIN-SUFFIX,githubusercontent.com,PROXY
+DOMAIN-SUFFIX,myoctocat.com,PROXY
+DOMAIN-SUFFIX,opensource.guide,PROXY
+DOMAIN-SUFFIX,repo.new,PROXY
+DOMAIN-SUFFIX,thegithubshop.com,PROXY
+
+# GitHub Actions Artifacts
+DOMAIN-SUFFIX,blob.core.windows.net,PROXY
+
+DOMAIN,github-cloud.s3.amazonaws.com,PROXY
+DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com,PROXY
+#end include:github
 #include:github1s
 DOMAIN-SUFFIX,github1s.com,PROXY
 DOMAIN-SUFFIX,sourcegraph.com,PROXY
@@ -550,6 +603,18 @@ DOMAIN-SUFFIX,termux.org,PROXY
 #include:topcoder
 DOMAIN-SUFFIX,topcoder.com,PROXY
 #end include:topcoder
+#include:unity
+DOMAIN-SUFFIX,unity.com,PROXY
+DOMAIN-SUFFIX,unity3d.com,PROXY
+
+DOMAIN-SUFFIX,ads.unitychina.cn,PROXY
+DOMAIN-SUFFIX,splash-ads.cdn.unity.cn,PROXY
+DOMAIN-SUFFIX,splash-ads.unitychina.cn,PROXY
+DOMAIN-SUFFIX,unityads.unity.cn,PROXY
+DOMAIN-SUFFIX,unityads.unity3d.com,PROXY
+DOMAIN-SUFFIX,unityads.unitychina.cn,PROXY
+#end include:unity-ads
+#end include:unity
 #include:v8
 DOMAIN-SUFFIX,v8.dev,PROXY
 DOMAIN-SUFFIX,v8project.org,PROXY

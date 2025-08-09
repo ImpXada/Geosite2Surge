@@ -1,4 +1,3 @@
-#include:vmware
 DOMAIN-SUFFIX,cfblob.com,PROXY
 DOMAIN-SUFFIX,cloudchoose.com,PROXY
 DOMAIN-SUFFIX,cloudvolumes.com,PROXY
