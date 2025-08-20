@@ -274,6 +274,7 @@ DOMAIN-SUFFIX,twporn.net,PROXY
 #include:kemono
 DOMAIN-SUFFIX,cooer.su,PROXY
 DOMAIN-SUFFIX,coomer.party,PROXY
+DOMAIN-SUFFIX,kemono.cr,PROXY
 DOMAIN-SUFFIX,kemono.party,PROXY
 DOMAIN-SUFFIX,kemono.su,PROXY
 #end include:kemono

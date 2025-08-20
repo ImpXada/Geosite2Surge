@@ -170,6 +170,9 @@ DOMAIN-SUFFIX,ccbxt.com,PROXY
 # All .citic domains
 DOMAIN-SUFFIX,citic,PROXY
 
+# All .中信 domains
+DOMAIN-SUFFIX,xn--fiq64b,PROXY
+
 DOMAIN-SUFFIX,chinaamc.com,PROXY
 DOMAIN-SUFFIX,citic-prudential.com.cn,PROXY
 DOMAIN-SUFFIX,citicbank.com,PROXY
@@ -184,7 +187,6 @@ DOMAIN-SUFFIX,cncbinternational.com,PROXY
 DOMAIN-SUFFIX,csc108.com,PROXY
 DOMAIN-SUFFIX,csci.hk,PROXY
 DOMAIN-SUFFIX,ecitic.com,PROXY
-
 #end include:citic
 #include:cmb
 DOMAIN-SUFFIX,8008205555.cn,PROXY
@@ -532,6 +534,9 @@ DOMAIN-SUFFIX,zlfund.cn,PROXY
 # All .citic domains
 DOMAIN-SUFFIX,citic,PROXY
 
+# All .中信 domains
+DOMAIN-SUFFIX,xn--fiq64b,PROXY
+
 DOMAIN-SUFFIX,chinaamc.com,PROXY
 DOMAIN-SUFFIX,citic-prudential.com.cn,PROXY
 DOMAIN-SUFFIX,citicbank.com,PROXY
@@ -546,7 +551,6 @@ DOMAIN-SUFFIX,cncbinternational.com,PROXY
 DOMAIN-SUFFIX,csc108.com,PROXY
 DOMAIN-SUFFIX,csci.hk,PROXY
 DOMAIN-SUFFIX,ecitic.com,PROXY
-
 #end include:citic
 #include:eastmoney
 DOMAIN-SUFFIX,1234567.com.cn,PROXY
@@ -1718,6 +1722,9 @@ DOMAIN-SUFFIX,v2.reachmax.cn,PROXY
 DOMAIN,e8aeb8bbdbbd7.cdn.sohucs.com,PROXY
 DOMAIN,643108e7617ef.cdn.sohucs.com,PROXY
 #end include:sohu-ads
+
+# All .sohu domains
+DOMAIN-SUFFIX,sohu,PROXY
 
 DOMAIN-SUFFIX,focus-img.cn,PROXY
 DOMAIN-SUFFIX,focus.cn,PROXY
@@ -5173,7 +5180,6 @@ DOMAIN-SUFFIX,miui.com,PROXY
 DOMAIN-SUFFIX,miwifi.com,PROXY
 DOMAIN-SUFFIX,xiaomi.cn,PROXY
 DOMAIN-SUFFIX,xiaomi.com,PROXY
-DOMAIN-SUFFIX,xiaomi.eu,PROXY
 DOMAIN-SUFFIX,xiaomi.net,PROXY
 DOMAIN-SUFFIX,xiaomicp.com,PROXY
 DOMAIN-SUFFIX,xiaomidns.cn,PROXY
@@ -5347,6 +5353,12 @@ DOMAIN-SUFFIX,chntel.com,PROXY
 DOMAIN-SUFFIX,chinatelecomhk.com,PROXY
 #end include:chinatelecom
 #include:chinaunicom
+# All .unicom domains
+DOMAIN-SUFFIX,unicom,PROXY
+
+# All .联通 domains
+DOMAIN-SUFFIX,xn--8y0a063a,PROXY
+
 DOMAIN-SUFFIX,10010.com,PROXY
 DOMAIN-SUFFIX,10010.com.cn,PROXY
 DOMAIN-SUFFIX,114menhu.com,PROXY

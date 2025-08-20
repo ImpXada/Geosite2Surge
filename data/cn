@@ -9,12 +9,12 @@ DOMAIN-SUFFIX,baidu,PROXY
 DOMAIN-SUFFIX,unicom,PROXY
 DOMAIN-SUFFIX,sohu,PROXY
 
-# Reference: https://icannwiki.org/.%E6%94%BF%E5%8A%A1
-DOMAIN-SUFFIX,xn--zfr164b,PROXY    #.政务
-
 # Reference: https://domain.miit.gov.cn
+# .香港 is ignored due to not in China mainland
 DOMAIN-SUFFIX,xn--fiqs8s,PROXY    #.中国
 DOMAIN-SUFFIX,xn--fiqz9s,PROXY    #.中國
+DOMAIN-SUFFIX,xn--zfr164b,PROXY    #.政务
+DOMAIN-SUFFIX,xn--55qw42g,PROXY    #.公益
 DOMAIN-SUFFIX,xn--55qx5d,PROXY    #.公司
 DOMAIN-SUFFIX,xn--io0a7i,PROXY    #.网络
 DOMAIN-SUFFIX,xn--ses554g,PROXY    #.网址

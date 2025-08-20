@@ -1,3 +1,9 @@
+# All .unicom domains
+DOMAIN-SUFFIX,unicom,PROXY
+
+# All .联通 domains
+DOMAIN-SUFFIX,xn--8y0a063a,PROXY
+
 DOMAIN-SUFFIX,10010.com,PROXY
 DOMAIN-SUFFIX,10010.com.cn,PROXY
 DOMAIN-SUFFIX,114menhu.com,PROXY

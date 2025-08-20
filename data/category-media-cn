@@ -171,6 +171,9 @@ DOMAIN,e8aeb8bbdbbd7.cdn.sohucs.com,PROXY
 DOMAIN,643108e7617ef.cdn.sohucs.com,PROXY
 #end include:sohu-ads
 
+# All .sohu domains
+DOMAIN-SUFFIX,sohu,PROXY
+
 DOMAIN-SUFFIX,focus-img.cn,PROXY
 DOMAIN-SUFFIX,focus.cn,PROXY
 DOMAIN-SUFFIX,itc.cn,PROXY

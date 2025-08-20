@@ -1,6 +1,9 @@
 # All .citic domains
 DOMAIN-SUFFIX,citic,PROXY
 
+# All .中信 domains
+DOMAIN-SUFFIX,xn--fiq64b,PROXY
+
 DOMAIN-SUFFIX,chinaamc.com,PROXY
 DOMAIN-SUFFIX,citic-prudential.com.cn,PROXY
 DOMAIN-SUFFIX,citicbank.com,PROXY
@@ -15,4 +18,3 @@ DOMAIN-SUFFIX,cncbinternational.com,PROXY
 DOMAIN-SUFFIX,csc108.com,PROXY
 DOMAIN-SUFFIX,csci.hk,PROXY
 DOMAIN-SUFFIX,ecitic.com,PROXY
-
