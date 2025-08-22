@@ -9,6 +9,12 @@ DOMAIN-SUFFIX,claudeusercontent.com,PROXY
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net,PROXY
 #end include:anthropic
+#include:cursor
+DOMAIN-SUFFIX,cursor-cdn.com,PROXY
+DOMAIN-SUFFIX,cursor.com,PROXY
+DOMAIN-SUFFIX,cursor.sh,PROXY
+DOMAIN-SUFFIX,cursorapi.com,PROXY
+#end include:cursor
 #include:google-deepmind
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com,PROXY
@@ -88,12 +94,6 @@ DOMAIN-SUFFIX,poecdn.net,PROXY
 DOMAIN-SUFFIX,grok.com,PROXY
 DOMAIN-SUFFIX,x.ai,PROXY
 #end include:xai
-#include:cursor
-DOMAIN-SUFFIX,cursor-cdn.com,PROXY
-DOMAIN-SUFFIX,cursor.com,PROXY
-DOMAIN-SUFFIX,cursor.sh,PROXY
-DOMAIN-SUFFIX,cursorapi.com,PROXY
-#end include:cursor
 
 # CodeRabbit
 DOMAIN-SUFFIX,coderabbit.ai,PROXY
@@ -104,6 +104,7 @@ DOMAIN-SUFFIX,clipdrop.co,PROXY
 DOMAIN-SUFFIX,jasper.ai,PROXY
 
 DOMAIN-SUFFIX,chutes.ai,PROXY
+DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
 DOMAIN-SUFFIX,dify.ai,PROXY
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com,PROXY
 DOMAIN-SUFFIX,meta.ai,PROXY
