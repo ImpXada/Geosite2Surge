@@ -686,6 +686,7 @@ DOMAIN,videos-rockstargames-com.akamaized.net,PROXY
 #end include:rockstar
 #include:snk
 DOMAIN-SUFFIX,snk-corp.co.jp,PROXY
+DOMAIN-SUFFIX,snk-corp.info,PROXY
 DOMAIN-SUFFIX,snkplaymore.info,PROXY
 #end include:snk
 #include:steam

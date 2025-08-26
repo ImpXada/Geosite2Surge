@@ -297,6 +297,8 @@ DOMAIN-SUFFIX,forbesimg.com,PROXY
 DOMAIN-SUFFIX,fox,PROXY
 
 DOMAIN-SUFFIX,tubi.io,PROXY
+DOMAIN-SUFFIX,tubi.tv,PROXY
+DOMAIN-SUFFIX,tubi.video,PROXY
 DOMAIN-SUFFIX,tubitv.com,PROXY
 #end include:tubi
 

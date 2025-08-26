@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,yandex,PROXY
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai,PROXY
 
 DOMAIN-SUFFIX,dzen.ru,PROXY
+DOMAIN-SUFFIX,naydex.net,PROXY
 DOMAIN-SUFFIX,rostaxi.org,PROXY
 DOMAIN-SUFFIX,ya.ru,PROXY
 DOMAIN-SUFFIX,yandex-bank.net,PROXY
@@ -12,6 +13,7 @@ DOMAIN-SUFFIX,yandex-images.clstorage.net,PROXY
 DOMAIN-SUFFIX,yandex.aero,PROXY
 DOMAIN-SUFFIX,yandex.az,PROXY
 DOMAIN-SUFFIX,yandex.by,PROXY
+DOMAIN-SUFFIX,yandex.cloud,PROXY
 DOMAIN-SUFFIX,yandex.co.il,PROXY
 DOMAIN-SUFFIX,yandex.com,PROXY
 DOMAIN-SUFFIX,yandex.com.am,PROXY
