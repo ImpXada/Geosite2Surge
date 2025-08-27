@@ -396,3 +396,10 @@ DOMAIN-SUFFIX,m9.run,PROXY
 DOMAIN-SUFFIX,ma.run,PROXY
 DOMAIN-SUFFIX,um.run,PROXY
 DOMAIN-SUFFIX,ym.run,PROXY
+
+# 前端性能监控
+DOMAIN-SUFFIX,aegis.qq.com,PROXY
+DOMAIN-SUFFIX,tamaegis.com,PROXY
+DOMAIN-SUFFIX,rumt-zh.com,PROXY
+DOMAIN-SUFFIX,rumt-sg.com,PROXY    #新加坡
+DOMAIN-SUFFIX,rumt-us.com,PROXY    #硅谷

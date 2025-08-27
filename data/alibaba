@@ -186,6 +186,14 @@ DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com,PROXY
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com,PROXY
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com,PROXY
 #end include:aliyun
+#include:aliyun-drive
+DOMAIN-SUFFIX,alicloudccp.com,PROXY
+DOMAIN-SUFFIX,alipan.com,PROXY
+DOMAIN-SUFFIX,aliyundrive.cloud,PROXY
+DOMAIN-SUFFIX,aliyundrive.com,PROXY
+DOMAIN-SUFFIX,aliyundrive.net,PROXY
+DOMAIN-SUFFIX,yunpan.aliyun.com,PROXY
+#end include:aliyun-drive
 #include:cainiao
 DOMAIN-SUFFIX,cainiao-inc.com,PROXY
 DOMAIN-SUFFIX,cainiao.com,PROXY
@@ -334,12 +342,6 @@ DOMAIN-SUFFIX,alipay.hk,PROXY
 
 # AlipayMO
 DOMAIN-SUFFIX,alipaymo.com,PROXY
-
-# 阿里云盘
-DOMAIN-SUFFIX,alicloudccp.com,PROXY
-DOMAIN-SUFFIX,alipan.com,PROXY
-DOMAIN-SUFFIX,aliyundrive.com,PROXY
-DOMAIN-SUFFIX,aliyundrive.net,PROXY
 
 # 盒马
 DOMAIN-SUFFIX,freshhema.com,PROXY

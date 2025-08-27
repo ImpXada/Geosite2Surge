@@ -308,6 +308,7 @@ DOMAIN-SUFFIX,volcfake.com,PROXY
 DOMAIN-SUFFIX,volcfcdnbyte.com,PROXY
 DOMAIN-SUFFIX,volcfcdn.com,PROXY
 DOMAIN-SUFFIX,volcfcdndvs.com,PROXY
+DOMAIN-SUFFIX,volcfcdndvs1.com,PROXY
 DOMAIN-SUFFIX,volcfcdnplus.com,PROXY
 DOMAIN-SUFFIX,volcfcdnrd.com,PROXY
 DOMAIN-SUFFIX,volcfcdnsc.com,PROXY
@@ -466,6 +467,7 @@ DOMAIN-SUFFIX,bytegqpo.net,PROXY
 DOMAIN-SUFFIX,bytegrowth.com,PROXY
 DOMAIN-SUFFIX,byte-gslb.com,PROXY
 DOMAIN-SUFFIX,bytegslb.com,PROXY
+DOMAIN-SUFFIX,byteglb.com,PROXY
 DOMAIN-SUFFIX,bytehwm.com,PROXY
 DOMAIN-SUFFIX,byteics.com,PROXY
 DOMAIN-SUFFIX,byteics.net,PROXY
@@ -482,6 +484,7 @@ DOMAIN-SUFFIX,bytenewst.com,PROXY
 DOMAIN-SUFFIX,byteorg.com,PROXY
 DOMAIN-SUFFIX,byteorge.com,PROXY
 DOMAIN-SUFFIX,byteoversea.com,PROXY
+DOMAIN-SUFFIX,byteoversea.net,PROXY
 DOMAIN-SUFFIX,byteq5k.com,PROXY
 DOMAIN-SUFFIX,byteq8u.net,PROXY
 DOMAIN-SUFFIX,bytescm.com,PROXY
@@ -673,6 +676,7 @@ DOMAIN-SUFFIX,zjcdn.com,PROXY
 DOMAIN-SUFFIX,zjfcdn.com,PROXY
 DOMAIN-SUFFIX,zjgslb.com,PROXY
 
+DOMAIN,bytedance.map.fastly.net,PROXY
 
 # 今日头条
 DOMAIN-SUFFIX,toutiao.com,PROXY

@@ -602,6 +602,17 @@ DOMAIN-SUFFIX,termux.com,PROXY
 DOMAIN-SUFFIX,termux.dev,PROXY
 DOMAIN-SUFFIX,termux.org,PROXY
 #end include:termux
+#include:thelinuxfoundation
+#include:kernel
+DOMAIN-SUFFIX,kernel.org,PROXY
+#end include:kernel
+#include:linux
+DOMAIN-SUFFIX,linux.org,PROXY
+#end include:linux
+
+DOMAIN-SUFFIX,lfai.foundation,PROXY
+DOMAIN-SUFFIX,linuxfoundation.org,PROXY
+#end include:thelinuxfoundation
 #include:topcoder
 DOMAIN-SUFFIX,topcoder.com,PROXY
 #end include:topcoder

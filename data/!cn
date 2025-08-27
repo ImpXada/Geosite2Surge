@@ -25,23 +25,47 @@ DOMAIN-SUFFIX,cmbwinglungbank.com,PROXY
 DOMAIN-SUFFIX,huaweicloud-dns.net,PROXY
 DOMAIN-SUFFIX,huaweicloud-dns.org,PROXY
 DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com,PROXY    #中东-阿布扎比-OP5
+DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com,PROXY    #非洲-内罗毕二零一
 DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com,PROXY    #非洲-开罗
 DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com,PROXY    #非洲-约翰内斯堡
+DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com,PROXY    #非洲-拉各斯二零一
+DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com,PROXY    #亚太-东京二零一
 DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com,PROXY    #中国-香港
 DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com,PROXY    #亚太-曼谷
+DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com,PROXY    #亚太-雅加达二零一
+DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com,PROXY    #亚太-马尼拉二零一
+DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com,PROXY    #亚太-吉隆坡二零一
 DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com,PROXY    #亚太-新加坡
 DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com,PROXY    #亚太-雅加达
+DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com,PROXY    #亚太-马尼拉
+DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com,PROXY    #亚太-新加坡-OP1
+DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com,PROXY    #亚洲-班加罗尔二零一
+DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com,PROXY    #亚洲-伊斯兰堡二零一
+DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com,PROXY    #亚洲-德里二零一
+DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com,PROXY    #加拿大-多伦多二零一
+DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com,PROXY    #欧洲-法兰克福二零一
+DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com,PROXY    #欧洲-华沙二零一
+DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com,PROXY    #欧洲-斯德哥尔摩二零一
 DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com,PROXY    #欧洲-巴黎
+DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com,PROXY    #欧洲-阿姆斯特丹-OP1
 DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com,PROXY    #欧洲-都柏林
+DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com,PROXY    #欧洲-纽波特二零一
 DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com,PROXY    #拉美-墨西哥城二
+DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com,PROXY    #拉美-巴拿马城二零一
 DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com,PROXY    #拉美-圣地亚哥
 DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com,PROXY    #中东-利雅得
+DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com,PROXY    #中东-迪拜二零一
+DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com,PROXY    #中东-伊斯坦布尔二零一
+DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com,PROXY    #中东-利雅得二零一
 DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,PROXY    #亚太-吉隆坡-OP6
+DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com,PROXY    #北美-亚特兰大
 DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com,PROXY    #拉美-墨西哥城一
 DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com,PROXY    #俄罗斯-莫斯科-OP4
 DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com,PROXY    #俄罗斯-莫斯科二
+DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com,PROXY    #俄罗斯-莫斯科二零一
 DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com,PROXY    #拉美-圣保罗一
 DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com,PROXY    #土耳其-伊斯坦布尔
+DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com,PROXY    #北美-亚特兰大-废弃
 DOMAIN,alt1-mtalk.google.com,PROXY
 DOMAIN,alt2-mtalk.google.com,PROXY
 DOMAIN,alt3-mtalk.google.com,PROXY
@@ -210,6 +234,8 @@ DOMAIN-SUFFIX,hk.file.myqcloud.com,PROXY    #中国香港
 DOMAIN-SUFFIX,sgp.file.myqcloud.com,PROXY    #新加坡
 DOMAIN-SUFFIX,ca.file.myqcloud.com,PROXY    #多伦多
 DOMAIN-SUFFIX,ger.file.myqcloud.com,PROXY    #法兰克福
+DOMAIN-SUFFIX,rumt-sg.com,PROXY    #新加坡
+DOMAIN-SUFFIX,rumt-us.com,PROXY    #硅谷
 DOMAIN-SUFFIX,byteoversea.com,PROXY
 DOMAIN-SUFFIX,muscdn.com,PROXY
 DOMAIN-SUFFIX,musical.ly,PROXY
@@ -252,15 +278,18 @@ DOMAIN-SUFFIX,alipay.hk,PROXY
 DOMAIN-SUFFIX,alipaymo.com,PROXY
 DOMAIN-SUFFIX,tmall.ru,PROXY
 DOMAIN-SUFFIX,fliggy.hk,PROXY
-DOMAIN-SUFFIX,byteoversea.com,PROXY
-DOMAIN-SUFFIX,ibytedtos.com,PROXY
-DOMAIN-SUFFIX,ibyteimg.com,PROXY
-DOMAIN-SUFFIX,coze.com,PROXY
-DOMAIN-SUFFIX,chinatelecomglobal.com,PROXY
-DOMAIN-SUFFIX,chinatelecomhk.com,PROXY
+DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com,PROXY
 DOMAIN-SUFFIX,tencent.co.id,PROXY
 DOMAIN-SUFFIX,tencent.com.hk,PROXY
 DOMAIN-SUFFIX,wetv.vip,PROXY
 DOMAIN-SUFFIX,wetvinfo.com,PROXY
 DOMAIN,wetv.qq.com,PROXY
-DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com,PROXY
+DOMAIN-SUFFIX,byteglb.com,PROXY
+DOMAIN-SUFFIX,byteoversea.com,PROXY
+DOMAIN-SUFFIX,byteoversea.net,PROXY
+DOMAIN-SUFFIX,ibytedtos.com,PROXY
+DOMAIN-SUFFIX,ibyteimg.com,PROXY
+DOMAIN,bytedance.map.fastly.net,PROXY
+DOMAIN-SUFFIX,coze.com,PROXY
+DOMAIN-SUFFIX,chinatelecomglobal.com,PROXY
+DOMAIN-SUFFIX,chinatelecomhk.com,PROXY

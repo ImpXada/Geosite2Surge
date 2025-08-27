@@ -42,6 +42,10 @@ DOMAIN-SUFFIX,notebooklm.google.com,PROXY
 # Jules
 DOMAIN-SUFFIX,jules.google,PROXY
 DOMAIN-SUFFIX,jules.google.com,PROXY
+
+# Google AI Labs
+DOMAIN-SUFFIX,labs.google,PROXY
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,PROXY
 #end include:google-deepmind
 #include:groq
 DOMAIN-SUFFIX,groq.com,PROXY
@@ -79,6 +83,7 @@ DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
 #end include:openai
 #include:perplexity
 DOMAIN-SUFFIX,perplexity.ai,PROXY
+DOMAIN-SUFFIX,perplexity.com,PROXY
 DOMAIN-SUFFIX,pplx.ai,PROXY
 
 DOMAIN,pplx-res.cloudinary.com,PROXY

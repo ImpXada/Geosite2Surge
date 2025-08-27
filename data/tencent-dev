@@ -1,3 +1,12 @@
+#include:cnb
+# 腾讯 云原生构建
+DOMAIN-SUFFIX,cnb.cool,PROXY
+#end include:cnb
+#include:coding
+DOMAIN-SUFFIX,coding.me,PROXY
+DOMAIN-SUFFIX,coding.net,PROXY
+#end include:coding
+
 DOMAIN-SUFFIX,openmidas.com,PROXY
 DOMAIN-SUFFIX,qq.design,PROXY
 DOMAIN-SUFFIX,qqgamedesign.com,PROXY

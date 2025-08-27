@@ -38,9 +38,11 @@ DOMAIN-SUFFIX,binanceapi.com,PROXY
 DOMAIN-SUFFIX,bnbstatic.com,PROXY
 
 # saas
+DOMAIN-SUFFIX,appsflayer.com,PROXY
+DOMAIN-SUFFIX,saasexch.cc,PROXY
+DOMAIN-SUFFIX,saasexch.co,PROXY
 DOMAIN-SUFFIX,saasexch.com,PROXY
 DOMAIN-SUFFIX,saasexch.io,PROXY
-DOMAIN-SUFFIX,appsflayer.com,PROXY
 #end include:binance
 #include:bitflyer
 DOMAIN-SUFFIX,bitflyer.com,PROXY

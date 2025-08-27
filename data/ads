@@ -419,7 +419,6 @@ DOMAIN-SUFFIX,static.hotjar.com,PROXY
 DOMAIN-SUFFIX,ads.yahoo.com,PROXY
 DOMAIN-SUFFIX,gemini.yahoo.com,PROXY
 DOMAIN-SUFFIX,ysm.yahoo.com,PROXY
-DOMAIN-SUFFIX,zynga.com,PROXY
 DOMAIN-SUFFIX,zyngaplayersupport.com,PROXY
 DOMAIN-SUFFIX,mopub.com,PROXY
 DOMAIN,apilog-web.acfun.cn,PROXY
@@ -779,9 +778,6 @@ DOMAIN-SUFFIX,iad.apple.com,PROXY
 DOMAIN-SUFFIX,qwapi.com,PROXY
 DOMAIN-SUFFIX,inner-active.mobi,PROXY
 DOMAIN-SUFFIX,leanplum.com,PROXY
-DOMAIN-SUFFIX,clarity.ms,PROXY
-DOMAIN-SUFFIX,nelreports.net,PROXY
-DOMAIN,disney.my.sentry.io,PROXY
 DOMAIN-SUFFIX,7box.vip,PROXY
 DOMAIN-SUFFIX,ad-delivery.net,PROXY
 DOMAIN-SUFFIX,adinplay.com,PROXY
@@ -803,3 +799,6 @@ DOMAIN-SUFFIX,snapads.com,PROXY
 DOMAIN-SUFFIX,spotxchange.com,PROXY
 DOMAIN-SUFFIX,unimhk.com,PROXY
 DOMAIN-SUFFIX,upapi.net,PROXY
+DOMAIN,disney.my.sentry.io,PROXY
+DOMAIN-SUFFIX,clarity.ms,PROXY
+DOMAIN-SUFFIX,nelreports.net,PROXY

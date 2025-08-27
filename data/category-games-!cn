@@ -709,6 +709,9 @@ DOMAIN-SUFFIX,valvesoftware.com,PROXY
 # edgecast
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net,PROXY
 
+# edgesuite
+DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net,PROXY
+
 # 网宿(国际)
 DOMAIN-SUFFIX,steam.apac.qtlglb.com,PROXY
 DOMAIN-SUFFIX,steam.eca.qtlglb.com,PROXY

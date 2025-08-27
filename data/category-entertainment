@@ -124,6 +124,15 @@ DOMAIN-SUFFIX,wbdnbo.net,PROXY
 DOMAIN-SUFFIX,catchplay.com,PROXY
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net,PROXY
 #end include:catchplay
+#include:copymanga
+DOMAIN-SUFFIX,2025copy.com,PROXY
+DOMAIN-SUFFIX,copy-manga.com,PROXY
+DOMAIN-SUFFIX,copy20.com,PROXY
+DOMAIN-SUFFIX,copy2000.online,PROXY
+DOMAIN-SUFFIX,mangacopy.com,PROXY
+DOMAIN-SUFFIX,mangafuna.xyz,PROXY
+DOMAIN-SUFFIX,mangafunb.fun,PROXY
+#end include:copymanga
 #include:dailymotion
 DOMAIN-SUFFIX,dailymotion.com,PROXY
 DOMAIN-SUFFIX,dm-event.net,PROXY
@@ -271,9 +280,7 @@ DOMAIN-SUFFIX,media-imdb.com,PROXY
 #end include:imdb
 #include:iyf
 DOMAIN-SUFFIX,iyf.tv,PROXY
-
-# CDN used by iyf
-DOMAIN-SUFFIX,dnvodcdn.me,PROXY
+DOMAIN-SUFFIX,yfsp.tv,PROXY
 #end include:iyf
 #include:kingkonglive
 DOMAIN-SUFFIX,kingkong.com.tw,PROXY
@@ -373,6 +380,14 @@ DOMAIN-SUFFIX,nicovideo.jp,PROXY
 DOMAIN-SUFFIX,nimg.jp,PROXY
 DOMAIN-SUFFIX,simg.jp,PROXY
 #end include:niconico
+#include:now
+DOMAIN-SUFFIX,now.com,PROXY
+DOMAIN-SUFFIX,now.com.hk,PROXY
+DOMAIN-SUFFIX,nowe.com,PROXY
+DOMAIN-SUFFIX,nowe.hk,PROXY
+DOMAIN-SUFFIX,now-tv.com,PROXY
+DOMAIN-SUFFIX,now-ashare.com,PROXY
+#end include:now
 #include:olevod
 DOMAIN-SUFFIX,haiwaikan.com,PROXY
 DOMAIN-SUFFIX,iole.tv,PROXY
@@ -459,8 +474,9 @@ DOMAIN-SUFFIX,wwtbam.com,PROXY
 DOMAIN-SUFFIX,yourfantasybeginsnow.com,PROXY
 #end include:sonypictures
 #include:soundcloud
-DOMAIN-SUFFIX,soundcloud.com,PROXY
 DOMAIN-SUFFIX,sndcdn.com,PROXY
+DOMAIN-SUFFIX,soundcloud.cloud,PROXY
+DOMAIN-SUFFIX,soundcloud.com,PROXY
 #end include:soundcloud
 #include:spotify
 DOMAIN-SUFFIX,byspotify.com,PROXY

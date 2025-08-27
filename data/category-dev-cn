@@ -27,10 +27,6 @@ DOMAIN-SUFFIX,cppblog.com,PROXY
 DOMAIN-SUFFIX,phpweblog.net,PROXY
 DOMAIN-SUFFIX,teachblog.net,PROXY
 #end include:cnblogs
-#include:coding
-DOMAIN-SUFFIX,coding.me,PROXY
-DOMAIN-SUFFIX,coding.net,PROXY
-#end include:coding
 #include:csdn
 DOMAIN-SUFFIX,codechina.net,PROXY
 DOMAIN-SUFFIX,csdn.com,PROXY
@@ -152,6 +148,15 @@ DOMAIN-SUFFIX,sxl.cn,PROXY
 DOMAIN-SUFFIX,sxlcdn.cn,PROXY
 #end include:sxl
 #include:tencent-dev
+#include:cnb
+# 腾讯 云原生构建
+DOMAIN-SUFFIX,cnb.cool,PROXY
+#end include:cnb
+#include:coding
+DOMAIN-SUFFIX,coding.me,PROXY
+DOMAIN-SUFFIX,coding.net,PROXY
+#end include:coding
+
 DOMAIN-SUFFIX,openmidas.com,PROXY
 DOMAIN-SUFFIX,qq.design,PROXY
 DOMAIN-SUFFIX,qqgamedesign.com,PROXY

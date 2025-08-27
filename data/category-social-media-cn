@@ -148,6 +148,15 @@ DOMAIN-SUFFIX,xhscdn.com,PROXY
 DOMAIN-SUFFIX,xhscdn.net,PROXY
 DOMAIN-SUFFIX,xiaohongshu.com,PROXY
 #end include:xiaohongshu
+#include:yy
+#include:duowan
+DOMAIN-SUFFIX,duowan.com,PROXY
+DOMAIN-SUFFIX,dwstatic.com,PROXY
+#end include:duowan
+
+DOMAIN-SUFFIX,yy.com,PROXY
+DOMAIN-SUFFIX,yystatic.com,PROXY
+#end include:yy
 #include:zhihu
 DOMAIN-SUFFIX,zhihu.com,PROXY
 DOMAIN-SUFFIX,zhimg.com,PROXY

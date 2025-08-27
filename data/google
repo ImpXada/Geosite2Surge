@@ -211,6 +211,10 @@ DOMAIN-SUFFIX,notebooklm.google.com,PROXY
 # Jules
 DOMAIN-SUFFIX,jules.google,PROXY
 DOMAIN-SUFFIX,jules.google.com,PROXY
+
+# Google AI Labs
+DOMAIN-SUFFIX,labs.google,PROXY
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,PROXY
 #end include:google-deepmind
 #include:google-gemini
 # This list is for backward compatibility
@@ -244,6 +248,10 @@ DOMAIN-SUFFIX,notebooklm.google.com,PROXY
 # Jules
 DOMAIN-SUFFIX,jules.google,PROXY
 DOMAIN-SUFFIX,jules.google.com,PROXY
+
+# Google AI Labs
+DOMAIN-SUFFIX,labs.google,PROXY
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,PROXY
 #end include:google-deepmind
 #end include:google-gemini
 #include:google-play

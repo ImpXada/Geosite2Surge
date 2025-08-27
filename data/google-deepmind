@@ -27,3 +27,7 @@ DOMAIN-SUFFIX,notebooklm.google.com,PROXY
 # Jules
 DOMAIN-SUFFIX,jules.google,PROXY
 DOMAIN-SUFFIX,jules.google.com,PROXY
+
+# Google AI Labs
+DOMAIN-SUFFIX,labs.google,PROXY
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,PROXY

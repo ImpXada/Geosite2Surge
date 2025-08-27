@@ -271,6 +271,7 @@ DOMAIN-SUFFIX,ifasttv.com,PROXY
 #end include:ifast
 #include:longbridge
 DOMAIN-SUFFIX,longbridge.cloud,PROXY
+DOMAIN-SUFFIX,longbridge.com,PROXY
 DOMAIN-SUFFIX,longbridge.global,PROXY
 DOMAIN-SUFFIX,longbridge.hk,PROXY
 DOMAIN-SUFFIX,longbridge.sg,PROXY
@@ -278,6 +279,7 @@ DOMAIN-SUFFIX,longbridgeapp.com,PROXY
 DOMAIN-SUFFIX,longportapp.com,PROXY
 
 # Site Assets
+DOMAIN-SUFFIX,lbctrl.com,PROXY
 DOMAIN-SUFFIX,lbkrs.com,PROXY
 DOMAIN-SUFFIX,wbrks.com,PROXY
 #end include:longbridge

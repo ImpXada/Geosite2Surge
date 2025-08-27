@@ -101,6 +101,7 @@ DOMAIN-SUFFIX,volcfake.com,PROXY
 DOMAIN-SUFFIX,volcfcdnbyte.com,PROXY
 DOMAIN-SUFFIX,volcfcdn.com,PROXY
 DOMAIN-SUFFIX,volcfcdndvs.com,PROXY
+DOMAIN-SUFFIX,volcfcdndvs1.com,PROXY
 DOMAIN-SUFFIX,volcfcdnplus.com,PROXY
 DOMAIN-SUFFIX,volcfcdnrd.com,PROXY
 DOMAIN-SUFFIX,volcfcdnsc.com,PROXY

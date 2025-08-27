@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,fantv.hk,PROXY
 DOMAIN-SUFFIX,hkopentv.com,PROXY
 DOMAIN-SUFFIX,hoy.tv,PROXY
 DOMAIN-SUFFIX,i-cable.com,PROXY
+#end include:cabletv
+
+DOMAIN-SUFFIX,i-cablecomm.com,PROXY

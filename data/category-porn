@@ -89,6 +89,11 @@ DOMAIN-SUFFIX,c4slive.com,PROXY
 DOMAIN-SUFFIX,clips4sale.com,PROXY
 DOMAIN-SUFFIX,videos4sale.com,PROXY
 #end include:clips4sale
+#include:coomer
+DOMAIN-SUFFIX,coomer.party,PROXY
+DOMAIN-SUFFIX,coomer.st,PROXY
+DOMAIN-SUFFIX,coomer.su,PROXY
+#end include:coomer
 #include:cuinc
 DOMAIN-SUFFIX,cuinc.oen.tw,PROXY
 DOMAIN-SUFFIX,cuinc.tw,PROXY
@@ -231,6 +236,12 @@ DOMAIN-SUFFIX,cdnlab.live,PROXY
 DOMAIN-SUFFIX,jable.tv,PROXY
 DOMAIN-SUFFIX,mushroomtrack.com,PROXY
 #end include:jable
+#include:japonx
+DOMAIN-SUFFIX,x18r.co,PROXY
+DOMAIN-SUFFIX,x18r.com,PROXY
+DOMAIN-SUFFIX,z18r.co,PROXY
+DOMAIN-SUFFIX,z18r.com,PROXY
+#end include:japonx
 #include:javbus
 DOMAIN-SUFFIX,javbus.com,PROXY
 DOMAIN-SUFFIX,javbus22.com,PROXY
@@ -245,12 +256,6 @@ DOMAIN-SUFFIX,javdb.com,PROXY
 DOMAIN-SUFFIX,jdbimgs.com,PROXY
 DOMAIN-SUFFIX,jdbstatic.com,PROXY
 #end include:javdb
-#include:japonx
-DOMAIN-SUFFIX,x18r.co,PROXY
-DOMAIN-SUFFIX,x18r.com,PROXY
-DOMAIN-SUFFIX,z18r.co,PROXY
-DOMAIN-SUFFIX,z18r.com,PROXY
-#end include:japonx
 #include:javwide
 DOMAIN-SUFFIX,javwide.com,PROXY
 DOMAIN-SUFFIX,javwide.tv,PROXY
@@ -272,8 +277,6 @@ DOMAIN-SUFFIX,justav.net,PROXY
 DOMAIN-SUFFIX,twporn.net,PROXY
 #end include:justav
 #include:kemono
-DOMAIN-SUFFIX,cooer.su,PROXY
-DOMAIN-SUFFIX,coomer.party,PROXY
 DOMAIN-SUFFIX,kemono.cr,PROXY
 DOMAIN-SUFFIX,kemono.party,PROXY
 DOMAIN-SUFFIX,kemono.su,PROXY
@@ -301,81 +304,6 @@ DOMAIN-SUFFIX,metcams.com,PROXY
 DOMAIN-SUFFIX,naiadsystems.com,PROXY
 DOMAIN-SUFFIX,nsimg.net,PROXY
 #end include:metart
-#include:mindgeek-porn
-#include:brazzers
-DOMAIN-SUFFIX,brazzer.com,PROXY
-DOMAIN-SUFFIX,brazzers.com,PROXY
-DOMAIN-SUFFIX,brazzers.xxx,PROXY
-DOMAIN-SUFFIX,brazzersnetwork.com,PROXY
-
-# Mofos
-DOMAIN-SUFFIX,mofos.com,PROXY
-#end include:brazzers
-#include:digitalplayground
-DOMAIN-SUFFIX,digitalplayground.com,PROXY
-DOMAIN-SUFFIX,digitalplaygroundnetwork.com,PROXY
-#end include:digitalplayground
-#include:mydirtyhobby
-DOMAIN-SUFFIX,mydirtyhobby.com,PROXY
-
-# CDN
-DOMAIN-SUFFIX,mdhcdn.com,PROXY
-#end include:mydirtyhobby
-#include:nutaku
-DOMAIN-SUFFIX,nutaku.com,PROXY
-DOMAIN-SUFFIX,nutaku.net,PROXY
-#end include:nutaku
-#include:pornhub
-DOMAIN-SUFFIX,gaytube.com,PROXY
-DOMAIN-SUFFIX,phncdn.com,PROXY
-DOMAIN-SUFFIX,phprcdn.com,PROXY
-DOMAIN-SUFFIX,porngub.com,PROXY
-DOMAIN-SUFFIX,pornhub-deutsch.net,PROXY
-DOMAIN-SUFFIX,pornhubapparel.com,PROXY
-DOMAIN-SUFFIX,pornhub.com,PROXY
-DOMAIN-SUFFIX,pornhub.org,PROXY
-DOMAIN-SUFFIX,pornhubpremium.com,PROXY
-#end include:pornhub
-#include:realitykings
-DOMAIN-SUFFIX,realitykings.com,PROXY
-DOMAIN-SUFFIX,rk.com,PROXY
-#end include:realitykings
-#include:redtube
-DOMAIN-SUFFIX,livehdcams.com,PROXY
-DOMAIN-SUFFIX,redtube.com,PROXY
-DOMAIN-SUFFIX,redtube.com.br,PROXY
-DOMAIN-SUFFIX,redtubepremium.com,PROXY
-
-# CDN
-DOMAIN-SUFFIX,rdtcdn.com,PROXY
-#end include:redtube
-#include:tube8
-DOMAIN-SUFFIX,tube8.com,PROXY
-DOMAIN-SUFFIX,tube8.fr,PROXY
-#end include:tube8
-#include:youporn
-DOMAIN-SUFFIX,extremetube.com,PROXY
-DOMAIN-SUFFIX,keezmovies.com,PROXY
-DOMAIN-SUFFIX,youporn.com,PROXY
-DOMAIN-SUFFIX,youporngay.com,PROXY
-DOMAIN-SUFFIX,youpornpremium.com,PROXY
-DOMAIN-SUFFIX,youpornru.com,PROXY
-DOMAIN-SUFFIX,yopornshop.com,PROXY
-
-# CDN
-DOMAIN-SUFFIX,ypncdn.com,PROXY
-#end include:youporn
-
-DOMAIN-SUFFIX,babes.com,PROXY
-DOMAIN-SUFFIX,men.com,PROXY
-DOMAIN-SUFFIX,porniq.com,PROXY
-DOMAIN-SUFFIX,pornmd.com,PROXY
-DOMAIN-SUFFIX,seancody.com,PROXY
-DOMAIN-SUFFIX,thumbzilla.com,PROXY
-DOMAIN-SUFFIX,twistys.com,PROXY
-DOMAIN-SUFFIX,webcams.tv,PROXY
-DOMAIN-SUFFIX,whynotbi.com,PROXY
-#end include:mindgeek-porn
 #include:missav
 DOMAIN-SUFFIX,missav.ai,PROXY
 DOMAIN-SUFFIX,missav.com,PROXY
@@ -654,7 +582,6 @@ DOMAIN-SUFFIX,ctotires.com,PROXY
 DOMAIN-SUFFIX,ferryclean.com,PROXY
 DOMAIN-SUFFIX,zhimeishe888.com,PROXY
 #end include:zhimeishe
-
 
 # The top domains of the pornographic website.
 
