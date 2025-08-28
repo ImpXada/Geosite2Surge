@@ -1,4 +1,3 @@
-#include:aws-cn
 DOMAIN-SUFFIX,a2z.org.cn,PROXY
 DOMAIN-SUFFIX,amazonaws.cn,PROXY
 DOMAIN-SUFFIX,amazonaws.com.cn,PROXY

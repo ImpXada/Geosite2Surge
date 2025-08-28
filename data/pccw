@@ -1,3 +1,4 @@
+#include:hkt
 DOMAIN-SUFFIX,1010.com.hk,PROXY
 DOMAIN-SUFFIX,esmarthealth.com,PROXY
 DOMAIN-SUFFIX,hkcsl.com,PROXY
@@ -11,6 +12,7 @@ DOMAIN-SUFFIX,netvigator.com,PROXY
 DOMAIN-SUFFIX,theclub.com.hk,PROXY
 DOMAIN-SUFFIX,uhub.com,PROXY
 #end include:hkt
+#include:now
 DOMAIN-SUFFIX,now.com,PROXY
 DOMAIN-SUFFIX,now.com.hk,PROXY
 DOMAIN-SUFFIX,nowe.com,PROXY
@@ -18,6 +20,7 @@ DOMAIN-SUFFIX,nowe.hk,PROXY
 DOMAIN-SUFFIX,now-tv.com,PROXY
 DOMAIN-SUFFIX,now-ashare.com,PROXY
 #end include:now
+#include:viu
 # viu.tv
 DOMAIN-SUFFIX,viu.tv,PROXY
 DOMAIN,api.viu.now.com,PROXY

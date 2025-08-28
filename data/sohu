@@ -1,3 +1,4 @@
+#include:sogou
 DOMAIN-SUFFIX,binglianhuajianzhan.com,PROXY
 DOMAIN-SUFFIX,ggoplay.com,PROXY
 DOMAIN-SUFFIX,ggowan.com,PROXY
@@ -31,6 +32,7 @@ DOMAIN-SUFFIX,yidianliulan.cn,PROXY
 DOMAIN-SUFFIX,yidianliulan.com,PROXY
 DOMAIN-SUFFIX,yuweikuijianzhan.com,PROXY
 #end include:sogou
+#include:sohu-ads
 DOMAIN-SUFFIX,adnet.sohu.com,PROXY
 DOMAIN-SUFFIX,ads.sohu.com,PROXY
 DOMAIN-SUFFIX,adv-sv-show.focus.cn,PROXY

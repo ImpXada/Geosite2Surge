@@ -840,6 +840,7 @@ DOMAIN-SUFFIX,yourmonsterbeats.com,PROXY
 DOMAIN,beatselectronicsllc.tt.omtrdc.net,PROXY
 #end include:beats
 #include:icloud
+#include:icloudprivaterelay
 DOMAIN-SUFFIX,mask-api.icloud.com,PROXY
 DOMAIN-SUFFIX,mask-h2.icloud.com,PROXY
 DOMAIN-SUFFIX,mask.icloud.com,PROXY

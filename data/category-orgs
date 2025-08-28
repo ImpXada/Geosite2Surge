@@ -1,7 +1,6 @@
 # This list contains organizations outside China mainland.
 
 #include:archive
-#include:4plebs
 DOMAIN-SUFFIX,4pcdn.org,PROXY
 DOMAIN-SUFFIX,4plebs.org,PROXY
 #end include:4plebs
@@ -138,23 +137,6 @@ DOMAIN-SUFFIX,stateofthemap.org,PROXY
 #include:paskoocheh
 DOMAIN-SUFFIX,paskoocheh.com,PROXY
 #end include:paskoocheh
-#include:peppy
-#include:osu
-# osu
-DOMAIN,a.ppy.sh,PROXY
-DOMAIN,assets.ppy.sh,PROXY
-DOMAIN,c.ppy.sh,PROXY
-DOMAIN,osu.ppy.sh,PROXY
-DOMAIN,m1.ppy.sh,PROXY
-# osu lazer
-DOMAIN,lazer.ppy.sh,PROXY
-DOMAIN,notify.ppy.sh,PROXY
-DOMAIN,sentry.ppy.sh,PROXY
-DOMAIN,spectator.ppy.sh,PROXY
-#end include:osu
-
-DOMAIN-SUFFIX,ppy.sh,PROXY
-#end include:peppy
 #include:ruleoflaw
 DOMAIN-SUFFIX,rolfoundation.org,PROXY
 DOMAIN-SUFFIX,rolsociety.org,PROXY

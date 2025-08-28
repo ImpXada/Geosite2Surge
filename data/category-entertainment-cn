@@ -4,6 +4,20 @@
 #include:3dm
 DOMAIN-SUFFIX,3dmgame.com,PROXY
 #end include:3dm
+#include:acfun
+# Beijing Danmu Network Technology Co., Ltd.
+
+DOMAIN-SUFFIX,ac.fun,PROXY
+DOMAIN-SUFFIX,acfun.cn,PROXY
+DOMAIN-SUFFIX,acfun.net,PROXY
+DOMAIN-SUFFIX,acfunchina.cn,PROXY
+DOMAIN-SUFFIX,acfunchina.com,PROXY
+DOMAIN-SUFFIX,acfunchina.net,PROXY
+DOMAIN-SUFFIX,aixifan.com,PROXY
+
+DOMAIN,apilog-web.acfun.cn,PROXY
+#end include:acfun-ads
+#end include:acfun
 #include:acplay
 DOMAIN-SUFFIX,acplay.net,PROXY
 DOMAIN-SUFFIX,dandanplay.com,PROXY
@@ -21,66 +35,6 @@ DOMAIN-SUFFIX,bestvcdn.com.cn,PROXY
 DOMAIN-SUFFIX,bestvcdn.net,PROXY
 DOMAIN-SUFFIX,smgbb.cn,PROXY
 #end include:bestv
-#include:bilibili
-DOMAIN-SUFFIX,bilibiligame.cn,PROXY
-DOMAIN-SUFFIX,bilibiligame.co,PROXY
-DOMAIN-SUFFIX,bilibiligame.net,PROXY
-DOMAIN-SUFFIX,biligame.co,PROXY
-DOMAIN-SUFFIX,biligame.com,PROXY
-DOMAIN-SUFFIX,biligame.net,PROXY
-#end include:bilibili-game
-
-
-# 哔哩哔哩漫画
-DOMAIN-SUFFIX,bilicomic.com,PROXY
-DOMAIN-SUFFIX,bilicomics.com,PROXY
-
-DOMAIN,manga.bilibili.com,PROXY
-
-
-DOMAIN-SUFFIX,acg.tv,PROXY
-DOMAIN-SUFFIX,acgvideo.com,PROXY
-DOMAIN-SUFFIX,animetamashi.cn,PROXY
-DOMAIN-SUFFIX,animetamashi.com,PROXY
-DOMAIN-SUFFIX,anitama.cn,PROXY
-DOMAIN-SUFFIX,anitama.net,PROXY
-DOMAIN-SUFFIX,b23.tv,PROXY
-DOMAIN-SUFFIX,bigfun.cn,PROXY
-DOMAIN-SUFFIX,bigfunapp.cn,PROXY
-DOMAIN-SUFFIX,bili22.cn,PROXY
-DOMAIN-SUFFIX,bili2233.cn,PROXY
-DOMAIN-SUFFIX,bili23.cn,PROXY
-DOMAIN-SUFFIX,bili33.cn,PROXY
-DOMAIN-SUFFIX,biliapi.com,PROXY
-DOMAIN-SUFFIX,biliapi.net,PROXY
-DOMAIN-SUFFIX,bilibili.cc,PROXY
-DOMAIN-SUFFIX,bilibili.cn,PROXY
-DOMAIN-SUFFIX,bilibili.com,PROXY
-DOMAIN-SUFFIX,bilibili.net,PROXY
-DOMAIN-SUFFIX,bilibili.tv,PROXY
-DOMAIN-SUFFIX,bilibilipay.cn,PROXY
-DOMAIN-SUFFIX,bilibilipay.com,PROXY
-DOMAIN-SUFFIX,bilicdn1.com,PROXY
-DOMAIN-SUFFIX,bilicdn2.com,PROXY
-DOMAIN-SUFFIX,bilicdn3.com,PROXY
-DOMAIN-SUFFIX,bilicdn4.com,PROXY
-DOMAIN-SUFFIX,bilicdn5.com,PROXY
-DOMAIN-SUFFIX,biligo.com,PROXY
-DOMAIN-SUFFIX,biliimg.com,PROXY
-DOMAIN-SUFFIX,biliintl.com,PROXY
-DOMAIN-SUFFIX,bilivideo.cn,PROXY
-DOMAIN-SUFFIX,bilivideo.com,PROXY
-DOMAIN-SUFFIX,bilivideo.net,PROXY
-DOMAIN-SUFFIX,dreamcast.hk,PROXY
-DOMAIN-SUFFIX,hdslb.com,PROXY
-DOMAIN-SUFFIX,hdslb.org,PROXY
-DOMAIN-SUFFIX,im9.com,PROXY
-DOMAIN-SUFFIX,maoercdn.com,PROXY
-DOMAIN-SUFFIX,mincdn.com,PROXY
-DOMAIN-SUFFIX,yo9.com,PROXY
-
-DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
-#end include:bilibili
 #include:ciweimao
 DOMAIN-SUFFIX,ciweimao.com,PROXY
 DOMAIN-SUFFIX,hbooker.com,PROXY
@@ -238,6 +192,32 @@ DOMAIN-SUFFIX,ku6img.com,PROXY
 DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
+#include:kuaishou
+DOMAIN-SUFFIX,adbkwai.com,PROXY
+DOMAIN-SUFFIX,adkwai.com,PROXY
+DOMAIN-SUFFIX,adukwai.com,PROXY
+DOMAIN-SUFFIX,e.kuaishou.cn,PROXY
+DOMAIN-SUFFIX,e.kuaishou.com,PROXY
+
+DOMAIN,log-sdk.gifshow.com,PROXY
+DOMAIN,wlog.kuaishou.com,PROXY
+#end include:kuaishou-ads
+
+DOMAIN-SUFFIX,ecukwai.com,PROXY
+DOMAIN-SUFFIX,gifshow.com,PROXY
+DOMAIN-SUFFIX,inkwai.com,PROXY
+DOMAIN-SUFFIX,ksapisrv.com,PROXY
+DOMAIN-SUFFIX,kskwai.com,PROXY
+DOMAIN-SUFFIX,kuaishou.com,PROXY
+DOMAIN-SUFFIX,kuaishouapps.com,PROXY
+DOMAIN-SUFFIX,kuaishoupay.com,PROXY
+DOMAIN-SUFFIX,kuaishouzt.com,PROXY
+DOMAIN-SUFFIX,kwaicdn.com,PROXY
+DOMAIN-SUFFIX,kwaizt.com,PROXY
+DOMAIN-SUFFIX,kwimgs.com,PROXY
+DOMAIN-SUFFIX,wsukwai.com,PROXY
+DOMAIN-SUFFIX,yximgs.com,PROXY
+#end include:kuaishou
 #include:kugou
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY

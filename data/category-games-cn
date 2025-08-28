@@ -239,7 +239,6 @@ DOMAIN-SUFFIX,vrzwk.net,PROXY
 DOMAIN-SUFFIX,vrzwk.top,PROXY
 #end include:vrzwk
 #include:xd
-#include:taptap
 DOMAIN-SUFFIX,tapimg.com,PROXY
 DOMAIN-SUFFIX,tapimg.net,PROXY
 DOMAIN-SUFFIX,taptap.cn,PROXY

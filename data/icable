@@ -1,3 +1,4 @@
+#include:cabletv
 DOMAIN-SUFFIX,cabletv.com.hk,PROXY
 DOMAIN-SUFFIX,fantv.hk,PROXY
 DOMAIN-SUFFIX,hkopentv.com,PROXY

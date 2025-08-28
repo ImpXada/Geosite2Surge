@@ -232,6 +232,7 @@ DOMAIN-SUFFIX,yizhitou.com,PROXY
 # 哆啦宝
 DOMAIN-SUFFIX,duolabao.com,PROXY
 
+#include:jd-ads
 DOMAIN-SUFFIX,ads.union.jd.com,PROXY
 DOMAIN-SUFFIX,ads-union.jd.com,PROXY
 DOMAIN-SUFFIX,c-nfa.jd.com,PROXY

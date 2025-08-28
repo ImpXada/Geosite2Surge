@@ -148,11 +148,9 @@ DOMAIN-SUFFIX,sxl.cn,PROXY
 DOMAIN-SUFFIX,sxlcdn.cn,PROXY
 #end include:sxl
 #include:tencent-dev
-#include:cnb
 # 腾讯 云原生构建
 DOMAIN-SUFFIX,cnb.cool,PROXY
 #end include:cnb
-#include:coding
 DOMAIN-SUFFIX,coding.me,PROXY
 DOMAIN-SUFFIX,coding.net,PROXY
 #end include:coding

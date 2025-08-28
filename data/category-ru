@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,xn--d1acj3b,PROXY
 DOMAIN-SUFFIX,xn--p1acf,PROXY
 DOMAIN-SUFFIX,xn--p1ai,PROXY
 
-#include:category-gov-ru
 # Federal Gov.
 DOMAIN-SUFFIX,government.ru,PROXY
 DOMAIN-SUFFIX,gov.ru,PROXY
@@ -165,20 +164,16 @@ DOMAIN-SUFFIX,surgut.ru,PROXY    #Khanty-Mansi Autonomous Area – Yugra
 DOMAIN-SUFFIX,yamal.ru,PROXY    #Yamal-Nenets Autonomous Area
 #end include:category-gov-ru
 
-#include:mailru
 DOMAIN-SUFFIX,imgsmail.ru,PROXY
 DOMAIN-SUFFIX,mail.ru,PROXY
 DOMAIN-SUFFIX,mycdn.me,PROXY
 #end include:mailru
-#include:ok
 DOMAIN-SUFFIX,ok.ru,PROXY
 #end include:ok
-#include:ozon
 DOMAIN-SUFFIX,ozon.ru,PROXY
 DOMAIN-SUFFIX,ozone.ru,PROXY
 DOMAIN-SUFFIX,ozonusercontent.com,PROXY
 #end include:ozon
-#include:vk
 DOMAIN-SUFFIX,mradx.net,PROXY
 DOMAIN-SUFFIX,mvk.com,PROXY
 DOMAIN-SUFFIX,userapi.com,PROXY
@@ -214,7 +209,6 @@ DOMAIN-SUFFIX,vkuservideo.net,PROXY
 DOMAIN-SUFFIX,vkuservideo.ru,PROXY
 DOMAIN-SUFFIX,vkvideo.ru,PROXY
 #end include:vk
-#include:yandex
 # All .yandex domains
 DOMAIN-SUFFIX,yandex,PROXY
 

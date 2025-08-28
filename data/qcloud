@@ -1,7 +1,9 @@
+#include:discuz
 DOMAIN-SUFFIX,comsenz.com,PROXY
 DOMAIN-SUFFIX,discuz.net,PROXY
 DOMAIN-SUFFIX,discuz.org,PROXY
 #end include:discuz
+#include:dnspod
 DOMAIN-SUFFIX,dns.pub,PROXY
 DOMAIN-SUFFIX,dnsapi.cn,PROXY
 DOMAIN-SUFFIX,dnspod.cn,PROXY

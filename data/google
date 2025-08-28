@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,PROXY
 #include:google-gemini
 # This list is for backward compatibility
 
+#include:google-deepmind
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com,PROXY
 DOMAIN-SUFFIX,deepmind.google,PROXY

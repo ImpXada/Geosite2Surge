@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,z.gds.cnzz.com,PROXY
 # AI
 #include:category-ai-cn
 # DeepSeek
+#include:deepseek
 # Main domain
 DOMAIN-SUFFIX,deepseek.com,PROXY
 #end include:deepseek
@@ -137,243 +138,6 @@ DOMAIN-SUFFIX,12306.cn,PROXY
 DOMAIN-SUFFIX,95306.cn,PROXY
 
 # Bank & Finance & Insurance & Securities
-#include:category-bank-cn
-#include:boc
-DOMAIN-SUFFIX,boc.cn,PROXY
-
-# BOC International
-DOMAIN-SUFFIX,bank-of-china.com,PROXY
-DOMAIN-SUFFIX,bankofchina.com,PROXY
-
-# BOC Fullerton Community Bank
-DOMAIN-SUFFIX,bocfullertonbank.com,PROXY
-
-# Comprehensive management
-DOMAIN-SUFFIX,bocamchina.com,PROXY
-DOMAIN-SUFFIX,bocaviation.com,PROXY
-DOMAIN-SUFFIX,boccfc.cc,PROXY
-DOMAIN-SUFFIX,boccfc.cn,PROXY
-DOMAIN-SUFFIX,bocgi.com,PROXY
-DOMAIN-SUFFIX,bocgins.com,PROXY
-DOMAIN-SUFFIX,bochk.com,PROXY
-DOMAIN-SUFFIX,bocichina.cn,PROXY
-DOMAIN-SUFFIX,bocichina.com,PROXY
-DOMAIN-SUFFIX,bocichina.com.cn,PROXY
-DOMAIN-SUFFIX,bocifunds.cn,PROXY
-DOMAIN-SUFFIX,bocifunds.com,PROXY
-DOMAIN-SUFFIX,bocifunds.com.cn,PROXY
-DOMAIN-SUFFIX,bocigroup.com,PROXY
-DOMAIN-SUFFIX,bocim.com,PROXY
-DOMAIN-SUFFIX,bocservices.com.cn,PROXY
-#end include:boc
-#include:ccb
-DOMAIN-SUFFIX,ccb-life.com.cn,PROXY
-DOMAIN-SUFFIX,ccb.cn,PROXY
-DOMAIN-SUFFIX,ccb.com,PROXY
-DOMAIN-SUFFIX,ccb.com.cn,PROXY
-DOMAIN-SUFFIX,ccbcos.com,PROXY
-DOMAIN-SUFFIX,ccbfund.cn,PROXY
-DOMAIN-SUFFIX,ccbfund.com,PROXY
-DOMAIN-SUFFIX,ccbfund.com.cn,PROXY
-DOMAIN-SUFFIX,ccbfutures.cn,PROXY
-DOMAIN-SUFFIX,ccbfutures.com,PROXY
-DOMAIN-SUFFIX,ccbintl.com.hk,PROXY
-DOMAIN-SUFFIX,ccbleasing.com,PROXY
-DOMAIN-SUFFIX,ccblife-test.com.cn,PROXY
-DOMAIN-SUFFIX,ccbseoul.com,PROXY
-DOMAIN-SUFFIX,ccbtrust.com.cn,PROXY
-DOMAIN-SUFFIX,ccbxt.com,PROXY
-#end include:ccb
-#include:citic
-# All .citic domains
-DOMAIN-SUFFIX,citic,PROXY
-
-# All .中信 domains
-DOMAIN-SUFFIX,xn--fiq64b,PROXY
-
-DOMAIN-SUFFIX,chinaamc.com,PROXY
-DOMAIN-SUFFIX,citic-prudential.com.cn,PROXY
-DOMAIN-SUFFIX,citicbank.com,PROXY
-DOMAIN-SUFFIX,citiccapital.com,PROXY
-DOMAIN-SUFFIX,citiciam.com,PROXY
-DOMAIN-SUFFIX,citicifh.com,PROXY
-DOMAIN-SUFFIX,citicprufunds.com.cn,PROXY
-DOMAIN-SUFFIX,citics.com.hk,PROXY
-DOMAIN-SUFFIX,citicsf.com,PROXY
-DOMAIN-SUFFIX,clsa.com,PROXY
-DOMAIN-SUFFIX,cncbinternational.com,PROXY
-DOMAIN-SUFFIX,csc108.com,PROXY
-DOMAIN-SUFFIX,csci.hk,PROXY
-DOMAIN-SUFFIX,ecitic.com,PROXY
-#end include:citic
-#include:cmb
-DOMAIN-SUFFIX,8008205555.cn,PROXY
-DOMAIN-SUFFIX,8008205555.com,PROXY
-DOMAIN-SUFFIX,cignacmb-ipmi.com,PROXY
-DOMAIN-SUFFIX,cignacmb.com,PROXY
-DOMAIN-SUFFIX,cignacmbamc.com,PROXY
-DOMAIN-SUFFIX,cmb-leasing.com,PROXY
-DOMAIN-SUFFIX,cmbchina.biz,PROXY
-DOMAIN-SUFFIX,cmbchina.cn,PROXY
-DOMAIN-SUFFIX,cmbchina.com,PROXY
-DOMAIN-SUFFIX,cmbi.com.hk,PROXY
-DOMAIN-SUFFIX,cmbimg.cn,PROXY
-DOMAIN-SUFFIX,cmbimg.com,PROXY
-DOMAIN-SUFFIX,cmbt.cn,PROXY
-DOMAIN-SUFFIX,cmbuat.com,PROXY
-DOMAIN-SUFFIX,cmburl.cn,PROXY
-DOMAIN-SUFFIX,cmbwinglungbank.com,PROXY
-DOMAIN-SUFFIX,cmf.biz,PROXY
-DOMAIN-SUFFIX,cmf.ltd,PROXY
-DOMAIN-SUFFIX,cmfchina.com,PROXY
-DOMAIN-SUFFIX,cmfunds.cn,PROXY
-DOMAIN-SUFFIX,test-cignacmb.com,PROXY
-
-# 招赢&玖盈
-DOMAIN-SUFFIX,joying.com,PROXY
-#end include:cmb
-#include:hsbc-cn
-DOMAIN-SUFFIX,hsbc.com.cn,PROXY
-DOMAIN-SUFFIX,hsbcqh.com.cn,PROXY
-DOMAIN-SUFFIX,hsbcinsurance.com.cn,PROXY
-#end include:hsbc-cn
-#include:icbc
-# All .icbc domains
-DOMAIN-SUFFIX,icbc,PROXY
-
-DOMAIN-SUFFIX,95588.com,PROXY
-DOMAIN-SUFFIX,95588.com.cn,PROXY
-DOMAIN-SUFFIX,dccnet.com.cn,PROXY
-DOMAIN-SUFFIX,icbc-at.com,PROXY
-DOMAIN-SUFFIX,icbc-cz.com,PROXY
-DOMAIN-SUFFIX,icbc-ltd.com,PROXY
-DOMAIN-SUFFIX,icbc-uk.com,PROXY
-DOMAIN-SUFFIX,icbc-us.com,PROXY
-DOMAIN-SUFFIX,icbc.ae,PROXY
-DOMAIN-SUFFIX,icbc.be,PROXY
-DOMAIN-SUFFIX,icbc.co.id,PROXY
-DOMAIN-SUFFIX,icbc.co.jp,PROXY
-DOMAIN-SUFFIX,icbc.co.kr,PROXY
-DOMAIN-SUFFIX,icbc.co.nl,PROXY
-DOMAIN-SUFFIX,icbc.com.au,PROXY
-DOMAIN-SUFFIX,icbc.com.cn,PROXY
-DOMAIN-SUFFIX,icbc.com.es,PROXY
-DOMAIN-SUFFIX,icbc.com.kh,PROXY
-DOMAIN-SUFFIX,icbc.com.kw,PROXY
-DOMAIN-SUFFIX,icbc.com.la,PROXY
-DOMAIN-SUFFIX,icbc.com.mm,PROXY
-DOMAIN-SUFFIX,icbc.com.mo,PROXY
-DOMAIN-SUFFIX,icbc.com.mx,PROXY
-DOMAIN-SUFFIX,icbc.com.pe,PROXY
-DOMAIN-SUFFIX,icbc.com.pk,PROXY
-DOMAIN-SUFFIX,icbc.com.qa,PROXY
-DOMAIN-SUFFIX,icbc.com.sg,PROXY
-DOMAIN-SUFFIX,icbc.com.vn,PROXY
-DOMAIN-SUFFIX,icbc.de,PROXY
-DOMAIN-SUFFIX,icbc.eu,PROXY
-DOMAIN-SUFFIX,icbc.lu,PROXY
-DOMAIN-SUFFIX,icbcalmaty.kz,PROXY
-DOMAIN-SUFFIX,icbcasia.com,PROXY
-DOMAIN-SUFFIX,icbcbr.com.br,PROXY
-DOMAIN-SUFFIX,icbccs.com.cn,PROXY
-DOMAIN-SUFFIX,icbccstz.com.cn,PROXY
-DOMAIN-SUFFIX,icbci.com.hk,PROXY
-DOMAIN-SUFFIX,icbcina.com,PROXY
-DOMAIN-SUFFIX,icbcindia.com,PROXY
-DOMAIN-SUFFIX,icbcit.com,PROXY
-DOMAIN-SUFFIX,icbclondon.com,PROXY
-DOMAIN-SUFFIX,icbcmanila.com.cn,PROXY
-DOMAIN-SUFFIX,icbcme.ae,PROXY
-DOMAIN-SUFFIX,icbcmoscow.ru,PROXY
-DOMAIN-SUFFIX,icbcmy.com,PROXY
-DOMAIN-SUFFIX,icbcnz.com,PROXY
-DOMAIN-SUFFIX,icbcpanama.com,PROXY
-DOMAIN-SUFFIX,icbcparis.fr,PROXY
-DOMAIN-SUFFIX,icbcpl.com,PROXY
-DOMAIN-SUFFIX,icbcstandard.com,PROXY
-DOMAIN-SUFFIX,icbcstandardbank.com,PROXY
-DOMAIN-SUFFIX,icbcstandardresources.com,PROXY
-DOMAIN-SUFFIX,icbcstandardsecurities.com,PROXY
-DOMAIN-SUFFIX,icbcswiss.com,PROXY
-DOMAIN-SUFFIX,icbcthai.com,PROXY
-DOMAIN-SUFFIX,icbkfs.com,PROXY
-DOMAIN-SUFFIX,icbkus.com,PROXY
-#end include:icbc
-#include:unionpay
-DOMAIN-SUFFIX,95516.com,PROXY
-DOMAIN-SUFFIX,95516.net,PROXY
-DOMAIN-SUFFIX,chinaunionpay.com,PROXY
-DOMAIN-SUFFIX,chinaunionpay.com.cn,PROXY
-DOMAIN-SUFFIX,chinaunionpay.net,PROXY
-DOMAIN-SUFFIX,cup.com.cn,PROXY
-DOMAIN-SUFFIX,cup62.cn,PROXY
-DOMAIN-SUFFIX,unionpay.com,PROXY
-DOMAIN-SUFFIX,unionpay.net,PROXY
-DOMAIN-SUFFIX,unionpaysecure.com,PROXY
-
-# UnionPay International
-DOMAIN-SUFFIX,unionpayintl.cn,PROXY
-DOMAIN-SUFFIX,unionpayintl.com,PROXY
-#end include:unionpay
-
-DOMAIN-SUFFIX,abchina.com,PROXY
-DOMAIN-SUFFIX,bankcomm.com,PROXY
-DOMAIN-SUFFIX,bankofbeijing.com.cn,PROXY
-DOMAIN-SUFFIX,bosc.cn,PROXY
-DOMAIN-SUFFIX,bsb.com.cn,PROXY
-DOMAIN-SUFFIX,ccb.com,PROXY
-DOMAIN-SUFFIX,cebbank.com,PROXY
-DOMAIN-SUFFIX,cgbchina.com.cn,PROXY
-DOMAIN-SUFFIX,cib.com.cn,PROXY
-DOMAIN-SUFFIX,citibank.com.cn,PROXY
-DOMAIN-SUFFIX,cmbc.com.cn,PROXY
-DOMAIN-SUFFIX,hxb.com.cn,PROXY
-DOMAIN-SUFFIX,njcb.com.cn,PROXY
-DOMAIN-SUFFIX,psbc.com,PROXY
-DOMAIN-SUFFIX,spdb.com.cn,PROXY
-DOMAIN-SUFFIX,whccb.com,PROXY
-
-# 中国19家民营银行
-# 天津金城银行股份有限公司 Kincheng Bank of Tianjin Co., Ltd.
-DOMAIN-SUFFIX,kcbebank.com,PROXY
-# 上海华瑞银行股份有限公司 Shanghai HuaRui Bank Co., LTD.
-DOMAIN-SUFFIX,shrbank.com,PROXY
-# 浙江网商银行股份有限公司 ZHEJIANG E-COMMERCE BANK CO.,LTD
-DOMAIN-SUFFIX,mybank.cn,PROXY
-# 温州民商银行股份有限公司 WENZHOU MINSHANG BANK CO.,LTD
-DOMAIN-SUFFIX,ms-bank.cn,PROXY
-# 深圳前海微众银行股份有限公司 WeBank Co.,Ltd
-DOMAIN-SUFFIX,webank.com,PROXY
-DOMAIN-SUFFIX,webankcdn.net,PROXY
-# 湖南三湘银行股份有限公司 BANK OF SANXIANG
-DOMAIN-SUFFIX,csxbank.com,PROXY
-# 重庆富民银行股份有限公司 Chongqing Fumin Bank Co.,Ltd.
-DOMAIN-SUFFIX,fbank.com,PROXY
-# 四川新网银行股份有限公司 SICHUAN XW BANK CORP.,LTD.
-DOMAIN-SUFFIX,xwbank.com,PROXY
-# 北京中关村银行股份有限公司 Beijing Zhongguancun Bank Corporation Limited
-DOMAIN-SUFFIX,zgcbank.com,PROXY
-# 吉林亿联银行股份有限公司 JILIN YILLION BANK CO.，LTD.
-DOMAIN-SUFFIX,yillionbank.com,PROXY
-# 武汉众邦银行股份有限公司 WUHANZBANK CO.,LTD.
-DOMAIN-SUFFIX,z-bank.com,PROXY
-# 福建华通银行股份有限公司 Fujian OneBank Company Limited
-DOMAIN-SUFFIX,onebank.com.cn,PROXY
-# 威海蓝海银行股份有限公司 WEIHAI BLUE OCEAN BANK CO.,LTD.
-DOMAIN-SUFFIX,wegobank.cn,PROXY
-# 江苏苏宁银行股份有限公司 JIANGSU SUNING BANK CO.,LTD.
-DOMAIN-SUFFIX,suningbank.com,PROXY
-# 梅州客商银行股份有限公司 MEIZHOU HAKKA BANK CO., LTD.
-DOMAIN-SUFFIX,kshbank.cn,PROXY
-# 安徽新安银行股份有限公司 Anhui xin’an bank Co.,Ltd.
-DOMAIN-SUFFIX,xa-bank.com,PROXY
-# 辽宁振兴银行股份有限公司 NewUp Bank of Liaoning Co.,Ltd.
-DOMAIN-SUFFIX,newupbank.com,PROXY
-# 江西裕民银行股份有限公司 JIANGXI YUMIN BANK CO., LTD.
-DOMAIN-SUFFIX,ymbank.com,PROXY
-# 无锡锡商银行股份有限公司 WUXI XISHANG BANK CO.，LTD.
-DOMAIN-SUFFIX,wxsbank.com,PROXY
-#end include:category-bank-cn
 #include:category-securities-cn
 # 本项目不对金融机构提供任何保证或担保
 # The project does not provide any guarantees or warranties to financial institutions.
@@ -627,200 +391,26 @@ DOMAIN-SUFFIX,zway.top,PROXY    #longjuan's Blog 粤ICP备2020094784号-1
 #end include:category-blog-cn
 
 # 餐饮类
+#include:category-food-cn
+#include:bestore
+DOMAIN-SUFFIX,517lppz.com,PROXY
+DOMAIN-SUFFIX,lppz.com,PROXY
+DOMAIN-SUFFIX,lppzimg.com,PROXY
+#end include:bestore
+#include:heytea
+DOMAIN-SUFFIX,heytea.com,PROXY
+#end include:heytea
+#include:lkcoffee
+DOMAIN-SUFFIX,lkcoffee.com,PROXY
+DOMAIN-SUFFIX,luckincoffeecdn.com,PROXY
+DOMAIN-SUFFIX,yyds.co,PROXY
+#end include:lkcoffee
+
+DOMAIN-SUFFIX,3songshu.com,PROXY
+DOMAIN-SUFFIX,haidilao.com,PROXY
+#end include:category-food-cn
 
 # 快递物流
-#include:category-logistics-cn
-#include:800best
-# 百世
-# 浙B2-20070189
-DOMAIN-SUFFIX,56laile.com,PROXY
-DOMAIN-SUFFIX,800best.cn,PROXY
-DOMAIN-SUFFIX,800best.com,PROXY
-DOMAIN-SUFFIX,800best.com.cn,PROXY
-DOMAIN-SUFFIX,800best.net,PROXY
-DOMAIN-SUFFIX,800bestapi.cn,PROXY
-DOMAIN-SUFFIX,800bestapi.com,PROXY
-DOMAIN-SUFFIX,800bestapp.cn,PROXY
-DOMAIN-SUFFIX,800bestapp.com,PROXY
-DOMAIN-SUFFIX,baishinetwork.com,PROXY
-DOMAIN-SUFFIX,best-inc.com,PROXY
-DOMAIN-SUFFIX,bestcrossborder.com,PROXY
-DOMAIN-SUFFIX,bestdataclub.com,PROXY
-DOMAIN-SUFFIX,bestincapi.cn,PROXY
-DOMAIN-SUFFIX,bestincapi.com,PROXY
-DOMAIN-SUFFIX,bestincapp.cn,PROXY
-DOMAIN-SUFFIX,bestincapp.com,PROXY
-DOMAIN-SUFFIX,linliyz.com,PROXY
-DOMAIN-SUFFIX,qiancangwms.com,PROXY
-DOMAIN-SUFFIX,qianyierp.com,PROXY
-DOMAIN-SUFFIX,t1tms.com,PROXY
-DOMAIN-SUFFIX,t8tms.com,PROXY
-DOMAIN-SUFFIX,t9tms.com,PROXY
-DOMAIN-SUFFIX,tnettms.com,PROXY
-DOMAIN-SUFFIX,wangniuwms.com,PROXY
-DOMAIN-SUFFIX,xinyuanfin.com,PROXY
-DOMAIN-SUFFIX,youyierp.com,PROXY
-DOMAIN-SUFFIX,youyitms.com,PROXY
-DOMAIN-SUFFIX,youyiwms.com,PROXY
-#end include:800best
-#include:cainiao
-DOMAIN-SUFFIX,cainiao-inc.com,PROXY
-DOMAIN-SUFFIX,cainiao.com,PROXY
-DOMAIN-SUFFIX,cainiao.com.cn,PROXY
-DOMAIN-SUFFIX,cainiaoyizhan.com,PROXY
-DOMAIN-SUFFIX,guoguo-app.com,PROXY
-#end include:cainiao
-#include:deppon
-# 德邦
-# 沪ICP备10005645号
-DOMAIN-SUFFIX,deppon.com,PROXY
-DOMAIN-SUFFIX,deppon.com.cn,PROXY
-DOMAIN-SUFFIX,dpma.cc,PROXY
-#end include:deppon
-#include:fcbox
-# 丰巢
-DOMAIN-SUFFIX,fcbox.com,PROXY
-DOMAIN-SUFFIX,fcboxmall.com,PROXY
-#end include:fcbox
-#include:jtexpress
-# 极兔
-# 沪ICP备2020025698号
-DOMAIN-SUFFIX,bxexpress.com.cn,PROXY
-DOMAIN-SUFFIX,jtexpress.cn,PROXY
-DOMAIN-SUFFIX,jtexpress.com,PROXY
-DOMAIN-SUFFIX,jtfulfillment.cn,PROXY
-DOMAIN-SUFFIX,jtfulfillment.com,PROXY
-DOMAIN-SUFFIX,jtjms-ae.com,PROXY
-DOMAIN-SUFFIX,jtjms-br.com,PROXY
-DOMAIN-SUFFIX,jtjms-eg.com,PROXY
-DOMAIN-SUFFIX,jtjms-mx.com,PROXY
-DOMAIN-SUFFIX,jtjms-sa.com,PROXY
-DOMAIN-SUFFIX,upfos.cn,PROXY
-DOMAIN-SUFFIX,upfos.com,PROXY
-
-# 粤ICP备18009307号
-DOMAIN-SUFFIX,cr-cts.com,PROXY
-DOMAIN-SUFFIX,crscm.com,PROXY
-DOMAIN-SUFFIX,jet-ego.com,PROXY
-DOMAIN-SUFFIX,jet-logistics.com,PROXY
-DOMAIN-SUFFIX,jetlogistic.com,PROXY
-DOMAIN-SUFFIX,jnt-express.com.cn,PROXY
-DOMAIN-SUFFIX,jtexpress.com.cn,PROXY
-DOMAIN-SUFFIX,jtexpress.top,PROXY
-DOMAIN-SUFFIX,jtg2g.com,PROXY
-DOMAIN-SUFFIX,yl-scm.com,PROXY
-#end include:jtexpress
-#include:kuaidi100
-DOMAIN-SUFFIX,ckd.im,PROXY
-DOMAIN-SUFFIX,kd100.com,PROXY
-DOMAIN-SUFFIX,kuaidi100.com,PROXY
-DOMAIN-SUFFIX,kuaidilab.com,PROXY
-#end include:kuaidi100
-#include:sf-express
-DOMAIN-SUFFIX,feng1.com,PROXY
-DOMAIN-SUFFIX,ibobscs.com,PROXY
-DOMAIN-SUFFIX,rongechain.com,PROXY
-DOMAIN-SUFFIX,sf-airlines.com,PROXY
-DOMAIN-SUFFIX,sf-cityrush.com,PROXY
-DOMAIN-SUFFIX,sf-express.com,PROXY
-DOMAIN-SUFFIX,sf-financial.com,PROXY
-DOMAIN-SUFFIX,sf-international.com,PROXY
-DOMAIN-SUFFIX,sf-saas.com,PROXY
-DOMAIN-SUFFIX,sf-tech.com.cn,PROXY
-DOMAIN-SUFFIX,sf.cn,PROXY
-DOMAIN-SUFFIX,sfbuy.com,PROXY
-DOMAIN-SUFFIX,sfcar.hk,PROXY
-DOMAIN-SUFFIX,sffix.cn,PROXY
-DOMAIN-SUFFIX,sfgy.org,PROXY
-#end include:sf-express
-#include:sto-express
-DOMAIN-SUFFIX,sto-express.cn,PROXY
-DOMAIN-SUFFIX,sto-express.com,PROXY
-DOMAIN-SUFFIX,sto-express.com.cn,PROXY
-DOMAIN-SUFFIX,sto.cn,PROXY
-
-# 申通国际
-DOMAIN-SUFFIX,stointl.com,PROXY
-DOMAIN-SUFFIX,stosolution.com,PROXY
-#end include:sto-express
-#include:yto-express
-# 沪ICP备05004632号
-DOMAIN-SUFFIX,gpall.cn,PROXY
-DOMAIN-SUFFIX,gpall.net,PROXY
-DOMAIN-SUFFIX,kjwugx.com,PROXY
-DOMAIN-SUFFIX,mamayz.cn,PROXY
-DOMAIN-SUFFIX,mamayz.com,PROXY
-DOMAIN-SUFFIX,mumbuy365.com,PROXY
-DOMAIN-SUFFIX,nellit.cn,PROXY
-DOMAIN-SUFFIX,nellit.com.cn,PROXY
-DOMAIN-SUFFIX,nellit.info,PROXY
-DOMAIN-SUFFIX,nellit.net,PROXY
-DOMAIN-SUFFIX,nellit.net.cn,PROXY
-DOMAIN-SUFFIX,nellit.org.cn,PROXY
-DOMAIN-SUFFIX,nellit.xyz,PROXY
-DOMAIN-SUFFIX,sxgou.cn,PROXY
-DOMAIN-SUFFIX,tianxiajiameng.cn,PROXY
-DOMAIN-SUFFIX,tianxiajiameng.com,PROXY
-DOMAIN-SUFFIX,yt0.cc,PROXY
-DOMAIN-SUFFIX,yto-jsd.com,PROXY
-DOMAIN-SUFFIX,yto-lgs.com,PROXY
-DOMAIN-SUFFIX,yto-lgs.net,PROXY
-DOMAIN-SUFFIX,yto.net.cn,PROXY
-DOMAIN-SUFFIX,yto.top,PROXY
-DOMAIN-SUFFIX,yto.vip,PROXY
-DOMAIN-SUFFIX,yto.xin,PROXY
-DOMAIN-SUFFIX,yto56.com.cn,PROXY
-DOMAIN-SUFFIX,yto56.net.cn,PROXY
-DOMAIN-SUFFIX,yto56test.com,PROXY
-DOMAIN-SUFFIX,ytocargo.com,PROXY
-DOMAIN-SUFFIX,ytocargo.com.cn,PROXY
-DOMAIN-SUFFIX,ytoexpress.com,PROXY
-DOMAIN-SUFFIX,ytoholding.com,PROXY
-DOMAIN-SUFFIX,ytojg.com.cn,PROXY
-DOMAIN-SUFFIX,ytokj.cn,PROXY
-DOMAIN-SUFFIX,ytokj.com,PROXY
-DOMAIN-SUFFIX,ytokj.com.cn,PROXY
-DOMAIN-SUFFIX,ytokj.net,PROXY
-DOMAIN-SUFFIX,ytokj.net.cn,PROXY
-DOMAIN-SUFFIX,ytoluohan.cn,PROXY
-DOMAIN-SUFFIX,ytoluohan.com,PROXY
-DOMAIN-SUFFIX,ytoluohan.net,PROXY
-DOMAIN-SUFFIX,ytoluohan.xin,PROXY
-DOMAIN-SUFFIX,yuantongyizhan.cn,PROXY
-DOMAIN-SUFFIX,yuantongyizhan.com,PROXY
-#end include:yto-express
-#include:yundaex
-DOMAIN-SUFFIX,ydsys.cn,PROXY
-DOMAIN-SUFFIX,yundaex.cn,PROXY
-DOMAIN-SUFFIX,yundaex.com,PROXY
-DOMAIN-SUFFIX,yundasys.com,PROXY
-
-# 韵达快运
-DOMAIN-SUFFIX,yunda56.com,PROXY
-DOMAIN-SUFFIX,yundalog.com,PROXY
-DOMAIN-SUFFIX,yundaltl.com,PROXY
-
-# 韵达国际
-DOMAIN-SUFFIX,udalogistic.com,PROXY
-DOMAIN-SUFFIX,udalogistic.cn,PROXY
-#end include:yundaex
-#include:zto-express
-# 沪ICP备13044869号
-DOMAIN-SUFFIX,95311.com,PROXY
-DOMAIN-SUFFIX,izto.com,PROXY
-DOMAIN-SUFFIX,izto.com.cn,PROXY
-DOMAIN-SUFFIX,mlzt.com.cn,PROXY
-DOMAIN-SUFFIX,tuxi.com,PROXY
-DOMAIN-SUFFIX,zt-express.com,PROXY
-DOMAIN-SUFFIX,zto.cn,PROXY
-DOMAIN-SUFFIX,zto.com,PROXY
-DOMAIN-SUFFIX,zto.net,PROXY
-DOMAIN-SUFFIX,ztoapp.com,PROXY
-DOMAIN-SUFFIX,ztoglobal.com,PROXY
-DOMAIN-SUFFIX,ztogroup.com,PROXY
-DOMAIN-SUFFIX,ztoyh.com,PROXY
-#end include:zto-express
-#end include:category-logistics-cn
 
 # CDN or SDWAN
 #include:aws-cn
@@ -1042,7 +632,6 @@ DOMAIN-SUFFIX,leigod.cn,PROXY
 
 # E-commerce
 #include:58tongcheng
-#include:ganji
 DOMAIN-SUFFIX,58ganji.com,PROXY
 DOMAIN-SUFFIX,58ganji-corp.com,PROXY
 DOMAIN-SUFFIX,ganji.com,PROXY
@@ -1428,6 +1017,7 @@ DOMAIN-SUFFIX,yizhitou.com,PROXY
 # 哆啦宝
 DOMAIN-SUFFIX,duolabao.com,PROXY
 
+#include:jd-ads
 DOMAIN-SUFFIX,ads.union.jd.com,PROXY
 DOMAIN-SUFFIX,ads-union.jd.com,PROXY
 DOMAIN-SUFFIX,c-nfa.jd.com,PROXY
@@ -1610,6 +1200,20 @@ DOMAIN-SUFFIX,xiamai.net,PROXY
 #include:3dm
 DOMAIN-SUFFIX,3dmgame.com,PROXY
 #end include:3dm
+#include:acfun
+# Beijing Danmu Network Technology Co., Ltd.
+
+DOMAIN-SUFFIX,ac.fun,PROXY
+DOMAIN-SUFFIX,acfun.cn,PROXY
+DOMAIN-SUFFIX,acfun.net,PROXY
+DOMAIN-SUFFIX,acfunchina.cn,PROXY
+DOMAIN-SUFFIX,acfunchina.com,PROXY
+DOMAIN-SUFFIX,acfunchina.net,PROXY
+DOMAIN-SUFFIX,aixifan.com,PROXY
+
+DOMAIN,apilog-web.acfun.cn,PROXY
+#end include:acfun-ads
+#end include:acfun
 #include:acplay
 DOMAIN-SUFFIX,acplay.net,PROXY
 DOMAIN-SUFFIX,dandanplay.com,PROXY
@@ -1627,66 +1231,6 @@ DOMAIN-SUFFIX,bestvcdn.com.cn,PROXY
 DOMAIN-SUFFIX,bestvcdn.net,PROXY
 DOMAIN-SUFFIX,smgbb.cn,PROXY
 #end include:bestv
-#include:bilibili
-DOMAIN-SUFFIX,bilibiligame.cn,PROXY
-DOMAIN-SUFFIX,bilibiligame.co,PROXY
-DOMAIN-SUFFIX,bilibiligame.net,PROXY
-DOMAIN-SUFFIX,biligame.co,PROXY
-DOMAIN-SUFFIX,biligame.com,PROXY
-DOMAIN-SUFFIX,biligame.net,PROXY
-#end include:bilibili-game
-
-
-# 哔哩哔哩漫画
-DOMAIN-SUFFIX,bilicomic.com,PROXY
-DOMAIN-SUFFIX,bilicomics.com,PROXY
-
-DOMAIN,manga.bilibili.com,PROXY
-
-
-DOMAIN-SUFFIX,acg.tv,PROXY
-DOMAIN-SUFFIX,acgvideo.com,PROXY
-DOMAIN-SUFFIX,animetamashi.cn,PROXY
-DOMAIN-SUFFIX,animetamashi.com,PROXY
-DOMAIN-SUFFIX,anitama.cn,PROXY
-DOMAIN-SUFFIX,anitama.net,PROXY
-DOMAIN-SUFFIX,b23.tv,PROXY
-DOMAIN-SUFFIX,bigfun.cn,PROXY
-DOMAIN-SUFFIX,bigfunapp.cn,PROXY
-DOMAIN-SUFFIX,bili22.cn,PROXY
-DOMAIN-SUFFIX,bili2233.cn,PROXY
-DOMAIN-SUFFIX,bili23.cn,PROXY
-DOMAIN-SUFFIX,bili33.cn,PROXY
-DOMAIN-SUFFIX,biliapi.com,PROXY
-DOMAIN-SUFFIX,biliapi.net,PROXY
-DOMAIN-SUFFIX,bilibili.cc,PROXY
-DOMAIN-SUFFIX,bilibili.cn,PROXY
-DOMAIN-SUFFIX,bilibili.com,PROXY
-DOMAIN-SUFFIX,bilibili.net,PROXY
-DOMAIN-SUFFIX,bilibili.tv,PROXY
-DOMAIN-SUFFIX,bilibilipay.cn,PROXY
-DOMAIN-SUFFIX,bilibilipay.com,PROXY
-DOMAIN-SUFFIX,bilicdn1.com,PROXY
-DOMAIN-SUFFIX,bilicdn2.com,PROXY
-DOMAIN-SUFFIX,bilicdn3.com,PROXY
-DOMAIN-SUFFIX,bilicdn4.com,PROXY
-DOMAIN-SUFFIX,bilicdn5.com,PROXY
-DOMAIN-SUFFIX,biligo.com,PROXY
-DOMAIN-SUFFIX,biliimg.com,PROXY
-DOMAIN-SUFFIX,biliintl.com,PROXY
-DOMAIN-SUFFIX,bilivideo.cn,PROXY
-DOMAIN-SUFFIX,bilivideo.com,PROXY
-DOMAIN-SUFFIX,bilivideo.net,PROXY
-DOMAIN-SUFFIX,dreamcast.hk,PROXY
-DOMAIN-SUFFIX,hdslb.com,PROXY
-DOMAIN-SUFFIX,hdslb.org,PROXY
-DOMAIN-SUFFIX,im9.com,PROXY
-DOMAIN-SUFFIX,maoercdn.com,PROXY
-DOMAIN-SUFFIX,mincdn.com,PROXY
-DOMAIN-SUFFIX,yo9.com,PROXY
-
-DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
-#end include:bilibili
 #include:ciweimao
 DOMAIN-SUFFIX,ciweimao.com,PROXY
 DOMAIN-SUFFIX,hbooker.com,PROXY
@@ -1844,6 +1388,32 @@ DOMAIN-SUFFIX,ku6img.com,PROXY
 DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
+#include:kuaishou
+DOMAIN-SUFFIX,adbkwai.com,PROXY
+DOMAIN-SUFFIX,adkwai.com,PROXY
+DOMAIN-SUFFIX,adukwai.com,PROXY
+DOMAIN-SUFFIX,e.kuaishou.cn,PROXY
+DOMAIN-SUFFIX,e.kuaishou.com,PROXY
+
+DOMAIN,log-sdk.gifshow.com,PROXY
+DOMAIN,wlog.kuaishou.com,PROXY
+#end include:kuaishou-ads
+
+DOMAIN-SUFFIX,ecukwai.com,PROXY
+DOMAIN-SUFFIX,gifshow.com,PROXY
+DOMAIN-SUFFIX,inkwai.com,PROXY
+DOMAIN-SUFFIX,ksapisrv.com,PROXY
+DOMAIN-SUFFIX,kskwai.com,PROXY
+DOMAIN-SUFFIX,kuaishou.com,PROXY
+DOMAIN-SUFFIX,kuaishouapps.com,PROXY
+DOMAIN-SUFFIX,kuaishoupay.com,PROXY
+DOMAIN-SUFFIX,kuaishouzt.com,PROXY
+DOMAIN-SUFFIX,kwaicdn.com,PROXY
+DOMAIN-SUFFIX,kwaizt.com,PROXY
+DOMAIN-SUFFIX,kwimgs.com,PROXY
+DOMAIN-SUFFIX,wsukwai.com,PROXY
+DOMAIN-SUFFIX,yximgs.com,PROXY
+#end include:kuaishou
 #include:kugou
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY
@@ -2185,6 +1755,280 @@ DOMAIN-SUFFIX,upe.net,PROXY    #优启通官网（IT天空）
 DOMAIN-SUFFIX,winos.me,PROXY    #WINOS 精简社区
 
 # Media & News & Press
+#include:category-media-cn
+#include:36kr
+DOMAIN-SUFFIX,36dianping.com,PROXY
+DOMAIN-SUFFIX,36kr.com,PROXY
+DOMAIN-SUFFIX,36krcdn.com,PROXY
+DOMAIN-SUFFIX,36krcnd.com,PROXY
+#end include:36kr
+#include:cctv
+DOMAIN-SUFFIX,cctv.cn,PROXY
+DOMAIN-SUFFIX,cctv.com,PROXY
+DOMAIN-SUFFIX,cctvpic.com,PROXY
+DOMAIN-SUFFIX,chinaepg.cn,PROXY
+DOMAIN-SUFFIX,chinalive.com,PROXY
+DOMAIN-SUFFIX,citv.net.cn,PROXY
+DOMAIN-SUFFIX,cnms.net.cn,PROXY
+DOMAIN-SUFFIX,cntv.cn,PROXY
+DOMAIN-SUFFIX,cntv.com.cn,PROXY
+DOMAIN-SUFFIX,cctvlib.cn,PROXY
+DOMAIN-SUFFIX,cctvlibrary.cn,PROXY
+DOMAIN-SUFFIX,cctvlib.com.cn,PROXY
+DOMAIN-SUFFIX,cctvlibrary.com.cn,PROXY
+DOMAIN-SUFFIX,cctvpro.cn,PROXY
+DOMAIN-SUFFIX,cctvpro.com.cn,PROXY
+DOMAIN-SUFFIX,cntvwb.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.com.cn,PROXY
+DOMAIN-SUFFIX,gjgbdszt.net.cn,PROXY
+DOMAIN-SUFFIX,ipanda.cn,PROXY
+DOMAIN-SUFFIX,ipanda.com,PROXY
+DOMAIN-SUFFIX,ipanda.com.cn,PROXY
+DOMAIN-SUFFIX,ipanda.net,PROXY
+DOMAIN-SUFFIX,livechina.cn,PROXY
+DOMAIN-SUFFIX,livechina.com,PROXY
+DOMAIN-SUFFIX,olympicchannelchina.cn,PROXY
+DOMAIN-SUFFIX,tvcc.cn,PROXY
+DOMAIN-SUFFIX,tvcc.com.cn,PROXY
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn,PROXY    #中国广播电视总台.cn
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn,PROXY    #中央广播电视总台.cn
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s,PROXY    #中国广播电视总台.中国
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn,PROXY    #国家广播电视总台.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s,PROXY    #国家广播电视总台.中国
+DOMAIN-SUFFIX,zggbdszt.cn,PROXY
+DOMAIN-SUFFIX,zggbdszt.com.cn,PROXY
+DOMAIN-SUFFIX,zggbdszt.net.cn,PROXY
+DOMAIN-SUFFIX,zygbdszt.net.cn,PROXY
+#end include:cctv
+#include:chinanews
+DOMAIN-SUFFIX,chinanews.com,PROXY
+DOMAIN-SUFFIX,chinanews.com.cn,PROXY
+DOMAIN-SUFFIX,cns.com.cn,PROXY
+DOMAIN-SUFFIX,ecns.cn,PROXY
+DOMAIN-SUFFIX,inewsweek.cn,PROXY
+#end include:chinanews
+#include:dgtle
+DOMAIN-SUFFIX,dgtle.com,PROXY
+#end include:dgtle
+#include:geekpark
+DOMAIN-SUFFIX,geekpark.net,PROXY
+#end include:geekpark
+#include:ifanr
+DOMAIN-SUFFIX,coolbuy.com,PROXY
+DOMAIN-SUFFIX,ifanr.cn,PROXY
+DOMAIN-SUFFIX,ifanr.com,PROXY
+DOMAIN-SUFFIX,ifanr.in,PROXY
+DOMAIN-SUFFIX,ifanrusercontent.com,PROXY
+DOMAIN-SUFFIX,ifanrx.com,PROXY
+DOMAIN-SUFFIX,minapp.com,PROXY
+#end include:ifanr
+#include:jiemian
+# 界面（上海）网络科技有限公司 (沪ICP备14040942号)
+
+DOMAIN-SUFFIX,jiemian.com,PROXY
+DOMAIN-SUFFIX,jiemian.com.cn,PROXY
+#end include:jiemian
+#include:landian
+# 蓝点网
+
+# 浙ICP备14021835号-1
+DOMAIN-SUFFIX,lancdn.com,PROXY
+DOMAIN-SUFFIX,landiannews.com,PROXY
+
+# 浙ICP备19001095号-4
+DOMAIN-SUFFIX,landian.vip,PROXY
+
+DOMAIN-SUFFIX,landian.xyz,PROXY
+
+# 浙ICP备19001095号-10
+DOMAIN-SUFFIX,ourl.co,PROXY
+
+# 浙ICP备19001095号-2
+DOMAIN-SUFFIX,wsoso.com,PROXY
+#end include:landian
+#include:phoenix
+DOMAIN-SUFFIX,fengcx.com,PROXY
+DOMAIN-SUFFIX,ifeng.com,PROXY
+DOMAIN-SUFFIX,ifengimg.com,PROXY
+
+# Phoenix Center
+DOMAIN-SUFFIX,phoenixcenter.cn,PROXY
+
+# Phoenix Education
+DOMAIN-SUFFIX,fengedu.com,PROXY
+
+# Phoenix Weekly
+DOMAIN-SUFFIX,ifengweekly.com,PROXY
+#end include:phoenix
+#include:ruanmei
+DOMAIN-SUFFIX,6655.com,PROXY
+DOMAIN-SUFFIX,cooldock.com,PROXY
+DOMAIN-SUFFIX,ithome.com,PROXY
+DOMAIN-SUFFIX,lapin365.com,PROXY
+DOMAIN-SUFFIX,ruanmei.com,PROXY
+DOMAIN-SUFFIX,saayaa.com,PROXY
+DOMAIN-SUFFIX,win7china.com,PROXY
+DOMAIN-SUFFIX,win8china.com,PROXY
+#end include:ruanmei
+#include:solidot
+DOMAIN-SUFFIX,solidot.org,PROXY
+#end include:solidot
+#include:sspai
+DOMAIN-SUFFIX,sspai.com,PROXY
+#end include:sspai
+#include:tmtpost
+# Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
+
+DOMAIN-SUFFIX,tmtpost.com,PROXY
+DOMAIN-SUFFIX,chaindd.com,PROXY
+DOMAIN-SUFFIX,72whys.com,PROXY
+DOMAIN-SUFFIX,checkzeit.com,PROXY
+DOMAIN-SUFFIX,tivitv.com,PROXY
+DOMAIN-SUFFIX,tigeek.net.cn,PROXY
+DOMAIN-SUFFIX,tmtsmartlife.com,PROXY
+DOMAIN-SUFFIX,tmtsmartrun.com,PROXY
+#end include:tmtpost
+#include:weiphone
+DOMAIN-SUFFIX,feng.com,PROXY
+DOMAIN-SUFFIX,fengimg.com,PROXY
+DOMAIN-SUFFIX,wfdata.club,PROXY
+#end include:weiphone
+#include:xueqiu
+DOMAIN-SUFFIX,aiganggu.com,PROXY
+DOMAIN-SUFFIX,danjuanfunds.com,PROXY
+DOMAIN-SUFFIX,imedao.com,PROXY
+DOMAIN-SUFFIX,snowballsecurities.com,PROXY
+DOMAIN-SUFFIX,xueqiu.com,PROXY
+#end include:xueqiu
+#include:ynet
+# This file includes domains for 北京青年报网际传播技术有限公司 (京ICP证010639号-4)
+
+DOMAIN-SUFFIX,ynet.cn,PROXY
+DOMAIN-SUFFIX,ynet.com,PROXY
+DOMAIN-SUFFIX,ynet.com.cn,PROXY
+#end include:ynet
+
+# 证券时报网
+DOMAIN-SUFFIX,stcn.com,PROXY
+
+# 财经网
+DOMAIN-SUFFIX,caijing.com.cn,PROXY
+
+# 和讯
+DOMAIN-SUFFIX,hexun.com,PROXY
+
+# 中金在线
+DOMAIN-SUFFIX,cnfol.com,PROXY
+DOMAIN-SUFFIX,cnfolimg.com,PROXY
+
+# 证券日报
+DOMAIN-SUFFIX,zqrb.cn,PROXY
+
+# 每日经济新闻报社
+DOMAIN-SUFFIX,nbd.com.cn,PROXY
+
+# 上海证券报
+DOMAIN-SUFFIX,cnstock.com,PROXY
+
+# 21世纪经济报
+DOMAIN-SUFFIX,21jingji.com,PROXY
+
+# 第一财经
+DOMAIN-SUFFIX,yicai.com,PROXY
+
+# 中证网
+DOMAIN-SUFFIX,cs.com.cn,PROXY
+
+# 证券之星
+DOMAIN-SUFFIX,ssajax.cn,PROXY
+DOMAIN-SUFFIX,ssimg.cn,PROXY
+DOMAIN-SUFFIX,stockstar.com,PROXY
+
+# 金融界
+DOMAIN-SUFFIX,jrj.com.cn,PROXY
+DOMAIN-SUFFIX,jrjimg.cn,PROXY
+
+# 财联社
+DOMAIN-SUFFIX,cls.cn,PROXY
+DOMAIN-SUFFIX,cailianpress.com,PROXY
+
+# 华尔街见闻
+DOMAIN-SUFFIX,wallstreetcn.com,PROXY
+DOMAIN-SUFFIX,jianyuweb.com,PROXY
+DOMAIN-SUFFIX,wallstcn.com,PROXY
+
+# 同花顺
+DOMAIN-SUFFIX,10jqka.com.cn,PROXY
+DOMAIN-SUFFIX,thsi.cn,PROXY
+DOMAIN-SUFFIX,ths123.com,PROXY
+
+# 大智慧
+DOMAIN-SUFFIX,dzh.com.cn,PROXY
+DOMAIN-SUFFIX,gw.com.cn,PROXY
+DOMAIN-SUFFIX,yundzh.com,PROXY
+
+# 财新网
+DOMAIN-SUFFIX,caixin.com,PROXY
+
+# Xinhua News Agency
+DOMAIN-SUFFIX,news.cn,PROXY
+DOMAIN-SUFFIX,xinhuanet.com,PROXY
+
+# 人民网
+DOMAIN-SUFFIX,people.cn,PROXY
+DOMAIN-SUFFIX,people.com.cn,PROXY
+
+# 环球网
+DOMAIN-SUFFIX,huanqiu.com,PROXY
+DOMAIN-SUFFIX,huanqiucdn.cn,PROXY
+
+# 光明网
+DOMAIN-SUFFIX,gmw.com,PROXY
+
+# 澎湃新闻
+DOMAIN-SUFFIX,thepaper.cn,PROXY
+
+# 封面新闻
+DOMAIN-SUFFIX,thecover.cn,PROXY
+
+# 参考消息
+DOMAIN-SUFFIX,cankaoxiaoxi.com,PROXY
+DOMAIN-SUFFIX,ckxx.net,PROXY
+
+# 大公网（大公报）
+DOMAIN-SUFFIX,takungpao.com,PROXY
+
+# 超能网
+DOMAIN-SUFFIX,expreview.com,PROXY
+
+# 虎嗅
+DOMAIN-SUFFIX,huxiu.com,PROXY
+DOMAIN-SUFFIX,huxiucdn.com,PROXY
+
+# TechWeb
+DOMAIN-SUFFIX,techweb.com.cn,PROXY
+
+# PConline - 太平洋科技
+DOMAIN-SUFFIX,3conline.com,PROXY
+DOMAIN-SUFFIX,pconline.com.cn,PROXY
+
+# ZEALER
+DOMAIN-SUFFIX,zealer.com,PROXY
+
+# 中关村在线
+DOMAIN-SUFFIX,zol-img.com.cn,PROXY
+DOMAIN-SUFFIX,zol.com.cn,PROXY
+
+# 锋潮科技
+DOMAIN-SUFFIX,anzhuo.cn,PROXY
+
+# 中国IDC圈
+DOMAIN-SUFFIX,idcquan.com,PROXY
+
+# 站长网
+DOMAIN-SUFFIX,admin5.com,PROXY
+#end include:category-media-cn
 
 # Netdisk
 #include:category-netdisk-cn
@@ -2287,6 +2131,7 @@ DOMAIN-SUFFIX,smuszh.com,PROXY
 
 # Science & Technology & Knowledge & Scholar & Press & E-learning & Education
 #include:category-education-cn
+#include:category-mooc-cn
 DOMAIN-SUFFIX,chinesemooc.org,PROXY
 DOMAIN-SUFFIX,cnmooc.org,PROXY
 DOMAIN-SUFFIX,icourse163.org,PROXY
@@ -2301,36 +2146,44 @@ DOMAIN,opencourse.pku.edu.cn,PROXY
 DOMAIN,study.163.com,PROXY
 #end include:category-mooc-cn
 
+#include:17zuoye
 DOMAIN-SUFFIX,17zuoye.cn,PROXY
 DOMAIN-SUFFIX,17zuoye.com,PROXY
 DOMAIN-SUFFIX,17zuoye.net,PROXY
 #end include:17zuoye
+#include:applysquare
 DOMAIN-SUFFIX,applysquare.com,PROXY
 DOMAIN-SUFFIX,applysquare.net,PROXY
 #end include:applysquare
+#include:hugecore
 DOMAIN-SUFFIX,hugecore.net,PROXY
 DOMAIN-SUFFIX,shareintelli.com,PROXY
 
 # MOJi辞書
 DOMAIN-SUFFIX,mojidict.com,PROXY
 #end include:hugecore
+#include:hujiang
 DOMAIN-SUFFIX,cctalk.com,PROXY
 DOMAIN-SUFFIX,hjapi.com,PROXY
 DOMAIN-SUFFIX,hjfile.cn,PROXY
 DOMAIN-SUFFIX,hujiang.com,PROXY
 DOMAIN-SUFFIX,yeshj.com,PROXY
 #end include:hujiang
+#include:koolearn
 DOMAIN-SUFFIX,koocdn.com,PROXY
 DOMAIN-SUFFIX,koolearn.com,PROXY
 DOMAIN-SUFFIX,koopass.com,PROXY
 #end include:koolearn
+#include:shanbay
 DOMAIN-SUFFIX,baydn.com,PROXY
 DOMAIN-SUFFIX,shanbay.com,PROXY
 #end include:shanbay
+#include:xueersi
 DOMAIN-SUFFIX,speiyou.com,PROXY
 DOMAIN-SUFFIX,xesimg.com,PROXY
 DOMAIN-SUFFIX,xueersi.com,PROXY
 #end include:xueersi
+#include:yuanfudao
 DOMAIN-SUFFIX,banmaaike.com,PROXY
 DOMAIN-SUFFIX,xiaoyuankousuan.com,PROXY
 DOMAIN-SUFFIX,ybccode.com,PROXY
@@ -2346,6 +2199,7 @@ DOMAIN-SUFFIX,fenbike.com,PROXY
 DOMAIN-SUFFIX,fenbilantian.cn,PROXY
 DOMAIN-SUFFIX,fenbilantian.com,PROXY
 #end include:yuanfudao
+#include:zhihuishu
 DOMAIN-SUFFIX,zhihuishu.com,PROXY
 #end include:zhihuishu
 
@@ -2379,6 +2233,7 @@ DOMAIN-SUFFIX,zbbm.gov.cn,PROXY
 DOMAIN-SUFFIX,zbbm.net,PROXY
 
 # 雨课堂
+#include:yuketang
 DOMAIN-SUFFIX,rainclassroom.com,PROXY
 DOMAIN-SUFFIX,yuketang.cn,PROXY
 #end include:yuketang
@@ -2470,6 +2325,124 @@ DOMAIN-SUFFIX,neoschool.com,PROXY
 # 北京嘉瑞新创教育咨询有限公司 京ICP备2020046790号-3
 DOMAIN-SUFFIX,winyoungreading.com,PROXY
 #end include:category-education-cn
+#include:category-scholar-cn
+# This list contains scholarly domains that have access point in China Mainland.
+
+#include:cas
+# some website in China Academy of Science
+DOMAIN-SUFFIX,csdl.ac.cn,PROXY
+DOMAIN-SUFFIX,iscas.ac.cn,PROXY
+DOMAIN-SUFFIX,las.ac.cn,PROXY
+#end include:cas
+#include:chaoxing
+DOMAIN-SUFFIX,16q.cn,PROXY
+DOMAIN-SUFFIX,5read.com,PROXY
+DOMAIN-SUFFIX,aichaoxing.com,PROXY
+DOMAIN-SUFFIX,chaoxing.cc,PROXY
+DOMAIN-SUFFIX,chaoxing.com,PROXY
+DOMAIN-SUFFIX,chaoxingv.com,PROXY
+DOMAIN-SUFFIX,cxbiji.com,PROXY
+DOMAIN-SUFFIX,dayainfo.com,PROXY
+DOMAIN-SUFFIX,hongbo100.com,PROXY
+DOMAIN-SUFFIX,lnlib.net,PROXY
+DOMAIN-SUFFIX,mndqlib.net,PROXY
+DOMAIN-SUFFIX,mti100.com,PROXY
+DOMAIN-SUFFIX,nihaoafrica.org,PROXY
+DOMAIN-SUFFIX,nihaorwanda.cn,PROXY
+DOMAIN-SUFFIX,sslawy.com,PROXY
+DOMAIN-SUFFIX,sslibrary.com,PROXY
+DOMAIN-SUFFIX,ssreader.cn,PROXY
+DOMAIN-SUFFIX,ssreader.com.cn,PROXY
+DOMAIN-SUFFIX,ssvideo.cn,PROXY
+DOMAIN-SUFFIX,ssvideo.com.cn,PROXY
+DOMAIN-SUFFIX,study360.com.cn,PROXY
+DOMAIN-SUFFIX,superlib.com,PROXY
+DOMAIN-SUFFIX,superlib.net,PROXY
+DOMAIN-SUFFIX,uonline-sh.com,PROXY
+DOMAIN-SUFFIX,uonline-sh.net,PROXY
+DOMAIN-SUFFIX,xuexi365.com,PROXY
+DOMAIN-SUFFIX,xuexi365.com.cn,PROXY
+DOMAIN-SUFFIX,xuexi365.net,PROXY
+DOMAIN-SUFFIX,xxtmail.com,PROXY
+DOMAIN-SUFFIX,ylike.net,PROXY
+DOMAIN-SUFFIX,zaifan.com,PROXY
+DOMAIN-SUFFIX,zaifan.com.cn,PROXY
+DOMAIN-SUFFIX,zhihang100.com,PROXY
+#end include:chaoxing
+#include:cnki
+DOMAIN-SUFFIX,cnki.com.cn,PROXY
+DOMAIN-SUFFIX,cnki.net,PROXY
+
+# 国际 DOI 中国注册与服务中心
+DOMAIN-SUFFIX,chndoi.org,PROXY
+#end include:cnki
+#include:wanfang
+DOMAIN-SUFFIX,wanfangdata.com.cn,PROXY
+DOMAIN-SUFFIX,wf.pub,PROXY
+#end include:wanfang
+
+DOMAIN-SUFFIX,51ccd.com,PROXY    #商务数据库-进出口货物贸易数据分库
+DOMAIN-SUFFIX,airitilibrary.cn,PROXY    #华艺学术文献数据库
+DOMAIN-SUFFIX,ancientbooks.cn,PROXY    #籍合网
+
+DOMAIN-SUFFIX,apabi.com,PROXY
+DOMAIN-SUFFIX,bjinfobank.com,PROXY    #高校数据财经库
+DOMAIN-SUFFIX,blyun.com,PROXY    #百链
+DOMAIN-SUFFIX,chinabooktrading.com,PROXY    #中国历代典籍总目
+DOMAIN-SUFFIX,cidp.com.cn,PROXY    #CIDP制造业数字资源平台
+DOMAIN-SUFFIX,cnbksy.com,PROXY    #全国报刊索引
+
+# CCF 中国计算机学会
+DOMAIN-SUFFIX,ccf.org.cn,PROXY
+DOMAIN-SUFFIX,cspro.org,PROXY    #CCF 计算机职业资格认证管理系统
+DOMAIN-SUFFIX,noi.cn,PROXY    #NOI 全国青少年信息学奥林匹克竞赛
+
+# 中科软股教育科技
+DOMAIN-SUFFIX,cnsciedu.com,PROXY
+DOMAIN-SUFFIX,ibcet.org,PROXY    #中科IBCET大学英语四六级网考系统
+DOMAIN-SUFFIX,medicexam.net,PROXY    #中科MedicExam医学三基培训考核数据库
+DOMAIN-SUFFIX,umajor.net,PROXY    #中科UMajor专业课学习系统
+DOMAIN-SUFFIX,vipexam.org,PROXY    #中科VIPExam考试学习系统
+
+DOMAIN-SUFFIX,cnthinkers.com,PROXY
+DOMAIN-SUFFIX,cqvip.com,PROXY
+DOMAIN-SUFFIX,crggcn.com,PROXY    #CRGG国别区域与全球治理数据平台（原列国志数据库）
+DOMAIN-SUFFIX,data.pharmacodia.com,PROXY    #药渡经纬全球药物信息平台系统
+DOMAIN-SUFFIX,drcnet.com.cn,PROXY    #国研网
+DOMAIN-SUFFIX,duxiu.com,PROXY    #读秀搜索
+
+# 北京爱如生
+DOMAIN-SUFFIX,er07.com,PROXY
+DOMAIN-SUFFIX,ersjk.com,PROXY    #爱如生典海数字平台
+DOMAIN-SUFFIX,sbsjk.com,PROXY    #爱如生申报数据库
+
+# CSMAR经济金融研究数据库
+DOMAIN-SUFFIX,gtarsc.com,PROXY    #国泰安数据库
+
+DOMAIN-SUFFIX,htcases.com,PROXY    #全球案例发现
+DOMAIN-SUFFIX,hwshu.com,PROXY    #瀚文民国书库
+DOMAIN-SUFFIX,hytung.cn,PROXY    #瀚堂典藏古籍
+DOMAIN-SUFFIX,incopat.com,PROXY    #incoPat 专利数据库
+DOMAIN-SUFFIX,lawyee.org,PROXY    #北大法意网 中国法律资料库
+DOMAIN-SUFFIX,neohytung.com,PROXY    #瀚堂近代报刊
+DOMAIN-SUFFIX,nmrdata.com,PROXY    #微谱数据
+DOMAIN-SUFFIX,nssd.cn,PROXY    #国家哲学社会科学学术期刊数据库
+DOMAIN-SUFFIX,pishu.com.cn,PROXY    #皮书数据库（社会科学文献出版社）
+DOMAIN-SUFFIX,pkulaw.com,PROXY    #北大法宝
+DOMAIN-SUFFIX,rdfybk.com,PROXY    #人大复印报刊资料
+DOMAIN-SUFFIX,resset.com,PROXY    #锐思数据库
+DOMAIN-SUFFIX,sciencechina.cn,PROXY    #中国科学文献服务系统
+DOMAIN-SUFFIX,sslibrary.com,PROXY    #超星电子书
+DOMAIN-SUFFIX,tokyotrial.cn,PROXY    #东京审判文献数据库
+DOMAIN-SUFFIX,tongxianghuicn.com,PROXY    #台湾大陆同乡会文献数据库
+DOMAIN-SUFFIX,twscholar.com,PROXY    #TWS台湾学术期刊在线数据库
+DOMAIN-SUFFIX,unihan.com.cn,PROXY    #书同文
+DOMAIN-SUFFIX,wenxin-ge.com,PROXY    #文心阁古籍全文数据库
+DOMAIN-SUFFIX,wind.com.cn,PROXY    #Wind 资讯金融
+DOMAIN-SUFFIX,yiigle.com,PROXY    #中华医学期刊全文数据库
+
+DOMAIN,www.libvideo.com,PROXY    #武汉缘来文化-知识视界
+#end include:category-scholar-cn
 #include:category-wiki-cn
 DOMAIN-SUFFIX,fgo.wiki,PROXY
 DOMAIN-SUFFIX,jikipedia.com,PROXY
@@ -2564,6 +2537,15 @@ DOMAIN-SUFFIX,xiumius.com,PROXY
 DOMAIN-SUFFIX,shimo.im,PROXY
 DOMAIN-SUFFIX,yuque.com,PROXY
 #end include:category-collaborate-cn
+#include:category-documents-cn
+#include:doc88
+DOMAIN-SUFFIX,doc88.com,PROXY
+#end include:doc88
+#include:docin
+DOMAIN-SUFFIX,docin.com,PROXY
+DOMAIN-SUFFIX,douding.cn,PROXY
+#end include:docin
+#end include:category-documents-cn
 #include:category-ntp-cn
 # Aliyun
 # regexp:^ntp([1-7])?\.aliyun\.com$ @cn
@@ -2638,7 +2620,6 @@ DOMAIN-SUFFIX,geetest.com,PROXY
 DOMAIN,geetest.datasink.sensorsdata.cn,PROXY
 #end include:geetest
 #include:hanyi
-#include:hellofont
 DOMAIN-SUFFIX,hellofont.cn,PROXY
 DOMAIN-SUFFIX,hellowebfont.com,PROXY
 
@@ -2662,7 +2643,6 @@ DOMAIN-SUFFIX,camscanner.com,PROXY
 DOMAIN-SUFFIX,camcard.com,PROXY
 
 # 启信宝
-#include:qixin
 DOMAIN-SUFFIX,qixin.com,PROXY
 #end include:qixin
 #end include:intsig
@@ -2838,625 +2818,182 @@ DOMAIN-SUFFIX,moseeker.com,PROXY    #仟寻招聘
 
 
 # Social Media
+#include:category-social-media-cn
+# This list contains social media platforms inside China mainland.
+
+#include:bcy
+DOMAIN-SUFFIX,bcy.net,PROXY
+DOMAIN-SUFFIX,bcyimg.com,PROXY
+DOMAIN-SUFFIX,lf-rc1.yhgfb-cn-static.com,PROXY
+#end include:bcy
+#include:coolapk
+DOMAIN-SUFFIX,coolapk.com,PROXY
+DOMAIN-SUFFIX,coolapkmarket.com,PROXY
+DOMAIN-SUFFIX,coolapkmarket.net,PROXY
+#end include:coolapk
+#include:douban
+DOMAIN-SUFFIX,douban.com,PROXY
+DOMAIN-SUFFIX,douban.fm,PROXY
+DOMAIN-SUFFIX,doubanio.com,PROXY
+#end include:douban
+#include:gracg
+DOMAIN-SUFFIX,gracg.com,PROXY
+DOMAIN-SUFFIX,procg.cn,PROXY
+#end include:gracg
+#include:hupu
+DOMAIN-SUFFIX,hoopchina.com.cn,PROXY
+DOMAIN-SUFFIX,hupu.com,PROXY
+DOMAIN-SUFFIX,hupucdn.com,PROXY
+DOMAIN-SUFFIX,shihuo.cn,PROXY
+#end include:hupu
+#include:meipian
+# 美篇
+DOMAIN-SUFFIX,ivwen.com,PROXY
+DOMAIN-SUFFIX,meipian.cn,PROXY
+DOMAIN-SUFFIX,meipian.me,PROXY
+#end include:meipian
+#include:okjike
+# 即刻 沪ICP备15000478号
+DOMAIN-SUFFIX,jike.city,PROXY
+DOMAIN-SUFFIX,jikecdn.com,PROXY
+DOMAIN-SUFFIX,okjike.com,PROXY
+DOMAIN-SUFFIX,okjk.co,PROXY
+DOMAIN-SUFFIX,ruguoapp.com,PROXY
+#end include:okjike
+#include:sina
+DOMAIN-SUFFIX,2016.sina.cn,PROXY
+DOMAIN-SUFFIX,ad.sina.com.cn,PROXY
+DOMAIN-SUFFIX,adbox.sina.com.cn,PROXY
+DOMAIN-SUFFIX,adimages.sina.com.hk,PROXY
+DOMAIN-SUFFIX,adimg.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,adimg.uve.weibo.com,PROXY
+DOMAIN-SUFFIX,adm.leju.sina.com.cn,PROXY
+DOMAIN-SUFFIX,ads.sina.com,PROXY
+DOMAIN-SUFFIX,alitui.weibo.com,PROXY
+DOMAIN-SUFFIX,api.apps.sina.cn,PROXY
+DOMAIN-SUFFIX,appgift.sinaapp.com,PROXY
+DOMAIN-SUFFIX,appsupdate.sinaapp.com,PROXY
+DOMAIN-SUFFIX,atm.sina.com,PROXY
+DOMAIN-SUFFIX,beacon.sina.com.cn,PROXY
+DOMAIN-SUFFIX,biz.weibo.com,PROXY
+DOMAIN-SUFFIX,click.uve.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,click.uve.weibo.com,PROXY
+DOMAIN-SUFFIX,contentrecommend-out.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,count.video.sina.com.cn,PROXY
+DOMAIN-SUFFIX,counter.sina.com.cn,PROXY
+DOMAIN-SUFFIX,cre.dp.sina.cn,PROXY
+DOMAIN-SUFFIX,cre-dp.sina.cn,PROXY
+DOMAIN-SUFFIX,d00.sina.com.cn,PROXY
+DOMAIN-SUFFIX,dcads.sina.com.cn,PROXY
+DOMAIN-SUFFIX,dl.kjava.sina.cn,PROXY
+DOMAIN-SUFFIX,dmp.sina.cn,PROXY
+DOMAIN-SUFFIX,dp.im.weibo.cn,PROXY
+DOMAIN-SUFFIX,game.weibo.cn,PROXY
+DOMAIN-SUFFIX,game.weibo.com,PROXY
+DOMAIN-SUFFIX,gw5.push.mcp.weibo.cn,PROXY
+DOMAIN-SUFFIX,gw6.push.mcp.weibo.cn,PROXY
+DOMAIN-SUFFIX,int.dpool.sina.com.cn,PROXY
+DOMAIN-SUFFIX,interest.mix.sina.com.cn,PROXY
+DOMAIN-SUFFIX,log.mix.sina.com.cn,PROXY
+DOMAIN-SUFFIX,log.sina.cn,PROXY
+DOMAIN-SUFFIX,mg.games.sina.com.cn,PROXY
+DOMAIN-SUFFIX,newspush.sinajs.cn,PROXY
+DOMAIN-SUFFIX,oascentral.sina.com,PROXY
+DOMAIN-SUFFIX,oascentral.sina.com.hk,PROXY
+DOMAIN-SUFFIX,p4p.sina.com.cn,PROXY
+DOMAIN-SUFFIX,palmnews.sina.cn,PROXY
+DOMAIN-SUFFIX,pay.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,pfp.sina.com.cn,PROXY
+DOMAIN-SUFFIX,pfpip.sina.com,PROXY
+DOMAIN-SUFFIX,promote.biz.weibo.cn,PROXY
+DOMAIN-SUFFIX,rm.sina.com.cn,PROXY
+DOMAIN-SUFFIX,rs.sinajs.cn,PROXY
+DOMAIN-SUFFIX,s.img.mix.sina.com.cn,PROXY
+DOMAIN-SUFFIX,sapi.sina.cn,PROXY
+DOMAIN-SUFFIX,sax.sina.cn,PROXY
+DOMAIN-SUFFIX,sax.sina.com.cn,PROXY
+DOMAIN-SUFFIX,saxn.sina.com.cn,PROXY
+DOMAIN-SUFFIX,saxs.sina.com.cn,PROXY
+DOMAIN-SUFFIX,sbeacon.sina.com.cn,PROXY
+DOMAIN-SUFFIX,sdkapp.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,sdkapp.uve.weibo.com,PROXY
+DOMAIN-SUFFIX,sdkclick.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,slog.sina.cn,PROXY
+DOMAIN-SUFFIX,slog.sina.com.cn,PROXY
+DOMAIN-SUFFIX,staticadm.leju.sina.com.cn,PROXY
+DOMAIN-SUFFIX,tjs.sjs.sinajs.cn,PROXY
+DOMAIN-SUFFIX,trends.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,u1.img.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,wbapp.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,wbapp.uve.weibo.com,PROXY
+DOMAIN-SUFFIX,wbclick.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,wbpctips.mobile.sina.cn,PROXY
+DOMAIN-SUFFIX,widget.weibo.com,PROXY
+DOMAIN-SUFFIX,woocall.sina.com.cn,PROXY
+DOMAIN-SUFFIX,zymo.mps.weibo.com,PROXY
+#end include:sina-ads
+
+DOMAIN-SUFFIX,97973.com,PROXY
+DOMAIN-SUFFIX,hk.weibo.com,PROXY
+DOMAIN-SUFFIX,my.weibo.com,PROXY
+DOMAIN-SUFFIX,overseas.weibo.com,PROXY
+DOMAIN-SUFFIX,picself.cn,PROXY
+DOMAIN-SUFFIX,sg.weibo.com,PROXY
+DOMAIN-SUFFIX,sina.cn,PROXY
+DOMAIN-SUFFIX,sina.com,PROXY
+DOMAIN-SUFFIX,sina.com.cn,PROXY
+DOMAIN-SUFFIX,sina.net,PROXY
+DOMAIN-SUFFIX,sinaapp.com,PROXY
+DOMAIN-SUFFIX,sinaedge.com,PROXY
+DOMAIN-SUFFIX,sinaimg.cn,PROXY
+DOMAIN-SUFFIX,sinaimg.com,PROXY
+DOMAIN-SUFFIX,sinajs.cn,PROXY
+DOMAIN-SUFFIX,sinajs.com,PROXY
+DOMAIN-SUFFIX,t.cn,PROXY
+DOMAIN-SUFFIX,th.weibo.com,PROXY
+DOMAIN-SUFFIX,tw.weibo.com,PROXY
+DOMAIN-SUFFIX,us.weibo.com,PROXY
+DOMAIN-SUFFIX,videoself.cn,PROXY
+DOMAIN-SUFFIX,wbimg.com,PROXY
+DOMAIN-SUFFIX,wbimg.cn,PROXY
+DOMAIN-SUFFIX,wcdn.cn,PROXY
+DOMAIN-SUFFIX,weibo.cn,PROXY
+DOMAIN-SUFFIX,weibo.com,PROXY
+DOMAIN-SUFFIX,weibo.com.cn,PROXY
+DOMAIN-SUFFIX,weibocdn.com,PROXY
+DOMAIN-SUFFIX,xhaiwai.com,PROXY
+#end include:sina
+#include:xiaohongshu
+DOMAIN-SUFFIX,xhscdn.com,PROXY
+DOMAIN-SUFFIX,xhscdn.net,PROXY
+DOMAIN-SUFFIX,xiaohongshu.com,PROXY
+#end include:xiaohongshu
+#include:yy
+#include:duowan
+DOMAIN-SUFFIX,duowan.com,PROXY
+DOMAIN-SUFFIX,dwstatic.com,PROXY
+#end include:duowan
+
+DOMAIN-SUFFIX,yy.com,PROXY
+DOMAIN-SUFFIX,yystatic.com,PROXY
+#end include:yy
+#include:zhihu
+DOMAIN-SUFFIX,zhihu.com,PROXY
+DOMAIN-SUFFIX,zhimg.com,PROXY
+#end include:zhihu
+
+DOMAIN-SUFFIX,tieba.baidu.com,PROXY
+DOMAIN-SUFFIX,tieba.com,PROXY
+
+# 杭州蛋蛋语音科技有限公司
+DOMAIN-SUFFIX,dandan818.com,PROXY
+DOMAIN-SUFFIX,dandanvoice.com,PROXY
+#end include:category-social-media-cn
 
 # Software development related
-#include:category-dev-cn
-#include:aixcoder
-DOMAIN-SUFFIX,aixcoder.com,PROXY
-DOMAIN-SUFFIX,nnthink.com,PROXY
-#end include:aixcoder
-#include:apifox
-DOMAIN-SUFFIX,apifox.cn,PROXY
-DOMAIN-SUFFIX,apifox.com,PROXY
-#end include:apifox
-#include:apipost
-DOMAIN-SUFFIX,apipost.cn,PROXY
-DOMAIN-SUFFIX,apipost.net,PROXY
-#end include:apipost
-#include:baltamatica
-# 北太天元通用数值计算
-# 北太振寰（重庆）科技有限公司 渝ICP备2022008375号
-DOMAIN-SUFFIX,baltamatica.cn,PROXY
-DOMAIN-SUFFIX,baltamatica.net,PROXY
-DOMAIN-SUFFIX,baltamatica.org.cn,PROXY
-DOMAIN-SUFFIX,baltamatica.com,PROXY
-#end include:baltamatica
-#include:cnblogs
-DOMAIN-SUFFIX,blogjava.net,PROXY
-DOMAIN-SUFFIX,cnblogs.com,PROXY
-DOMAIN-SUFFIX,cnitblog.com,PROXY
-DOMAIN-SUFFIX,cnweblog.com,PROXY
-DOMAIN-SUFFIX,cppblog.com,PROXY
-DOMAIN-SUFFIX,phpweblog.net,PROXY
-DOMAIN-SUFFIX,teachblog.net,PROXY
-#end include:cnblogs
-#include:csdn
-DOMAIN-SUFFIX,codechina.net,PROXY
-DOMAIN-SUFFIX,csdn.com,PROXY
-DOMAIN-SUFFIX,csdn.net,PROXY
-DOMAIN-SUFFIX,csdn.net.cn,PROXY
-DOMAIN-SUFFIX,csdnimg.cn,PROXY
-DOMAIN-SUFFIX,csto.com,PROXY
-DOMAIN-SUFFIX,datasea.cn,PROXY
-DOMAIN-SUFFIX,gitbook.cn,PROXY
-DOMAIN-SUFFIX,gitchat.cn,PROXY
-DOMAIN-SUFFIX,gitcode.com,PROXY
-DOMAIN-SUFFIX,gitcode.net,PROXY
-DOMAIN-SUFFIX,iteye.com,PROXY
-DOMAIN-SUFFIX,kaifayun.com,PROXY
-DOMAIN-SUFFIX,programmer.com.cn,PROXY
-DOMAIN-SUFFIX,programmer.net.cn,PROXY
-#end include:csdn
-#include:deepin
-DOMAIN-SUFFIX,deepin.cn,PROXY
-DOMAIN-SUFFIX,deepin.com,PROXY
-DOMAIN-SUFFIX,deepin.io,PROXY
-DOMAIN-SUFFIX,deepin.org,PROXY
-
-# 统信
-DOMAIN-SUFFIX,chinauos.com,PROXY
-DOMAIN-SUFFIX,uniontech.com,PROXY
-#end include:deepin
-#include:gitee
-DOMAIN-SUFFIX,gitee.com,PROXY
-DOMAIN-SUFFIX,gitee.io,PROXY
-#end include:gitee
-#include:goproxy
-# go mod proxy
-DOMAIN-SUFFIX,goproxy.cn,PROXY
-DOMAIN-SUFFIX,goproxy.io,PROXY
-#end include:goproxy
-#include:huawei-dev
-DOMAIN-SUFFIX,bisheng.cn,PROXY
-DOMAIN-SUFFIX,bishengcompiler.cn,PROXY
-DOMAIN-SUFFIX,devui.design,PROXY
-DOMAIN-SUFFIX,gneec.com,PROXY
-DOMAIN-SUFFIX,gneec.com.cn,PROXY
-DOMAIN-SUFFIX,gneec3.com,PROXY
-DOMAIN-SUFFIX,gneec4.com,PROXY
-DOMAIN-SUFFIX,gneec7.com,PROXY
-DOMAIN-SUFFIX,harmonyos.com,PROXY
-DOMAIN-SUFFIX,hiascend.cn,PROXY
-DOMAIN-SUFFIX,hiascend.com,PROXY
-DOMAIN-SUFFIX,hiclc.com,PROXY
-DOMAIN-SUFFIX,hikunpeng.cn,PROXY
-DOMAIN-SUFFIX,hikunpeng.com,PROXY
-DOMAIN-SUFFIX,hikunpeng.com.cn,PROXY
-DOMAIN-SUFFIX,hikunpeng.net,PROXY
-DOMAIN-SUFFIX,hisilicon.com,PROXY
-DOMAIN-SUFFIX,hisilicon.com.cn,PROXY
-DOMAIN-SUFFIX,huaweiapaas.com,PROXY
-DOMAIN-SUFFIX,mindspore.cn,PROXY
-DOMAIN-SUFFIX,owsgo.com,PROXY
-DOMAIN-SUFFIX,teleows.com,PROXY
-DOMAIN-SUFFIX,saasops.tech,PROXY
-#end include:huawei-dev
-#include:jinrishici
-DOMAIN-SUFFIX,jinrishici.com,PROXY
-#end include:jinrishici
-#include:juejin
-DOMAIN-SUFFIX,juejin.cn,PROXY
-DOMAIN-SUFFIX,juejin.im,PROXY
-DOMAIN-SUFFIX,xitu.io,PROXY
-
-DOMAIN,p1-juejin.byteimg.com,PROXY
-DOMAIN,p2-juejin.byteimg.com,PROXY
-DOMAIN,p3-juejin.byteimg.com,PROXY
-DOMAIN,p4-juejin.byteimg.com,PROXY
-DOMAIN,p5-juejin.byteimg.com,PROXY
-DOMAIN,p6-juejin.byteimg.com,PROXY
-DOMAIN,p7-juejin.byteimg.com,PROXY
-DOMAIN,p8-juejin.byteimg.com,PROXY
-DOMAIN,p9-juejin.byteimg.com,PROXY
-#end include:juejin
-#include:kuaiyikeji
-DOMAIN-SUFFIX,dengguobi.com,PROXY
-DOMAIN-SUFFIX,houyicaiji.com,PROXY
-DOMAIN-SUFFIX,jinglingbiaozhu.com,PROXY
-#end include:kuaiyikeji
-#include:oschina
-DOMAIN-SUFFIX,gitee.com,PROXY
-DOMAIN-SUFFIX,gitee.io,PROXY
-#end include:gitee
-
-DOMAIN-SUFFIX,oschina.net,PROXY
-#end include:oschina
-#include:pgyer
-DOMAIN-SUFFIX,pgyer.com,PROXY
-DOMAIN-SUFFIX,tracup.com,PROXY
-DOMAIN-SUFFIX,frontjs.com,PROXY
-#end include:pgyer
-#include:pingcap
-DOMAIN-SUFFIX,asktug.com,PROXY
-DOMAIN-SUFFIX,pingcap.cn,PROXY
-DOMAIN-SUFFIX,pingcap.com,PROXY
-DOMAIN-SUFFIX,tidb.ai,PROXY
-DOMAIN-SUFFIX,tidb.net,PROXY
-DOMAIN-SUFFIX,tidbcloud.com,PROXY
-DOMAIN-SUFFIX,tikv.org,PROXY
-#end include:pingcap
-#include:rubychina
-DOMAIN-SUFFIX,ruby-china.org,PROXY
-
-# RubyConf China
-DOMAIN-SUFFIX,rubyconfchina.org,PROXY
-#end include:rubychina
-#include:segmentfault
-DOMAIN-SUFFIX,segmentfault.com,PROXY
-DOMAIN-SUFFIX,sifou.com,PROXY
-#end include:segmentfault
-#include:sxl
-DOMAIN-SUFFIX,mysxl.cn,PROXY
-DOMAIN-SUFFIX,sxl.cn,PROXY
-DOMAIN-SUFFIX,sxlcdn.cn,PROXY
-#end include:sxl
-#include:tencent-dev
-#include:cnb
-# 腾讯 云原生构建
-DOMAIN-SUFFIX,cnb.cool,PROXY
-#end include:cnb
-#include:coding
-DOMAIN-SUFFIX,coding.me,PROXY
-DOMAIN-SUFFIX,coding.net,PROXY
-#end include:coding
-
-DOMAIN-SUFFIX,openmidas.com,PROXY
-DOMAIN-SUFFIX,qq.design,PROXY
-DOMAIN-SUFFIX,qqgamedesign.com,PROXY
-DOMAIN-SUFFIX,tencent-cloud.cn,PROXY
-DOMAIN-SUFFIX,tencent-cloud.com,PROXY
-DOMAIN-SUFFIX,tencent.design,PROXY
-DOMAIN-SUFFIX,tencentcloud.com,PROXY
-DOMAIN-SUFFIX,tjstats.com,PROXY
-DOMAIN-SUFFIX,wegamedeveloper.com,PROXY
-DOMAIN-SUFFIX,weixinbridge.com,PROXY
-DOMAIN-SUFFIX,weui.io,PROXY
-#end include:tencent-dev
-#include:tipdm
-DOMAIN-SUFFIX,tipdim.org,PROXY
-#end include:tipdm
-#include:ubuntukylin
-DOMAIN-SUFFIX,openkylin.top,PROXY
-DOMAIN-SUFFIX,ubuntukylin.com,PROXY
-#end include:ubuntukylin
-#include:xueyuanjun
-DOMAIN-SUFFIX,xueyuanjun.com,PROXY
-#end include:xueyuanjun
-#end include:category-dev-cn
 
 # Tech companies & Orginations
-#include:alibaba
-# All .alibaba domains
-DOMAIN-SUFFIX,alibaba,PROXY
-
-# All .alipay domains
-DOMAIN-SUFFIX,alipay,PROXY
-
-# All .taobao domains
-DOMAIN-SUFFIX,taobao,PROXY
-
-# All .tmall domains
-DOMAIN-SUFFIX,tmall,PROXY
-
-#include:alibaba-ads
-DOMAIN-SUFFIX,a.alimama.cn,PROXY
-DOMAIN-SUFFIX,acjs.aliyun.com,PROXY
-DOMAIN-SUFFIX,adash-c.m.taobao.com,PROXY
-DOMAIN-SUFFIX,adash-c.ut.taobao.com,PROXY
-DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,adash.m.taobao.com,PROXY
-DOMAIN-SUFFIX,adash.man.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,adashbc.m.taobao.com,PROXY
-DOMAIN-SUFFIX,adashbc.ut.taobao.com,PROXY
-DOMAIN-SUFFIX,adashx.m.taobao.com,PROXY
-DOMAIN-SUFFIX,adashx.ut.amap.com,PROXY
-DOMAIN-SUFFIX,adashx.ut.ele.me,PROXY
-DOMAIN-SUFFIX,adashx.ut.youku.com,PROXY
-DOMAIN-SUFFIX,adashx4ae.ut.taobao.com,PROXY
-DOMAIN-SUFFIX,adashx4yt.m.taobao.com,PROXY
-DOMAIN-SUFFIX,adashxgc.ut.taobao.com,PROXY
-DOMAIN-SUFFIX,adsh.m.taobao.com,PROXY
-DOMAIN-SUFFIX,afp.adchina.com,PROXY
-DOMAIN-SUFFIX,afp.alicdn.com,PROXY
-DOMAIN-SUFFIX,agoodm.m.taobao.com,PROXY
-DOMAIN-SUFFIX,agoodm.wapa.taobao.com,PROXY
-DOMAIN-SUFFIX,alipaylog.com,PROXY
-DOMAIN-SUFFIX,amdc.alipay.com,PROXY
-DOMAIN-SUFFIX,api.wapa.taobao.com,PROXY
-DOMAIN-SUFFIX,api.waptest.taobao.com,PROXY
-DOMAIN-SUFFIX,apoll.m.taobao.com,PROXY
-DOMAIN-SUFFIX,atanx.alicdn.com,PROXY
-DOMAIN-SUFFIX,atanx2.alicdn.com,PROXY
-DOMAIN-SUFFIX,c-adash.m.taobao.com,PROXY
-DOMAIN-SUFFIX,cdn0.mobmore.com,PROXY
-DOMAIN-SUFFIX,click.aliyun.com,PROXY
-DOMAIN-SUFFIX,click.mz.simba.taobao.com,PROXY
-DOMAIN-SUFFIX,cm.ipinyou.com,PROXY
-DOMAIN-SUFFIX,dsp.simba.taobao.com,PROXY
-DOMAIN-SUFFIX,ex.mobmore.com,PROXY
-DOMAIN-SUFFIX,ex.puata.info,PROXY
-DOMAIN-SUFFIX,fav.simba.taobao.com,PROXY
-DOMAIN-SUFFIX,feedback.whalecloud.com,PROXY
-DOMAIN-SUFFIX,ff.win.taobao.com,PROXY
-DOMAIN-SUFFIX,fm.p0y.cn,PROXY
-DOMAIN-SUFFIX,g.click.taobao.com,PROXY
-DOMAIN-SUFFIX,g.tbcdn.cn,PROXY
-DOMAIN-SUFFIX,gma.alicdn.com,PROXY
-DOMAIN-SUFFIX,gtms01.alicdn.com,PROXY
-DOMAIN-SUFFIX,gtms02.alicdn.com,PROXY
-DOMAIN-SUFFIX,gtms03.alicdn.com,PROXY
-DOMAIN-SUFFIX,gtms04.alicdn.com,PROXY
-DOMAIN-SUFFIX,h-adashx.ut.ele.me,PROXY
-DOMAIN-SUFFIX,h-adashx.ut.taobao.com,PROXY
-DOMAIN-SUFFIX,h-adashx.ut.youku.com,PROXY
-DOMAIN-SUFFIX,h-adashx4yt.ut.taobao.com,PROXY
-DOMAIN-SUFFIX,hydra.alibaba.com,PROXY
-DOMAIN-SUFFIX,hz.pre.tbusergw.taobao.net,PROXY
-DOMAIN-SUFFIX,hz.tbusergw.taobao.net,PROXY
-DOMAIN-SUFFIX,i.ipinyou.com,PROXY
-DOMAIN-SUFFIX,init.phpwind.com,PROXY
-DOMAIN-SUFFIX,intl.wapa.taobao.com,PROXY
-DOMAIN-SUFFIX,intl.waptest.taobao.com,PROXY
-DOMAIN-SUFFIX,jxlog.istreamsche.com,PROXY
-DOMAIN-SUFFIX,log.umtrack.com,PROXY
-DOMAIN-SUFFIX,m-adash.m.taobao.com,PROXY
-DOMAIN-SUFFIX,m.intl.taobao.com,PROXY
-DOMAIN-SUFFIX,m.simba.taobao.com,PROXY
-DOMAIN-SUFFIX,match.p4p.1688.com,PROXY
-DOMAIN-SUFFIX,material.istreamsche.com,PROXY
-DOMAIN-SUFFIX,mlt01.com,PROXY
-DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com,PROXY
-DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com,PROXY
-DOMAIN-SUFFIX,osfota.cdn.aliyun.com,PROXY
-DOMAIN-SUFFIX,osupdate.aliyun.com,PROXY
-DOMAIN-SUFFIX,osupdateservice.yunos.com,PROXY
-DOMAIN-SUFFIX,pindao.huoban.taobao.com,PROXY
-DOMAIN-SUFFIX,push.wandoujia.com,PROXY
-DOMAIN-SUFFIX,re.m.taobao.com,PROXY
-DOMAIN-SUFFIX,re.taobao.com,PROXY
-DOMAIN-SUFFIX,redirect.simba.taobao.com,PROXY
-DOMAIN-SUFFIX,rj.m.taobao.co,PROXY
-DOMAIN-SUFFIX,rj.m.taobao.com,PROXY
-DOMAIN-SUFFIX,sdkinit.taobao.com,PROXY
-DOMAIN-SUFFIX,simaba.taobao.com,PROXY
-DOMAIN-SUFFIX,simba.m.taobao.com,PROXY
-DOMAIN-SUFFIX,srd.simba.taobao.com,PROXY
-DOMAIN-SUFFIX,stats.ipinyou.com,PROXY
-DOMAIN-SUFFIX,strip.taobaocdn.com,PROXY
-DOMAIN-SUFFIX,tanxlog.istreamsche.com,PROXY
-DOMAIN-SUFFIX,tejia.taobao.com,PROXY
-DOMAIN-SUFFIX,temai.taobao.com,PROXY
-DOMAIN-SUFFIX,tns.simba.taobao.com,PROXY
-DOMAIN-SUFFIX,tongji.linezing.com,PROXY
-DOMAIN-SUFFIX,tvupgrade.yunos.com,PROXY
-DOMAIN-SUFFIX,tyh.taobao.com,PROXY
-DOMAIN-SUFFIX,userimg.qunar.com,PROXY
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com,PROXY
-DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com,PROXY
-DOMAIN-SUFFIX,v6-adashx.ut.ele.me,PROXY
-DOMAIN-SUFFIX,v6-adashx.ut.taobao.com,PROXY
-DOMAIN-SUFFIX,w.m.taobao.com,PROXY
-DOMAIN-SUFFIX,yiliao.hupan.com,PROXY
-#end include:alibaba-ads
-#include:alibabacloud
-DOMAIN-SUFFIX,alibabacloud.co.in,PROXY
-DOMAIN-SUFFIX,alibabacloud.com,PROXY
-DOMAIN-SUFFIX,alibabacloud.com.au,PROXY
-DOMAIN-SUFFIX,alibabacloud.com.hk,PROXY
-DOMAIN-SUFFIX,alibabacloud.com.my,PROXY
-DOMAIN-SUFFIX,alibabacloud.com.sg,PROXY
-DOMAIN-SUFFIX,alibabacloud.com.tw,PROXY
-DOMAIN-SUFFIX,alicloud.com,PROXY
-#end include:alibabacloud
-#include:aliyun
-DOMAIN-SUFFIX,alibabadns.com,PROXY
-DOMAIN-SUFFIX,alicdn.com,PROXY
-DOMAIN-SUFFIX,alicloudapi.com,PROXY
-DOMAIN-SUFFIX,alidayu.com,PROXY
-DOMAIN-SUFFIX,alidns.com,PROXY
-DOMAIN-SUFFIX,alikunlun.com,PROXY
-DOMAIN-SUFFIX,aliyun-inc.com,PROXY
-DOMAIN-SUFFIX,aliyun-iot-share.com,PROXY
-DOMAIN-SUFFIX,aliyun.com,PROXY
-DOMAIN-SUFFIX,aliyuncdn.com,PROXY
-DOMAIN-SUFFIX,aliyunfile.com,PROXY
-DOMAIN-SUFFIX,cdngslb.com,PROXY
-DOMAIN-SUFFIX,hichina.com,PROXY
-DOMAIN-SUFFIX,ica-alliance.org,PROXY
-DOMAIN-SUFFIX,kunlunaq.com,PROXY
-DOMAIN-SUFFIX,kunlunar.com,PROXY
-DOMAIN-SUFFIX,kunlunca.com,PROXY
-DOMAIN-SUFFIX,kunluncan.com,PROXY
-DOMAIN-SUFFIX,kunlunea.com,PROXY
-DOMAIN-SUFFIX,kunlungem.com,PROXY
-DOMAIN-SUFFIX,kunlungr.com,PROXY
-DOMAIN-SUFFIX,kunlunhuf.com,PROXY
-DOMAIN-SUFFIX,kunlunle.com,PROXY
-DOMAIN-SUFFIX,kunlunli.com,PROXY
-DOMAIN-SUFFIX,kunlunno.com,PROXY
-DOMAIN-SUFFIX,kunlunpi.com,PROXY
-DOMAIN-SUFFIX,kunlunra.com,PROXY
-DOMAIN-SUFFIX,kunlunsa.com,PROXY
-DOMAIN-SUFFIX,kunlunsc.com,PROXY
-DOMAIN-SUFFIX,kunlunsl.com,PROXY
-DOMAIN-SUFFIX,kunlunso.com,PROXY
-DOMAIN-SUFFIX,kunlunta.com,PROXY
-DOMAIN-SUFFIX,kunlunvi.com,PROXY
-DOMAIN-SUFFIX,kunlunwe.com,PROXY
-DOMAIN-SUFFIX,mxhichina.com,PROXY
-DOMAIN-SUFFIX,myalicdn.com,PROXY
-
-DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-ap-southeast-1.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-ap-southeast-2.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-ap-southeast-3.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-ap-southeast-5.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-ap-southeast-6.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-ap-southeast-7.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-beijing.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-chengdu.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-guangzhou.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-hangzhou.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-heyuan.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-huhehaote.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-nanjing.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-qingdao.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-shanghai.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-shenzhen.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-wulanchabu.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-cn-zhangjiakou.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-eu-central-1.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com,PROXY
-DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com,PROXY
-#end include:aliyun
-#include:aliyun-drive
-DOMAIN-SUFFIX,alicloudccp.com,PROXY
-DOMAIN-SUFFIX,alipan.com,PROXY
-DOMAIN-SUFFIX,aliyundrive.cloud,PROXY
-DOMAIN-SUFFIX,aliyundrive.com,PROXY
-DOMAIN-SUFFIX,aliyundrive.net,PROXY
-DOMAIN-SUFFIX,yunpan.aliyun.com,PROXY
-#end include:aliyun-drive
-#include:cainiao
-DOMAIN-SUFFIX,cainiao-inc.com,PROXY
-DOMAIN-SUFFIX,cainiao.com,PROXY
-DOMAIN-SUFFIX,cainiao.com.cn,PROXY
-DOMAIN-SUFFIX,cainiaoyizhan.com,PROXY
-DOMAIN-SUFFIX,guoguo-app.com,PROXY
-#end include:cainiao
-#include:dingtalk
-DOMAIN-SUFFIX,ddurl.to,PROXY
-DOMAIN-SUFFIX,dingding.xin,PROXY
-DOMAIN-SUFFIX,dingtalk.cn,PROXY
-DOMAIN-SUFFIX,dingtalk.com,PROXY
-DOMAIN-SUFFIX,dingtalk.net,PROXY
-DOMAIN-SUFFIX,dingtalkapps.com,PROXY
-DOMAIN-SUFFIX,laiwang.com,PROXY
-DOMAIN-SUFFIX,lwurl.to,PROXY
-#end include:dingtalk
-#include:eleme
-DOMAIN-SUFFIX,doservice.com,PROXY
-DOMAIN-SUFFIX,ele.me,PROXY
-DOMAIN-SUFFIX,ele.to,PROXY
-DOMAIN-SUFFIX,eleme.cn,PROXY
-DOMAIN-SUFFIX,eleme.io,PROXY
-DOMAIN-SUFFIX,elemecdn.cn,PROXY
-DOMAIN-SUFFIX,elemecdn.com,PROXY
-DOMAIN-SUFFIX,elenet.me,PROXY
-#end include:eleme
-#include:teambition
-DOMAIN-SUFFIX,teambition.com,PROXY
-DOMAIN-SUFFIX,teambition.net,PROXY
-DOMAIN-SUFFIX,teambitionapis.com,PROXY
-#end include:teambition
-#include:uc
-DOMAIN-SUFFIX,uc.cn,PROXY
-DOMAIN-SUFFIX,uc123.com,PROXY
-DOMAIN-SUFFIX,ucweb.com,PROXY
-DOMAIN-SUFFIX,uczzd.cn,PROXY
-#end include:uc
-
-DOMAIN-SUFFIX,25pp.com,PROXY
-DOMAIN-SUFFIX,56che.com,PROXY
-DOMAIN-SUFFIX,95095.com,PROXY
-DOMAIN-SUFFIX,9game.cn,PROXY
-DOMAIN-SUFFIX,aliapp.org,PROXY
-DOMAIN-SUFFIX,alibaba-inc.com,PROXY
-DOMAIN-SUFFIX,alibaba.com,PROXY
-DOMAIN-SUFFIX,alibabacapital.com,PROXY
-DOMAIN-SUFFIX,alibabachengdun.com,PROXY
-DOMAIN-SUFFIX,alibabacorp.com,PROXY
-DOMAIN-SUFFIX,alibabadoctor.com,PROXY
-DOMAIN-SUFFIX,alibabafuturehotel.com,PROXY
-DOMAIN-SUFFIX,alibabagroup.com,PROXY
-DOMAIN-SUFFIX,alibabaplanet.com,PROXY
-DOMAIN-SUFFIX,alibabaued.com,PROXY
-DOMAIN-SUFFIX,alibabausercontent.com,PROXY
-DOMAIN-SUFFIX,alifanyi.com,PROXY
-DOMAIN-SUFFIX,aligames.com,PROXY
-DOMAIN-SUFFIX,alihealth.com.cn,PROXY
-DOMAIN-SUFFIX,alihealth.hk,PROXY
-DOMAIN-SUFFIX,aliimg.com,PROXY
-DOMAIN-SUFFIX,alikmd.com,PROXY
-DOMAIN-SUFFIX,alimama.com,PROXY
-DOMAIN-SUFFIX,alimebot.com,PROXY
-DOMAIN-SUFFIX,alimei.com,PROXY
-DOMAIN-SUFFIX,alimmdn.com,PROXY
-DOMAIN-SUFFIX,alios.cn,PROXY
-DOMAIN-SUFFIX,alipay.cn,PROXY
-DOMAIN-SUFFIX,alipay.com,PROXY
-DOMAIN-SUFFIX,alipay.com.cn,PROXY
-DOMAIN-SUFFIX,alipaydns.com,PROXY
-DOMAIN-SUFFIX,alipaylog.com,PROXY
-DOMAIN-SUFFIX,alipayobjects.com,PROXY
-DOMAIN-SUFFIX,aliplus.com,PROXY
-DOMAIN-SUFFIX,aliresearch.com,PROXY
-DOMAIN-SUFFIX,alisoft.com,PROXY
-DOMAIN-SUFFIX,alisports.com,PROXY
-DOMAIN-SUFFIX,alitianji.com,PROXY
-DOMAIN-SUFFIX,aliunicorn.com,PROXY
-DOMAIN-SUFFIX,aliway.com,PROXY
-DOMAIN-SUFFIX,aliwork.com,PROXY
-DOMAIN-SUFFIX,alixiaomi.com,PROXY
-DOMAIN-SUFFIX,alizhaopin.com,PROXY
-DOMAIN-SUFFIX,alyms.cn,PROXY
-DOMAIN-SUFFIX,asczwa.com,PROXY
-DOMAIN-SUFFIX,asczxcefsv.com,PROXY
-DOMAIN-SUFFIX,asmlink.cn,PROXY
-DOMAIN-SUFFIX,atatech.org,PROXY
-DOMAIN-SUFFIX,b2byao.com,PROXY
-DOMAIN-SUFFIX,bazai.com,PROXY
-DOMAIN-SUFFIX,bcvbw.com,PROXY
-DOMAIN-SUFFIX,cheng.xin,PROXY
-DOMAIN-SUFFIX,cloudeagle.cn,PROXY
-DOMAIN-SUFFIX,damai.cn,PROXY
-DOMAIN-SUFFIX,dayu.com,PROXY
-DOMAIN-SUFFIX,dfkhgj.com,PROXY
-DOMAIN-SUFFIX,doctoryou.ai,PROXY
-DOMAIN-SUFFIX,doctoryou.cn,PROXY
-DOMAIN-SUFFIX,dongting.com,PROXY
-DOMAIN-SUFFIX,dratio.com,PROXY
-DOMAIN-SUFFIX,emas-poc.com,PROXY
-DOMAIN-SUFFIX,gongyi.xin,PROXY
-DOMAIN-SUFFIX,ialicdn.com,PROXY
-DOMAIN-SUFFIX,iconfont.cn,PROXY
-DOMAIN-SUFFIX,ics.design,PROXY
-DOMAIN-SUFFIX,jhgtgb.com,PROXY
-DOMAIN-SUFFIX,kanbox.com,PROXY
-DOMAIN-SUFFIX,lazada.com,PROXY
-DOMAIN-SUFFIX,liangxinyao.com,PROXY
-DOMAIN-SUFFIX,m-now.cn,PROXY
-DOMAIN-SUFFIX,maitix.com,PROXY
-DOMAIN-SUFFIX,mdeer.com,PROXY
-DOMAIN-SUFFIX,mei.com,PROXY
-DOMAIN-SUFFIX,miaostreet.com,PROXY
-DOMAIN-SUFFIX,mshare.cc,PROXY
-DOMAIN-SUFFIX,nic.xin,PROXY
-DOMAIN-SUFFIX,philanthropy.xin,PROXY
-DOMAIN-SUFFIX,phpwind.com,PROXY
-DOMAIN-SUFFIX,phpwind.net,PROXY
-DOMAIN-SUFFIX,qingtingtrip.com,PROXY
-DOMAIN-SUFFIX,rexpos.cn,PROXY
-DOMAIN-SUFFIX,saee.org.cn,PROXY
-DOMAIN-SUFFIX,shenjing.com,PROXY
-DOMAIN-SUFFIX,shuqi.com,PROXY
-DOMAIN-SUFFIX,shuqireader.com,PROXY
-DOMAIN-SUFFIX,sparenode.com,PROXY
-DOMAIN-SUFFIX,supet.com,PROXY
-DOMAIN-SUFFIX,ttpod.com,PROXY
-DOMAIN-SUFFIX,wandoujia.com,PROXY
-DOMAIN-SUFFIX,xin.xin,PROXY
-DOMAIN-SUFFIX,xinlingshou.cn,PROXY
-DOMAIN-SUFFIX,yowhale.com,PROXY
-DOMAIN-SUFFIX,yunos-inc.com,PROXY
-DOMAIN-SUFFIX,yunos.com,PROXY
-DOMAIN-SUFFIX,yushanfang.com,PROXY
-DOMAIN-SUFFIX,zuodao.com,PROXY
-
-# AliExpress
-DOMAIN-SUFFIX,aliexpress.com,PROXY
-DOMAIN-SUFFIX,aliexpress.ru,PROXY
-
-# Alipay+
-DOMAIN-SUFFIX,alipayplus.com,PROXY
-
-# AlipayHK
-DOMAIN-SUFFIX,alipay.hk,PROXY
-
-# AlipayMO
-DOMAIN-SUFFIX,alipaymo.com,PROXY
-
-# 盒马
-DOMAIN-SUFFIX,freshhema.com,PROXY
-DOMAIN-SUFFIX,freshippo.com,PROXY
-DOMAIN-SUFFIX,hemamax.com,PROXY
-DOMAIN-SUFFIX,hemaos.com,PROXY
-DOMAIN-SUFFIX,hemashare.cn,PROXY
-DOMAIN-SUFFIX,shyhhema.com,PROXY
-
-# 蚂蚁财富
-DOMAIN-SUFFIX,antfortune.com,PROXY
-
-# 蚂蚁基金
-DOMAIN-SUFFIX,fund123.cn,PROXY
-
-# 蚂蚁集团
-DOMAIN-SUFFIX,antfin.com,PROXY
-DOMAIN-SUFFIX,antgroup.com,PROXY
-DOMAIN-SUFFIX,antgroup-inc.cn,PROXY
-
-# 神马搜索
-DOMAIN-SUFFIX,sm.cn,PROXY
-
-# 淘宝
-DOMAIN-SUFFIX,1688.com,PROXY
-DOMAIN-SUFFIX,etao.com,PROXY
-DOMAIN-SUFFIX,juhuasuan.com,PROXY
-DOMAIN-SUFFIX,lingshoujia.com,PROXY
-DOMAIN-SUFFIX,mashort.cn,PROXY
-DOMAIN-SUFFIX,pailitao.com,PROXY
-DOMAIN-SUFFIX,taobao.com,PROXY
-DOMAIN-SUFFIX,taobao.org,PROXY
-DOMAIN-SUFFIX,taobaocdn.com,PROXY
-DOMAIN-SUFFIX,taobizhong.com,PROXY
-DOMAIN-SUFFIX,taopiaopiao.com,PROXY
-DOMAIN-SUFFIX,tb.cn,PROXY
-DOMAIN-SUFFIX,tbcache.com,PROXY
-DOMAIN-SUFFIX,tbcdn.cn,PROXY
-DOMAIN-SUFFIX,tburl.in,PROXY
-DOMAIN-SUFFIX,tmall.com,PROXY
-DOMAIN-SUFFIX,tmall.ru,PROXY
-DOMAIN-SUFFIX,tmalltv.com,PROXY
-DOMAIN-SUFFIX,tmjl.ai,PROXY
-
-# 夸克
-DOMAIN-SUFFIX,cueme.cn,PROXY
-DOMAIN-SUFFIX,quark.cn,PROXY
-
-# 飞猪
-DOMAIN-SUFFIX,alitrip.com,PROXY
-DOMAIN-SUFFIX,feizhu.cn,PROXY
-DOMAIN-SUFFIX,feizhu.com,PROXY
-DOMAIN-SUFFIX,fliggy.com,PROXY
-DOMAIN-SUFFIX,fliggy.hk,PROXY
-DOMAIN-SUFFIX,iuynfg.com,PROXY
-
-# 高德地图
-#include:amap
-DOMAIN-SUFFIX,a-map.cn,PROXY
-DOMAIN-SUFFIX,a-map.co,PROXY
-DOMAIN-SUFFIX,a-map.link,PROXY
-DOMAIN-SUFFIX,a-map.vip,PROXY
-DOMAIN-SUFFIX,acloudrender.com,PROXY
-DOMAIN-SUFFIX,amap.com,PROXY
-DOMAIN-SUFFIX,amapauto.com,PROXY
-DOMAIN-SUFFIX,anav.com,PROXY
-DOMAIN-SUFFIX,autonavi.com,PROXY
-DOMAIN-SUFFIX,gaode.com,PROXY
-#end include:amap
-
-# 虾米音乐
-DOMAIN-SUFFIX,xiami.com,PROXY
-DOMAIN-SUFFIX,xiami.fm,PROXY
-DOMAIN-SUFFIX,xiami.net,PROXY
-
-# 口碑
-DOMAIN-SUFFIX,koubei.com,PROXY
-
-# 吱声网
-DOMAIN-SUFFIX,zhisheng.com,PROXY
-
-# npmmirror 中国镜像站
-DOMAIN-SUFFIX,npmmirror.com,PROXY
-
-# 闲鱼
-DOMAIN-SUFFIX,goofish.com,PROXY
-#end include:alibaba
 #include:b3log
 DOMAIN-SUFFIX,b3log.org,PROXY
 #end include:b3log
@@ -3718,7 +3255,6 @@ DOMAIN-SUFFIX,bsurl.cn,PROXY
 DOMAIN-SUFFIX,zhiye.com,PROXY
 #end include:beisen
 #include:bluepoch
-#include:bluepoch-games
 # From reverse 1999
 DOMAIN-SUFFIX,sl916.com,PROXY
 #end include:bluepoch-games
@@ -3815,6 +3351,7 @@ DOMAIN,p9-juejin.byteimg.com,PROXY
 #include:lark
 # This tag 'lark' is for backward compatibility
 
+#include:feishu
 DOMAIN-SUFFIX,anycross.com,PROXY    #京ICP备16045432号-56 飞书Anycross
 DOMAIN-SUFFIX,blmpb.com,PROXY    #京ICP备16045432号-76 北京飞书
 DOMAIN-SUFFIX,bytedancehermestest.com,PROXY    #京ICP备16045432号-77 飞书报销邮箱静态资源
@@ -3859,6 +3396,7 @@ DOMAIN-SUFFIX,securityfeishu.cn,PROXY    #京ICP备16045432号-55 飞书链接�
 DOMAIN-SUFFIX,securityfs.cn,PROXY    #京ICP备16045432号-54 飞书链接重定向专用
 DOMAIN-SUFFIX,statusfeishu.cn,PROXY    #京ICP备16045432号-10 飞书
 #end include:feishu
+#include:lark-global
 DOMAIN-SUFFIX,frontier-lark-lb-v3.lf.bytelb.net,PROXY    #京ICP备12025439号-121 字节负载均衡
 DOMAIN-SUFFIX,lark-passport-qa-sg.net,PROXY    #京ICP备16045432号-69 QA测试使用域名
 DOMAIN-SUFFIX,lark.cn,PROXY    #京ICP备16045432号-11 飞书
@@ -4536,6 +4074,7 @@ DOMAIN-SUFFIX,honor.com.cn,PROXY
 DOMAIN-SUFFIX,honorfile.com,PROXY
 #end include:honor
 #include:huawei
+#include:huawei-dev
 DOMAIN-SUFFIX,bisheng.cn,PROXY
 DOMAIN-SUFFIX,bishengcompiler.cn,PROXY
 DOMAIN-SUFFIX,devui.design,PROXY
@@ -4560,6 +4099,7 @@ DOMAIN-SUFFIX,owsgo.com,PROXY
 DOMAIN-SUFFIX,teleows.com,PROXY
 DOMAIN-SUFFIX,saasops.tech,PROXY
 #end include:huawei-dev
+#include:huaweicloud
 DOMAIN-SUFFIX,aadcloud.cn,PROXY
 DOMAIN-SUFFIX,aadcloud.com,PROXY
 DOMAIN-SUFFIX,ami-alliance.org.cn,PROXY
@@ -4938,70 +4478,6 @@ DOMAIN-SUFFIX,surerp.com,PROXY
 DOMAIN-SUFFIX,sursung.cn,PROXY
 DOMAIN-SUFFIX,sursung.com,PROXY
 #end include:jushuitan
-#include:kingsoft
-DOMAIN-SUFFIX,cmcm.com,PROXY
-DOMAIN-SUFFIX,cmcmcdn.com,PROXY
-DOMAIN-SUFFIX,liebao.cn,PROXY
-
-# Antivirus
-DOMAIN-SUFFIX,duba.com,PROXY
-DOMAIN-SUFFIX,duba.net,PROXY
-DOMAIN-SUFFIX,ijinshan.com,PROXY
-#end include:cheetahmobile
-DOMAIN-SUFFIX,seasungames.com,PROXY
-DOMAIN-SUFFIX,xishanju.com,PROXY
-DOMAIN-SUFFIX,xoyo.com,PROXY
-DOMAIN-SUFFIX,xoyocdn.com,PROXY
-
-# 尘白禁区
-DOMAIN-SUFFIX,cbjq.com,PROXY
-
-# Testplus
-DOMAIN-SUFFIX,testplus.cn,PROXY
-#end include:seasun
-DOMAIN-SUFFIX,wps.cn,PROXY
-DOMAIN-SUFFIX,wps.com,PROXY
-DOMAIN-SUFFIX,wpscdn.cn,PROXY
-DOMAIN-SUFFIX,wpscdn.com,PROXY
-
-# Big Data Platform
-DOMAIN-SUFFIX,kscord.com,PROXY
-
-# Dazitong
-DOMAIN-SUFFIX,51dzt.com,PROXY
-
-# Dictionary
-DOMAIN-SUFFIX,iciba.com,PROXY
-
-# Docer
-DOMAIN-SUFFIX,docer.com,PROXY
-
-# Documents
-DOMAIN-SUFFIX,kdocs.cn,PROXY
-
-# Mail
-DOMAIN-SUFFIX,wpsmail.net,PROXY
-
-# PAPocket
-DOMAIN-SUFFIX,papocket.com,PROXY
-
-# PDF
-DOMAIN-SUFFIX,wpspdf.cn,PROXY
-#end include:wps
-
-DOMAIN-SUFFIX,kimg.cn,PROXY
-DOMAIN-SUFFIX,kingsoft.com,PROXY
-DOMAIN-SUFFIX,ks-live.com,PROXY
-DOMAIN-SUFFIX,ksmobile.com,PROXY
-DOMAIN-SUFFIX,ksosoft.com,PROXY
-
-# Kingsoft Cloud
-DOMAIN-SUFFIX,ks-cdn.com,PROXY
-DOMAIN-SUFFIX,ks-cdn1.com,PROXY
-DOMAIN-SUFFIX,ksyun.com,PROXY
-DOMAIN-SUFFIX,ksyuncdn.com,PROXY
-DOMAIN-SUFFIX,ksyungslb.com,PROXY
-#end include:kingsoft
 #include:lenovo
 # 北京联想调频科技有限公司 京ICP备2023017858号
 DOMAIN-SUFFIX,lenovo.net,PROXY
@@ -5477,11 +4953,9 @@ DOMAIN-SUFFIX,ugdtimg.com,PROXY
 DOMAIN-SUFFIX,wit.qq.com,PROXY
 #end include:tencent-ads
 #include:tencent-dev
-#include:cnb
 # 腾讯 云原生构建
 DOMAIN-SUFFIX,cnb.cool,PROXY
 #end include:cnb
-#include:coding
 DOMAIN-SUFFIX,coding.me,PROXY
 DOMAIN-SUFFIX,coding.net,PROXY
 #end include:coding
@@ -6030,22 +5504,30 @@ DOMAIN-SUFFIX,sinopecnews.com.cn,PROXY
 DOMAIN-SUFFIX,sinopecsales.com,PROXY
 #end include:sinopec
 #include:category-enterprise-query-platform-cn
+#include:aiqicha
 DOMAIN-SUFFIX,aiqicha.baidu.com,PROXY
 #end include:aiqicha
+#include:hongdunwang
 DOMAIN-SUFFIX,hongdunwang.com.cn,PROXY
 #end include:hongdunwang
+#include:qcc
 DOMAIN-SUFFIX,qcc.com,PROXY
 DOMAIN-SUFFIX,qichacha.com,PROXY
 #end include:qcc
+#include:qichamao
 DOMAIN-SUFFIX,qichamao.com,PROXY
 #end include:qichamao
+#include:qixin
 DOMAIN-SUFFIX,qixin.com,PROXY
 #end include:qixin
+#include:qyyjt
 DOMAIN-SUFFIX,qyyjt.cn,PROXY
 #end include:qyyjt
+#include:tianyancha
 DOMAIN-SUFFIX,jindidata.com,PROXY
 DOMAIN-SUFFIX,tianyancha.com,PROXY
 #end include:tianyancha
+#include:x315
 DOMAIN-SUFFIX,x315.com,PROXY
 #end include:x315
 #end include:category-enterprise-query-platform-cn

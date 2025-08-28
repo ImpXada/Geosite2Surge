@@ -103,15 +103,18 @@ DOMAIN-SUFFIX,forthebadge.com,PROXY
 DOMAIN-SUFFIX,stockagainstphotography.com,PROXY
 #end include:braveux
 #include:canonical
+#include:launchpad
 DOMAIN-SUFFIX,launchpad.net,PROXY
 DOMAIN-SUFFIX,launchpadcontent.net,PROXY
 DOMAIN-SUFFIX,launchpadlibrarian.com,PROXY
 DOMAIN-SUFFIX,launchpadlibrarian.net,PROXY
 DOMAIN-SUFFIX,launchpadlibrarian.org,PROXY
 #end include:launchpad
+#include:snapcraft
 DOMAIN-SUFFIX,snapcraft.io,PROXY
 DOMAIN-SUFFIX,snapstore.io,PROXY
 #end include:snapcraft
+#include:ubuntu
 DOMAIN-SUFFIX,ubuntu.com,PROXY
 DOMAIN-SUFFIX,ubuntu.net,PROXY
 DOMAIN-SUFFIX,ubuntuforums.org,PROXY
@@ -267,6 +270,7 @@ DOMAIN-SUFFIX,gitbook.com,PROXY
 DOMAIN-SUFFIX,gitbook.io,PROXY
 #end include:gitbook
 #include:github
+#include:npmjs
 DOMAIN-SUFFIX,npm.community,PROXY
 DOMAIN-SUFFIX,npmjs.com,PROXY
 DOMAIN-SUFFIX,npmjs.org,PROXY
@@ -609,6 +613,29 @@ DOMAIN-SUFFIX,kernel.org,PROXY
 #include:linux
 DOMAIN-SUFFIX,linux.org,PROXY
 #end include:linux
+#include:openjsfoundation
+DOMAIN-SUFFIX,amp.dev,PROXY
+DOMAIN-SUFFIX,ampproject.com,PROXY
+DOMAIN-SUFFIX,ampproject.net,PROXY
+DOMAIN-SUFFIX,ampproject.org,PROXY
+
+DOMAIN,cdn.ampproject.org,PROXY
+
+DOMAIN,amp.akamaized.net,PROXY
+#end include:amp
+DOMAIN-SUFFIX,electronjs.org,PROXY
+#end include:electron
+DOMAIN-SUFFIX,jquery.com,PROXY
+DOMAIN-SUFFIX,jquerymobile.com,PROXY
+DOMAIN-SUFFIX,jqueryui.com,PROXY
+#end include:jquery
+DOMAIN-SUFFIX,mochajs.org,PROXY
+#end include:mocha
+DOMAIN-SUFFIX,nodejs.org,PROXY
+#end include:nodejs
+
+DOMAIN-SUFFIX,openjsf.org,PROXY
+#end include:openjsfoundation
 
 DOMAIN-SUFFIX,lfai.foundation,PROXY
 DOMAIN-SUFFIX,linuxfoundation.org,PROXY
@@ -620,6 +647,7 @@ DOMAIN-SUFFIX,topcoder.com,PROXY
 DOMAIN-SUFFIX,unity.com,PROXY
 DOMAIN-SUFFIX,unity3d.com,PROXY
 
+#include:unity-ads
 DOMAIN-SUFFIX,ads.unitychina.cn,PROXY
 DOMAIN-SUFFIX,splash-ads.cdn.unity.cn,PROXY
 DOMAIN-SUFFIX,splash-ads.unitychina.cn,PROXY

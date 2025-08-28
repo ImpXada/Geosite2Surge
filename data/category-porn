@@ -513,24 +513,6 @@ DOMAIN-SUFFIX,uun98.com,PROXY
 DOMAIN-SUFFIX,uun99.com,PROXY
 DOMAIN-SUFFIX,uux68.com,PROXY
 #end include:uu-chat
-#include:xhamster
-DOMAIN-SUFFIX,collector.xhamster.com,PROXY
-#end include:xhamster-ads
-
-
-DOMAIN-SUFFIX,xhamster.com,PROXY
-DOMAIN-SUFFIX,xhamster.desi,PROXY
-DOMAIN-SUFFIX,xhamster.xxx,PROXY
-DOMAIN-SUFFIX,xhamster18.com,PROXY
-DOMAIN-SUFFIX,xhamster18.desi,PROXY
-DOMAIN-SUFFIX,xhamsterlive.com,PROXY
-DOMAIN-SUFFIX,xhcdn.com,PROXY
-
-
-# xhamsterlive thumbnails
-
-DOMAIN,widgets.stripst.com,PROXY
-#end include:xhamster
 #include:xingkongwuxianmedia
 DOMAIN-SUFFIX,avstar01.me,PROXY
 DOMAIN-SUFFIX,avstar02.me,PROXY
