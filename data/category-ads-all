@@ -853,9 +853,6 @@ DOMAIN-SUFFIX,wan.youku.com,PROXY
 DOMAIN-SUFFIX,ykatr.youku.com,PROXY
 DOMAIN-SUFFIX,ykrec.youku.com,PROXY
 #end include:youku-ads
-#include:zynga-ads
-DOMAIN-SUFFIX,zyngaplayersupport.com,PROXY
-#end include:zynga-ads
 
 # Other domains for ads serving
 DOMAIN-SUFFIX,51y5.net,PROXY

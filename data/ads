@@ -693,7 +693,6 @@ DOMAIN-SUFFIX,ladsp.com,PROXY
 DOMAIN-SUFFIX,microad.co.jp,PROXY
 DOMAIN-SUFFIX,microad.jp,PROXY
 DOMAIN-SUFFIX,socdm.com,PROXY
-DOMAIN-SUFFIX,zyngaplayersupport.com,PROXY
 DOMAIN,o33249.ingest.sentry.io,PROXY
 DOMAIN,openaicom.imgix.net,PROXY
 DOMAIN,browser-intake-datadoghq.com,PROXY
