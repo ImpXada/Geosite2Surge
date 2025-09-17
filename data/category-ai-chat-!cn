@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,deepmind.google,PROXY
 DOMAIN-SUFFIX,geller-pa.googleapis.com,PROXY
 DOMAIN-SUFFIX,generativelanguage.googleapis.com,PROXY
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,PROXY
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com,PROXY
 
 # Google AI Studio
 DOMAIN,ai.google.dev,PROXY
