@@ -1,36 +1,3 @@
-#include:category-tech-media
-DOMAIN-SUFFIX,9to5google.com,PROXY
-DOMAIN-SUFFIX,9to5mac.com,PROXY
-DOMAIN-SUFFIX,9to5terminal.com,PROXY
-DOMAIN-SUFFIX,9to5toys.com,PROXY
-DOMAIN-SUFFIX,dronedj.com,PROXY
-DOMAIN-SUFFIX,electrek.co,PROXY
-DOMAIN-SUFFIX,spaceexplored.com,PROXY
-#end include:9to5
-DOMAIN-SUFFIX,thetype.cloud,PROXY
-DOMAIN-SUFFIX,thetype.com,PROXY
-DOMAIN-SUFFIX,typeisbeautiful.com,PROXY
-#end include:thetype
-DOMAIN-SUFFIX,startupschool.org,PROXY
-DOMAIN-SUFFIX,ycombinator.com,PROXY
-#end include:ycombinator
-
-DOMAIN-SUFFIX,androidauthority.com,PROXY
-DOMAIN-SUFFIX,androidpolice.com,PROXY
-DOMAIN-SUFFIX,appleinsider.com,PROXY
-DOMAIN-SUFFIX,digitaltrends.com,PROXY
-DOMAIN-SUFFIX,engadget.com,PROXY
-DOMAIN-SUFFIX,macrumors.com,PROXY
-DOMAIN-SUFFIX,slashdot.org,PROXY
-DOMAIN-SUFFIX,technews.tw,PROXY
-DOMAIN-SUFFIX,techradar.com,PROXY
-DOMAIN-SUFFIX,theverge.com,PROXY
-DOMAIN-SUFFIX,tomsguide.com,PROXY
-
-# zdnet
-DOMAIN-SUFFIX,zdnet.com,PROXY
-DOMAIN-SUFFIX,zdnet.redvideo.io,PROXY
-#end include:category-tech-media
 
 #include:6park
 DOMAIN-SUFFIX,6park.com,PROXY
@@ -319,6 +286,7 @@ DOMAIN-SUFFIX,economistgroupcareers.com,PROXY
 DOMAIN-SUFFIX,eiu.com,PROXY
 #end include:economist
 #include:falungong
+#include:epochmediagroup
 DOMAIN-SUFFIX,dajiyuan.com,PROXY
 DOMAIN-SUFFIX,dajiyuan.eu,PROXY
 DOMAIN-SUFFIX,edninfo.com,PROXY
@@ -384,6 +352,7 @@ DOMAIN-SUFFIX,theepochtimes.com,PROXY
 DOMAIN-SUFFIX,theepochtimessubscribe.com,PROXY
 DOMAIN-SUFFIX,velkaepocha.cz,PROXY
 #end include:epochmediagroup
+#include:kanzhongguo
 DOMAIN-SUFFIX,es-visiontimes.com,PROXY
 DOMAIN-SUFFIX,kannewyork.com,PROXY
 DOMAIN-SUFFIX,kanzhongguo.com,PROXY
@@ -401,6 +370,7 @@ DOMAIN-SUFFIX,visiontimesjp.com,PROXY
 DOMAIN-SUFFIX,vtvan.com,PROXY
 DOMAIN-SUFFIX,watchinese.com,PROXY
 #end include:kanzhongguo
+#include:soundofhope
 DOMAIN-SUFFIX,bayvoice.net,PROXY
 DOMAIN-SUFFIX,ozvoice.org,PROXY
 DOMAIN-SUFFIX,sohcradio.com,PROXY
@@ -824,7 +794,6 @@ DOMAIN-SUFFIX,huffpostbrasil.com,PROXY
 DOMAIN-SUFFIX,huffpostmaghreb.com,PROXY
 #end include:huffpost
 #include:icable
-#include:cabletv
 DOMAIN-SUFFIX,cabletv.com.hk,PROXY
 DOMAIN-SUFFIX,fantv.hk,PROXY
 DOMAIN-SUFFIX,hkopentv.com,PROXY
@@ -995,19 +964,16 @@ DOMAIN-SUFFIX,neowin.net,PROXY
 #include:newscorp
 # Reference: https://zh.wikipedia.org/wiki/%E6%96%B0%E9%97%BB%E9%9B%86%E5%9B%A2
 
-#include:barrons
 DOMAIN-SUFFIX,barrons-advisor.com,PROXY
 DOMAIN-SUFFIX,barrons-conferences.com,PROXY
 DOMAIN-SUFFIX,barrons.com,PROXY
 DOMAIN-SUFFIX,wsjbarrons.com,PROXY
 #end include:barrons
-#include:dowjones
 DOMAIN-SUFFIX,djreprints.com,PROXY
 DOMAIN-SUFFIX,dowjones.com,PROXY
 DOMAIN-SUFFIX,dowjones.io,PROXY
 DOMAIN-SUFFIX,dowjoneson.com,PROXY
 #end include:dowjones
-#include:harpercollins
 DOMAIN-SUFFIX,bookclubgirl.com,PROXY
 DOMAIN-SUFFIX,collins.co.uk,PROXY
 DOMAIN-SUFFIX,collins.in,PROXY
@@ -1029,12 +995,10 @@ DOMAIN-SUFFIX,librarylovefest.com,PROXY
 DOMAIN-SUFFIX,natgeokidsbooks.co.uk,PROXY
 DOMAIN-SUFFIX,shelfstuff.com,PROXY
 #end include:harpercollins
-#include:nypost
 DOMAIN-SUFFIX,nypost.com,PROXY
 DOMAIN-SUFFIX,nypost.help,PROXY
 DOMAIN-SUFFIX,nypostreprints.com,PROXY
 #end include:nypost
-#include:reagroup
 DOMAIN-SUFFIX,flatmates.com.au,PROXY
 DOMAIN-SUFFIX,hackday.com.au,PROXY
 DOMAIN-SUFFIX,hometrack.com.au,PROXY
@@ -1068,7 +1032,6 @@ DOMAIN-SUFFIX,spacely.com.au,PROXY
 DOMAIN-SUFFIX,squarefoot.com.hk,PROXY
 DOMAIN-SUFFIX,thinkofliving.com,PROXY
 #end include:reagroup
-#include:thesun
 DOMAIN-SUFFIX,dreamteamfc.com,PROXY
 DOMAIN-SUFFIX,page3.com,PROXY
 DOMAIN-SUFFIX,sunbingo.co.uk,PROXY
@@ -1077,7 +1040,6 @@ DOMAIN-SUFFIX,thescottishsun.co.uk,PROXY
 DOMAIN-SUFFIX,thesun.co.uk,PROXY
 DOMAIN-SUFFIX,thesun.ie,PROXY
 #end include:thesun
-#include:thetimes
 DOMAIN-SUFFIX,driving.co.uk,PROXY
 DOMAIN-SUFFIX,mytimesplus.co.uk,PROXY
 DOMAIN-SUFFIX,sportswomanoftheyear.co.uk,PROXY
@@ -1088,7 +1050,6 @@ DOMAIN-SUFFIX,thetimes.co.uk,PROXY
 DOMAIN-SUFFIX,thetimes.ie,PROXY
 DOMAIN-SUFFIX,timesmembership.com,PROXY
 #end include:thetimes
-#include:wsj
 DOMAIN-SUFFIX,careerjournal.com,PROXY
 DOMAIN-SUFFIX,collegejournal.com,PROXY
 DOMAIN-SUFFIX,opinionjournal.com,PROXY

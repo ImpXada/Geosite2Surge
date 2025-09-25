@@ -1,3 +1,4 @@
+#include:instagram-ads
 DOMAIN-SUFFIX,graph.instagram.com,PROXY
 DOMAIN-SUFFIX,graph-fallback.instagram.com,PROXY
 #end include:instagram-ads

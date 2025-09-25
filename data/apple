@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,iad.apple.com,PROXY
 DOMAIN-SUFFIX,qwapi.com,PROXY
 #end include:apple-ads
 #include:apple-dev
+#include:swift
 DOMAIN-SUFFIX,appleswift.com,PROXY
 DOMAIN-SUFFIX,swift.org,PROXY
 DOMAIN-SUFFIX,swiftui.cn,PROXY
@@ -840,7 +841,6 @@ DOMAIN-SUFFIX,yourmonsterbeats.com,PROXY
 DOMAIN,beatselectronicsllc.tt.omtrdc.net,PROXY
 #end include:beats
 #include:icloud
-#include:icloudprivaterelay
 DOMAIN-SUFFIX,mask-api.icloud.com,PROXY
 DOMAIN-SUFFIX,mask-h2.icloud.com,PROXY
 DOMAIN-SUFFIX,mask.icloud.com,PROXY

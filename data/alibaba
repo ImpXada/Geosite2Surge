@@ -241,7 +241,6 @@ DOMAIN-SUFFIX,umtrack.com,PROXY
 DOMAIN-SUFFIX,uyunad.com,PROXY
 DOMAIN-SUFFIX,whalecloud.com,PROXY
 
-#include:umeng-ads
 DOMAIN-SUFFIX,alog.umeng.com,PROXY
 DOMAIN-SUFFIX,alog.umengcloud.com,PROXY
 

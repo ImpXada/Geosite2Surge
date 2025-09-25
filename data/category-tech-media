@@ -1,3 +1,4 @@
+#include:9to5
 DOMAIN-SUFFIX,9to5google.com,PROXY
 DOMAIN-SUFFIX,9to5mac.com,PROXY
 DOMAIN-SUFFIX,9to5terminal.com,PROXY
@@ -6,10 +7,12 @@ DOMAIN-SUFFIX,dronedj.com,PROXY
 DOMAIN-SUFFIX,electrek.co,PROXY
 DOMAIN-SUFFIX,spaceexplored.com,PROXY
 #end include:9to5
+#include:thetype
 DOMAIN-SUFFIX,thetype.cloud,PROXY
 DOMAIN-SUFFIX,thetype.com,PROXY
 DOMAIN-SUFFIX,typeisbeautiful.com,PROXY
 #end include:thetype
+#include:ycombinator
 DOMAIN-SUFFIX,startupschool.org,PROXY
 DOMAIN-SUFFIX,ycombinator.com,PROXY
 #end include:ycombinator

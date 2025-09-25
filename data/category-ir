@@ -306,6 +306,7 @@ DOMAIN-SUFFIX,srttu.edu,PROXY
 #end include:category-scholar-ir
 #include:category-shopping-ir
 # Iranian shopping websites
+#include:divar
 DOMAIN-SUFFIX,divar.cloud,PROXY
 DOMAIN-SUFFIX,divar.ir,PROXY
 DOMAIN-SUFFIX,divarcdn.com,PROXY

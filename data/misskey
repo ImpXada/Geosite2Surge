@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,misskey.io,PROXY
 DOMAIN-SUFFIX,misskeyusercontent.jp,PROXY
 
-#include:misskey-universe
 # please DO NOT include domains that are only meant to serve static files
 # e.g.
 #    mediaproxy-mi.mashiro.site

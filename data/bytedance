@@ -87,7 +87,6 @@ DOMAIN,p9-juejin.byteimg.com,PROXY
 #include:lark
 # This tag 'lark' is for backward compatibility
 
-#include:feishu
 DOMAIN-SUFFIX,anycross.com,PROXY    #京ICP备16045432号-56 飞书Anycross
 DOMAIN-SUFFIX,blmpb.com,PROXY    #京ICP备16045432号-76 北京飞书
 DOMAIN-SUFFIX,bytedancehermestest.com,PROXY    #京ICP备16045432号-77 飞书报销邮箱静态资源
@@ -132,7 +131,6 @@ DOMAIN-SUFFIX,securityfeishu.cn,PROXY    #京ICP备16045432号-55 飞书链接�
 DOMAIN-SUFFIX,securityfs.cn,PROXY    #京ICP备16045432号-54 飞书链接重定向专用
 DOMAIN-SUFFIX,statusfeishu.cn,PROXY    #京ICP备16045432号-10 飞书
 #end include:feishu
-#include:lark-global
 DOMAIN-SUFFIX,frontier-lark-lb-v3.lf.bytelb.net,PROXY    #京ICP备12025439号-121 字节负载均衡
 DOMAIN-SUFFIX,lark-passport-qa-sg.net,PROXY    #京ICP备16045432号-69 QA测试使用域名
 DOMAIN-SUFFIX,lark.cn,PROXY    #京ICP备16045432号-11 飞书

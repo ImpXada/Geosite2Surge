@@ -1,4 +1,3 @@
-#include:duowan
 DOMAIN-SUFFIX,duowan.com,PROXY
 DOMAIN-SUFFIX,dwstatic.com,PROXY
 #end include:duowan

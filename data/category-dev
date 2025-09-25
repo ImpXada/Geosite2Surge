@@ -10,74 +10,6 @@ DOMAIN-SUFFIX,androidify.com,PROXY
 
 DOMAIN,android.googlesource.com,PROXY
 #end include:android
-#include:apple-dev
-DOMAIN-SUFFIX,appleswift.com,PROXY
-DOMAIN-SUFFIX,swift.org,PROXY
-DOMAIN-SUFFIX,swiftui.cn,PROXY
-DOMAIN-SUFFIX,swiftui.com.cn,PROXY
-#end include:swift
-
-# Calendar and Contact Server
-DOMAIN-SUFFIX,calendarserver.org,PROXY
-
-# CloudKit
-DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
-
-# CUPS
-DOMAIN-SUFFIX,cups.org,PROXY
-
-# Developer
-DOMAIN-SUFFIX,developer.apple.com,PROXY
-DOMAIN-SUFFIX,devimages-cdn.apple.com,PROXY
-DOMAIN-SUFFIX,devstreaming-cdn.apple.com,PROXY
-DOMAIN-SUFFIX,developerservices2.apple.com,PROXY
-DOMAIN-SUFFIX,timestamp.apple.com,PROXY
-DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
-DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com,PROXY
-
-# FoundationDB
-DOMAIN-SUFFIX,foundationdb.org,PROXY
-
-# macOS forge
-DOMAIN-SUFFIX,macosforge.org,PROXY
-
-# MacRuby
-DOMAIN-SUFFIX,macruby.com,PROXY
-DOMAIN-SUFFIX,macruby.net,PROXY
-DOMAIN-SUFFIX,macruby.org,PROXY
-
-# MapKit
-DOMAIN-SUFFIX,apple-mapkit.com,PROXY
-
-# Playgrounds
-DOMAIN-SUFFIX,playgrounds-cdn.apple.com,PROXY
-
-# Research & Care
-DOMAIN-SUFFIX,carekit.org,PROXY
-DOMAIN-SUFFIX,researchandcare.org,PROXY
-DOMAIN-SUFFIX,researchkit.cn,PROXY
-DOMAIN-SUFFIX,researchkit.com.cn,PROXY
-DOMAIN-SUFFIX,researchkit.hk,PROXY
-DOMAIN-SUFFIX,researchkit.net,PROXY
-DOMAIN-SUFFIX,researchkit.org,PROXY
-DOMAIN-SUFFIX,researchkit.tv,PROXY
-
-# ServiceTalk
-DOMAIN-SUFFIX,servicetalk.io,PROXY
-
-# WebKit
-DOMAIN-SUFFIX,webkit.org,PROXY
-DOMAIN-SUFFIX,webkitgtk.org,PROXY
-DOMAIN-SUFFIX,wpewebkit.org,PROXY
-
-# Other
-DOMAIN-SUFFIX,webobjects.com,PROXY
-
-DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net,PROXY
-DOMAIN,appleworldwidedeveloper.sc.omtrdc.net,PROXY
-DOMAIN,p-events-delivery.akamaized.net,PROXY
-
-#end include:apple-dev
 #include:archlinux
 DOMAIN-SUFFIX,archlinux.org,PROXY
 DOMAIN-SUFFIX,archlinuxarm.org,PROXY
@@ -102,27 +34,6 @@ DOMAIN-SUFFIX,forthebadge.com,PROXY
 # Stock Against Photography
 DOMAIN-SUFFIX,stockagainstphotography.com,PROXY
 #end include:braveux
-#include:canonical
-#include:launchpad
-DOMAIN-SUFFIX,launchpad.net,PROXY
-DOMAIN-SUFFIX,launchpadcontent.net,PROXY
-DOMAIN-SUFFIX,launchpadlibrarian.com,PROXY
-DOMAIN-SUFFIX,launchpadlibrarian.net,PROXY
-DOMAIN-SUFFIX,launchpadlibrarian.org,PROXY
-#end include:launchpad
-#include:snapcraft
-DOMAIN-SUFFIX,snapcraft.io,PROXY
-DOMAIN-SUFFIX,snapstore.io,PROXY
-#end include:snapcraft
-#include:ubuntu
-DOMAIN-SUFFIX,ubuntu.com,PROXY
-DOMAIN-SUFFIX,ubuntu.net,PROXY
-DOMAIN-SUFFIX,ubuntuforums.org,PROXY
-DOMAIN-SUFFIX,ubuntu-touch.io,PROXY
-#end include:ubuntu
-
-DOMAIN-SUFFIX,canonical.com,PROXY
-#end include:canonical
 #include:category-container
 DOMAIN-SUFFIX,azurecr.io,PROXY
 DOMAIN-SUFFIX,docker.io,PROXY
@@ -269,44 +180,6 @@ DOMAIN-SUFFIX,gemfury.com,PROXY
 DOMAIN-SUFFIX,gitbook.com,PROXY
 DOMAIN-SUFFIX,gitbook.io,PROXY
 #end include:gitbook
-#include:github
-#include:npmjs
-DOMAIN-SUFFIX,npm.community,PROXY
-DOMAIN-SUFFIX,npmjs.com,PROXY
-DOMAIN-SUFFIX,npmjs.org,PROXY
-#end include:npmjs
-
-DOMAIN-SUFFIX,atom.io,PROXY
-DOMAIN-SUFFIX,dependabot.com,PROXY
-DOMAIN-SUFFIX,gh.io,PROXY
-DOMAIN-SUFFIX,ghcr.io,PROXY
-DOMAIN-SUFFIX,git.io,PROXY
-DOMAIN-SUFFIX,github.ai,PROXY
-DOMAIN-SUFFIX,github.blog,PROXY
-DOMAIN-SUFFIX,github.com,PROXY
-DOMAIN-SUFFIX,github.community,PROXY
-DOMAIN-SUFFIX,github.dev,PROXY
-DOMAIN-SUFFIX,github.io,PROXY
-DOMAIN-SUFFIX,githubapp.com,PROXY
-DOMAIN-SUFFIX,githubassets.com,PROXY
-DOMAIN-SUFFIX,githubcopilot.com,PROXY
-DOMAIN-SUFFIX,githubhackathon.com,PROXY
-DOMAIN-SUFFIX,githubnext.com,PROXY
-DOMAIN-SUFFIX,githubpreview.dev,PROXY
-DOMAIN-SUFFIX,githubstatus.com,PROXY
-DOMAIN-SUFFIX,githubuniverse.com,PROXY
-DOMAIN-SUFFIX,githubusercontent.com,PROXY
-DOMAIN-SUFFIX,myoctocat.com,PROXY
-DOMAIN-SUFFIX,opensource.guide,PROXY
-DOMAIN-SUFFIX,repo.new,PROXY
-DOMAIN-SUFFIX,thegithubshop.com,PROXY
-
-# GitHub Actions Artifacts
-DOMAIN-SUFFIX,blob.core.windows.net,PROXY
-
-DOMAIN,github-cloud.s3.amazonaws.com,PROXY
-DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com,PROXY
-#end include:github
 #include:github1s
 DOMAIN-SUFFIX,github1s.com,PROXY
 DOMAIN-SUFFIX,sourcegraph.com,PROXY
@@ -613,29 +486,6 @@ DOMAIN-SUFFIX,kernel.org,PROXY
 #include:linux
 DOMAIN-SUFFIX,linux.org,PROXY
 #end include:linux
-#include:openjsfoundation
-DOMAIN-SUFFIX,amp.dev,PROXY
-DOMAIN-SUFFIX,ampproject.com,PROXY
-DOMAIN-SUFFIX,ampproject.net,PROXY
-DOMAIN-SUFFIX,ampproject.org,PROXY
-
-DOMAIN,cdn.ampproject.org,PROXY
-
-DOMAIN,amp.akamaized.net,PROXY
-#end include:amp
-DOMAIN-SUFFIX,electronjs.org,PROXY
-#end include:electron
-DOMAIN-SUFFIX,jquery.com,PROXY
-DOMAIN-SUFFIX,jquerymobile.com,PROXY
-DOMAIN-SUFFIX,jqueryui.com,PROXY
-#end include:jquery
-DOMAIN-SUFFIX,mochajs.org,PROXY
-#end include:mocha
-DOMAIN-SUFFIX,nodejs.org,PROXY
-#end include:nodejs
-
-DOMAIN-SUFFIX,openjsf.org,PROXY
-#end include:openjsfoundation
 
 DOMAIN-SUFFIX,lfai.foundation,PROXY
 DOMAIN-SUFFIX,linuxfoundation.org,PROXY
@@ -647,7 +497,6 @@ DOMAIN-SUFFIX,topcoder.com,PROXY
 DOMAIN-SUFFIX,unity.com,PROXY
 DOMAIN-SUFFIX,unity3d.com,PROXY
 
-#include:unity-ads
 DOMAIN-SUFFIX,ads.unitychina.cn,PROXY
 DOMAIN-SUFFIX,splash-ads.cdn.unity.cn,PROXY
 DOMAIN-SUFFIX,splash-ads.unitychina.cn,PROXY
