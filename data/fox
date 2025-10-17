@@ -1,7 +1,6 @@
 # All .fox domains
 DOMAIN-SUFFIX,fox,PROXY
 
-#include:tubi
 DOMAIN-SUFFIX,tubi.io,PROXY
 DOMAIN-SUFFIX,tubi.tv,PROXY
 DOMAIN-SUFFIX,tubi.video,PROXY

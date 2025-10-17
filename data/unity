@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,unity.com,PROXY
 DOMAIN-SUFFIX,unity3d.com,PROXY
 
+#include:unity-ads
 DOMAIN-SUFFIX,ads.unitychina.cn,PROXY
 DOMAIN-SUFFIX,splash-ads.cdn.unity.cn,PROXY
 DOMAIN-SUFFIX,splash-ads.unitychina.cn,PROXY

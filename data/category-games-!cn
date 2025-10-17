@@ -64,7 +64,6 @@ DOMAIN-SUFFIX,worldflipper.akamaized.net,PROXY
 DOMAIN-SUFFIX,umamusume.akamaized.net,PROXY
 #end include:cygames
 #include:ea
-#include:origin
 DOMAIN-SUFFIX,dawngate.com,PROXY
 DOMAIN-SUFFIX,eastore.com,PROXY
 DOMAIN-SUFFIX,lordofultima.com,PROXY
@@ -746,6 +745,8 @@ DOMAIN,steamusercontent-a.akamaihd.net,PROXY
 DOMAIN,steamuserimages-a.akamaihd.net,PROXY
 DOMAIN,steamvideo-a.akamaihd.net,PROXY
 
+# Azure
+DOMAIN,steamcloudsweden.blob.core.windows.net,PROXY
 
 # 完美
 DOMAIN-SUFFIX,csgo.wmsj.cn,PROXY
@@ -819,11 +820,13 @@ DOMAIN,ubistatic3-a.akamaihd.net,PROXY
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com,PROXY
 #end include:ubisoft
 #include:xbox
+#include:asobo
 DOMAIN-SUFFIX,asobostudio.com,PROXY
 DOMAIN-SUFFIX,flightsimulator.com,PROXY
 
 DOMAIN,flightsimulator.azureedge.net,PROXY
 #end include:asobo
+#include:bethesda
 DOMAIN-SUFFIX,beth.games,PROXY
 DOMAIN-SUFFIX,bethesda.net,PROXY
 DOMAIN-SUFFIX,bethesdagamestudios.com,PROXY
@@ -835,6 +838,7 @@ DOMAIN-SUFFIX,doom.com,PROXY
 # The Elder Scrolls
 DOMAIN-SUFFIX,elderscrolls.com,PROXY
 #end include:bethesda
+#include:forza
 DOMAIN-SUFFIX,forza.net,PROXY
 DOMAIN-SUFFIX,forzamotorsport.net,PROXY
 DOMAIN-SUFFIX,forzaracingchampionship.com,PROXY
@@ -842,6 +846,7 @@ DOMAIN-SUFFIX,forzarc.com,PROXY
 
 DOMAIN,prodforza.blob.core.windows.net,PROXY
 #end include:forza
+#include:mojang
 DOMAIN-SUFFIX,callersbane.com,PROXY
 DOMAIN-SUFFIX,minecraft-services.net,PROXY
 DOMAIN-SUFFIX,minecraft.net,PROXY

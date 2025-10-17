@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,binancezh.top,PROXY
 # API
 DOMAIN-SUFFIX,binanceapi.com,PROXY
 DOMAIN-SUFFIX,bnbstatic.com,PROXY
+DOMAIN-SUFFIX,bntrace.com,PROXY
+DOMAIN-SUFFIX,nftstatic.com,PROXY
 
 # saas
 DOMAIN-SUFFIX,appsflayer.com,PROXY

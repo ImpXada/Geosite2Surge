@@ -1,3 +1,4 @@
+#include:playstation
 # All .playstation domains
 DOMAIN-SUFFIX,playstation,PROXY
 
@@ -5,6 +6,7 @@ DOMAIN-SUFFIX,playstation.com,PROXY
 DOMAIN-SUFFIX,playstation.net,PROXY
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com,PROXY
 #end include:playstation
+#include:sonypictures
 DOMAIN-SUFFIX,imageworks.com,PROXY
 DOMAIN-SUFFIX,motionpictureser.com,PROXY
 DOMAIN-SUFFIX,playshow.io,PROXY

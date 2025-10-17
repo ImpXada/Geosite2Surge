@@ -53,6 +53,8 @@ DOMAIN,steamusercontent-a.akamaihd.net,PROXY
 DOMAIN,steamuserimages-a.akamaihd.net,PROXY
 DOMAIN,steamvideo-a.akamaihd.net,PROXY
 
+# Azure
+DOMAIN,steamcloudsweden.blob.core.windows.net,PROXY
 
 # 完美
 DOMAIN-SUFFIX,csgo.wmsj.cn,PROXY

@@ -1,4 +1,5 @@
 # ChatGPT Extension
-DOMAIN,apple-relay.mask.apple-dns.net,PROXY
 DOMAIN,apple-relay.apple.com,PROXY
 DOMAIN,apple-relay.cloudflare.com,PROXY
+DOMAIN,apple-relay.fastly-edge.com,PROXY
+DOMAIN,apple-relay.mask.apple-dns.net,PROXY

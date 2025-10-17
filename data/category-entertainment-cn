@@ -277,6 +277,21 @@ DOMAIN-SUFFIX,wo1wan.com,PROXY
 #include:3dm
 DOMAIN-SUFFIX,3dmgame.com,PROXY
 #end include:3dm
+#include:acfun
+# Beijing Danmu Network Technology Co., Ltd.
+
+DOMAIN-SUFFIX,ac.fun,PROXY
+DOMAIN-SUFFIX,acfun.cn,PROXY
+DOMAIN-SUFFIX,acfun.net,PROXY
+DOMAIN-SUFFIX,acfunchina.cn,PROXY
+DOMAIN-SUFFIX,acfunchina.com,PROXY
+DOMAIN-SUFFIX,acfunchina.net,PROXY
+DOMAIN-SUFFIX,aixifan.com,PROXY
+
+#include:acfun-ads
+DOMAIN,apilog-web.acfun.cn,PROXY
+#end include:acfun-ads
+#end include:acfun
 #include:acplay
 DOMAIN-SUFFIX,acplay.net,PROXY
 DOMAIN-SUFFIX,dandanplay.com,PROXY
@@ -510,8 +525,33 @@ DOMAIN-SUFFIX,ku6img.com,PROXY
 DOMAIN-SUFFIX,kkmh.com,PROXY
 DOMAIN-SUFFIX,kuaikanmanhua.com,PROXY
 #end include:kuaikan
+#include:kuaishou
+DOMAIN-SUFFIX,adbkwai.com,PROXY
+DOMAIN-SUFFIX,adkwai.com,PROXY
+DOMAIN-SUFFIX,adukwai.com,PROXY
+DOMAIN-SUFFIX,e.kuaishou.cn,PROXY
+DOMAIN-SUFFIX,e.kuaishou.com,PROXY
+
+DOMAIN,log-sdk.gifshow.com,PROXY
+DOMAIN,wlog.kuaishou.com,PROXY
+#end include:kuaishou-ads
+
+DOMAIN-SUFFIX,ecukwai.com,PROXY
+DOMAIN-SUFFIX,gifshow.com,PROXY
+DOMAIN-SUFFIX,inkwai.com,PROXY
+DOMAIN-SUFFIX,ksapisrv.com,PROXY
+DOMAIN-SUFFIX,kskwai.com,PROXY
+DOMAIN-SUFFIX,kuaishou.com,PROXY
+DOMAIN-SUFFIX,kuaishouapps.com,PROXY
+DOMAIN-SUFFIX,kuaishoupay.com,PROXY
+DOMAIN-SUFFIX,kuaishouzt.com,PROXY
+DOMAIN-SUFFIX,kwaicdn.com,PROXY
+DOMAIN-SUFFIX,kwaizt.com,PROXY
+DOMAIN-SUFFIX,kwimgs.com,PROXY
+DOMAIN-SUFFIX,wsukwai.com,PROXY
+DOMAIN-SUFFIX,yximgs.com,PROXY
+#end include:kuaishou
 #include:kugou
-#include:kugou-ads
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY
 DOMAIN-SUFFIX,adserviceretry.kugou.com,PROXY
@@ -539,33 +579,6 @@ DOMAIN-SUFFIX,koowo.cn,PROXY
 DOMAIN-SUFFIX,koowo.com,PROXY
 DOMAIN-SUFFIX,kuwo.cn,PROXY
 #end include:kuwo
-#include:le
-#include:letv-ads
-DOMAIN-SUFFIX,api.game.letvstore.com,PROXY
-DOMAIN-SUFFIX,ark.letv.com,PROXY
-DOMAIN-SUFFIX,dc.letv.com,PROXY
-DOMAIN-SUFFIX,fz.letv.com,PROXY
-DOMAIN-SUFFIX,g3.letv.com,PROXY
-DOMAIN-SUFFIX,letv.allyes.com,PROXY
-DOMAIN-SUFFIX,minisite.letv.com,PROXY
-DOMAIN-SUFFIX,msg.m.letv.com,PROXY
-DOMAIN-SUFFIX,n.mark.letv.com,PROXY
-DOMAIN-SUFFIX,pro.hoye.letv.com,PROXY
-DOMAIN-SUFFIX,pro.letv.com,PROXY
-DOMAIN-SUFFIX,stat.letv.com,PROXY
-DOMAIN-SUFFIX,static.app.m.letv.com,PROXY
-#end include:letv-ads
-
-DOMAIN-SUFFIX,le.com,PROXY
-DOMAIN-SUFFIX,leautolink.com,PROXY
-DOMAIN-SUFFIX,lecloud.com,PROXY
-DOMAIN-SUFFIX,lecloudapi.com,PROXY
-DOMAIN-SUFFIX,lemall.com,PROXY
-DOMAIN-SUFFIX,leso.cn,PROXY
-DOMAIN-SUFFIX,letv.com,PROXY
-DOMAIN-SUFFIX,letvcdn.com,PROXY
-DOMAIN-SUFFIX,letvimg.com,PROXY
-#end include:le
 #include:lizhi
 DOMAIN-SUFFIX,lizhi.fm,PROXY
 DOMAIN-SUFFIX,lizhifm.com,PROXY

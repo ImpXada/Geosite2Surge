@@ -1,7 +1,9 @@
 #include:anthropic
 DOMAIN-SUFFIX,anthropic.com,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
+DOMAIN-SUFFIX,claude.com,PROXY
 DOMAIN-SUFFIX,claudeusercontent.com,PROXY
+DOMAIN-SUFFIX,claudemcpclient.com,PROXY
 
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net,PROXY

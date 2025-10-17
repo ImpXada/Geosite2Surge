@@ -304,81 +304,6 @@ DOMAIN-SUFFIX,metcams.com,PROXY
 DOMAIN-SUFFIX,naiadsystems.com,PROXY
 DOMAIN-SUFFIX,nsimg.net,PROXY
 #end include:metart
-#include:mindgeek-porn
-#include:brazzers
-DOMAIN-SUFFIX,brazzer.com,PROXY
-DOMAIN-SUFFIX,brazzers.com,PROXY
-DOMAIN-SUFFIX,brazzers.xxx,PROXY
-DOMAIN-SUFFIX,brazzersnetwork.com,PROXY
-
-# Mofos
-DOMAIN-SUFFIX,mofos.com,PROXY
-#end include:brazzers
-#include:digitalplayground
-DOMAIN-SUFFIX,digitalplayground.com,PROXY
-DOMAIN-SUFFIX,digitalplaygroundnetwork.com,PROXY
-#end include:digitalplayground
-#include:mydirtyhobby
-DOMAIN-SUFFIX,mydirtyhobby.com,PROXY
-
-# CDN
-DOMAIN-SUFFIX,mdhcdn.com,PROXY
-#end include:mydirtyhobby
-#include:nutaku
-DOMAIN-SUFFIX,nutaku.com,PROXY
-DOMAIN-SUFFIX,nutaku.net,PROXY
-#end include:nutaku
-#include:pornhub
-DOMAIN-SUFFIX,gaytube.com,PROXY
-DOMAIN-SUFFIX,phncdn.com,PROXY
-DOMAIN-SUFFIX,phprcdn.com,PROXY
-DOMAIN-SUFFIX,porngub.com,PROXY
-DOMAIN-SUFFIX,pornhub-deutsch.net,PROXY
-DOMAIN-SUFFIX,pornhubapparel.com,PROXY
-DOMAIN-SUFFIX,pornhub.com,PROXY
-DOMAIN-SUFFIX,pornhub.org,PROXY
-DOMAIN-SUFFIX,pornhubpremium.com,PROXY
-#end include:pornhub
-#include:realitykings
-DOMAIN-SUFFIX,realitykings.com,PROXY
-DOMAIN-SUFFIX,rk.com,PROXY
-#end include:realitykings
-#include:redtube
-DOMAIN-SUFFIX,livehdcams.com,PROXY
-DOMAIN-SUFFIX,redtube.com,PROXY
-DOMAIN-SUFFIX,redtube.com.br,PROXY
-DOMAIN-SUFFIX,redtubepremium.com,PROXY
-
-# CDN
-DOMAIN-SUFFIX,rdtcdn.com,PROXY
-#end include:redtube
-#include:tube8
-DOMAIN-SUFFIX,tube8.com,PROXY
-DOMAIN-SUFFIX,tube8.fr,PROXY
-#end include:tube8
-#include:youporn
-DOMAIN-SUFFIX,extremetube.com,PROXY
-DOMAIN-SUFFIX,keezmovies.com,PROXY
-DOMAIN-SUFFIX,youporn.com,PROXY
-DOMAIN-SUFFIX,youporngay.com,PROXY
-DOMAIN-SUFFIX,youpornpremium.com,PROXY
-DOMAIN-SUFFIX,youpornru.com,PROXY
-DOMAIN-SUFFIX,yopornshop.com,PROXY
-
-# CDN
-DOMAIN-SUFFIX,ypncdn.com,PROXY
-#end include:youporn
-
-DOMAIN-SUFFIX,babes.com,PROXY
-DOMAIN-SUFFIX,men.com,PROXY
-DOMAIN-SUFFIX,porniq.com,PROXY
-DOMAIN-SUFFIX,pornmd.com,PROXY
-DOMAIN-SUFFIX,seancody.com,PROXY
-DOMAIN-SUFFIX,thumbzilla.com,PROXY
-DOMAIN-SUFFIX,twistys.com,PROXY
-DOMAIN-SUFFIX,webcams.tv,PROXY
-DOMAIN-SUFFIX,whynotbi.com,PROXY
-#end include:mindgeek-porn
 #include:missav
 DOMAIN-SUFFIX,missav.ai,PROXY
 DOMAIN-SUFFIX,missav.com,PROXY
@@ -588,24 +513,6 @@ DOMAIN-SUFFIX,uun98.com,PROXY
 DOMAIN-SUFFIX,uun99.com,PROXY
 DOMAIN-SUFFIX,uux68.com,PROXY
 #end include:uu-chat
-#include:xhamster
-DOMAIN-SUFFIX,collector.xhamster.com,PROXY
-#end include:xhamster-ads
-
-
-DOMAIN-SUFFIX,xhamster.com,PROXY
-DOMAIN-SUFFIX,xhamster.desi,PROXY
-DOMAIN-SUFFIX,xhamster.xxx,PROXY
-DOMAIN-SUFFIX,xhamster18.com,PROXY
-DOMAIN-SUFFIX,xhamster18.desi,PROXY
-DOMAIN-SUFFIX,xhamsterlive.com,PROXY
-DOMAIN-SUFFIX,xhcdn.com,PROXY
-
-
-# xhamsterlive thumbnails
-
-DOMAIN,widgets.stripst.com,PROXY
-#end include:xhamster
 #include:xingkongwuxianmedia
 DOMAIN-SUFFIX,avstar01.me,PROXY
 DOMAIN-SUFFIX,avstar02.me,PROXY

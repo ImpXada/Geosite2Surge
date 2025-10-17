@@ -1,4 +1,3 @@
-#include:npmjs
 DOMAIN-SUFFIX,npm.community,PROXY
 DOMAIN-SUFFIX,npmjs.com,PROXY
 DOMAIN-SUFFIX,npmjs.org,PROXY
@@ -25,6 +24,7 @@ DOMAIN-SUFFIX,githubstatus.com,PROXY
 DOMAIN-SUFFIX,githubuniverse.com,PROXY
 DOMAIN-SUFFIX,githubusercontent.com,PROXY
 DOMAIN-SUFFIX,myoctocat.com,PROXY
+DOMAIN-SUFFIX,octocaptcha.com,PROXY
 DOMAIN-SUFFIX,opensource.guide,PROXY
 DOMAIN-SUFFIX,repo.new,PROXY
 DOMAIN-SUFFIX,thegithubshop.com,PROXY
@@ -32,5 +32,6 @@ DOMAIN-SUFFIX,thegithubshop.com,PROXY
 # GitHub Actions Artifacts
 DOMAIN-SUFFIX,blob.core.windows.net,PROXY
 
+DOMAIN,github-api.arkoselabs.com,PROXY
 DOMAIN,github-cloud.s3.amazonaws.com,PROXY
 DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com,PROXY
