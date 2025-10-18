@@ -17,5 +17,11 @@ DOMAIN-SUFFIX,tritoninfo.net,PROXY
 DOMAIN-SUFFIX,xiumi.us,PROXY
 DOMAIN-SUFFIX,xiumius.com,PROXY
 
+# 石墨文档
 DOMAIN-SUFFIX,shimo.im,PROXY
+DOMAIN-SUFFIX,shimonote.com,PROXY
+DOMAIN-SUFFIX,smgv.cn,PROXY
+
+# 语雀
+DOMAIN-SUFFIX,nlark.com,PROXY
 DOMAIN-SUFFIX,yuque.com,PROXY

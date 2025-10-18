@@ -49,6 +49,20 @@ DOMAIN-SUFFIX,lanzouy.com,PROXY
 DOMAIN-SUFFIX,lanzov.com,PROXY
 DOMAIN-SUFFIX,woozooo.com,PROXY
 #end include:lanzou
+# 成都字节星云科技有限公司 蜀ICP备19024011号
+DOMAIN-SUFFIX,wenshushu.cn,PROXY
+DOMAIN-SUFFIX,wenshushu.com,PROXY
+DOMAIN-SUFFIX,wenxiaozhan.cn,PROXY
+DOMAIN-SUFFIX,wenxiaozhan.com,PROXY
+DOMAIN-SUFFIX,wenxiaozhan.net,PROXY
+DOMAIN-SUFFIX,wss.cc,PROXY
+DOMAIN-SUFFIX,wss.email,PROXY
+DOMAIN-SUFFIX,wss.ink,PROXY
+DOMAIN-SUFFIX,wss.pet,PROXY
+DOMAIN-SUFFIX,wss.show,PROXY
+DOMAIN-SUFFIX,wss.zone,PROXY
+DOMAIN-SUFFIX,wss1.cn,PROXY
+#end include:wenshushu
 
 # 123云盘
 DOMAIN-SUFFIX,123pan.cn,PROXY

@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,claudemcpclient.com,PROXY
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net,PROXY
 #end include:anthropic
+#include:cerebras
+DOMAIN-SUFFIX,cerebras.ai,PROXY
+#end include:cerebras
 #include:cursor
 DOMAIN-SUFFIX,cursor-cdn.com,PROXY
 DOMAIN-SUFFIX,cursor.com,PROXY

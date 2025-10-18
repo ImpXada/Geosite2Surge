@@ -252,9 +252,12 @@ DOMAIN-SUFFIX,javcc.cc,PROXY
 DOMAIN-SUFFIX,javcc.com,PROXY
 #end include:javcc
 #include:javdb
+DOMAIN-SUFFIX,jav.app,PROXY
 DOMAIN-SUFFIX,javdb.com,PROXY
 DOMAIN-SUFFIX,jdbimgs.com,PROXY
 DOMAIN-SUFFIX,jdbstatic.com,PROXY
+
+DOMAIN-WILDCARD,javdb*.com,PROXY
 #end include:javdb
 #include:javwide
 DOMAIN-SUFFIX,javwide.com,PROXY

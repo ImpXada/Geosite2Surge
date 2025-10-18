@@ -258,20 +258,36 @@ DOMAIN-SUFFIX,xdcdn.net,PROXY
 DOMAIN-SUFFIX,xindong.com,PROXY
 #end include:xd
 
+# 刀锋盒子 皖B2-20190103-4
+DOMAIN-SUFFIX,9xgame.com,PROXY
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX,astral-vector.com,PROXY
 # 九九互动 粤ICP备19068416号
 DOMAIN-SUFFIX,forevernine.com,PROXY
+# 互动游戏对战平台 粤ICP备18006390号-1
+DOMAIN-SUFFIX,fxt365.com,PROXY
+# 边锋游戏 浙B2-20090273-1
+DOMAIN-SUFFIX,gameabc.com,PROXY
+# 游戏魅 合肥启云软件 皖B2-20160087-3
+DOMAIN-SUFFIX,gamemei.com,PROXY
 # 乐都网 浙ICP备2024091002号-2
 DOMAIN-SUFFIX,ledu.com,PROXY
+# 龙图游戏 京ICP备11023195号
+DOMAIN-SUFFIX,longtugame.com,PROXY
+# 北京慕飞科技 京ICP备20006112号-2
+DOMAIN-SUFFIX,morefreegame.com,PROXY
 # Enhance Gaming
 DOMAIN-SUFFIX,heavenlywind.cc,PROXY
 DOMAIN-SUFFIX,steampp.net,PROXY
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX,tgpro.top,PROXY
 DOMAIN-SUFFIX,tgprocs.net,PROXY
+# Wine游戏助手 京ICP备18041936号
+DOMAIN-SUFFIX,winegame.net,PROXY
 # 畅玩空间 冀ICP备20019223号
 DOMAIN-SUFFIX,wo1wan.com,PROXY
+# 云蟾游戏 沪ICP备11009299号
+DOMAIN-SUFFIX,ycgame.com,PROXY
 #end include:category-games-cn
 
 #include:3dm
@@ -388,6 +404,75 @@ DOMAIN-SUFFIX,saolife.com,PROXY
 #include:dmzj
 DOMAIN-SUFFIX,dmzj.com,PROXY
 #end include:dmzj
+#include:douyin
+# 北京抖音科技有限公司 京ICP备16016397号
+# 抖音、抖音火山版、汽水音乐
+DOMAIN-SUFFIX,activity-wbsj.com,PROXY
+DOMAIN-SUFFIX,aihst8.com,PROXY
+DOMAIN-SUFFIX,amemv.cn,PROXY
+DOMAIN-SUFFIX,amemv.com,PROXY
+DOMAIN-SUFFIX,amemv.net,PROXY
+DOMAIN-SUFFIX,awemeughun.com,PROXY
+DOMAIN-SUFFIX,awemeuglang.com,PROXY
+DOMAIN-SUFFIX,awemeugsoul.com,PROXY
+DOMAIN-SUFFIX,awemeugwave.com,PROXY
+DOMAIN-SUFFIX,betastar.cn,PROXY
+DOMAIN-SUFFIX,boxdouyin.com,PROXY
+DOMAIN-SUFFIX,cookicut.com,PROXY
+DOMAIN-SUFFIX,douyin.com,PROXY
+DOMAIN-SUFFIX,douyinact.com,PROXY
+DOMAIN-SUFFIX,douyinact.net,PROXY
+DOMAIN-SUFFIX,douyincdn.com,PROXY
+DOMAIN-SUFFIX,douyinfe.com,PROXY
+DOMAIN-SUFFIX,douyinliving.com,PROXY
+DOMAIN-SUFFIX,douyinpic.com,PROXY
+DOMAIN-SUFFIX,douyinstatic.com,PROXY
+DOMAIN-SUFFIX,douyinvod.com,PROXY
+DOMAIN-SUFFIX,duoshan.com,PROXY
+DOMAIN-SUFFIX,huoshan.com,PROXY
+DOMAIN-SUFFIX,huoshancdn.com,PROXY
+DOMAIN-SUFFIX,huoshangroup.com,PROXY
+DOMAIN-SUFFIX,huoshanimg.com,PROXY
+DOMAIN-SUFFIX,huoshanlive.com,PROXY
+DOMAIN-SUFFIX,huoshanparty.com,PROXY
+DOMAIN-SUFFIX,huoshanstatic.com,PROXY
+DOMAIN-SUFFIX,huoshante8.com,PROXY
+DOMAIN-SUFFIX,huoshanvideo.cn,PROXY
+DOMAIN-SUFFIX,huoshanvideo.net,PROXY
+DOMAIN-SUFFIX,huoshanvod.com,PROXY
+DOMAIN-SUFFIX,huoshanxiaoshipin.cn,PROXY
+DOMAIN-SUFFIX,huoshanxiaoshipin.net,PROXY
+DOMAIN-SUFFIX,huoshanzhibo.cn,PROXY
+DOMAIN-SUFFIX,huoshanzhibo.com,PROXY
+DOMAIN-SUFFIX,huoshanzhibo.net,PROXY
+DOMAIN-SUFFIX,idouyinliving.com,PROXY
+DOMAIN-SUFFIX,idouyinpic.com,PROXY
+DOMAIN-SUFFIX,idouyinstatic.com,PROXY
+DOMAIN-SUFFIX,idouyinvod.com,PROXY
+DOMAIN-SUFFIX,iesdouyin.com,PROXY
+DOMAIN-SUFFIX,iesdouyin.net,PROXY
+DOMAIN-SUFFIX,ieshuodong.cn,PROXY
+DOMAIN-SUFFIX,ieshuodong.net,PROXY
+DOMAIN-SUFFIX,ihst8.com,PROXY
+DOMAIN-SUFFIX,ihuoshanimg.com,PROXY
+DOMAIN-SUFFIX,ihuoshanlive.com,PROXY
+DOMAIN-SUFFIX,ihuoshanstatic.com,PROXY
+DOMAIN-SUFFIX,ihuoshanvod.com,PROXY
+DOMAIN-SUFFIX,kesong.co,PROXY
+DOMAIN-SUFFIX,kolbuyer.cn,PROXY
+DOMAIN-SUFFIX,nextvid.net,PROXY
+DOMAIN-SUFFIX,ppkankan01.com,PROXY
+DOMAIN-SUFFIX,qishui.cn,PROXY
+DOMAIN-SUFFIX,qishui.com,PROXY
+DOMAIN-SUFFIX,qishui.com.cn,PROXY
+DOMAIN-SUFFIX,qishuimusic.cn,PROXY
+DOMAIN-SUFFIX,qishuimusic.com.cn,PROXY
+DOMAIN-SUFFIX,supercachenet.com,PROXY
+DOMAIN-SUFFIX,supercachenode.com,PROXY
+DOMAIN-SUFFIX,ultracachenode.com,PROXY
+DOMAIN-SUFFIX,woaihuoshan.com,PROXY
+DOMAIN-SUFFIX,wohst8.com,PROXY
+#end include:douyin
 #include:douyu
 DOMAIN-SUFFIX,douyu.com,PROXY
 DOMAIN-SUFFIX,douyu.tv,PROXY
@@ -400,6 +485,15 @@ DOMAIN-SUFFIX,douyutv.com,PROXY
 DOMAIN-SUFFIX,dtstatic.com,PROXY
 DOMAIN-SUFFIX,duitang.com,PROXY
 #end include:duitang
+#include:fengxing
+DOMAIN-SUFFIX,fspcdn.com,PROXY
+DOMAIN-SUFFIX,fun.tv,PROXY
+DOMAIN-SUFFIX,funshion.com,PROXY
+DOMAIN-SUFFIX,funshion.net,PROXY
+DOMAIN-SUFFIX,ibidian.com,PROXY
+DOMAIN-SUFFIX,jvcsmart.cn,PROXY
+DOMAIN-SUFFIX,jvcsmart.com.cn,PROXY
+#end include:fengxing
 #include:fqnovel
 DOMAIN-SUFFIX,activity-zhendingtech.com,PROXY
 DOMAIN-SUFFIX,changdunovel.com,PROXY
@@ -726,4 +820,5 @@ DOMAIN-SUFFIX,yeshen.com,PROXY
 # B站空降助手 鲁ICP备2024098956号-1
 DOMAIN-SUFFIX,bsbsb.top,PROXY
 
+DOMAIN-SUFFIX,dongqiudi.com,PROXY
 DOMAIN-SUFFIX,pearvideo.com,PROXY

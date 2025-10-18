@@ -446,3 +446,7 @@ DOMAIN-SUFFIX,npmmirror.com,PROXY
 
 # 闲鱼
 DOMAIN-SUFFIX,goofish.com,PROXY
+
+# 考拉
+DOMAIN-SUFFIX,kaola.com,PROXY
+DOMAIN-SUFFIX,kaolacdn.com,PROXY

@@ -6,6 +6,17 @@ DOMAIN-SUFFIX,ir,PROXY
 DOMAIN-SUFFIX,xn--mgba3a4f16a,PROXY    #.ایران
 DOMAIN-SUFFIX,xn--mgba3a4fra,PROXY    #.ايران
 
+#include:category-ads-ir
+# Iranian Advertising websites
+
+DOMAIN-SUFFIX,adivery.com,PROXY
+DOMAIN-SUFFIX,adivery.ir,PROXY
+DOMAIN-SUFFIX,kaprila.com,PROXY
+DOMAIN-SUFFIX,najva.com,PROXY
+DOMAIN-SUFFIX,sabavision.com,PROXY
+DOMAIN-SUFFIX,tapsell.ir,PROXY
+DOMAIN-SUFFIX,yektanet.com,PROXY
+#end include:category-ads-ir
 #include:category-bank-ir
 # Iranian bank websites
 

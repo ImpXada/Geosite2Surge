@@ -310,6 +310,27 @@ DOMAIN-SUFFIX,ckxx.net,PROXY
 # 大公网（大公报）
 DOMAIN-SUFFIX,takungpao.com,PROXY
 
+# 看看新闻
+DOMAIN-SUFFIX,kankanews.com,PROXY
+DOMAIN-SUFFIX,kankannews.com,PROXY
+DOMAIN-SUFFIX,kksmg.com,PROXY
+DOMAIN-SUFFIX,statickksmg.com,PROXY
+
+# 鞭牛士 京ICP备16012692号
+DOMAIN-SUFFIX,bianews.com,PROXY
+
+# DoNews 蜀ICP备2024059877号
+DOMAIN-SUFFIX,donews.com,PROXY
+
+# 青岛新闻 鲁B2-20051014-1
+DOMAIN-SUFFIX,qingdaonews.com,PROXY
+
+# 南岳新闻网 湘ICP备2022008426号-2
+DOMAIN-SUFFIX,nanyuenews.com,PROXY
+
+# 晋中广播电视台视听网 晋ICP备08003098号-3
+DOMAIN-SUFFIX,jztvnews.com,PROXY
+
 # 超能网
 DOMAIN-SUFFIX,expreview.com,PROXY
 

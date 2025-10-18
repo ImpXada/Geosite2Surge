@@ -21,9 +21,44 @@ DOMAIN-SUFFIX,yiyan.baidu.com,PROXY
 # 天工AI
 DOMAIN-SUFFIX,tiangong.cn,PROXY
 
-# 豆包
+# 字节跳动：豆包、Trae(MarsCode)
+#include:doubao
+# 北京春田知韵科技有限公司 京ICP备2023020373号
+DOMAIN-SUFFIX,butterfly-static.cn,PROXY
+DOMAIN-SUFFIX,butterflyai.cn,PROXY
+DOMAIN-SUFFIX,coze.cn,PROXY
+DOMAIN-SUFFIX,coze.site,PROXY
+DOMAIN-SUFFIX,cozebaas.cn,PROXY
+DOMAIN-SUFFIX,cozefn.cn,PROXY
+DOMAIN-SUFFIX,cozeide.cn,PROXY
 DOMAIN-SUFFIX,doubao.com,PROXY
+DOMAIN-SUFFIX,doubaocdn.com,PROXY
+DOMAIN-SUFFIX,hi-butterfly.cn,PROXY
+DOMAIN-SUFFIX,maoxiangai.com,PROXY
+DOMAIN-SUFFIX,myparallelstory.com,PROXY
+DOMAIN-SUFFIX,picpic-ai.cn,PROXY
+DOMAIN-SUFFIX,pixeldance.com,PROXY
+
+DOMAIN-SUFFIX,coze.com,PROXY
+#end include:doubao
+#include:trae
+# 北京引力弹弓科技有限公司 京ICP备2024062284号
+DOMAIN-SUFFIX,doudou.com,PROXY
 DOMAIN-SUFFIX,marscode.cn,PROXY
+DOMAIN-SUFFIX,marscode.com.cn,PROXY
+DOMAIN-SUFFIX,mcbaas.work,PROXY
+DOMAIN-SUFFIX,mcdemo.show,PROXY
+DOMAIN-SUFFIX,mchost.guru,PROXY
+DOMAIN-SUFFIX,mcprev.cn,PROXY
+DOMAIN-SUFFIX,tcwqqdy.guru,PROXY
+DOMAIN-SUFFIX,trae.cn,PROXY
+DOMAIN-SUFFIX,trae.com.cn,PROXY
+DOMAIN-SUFFIX,trae.guru,PROXY
+DOMAIN-SUFFIX,yoma.cn,PROXY
+
+DOMAIN-SUFFIX,marscode.com,PROXY
+DOMAIN-SUFFIX,trae.ai,PROXY
+#end include:trae
 
 # 智谱清言
 DOMAIN-SUFFIX,bigmodel.cn,PROXY
@@ -58,3 +93,6 @@ DOMAIN,cueme-api.quark.cn,PROXY
 DOMAIN-SUFFIX,n.cn,PROXY
 DOMAIN-SUFFIX,namiso.com,PROXY
 DOMAIN,ai.zhaomi.cn,PROXY
+
+# 妙言AI 冀ICP备20012219号-3
+DOMAIN-SUFFIX,miaoyanai.com,PROXY

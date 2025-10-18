@@ -604,6 +604,7 @@ DOMAIN-SUFFIX,youtubekids.com,PROXY
 DOMAIN-SUFFIX,youtubemobilesupport.com,PROXY
 DOMAIN-SUFFIX,yt.be,PROXY
 DOMAIN-SUFFIX,ytimg.com,PROXY
+DOMAIN,yt3.googleusercontent.com,PROXY
 #end include:youtube
 
 # All .and domains

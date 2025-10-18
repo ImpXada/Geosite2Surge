@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,fgo.wiki,PROXY
 DOMAIN-SUFFIX,jikipedia.com,PROXY
 DOMAIN-SUFFIX,mbalib.com,PROXY
-DOMAIN-SUFFIX,qiuwen.wiki,PROXY
 DOMAIN-SUFFIX,sec-wiki.com,PROXY
 DOMAIN-SUFFIX,shidianbaike.com,PROXY
 
@@ -15,3 +14,7 @@ DOMAIN-SUFFIX,moegirl.org.cn,PROXY
 
 # MC百科
 DOMAIN-SUFFIX,mcmod.cn,PROXY
+
+# 求闻百科
+DOMAIN-SUFFIX,qiuwenbaike.cn,PROXY
+DOMAIN-SUFFIX,qiuwen.wiki,PROXY

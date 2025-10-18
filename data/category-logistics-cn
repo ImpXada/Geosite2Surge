@@ -177,3 +177,6 @@ DOMAIN-SUFFIX,ztoglobal.com,PROXY
 DOMAIN-SUFFIX,ztogroup.com,PROXY
 DOMAIN-SUFFIX,ztoyh.com,PROXY
 #end include:zto-express
+
+# GUOO国欧物流 粤ICP备2020101377号
+DOMAIN-SUFFIX,guoocang.com,PROXY

@@ -99,6 +99,9 @@ DOMAIN-SUFFIX,csci.hk,PROXY
 DOMAIN,community.oneplus.com,PROXY
 DOMAIN-SUFFIX,supercell.com,PROXY
 DOMAIN-SUFFIX,pingan.com.hk,PROXY
+DOMAIN-SUFFIX,marscode.com,PROXY
+DOMAIN-SUFFIX,trae.ai,PROXY
+DOMAIN-SUFFIX,coze.com,PROXY
 DOMAIN-SUFFIX,cmbi.com.hk,PROXY
 DOMAIN-SUFFIX,cmbwinglungbank.com,PROXY
 DOMAIN-SUFFIX,alibabacloud.co.in,PROXY
@@ -290,6 +293,5 @@ DOMAIN-SUFFIX,byteoversea.net,PROXY
 DOMAIN-SUFFIX,ibytedtos.com,PROXY
 DOMAIN-SUFFIX,ibyteimg.com,PROXY
 DOMAIN,bytedance.map.fastly.net,PROXY
-DOMAIN-SUFFIX,coze.com,PROXY
 DOMAIN-SUFFIX,c.mi.com,PROXY
 DOMAIN-SUFFIX,global.market.xiaomi.com,PROXY

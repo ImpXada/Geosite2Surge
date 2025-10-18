@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,tracker.ai.xiaomi.com,PROXY
 DOMAIN-SUFFIX,tracking.miui.com,PROXY
 #end include:xiaomi-ads
 
+DOMAIN-SUFFIX,mi-idc.com,PROXY
 DOMAIN-SUFFIX,mi-img.com,PROXY
 DOMAIN-SUFFIX,mi.com,PROXY
 DOMAIN-SUFFIX,mifile.cn,PROXY

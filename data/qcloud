@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,acctdns.com,PROXY
 DOMAIN-SUFFIX,acctdns.net,PROXY
 DOMAIN-SUFFIX,aitransfy.com,PROXY
 DOMAIN-SUFFIX,apaas-zone-test.com,PROXY
+DOMAIN-SUFFIX,apdcdn.com,PROXY
+DOMAIN-SUFFIX,apdcdn.net,PROXY
 DOMAIN-SUFFIX,apigwtencent.com,PROXY
 DOMAIN-SUFFIX,bkapigw.com,PROXY
 DOMAIN-SUFFIX,bkapps.com,PROXY
@@ -190,6 +192,7 @@ DOMAIN-SUFFIX,tidaas.com,PROXY
 DOMAIN-SUFFIX,timatrix.com.cn,PROXY
 DOMAIN-SUFFIX,timmerse.com,PROXY
 DOMAIN-SUFFIX,tlivecdn.com,PROXY
+DOMAIN-SUFFIX,tlivemcdn.com,PROXY
 DOMAIN-SUFFIX,tlivepush.com,PROXY
 DOMAIN-SUFFIX,tlivesource.com,PROXY
 DOMAIN-SUFFIX,tourismshow.cn,PROXY
