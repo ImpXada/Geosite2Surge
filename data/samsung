@@ -12,8 +12,13 @@ DOMAIN-SUFFIX,samsung.com,PROXY
 DOMAIN-SUFFIX,samsungads.com,PROXY
 DOMAIN-SUFFIX,samsungapps.com,PROXY
 DOMAIN-SUFFIX,samsungcloud.com,PROXY
+DOMAIN-SUFFIX,samsungconsent.com,PROXY
 DOMAIN-SUFFIX,samsungdm.com,PROXY
 DOMAIN-SUFFIX,samsungeshop.com.cn,PROXY
 DOMAIN-SUFFIX,samsunggalaxyfriends.com,PROXY
+DOMAIN-SUFFIX,samsunghealth.com,PROXY
+DOMAIN-SUFFIX,samsungiotcloud.com,PROXY
 DOMAIN-SUFFIX,samsungknox.com,PROXY
+DOMAIN-SUFFIX,samsungosp.com,PROXY
 DOMAIN-SUFFIX,samsungqbe.com,PROXY
+DOMAIN-SUFFIX,samsungrs.com,PROXY

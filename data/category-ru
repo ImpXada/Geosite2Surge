@@ -166,9 +166,13 @@ DOMAIN-SUFFIX,yamal.ru,PROXY    #Yamal-Nenets Autonomous Area
 #end include:category-gov-ru
 
 #include:mailru
+DOMAIN-SUFFIX,boosty.to,PROXY
+DOMAIN-SUFFIX,donationalerts.com,PROXY
 DOMAIN-SUFFIX,imgsmail.ru,PROXY
 DOMAIN-SUFFIX,mail.ru,PROXY
+DOMAIN-SUFFIX,memealerts.com,PROXY
 DOMAIN-SUFFIX,mycdn.me,PROXY
+DOMAIN-SUFFIX,okcdn.ru,PROXY
 #end include:mailru
 #include:ok
 DOMAIN-SUFFIX,ok.ru,PROXY
@@ -179,6 +183,7 @@ DOMAIN-SUFFIX,ozone.ru,PROXY
 DOMAIN-SUFFIX,ozonusercontent.com,PROXY
 #end include:ozon
 #include:vk
+DOMAIN-SUFFIX,cdn-vk.ru,PROXY
 DOMAIN-SUFFIX,mradx.net,PROXY
 DOMAIN-SUFFIX,mvk.com,PROXY
 DOMAIN-SUFFIX,userapi.com,PROXY
@@ -187,6 +192,7 @@ DOMAIN-SUFFIX,vk-apps.com,PROXY
 DOMAIN-SUFFIX,vk-apps.ru,PROXY
 DOMAIN-SUFFIX,vk-cdn.me,PROXY
 DOMAIN-SUFFIX,vk-cdn.net,PROXY
+DOMAIN-SUFFIX,vkcloud-static.ru,PROXY
 DOMAIN-SUFFIX,vk-portal.net,PROXY
 DOMAIN-SUFFIX,vk.cc,PROXY
 DOMAIN-SUFFIX,vk.com,PROXY

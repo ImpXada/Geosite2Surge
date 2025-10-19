@@ -4,5 +4,7 @@ DOMAIN-SUFFIX,dingtalk.cn,PROXY
 DOMAIN-SUFFIX,dingtalk.com,PROXY
 DOMAIN-SUFFIX,dingtalk.net,PROXY
 DOMAIN-SUFFIX,dingtalkapps.com,PROXY
+DOMAIN-SUFFIX,dingtalkcloud.com,PROXY
 DOMAIN-SUFFIX,laiwang.com,PROXY
 DOMAIN-SUFFIX,lwurl.to,PROXY
+DOMAIN-SUFFIX,ztna-dingtalk.com,PROXY

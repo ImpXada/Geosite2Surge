@@ -276,17 +276,6 @@ DOMAIN-SUFFIX,ger.file.myqcloud.com,PROXY    #法兰克福
 DOMAIN-SUFFIX,rumt-sg.com,PROXY    #新加坡
 DOMAIN-SUFFIX,rumt-us.com,PROXY    #硅谷
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com,PROXY
-DOMAIN-SUFFIX,tencent.co.id,PROXY
-DOMAIN-SUFFIX,tencent.com.hk,PROXY
-DOMAIN-SUFFIX,wetv.vip,PROXY
-DOMAIN-SUFFIX,wetvinfo.com,PROXY
-DOMAIN,wetv.qq.com,PROXY
-DOMAIN-SUFFIX,alihealth.hk,PROXY
-DOMAIN-SUFFIX,aliexpress.ru,PROXY
-DOMAIN-SUFFIX,alipay.hk,PROXY
-DOMAIN-SUFFIX,alipaymo.com,PROXY
-DOMAIN-SUFFIX,tmall.ru,PROXY
-DOMAIN-SUFFIX,fliggy.hk,PROXY
 DOMAIN-SUFFIX,byteglb.com,PROXY
 DOMAIN-SUFFIX,byteoversea.com,PROXY
 DOMAIN-SUFFIX,byteoversea.net,PROXY
@@ -295,3 +284,14 @@ DOMAIN-SUFFIX,ibyteimg.com,PROXY
 DOMAIN,bytedance.map.fastly.net,PROXY
 DOMAIN-SUFFIX,c.mi.com,PROXY
 DOMAIN-SUFFIX,global.market.xiaomi.com,PROXY
+DOMAIN-SUFFIX,alihealth.hk,PROXY
+DOMAIN-SUFFIX,aliexpress.ru,PROXY
+DOMAIN-SUFFIX,alipay.hk,PROXY
+DOMAIN-SUFFIX,alipaymo.com,PROXY
+DOMAIN-SUFFIX,tmall.ru,PROXY
+DOMAIN-SUFFIX,fliggy.hk,PROXY
+DOMAIN-SUFFIX,tencent.co.id,PROXY
+DOMAIN-SUFFIX,tencent.com.hk,PROXY
+DOMAIN-SUFFIX,wetv.vip,PROXY
+DOMAIN-SUFFIX,wetvinfo.com,PROXY
+DOMAIN,wetv.qq.com,PROXY

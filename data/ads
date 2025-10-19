@@ -798,6 +798,6 @@ DOMAIN-SUFFIX,snapads.com,PROXY
 DOMAIN-SUFFIX,spotxchange.com,PROXY
 DOMAIN-SUFFIX,unimhk.com,PROXY
 DOMAIN-SUFFIX,upapi.net,PROXY
-DOMAIN,disney.my.sentry.io,PROXY
 DOMAIN-SUFFIX,clarity.ms,PROXY
 DOMAIN-SUFFIX,nelreports.net,PROXY
+DOMAIN,disney.my.sentry.io,PROXY

@@ -113,6 +113,7 @@ DOMAIN-SUFFIX,jasper.ai,PROXY
 
 DOMAIN-SUFFIX,chutes.ai,PROXY
 DOMAIN-SUFFIX,copilot.microsoft.com,PROXY
+DOMAIN-SUFFIX,diabrowser.com,PROXY
 DOMAIN-SUFFIX,dify.ai,PROXY
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com,PROXY
 DOMAIN-SUFFIX,meta.ai,PROXY

@@ -241,22 +241,6 @@ DOMAIN-SUFFIX,vrzwk.com,PROXY
 DOMAIN-SUFFIX,vrzwk.net,PROXY
 DOMAIN-SUFFIX,vrzwk.top,PROXY
 #end include:vrzwk
-#include:xd
-#include:taptap
-DOMAIN-SUFFIX,tapimg.com,PROXY
-DOMAIN-SUFFIX,tapimg.net,PROXY
-DOMAIN-SUFFIX,taptap.cn,PROXY
-DOMAIN-SUFFIX,taptap.com,PROXY
-DOMAIN-SUFFIX,taptap.io,PROXY
-DOMAIN-SUFFIX,taptapdada.com,PROXY
-#end include:taptap
-
-DOMAIN-SUFFIX,ro.com,PROXY
-DOMAIN-SUFFIX,xd.cn,PROXY
-DOMAIN-SUFFIX,xd.com,PROXY
-DOMAIN-SUFFIX,xdcdn.net,PROXY
-DOMAIN-SUFFIX,xindong.com,PROXY
-#end include:xd
 
 # 刀锋盒子 皖B2-20190103-4
 DOMAIN-SUFFIX,9xgame.com,PROXY
@@ -673,6 +657,33 @@ DOMAIN-SUFFIX,koowo.cn,PROXY
 DOMAIN-SUFFIX,koowo.com,PROXY
 DOMAIN-SUFFIX,kuwo.cn,PROXY
 #end include:kuwo
+#include:le
+#include:letv-ads
+DOMAIN-SUFFIX,api.game.letvstore.com,PROXY
+DOMAIN-SUFFIX,ark.letv.com,PROXY
+DOMAIN-SUFFIX,dc.letv.com,PROXY
+DOMAIN-SUFFIX,fz.letv.com,PROXY
+DOMAIN-SUFFIX,g3.letv.com,PROXY
+DOMAIN-SUFFIX,letv.allyes.com,PROXY
+DOMAIN-SUFFIX,minisite.letv.com,PROXY
+DOMAIN-SUFFIX,msg.m.letv.com,PROXY
+DOMAIN-SUFFIX,n.mark.letv.com,PROXY
+DOMAIN-SUFFIX,pro.hoye.letv.com,PROXY
+DOMAIN-SUFFIX,pro.letv.com,PROXY
+DOMAIN-SUFFIX,stat.letv.com,PROXY
+DOMAIN-SUFFIX,static.app.m.letv.com,PROXY
+#end include:letv-ads
+
+DOMAIN-SUFFIX,le.com,PROXY
+DOMAIN-SUFFIX,leautolink.com,PROXY
+DOMAIN-SUFFIX,lecloud.com,PROXY
+DOMAIN-SUFFIX,lecloudapi.com,PROXY
+DOMAIN-SUFFIX,lemall.com,PROXY
+DOMAIN-SUFFIX,leso.cn,PROXY
+DOMAIN-SUFFIX,letv.com,PROXY
+DOMAIN-SUFFIX,letvcdn.com,PROXY
+DOMAIN-SUFFIX,letvimg.com,PROXY
+#end include:le
 #include:lizhi
 DOMAIN-SUFFIX,lizhi.fm,PROXY
 DOMAIN-SUFFIX,lizhifm.com,PROXY
@@ -791,6 +802,19 @@ DOMAIN-SUFFIX,wasu.cn,PROXY
 DOMAIN-SUFFIX,wasu.tv,PROXY
 DOMAIN-SUFFIX,wasumedia.cn,PROXY
 #end include:wasu
+#include:xiaoheihe
+# 清枫（北京）科技有限公司
+# 京ICP备15018522号
+
+DOMAIN-SUFFIX,1xhh.cn,PROXY
+DOMAIN-SUFFIX,accxiaoheihe.com,PROXY
+DOMAIN-SUFFIX,chat.top,PROXY
+DOMAIN-SUFFIX,debugmode.cn,PROXY
+DOMAIN-SUFFIX,max-c.com,PROXY
+DOMAIN-SUFFIX,maxadmin.cn,PROXY
+DOMAIN-SUFFIX,maxjia.com,PROXY
+DOMAIN-SUFFIX,xiaoheihe.cn,PROXY
+#end include:xiaoheihe
 #include:ximalaya
 DOMAIN-SUFFIX,ximalaya.com,PROXY
 DOMAIN-SUFFIX,xmcdn.com,PROXY

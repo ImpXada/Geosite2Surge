@@ -238,22 +238,6 @@ DOMAIN-SUFFIX,vrzwk.com,PROXY
 DOMAIN-SUFFIX,vrzwk.net,PROXY
 DOMAIN-SUFFIX,vrzwk.top,PROXY
 #end include:vrzwk
-#include:xd
-#include:taptap
-DOMAIN-SUFFIX,tapimg.com,PROXY
-DOMAIN-SUFFIX,tapimg.net,PROXY
-DOMAIN-SUFFIX,taptap.cn,PROXY
-DOMAIN-SUFFIX,taptap.com,PROXY
-DOMAIN-SUFFIX,taptap.io,PROXY
-DOMAIN-SUFFIX,taptapdada.com,PROXY
-#end include:taptap
-
-DOMAIN-SUFFIX,ro.com,PROXY
-DOMAIN-SUFFIX,xd.cn,PROXY
-DOMAIN-SUFFIX,xd.com,PROXY
-DOMAIN-SUFFIX,xdcdn.net,PROXY
-DOMAIN-SUFFIX,xindong.com,PROXY
-#end include:xd
 
 # 刀锋盒子 皖B2-20190103-4
 DOMAIN-SUFFIX,9xgame.com,PROXY

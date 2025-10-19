@@ -593,6 +593,8 @@ DOMAIN-SUFFIX,wukongwenda.cn,PROXY
 DOMAIN-SUFFIX,wukongwenda.com,PROXY
 
 # 懂车帝
+#include:dongchedi
+# 渝ICP备2023013619号
 DOMAIN-SUFFIX,dcarapi.com,PROXY
 DOMAIN-SUFFIX,dcarimg.com,PROXY
 DOMAIN-SUFFIX,dcarlive.com,PROXY
@@ -601,6 +603,7 @@ DOMAIN-SUFFIX,dcarvod.com,PROXY
 DOMAIN-SUFFIX,dcdapp.com,PROXY
 DOMAIN-SUFFIX,dongchedi.com,PROXY
 DOMAIN-SUFFIX,dongchediapp.com,PROXY
+#end include:dongchedi
 
 # 阳关宽频网
 DOMAIN-SUFFIX,365yg.com,PROXY

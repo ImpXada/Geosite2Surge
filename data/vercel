@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,vercel-status.com,PROXY
 DOMAIN-SUFFIX,vercel.app,PROXY
 DOMAIN-SUFFIX,vercel.blog,PROXY
 DOMAIN-SUFFIX,vercel.com,PROXY
+DOMAIN-SUFFIX,vercel.dev,PROXY
 DOMAIN-SUFFIX,vercel.events,PROXY
 DOMAIN-SUFFIX,vercel.live,PROXY
 DOMAIN-SUFFIX,vercel.pub,PROXY

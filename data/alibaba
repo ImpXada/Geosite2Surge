@@ -131,8 +131,11 @@ DOMAIN-SUFFIX,aliyun-inc.com,PROXY
 DOMAIN-SUFFIX,aliyun-iot-share.com,PROXY
 DOMAIN-SUFFIX,aliyun.com,PROXY
 DOMAIN-SUFFIX,aliyuncdn.com,PROXY
+DOMAIN-SUFFIX,aliyuncdn.net,PROXY
 DOMAIN-SUFFIX,aliyunfile.com,PROXY
+DOMAIN-SUFFIX,aliyunpds.com,PROXY
 DOMAIN-SUFFIX,cdngslb.com,PROXY
+DOMAIN-SUFFIX,fcapp.run,PROXY
 DOMAIN-SUFFIX,hichina.com,PROXY
 DOMAIN-SUFFIX,ica-alliance.org,PROXY
 DOMAIN-SUFFIX,kunlunaq.com,PROXY
@@ -208,8 +211,10 @@ DOMAIN-SUFFIX,dingtalk.cn,PROXY
 DOMAIN-SUFFIX,dingtalk.com,PROXY
 DOMAIN-SUFFIX,dingtalk.net,PROXY
 DOMAIN-SUFFIX,dingtalkapps.com,PROXY
+DOMAIN-SUFFIX,dingtalkcloud.com,PROXY
 DOMAIN-SUFFIX,laiwang.com,PROXY
 DOMAIN-SUFFIX,lwurl.to,PROXY
+DOMAIN-SUFFIX,ztna-dingtalk.com,PROXY
 #end include:dingtalk
 #include:eleme
 DOMAIN-SUFFIX,doservice.com,PROXY
@@ -232,24 +237,6 @@ DOMAIN-SUFFIX,uc123.com,PROXY
 DOMAIN-SUFFIX,ucweb.com,PROXY
 DOMAIN-SUFFIX,uczzd.cn,PROXY
 #end include:uc
-#include:umeng
-DOMAIN-SUFFIX,mobmore.com,PROXY
-DOMAIN-SUFFIX,umeng.com,PROXY
-DOMAIN-SUFFIX,umengcloud.com,PROXY
-DOMAIN-SUFFIX,umsns.com,PROXY
-DOMAIN-SUFFIX,umtrack.com,PROXY
-DOMAIN-SUFFIX,uyunad.com,PROXY
-DOMAIN-SUFFIX,whalecloud.com,PROXY
-
-#include:umeng-ads
-DOMAIN-SUFFIX,alog.umeng.com,PROXY
-DOMAIN-SUFFIX,alog.umengcloud.com,PROXY
-
-# CNZZ
-DOMAIN-SUFFIX,w.cnzz.com,PROXY
-DOMAIN-SUFFIX,z.gds.cnzz.com,PROXY
-#end include:umeng-ads
-#end include:umeng
 
 DOMAIN-SUFFIX,25pp.com,PROXY
 DOMAIN-SUFFIX,56che.com,PROXY
@@ -450,3 +437,12 @@ DOMAIN-SUFFIX,goofish.com,PROXY
 # 考拉
 DOMAIN-SUFFIX,kaola.com,PROXY
 DOMAIN-SUFFIX,kaolacdn.com,PROXY
+
+# 瓴羊
+DOMAIN-SUFFIX,lydaas.cn,PROXY
+DOMAIN-SUFFIX,lydaas.com,PROXY
+DOMAIN-SUFFIX,lydaas.com.cn,PROXY
+DOMAIN-SUFFIX,lydaas.net,PROXY
+DOMAIN-SUFFIX,lydass.cn,PROXY
+DOMAIN-SUFFIX,lydass.com.cn,PROXY
+DOMAIN-SUFFIX,lydass.net,PROXY

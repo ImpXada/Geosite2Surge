@@ -1696,8 +1696,9 @@ DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn,PROXY    #苹果专卖店.cn
 DOMAIN-SUFFIX,xn--ruq8a011kt6y.xn--hxt814e,PROXY    #苹果保修.网店
 
 DOMAIN,apple.com.akadns.net,PROXY
-DOMAIN,courier-push-apple.com.akadns.net,PROXY
+DOMAIN,configuration-lb.ls-apple.com.akadns.net,PROXY
 DOMAIN,push-apple.com.akadns.net,PROXY
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net,PROXY
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:apple@cn"
@@ -1807,12 +1808,9 @@ DOMAIN,s5.mzstatic.com,PROXY
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
 # Revision: 4d392cc0a822ac5626bb97fef3fe5e04e86b28b0
+# Duplicates removed
+# According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
-DOMAIN,a1.mzstatic.com,PROXY
-DOMAIN,a2.mzstatic.com,PROXY
-DOMAIN,a3.mzstatic.com,PROXY
-DOMAIN,a4.mzstatic.com,PROXY
-DOMAIN,a5.mzstatic.com,PROXY
 DOMAIN,adcdownload.apple.com,PROXY
 DOMAIN,adcdownload.apple.com.akadns.net,PROXY
 DOMAIN,amp-api-updates.apps.apple.com,PROXY
@@ -1821,34 +1819,15 @@ DOMAIN,app-site-association.cdn-apple.com,PROXY
 DOMAIN,appldnld.apple.com,PROXY
 DOMAIN,appldnld.g.aaplimg.com,PROXY
 DOMAIN,appleid.cdn-apple.com,PROXY
-# According to the consensus in #503, do not include the domain name apps.apple.com directly.
 DOMAIN,apps.mzstatic.com,PROXY
 DOMAIN,bag-cdn.itunes-apple.com.akadns.net,PROXY
-DOMAIN,cdn-cn1.apple-mapkit.com,PROXY
-DOMAIN,cdn-cn2.apple-mapkit.com,PROXY
-DOMAIN,cdn-cn3.apple-mapkit.com,PROXY
-DOMAIN,cdn-cn4.apple-mapkit.com,PROXY
-DOMAIN,cdn.apple-mapkit.com,PROXY
-DOMAIN,cdn1.apple-mapkit.com,PROXY
-DOMAIN,cdn2.apple-mapkit.com,PROXY
-DOMAIN,cdn3.apple-mapkit.com,PROXY
-DOMAIN,cdn4.apple-mapkit.com,PROXY
 DOMAIN,cds-cdn.v.aaplimg.com,PROXY
 DOMAIN,cds.apple.com,PROXY
 DOMAIN,cds.apple.com.akadns.net,PROXY
 DOMAIN,cdsassets.apple.com,PROXY
 DOMAIN,certs.apple.com,PROXY
-DOMAIN,cl1-cdn.origin-apple.com.akadns.net,PROXY
-DOMAIN,cl1.apple.com,PROXY
 DOMAIN,cl2-cn.apple.com,PROXY
-DOMAIN,cl2.apple.com,PROXY
-DOMAIN,cl3-cdn.origin-apple.com.akadns.net,PROXY
-DOMAIN,cl3.apple.com,PROXY
-DOMAIN,cl4-cdn.origin-apple.com.akadns.net,PROXY
 DOMAIN,cl4-cn.apple.com,PROXY
-DOMAIN,cl4.apple.com,PROXY
-DOMAIN,cl5-cdn.origin-apple.com.akadns.net,PROXY
-DOMAIN,cl5.apple.com,PROXY
 DOMAIN,clientflow.apple.com,PROXY
 DOMAIN,clientflow.apple.com.akadns.net,PROXY
 DOMAIN,cn-smp-paymentservices.apple.com,PROXY
@@ -1883,7 +1862,6 @@ DOMAIN,gspe79-cn-ssl.ls.apple.com,PROXY
 DOMAIN,guzzoni-apple-com.v.aaplimg.com,PROXY
 DOMAIN,guzzoni.apple.com,PROXY
 DOMAIN,guzzoni.smoot.apple.com,PROXY
-# full:iadsdk.apple.com has already been defined in apple-ads
 DOMAIN,icloud-cdn.icloud.com.akadns.net,PROXY
 DOMAIN,icloud.cdn-apple.com,PROXY
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net,PROXY
@@ -1900,16 +1878,6 @@ DOMAIN,ipcdn.apple.com,PROXY
 DOMAIN,iphone-ld.apple.com,PROXY
 DOMAIN,iphone-ld.origin-apple.com.akadns.net,PROXY
 DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net,PROXY
-DOMAIN,is1-ssl.mzstatic.com,PROXY
-DOMAIN,is1.mzstatic.com,PROXY
-DOMAIN,is2-ssl.mzstatic.com,PROXY
-DOMAIN,is2.mzstatic.com,PROXY
-DOMAIN,is3-ssl.mzstatic.com,PROXY
-DOMAIN,is3.mzstatic.com,PROXY
-DOMAIN,is4-ssl.mzstatic.com,PROXY
-DOMAIN,is4.mzstatic.com,PROXY
-DOMAIN,is5-ssl.mzstatic.com,PROXY
-DOMAIN,is5.mzstatic.com,PROXY
 DOMAIN,itunes-apple.com.akadns.net,PROXY
 DOMAIN,itunes.apple.com,PROXY
 DOMAIN,itunesconnect.apple.com,PROXY
@@ -1932,7 +1900,6 @@ DOMAIN,probe.siri.apple.com,PROXY
 DOMAIN,prod-support.apple-support.akadns.net,PROXY
 DOMAIN,publicassets.cdn-apple.com,PROXY
 DOMAIN,reserve-prime.apple.com,PROXY
-DOMAIN,s.mzstatic.com,PROXY
 DOMAIN,seed-sequoia.siri.apple.com,PROXY
 DOMAIN,seed-swallow.siri.apple.com,PROXY
 DOMAIN,seed.siri.apple.com,PROXY

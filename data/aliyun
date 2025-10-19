@@ -8,8 +8,11 @@ DOMAIN-SUFFIX,aliyun-inc.com,PROXY
 DOMAIN-SUFFIX,aliyun-iot-share.com,PROXY
 DOMAIN-SUFFIX,aliyun.com,PROXY
 DOMAIN-SUFFIX,aliyuncdn.com,PROXY
+DOMAIN-SUFFIX,aliyuncdn.net,PROXY
 DOMAIN-SUFFIX,aliyunfile.com,PROXY
+DOMAIN-SUFFIX,aliyunpds.com,PROXY
 DOMAIN-SUFFIX,cdngslb.com,PROXY
+DOMAIN-SUFFIX,fcapp.run,PROXY
 DOMAIN-SUFFIX,hichina.com,PROXY
 DOMAIN-SUFFIX,ica-alliance.org,PROXY
 DOMAIN-SUFFIX,kunlunaq.com,PROXY
