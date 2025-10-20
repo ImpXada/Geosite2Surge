@@ -6443,6 +6443,7 @@ DOMAIN-SUFFIX,spotifycodes.com,PROXY
 DOMAIN-SUFFIX,spotifyforbrands.com,PROXY
 DOMAIN-SUFFIX,spotifyjobs.com,PROXY
 DOMAIN-SUFFIX,spotify.link,PROXY
+DOMAIN-SUFFIX,tospotify.com,PROXY
 
 DOMAIN,audio-ak-spotify-com.akamaized.net,PROXY
 DOMAIN,audio4-ak-spotify-com.akamaized.net,PROXY
@@ -6887,6 +6888,8 @@ DOMAIN-SUFFIX,imgurinc.com,PROXY
 #include:pikpak
 DOMAIN-SUFFIX,mypikpak.com,PROXY
 DOMAIN-SUFFIX,mypikpak.net,PROXY
+DOMAIN-SUFFIX,pickpackapp.com,PROXY
+DOMAIN-SUFFIX,pikpak.io,PROXY
 DOMAIN-SUFFIX,pikpak.me,PROXY
 DOMAIN-SUFFIX,pikpakdrive.com,PROXY
 
@@ -23853,28 +23856,21 @@ DOMAIN,download.visualstudio.microsoft.com,PROXY
 DOMAIN,f.c2r.ts.cdn.office.net,PROXY
 DOMAIN,fs.microsoft.com,PROXY
 DOMAIN,learn.microsoft.com,PROXY
-DOMAIN,msgr.dlservice.microsoft.com,PROXY
-DOMAIN,msgruser.dlservice.microsoft.com,PROXY
 DOMAIN,myvs.download.prss.microsoft.com,PROXY
 DOMAIN,oemsoc.download.prss.microsoft.com,PROXY
 DOMAIN,officecdn.microsoft.com,PROXY
-DOMAIN,qh.dlservice.microsoft.com,PROXY
 DOMAIN,res-1.cdn.office.net,PROXY
 DOMAIN,res.cdn.office.net,PROXY
 DOMAIN,sdx.microsoft.com,PROXY
 DOMAIN,shell.cdn.office.net,PROXY
-DOMAIN,silverlight.dlservice.microsoft.com,PROXY
-DOMAIN,slupdate.dlservice.microsoft.com,PROXY
 DOMAIN,software.download.prss.microsoft.com,PROXY
 DOMAIN,statics.teams.cdn.office.net,PROXY
 DOMAIN,storeedgefd.dsx.mp.microsoft.com,PROXY
 DOMAIN,surface.downloads.prss.microsoft.com,PROXY
 DOMAIN,vscode.download.prss.microsoft.com,PROXY
 DOMAIN,vz.download.prss.microsoft.com,PROXY
-DOMAIN,wl.dlservice.microsoft.com,PROXY
 DOMAIN,wscont1.apps.microsoft.com,PROXY
 DOMAIN,wscont2.apps.microsoft.com,PROXY
-DOMAIN,xb.dlservice.microsoft.com,PROXY
 
 DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net,PROXY
 DOMAIN,img-s-msn-com.akamaized.net,PROXY

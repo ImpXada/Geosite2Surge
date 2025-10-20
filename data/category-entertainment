@@ -1398,6 +1398,7 @@ DOMAIN-SUFFIX,spotifycodes.com,PROXY
 DOMAIN-SUFFIX,spotifyforbrands.com,PROXY
 DOMAIN-SUFFIX,spotifyjobs.com,PROXY
 DOMAIN-SUFFIX,spotify.link,PROXY
+DOMAIN-SUFFIX,tospotify.com,PROXY
 
 DOMAIN,audio-ak-spotify-com.akamaized.net,PROXY
 DOMAIN,audio4-ak-spotify-com.akamaized.net,PROXY
