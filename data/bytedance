@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,i.snssdk.com,PROXY
 DOMAIN-SUFFIX,mcs.snssdk.com,PROXY
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com,PROXY
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com,PROXY
+DOMAIN-SUFFIX,pangolin-hl.snssdk.com,PROXY
+DOMAIN-SUFFIX,pangolin-lf.snssdk.com,PROXY
+DOMAIN-SUFFIX,pangolin-lq.snssdk.com,PROXY
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,PROXY
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,PROXY
 DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com,PROXY

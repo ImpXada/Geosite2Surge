@@ -1,3 +1,4 @@
+#include:kugou-ads
 DOMAIN-SUFFIX,ads.service.kugou.com,PROXY
 DOMAIN-SUFFIX,adserviceretry.kglink.cn,PROXY
 DOMAIN-SUFFIX,adserviceretry.kugou.com,PROXY

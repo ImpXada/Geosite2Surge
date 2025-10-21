@@ -180,7 +180,6 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | books | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/books |
 | boomerang | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/boomerang |
 | bootcdn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bootcdn |
-| bootcss | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bootcss |
 | bootstrap | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bootstrap |
 | borneoschematics | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/borneoschematics |
 | boslife | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/boslife |

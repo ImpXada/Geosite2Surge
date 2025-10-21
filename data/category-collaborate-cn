@@ -9,6 +9,12 @@ DOMAIN-SUFFIX,sunlogin.net,PROXY
 ## ToDesk
 DOMAIN-SUFFIX,todesk.com,PROXY
 
+## 连连控
+DOMAIN-SUFFIX,asklink.com,PROXY
+
+## 叮当猫脚本管理系统 懒人精灵远程调试
+DOMAIN-SUFFIX,privateapi.xyz,PROXY
+
 # Tower 团队协作
 DOMAIN-SUFFIX,tower.im,PROXY
 

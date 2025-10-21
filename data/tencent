@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,ad.qq.com,PROXY
 DOMAIN-SUFFIX,ad.qun.qq.com,PROXY
 DOMAIN-SUFFIX,adfilter.imtt.qq.com,PROXY
+DOMAIN-SUFFIX,adnet.qq.com,PROXY
 DOMAIN-SUFFIX,adping.qq.com,PROXY
 DOMAIN-SUFFIX,adpm.app.qq.com,PROXY
 DOMAIN-SUFFIX,adsclick.qq.com,PROXY

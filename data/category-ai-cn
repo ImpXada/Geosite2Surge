@@ -1,5 +1,4 @@
 # DeepSeek
-#include:deepseek
 # Main domain
 DOMAIN-SUFFIX,deepseek.com,PROXY
 #end include:deepseek
@@ -22,7 +21,6 @@ DOMAIN-SUFFIX,yiyan.baidu.com,PROXY
 DOMAIN-SUFFIX,tiangong.cn,PROXY
 
 # 字节跳动：豆包、Trae(MarsCode)
-#include:doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
 DOMAIN-SUFFIX,butterfly-static.cn,PROXY
 DOMAIN-SUFFIX,butterflyai.cn,PROXY
@@ -41,7 +39,6 @@ DOMAIN-SUFFIX,pixeldance.com,PROXY
 
 DOMAIN-SUFFIX,coze.com,PROXY
 #end include:doubao
-#include:trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
 DOMAIN-SUFFIX,doudou.com,PROXY
 DOMAIN-SUFFIX,marscode.cn,PROXY

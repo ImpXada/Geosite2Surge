@@ -360,3 +360,6 @@ DOMAIN-SUFFIX,idcquan.com,PROXY
 
 # 站长网
 DOMAIN-SUFFIX,admin5.com,PROXY
+
+# 江西省出版传媒集团
+DOMAIN-SUFFIX,jxpp.com,PROXY

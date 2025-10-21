@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,yeah.net,PROXY
 DOMAIN-SUFFIX,youdao.com,PROXY
 DOMAIN-SUFFIX,zhuanzfx.com,PROXY
 
-#include:netease-ads
 DOMAIN-SUFFIX,a.youdao.com,PROXY
 DOMAIN-SUFFIX,admusicpic.music.126.net,PROXY
 DOMAIN-SUFFIX,ads.music.126.net,PROXY

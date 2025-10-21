@@ -8,6 +8,11 @@ DOMAIN-SUFFIX,szse.cn,PROXY
 DOMAIN-SUFFIX,cninfo.com.cn,PROXY
 
 # Securities Company 证券公司
+#include:hsbc-cn
+DOMAIN-SUFFIX,hsbc.com.cn,PROXY
+DOMAIN-SUFFIX,hsbcqh.com.cn,PROXY
+DOMAIN-SUFFIX,hsbcinsurance.com.cn,PROXY
+#end include:hsbc-cn
 DOMAIN-SUFFIX,ajzq.com,PROXY
 DOMAIN-SUFFIX,avicsec.com,PROXY
 DOMAIN-SUFFIX,ccnew.com,PROXY
@@ -49,7 +54,6 @@ DOMAIN-SUFFIX,grzq.com,PROXY
 DOMAIN-SUFFIX,gsgh.cn,PROXY
 DOMAIN-SUFFIX,gszq.com,PROXY
 DOMAIN-SUFFIX,gtja.com,PROXY
-DOMAIN-SUFFIX,gtja.com,PROXY
 DOMAIN-SUFFIX,guodu.com,PROXY
 DOMAIN-SUFFIX,guosen.com.cn,PROXY
 DOMAIN-SUFFIX,gyzq.com.cn,PROXY
@@ -59,7 +63,6 @@ DOMAIN-SUFFIX,hfzq.com.cn,PROXY
 DOMAIN-SUFFIX,hlzqgs.com,PROXY
 DOMAIN-SUFFIX,hongtastock.com,PROXY
 DOMAIN-SUFFIX,hrsec.com.cn,PROXY
-DOMAIN-SUFFIX,hsbcqh.com.cn,PROXY
 DOMAIN-SUFFIX,htsc.com.cn,PROXY
 DOMAIN-SUFFIX,htsec.com,PROXY
 DOMAIN-SUFFIX,huajingsec.com,PROXY

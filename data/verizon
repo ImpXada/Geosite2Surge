@@ -1,3 +1,5 @@
+#include:yahoo
+#include:flickr
 # All .flickr domains
 DOMAIN-SUFFIX,flickr,PROXY
 
@@ -6,6 +8,7 @@ DOMAIN-SUFFIX,flickr.com,PROXY
 DOMAIN-SUFFIX,flickr.net,PROXY
 DOMAIN-SUFFIX,staticflickr.com,PROXY
 #end include:flickr
+#include:yahoo-ads
 DOMAIN-SUFFIX,ads.yahoo.com,PROXY
 DOMAIN-SUFFIX,gemini.yahoo.com,PROXY
 DOMAIN-SUFFIX,ysm.yahoo.com,PROXY

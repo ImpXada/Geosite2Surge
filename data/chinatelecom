@@ -1,3 +1,4 @@
+#include:ctexcel
 DOMAIN-SUFFIX,ctexcel.ca,PROXY
 DOMAIN-SUFFIX,ctexcel.com,PROXY
 DOMAIN-SUFFIX,ctexcel.com.hk,PROXY

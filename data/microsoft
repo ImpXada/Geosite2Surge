@@ -198,6 +198,7 @@ DOMAIN,bj1.api.bing.com,PROXY
 DOMAIN,emoi-cncdn.bing.com,PROXY
 #end include:bing
 #include:github
+#include:npmjs
 DOMAIN-SUFFIX,npm.community,PROXY
 DOMAIN-SUFFIX,npmjs.com,PROXY
 DOMAIN-SUFFIX,npmjs.org,PROXY
@@ -353,6 +354,66 @@ DOMAIN-SUFFIX,onedrive.org,PROXY
 DOMAIN-SUFFIX,onedrive.live.com,PROXY
 DOMAIN-SUFFIX,storage.live.com,PROXY
 #end include:onedrive
+#include:xbox
+DOMAIN-SUFFIX,asobostudio.com,PROXY
+DOMAIN-SUFFIX,flightsimulator.com,PROXY
+
+DOMAIN,flightsimulator.azureedge.net,PROXY
+#end include:asobo
+DOMAIN-SUFFIX,beth.games,PROXY
+DOMAIN-SUFFIX,bethesda.net,PROXY
+DOMAIN-SUFFIX,bethesdagamestudios.com,PROXY
+DOMAIN-SUFFIX,bethsoft.com,PROXY
+
+# Doom
+DOMAIN-SUFFIX,doom.com,PROXY
+
+# The Elder Scrolls
+DOMAIN-SUFFIX,elderscrolls.com,PROXY
+#end include:bethesda
+DOMAIN-SUFFIX,forza.net,PROXY
+DOMAIN-SUFFIX,forzamotorsport.net,PROXY
+DOMAIN-SUFFIX,forzaracingchampionship.com,PROXY
+DOMAIN-SUFFIX,forzarc.com,PROXY
+
+DOMAIN,prodforza.blob.core.windows.net,PROXY
+#end include:forza
+DOMAIN-SUFFIX,callersbane.com,PROXY
+DOMAIN-SUFFIX,minecraft-services.net,PROXY
+DOMAIN-SUFFIX,minecraft.net,PROXY
+DOMAIN-SUFFIX,minecraftservices.com,PROXY
+DOMAIN-SUFFIX,minecraftshop.com,PROXY
+DOMAIN-SUFFIX,mojang.com,PROXY
+#end include:mojang
+
+# All .xbox domains
+DOMAIN-SUFFIX,xbox,PROXY
+
+DOMAIN-SUFFIX,gamepass.com,PROXY
+DOMAIN-SUFFIX,orithegame.com,PROXY
+DOMAIN-SUFFIX,renovacionxboxlive.com,PROXY
+DOMAIN-SUFFIX,tellmewhygame.com,PROXY
+DOMAIN-SUFFIX,xbox.co,PROXY
+DOMAIN-SUFFIX,xbox.com,PROXY
+DOMAIN-SUFFIX,xbox.eu,PROXY
+DOMAIN-SUFFIX,xbox.org,PROXY
+DOMAIN-SUFFIX,xbox360.co,PROXY
+DOMAIN-SUFFIX,xbox360.com,PROXY
+DOMAIN-SUFFIX,xbox360.eu,PROXY
+DOMAIN-SUFFIX,xbox360.org,PROXY
+DOMAIN-SUFFIX,xboxab.com,PROXY
+DOMAIN-SUFFIX,xboxgamepass.com,PROXY
+DOMAIN-SUFFIX,xboxgamestudios.com,PROXY
+DOMAIN-SUFFIX,xboxlive.cn,PROXY
+DOMAIN-SUFFIX,xboxlive.com,PROXY
+DOMAIN-SUFFIX,xboxone.co,PROXY
+DOMAIN-SUFFIX,xboxone.com,PROXY
+DOMAIN-SUFFIX,xboxone.eu,PROXY
+DOMAIN-SUFFIX,xboxplayanywhere.com,PROXY
+DOMAIN-SUFFIX,xboxservices.com,PROXY
+DOMAIN-SUFFIX,xboxstudios.com,PROXY
+DOMAIN-SUFFIX,xbx.lv,PROXY
+#end include:xbox
 
 # All .microsoft domains
 DOMAIN-SUFFIX,microsoft,PROXY

@@ -136,6 +136,7 @@ DOMAIN-SUFFIX,tx.me,PROXY
 DOMAIN-SUFFIX,usercontent.dev,PROXY
 #end include:telegram
 #include:whatsapp
+#include:whatsapp-ads
 DOMAIN-SUFFIX,graph.whatsapp.com,PROXY
 DOMAIN-SUFFIX,graph.whatsapp.net,PROXY
 #end include:whatsapp-ads

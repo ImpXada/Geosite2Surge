@@ -250,6 +250,7 @@ DOMAIN-SUFFIX,gitbook.com,PROXY
 DOMAIN-SUFFIX,gitbook.io,PROXY
 #end include:gitbook
 #include:github
+#include:npmjs
 DOMAIN-SUFFIX,npm.community,PROXY
 DOMAIN-SUFFIX,npmjs.com,PROXY
 DOMAIN-SUFFIX,npmjs.org,PROXY
@@ -587,9 +588,32 @@ DOMAIN-SUFFIX,termux.com,PROXY
 DOMAIN-SUFFIX,termux.dev,PROXY
 DOMAIN-SUFFIX,termux.org,PROXY
 #end include:termux
+#include:thelinuxfoundation
+#include:kernel
+DOMAIN-SUFFIX,kernel.org,PROXY
+#end include:kernel
+#include:linux
+DOMAIN-SUFFIX,linux.org,PROXY
+#end include:linux
+
+DOMAIN-SUFFIX,lfai.foundation,PROXY
+DOMAIN-SUFFIX,linuxfoundation.org,PROXY
+#end include:thelinuxfoundation
 #include:topcoder
 DOMAIN-SUFFIX,topcoder.com,PROXY
 #end include:topcoder
+#include:unity
+DOMAIN-SUFFIX,unity.com,PROXY
+DOMAIN-SUFFIX,unity3d.com,PROXY
+
+DOMAIN-SUFFIX,ads.unitychina.cn,PROXY
+DOMAIN-SUFFIX,splash-ads.cdn.unity.cn,PROXY
+DOMAIN-SUFFIX,splash-ads.unitychina.cn,PROXY
+DOMAIN-SUFFIX,unityads.unity.cn,PROXY
+DOMAIN-SUFFIX,unityads.unity3d.com,PROXY
+DOMAIN-SUFFIX,unityads.unitychina.cn,PROXY
+#end include:unity-ads
+#end include:unity
 #include:v8
 DOMAIN-SUFFIX,v8.dev,PROXY
 DOMAIN-SUFFIX,v8project.org,PROXY

@@ -1,2 +1,9 @@
 DOMAIN-SUFFIX,bootcdn.cn,PROXY
 DOMAIN-SUFFIX,bootcdn.net,PROXY
+
+# BootCSS
+DOMAIN-SUFFIX,bootcss.com,PROXY
+
+# Packagist / Composer
+DOMAIN-SUFFIX,phpcomposer.com,PROXY
+

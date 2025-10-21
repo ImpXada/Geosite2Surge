@@ -63,237 +63,6 @@ DOMAIN-SUFFIX,worldflipper.jp,PROXY
 DOMAIN-SUFFIX,worldflipper.akamaized.net,PROXY
 DOMAIN-SUFFIX,umamusume.akamaized.net,PROXY
 #end include:cygames
-#include:ea
-DOMAIN-SUFFIX,dawngate.com,PROXY
-DOMAIN-SUFFIX,eastore.com,PROXY
-DOMAIN-SUFFIX,lordofultima.com,PROXY
-DOMAIN-SUFFIX,origin.com,PROXY
-DOMAIN-SUFFIX,origin.tv,PROXY
-
-DOMAIN,cloudsync-prod.s3.amazonaws.com,PROXY
-DOMAIN,origin-a.akamaihd.net,PROXY
-DOMAIN,rtm.tnt-ea.com,PROXY
-DOMAIN,ssl-lvlt.cdn.ea.com,PROXY
-#end include:origin
-
-DOMAIN-SUFFIX,awayoutgame.com,PROXY
-DOMAIN-SUFFIX,battlefieldbadcompany2.com,PROXY
-DOMAIN-SUFFIX,battlefront2.com,PROXY
-DOMAIN-SUFFIX,battlefrontii.com,PROXY
-DOMAIN-SUFFIX,bejewled-stars.com,PROXY
-DOMAIN-SUFFIX,bejeweledstars.com,PROXY
-DOMAIN-SUFFIX,capitalgames.com,PROXY
-DOMAIN-SUFFIX,chillingo.com,PROXY
-DOMAIN-SUFFIX,commandandconquer.com,PROXY
-DOMAIN-SUFFIX,conquerwithcharacter.com,PROXY
-DOMAIN-SUFFIX,crysis.jp,PROXY
-DOMAIN-SUFFIX,dawngate.com,PROXY
-DOMAIN-SUFFIX,dawngatechronicles.com,PROXY
-DOMAIN-SUFFIX,dicela.com,PROXY
-DOMAIN-SUFFIX,dicela.net,PROXY
-DOMAIN-SUFFIX,ea-anz-press.com,PROXY
-DOMAIN-SUFFIX,ea.com,PROXY
-DOMAIN-SUFFIX,eaaccess.com,PROXY
-DOMAIN-SUFFIX,eacashcard.com,PROXY
-DOMAIN-SUFFIX,eacodigos.com,PROXY
-DOMAIN-SUFFIX,eakorea.co.kr,PROXY
-DOMAIN-SUFFIX,eamobile.com,PROXY
-DOMAIN-SUFFIX,eanordic.com,PROXY
-DOMAIN-SUFFIX,eaplay.com,PROXY
-DOMAIN-SUFFIX,easports.com,PROXY
-DOMAIN-SUFFIX,easports.jp,PROXY
-DOMAIN-SUFFIX,easportsactive.com,PROXY
-DOMAIN-SUFFIX,easportsactiveonline.com,PROXY
-DOMAIN-SUFFIX,easportsfootball.com,PROXY
-DOMAIN-SUFFIX,easportsfootballclub.com,PROXY
-DOMAIN-SUFFIX,easportsmma.com,PROXY
-DOMAIN-SUFFIX,easportsworld.com,PROXY
-DOMAIN-SUFFIX,electronicarts.com,PROXY
-DOMAIN-SUFFIX,electronicarts.fr,PROXY
-DOMAIN-SUFFIX,futpromos.com,PROXY
-DOMAIN-SUFFIX,futunited.com,PROXY
-DOMAIN-SUFFIX,ghostgames.com,PROXY
-DOMAIN-SUFFIX,heroesofdragonage.com,PROXY
-DOMAIN-SUFFIX,hutpromos.com,PROXY
-DOMAIN-SUFFIX,maddenchampionship.com,PROXY
-DOMAIN-SUFFIX,maddenrewards.com,PROXY
-DOMAIN-SUFFIX,maddenseason.info,PROXY
-DOMAIN-SUFFIX,maddenseason.net,PROXY
-DOMAIN-SUFFIX,maddenseason.org,PROXY
-DOMAIN-SUFFIX,maxis.com,PROXY
-DOMAIN-SUFFIX,mysimsracing.com,PROXY
-DOMAIN-SUFFIX,play4free.com,PROXY
-DOMAIN-SUFFIX,playapex.com,PROXY
-DOMAIN-SUFFIX,pogo.com,PROXY
-DOMAIN-SUFFIX,pogobeta.com,PROXY
-DOMAIN-SUFFIX,popcap.com,PROXY
-DOMAIN-SUFFIX,projectapex.com,PROXY
-DOMAIN-SUFFIX,pvzheroes.com,PROXY
-DOMAIN-SUFFIX,spearhead.kr,PROXY
-DOMAIN-SUFFIX,speedhunters.com,PROXY
-DOMAIN-SUFFIX,spore.com,PROXY
-DOMAIN-SUFFIX,ssx3.com,PROXY
-DOMAIN-SUFFIX,starwarsbattlefront.com,PROXY
-DOMAIN-SUFFIX,starwarsbattlefront2.com,PROXY
-DOMAIN-SUFFIX,tiberiumalliances.com,PROXY
-DOMAIN-SUFFIX,tiburon.com,PROXY
-DOMAIN-SUFFIX,tnt-ea.com,PROXY
-DOMAIN-SUFFIX,ultimaforever.com,PROXY
-DOMAIN-SUFFIX,unravel2.com,PROXY
-DOMAIN-SUFFIX,unraveltwo.com,PROXY
-DOMAIN-SUFFIX,visceralgames.com,PROXY
-DOMAIN-SUFFIX,yogify.com,PROXY
-
-# Anthem
-DOMAIN-SUFFIX,anthemgame.com,PROXY
-DOMAIN-SUFFIX,anthemthegame.com,PROXY
-
-# Apex Legends
-DOMAIN-SUFFIX,apexlegends.com,PROXY
-DOMAIN-SUFFIX,projectapex.com,PROXY
-
-# Battle Log / Battlefield
-DOMAIN-SUFFIX,battlefield.com,PROXY
-DOMAIN-SUFFIX,battlefield1943.com,PROXY
-DOMAIN-SUFFIX,battlefield3.com,PROXY
-DOMAIN-SUFFIX,battlefield4.com,PROXY
-DOMAIN-SUFFIX,battlefield5.com,PROXY
-DOMAIN-SUFFIX,battlefieldheroes.com,PROXY
-DOMAIN-SUFFIX,battlefieldv.com,PROXY
-DOMAIN-SUFFIX,battlelog.com,PROXY
-
-# Bioware
-DOMAIN-SUFFIX,bioware.com,PROXY
-DOMAIN-SUFFIX,biowarestore.com,PROXY
-
-# Broadsword
-DOMAIN-SUFFIX,eamythic.com,PROXY
-DOMAIN-SUFFIX,eamythic.net,PROXY
-
-# Command and Conquer
-DOMAIN-SUFFIX,cncrivals.com,PROXY
-DOMAIN-SUFFIX,commandandconquer.com,PROXY
-DOMAIN-SUFFIX,tiberiumalliances.com,PROXY
-
-# Dark Age of Camelot
-DOMAIN-SUFFIX,camelot-europe.com,PROXY
-DOMAIN-SUFFIX,camelotherald.com,PROXY
-DOMAIN-SUFFIX,camelotherald.net,PROXY
-DOMAIN-SUFFIX,daoc.net,PROXY
-DOMAIN-SUFFIX,darkageofcamelot.com,PROXY
-DOMAIN-SUFFIX,darkness-risen.com,PROXY
-
-# Dead Space
-DOMAIN-SUFFIX,deadspacegame.com,PROXY
-
-# DICE
-DOMAIN-SUFFIX,dice.se,PROXY
-
-# Dragon Age
-DOMAIN-SUFFIX,dragonage.com,PROXY
-DOMAIN-SUFFIX,dragonagekeep.com,PROXY
-DOMAIN-SUFFIX,dragonagemovie.com,PROXY
-DOMAIN-SUFFIX,thedreadwolfrises.com,PROXY
-
-# dungeonkeeper
-DOMAIN-SUFFIX,dungeonkeeper.cn,PROXY
-DOMAIN-SUFFIX,dungeonkeeper.com,PROXY
-DOMAIN-SUFFIX,dungeonkeeper.com.cn,PROXY
-
-# FIFA
-DOMAIN-SUFFIX,eafootballworld.com,PROXY
-DOMAIN-SUFFIX,fifastreet.com,PROXY
-DOMAIN-SUFFIX,fifastreet3.com,PROXY
-
-# Frost Bite
-DOMAIN-SUFFIX,frostbite.com,PROXY
-
-# Industrial Toys
-DOMAIN-SUFFIX,industrialtoys.com,PROXY
-
-# Mass Effect
-DOMAIN-SUFFIX,masseffect.com,PROXY
-DOMAIN-SUFFIX,masseffectarchives.com,PROXY
-
-# Mirror's Edge
-DOMAIN-SUFFIX,eamirrorsedge.com,PROXY
-DOMAIN-SUFFIX,mirrorsedge.com,PROXY
-DOMAIN-SUFFIX,mirrorsedge.jp,PROXY
-DOMAIN-SUFFIX,mirrorsedge.net,PROXY
-DOMAIN-SUFFIX,mirrorsedge2.com,PROXY
-DOMAIN-SUFFIX,mirrorsedge2d.com,PROXY
-
-# Need For Speed
-DOMAIN-SUFFIX,blackboxgames.com,PROXY
-DOMAIN-SUFFIX,eablackbox.com,PROXY
-DOMAIN-SUFFIX,needforspeed.com,PROXY
-DOMAIN-SUFFIX,needforspeedboost.com,PROXY
-DOMAIN-SUFFIX,needforspeeddriftkings.com,PROXY
-DOMAIN-SUFFIX,needforspeedeliminator.com,PROXY
-DOMAIN-SUFFIX,needforspeedlightning.com,PROXY
-DOMAIN-SUFFIX,needforspeedoverdrive.com,PROXY
-DOMAIN-SUFFIX,needforspeedproven.com,PROXY
-DOMAIN-SUFFIX,needforspeedredline.com,PROXY
-DOMAIN-SUFFIX,needforspeedshowdown.com,PROXY
-DOMAIN-SUFFIX,needforspeedstreetkings.com,PROXY
-DOMAIN-SUFFIX,needforspeedtakedown.com,PROXY
-DOMAIN-SUFFIX,needforspeedtherun.com,PROXY
-DOMAIN-SUFFIX,needforspeedtimeattack.com,PROXY
-DOMAIN-SUFFIX,needforspeedundergroundeast.com,PROXY
-DOMAIN-SUFFIX,nfsworld.com,PROXY
-DOMAIN-SUFFIX,teamneedforspeed.com,PROXY
-
-# Plants VS Zombies
-DOMAIN-SUFFIX,plantsvszombies2.com,PROXY
-DOMAIN-SUFFIX,pvzgw2.com,PROXY
-DOMAIN-SUFFIX,pvzheroes.com,PROXY
-
-# Sea of Solitude
-DOMAIN-SUFFIX,seaofsolitude.com,PROXY
-
-# Simcity
-DOMAIN-SUFFIX,simcity-buildit.com,PROXY
-DOMAIN-SUFFIX,simcity.com,PROXY
-
-# Skate
-DOMAIN-SUFFIX,skate2.com,PROXY
-
-# SPEARHEAD
-DOMAIN-SUFFIX,spearhead.kr,PROXY
-
-# Star Wars
-DOMAIN-SUFFIX,starwarsfallenorder.com,PROXY
-DOMAIN-SUFFIX,starwarsjedifallenorder.com,PROXY
-DOMAIN-SUFFIX,starwarstheoldrepublic.com,PROXY
-DOMAIN-SUFFIX,swjedifallenorder.com,PROXY
-DOMAIN-SUFFIX,swjfo.com,PROXY
-DOMAIN-SUFFIX,swtor.com,PROXY
-DOMAIN-SUFFIX,swtor.net,PROXY
-
-# The Sims
-DOMAIN-SUFFIX,mysims.com,PROXY
-DOMAIN-SUFFIX,thesims.com,PROXY
-DOMAIN-SUFFIX,thesims3.com,PROXY
-DOMAIN-SUFFIX,thesims4.com,PROXY
-DOMAIN-SUFFIX,thesimssocial.com,PROXY
-
-# Titan Fall
-DOMAIN-SUFFIX,titanfall.com,PROXY
-
-# Ultima Online
-DOMAIN-SUFFIX,mythicentertainment.com,PROXY
-DOMAIN-SUFFIX,mythicentertainment.net,PROXY
-DOMAIN-SUFFIX,mythicgames.com,PROXY
-DOMAIN-SUFFIX,ultimaonline.com,PROXY
-DOMAIN-SUFFIX,uo.com,PROXY
-DOMAIN-SUFFIX,uoherald.com,PROXY
-
-# XDS
-DOMAIN-SUFFIX,xdsummit.com,PROXY
-
-DOMAIN,ea.tt.omtrdc.net,PROXY
-DOMAIN,eaassets-a.akamaihd.net,PROXY
-#end include:ea
 #include:epicgames
 DOMAIN-SUFFIX,3lateral.com,PROXY
 DOMAIN-SUFFIX,artstation.com,PROXY
@@ -819,6 +588,66 @@ DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com,PROXY
 DOMAIN,ubistatic3-a.akamaihd.net,PROXY
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com,PROXY
 #end include:ubisoft
+#include:xbox
+DOMAIN-SUFFIX,asobostudio.com,PROXY
+DOMAIN-SUFFIX,flightsimulator.com,PROXY
+
+DOMAIN,flightsimulator.azureedge.net,PROXY
+#end include:asobo
+DOMAIN-SUFFIX,beth.games,PROXY
+DOMAIN-SUFFIX,bethesda.net,PROXY
+DOMAIN-SUFFIX,bethesdagamestudios.com,PROXY
+DOMAIN-SUFFIX,bethsoft.com,PROXY
+
+# Doom
+DOMAIN-SUFFIX,doom.com,PROXY
+
+# The Elder Scrolls
+DOMAIN-SUFFIX,elderscrolls.com,PROXY
+#end include:bethesda
+DOMAIN-SUFFIX,forza.net,PROXY
+DOMAIN-SUFFIX,forzamotorsport.net,PROXY
+DOMAIN-SUFFIX,forzaracingchampionship.com,PROXY
+DOMAIN-SUFFIX,forzarc.com,PROXY
+
+DOMAIN,prodforza.blob.core.windows.net,PROXY
+#end include:forza
+DOMAIN-SUFFIX,callersbane.com,PROXY
+DOMAIN-SUFFIX,minecraft-services.net,PROXY
+DOMAIN-SUFFIX,minecraft.net,PROXY
+DOMAIN-SUFFIX,minecraftservices.com,PROXY
+DOMAIN-SUFFIX,minecraftshop.com,PROXY
+DOMAIN-SUFFIX,mojang.com,PROXY
+#end include:mojang
+
+# All .xbox domains
+DOMAIN-SUFFIX,xbox,PROXY
+
+DOMAIN-SUFFIX,gamepass.com,PROXY
+DOMAIN-SUFFIX,orithegame.com,PROXY
+DOMAIN-SUFFIX,renovacionxboxlive.com,PROXY
+DOMAIN-SUFFIX,tellmewhygame.com,PROXY
+DOMAIN-SUFFIX,xbox.co,PROXY
+DOMAIN-SUFFIX,xbox.com,PROXY
+DOMAIN-SUFFIX,xbox.eu,PROXY
+DOMAIN-SUFFIX,xbox.org,PROXY
+DOMAIN-SUFFIX,xbox360.co,PROXY
+DOMAIN-SUFFIX,xbox360.com,PROXY
+DOMAIN-SUFFIX,xbox360.eu,PROXY
+DOMAIN-SUFFIX,xbox360.org,PROXY
+DOMAIN-SUFFIX,xboxab.com,PROXY
+DOMAIN-SUFFIX,xboxgamepass.com,PROXY
+DOMAIN-SUFFIX,xboxgamestudios.com,PROXY
+DOMAIN-SUFFIX,xboxlive.cn,PROXY
+DOMAIN-SUFFIX,xboxlive.com,PROXY
+DOMAIN-SUFFIX,xboxone.co,PROXY
+DOMAIN-SUFFIX,xboxone.com,PROXY
+DOMAIN-SUFFIX,xboxone.eu,PROXY
+DOMAIN-SUFFIX,xboxplayanywhere.com,PROXY
+DOMAIN-SUFFIX,xboxservices.com,PROXY
+DOMAIN-SUFFIX,xboxstudios.com,PROXY
+DOMAIN-SUFFIX,xbx.lv,PROXY
+#end include:xbox
 #include:ynoproject
 DOMAIN-SUFFIX,ynoproject.net,PROXY
 #end include:ynoproject
