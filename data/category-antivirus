@@ -1,0 +1,52 @@
+#include:comodo
+DOMAIN-SUFFIX,comodo.com,PROXY
+DOMAIN-SUFFIX,comodo.net,PROXY
+#end include:comodo
+#include:drweb
+DOMAIN-SUFFIX,drweb.by,PROXY
+DOMAIN-SUFFIX,drweb.cn,PROXY
+DOMAIN-SUFFIX,drweb.co.jp,PROXY
+DOMAIN-SUFFIX,drweb.com,PROXY
+DOMAIN-SUFFIX,drweb.fr,PROXY
+DOMAIN-SUFFIX,drweb.kz,PROXY
+DOMAIN-SUFFIX,drweb.ru,PROXY
+DOMAIN-SUFFIX,drweb.uz,PROXY
+DOMAIN-SUFFIX,drweb-av.de,PROXY
+DOMAIN-SUFFIX,drweb-av.es,PROXY
+DOMAIN-SUFFIX,drweb-av.it,PROXY
+DOMAIN-SUFFIX,drweb-av.pl,PROXY
+#end include:drweb
+#include:eset
+# ESET Wiki - [KB332] Ports and addresses required to use your ESET product with a third-party firewall
+DOMAIN-SUFFIX,cn.eset.com,PROXY
+DOMAIN-SUFFIX,e5.sk,PROXY
+DOMAIN-SUFFIX,eset.com,PROXY
+DOMAIN-SUFFIX,eset.eu,PROXY
+DOMAIN-SUFFIX,eset.sk,PROXY
+DOMAIN-SUFFIX,eset.systems,PROXY
+DOMAIN-SUFFIX,esetsoftware.com,PROXY
+
+# ESET Password Manager
+DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com,PROXY
+
+# Connection between the Agent and ESET PROTECT
+DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com,PROXY
+#end include:eset
+#include:kaspersky
+DOMAIN-SUFFIX,kaspersky-labs.com,PROXY
+DOMAIN-SUFFIX,kaspersky.com,PROXY
+#end include:kaspersky
+#include:symantec
+DOMAIN-SUFFIX,symantec.com,PROXY
+DOMAIN-SUFFIX,symantecliveupdate.com,PROXY
+#end include:symantec
+
+DOMAIN-SUFFIX,avast.com,PROXY
+DOMAIN-SUFFIX,avg.com,PROXY
+DOMAIN-SUFFIX,avira.com,PROXY
+DOMAIN-SUFFIX,bitdefender.com,PROXY
+DOMAIN-SUFFIX,clamwin.com,PROXY
+DOMAIN-SUFFIX,f-secure.com,PROXY
+DOMAIN-SUFFIX,mcafee.com,PROXY
+DOMAIN-SUFFIX,norton.com,PROXY
+DOMAIN-SUFFIX,pandasecurity.com,PROXY

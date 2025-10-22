@@ -4074,6 +4074,12 @@ DOMAIN,weatherkit.apple.com,PROXY
 DOMAIN,www.apple.com,PROXY
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net,PROXY
 DOMAIN,xp.apple.com,PROXY
+DOMAIN-SUFFIX,reckittbenckiser.cn,PROXY
+DOMAIN-SUFFIX,reckittbenckiser.com.cn,PROXY
+DOMAIN-SUFFIX,lsplayer.com,PROXY
+DOMAIN-SUFFIX,yeshen.com,PROXY
+DOMAIN-SUFFIX,heavenlywind.cc,PROXY
+DOMAIN-SUFFIX,steampp.net,PROXY
 DOMAIN-SUFFIX,cisco.cn,PROXY
 DOMAIN-SUFFIX,cisco.com.cn,PROXY
 DOMAIN-SUFFIX,network-auth.cn,PROXY
@@ -4081,10 +4087,6 @@ DOMAIN-SUFFIX,researchkit.cn,PROXY
 DOMAIN-SUFFIX,researchkit.com.cn,PROXY
 DOMAIN-SUFFIX,dcocsp.cn,PROXY
 DOMAIN-SUFFIX,digicert.cn,PROXY
-DOMAIN-SUFFIX,lsplayer.com,PROXY
-DOMAIN-SUFFIX,yeshen.com,PROXY
-DOMAIN-SUFFIX,heavenlywind.cc,PROXY
-DOMAIN-SUFFIX,steampp.net,PROXY
 DOMAIN-SUFFIX,tvbc.com.cn,PROXY
 DOMAIN-SUFFIX,yahoo.cn,PROXY
 DOMAIN-SUFFIX,yahoo.com.cn,PROXY
@@ -4119,8 +4121,6 @@ DOMAIN-SUFFIX,intelrealsense.cn,PROXY
 DOMAIN-SUFFIX,bmw.com.cn,PROXY
 DOMAIN-SUFFIX,alphabet.com.cn,PROXY
 DOMAIN-SUFFIX,alphabet.net.cn,PROXY
-DOMAIN-SUFFIX,reckittbenckiser.cn,PROXY
-DOMAIN-SUFFIX,reckittbenckiser.com.cn,PROXY
 DOMAIN-SUFFIX,adobedc.cn,PROXY
 DOMAIN-SUFFIX,google.cn,PROXY
 DOMAIN-SUFFIX,g.cn,PROXY

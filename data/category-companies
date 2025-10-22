@@ -40,6 +40,43 @@ DOMAIN-SUFFIX,radeon.com,PROXY
 
 DOMAIN,www.amd.com,PROXY
 #end include:amd
+#include:anexia
+DOMAIN-SUFFIX,bestsrv.de,PROXY
+DOMAIN-SUFFIX,customercontrolpanel.de,PROXY
+DOMAIN-SUFFIX,dnsserver1.de,PROXY
+DOMAIN-SUFFIX,dnsserver2.de,PROXY
+DOMAIN-SUFFIX,goodsrv.de,PROXY
+DOMAIN-SUFFIX,happysrv.de,PROXY
+DOMAIN-SUFFIX,hotsrv.de,PROXY
+DOMAIN-SUFFIX,luckysrv.de,PROXY
+DOMAIN-SUFFIX,megasrv.de,PROXY
+DOMAIN-SUFFIX,netcup.cafe,PROXY
+DOMAIN-SUFFIX,netcup.com,PROXY
+DOMAIN-SUFFIX,netcup.de,PROXY
+DOMAIN-SUFFIX,netcup.eu,PROXY
+DOMAIN-SUFFIX,netcup.net,PROXY
+DOMAIN-SUFFIX,netcup-news.de,PROXY
+DOMAIN-SUFFIX,netcup-sonderangebote.de,PROXY
+DOMAIN-SUFFIX,netcup-wiki.de,PROXY
+DOMAIN-SUFFIX,nicesrv.de,PROXY
+DOMAIN-SUFFIX,powersrv.de,PROXY
+DOMAIN-SUFFIX,quicksrv.de,PROXY
+DOMAIN-SUFFIX,servercontrolpanel.de,PROXY
+DOMAIN-SUFFIX,supersrv.de,PROXY
+DOMAIN-SUFFIX,ultrasrv.de,PROXY
+DOMAIN-SUFFIX,yourvserver.net,PROXY
+#end include:netcup
+
+DOMAIN-SUFFIX,anexia.at,PROXY
+DOMAIN-SUFFIX,anexia.com,PROXY
+DOMAIN-SUFFIX,anexia-engine.com,PROXY
+DOMAIN-SUFFIX,anexia-it.com,PROXY
+DOMAIN-SUFFIX,fifthns.com,PROXY
+DOMAIN-SUFFIX,firstns.cc,PROXY
+DOMAIN-SUFFIX,fourthns.systems,PROXY
+DOMAIN-SUFFIX,secondns.at,PROXY
+DOMAIN-SUFFIX,thirdns.de,PROXY
+#end include:anexia
 #include:anthropic
 DOMAIN-SUFFIX,anthropic.com,PROXY
 DOMAIN-SUFFIX,claude.ai,PROXY
@@ -1700,6 +1737,10 @@ DOMAIN-SUFFIX,kakaostyle.com,PROXY
 DOMAIN-SUFFIX,posty.kr,PROXY
 DOMAIN-SUFFIX,zigzag.kr,PROXY
 #end include:kakao
+#include:kaspersky
+DOMAIN-SUFFIX,kaspersky-labs.com,PROXY
+DOMAIN-SUFFIX,kaspersky.com,PROXY
+#end include:kaspersky
 #include:lg
 DOMAIN-SUFFIX,lg.com,PROXY
 DOMAIN-SUFFIX,lgappstv.com,PROXY
@@ -1877,32 +1918,6 @@ DOMAIN-SUFFIX,naverlabs.com,PROXY
 DOMAIN-SUFFIX,plug.game,PROXY
 DOMAIN-SUFFIX,prismlive.com,PROXY
 #end include:naver
-#include:netcup
-DOMAIN-SUFFIX,bestsrv.de,PROXY
-DOMAIN-SUFFIX,customercontrolpanel.de,PROXY
-DOMAIN-SUFFIX,dnsserver1.de,PROXY
-DOMAIN-SUFFIX,dnsserver2.de,PROXY
-DOMAIN-SUFFIX,goodsrv.de,PROXY
-DOMAIN-SUFFIX,happysrv.de,PROXY
-DOMAIN-SUFFIX,hotsrv.de,PROXY
-DOMAIN-SUFFIX,luckysrv.de,PROXY
-DOMAIN-SUFFIX,megasrv.de,PROXY
-DOMAIN-SUFFIX,netcup.cafe,PROXY
-DOMAIN-SUFFIX,netcup.com,PROXY
-DOMAIN-SUFFIX,netcup.de,PROXY
-DOMAIN-SUFFIX,netcup.eu,PROXY
-DOMAIN-SUFFIX,netcup.net,PROXY
-DOMAIN-SUFFIX,netcup-news.de,PROXY
-DOMAIN-SUFFIX,netcup-sonderangebote.de,PROXY
-DOMAIN-SUFFIX,netcup-wiki.de,PROXY
-DOMAIN-SUFFIX,nicesrv.de,PROXY
-DOMAIN-SUFFIX,powersrv.de,PROXY
-DOMAIN-SUFFIX,quicksrv.de,PROXY
-DOMAIN-SUFFIX,servercontrolpanel.de,PROXY
-DOMAIN-SUFFIX,supersrv.de,PROXY
-DOMAIN-SUFFIX,ultrasrv.de,PROXY
-DOMAIN-SUFFIX,yourvserver.net,PROXY
-#end include:netcup
 #include:neuralink
 DOMAIN-SUFFIX,neuralink.com,PROXY
 #end include:neuralink

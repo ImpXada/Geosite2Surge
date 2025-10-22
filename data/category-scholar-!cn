@@ -1,5 +1,18 @@
 # This list contains scholarly domains that don't have access point in China Mainland.
 
+#include:category-scholar-ir
+# Iranian scholar websites
+
+DOMAIN-SUFFIX,ac.ir,PROXY
+DOMAIN-SUFFIX,edu.ir,PROXY
+DOMAIN-SUFFIX,iau.ac.ir,PROXY
+DOMAIN-SUFFIX,iranlms.ir,PROXY
+DOMAIN-SUFFIX,jtt.ir,PROXY
+DOMAIN-SUFFIX,sanjesh.org,PROXY
+DOMAIN-SUFFIX,sharif.edu,PROXY
+DOMAIN-SUFFIX,sharif.ir,PROXY
+DOMAIN-SUFFIX,srttu.edu,PROXY
+#end include:category-scholar-ir
 #include:category-scholar-uk
 # This list contains scholarly domains that in UK
 
@@ -5582,19 +5595,6 @@ DOMAIN-SUFFIX,zoonoses.ac.uk,PROXY    #University of Liverpool
 DOMAIN-SUFFIX,zoonosis.ac.uk,PROXY    #University of Liverpool
 
 #end include:category-scholar-uk
-#include:category-scholar-ir
-# Iranian scholar websites
-
-DOMAIN-SUFFIX,ac.ir,PROXY
-DOMAIN-SUFFIX,edu.ir,PROXY
-DOMAIN-SUFFIX,iau.ac.ir,PROXY
-DOMAIN-SUFFIX,iranlms.ir,PROXY
-DOMAIN-SUFFIX,jtt.ir,PROXY
-DOMAIN-SUFFIX,sanjesh.org,PROXY
-DOMAIN-SUFFIX,sharif.edu,PROXY
-DOMAIN-SUFFIX,sharif.ir,PROXY
-DOMAIN-SUFFIX,srttu.edu,PROXY
-#end include:category-scholar-ir
 #include:apa
 DOMAIN-SUFFIX,apa.org,PROXY
 DOMAIN-SUFFIX,psyccareers.com,PROXY
@@ -5920,12 +5920,13 @@ DOMAIN-SUFFIX,aimsciences.org,PROXY    #AIMS 美国科学数学协会期刊库
 DOMAIN-SUFFIX,airiti.com,PROXY
 DOMAIN-SUFFIX,airitilibrary.com,PROXY
 
-DOMAIN-SUFFIX,altmetric.com,PROXY
 DOMAIN-SUFFIX,alexanderstreet.com,PROXY    #Alexander Street
+DOMAIN-SUFFIX,alphaxiv.org,PROXY    #alphaXiv
+DOMAIN-SUFFIX,altmetric.com,PROXY
 DOMAIN-SUFFIX,amdigital.co.uk,PROXY    #Adam Matthew Digital 历史与文化珍稀史料数据库集成
 DOMAIN-SUFFIX,ams.org,PROXY    #美国数学学会
-DOMAIN-SUFFIX,anatomy.tv,PROXY    #digital human anatomy and physiology content
 DOMAIN-SUFFIX,analytictech.com,PROXY
+DOMAIN-SUFFIX,anatomy.tv,PROXY    #digital human anatomy and physiology content
 DOMAIN-SUFFIX,annualreviews.org,PROXY
 DOMAIN-SUFFIX,aps.org,PROXY    #American Physical Society Sites
 DOMAIN-SUFFIX,arabidopsis.org,PROXY
@@ -5985,6 +5986,7 @@ DOMAIN-SUFFIX,global-sci.org,PROXY    #Global Science Press GSP电子期刊
 DOMAIN-SUFFIX,heinonline.org,PROXY    #HeinOnline 法律全文数据库
 DOMAIN-SUFFIX,highwirepress.com,PROXY    #HighWire Press 电子期刊
 DOMAIN-SUFFIX,hindawi.com,PROXY
+DOMAIN-SUFFIX,hotcrp.com,PROXY    #HotCRP Conference Management Software
 DOMAIN-SUFFIX,icevirtuallibrary.com,PROXY    #英国土木工程师学会 ICE Virtual Library
 DOMAIN-SUFFIX,icsd.fiz-karlsruhe.de,PROXY    #Inorganic Crystal Structure Database
 DOMAIN-SUFFIX,igi-global.com,PROXY    #IGI Global 平台
@@ -6022,6 +6024,7 @@ DOMAIN-SUFFIX,nejm.org,PROXY
 DOMAIN-SUFFIX,neurology.org,PROXY
 DOMAIN-SUFFIX,nii.ac.jp,PROXY    #CiNii学术信息导航
 DOMAIN-SUFFIX,oecd-ilibrary.org,PROXY    #Organisation for Economic Co-operation and Development
+DOMAIN-SUFFIX,openreview.net,PROXY    #OpenReview
 DOMAIN-SUFFIX,optica.org,PROXY    #OSA 美国光学学会全文数据库
 DOMAIN-SUFFIX,osapublishing.org,PROXY    #OSA
 DOMAIN-SUFFIX,ovid.com,PROXY
@@ -6050,6 +6053,8 @@ DOMAIN-SUFFIX,scientificamerican.com,PROXY
 DOMAIN-SUFFIX,scitation.org,PROXY
 DOMAIN-SUFFIX,semanticscholar.org,PROXY
 DOMAIN-SUFFIX,siam.org,PROXY    #Society for Industry and Applied Mathematics 美国工业和应用数学学会
+DOMAIN-SUFFIX,sigcomm.org,PROXY    #the Association for Computing Machinery's Special Interest Group on Data Communications
+DOMAIN-SUFFIX,sigops.org,PROXY    #the Association for Computing Machinery's Special Interest Group on Operating Systems
 DOMAIN-SUFFIX,silverchair-cdn.com,PROXY    #https://global.oup.com/academic/news/silverchair-announcement
 DOMAIN-SUFFIX,spiedigitallibrary.org,PROXY
 DOMAIN-SUFFIX,statsmakemecry.com,PROXY
@@ -6067,6 +6072,7 @@ DOMAIN-SUFFIX,uchicago.edu,PROXY
 DOMAIN-SUFFIX,ucla.edu,PROXY
 DOMAIN-SUFFIX,umass.edu,PROXY
 DOMAIN-SUFFIX,usaco.org,PROXY
+DOMAIN-SUFFIX,usenix.org,PROXY    #USENIX: The Advanced Computing Systems Association
 DOMAIN-SUFFIX,westlaw.com,PROXY
 DOMAIN-SUFFIX,wiley.com,PROXY
 DOMAIN-SUFFIX,wolterskluwer.com,PROXY
@@ -6076,9 +6082,9 @@ DOMAIN-SUFFIX,zenodo.org,PROXY
 
 DOMAIN,angle.com.tw,PROXY    #元照出版
 DOMAIN,beck-online.beck.de,PROXY    #Beck-Online数据库
-DOMAIN,dl.begellhouse.com,PROXY    #Begell Digital Library
 DOMAIN,databank.worldbank.org,PROXY    #World DataBank 世界经济学数据库
 DOMAIN,database.asahi.com,PROXY    #朝日新闻数据库（闻藏II Visual）
+DOMAIN,dl.begellhouse.com,PROXY    #Begell Digital Library
 DOMAIN,elib.maruzen.co.jp,PROXY    #Maruzen e-Book Library（MEL）
 DOMAIN,firstsearch.oclc.org,PROXY    #OCLC FirstSearch
 DOMAIN,muse.jhu.edu,PROXY    #Project MUSE
