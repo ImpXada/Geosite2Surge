@@ -150,6 +150,12 @@ DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com,PROXY
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com,PROXY
 DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com,PROXY
 #end include:redotpay
+#include:straitsx
+DOMAIN-SUFFIX,straitsx.com,PROXY
+
+DOMAIN,d3r7nsslvs6aaf.cloudfront.net,PROXY
+DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com,PROXY
+#end include:straitsx
 #include:trustwallet
 DOMAIN-SUFFIX,trustwallet.com,PROXY
 #end include:trustwallet

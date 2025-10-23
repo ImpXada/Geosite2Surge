@@ -2553,6 +2553,9 @@ DOMAIN-SUFFIX,yandexcloud.net,PROXY
 DOMAIN-SUFFIX,yandexcom.net,PROXY
 DOMAIN-SUFFIX,yandexwebcache.org,PROXY
 DOMAIN-SUFFIX,yastatic.net,PROXY
+
+# Watching movies, included in the Yandex subscription
+DOMAIN-SUFFIX,kinopoisk.ru,PROXY
 #end include:yandex
 #include:xai
 DOMAIN-SUFFIX,grok.com,PROXY
