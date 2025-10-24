@@ -74,6 +74,13 @@ DOMAIN-SUFFIX,lineshoppingseller.com,PROXY
 DOMAIN-SUFFIX,linetv.tw,PROXY
 DOMAIN-SUFFIX,nhncorp.jp,PROXY
 #end include:line
+#include:mailcom
+# 1&1 Mail & Media GmbH
+DOMAIN-SUFFIX,mail.com,PROXY
+DOMAIN-SUFFIX,ui-portal.de,PROXY
+DOMAIN-SUFFIX,uicdn.com,PROXY
+DOMAIN-SUFFIX,uimserv.net,PROXY
+#end include:mailcom
 #include:matrix
 DOMAIN-SUFFIX,arewereadyyet.com,PROXY
 DOMAIN-SUFFIX,cinny.in,PROXY
@@ -91,6 +98,17 @@ DOMAIN-SUFFIX,m.me,PROXY
 DOMAIN-SUFFIX,messenger.com,PROXY
 DOMAIN-SUFFIX,nbabot.net,PROXY
 #end include:messenger
+#include:protonmail
+DOMAIN-SUFFIX,pm.me,PROXY
+DOMAIN-SUFFIX,proton.me,PROXY
+DOMAIN-SUFFIX,protonmail.ch,PROXY
+DOMAIN-SUFFIX,protonmail.com,PROXY
+DOMAIN-SUFFIX,protonstatus.com,PROXY
+DOMAIN-SUFFIX,protontech.ch,PROXY
+DOMAIN-SUFFIX,protonvpn.ch,PROXY
+DOMAIN-SUFFIX,protonvpn.com,PROXY
+DOMAIN-SUFFIX,protonweb.com,PROXY
+#end include:protonmail
 #include:signal
 DOMAIN-SUFFIX,signal.art,PROXY
 DOMAIN-SUFFIX,signal.group,PROXY

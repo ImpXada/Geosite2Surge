@@ -1,4 +1,5 @@
 #include:cloudflare-cn
+DOMAIN-SUFFIX,cf-china.info,PROXY
 DOMAIN-SUFFIX,cf-ns.com,PROXY
 DOMAIN-SUFFIX,cf-ns.net,PROXY
 DOMAIN-SUFFIX,cf-ns.site,PROXY
@@ -43,6 +44,7 @@ DOMAIN-SUFFIX,cloudflareok.com,PROXY
 DOMAIN-SUFFIX,cloudflarepartners.com,PROXY
 DOMAIN-SUFFIX,cloudflareportal.com,PROXY
 DOMAIN-SUFFIX,cloudflarepreview.com,PROXY
+DOMAIN-SUFFIX,cloudflareregistrar.com,PROXY
 DOMAIN-SUFFIX,cloudflareresolve.com,PROXY
 DOMAIN-SUFFIX,cloudflaressl.com,PROXY
 DOMAIN-SUFFIX,cloudflarestatus.com,PROXY

@@ -237,6 +237,13 @@ DOMAIN-SUFFIX,pub.dev,PROXY
 DOMAIN-SUFFIX,fontawesome.com,PROXY
 DOMAIN-SUFFIX,fortawesome.com,PROXY
 #end include:fontawesome
+#include:framer
+DOMAIN-SUFFIX,framer.com,PROXY
+DOMAIN-SUFFIX,framer.website,PROXY
+DOMAIN-SUFFIX,framercanvas.com,PROXY
+DOMAIN-SUFFIX,framerstatic.com,PROXY
+DOMAIN-SUFFIX,framerusercontent.com,PROXY
+#end include:framer
 #include:gemfury
 DOMAIN-SUFFIX,fury.blog,PROXY
 DOMAIN-SUFFIX,fury.co,PROXY
@@ -337,8 +344,14 @@ DOMAIN-SUFFIX,hyperscan.io,PROXY
 DOMAIN-SUFFIX,intellinuxgraphics.com,PROXY
 DOMAIN-SUFFIX,intellinuxgraphics.net,PROXY
 DOMAIN-SUFFIX,oneapi.com,PROXY
+DOMAIN-SUFFIX,oneapi.io,PROXY
+DOMAIN-SUFFIX,opencas.io,PROXY
+DOMAIN-SUFFIX,opendroneid.org,PROXY
+DOMAIN-SUFFIX,openvino.ai,PROXY
 DOMAIN-SUFFIX,openvinotoolkit.org,PROXY
+DOMAIN-SUFFIX,renderingtoolkit.org,PROXY
 DOMAIN-SUFFIX,snap-telemetry.io,PROXY
+DOMAIN-SUFFIX,universalscalablefirmware.org,PROXY
 
 # ACPI Component Architecture
 DOMAIN-SUFFIX,acpica.com,PROXY

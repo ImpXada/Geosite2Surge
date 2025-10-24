@@ -3,8 +3,14 @@ DOMAIN-SUFFIX,hyperscan.io,PROXY
 DOMAIN-SUFFIX,intellinuxgraphics.com,PROXY
 DOMAIN-SUFFIX,intellinuxgraphics.net,PROXY
 DOMAIN-SUFFIX,oneapi.com,PROXY
+DOMAIN-SUFFIX,oneapi.io,PROXY
+DOMAIN-SUFFIX,opencas.io,PROXY
+DOMAIN-SUFFIX,opendroneid.org,PROXY
+DOMAIN-SUFFIX,openvino.ai,PROXY
 DOMAIN-SUFFIX,openvinotoolkit.org,PROXY
+DOMAIN-SUFFIX,renderingtoolkit.org,PROXY
 DOMAIN-SUFFIX,snap-telemetry.io,PROXY
+DOMAIN-SUFFIX,universalscalablefirmware.org,PROXY
 
 # ACPI Component Architecture
 DOMAIN-SUFFIX,acpica.com,PROXY

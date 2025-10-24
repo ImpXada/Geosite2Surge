@@ -566,6 +566,7 @@ DOMAIN-SUFFIX,phpcomposer.com,PROXY
 
 #end include:bootcdn
 #include:cloudflare-cn
+DOMAIN-SUFFIX,cf-china.info,PROXY
 DOMAIN-SUFFIX,cf-ns.com,PROXY
 DOMAIN-SUFFIX,cf-ns.net,PROXY
 DOMAIN-SUFFIX,cf-ns.site,PROXY

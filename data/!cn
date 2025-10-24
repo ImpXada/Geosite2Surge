@@ -1,4 +1,6 @@
 DOMAIN,ztedevices.com,PROXY
+DOMAIN-SUFFIX,deepin.io,PROXY
+DOMAIN-SUFFIX,deepin.org,PROXY
 DOMAIN-SUFFIX,huaweicloud-dns.net,PROXY
 DOMAIN-SUFFIX,huaweicloud-dns.org,PROXY
 DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com,PROXY    #中东-阿布扎比-OP5

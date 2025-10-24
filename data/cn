@@ -613,6 +613,7 @@ DOMAIN-SUFFIX,phpcomposer.com,PROXY
 
 #end include:bootcdn
 #include:cloudflare-cn
+DOMAIN-SUFFIX,cf-china.info,PROXY
 DOMAIN-SUFFIX,cf-ns.com,PROXY
 DOMAIN-SUFFIX,cf-ns.net,PROXY
 DOMAIN-SUFFIX,cf-ns.site,PROXY
@@ -4117,8 +4118,6 @@ DOMAIN,images-cn.ssl-images-amazon.com,PROXY
 DOMAIN,images-cn-8.ssl-images-amazon.com,PROXY
 DOMAIN-SUFFIX,bluepoch.com,PROXY
 DOMAIN-SUFFIX,intel.cn,PROXY
-DOMAIN-SUFFIX,intel.com.cn,PROXY
-DOMAIN-SUFFIX,intelrealsense.cn,PROXY
 DOMAIN-SUFFIX,bmw.com.cn,PROXY
 DOMAIN-SUFFIX,alphabet.com.cn,PROXY
 DOMAIN-SUFFIX,alphabet.net.cn,PROXY

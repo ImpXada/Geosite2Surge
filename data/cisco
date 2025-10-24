@@ -95,6 +95,7 @@ DOMAIN-SUFFIX,parstream.com,PROXY
 DOMAIN-SUFFIX,parstream.net,PROXY
 DOMAIN-SUFFIX,parstream.org,PROXY
 DOMAIN-SUFFIX,services-exchange.com,PROXY
+DOMAIN-SUFFIX,splunk.com,PROXY
 DOMAIN-SUFFIX,static-cisco.com,PROXY
 DOMAIN-SUFFIX,tandberg-china.com,PROXY
 DOMAIN-SUFFIX,tandberg.com,PROXY
