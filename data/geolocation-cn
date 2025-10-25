@@ -2222,12 +2222,14 @@ DOMAIN-SUFFIX,tracker.ai.xiaomi.com,PROXY
 DOMAIN-SUFFIX,tracking.miui.com,PROXY
 #end include:xiaomi-ads
 
+DOMAIN-SUFFIX,mgslb.com,PROXY
 DOMAIN-SUFFIX,mi-idc.com,PROXY
 DOMAIN-SUFFIX,mi-img.com,PROXY
 DOMAIN-SUFFIX,mi.com,PROXY
 DOMAIN-SUFFIX,mifile.cn,PROXY
 DOMAIN-SUFFIX,migames.com,PROXY
 DOMAIN-SUFFIX,mijia.tech,PROXY
+DOMAIN-SUFFIX,mitvos.com,PROXY
 DOMAIN-SUFFIX,miui.com,PROXY
 DOMAIN-SUFFIX,miwifi.com,PROXY
 DOMAIN-SUFFIX,xiaomi.cn,PROXY
