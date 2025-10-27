@@ -598,6 +598,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | hbo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hbo |
 | hcaptcha | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hcaptcha |
 | hellofont | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hellofont |
+| hentaichen | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hentaichen |
 | hentaivn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hentaivn |
 | heroku | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/heroku |
 | hetzner | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hetzner |

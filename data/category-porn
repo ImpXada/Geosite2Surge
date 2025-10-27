@@ -176,6 +176,14 @@ DOMAIN-SUFFIX,newhtbook.com,PROXY
 DOMAIN-SUFFIX,urhtbooks.com,PROXY
 
 #end include:haitang
+#include:hentaichen
+DOMAIN-SUFFIX,h-chan.me,PROXY
+DOMAIN-SUFFIX,hentai-chan.com,PROXY
+DOMAIN-SUFFIX,hentai-chan.live,PROXY
+DOMAIN-SUFFIX,hentaichan.live,PROXY
+DOMAIN-SUFFIX,hentaichan.me,PROXY
+DOMAIN-SUFFIX,imgschan.xyz,PROXY
+#end include:hentaichen
 #include:hentaivn
 DOMAIN-SUFFIX,hentaivn.de,PROXY
 DOMAIN-SUFFIX,hentaivn.la,PROXY
@@ -6158,6 +6166,7 @@ DOMAIN-SUFFIX,xsela.cc,PROXY
 DOMAIN-SUFFIX,xshaker.net,PROXY
 DOMAIN-SUFFIX,xshr.online,PROXY
 DOMAIN-SUFFIX,xsijishe.com,PROXY
+DOMAIN-SUFFIX,xsijishe.net,PROXY
 DOMAIN-SUFFIX,xslist.org,PROXY
 DOMAIN-SUFFIX,xstas.biz,PROXY
 DOMAIN-SUFFIX,xsvod.xyz,PROXY
