@@ -49,6 +49,10 @@ DOMAIN-SUFFIX,ldstatic.com,PROXY
 DOMAIN-SUFFIX,5i01.com,PROXY
 DOMAIN-SUFFIX,mobile01.com,PROXY
 #end include:mobile01
+#include:nodeseek
+DOMAIN-SUFFIX,deepflood.com,PROXY
+DOMAIN-SUFFIX,nodeseek.com,PROXY
+#end include:nodeseek
 #include:pixnet
 DOMAIN-SUFFIX,pimg.tw,PROXY
 DOMAIN-SUFFIX,pixanalytics.com,PROXY
