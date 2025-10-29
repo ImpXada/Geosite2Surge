@@ -600,6 +600,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | hellofont | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hellofont |
 | hentaichen | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hentaichen |
 | hentaivn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hentaivn |
+| herogame | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/herogame |
 | heroku | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/heroku |
 | hetzner | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hetzner |
 | heytea | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/heytea |

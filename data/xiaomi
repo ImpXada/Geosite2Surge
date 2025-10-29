@@ -20,7 +20,6 @@ DOMAIN-SUFFIX,mi-idc.com,PROXY
 DOMAIN-SUFFIX,mi-img.com,PROXY
 DOMAIN-SUFFIX,mi.com,PROXY
 DOMAIN-SUFFIX,mifile.cn,PROXY
-DOMAIN-SUFFIX,migames.com,PROXY
 DOMAIN-SUFFIX,mijia.tech,PROXY
 DOMAIN-SUFFIX,mitvos.com,PROXY
 DOMAIN-SUFFIX,miui.com,PROXY
@@ -47,6 +46,10 @@ DOMAIN-SUFFIX,xiaomisa.net,PROXY
 DOMAIN-SUFFIX,xiaomisa.org,PROXY
 DOMAIN-SUFFIX,xiaomiwear.com,PROXY
 DOMAIN-SUFFIX,xiaomixiaoai.com,PROXY
+
+# 北京瓦力网络科技
+DOMAIN-SUFFIX,migames.com,PROXY
+DOMAIN-SUFFIX,wali.com,PROXY
 
 # 天星数科
 DOMAIN-SUFFIX,airstarfinance.net,PROXY

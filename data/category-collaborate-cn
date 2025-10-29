@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,smgv.cn,PROXY
 # 语雀
 DOMAIN-SUFFIX,nlark.com,PROXY
 DOMAIN-SUFFIX,yuque.com,PROXY
+
+# 吾道
+DOMAIN-SUFFIX,woodo.cn,PROXY

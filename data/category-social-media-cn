@@ -58,3 +58,7 @@ DOMAIN-SUFFIX,tieba.com,PROXY
 # 杭州蛋蛋语音科技有限公司
 DOMAIN-SUFFIX,dandan818.com,PROXY
 DOMAIN-SUFFIX,dandanvoice.com,PROXY
+
+# 脉脉
+DOMAIN-SUFFIX,maimai.cn,PROXY
+DOMAIN-SUFFIX,taou.com,PROXY

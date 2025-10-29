@@ -740,6 +740,7 @@ DOMAIN-SUFFIX,51cdn.com,PROXY
 DOMAIN-SUFFIX,8686c.com,PROXY
 DOMAIN-SUFFIX,cdn20.com,PROXY
 DOMAIN-SUFFIX,cdn30.org,PROXY
+DOMAIN-SUFFIX,cdnmg.com,PROXY
 DOMAIN-SUFFIX,chinanetcenter.com,PROXY
 DOMAIN-SUFFIX,lxdns.cn,PROXY
 DOMAIN-SUFFIX,lxdns.com,PROXY
@@ -758,6 +759,7 @@ DOMAIN-SUFFIX,wangsu.com,PROXY
 DOMAIN-SUFFIX,wscdns.com,PROXY
 DOMAIN-SUFFIX,wscdns.info,PROXY
 DOMAIN-SUFFIX,wscdns.org,PROXY
+DOMAIN-SUFFIX,wsdvs.com,PROXY
 DOMAIN-SUFFIX,wsglb.com,PROXY
 DOMAIN-SUFFIX,wsglb.net,PROXY
 DOMAIN-SUFFIX,wswebcdn.com,PROXY
@@ -887,6 +889,16 @@ DOMAIN-SUFFIX,dongjiao.cc,PROXY
 DOMAIN-SUFFIX,dongjiaoapp.com,PROXY
 #end include:dongjiao
 #include:jd
+DOMAIN-SUFFIX,ads.union.jd.com,PROXY
+DOMAIN-SUFFIX,ads-union.jd.com,PROXY
+DOMAIN-SUFFIX,c-nfa.jd.com,PROXY
+DOMAIN-SUFFIX,cps.360buy.com,PROXY
+DOMAIN-SUFFIX,gia.jd.com,PROXY
+DOMAIN-SUFFIX,img-x.jd.com,PROXY
+DOMAIN-SUFFIX,jzt.jd.com,PROXY
+DOMAIN-SUFFIX,stat.m.jd.com,PROXY
+#end include:jd-ads
+
 DOMAIN-SUFFIX,1huizhan.com,PROXY
 DOMAIN-SUFFIX,3.cn,PROXY
 DOMAIN-SUFFIX,300hu.com,PROXY
@@ -1118,18 +1130,11 @@ DOMAIN-SUFFIX,yihaodianimg.com,PROXY
 DOMAIN-SUFFIX,yiyaojd.com,PROXY
 DOMAIN-SUFFIX,yizhitou.com,PROXY
 
+# 达达
+DOMAIN-SUFFIX,imdada.cn,PROXY
+
 # 哆啦宝
 DOMAIN-SUFFIX,duolabao.com,PROXY
-
-DOMAIN-SUFFIX,ads.union.jd.com,PROXY
-DOMAIN-SUFFIX,ads-union.jd.com,PROXY
-DOMAIN-SUFFIX,c-nfa.jd.com,PROXY
-DOMAIN-SUFFIX,cps.360buy.com,PROXY
-DOMAIN-SUFFIX,gia.jd.com,PROXY
-DOMAIN-SUFFIX,img-x.jd.com,PROXY
-DOMAIN-SUFFIX,jzt.jd.com,PROXY
-DOMAIN-SUFFIX,stat.m.jd.com,PROXY
-#end include:jd-ads
 #end include:jd
 #include:lianjia
 DOMAIN-SUFFIX,lianjia.com,PROXY
@@ -1342,9 +1347,7 @@ DOMAIN-SUFFIX,saraba1st.com,PROXY
 #end include:stage1st
 
 DOMAIN-SUFFIX,52pojie.cn,PROXY    #吾爱破解
-DOMAIN-SUFFIX,acwifi.net,PROXY    #路由器技术分享
 DOMAIN-SUFFIX,chongbuluo.com,PROXY    #虫部落
-DOMAIN-SUFFIX,chongdiantou.com,PROXY    #充电头网
 DOMAIN-SUFFIX,itsk.com,PROXY    #IT天空论坛
 DOMAIN-SUFFIX,kafan.cn,PROXY    #卡饭论坛
 DOMAIN-SUFFIX,kanxue.com,PROXY    #看雪
@@ -1358,7 +1361,11 @@ DOMAIN-SUFFIX,uiwow.com,PROXY    #魔兽有爱论坛
 DOMAIN-SUFFIX,wuyou.net,PROXY    #无忧启动论坛
 
 DOMAIN-SUFFIX,423down.com,PROXY    #423Down
+DOMAIN-SUFFIX,acwifi.net,PROXY    #路由器技术分享
+DOMAIN-SUFFIX,chongdiantou.com,PROXY    #充电头网
 DOMAIN-SUFFIX,ghxi.com,PROXY    #果核剥壳
+DOMAIN-SUFFIX,iplaysoft.com,PROXY    #异次元软件世界
+DOMAIN-SUFFIX,itellyou.cn,PROXY    #MSDN 我告诉你
 DOMAIN-SUFFIX,moyubuluo.com,PROXY    #墨鱼部落格 鲁ICP备16022801号-9
 DOMAIN-SUFFIX,upe.net,PROXY    #优启通官网（IT天空）
 DOMAIN-SUFFIX,winos.me,PROXY    #WINOS 精简社区
@@ -1490,6 +1497,9 @@ DOMAIN-SUFFIX,smgv.cn,PROXY
 # 语雀
 DOMAIN-SUFFIX,nlark.com,PROXY
 DOMAIN-SUFFIX,yuque.com,PROXY
+
+# 吾道
+DOMAIN-SUFFIX,woodo.cn,PROXY
 #end include:category-collaborate-cn
 #include:category-ntp-cn
 # Aliyun
@@ -1836,6 +1846,10 @@ DOMAIN-SUFFIX,tieba.com,PROXY
 # 杭州蛋蛋语音科技有限公司
 DOMAIN-SUFFIX,dandan818.com,PROXY
 DOMAIN-SUFFIX,dandanvoice.com,PROXY
+
+# 脉脉
+DOMAIN-SUFFIX,maimai.cn,PROXY
+DOMAIN-SUFFIX,taou.com,PROXY
 #end include:category-social-media-cn
 
 # Software development related
@@ -2274,7 +2288,6 @@ DOMAIN-SUFFIX,mi-idc.com,PROXY
 DOMAIN-SUFFIX,mi-img.com,PROXY
 DOMAIN-SUFFIX,mi.com,PROXY
 DOMAIN-SUFFIX,mifile.cn,PROXY
-DOMAIN-SUFFIX,migames.com,PROXY
 DOMAIN-SUFFIX,mijia.tech,PROXY
 DOMAIN-SUFFIX,mitvos.com,PROXY
 DOMAIN-SUFFIX,miui.com,PROXY
@@ -2301,6 +2314,10 @@ DOMAIN-SUFFIX,xiaomisa.net,PROXY
 DOMAIN-SUFFIX,xiaomisa.org,PROXY
 DOMAIN-SUFFIX,xiaomiwear.com,PROXY
 DOMAIN-SUFFIX,xiaomixiaoai.com,PROXY
+
+# 北京瓦力网络科技
+DOMAIN-SUFFIX,migames.com,PROXY
+DOMAIN-SUFFIX,wali.com,PROXY
 
 # 天星数科
 DOMAIN-SUFFIX,airstarfinance.net,PROXY
@@ -2518,6 +2535,8 @@ DOMAIN-SUFFIX,ip138.com,PROXY
 DOMAIN-SUFFIX,ipshudi.com,PROXY
 
 DOMAIN-SUFFIX,chaziyu.com,PROXY    #滇ICP备2024035496号
+DOMAIN-SUFFIX,icplishi.com,PROXY    #粤ICP备20009057号
+DOMAIN-SUFFIX,ipchaxun.com,PROXY    #滇ICP备2024035496号
 DOMAIN-SUFFIX,ipchaxun.net,PROXY    #粤ICP备20009057号
 DOMAIN-SUFFIX,rdnsdb.com,PROXY    #闽ICP备15009794号
 
@@ -3479,6 +3498,7 @@ DOMAIN-SUFFIX,topthink.com,PROXY
 DOMAIN-SUFFIX,touqikan.com,PROXY
 DOMAIN-SUFFIX,touzid.com,PROXY
 DOMAIN-SUFFIX,travelsky.com,PROXY
+DOMAIN-SUFFIX,trjcn.com,PROXY
 DOMAIN-SUFFIX,trunktech.com,PROXY
 DOMAIN-SUFFIX,trustexporter.com,PROXY
 DOMAIN-SUFFIX,trustutn.org,PROXY
@@ -3523,6 +3543,7 @@ DOMAIN-SUFFIX,warmheart.top,PROXY    #苏ICP备16016970号-1
 DOMAIN-SUFFIX,wdjimg.com,PROXY
 DOMAIN-SUFFIX,wdzj.com,PROXY
 DOMAIN-SUFFIX,weand.com,PROXY
+DOMAIN-SUFFIX,weavatar.com,PROXY
 DOMAIN-SUFFIX,weicaifu.com,PROXY
 DOMAIN-SUFFIX,weidian.com,PROXY
 DOMAIN-SUFFIX,weilaicaijing.com,PROXY

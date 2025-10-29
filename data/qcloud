@@ -48,6 +48,14 @@ DOMAIN-SUFFIX,cloudsite.vip,PROXY
 DOMAIN-SUFFIX,cncqcloud.com,PROXY
 DOMAIN-SUFFIX,computeinit.com,PROXY
 DOMAIN-SUFFIX,coolsite.vip,PROXY
+DOMAIN-SUFFIX,dcloudlive.com,PROXY
+DOMAIN-SUFFIX,dcloudlive.net,PROXY
+DOMAIN-SUFFIX,dcloudsp.com,PROXY
+DOMAIN-SUFFIX,dcloudsp.net,PROXY
+DOMAIN-SUFFIX,dcloudstc.com,PROXY
+DOMAIN-SUFFIX,dcloudstc.net,PROXY
+DOMAIN-SUFFIX,dcloudvod.com,PROXY
+DOMAIN-SUFFIX,dcloudvod.net,PROXY
 DOMAIN-SUFFIX,dnsv1.com,PROXY
 DOMAIN-SUFFIX,dnsv1.com.cn,PROXY
 DOMAIN-SUFFIX,dothework.cn,PROXY
@@ -165,6 +173,7 @@ DOMAIN-SUFFIX,tencentcloudses.com,PROXY
 DOMAIN-SUFFIX,tencentcos.cn,PROXY
 DOMAIN-SUFFIX,tencentcos.com,PROXY
 DOMAIN-SUFFIX,tencentcos.com.cn,PROXY
+DOMAIN-SUFFIX,tencentcs.cn,PROXY
 DOMAIN-SUFFIX,tencentcs.com,PROXY
 DOMAIN-SUFFIX,tencentdayu.com,PROXY
 DOMAIN-SUFFIX,tencentdb.com,PROXY

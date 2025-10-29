@@ -667,10 +667,13 @@ DOMAIN-SUFFIX,fanatical.com,PROXY
 DOMAIN-SUFFIX,fitgirl-repacks.site,PROXY
 DOMAIN-SUFFIX,game-repack.site,PROXY
 DOMAIN-SUFFIX,humblebundle.com,PROXY
+DOMAIN-SUFFIX,joinsquad.com,PROXY
 DOMAIN-SUFFIX,loverslab.com,PROXY
 DOMAIN-SUFFIX,minecraft.wiki,PROXY
 DOMAIN-SUFFIX,modrinth.com,PROXY
 DOMAIN-SUFFIX,nexusmods.com,PROXY
+DOMAIN-SUFFIX,offworldindustries.com,PROXY
+DOMAIN-SUFFIX,offworldindustries.net,PROXY
 DOMAIN-SUFFIX,papermc.io,PROXY
 DOMAIN-SUFFIX,planetminecraft.com,PROXY
 DOMAIN-SUFFIX,prismlauncher.org,PROXY
