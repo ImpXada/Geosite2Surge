@@ -1,5 +1,7 @@
 #include:aiqicha
 DOMAIN-SUFFIX,aiqicha.baidu.com,PROXY
+DOMAIN-SUFFIX,aiqicha.cn,PROXY
+DOMAIN-SUFFIX,aiqicha.com,PROXY
 #end include:aiqicha
 #include:hongdunwang
 DOMAIN-SUFFIX,hongdunwang.com.cn,PROXY

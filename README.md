@@ -1106,6 +1106,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | segmentfault | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/segmentfault |
 | sehuatang | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/sehuatang |
 | sensorsdata-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/sensorsdata-ads |
+| sentry | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/sentry |
 | setapp | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/setapp |
 | setn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/setn |
 | sf-express | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/sf-express |

@@ -34,6 +34,11 @@ DOMAIN-SUFFIX,jxedt.com,PROXY
 DOMAIN-SUFFIX,jxksw.net,PROXY
 DOMAIN-SUFFIX,roomeet.cn,PROXY
 DOMAIN-SUFFIX,xinchong.com,PROXY
+
+# 转转
 DOMAIN-SUFFIX,zhuancorp.com,PROXY
+DOMAIN-SUFFIX,zhuaninc.com,PROXY
+DOMAIN-SUFFIX,zhuanspirit.cn,PROXY
 DOMAIN-SUFFIX,zhuanspirit.com,PROXY
+DOMAIN-SUFFIX,zhuanstatic.com,PROXY
 DOMAIN-SUFFIX,zhuanzhuan.com,PROXY

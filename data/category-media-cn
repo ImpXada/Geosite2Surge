@@ -112,6 +112,7 @@ DOMAIN-SUFFIX,ruanmei.com,PROXY
 DOMAIN-SUFFIX,saayaa.com,PROXY
 DOMAIN-SUFFIX,win7china.com,PROXY
 DOMAIN-SUFFIX,win8china.com,PROXY
+DOMAIN-SUFFIX,zuihuimai.com,PROXY
 #end include:ruanmei
 #include:sohu
 #include:sogou

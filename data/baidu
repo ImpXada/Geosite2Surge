@@ -190,6 +190,7 @@ DOMAIN-SUFFIX,bce-cdn.cn,PROXY
 DOMAIN-SUFFIX,bce-cdn.com,PROXY
 DOMAIN-SUFFIX,bce-cdn.net,PROXY
 DOMAIN-SUFFIX,bcebos.com,PROXY
+DOMAIN-SUFFIX,bcelive.com,PROXY
 DOMAIN-SUFFIX,bdcloudapi.com,PROXY
 DOMAIN-SUFFIX,bdimg.com,PROXY
 DOMAIN-SUFFIX,bdstatic.com,PROXY
@@ -225,6 +226,7 @@ DOMAIN-SUFFIX,tieba.com,PROXY
 DOMAIN-SUFFIX,tiebaimg.com,PROXY
 DOMAIN-SUFFIX,xianfae.com,PROXY
 DOMAIN-SUFFIX,xiaodutv.com,PROXY
+DOMAIN-SUFFIX,yoojia.com,PROXY
 
 # duxiaoman
 DOMAIN-SUFFIX,duxiaoman-int.com,PROXY

@@ -2217,6 +2217,7 @@ DOMAIN-SUFFIX,vivo.cn,PROXY
 DOMAIN-SUFFIX,vivo.com,PROXY
 DOMAIN-SUFFIX,vivo.com.cn,PROXY
 DOMAIN-SUFFIX,vivoglobal.com,PROXY
+DOMAIN-SUFFIX,vvstc.com,PROXY
 #end include:vivo
 #include:xiaomi
 DOMAIN-SUFFIX,a.market.xiaomi.com,PROXY
@@ -2330,6 +2331,7 @@ DOMAIN,ztedevices.com,PROXY
 #end include:zte
 
 DOMAIN-SUFFIX,huorong.cn,PROXY    #火绒
+DOMAIN-SUFFIX,quickapp.cn,PROXY    #快应用
 DOMAIN-SUFFIX,socpk.com,PROXY    #极客湾移动芯片排行
 DOMAIN-SUFFIX,udesk.cn,PROXY    #沃丰科技
 
@@ -2545,6 +2547,8 @@ DOMAIN-SUFFIX,sinopecsales.com,PROXY
 #include:category-enterprise-query-platform-cn
 #include:aiqicha
 DOMAIN-SUFFIX,aiqicha.baidu.com,PROXY
+DOMAIN-SUFFIX,aiqicha.cn,PROXY
+DOMAIN-SUFFIX,aiqicha.com,PROXY
 #end include:aiqicha
 #include:hongdunwang
 DOMAIN-SUFFIX,hongdunwang.com.cn,PROXY
