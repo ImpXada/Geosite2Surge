@@ -1,6 +1,16 @@
 # List of all domains that have access point in China mainland
 
 # Advertisment & Analytics
+#include:getui
+# 每日互动股份有限公司 浙ICP备14019898号
+DOMAIN-SUFFIX,gepush.com,PROXY
+DOMAIN-SUFFIX,getui.cn,PROXY
+DOMAIN-SUFFIX,getui.com,PROXY
+DOMAIN-SUFFIX,getui.net,PROXY
+DOMAIN-SUFFIX,igehuo.com,PROXY
+DOMAIN-SUFFIX,igetui.com,PROXY
+DOMAIN-SUFFIX,igexin.com,PROXY
+#end include:getui
 #include:jiguang
 #极光推送
 DOMAIN-SUFFIX,42r.cn,PROXY
@@ -1118,8 +1128,11 @@ DOMAIN-SUFFIX,mogucdn.com,PROXY
 DOMAIN-SUFFIX,mogujie.com,PROXY
 #end include:mogujie
 #include:pinduoduo
+# 上海寻梦信息技术有限公司 沪ICP备15010535号
 DOMAIN-SUFFIX,pddcdn.com,PROXY
+DOMAIN-SUFFIX,pddim.com,PROXY
 DOMAIN-SUFFIX,pddpic.com,PROXY
+DOMAIN-SUFFIX,pddugc.com,PROXY
 DOMAIN-SUFFIX,pinduoduo.com,PROXY
 DOMAIN-SUFFIX,pinduoduo.net,PROXY
 DOMAIN-SUFFIX,yangkeduo.com,PROXY
@@ -1507,11 +1520,6 @@ DOMAIN-SUFFIX,chinaz.net,PROXY
 DOMAIN-SUFFIX,caiyunai.com,PROXY
 DOMAIN-SUFFIX,caiyunapp.com,PROXY
 #end include:colorfulclouds
-#include:cowtransfer
-# 奶牛快传 备案号：蜀ICP备14008877号
-DOMAIN-SUFFIX,c-t.work,PROXY
-DOMAIN-SUFFIX,cowtransfer.com,PROXY
-#end include:cowtransfer
 #include:dida365
 DOMAIN-SUFFIX,dida365.com,PROXY
 #end include:dida365
@@ -1564,52 +1572,6 @@ DOMAIN-SUFFIX,jianshuapi.com,PROXY
 DOMAIN-SUFFIX,jinshuju.net,PROXY
 DOMAIN-SUFFIX,jinshujucdn.com,PROXY
 #end include:jinshuju
-#include:jlc
-# 嘉立创
-DOMAIN-SUFFIX,fa-part.com,PROXY
-DOMAIN-SUFFIX,forface3d.com,PROXY
-DOMAIN-SUFFIX,jlc-3dp.cn,PROXY
-DOMAIN-SUFFIX,jlc-3dp.com,PROXY
-DOMAIN-SUFFIX,jlc-bbs.com,PROXY
-DOMAIN-SUFFIX,jlc-cad.com,PROXY
-DOMAIN-SUFFIX,jlc-cam.com,PROXY
-DOMAIN-SUFFIX,jlc-cnc.com,PROXY
-DOMAIN-SUFFIX,jlc-dfm.com,PROXY
-DOMAIN-SUFFIX,jlc-drm.com,PROXY
-DOMAIN-SUFFIX,jlc-ecad.com,PROXY
-DOMAIN-SUFFIX,jlc-erp.com,PROXY
-DOMAIN-SUFFIX,jlc-fpc.com,PROXY
-DOMAIN-SUFFIX,jlc-gw.com,PROXY
-DOMAIN-SUFFIX,jlc-jh.com,PROXY
-DOMAIN-SUFFIX,jlc-layout.com,PROXY
-DOMAIN-SUFFIX,jlc-pcb.com,PROXY
-DOMAIN-SUFFIX,jlc-smt.com,PROXY
-DOMAIN-SUFFIX,jlc-zh.com,PROXY
-DOMAIN-SUFFIX,jlc.com,PROXY
-DOMAIN-SUFFIX,jlc3dp.cn,PROXY
-DOMAIN-SUFFIX,jlccad.com,PROXY
-DOMAIN-SUFFIX,jlccam.com,PROXY
-DOMAIN-SUFFIX,jlccnc.com,PROXY
-DOMAIN-SUFFIX,jlcdfm.com,PROXY
-DOMAIN-SUFFIX,jlcecad.com,PROXY
-DOMAIN-SUFFIX,jlceda.cn,PROXY
-DOMAIN-SUFFIX,jlceda.com,PROXY
-DOMAIN-SUFFIX,jlcerp.com,PROXY
-DOMAIN-SUFFIX,jlcfa.com,PROXY
-DOMAIN-SUFFIX,jlcgroup.cn,PROXY
-DOMAIN-SUFFIX,jlcops.com,PROXY
-DOMAIN-SUFFIX,jlcsj.com,PROXY
-DOMAIN-SUFFIX,jlcsmt.com,PROXY
-DOMAIN-SUFFIX,lceda.cn,PROXY
-DOMAIN-SUFFIX,lckfb.com,PROXY
-DOMAIN-SUFFIX,oshwhub.com,PROXY
-DOMAIN-SUFFIX,sanweihou.com,PROXY
-DOMAIN-SUFFIX,sz-jlc.com,PROXY
-DOMAIN-SUFFIX,szjlc.cn,PROXY
-DOMAIN-SUFFIX,szlcsc.com,PROXY
-DOMAIN-SUFFIX,zs-jlc.com,PROXY
-DOMAIN-SUFFIX,zxhgroup.com,PROXY
-#end include:jlc
 #include:keep
 DOMAIN-SUFFIX,gotokeep.com,PROXY
 DOMAIN-SUFFIX,keepcdn.com,PROXY
@@ -1849,6 +1811,22 @@ DOMAIN-SUFFIX,djiservice.org,PROXY
 DOMAIN-SUFFIX,skypixel.com,PROXY
 DOMAIN-SUFFIX,robomaster.com,PROXY
 #end include:dji
+#include:gree
+# 珠海格力
+DOMAIN-SUFFIX,gree.cn,PROXY
+DOMAIN-SUFFIX,gree.com,PROXY
+DOMAIN-SUFFIX,gree.com.cn,PROXY
+DOMAIN-SUFFIX,greeyun.com,PROXY
+DOMAIN-SUFFIX,kinghomechina.com,PROXY
+DOMAIN-SUFFIX,tosot.com.cn,PROXY
+DOMAIN-SUFFIX,zhlyen.com,PROXY
+#end include:gree
+#include:haier
+DOMAIN-SUFFIX,ehaier.com,PROXY
+DOMAIN-SUFFIX,haier.com,PROXY
+DOMAIN-SUFFIX,haier.net,PROXY
+DOMAIN-SUFFIX,haiersmarthomes.com,PROXY
+#end include:haier
 #include:honor
 DOMAIN-SUFFIX,hihonor.cn,PROXY
 DOMAIN-SUFFIX,hihonor.com,PROXY
@@ -1995,6 +1973,17 @@ DOMAIN-SUFFIX,meizu.cn,PROXY
 DOMAIN-SUFFIX,meizu.com,PROXY
 DOMAIN-SUFFIX,mzres.com,PROXY
 #end include:meizu
+#include:midea
+DOMAIN-SUFFIX,irsnp.com,PROXY
+DOMAIN-SUFFIX,mdcdn.cn,PROXY
+DOMAIN-SUFFIX,midea.cn,PROXY
+DOMAIN-SUFFIX,midea.com,PROXY
+DOMAIN-SUFFIX,midea.com.cn,PROXY
+DOMAIN-SUFFIX,mideaepayuat.com,PROXY
+DOMAIN-SUFFIX,msmartlife.cn,PROXY
+DOMAIN-SUFFIX,msmartlife.com,PROXY
+DOMAIN-SUFFIX,smartmidea.net,PROXY
+#end include:midea
 #include:netease
 DOMAIN-SUFFIX,126.com,PROXY
 DOMAIN-SUFFIX,126.link,PROXY
@@ -2171,6 +2160,7 @@ DOMAIN-SUFFIX,n.cn,PROXY
 DOMAIN-SUFFIX,namiso.com,PROXY
 DOMAIN-SUFFIX,nicaifu.com,PROXY
 DOMAIN-SUFFIX,nzwgs.com,PROXY
+DOMAIN-SUFFIX,qh-cdn.com,PROXY
 DOMAIN-SUFFIX,qhcdn.com,PROXY
 DOMAIN-SUFFIX,qhimg.com,PROXY
 DOMAIN-SUFFIX,qhimgs0.com,PROXY
@@ -2203,6 +2193,18 @@ DOMAIN-SUFFIX,beifangsl.cn,PROXY
 DOMAIN-SUFFIX,zhaomi.cn,PROXY
 DOMAIN-SUFFIX,zhaomishijie.com,PROXY
 #end include:qihoo360
+#include:tcl
+# 粤ICP备2020114412号
+DOMAIN-SUFFIX,tclai.top,PROXY
+
+# 粤ICP备05040863号
+DOMAIN-SUFFIX,tcl.com,PROXY
+DOMAIN-SUFFIX,tcl.com.cn,PROXY
+DOMAIN-SUFFIX,tcltech.com,PROXY
+
+# 粤ICP备17088321号
+DOMAIN-SUFFIX,leiniao.com,PROXY
+#end include:tcl
 #include:tongfang
 # 同方股份
 DOMAIN-SUFFIX,thtf.com.cn,PROXY
@@ -2525,25 +2527,6 @@ DOMAIN-SUFFIX,singworld.net,PROXY
 #end include:aamgame
 
 # Others
-#include:8btc
-DOMAIN-SUFFIX,8btc.com,PROXY
-DOMAIN-SUFFIX,bystack.com,PROXY
-DOMAIN-SUFFIX,chainnode.com,PROXY
-DOMAIN-SUFFIX,matpool.com,PROXY
-DOMAIN-SUFFIX,matpool.net,PROXY
-#end include:8btc
-#include:jibencaozuo
-DOMAIN-SUFFIX,jbcz.tv,PROXY
-DOMAIN-SUFFIX,jibencaozuo.com,PROXY
-DOMAIN-SUFFIX,media.paperclipclub.net,PROXY
-#end include:jibencaozuo
-#include:sinopec
-DOMAIN-SUFFIX,sinopec-usa.com,PROXY
-DOMAIN-SUFFIX,sinopec.com,PROXY
-DOMAIN-SUFFIX,sinopecgroup.com,PROXY
-DOMAIN-SUFFIX,sinopecnews.com.cn,PROXY
-DOMAIN-SUFFIX,sinopecsales.com,PROXY
-#end include:sinopec
 #include:category-enterprise-query-platform-cn
 #include:aiqicha
 DOMAIN-SUFFIX,aiqicha.baidu.com,PROXY
@@ -2574,33 +2557,25 @@ DOMAIN-SUFFIX,tianyancha.com,PROXY
 DOMAIN-SUFFIX,x315.com,PROXY
 #end include:x315
 #end include:category-enterprise-query-platform-cn
-#include:gree
-# 珠海格力
-DOMAIN-SUFFIX,gree.cn,PROXY
-DOMAIN-SUFFIX,gree.com,PROXY
-DOMAIN-SUFFIX,gree.com.cn,PROXY
-DOMAIN-SUFFIX,greeyun.com,PROXY
-DOMAIN-SUFFIX,kinghomechina.com,PROXY
-DOMAIN-SUFFIX,tosot.com.cn,PROXY
-DOMAIN-SUFFIX,zhlyen.com,PROXY
-#end include:gree
-#include:haier
-DOMAIN-SUFFIX,ehaier.com,PROXY
-DOMAIN-SUFFIX,haier.com,PROXY
-DOMAIN-SUFFIX,haier.net,PROXY
-DOMAIN-SUFFIX,haiersmarthomes.com,PROXY
-#end include:haier
-#include:midea
-DOMAIN-SUFFIX,irsnp.com,PROXY
-DOMAIN-SUFFIX,mdcdn.cn,PROXY
-DOMAIN-SUFFIX,midea.cn,PROXY
-DOMAIN-SUFFIX,midea.com,PROXY
-DOMAIN-SUFFIX,midea.com.cn,PROXY
-DOMAIN-SUFFIX,mideaepayuat.com,PROXY
-DOMAIN-SUFFIX,msmartlife.cn,PROXY
-DOMAIN-SUFFIX,msmartlife.com,PROXY
-DOMAIN-SUFFIX,smartmidea.net,PROXY
-#end include:midea
+#include:8btc
+DOMAIN-SUFFIX,8btc.com,PROXY
+DOMAIN-SUFFIX,bystack.com,PROXY
+DOMAIN-SUFFIX,chainnode.com,PROXY
+DOMAIN-SUFFIX,matpool.com,PROXY
+DOMAIN-SUFFIX,matpool.net,PROXY
+#end include:8btc
+#include:jibencaozuo
+DOMAIN-SUFFIX,jbcz.tv,PROXY
+DOMAIN-SUFFIX,jibencaozuo.com,PROXY
+DOMAIN-SUFFIX,media.paperclipclub.net,PROXY
+#end include:jibencaozuo
+#include:sinopec
+DOMAIN-SUFFIX,sinopec-usa.com,PROXY
+DOMAIN-SUFFIX,sinopec.com,PROXY
+DOMAIN-SUFFIX,sinopecgroup.com,PROXY
+DOMAIN-SUFFIX,sinopecnews.com.cn,PROXY
+DOMAIN-SUFFIX,sinopecsales.com,PROXY
+#end include:sinopec
 
 
 # 应城门户网站
@@ -3021,7 +2996,6 @@ DOMAIN-SUFFIX,gdliontech.com,PROXY
 DOMAIN-SUFFIX,gdrc.com,PROXY
 DOMAIN-SUFFIX,geektool.top,PROXY    #极客Tool 蜀ICP备2024086015号-2
 DOMAIN-SUFFIX,geilicdn.com,PROXY
-DOMAIN-SUFFIX,getui.com,PROXY
 DOMAIN-SUFFIX,gezida.com,PROXY
 DOMAIN-SUFFIX,gfan.com,PROXY
 DOMAIN-SUFFIX,giocdn.com,PROXY
@@ -3074,6 +3048,7 @@ DOMAIN-SUFFIX,henha.com,PROXY
 DOMAIN-SUFFIX,henkuai.com,PROXY
 DOMAIN-SUFFIX,herostart.com,PROXY
 DOMAIN-SUFFIX,hiido.com,PROXY
+DOMAIN-SUFFIX,hitokoto.cn,PROXY
 DOMAIN-SUFFIX,hiyd.com,PROXY
 DOMAIN-SUFFIX,hktheone.com,PROXY
 DOMAIN-SUFFIX,hn-cbec.com,PROXY
@@ -3127,6 +3102,7 @@ DOMAIN-SUFFIX,itmop.com,PROXY
 DOMAIN-SUFFIX,iyiou.com,PROXY
 DOMAIN-SUFFIX,iyunmu.com,PROXY
 DOMAIN-SUFFIX,jb51.com,PROXY
+DOMAIN-SUFFIX,jb51.net,PROXY
 DOMAIN-SUFFIX,jia.com,PROXY
 DOMAIN-SUFFIX,jiameng.com,PROXY
 DOMAIN-SUFFIX,jianbihua.com,PROXY
@@ -3359,6 +3335,7 @@ DOMAIN-SUFFIX,rockyenglish.com,PROXY
 DOMAIN-SUFFIX,rong360.com,PROXY
 DOMAIN-SUFFIX,rtbasia.com,PROXY
 DOMAIN-SUFFIX,ruan8.com,PROXY
+DOMAIN-SUFFIX,ruiwen.com,PROXY
 DOMAIN-SUFFIX,runoob.com,PROXY
 DOMAIN-SUFFIX,rzrc114.com,PROXY
 DOMAIN-SUFFIX,saibo.com,PROXY
@@ -3433,7 +3410,6 @@ DOMAIN-SUFFIX,tangeche.com,PROXY
 DOMAIN-SUFFIX,tanx.com,PROXY
 DOMAIN-SUFFIX,tao123.com,PROXY
 DOMAIN-SUFFIX,taoche.com,PROXY
-DOMAIN-SUFFIX,tclai.top,PROXY    #深圳TCL数字技术有限公司 粤ICP备2020114412号-1
 DOMAIN-SUFFIX,te5.com,PROXY
 DOMAIN-SUFFIX,tenxcloud.com,PROXY
 DOMAIN-SUFFIX,tianjimedia.com,PROXY
@@ -3686,9 +3662,16 @@ DOMAIN-SUFFIX,zoomyou.cn,PROXY
 # 沪ICP备2021017807号-4
 DOMAIN-SUFFIX,ecombdapi.com,PROXY
 
-# 花瓣网 稿定（厦门）信息服务有限公司 闽ICP备2021013850号-2
+# 稿定（厦门）信息服务有限公司
+## 花瓣网 闽ICP备2021013850号
 DOMAIN-SUFFIX,huaban.com,PROXY
+DOMAIN-SUFFIX,huabanimg.com,PROXY
+## 闽ICP备12002004号
 DOMAIN-SUFFIX,dancf.com,PROXY
+DOMAIN-SUFFIX,hlgdata.com,PROXY
+DOMAIN-SUFFIX,huanleguang.com,PROXY
+DOMAIN-SUFFIX,ttxsapp.com.cn,PROXY
+DOMAIN-SUFFIX,xsbapp.cn,PROXY
 
 # 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
 DOMAIN-SUFFIX,kujiale.com,PROXY
@@ -3786,9 +3769,6 @@ DOMAIN-SUFFIX,puddingcat.top,PROXY
 
 # 宁停车
 DOMAIN-SUFFIX,ningtingche.com,PROXY
-
-# 沉浸式翻译 沪ICP备2023011353号
-DOMAIN-SUFFIX,immersivetranslate.com,PROXY
 
 # 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
 DOMAIN-SUFFIX,mingxuan.store,PROXY

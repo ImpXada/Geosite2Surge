@@ -2882,3 +2882,6 @@ DOMAIN-SUFFIX,xdty.org,PROXY
 #include:xingrz
 DOMAIN-SUFFIX,xingrz.me,PROXY
 #end include:xingrz
+
+# 沉浸式翻译
+DOMAIN-SUFFIX,immersivetranslate.com,PROXY

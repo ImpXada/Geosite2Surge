@@ -305,6 +305,7 @@ DOMAIN-SUFFIX,httpdns.kwd.inkuai.com,PROXY
 DOMAIN-SUFFIX,httpdns.pro,PROXY
 DOMAIN-SUFFIX,httpdns.volcengineapi.com,PROXY
 DOMAIN-SUFFIX,httpdns.yunxindns.com,PROXY
+DOMAIN-SUFFIX,httpdns.zhihu.com,PROXY
 DOMAIN-SUFFIX,httpdns.zybang.com,PROXY
 DOMAIN-SUFFIX,evt.mxplay.com,PROXY
 DOMAIN-SUFFIX,emogi.com,PROXY
