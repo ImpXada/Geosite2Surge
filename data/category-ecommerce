@@ -552,6 +552,10 @@ DOMAIN-SUFFIX,farfetch.net,PROXY
 DOMAIN-SUFFIX,farfetch.net.cn,PROXY
 DOMAIN-SUFFIX,fflnk.net,PROXY
 #end include:farfetch
+#include:ggsel
+DOMAIN-SUFFIX,ggsel.com,PROXY
+DOMAIN-SUFFIX,ggsel.net,PROXY
+#end include:ggsel
 #include:gucci
 # All .gucci domains
 DOMAIN-SUFFIX,gucci,PROXY

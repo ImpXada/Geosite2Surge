@@ -169,13 +169,15 @@ DOMAIN-SUFFIX,roco.qq.com,PROXY
 #include:yuewen
 DOMAIN-SUFFIX,yuewen.com,PROXY
 
+# webnovel is not serving for cn
+# include:webnovel
+
 DOMAIN-SUFFIX,hongxiu.com,PROXY
 DOMAIN-SUFFIX,lrts.me,PROXY
 DOMAIN-SUFFIX,qdmm.com,PROXY
 DOMAIN-SUFFIX,qidian.com,PROXY
 DOMAIN-SUFFIX,readnovel.com,PROXY
 DOMAIN-SUFFIX,tingbook.com,PROXY
-DOMAIN-SUFFIX,webnovel.com,PROXY
 DOMAIN-SUFFIX,xs8.cn,PROXY
 DOMAIN-SUFFIX,xxsy.net,PROXY
 #end include:yuewen

@@ -358,6 +358,9 @@ DOMAIN-SUFFIX,dlsitestudio.com,PROXY
 DOMAIN-SUFFIX,nijiyome.jp,PROXY
 DOMAIN-SUFFIX,triokini.com,PROXY
 #end include:dlsite
+#include:ficbook
+DOMAIN-SUFFIX,ficbook.net,PROXY
+#end include:ficbook
 #include:gimy
 DOMAIN-SUFFIX,gimy.cc,PROXY
 DOMAIN-SUFFIX,gimy.co,PROXY
