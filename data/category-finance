@@ -160,6 +160,22 @@ DOMAIN-SUFFIX,fibank.bg,PROXY
 DOMAIN-SUFFIX,meawallet.app,PROXY
 DOMAIN-SUFFIX,myfin.bg,PROXY
 #end include:fibank
+#include:futu
+# 富途证券
+DOMAIN-SUFFIX,futuesop.com,PROXY
+DOMAIN-SUFFIX,futufin.com,PROXY
+DOMAIN-SUFFIX,futuhk.com,PROXY
+DOMAIN-SUFFIX,futuhn.com,PROXY
+DOMAIN-SUFFIX,futuholdings.com,PROXY
+DOMAIN-SUFFIX,futuniuniu.com,PROXY
+DOMAIN-SUFFIX,futunn.com,PROXY
+DOMAIN-SUFFIX,futustatic.com,PROXY
+
+# 富途 moomoo 证券
+DOMAIN-SUFFIX,moomoo.com,PROXY
+DOMAIN-SUFFIX,moomooequity.com,PROXY
+DOMAIN-SUFFIX,moomootrustee.com,PROXY
+#end include:futu
 #include:hsbc
 # TLD
 DOMAIN-SUFFIX,hsbc,PROXY
@@ -268,6 +284,13 @@ DOMAIN-SUFFIX,ifastnetwork.com,PROXY
 DOMAIN-SUFFIX,ifastps.com.cn,PROXY
 DOMAIN-SUFFIX,ifasttv.com,PROXY
 #end include:ifast
+#include:itiger
+# 老虎证券
+DOMAIN-SUFFIX,itiger.com,PROXY
+DOMAIN-SUFFIX,itigergrowth.com,PROXY
+DOMAIN-SUFFIX,itigergrowtha.com,PROXY
+DOMAIN-SUFFIX,itigerup.com,PROXY
+#end include:itiger
 #include:longbridge
 DOMAIN-SUFFIX,longbridge.cloud,PROXY
 DOMAIN-SUFFIX,longbridge.com,PROXY
@@ -287,6 +310,16 @@ DOMAIN-SUFFIX,n26.com,PROXY
 DOMAIN-SUFFIX,number26.de,PROXY
 DOMAIN-SUFFIX,tech26.de,PROXY
 #end include:n26
+#include:schwab
+# 嘉信理财
+DOMAIN-SUFFIX,aboutschwab.com,PROXY
+DOMAIN-SUFFIX,schwab.co.uk,PROXY
+DOMAIN-SUFFIX,schwab.com,PROXY
+DOMAIN-SUFFIX,schwab.com.hk,PROXY
+DOMAIN-SUFFIX,schwab.com.sg,PROXY
+DOMAIN-SUFFIX,schwabassetmanagement.com,PROXY
+DOMAIN-SUFFIX,schwabplan.com,PROXY
+#end include:schwab
 #include:wise
 DOMAIN-SUFFIX,transferwise.com,PROXY
 DOMAIN-SUFFIX,wise.com,PROXY

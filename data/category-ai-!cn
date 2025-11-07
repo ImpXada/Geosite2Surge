@@ -17,6 +17,17 @@ DOMAIN-SUFFIX,cursor.com,PROXY
 DOMAIN-SUFFIX,cursor.sh,PROXY
 DOMAIN-SUFFIX,cursorapi.com,PROXY
 #end include:cursor
+#include:dola
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX,cici.com,PROXY
+DOMAIN-SUFFIX,ciciai.com,PROXY
+DOMAIN-SUFFIX,ciciaicdn.com,PROXY
+DOMAIN-SUFFIX,dola.com,PROXY
+#end include:dola
+#include:elevenlabs
+DOMAIN-SUFFIX,elevenlabs.com,PROXY
+DOMAIN-SUFFIX,elevenlabs.io,PROXY
+#end include:elevenlabs
 #include:google-deepmind
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com,PROXY

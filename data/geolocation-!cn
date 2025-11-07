@@ -2798,6 +2798,7 @@ DOMAIN-SUFFIX,squarefoot.com.hk,PROXY
 DOMAIN-SUFFIX,thinkofliving.com,PROXY
 #end include:reagroup
 #include:scenesource
+DOMAIN-SUFFIX,predb.me,PROXY
 DOMAIN-SUFFIX,scenesource.me,PROXY
 DOMAIN-SUFFIX,scnsrc.me,PROXY
 #end include:scenesource

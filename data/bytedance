@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com,PROXY
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,PROXY
 #end include:bytedance-ads
 
+#include:dola # not serving for cn
 #include:doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
 DOMAIN-SUFFIX,butterfly-static.cn,PROXY
