@@ -154,6 +154,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | bethesda | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bethesda |
 | betterexplained | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/betterexplained |
 | bilibili | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bilibili |
+| bilibili-cdn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bilibili-cdn |
 | bilibili-game | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bilibili-game |
 | bilibili2 | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bilibili2 |
 | binance | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/binance |

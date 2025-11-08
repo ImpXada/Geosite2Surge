@@ -128,6 +128,7 @@ DOMAIN-SUFFIX,alibabacloud.com.hk,PROXY
 DOMAIN-SUFFIX,alibabacloud.com.my,PROXY
 DOMAIN-SUFFIX,alibabacloud.com.sg,PROXY
 DOMAIN-SUFFIX,alibabacloud.com.tw,PROXY
+DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
 DOMAIN-SUFFIX,ctexcel.ca,PROXY
 DOMAIN-SUFFIX,ctexcel.com,PROXY
 DOMAIN-SUFFIX,ctexcel.com.hk,PROXY
@@ -201,7 +202,6 @@ DOMAIN-SUFFIX,vivoglobal.com,PROXY
 DOMAIN-SUFFIX,bilibili.tv,PROXY
 DOMAIN-SUFFIX,biliintl.com,PROXY
 DOMAIN-SUFFIX,dreamcast.hk,PROXY
-DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
 DOMAIN-SUFFIX,thepoizon.ru,PROXY
 DOMAIN-SUFFIX,c.mi.com,PROXY
 DOMAIN-SUFFIX,global.market.xiaomi.com,PROXY

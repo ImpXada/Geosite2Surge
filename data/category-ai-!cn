@@ -63,6 +63,9 @@ DOMAIN-SUFFIX,jules.google.com,PROXY
 # Google AI Labs
 DOMAIN-SUFFIX,labs.google,PROXY
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com,PROXY
+
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX,aida.googleapis.com,PROXY
 #end include:google-deepmind
 #include:groq
 DOMAIN-SUFFIX,groq.com,PROXY
