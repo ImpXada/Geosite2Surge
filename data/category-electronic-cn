@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,analog.com,PROXY
 # 艾睿电子
 DOMAIN-SUFFIX,arrow.cn,PROXY
 
+# 京东方
+DOMAIN-SUFFIX,boe.com,PROXY
+DOMAIN-SUFFIX,boe.com.cn,PROXY
+
 # 博流智能
 DOMAIN-SUFFIX,bouffalolab.com,PROXY
 
@@ -25,7 +29,8 @@ DOMAIN-SUFFIX,hqdoc.com,PROXY
 DOMAIN-SUFFIX,hqpcb.com,PROXY
 
 # 英飞凌
-DOMAIN-SUFFIX,infineon.com,PROXY
+DOMAIN-SUFFIX,infineon.cn,PROXY
+#infineon.com
 
 # 嘉立创集团
 #include:jlc
@@ -94,7 +99,7 @@ DOMAIN-SUFFIX,sipeed.com,PROXY
 DOMAIN-SUFFIX,maixhub.com,PROXY
 
 # 德州仪器
-DOMAIN-SUFFIX,ti.com,PROXY
+#ti.com
 DOMAIN-SUFFIX,ti.com.cn,PROXY
 
 # 沁恒微电子

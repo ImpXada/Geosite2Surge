@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,twinmotion.com,PROXY
 DOMAIN-SUFFIX,unrealengine.com,PROXY
 DOMAIN-SUFFIX,unrealtournament.com,PROXY
 
+DOMAIN-SUFFIX,egdownload.fastly-edge.com,PROXY
 DOMAIN-WILDCARD,cdn?-epicgames-*.file.myqcloud.com,PROXY
 DOMAIN-WILDCARD,epicgames-download?.akamaized.net,PROXY
 DOMAIN-WILDCARD,epicgames-download?-*.file.myqcloud.com,PROXY

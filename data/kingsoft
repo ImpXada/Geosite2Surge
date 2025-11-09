@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,wpspdf.cn,PROXY
 #end include:wps
 
 DOMAIN-SUFFIX,kimg.cn,PROXY
+DOMAIN-SUFFIX,kingsoft-office-service.com,PROXY
 DOMAIN-SUFFIX,kingsoft.com,PROXY
 DOMAIN-SUFFIX,ks-live.com,PROXY
 DOMAIN-SUFFIX,ksmobile.com,PROXY

@@ -36,6 +36,7 @@ DOMAIN,epicgames-download1.akamaized.net,PROXY
 
 # Epic Game - 游戏下载[Fastly]
 DOMAIN,fastly-download.epicgames.com,PROXY
+DOMAIN-SUFFIX,egdownload.fastly-edge.com,PROXY
 
 # Epic Game - 游戏下载[CloudFlare]
 DOMAIN,cloudflare.epicgamescdn.com,PROXY
