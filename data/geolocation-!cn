@@ -1683,6 +1683,10 @@ DOMAIN-SUFFIX,rumble.com,PROXY
 DOMAIN-SUFFIX,embed-cdn.com,PROXY
 DOMAIN-SUFFIX,streamable.com,PROXY
 #end include:streamable
+#include:terabox
+DOMAIN-SUFFIX,terabox.com,PROXY
+DOMAIN-SUFFIX,teraboxcdn.com,PROXY
+#end include:terabox
 
 # Forums & Social network
 

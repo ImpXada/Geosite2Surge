@@ -121,6 +121,10 @@ DOMAIN-SUFFIX,x.ai,PROXY
 DOMAIN-SUFFIX,coderabbit.ai,PROXY
 DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io,PROXY
 
+# Cohere
+DOMAIN-SUFFIX,cohere.ai,PROXY
+DOMAIN-SUFFIX,cohere.com,PROXY
+
 # Jasper
 DOMAIN-SUFFIX,clipdrop.co,PROXY
 DOMAIN-SUFFIX,jasper.ai,PROXY

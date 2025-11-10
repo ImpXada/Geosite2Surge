@@ -3832,6 +3832,9 @@ DOMAIN-SUFFIX,mingxuan.store,PROXY
 
 # 海南东勤网络科技有限公司 琼ICP备18003843号
 DOMAIN-SUFFIX,qunliao.info,PROXY
+
+# 陕ICP备2024035828号
+DOMAIN-SUFFIX,ao-x.ac.cn,PROXY
 #end include:geolocation-cn
 DOMAIN-SUFFIX,apple.cn,PROXY
 DOMAIN-SUFFIX,apple.com.cn,PROXY
