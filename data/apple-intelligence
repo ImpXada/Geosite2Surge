@@ -3,3 +3,10 @@ DOMAIN,apple-relay.apple.com,PROXY
 DOMAIN,apple-relay.cloudflare.com,PROXY
 DOMAIN,apple-relay.fastly-edge.com,PROXY
 DOMAIN,apple-relay.mask.apple-dns.net,PROXY
+
+# Potentially affected services include:
+# * eSIM region determination for devices in China
+# * China-specific version of Apple Maps
+# * Availability region detection for Apple Watch notifications (High Blood Pressure / Sleep Apnea)
+# * Enabling Wi-Fi Calling for certain carriers
+DOMAIN,gspe1-ssl.ls.apple.com,PROXY

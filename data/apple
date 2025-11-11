@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,iadsdk.apple.com,PROXY
 DOMAIN-SUFFIX,iad.apple.com,PROXY
 DOMAIN-SUFFIX,qwapi.com,PROXY
 #end include:apple-ads
+# Not include:apple-intelligence
 #include:apple-pki
 DOMAIN,certs-lb.apple.com.akadns.net,PROXY
 DOMAIN,certs.apple.com,PROXY
