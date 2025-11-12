@@ -200,7 +200,7 @@ DOMAIN-SUFFIX,wegame.com.cn,PROXY
 DOMAIN-SUFFIX,wegameplus.com,PROXY
 DOMAIN-SUFFIX,werepository.com.cn,PROXY
 
-# Supercell
+# Supercell cn (data/supercell is for non-cn domains)
 DOMAIN-SUFFIX,brawlstars.cn,PROXY
 DOMAIN-SUFFIX,haydaypop.cn,PROXY
 DOMAIN-SUFFIX,labycore.cn,PROXY
@@ -209,7 +209,6 @@ DOMAIN-SUFFIX,sccreators.cn,PROXY
 DOMAIN-SUFFIX,scescdn.cn,PROXY
 DOMAIN-SUFFIX,scid.cn,PROXY
 DOMAIN-SUFFIX,scsentry.cn,PROXY
-DOMAIN-SUFFIX,supercell.com,PROXY
 DOMAIN-SUFFIX,supercellcommunity.cn,PROXY
 DOMAIN-SUFFIX,supercellsupport.cn,PROXY
 

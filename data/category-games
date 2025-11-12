@@ -556,6 +556,7 @@ DOMAIN-SUFFIX,gstore.val.manlaxy.com,PROXY
 DOMAIN-SUFFIX,steamunlocked.net,PROXY
 #end include:steamunlocked
 #include:supercell
+# supercell cn domains is added to tencent-games
 DOMAIN-SUFFIX,boombeach.com,PROXY
 DOMAIN-SUFFIX,brawlstars.com,PROXY
 DOMAIN-SUFFIX,brawlstarsgame.com,PROXY

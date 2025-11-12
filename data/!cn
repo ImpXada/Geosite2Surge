@@ -181,7 +181,6 @@ DOMAIN-SUFFIX,myip.la,PROXY
 DOMAIN-SUFFIX,emsec.hk,PROXY
 DOMAIN-SUFFIX,ccbintl.com.hk,PROXY
 DOMAIN-SUFFIX,ccbseoul.com,PROXY
-DOMAIN-SUFFIX,supercell.com,PROXY
 DOMAIN-SUFFIX,iq.com,PROXY
 DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com,PROXY
 DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com,PROXY
@@ -205,6 +204,7 @@ DOMAIN-SUFFIX,dreamcast.hk,PROXY
 DOMAIN-SUFFIX,thepoizon.ru,PROXY
 DOMAIN-SUFFIX,c.mi.com,PROXY
 DOMAIN-SUFFIX,global.market.xiaomi.com,PROXY
+DOMAIN-SUFFIX,taptap.io,PROXY
 DOMAIN-SUFFIX,chinaunicom.com.hk,PROXY
 DOMAIN-SUFFIX,chinaunicomglobal.com,PROXY
 DOMAIN-SUFFIX,cuniq.com,PROXY

@@ -503,64 +503,6 @@ DOMAIN-SUFFIX,litvfreepc.akamaized.net,PROXY
 #include:manhuagui
 DOMAIN-SUFFIX,manhuagui.com,PROXY
 #end include:manhuagui
-#include:mihoyo
-# 原神
-DOMAIN-SUFFIX,genshinimpact.com,PROXY
-
-# 崩壞3
-DOMAIN-SUFFIX,honkaiimpact3.com,PROXY
-
-# 星穹鐵道
-DOMAIN-SUFFIX,honkaistarrail.com,PROXY
-
-# 短網址
-DOMAIN-SUFFIX,hoyo.link,PROXY
-
-# HoYoLab
-DOMAIN-SUFFIX,hoyolab.com,PROXY
-
-# HoYoverse
-DOMAIN-SUFFIX,hoyoverse.com,PROXY
-
-# n0va
-DOMAIN-SUFFIX,n0vadesktop.com,PROXY
-
-# 絕區零(Zenless Zone Zero)
-DOMAIN-SUFFIX,zenlesszonezero.com,PROXY
-#end include:hoyoverse
-# 米哈游
-DOMAIN-SUFFIX,mhystatic.com,PROXY
-DOMAIN-SUFFIX,mhyurl.cn,PROXY
-DOMAIN-SUFFIX,mihayo.com,PROXY
-DOMAIN-SUFFIX,mihayou.com,PROXY
-DOMAIN-SUFFIX,mihoyo.com,PROXY
-DOMAIN-SUFFIX,mihoyocg.com,PROXY
-DOMAIN-SUFFIX,mihoyogift.com,PROXY
-DOMAIN-SUFFIX,mihoyomall.com,PROXY
-DOMAIN-SUFFIX,miyoushe.com,PROXY
-
-# 崩坏2
-DOMAIN-SUFFIX,benghuai.com,PROXY
-
-# 崩坏3
-DOMAIN-SUFFIX,bh3.com,PROXY
-
-# 星穹铁道
-DOMAIN-SUFFIX,bhsr.com,PROXY
-
-# 未定事件簿
-DOMAIN-SUFFIX,themisweeps.com,PROXY
-
-# 原神
-DOMAIN-SUFFIX,yuanshen.com,PROXY
-
-#绝区零
-DOMAIN-SUFFIX,juequling.com,PROXY
-
-# Akamai
-DOMAIN-WILDCARD,*-mihayo.akamaized.net,PROXY
-#end include:mihoyo-cn
-#end include:mihoyo
 #include:mubi
 DOMAIN-SUFFIX,mubi.com,PROXY
 DOMAIN-SUFFIX,mubicdn.net,PROXY
