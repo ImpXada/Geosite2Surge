@@ -131,6 +131,7 @@ DOMAIN-SUFFIX,tiangong.cn,PROXY
 
 # 字节跳动：豆包、Trae(MarsCode)
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX,butterfly-static.cn,PROXY
 DOMAIN-SUFFIX,butterflyai.cn,PROXY
 DOMAIN-SUFFIX,coze.cn,PROXY
@@ -145,10 +146,9 @@ DOMAIN-SUFFIX,maoxiangai.com,PROXY
 DOMAIN-SUFFIX,myparallelstory.com,PROXY
 DOMAIN-SUFFIX,picpic-ai.cn,PROXY
 DOMAIN-SUFFIX,pixeldance.com,PROXY
-
-DOMAIN-SUFFIX,coze.com,PROXY
 #end include:doubao
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX,doudou.com,PROXY
 DOMAIN-SUFFIX,marscode.cn,PROXY
 DOMAIN-SUFFIX,marscode.com.cn,PROXY
@@ -161,9 +161,6 @@ DOMAIN-SUFFIX,trae.cn,PROXY
 DOMAIN-SUFFIX,trae.com.cn,PROXY
 DOMAIN-SUFFIX,trae.guru,PROXY
 DOMAIN-SUFFIX,yoma.cn,PROXY
-
-DOMAIN-SUFFIX,marscode.com,PROXY
-DOMAIN-SUFFIX,trae.ai,PROXY
 #end include:trae
 
 # 智谱清言
@@ -260,9 +257,6 @@ DOMAIN-SUFFIX,everbright.com,PROXY
 DOMAIN-SUFFIX,secec.com,PROXY
 DOMAIN-SUFFIX,sunlife-everbright.com,PROXY
 #end include:everbright
-#include:hsqh
-DOMAIN-SUFFIX,hsqh.net,PROXY
-#end include:hsqh
 #include:pingan
 DOMAIN-SUFFIX,pingan.com,PROXY
 DOMAIN-SUFFIX,pingan.com.cn,PROXY
@@ -275,6 +269,8 @@ DOMAIN-SUFFIX,taikanglife.com,PROXY
 DOMAIN-SUFFIX,taikangzhijia.com,PROXY
 DOMAIN-SUFFIX,tkhealthcare.com,PROXY
 #end include:taikang
+
+DOMAIN-SUFFIX,hsqh.net,PROXY    #徽商期货有限责任公司
 
 # Blogs
 #include:category-blog-cn
@@ -299,8 +295,6 @@ DOMAIN-SUFFIX,517lppz.com,PROXY
 DOMAIN-SUFFIX,lppz.com,PROXY
 DOMAIN-SUFFIX,lppzimg.com,PROXY
 #end include:bestore
-DOMAIN-SUFFIX,heytea.com,PROXY
-#end include:heytea
 DOMAIN-SUFFIX,lkcoffee.com,PROXY
 DOMAIN-SUFFIX,luckincoffeecdn.com,PROXY
 DOMAIN-SUFFIX,yyds.co,PROXY
@@ -308,6 +302,9 @@ DOMAIN-SUFFIX,yyds.co,PROXY
 
 DOMAIN-SUFFIX,3songshu.com,PROXY
 DOMAIN-SUFFIX,haidilao.com,PROXY
+
+# 喜茶
+DOMAIN-SUFFIX,heytea.com,PROXY
 
 # 俺来也（上海）网络科技有限公司
 DOMAIN-SUFFIX,anlaiye.com,PROXY
@@ -608,9 +605,6 @@ DOMAIN-SUFFIX,amzndns-cn.net,PROXY
 DOMAIN-WILDCARD,*.awsdns-cn-??.,PROXY
 DOMAIN-WILDCARD,*.awsdns-cn-??.cn,PROXY
 #end include:aws-cn
-#include:baijiayun
-DOMAIN-SUFFIX,baijiayun.com,PROXY
-#end include:baijiayun
 #include:bootcdn
 DOMAIN-SUFFIX,bootcdn.cn,PROXY
 DOMAIN-SUFFIX,bootcdn.net,PROXY
@@ -665,9 +659,6 @@ DOMAIN-SUFFIX,maoyun.com,PROXY
 DOMAIN-SUFFIX,maoyuncloud.cn,PROXY
 DOMAIN-SUFFIX,maoyuncloud.com,PROXY
 #end include:maocloud
-#include:pkoplink
-DOMAIN-SUFFIX,pkoplink.com,PROXY
-#end include:pkoplink
 #include:qingcloud
 DOMAIN-SUFFIX,frontwize.com,PROXY
 DOMAIN-SUFFIX,qingcache.com,PROXY
@@ -785,6 +776,25 @@ DOMAIN-SUFFIX,yfp2p.net,PROXY
 DOMAIN-SUFFIX,yfscdn.net,PROXY
 DOMAIN-SUFFIX,yunfancdn.com,PROXY
 #end include:yunfanjiasu
+
+# 百家云
+DOMAIN-SUFFIX,baijiayun.com,PROXY
+
+# 明源云
+DOMAIN-SUFFIX,fdcyun.com,PROXY
+DOMAIN-SUFFIX,mingyuanyun.com,PROXY
+DOMAIN-SUFFIX,mypaas.com,PROXY
+DOMAIN-SUFFIX,mypaas.com.cn,PROXY
+DOMAIN-SUFFIX,myypark.com,PROXY
+
+# 开普云
+DOMAIN-SUFFIX,kaipuyun.cn,PROXY
+DOMAIN-SUFFIX,kaipuyun.com,PROXY
+DOMAIN-SUFFIX,kaipuyun.com.cn,PROXY
+DOMAIN-SUFFIX,kaipuyun.net,PROXY
+
+# 江西节点技术服务有限公司
+DOMAIN-SUFFIX,pkoplink.com,PROXY
 
 DOMAIN-SUFFIX,funcdn.com,PROXY
 DOMAIN-SUFFIX,knet.cn,PROXY    #北龙中网
@@ -1153,9 +1163,6 @@ DOMAIN-SUFFIX,ljcdn.com,PROXY
 DOMAIN-SUFFIX,beckyroom.com,PROXY
 DOMAIN-SUFFIX,ke.com,PROXY
 #end include:lianjia
-#include:manmanbuy
-DOMAIN-SUFFIX,manmanbuy.com,PROXY
-#end include:manmanbuy
 #include:meituan
 DOMAIN-SUFFIX,dianping.com,PROXY
 DOMAIN-SUFFIX,maoyan.com,PROXY
@@ -1237,6 +1244,8 @@ DOMAIN-SUFFIX,appsimg.com,PROXY
 DOMAIN-SUFFIX,appvipshop.com,PROXY
 DOMAIN-SUFFIX,vip.com,PROXY
 DOMAIN-SUFFIX,vipstatic.com,PROXY
+# 慢慢买
+DOMAIN-SUFFIX,manmanbuy.com,PROXY
 # 瞎买
 DOMAIN-SUFFIX,xiamai.net,PROXY
 
@@ -1335,16 +1344,13 @@ DOMAIN-SUFFIX,guaiku.com,PROXY
 #end include:category-game-accelerator-cn
 
 # Forums
-#include:chiphell
-DOMAIN-SUFFIX,chiphell.com,PROXY
-#end include:chiphell
-#include:erji
-DOMAIN-SUFFIX,erji.net,PROXY
-#end include:erji
-#include:hacpai
+#include:b3log
+# 云南链滴科技有限公司 滇ICP备14007358号
+DOMAIN-SUFFIX,b3log.org,PROXY
+DOMAIN-SUFFIX,b3logfile.com,PROXY
 DOMAIN-SUFFIX,hacpai.com,PROXY
 DOMAIN-SUFFIX,ld246.com,PROXY
-#end include:hacpai
+#end include:b3log
 #include:kechuang
 DOMAIN-SUFFIX,kechuang.org,PROXY
 DOMAIN,kc.kexinshe.com,PROXY
@@ -1357,10 +1363,13 @@ DOMAIN-SUFFIX,ngacn.cc,PROXY
 #end include:nga
 #include:stage1st
 DOMAIN-SUFFIX,saraba1st.com,PROXY
+DOMAIN-SUFFIX,stage1st.com,PROXY
 #end include:stage1st
 
 DOMAIN-SUFFIX,52pojie.cn,PROXY    #吾爱破解
+DOMAIN-SUFFIX,chiphell.com,PROXY    #ChipHell
 DOMAIN-SUFFIX,chongbuluo.com,PROXY    #虫部落
+DOMAIN-SUFFIX,erji.net,PROXY    #耳机网
 DOMAIN-SUFFIX,itsk.com,PROXY    #IT天空论坛
 DOMAIN-SUFFIX,kafan.cn,PROXY    #卡饭论坛
 DOMAIN-SUFFIX,kanxue.com,PROXY    #看雪
@@ -1435,9 +1444,6 @@ DOMAIN-SUFFIX,mcmod.cn,PROXY
 DOMAIN-SUFFIX,qiuwenbaike.cn,PROXY
 DOMAIN-SUFFIX,qiuwen.wiki,PROXY
 #end include:category-wiki-cn
-#include:cugbonline
-DOMAIN-SUFFIX,cugbonline.cn,PROXY
-#end include:cugbonline
 #include:guokr
 DOMAIN-SUFFIX,guokr.com,PROXY
 DOMAIN-SUFFIX,guokr.net,PROXY
@@ -1449,12 +1455,6 @@ DOMAIN-SUFFIX,hongen.com,PROXY
 #end include:ihuman
 
 # Services & Softwares
-#include:3type
-DOMAIN-SUFFIX,3type.cn,PROXY
-#end include:3type
-#include:4paradigm
-DOMAIN-SUFFIX,4paradigm.com,PROXY
-#end include:4paradigm
 #include:51job
 DOMAIN-SUFFIX,51job.com,PROXY
 DOMAIN-SUFFIX,51jobcdn.com,PROXY
@@ -1473,9 +1473,6 @@ DOMAIN-SUFFIX,agora.io,PROXY
 DOMAIN-SUFFIX,agoraio.cn,PROXY
 DOMAIN-SUFFIX,agoralab.co,PROXY
 #end include:agora
-#include:antutu
-DOMAIN-SUFFIX,antutu.com,PROXY
-#end include:antutu
 #include:category-collaborate-cn
 # Remote Desktop
 ## Oray
@@ -1567,16 +1564,10 @@ DOMAIN-SUFFIX,chinaz.net,PROXY
 DOMAIN-SUFFIX,caiyunai.com,PROXY
 DOMAIN-SUFFIX,caiyunapp.com,PROXY
 #end include:colorfulclouds
-#include:dida365
-DOMAIN-SUFFIX,dida365.com,PROXY
-#end include:dida365
 #include:flowus
 DOMAIN-SUFFIX,allflow.cn,PROXY
 DOMAIN-SUFFIX,flowus.cn,PROXY
 #end include:flowus
-#include:foundertype
-DOMAIN-SUFFIX,foundertype.com,PROXY
-#end include:foundertype
 #include:geetest
 DOMAIN-SUFFIX,geetest.com,PROXY
 
@@ -1627,9 +1618,6 @@ DOMAIN-SUFFIX,keepcdn.com,PROXY
 DOMAIN-SUFFIX,lagou.com,PROXY
 DOMAIN-SUFFIX,lgstatic.com,PROXY
 #end include:lagou
-#include:ldmnq
-DOMAIN-SUFFIX,ldmnq.com,PROXY
-#end include:ldmnq
 #include:liepin
 DOMAIN-SUFFIX,liepin.com,PROXY
 DOMAIN-SUFFIX,lietou.com,PROXY
@@ -1715,9 +1703,6 @@ DOMAIN-SUFFIX,wolai.com,PROXY
 DOMAIN-SUFFIX,wol.tv,PROXY
 DOMAIN-SUFFIX,wostatic.cn,PROXY
 #end include:wolai
-#include:yinxiang
-DOMAIN-SUFFIX,yinxiang.com,PROXY
-#end include:yinxiang
 #include:zdns
 DOMAIN-SUFFIX,zcmbc.com.cn,PROXY
 DOMAIN-SUFFIX,zdns.cn,PROXY
@@ -1737,6 +1722,9 @@ DOMAIN-SUFFIX,mob.com,PROXY
 DOMAIN-SUFFIX,dutils.com,PROXY
 DOMAIN-SUFFIX,accuratead.cn,PROXY
 #end include:zhangtao
+
+# 方正字库
+DOMAIN-SUFFIX,foundertype.com,PROXY
 
 # BOSS 直聘
 DOMAIN-SUFFIX,zhipin.com,PROXY
@@ -1817,9 +1805,6 @@ DOMAIN-SUFFIX,taou.com,PROXY
 # Software development related
 
 # Tech companies & Orginations
-#include:b3log
-DOMAIN-SUFFIX,b3log.org,PROXY
-#end include:b3log
 #include:beisen
 DOMAIN-SUFFIX,beisen.com,PROXY
 DOMAIN-SUFFIX,beisen.cn,PROXY
@@ -2385,23 +2370,14 @@ DOMAIN,www.ztedevices.com,PROXY
 DOMAIN,ztedevices.com,PROXY
 #end include:zte
 
+DOMAIN-SUFFIX,antutu.com,PROXY    #安兔兔
+DOMAIN-SUFFIX,dida365.com,PROXY    #滴答清单
 DOMAIN-SUFFIX,huorong.cn,PROXY    #火绒
 DOMAIN-SUFFIX,quickapp.cn,PROXY    #快应用
+DOMAIN-SUFFIX,roborock.com,PROXY    #石头科技
 DOMAIN-SUFFIX,socpk.com,PROXY    #极客湾移动芯片排行
 DOMAIN-SUFFIX,udesk.cn,PROXY    #沃丰科技
-
-# 明源云
-DOMAIN-SUFFIX,fdcyun.com,PROXY
-DOMAIN-SUFFIX,mingyuanyun.com,PROXY
-DOMAIN-SUFFIX,mypaas.com,PROXY
-DOMAIN-SUFFIX,mypaas.com.cn,PROXY
-DOMAIN-SUFFIX,myypark.com,PROXY
-
-# 开普云
-DOMAIN-SUFFIX,kaipuyun.cn,PROXY
-DOMAIN-SUFFIX,kaipuyun.com,PROXY
-DOMAIN-SUFFIX,kaipuyun.com.cn,PROXY
-DOMAIN-SUFFIX,kaipuyun.net,PROXY
+DOMAIN-SUFFIX,yinxiang.com,PROXY    #印象笔记
 
 # 酷控
 DOMAIN-SUFFIX,deepepg.com,PROXY
@@ -2522,14 +2498,6 @@ DOMAIN-SUFFIX,uoj.ac,PROXY
 DOMAIN-SUFFIX,vijos.org,PROXY
 #end include:category-olympiad-in-informatics
 
-# 语言能力测试
-#include:j-test
-DOMAIN-SUFFIX,j-test.com,PROXY
-#end include:j-test
-#include:nat-test
-DOMAIN-SUFFIX,nattest-china.com,PROXY
-#end include:nat-test
-
 # 在线工具
 DOMAIN-SUFFIX,itdog.cn,PROXY    #itdog网站工具箱
 DOMAIN-SUFFIX,webmasterhome.cn,PROXY    #站长之家
@@ -2590,29 +2558,21 @@ DOMAIN-SUFFIX,aiqicha.baidu.com,PROXY
 DOMAIN-SUFFIX,aiqicha.cn,PROXY
 DOMAIN-SUFFIX,aiqicha.com,PROXY
 #end include:aiqicha
-#include:hongdunwang
-DOMAIN-SUFFIX,hongdunwang.com.cn,PROXY
-#end include:hongdunwang
 #include:qcc
 DOMAIN-SUFFIX,qcc.com,PROXY
 DOMAIN-SUFFIX,qichacha.com,PROXY
 #end include:qcc
-#include:qichamao
-DOMAIN-SUFFIX,qichamao.com,PROXY
-#end include:qichamao
 #include:qixin
 DOMAIN-SUFFIX,qixin.com,PROXY
 #end include:qixin
-#include:qyyjt
-DOMAIN-SUFFIX,qyyjt.cn,PROXY
-#end include:qyyjt
 #include:tianyancha
 DOMAIN-SUFFIX,jindidata.com,PROXY
 DOMAIN-SUFFIX,tianyancha.com,PROXY
 #end include:tianyancha
-#include:x315
+
+DOMAIN-SUFFIX,qichamao.com,PROXY
+DOMAIN-SUFFIX,qyyjt.cn,PROXY
 DOMAIN-SUFFIX,x315.com,PROXY
-#end include:x315
 #end include:category-enterprise-query-platform-cn
 #include:8btc
 DOMAIN-SUFFIX,8btc.com,PROXY
@@ -2739,8 +2699,10 @@ DOMAIN-SUFFIX,39.net,PROXY
 DOMAIN-SUFFIX,3d66.com,PROXY
 DOMAIN-SUFFIX,3elife.net,PROXY
 DOMAIN-SUFFIX,3h3.com,PROXY
+DOMAIN-SUFFIX,3type.cn,PROXY
 DOMAIN-SUFFIX,3yx.com,PROXY
 DOMAIN-SUFFIX,40407.com,PROXY
+DOMAIN-SUFFIX,4paradigm.com,PROXY
 DOMAIN-SUFFIX,500.com,PROXY
 DOMAIN-SUFFIX,500d.me,PROXY
 DOMAIN-SUFFIX,50bang.org,PROXY
@@ -2946,8 +2908,6 @@ DOMAIN-SUFFIX,cwxzx.com,PROXY
 DOMAIN-SUFFIX,cyagen.com,PROXY
 DOMAIN-SUFFIX,cybtc.com,PROXY
 DOMAIN-SUFFIX,cyts.com,PROXY
-DOMAIN-SUFFIX,cztv.com,PROXY
-DOMAIN-SUFFIX,cztvcloud.com,PROXY
 DOMAIN-SUFFIX,dadajiasu.com,PROXY
 DOMAIN-SUFFIX,dadighost.com,PROXY
 DOMAIN-SUFFIX,daguzhe.com,PROXY
@@ -3186,9 +3146,7 @@ DOMAIN-SUFFIX,jmstatic.com,PROXY
 DOMAIN-SUFFIX,job5588.com,PROXY
 DOMAIN-SUFFIX,job910.com,PROXY
 DOMAIN-SUFFIX,jobjm.com,PROXY
-DOMAIN-SUFFIX,jsbc.com,PROXY
 DOMAIN-SUFFIX,jsrdgg.com,PROXY
-DOMAIN-SUFFIX,jstv.com,PROXY
 DOMAIN-SUFFIX,jsyks.com,PROXY
 DOMAIN-SUFFIX,juefeng.com,PROXY
 DOMAIN-SUFFIX,julive.com,PROXY
@@ -3696,7 +3654,6 @@ DOMAIN-SUFFIX,zhugeio.com,PROXY
 DOMAIN-SUFFIX,zimuzu.io,PROXY
 DOMAIN-SUFFIX,zixiaomao.com,PROXY
 DOMAIN-SUFFIX,zixuntop.com,PROXY
-DOMAIN-SUFFIX,zjstv.com,PROXY
 DOMAIN-SUFFIX,zmengzhu.com,PROXY
 DOMAIN-SUFFIX,zongheng.com,PROXY
 DOMAIN-SUFFIX,zpb365.com,PROXY
@@ -4098,6 +4055,7 @@ DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net,PROXY
 DOMAIN,xp.apple.com,PROXY
 DOMAIN-SUFFIX,reckittbenckiser.cn,PROXY
 DOMAIN-SUFFIX,reckittbenckiser.com.cn,PROXY
+DOMAIN-SUFFIX,ldmnq.com,PROXY
 DOMAIN-SUFFIX,lsplayer.com,PROXY
 DOMAIN-SUFFIX,yeshen.com,PROXY
 DOMAIN-SUFFIX,heavenlywind.cc,PROXY

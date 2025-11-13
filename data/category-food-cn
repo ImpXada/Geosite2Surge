@@ -2,8 +2,6 @@ DOMAIN-SUFFIX,517lppz.com,PROXY
 DOMAIN-SUFFIX,lppz.com,PROXY
 DOMAIN-SUFFIX,lppzimg.com,PROXY
 #end include:bestore
-DOMAIN-SUFFIX,heytea.com,PROXY
-#end include:heytea
 DOMAIN-SUFFIX,lkcoffee.com,PROXY
 DOMAIN-SUFFIX,luckincoffeecdn.com,PROXY
 DOMAIN-SUFFIX,yyds.co,PROXY
@@ -11,6 +9,9 @@ DOMAIN-SUFFIX,yyds.co,PROXY
 
 DOMAIN-SUFFIX,3songshu.com,PROXY
 DOMAIN-SUFFIX,haidilao.com,PROXY
+
+# 喜茶
+DOMAIN-SUFFIX,heytea.com,PROXY
 
 # 俺来也（上海）网络科技有限公司
 DOMAIN-SUFFIX,anlaiye.com,PROXY

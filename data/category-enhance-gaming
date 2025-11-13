@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,tracker.network,PROXY
 
 # Android Emulator
 DOMAIN-SUFFIX,bluestacks.com,PROXY
+DOMAIN-SUFFIX,ldmnq.com,PROXY
 DOMAIN-SUFFIX,lsplayer.com,PROXY
 DOMAIN-SUFFIX,yeshen.com,PROXY
 

@@ -690,6 +690,7 @@ DOMAIN-SUFFIX,mingw.org,PROXY
 DOMAIN-SUFFIX,mobatek.net,PROXY
 
 DOMAIN-SUFFIX,mysql.com,PROXY
+DOMAIN-SUFFIX,neovim.io,PROXY
 DOMAIN-SUFFIX,nixos.org,PROXY
 DOMAIN-SUFFIX,nodesource.com,PROXY
 DOMAIN-SUFFIX,notepad-plus-plus.org,PROXY

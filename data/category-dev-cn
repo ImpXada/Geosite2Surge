@@ -97,9 +97,6 @@ DOMAIN-SUFFIX,owsgo.com,PROXY
 DOMAIN-SUFFIX,teleows.com,PROXY
 DOMAIN-SUFFIX,saasops.tech,PROXY
 #end include:huawei-dev
-#include:jinrishici
-DOMAIN-SUFFIX,jinrishici.com,PROXY
-#end include:jinrishici
 #include:juejin
 DOMAIN-SUFFIX,juejin.cn,PROXY
 DOMAIN-SUFFIX,juejin.im,PROXY
@@ -176,13 +173,10 @@ DOMAIN-SUFFIX,wegamedeveloper.com,PROXY
 DOMAIN-SUFFIX,weixinbridge.com,PROXY
 DOMAIN-SUFFIX,weui.io,PROXY
 #end include:tencent-dev
-#include:tipdm
-DOMAIN-SUFFIX,tipdim.org,PROXY
-#end include:tipdm
 #include:ubuntukylin
 DOMAIN-SUFFIX,openkylin.top,PROXY
 DOMAIN-SUFFIX,ubuntukylin.com,PROXY
 #end include:ubuntukylin
-#include:xueyuanjun
-DOMAIN-SUFFIX,xueyuanjun.com,PROXY
-#end include:xueyuanjun
+
+DOMAIN-SUFFIX,jinrishici.com,PROXY
+DOMAIN-SUFFIX,tipdm.org,PROXY

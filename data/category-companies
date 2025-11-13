@@ -1026,6 +1026,15 @@ DOMAIN-SUFFIX,canon.uz,PROXY
 DOMAIN-SUFFIX,canonfoundation.org,PROXY
 DOMAIN-SUFFIX,canonproprinters.com,PROXY
 #end include:canon
+#include:canva
+# affinity
+DOMAIN-SUFFIX,affinity.api.serifservices.com,PROXY
+DOMAIN-SUFFIX,affinity.studio,PROXY
+DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com,PROXY
+DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com,PROXY
+
+DOMAIN-SUFFIX,canva.com,PROXY
+#end include:canva
 #include:chegg
 DOMAIN-SUFFIX,chegg.com,PROXY
 DOMAIN-SUFFIX,cheggcdn.com,PROXY

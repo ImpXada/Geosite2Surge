@@ -24,9 +24,10 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com,PROXY
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com,PROXY
 #end include:bytedance-ads
 
-#include:dola # not serving for cn
+#include:bytedance-ai-!cn # not serving for cn
 #include:doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX,butterfly-static.cn,PROXY
 DOMAIN-SUFFIX,butterflyai.cn,PROXY
 DOMAIN-SUFFIX,coze.cn,PROXY
@@ -41,8 +42,6 @@ DOMAIN-SUFFIX,maoxiangai.com,PROXY
 DOMAIN-SUFFIX,myparallelstory.com,PROXY
 DOMAIN-SUFFIX,picpic-ai.cn,PROXY
 DOMAIN-SUFFIX,pixeldance.com,PROXY
-
-DOMAIN-SUFFIX,coze.com,PROXY
 #end include:doubao
 #include:fqnovel
 DOMAIN-SUFFIX,activity-zhendingtech.com,PROXY
@@ -128,6 +127,7 @@ DOMAIN,p16-tiktokcdn-com.akamaized.net,PROXY
 #end include:tiktok
 #include:trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX,doudou.com,PROXY
 DOMAIN-SUFFIX,marscode.cn,PROXY
 DOMAIN-SUFFIX,marscode.com.cn,PROXY
@@ -140,9 +140,6 @@ DOMAIN-SUFFIX,trae.cn,PROXY
 DOMAIN-SUFFIX,trae.com.cn,PROXY
 DOMAIN-SUFFIX,trae.guru,PROXY
 DOMAIN-SUFFIX,yoma.cn,PROXY
-
-DOMAIN-SUFFIX,marscode.com,PROXY
-DOMAIN-SUFFIX,trae.ai,PROXY
 #end include:trae
 #include:volcengine
 DOMAIN-SUFFIX,aigc-cloud.com,PROXY

@@ -50,12 +50,6 @@ DOMAIN-SUFFIX,cns.com.cn,PROXY
 DOMAIN-SUFFIX,ecns.cn,PROXY
 DOMAIN-SUFFIX,inewsweek.cn,PROXY
 #end include:chinanews
-#include:dgtle
-DOMAIN-SUFFIX,dgtle.com,PROXY
-#end include:dgtle
-#include:geekpark
-DOMAIN-SUFFIX,geekpark.net,PROXY
-#end include:geekpark
 #include:ifanr
 DOMAIN-SUFFIX,coolbuy.com,PROXY
 DOMAIN-SUFFIX,ifanr.cn,PROXY
@@ -183,12 +177,6 @@ DOMAIN-SUFFIX,itc.cn,PROXY
 DOMAIN-SUFFIX,sohu.com,PROXY
 DOMAIN-SUFFIX,sohucs.com,PROXY
 #end include:sohu
-#include:solidot
-DOMAIN-SUFFIX,solidot.org,PROXY
-#end include:solidot
-#include:sspai
-DOMAIN-SUFFIX,sspai.com,PROXY
-#end include:sspai
 #include:tmtpost
 # Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
 
@@ -220,6 +208,31 @@ DOMAIN-SUFFIX,ynet.cn,PROXY
 DOMAIN-SUFFIX,ynet.com,PROXY
 DOMAIN-SUFFIX,ynet.com.cn,PROXY
 #end include:ynet
+
+# 江苏省广播电视总台
+DOMAIN-SUFFIX,jsbc.com,PROXY
+DOMAIN-SUFFIX,jstv.com,PROXY
+
+# 浙江广播电视集团/浙江卫视/新蓝网
+DOMAIN-SUFFIX,cztv.com,PROXY
+DOMAIN-SUFFIX,cztvcdn.com,PROXY
+DOMAIN-SUFFIX,cztvcloud.com,PROXY
+DOMAIN-SUFFIX,zjstv.com,PROXY
+
+# 数字尾巴
+DOMAIN-SUFFIX,dgtle.com,PROXY
+
+# 机核
+DOMAIN-SUFFIX,gcores.com,PROXY
+
+# 极客公园
+DOMAIN-SUFFIX,geekpark,PROXY
+
+# 奇客资讯网
+DOMAIN-SUFFIX,solidot.org,PROXY
+
+# 少数派
+DOMAIN-SUFFIX,sspai.com,PROXY
 
 # 证券时报网
 DOMAIN-SUFFIX,stcn.com,PROXY
@@ -364,3 +377,6 @@ DOMAIN-SUFFIX,admin5.com,PROXY
 
 # 江西省出版传媒集团
 DOMAIN-SUFFIX,jxpp.com,PROXY
+
+# 人人都是产品经理
+DOMAIN-SUFFIX,woshipm.com,PROXY

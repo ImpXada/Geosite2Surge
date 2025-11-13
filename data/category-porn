@@ -52,6 +52,8 @@ DOMAIN-SUFFIX,sesez.com,PROXY
 #include:bongacams
 DOMAIN-SUFFIX,bcicdn.com,PROXY
 DOMAIN-SUFFIX,bcrncdn.com,PROXY
+DOMAIN-SUFFIX,bcvcdn.com,PROXY
+DOMAIN-SUFFIX,bgicdn.com,PROXY
 DOMAIN-SUFFIX,bongacams.com,PROXY
 #end include:bongacams
 #include:boylove

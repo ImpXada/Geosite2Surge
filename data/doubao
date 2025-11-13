@@ -1,4 +1,5 @@
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX,butterfly-static.cn,PROXY
 DOMAIN-SUFFIX,butterflyai.cn,PROXY
 DOMAIN-SUFFIX,coze.cn,PROXY
@@ -13,5 +14,3 @@ DOMAIN-SUFFIX,maoxiangai.com,PROXY
 DOMAIN-SUFFIX,myparallelstory.com,PROXY
 DOMAIN-SUFFIX,picpic-ai.cn,PROXY
 DOMAIN-SUFFIX,pixeldance.com,PROXY
-
-DOMAIN-SUFFIX,coze.com,PROXY

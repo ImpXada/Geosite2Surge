@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,tiangong.cn,PROXY
 
 # 字节跳动：豆包、Trae(MarsCode)
 # 北京春田知韵科技有限公司 京ICP备2023020373号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX,butterfly-static.cn,PROXY
 DOMAIN-SUFFIX,butterflyai.cn,PROXY
 DOMAIN-SUFFIX,coze.cn,PROXY
@@ -36,10 +37,9 @@ DOMAIN-SUFFIX,maoxiangai.com,PROXY
 DOMAIN-SUFFIX,myparallelstory.com,PROXY
 DOMAIN-SUFFIX,picpic-ai.cn,PROXY
 DOMAIN-SUFFIX,pixeldance.com,PROXY
-
-DOMAIN-SUFFIX,coze.com,PROXY
 #end include:doubao
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
+# non-cn domains is added to bytedance-ai-!cn
 DOMAIN-SUFFIX,doudou.com,PROXY
 DOMAIN-SUFFIX,marscode.cn,PROXY
 DOMAIN-SUFFIX,marscode.com.cn,PROXY
@@ -52,9 +52,6 @@ DOMAIN-SUFFIX,trae.cn,PROXY
 DOMAIN-SUFFIX,trae.com.cn,PROXY
 DOMAIN-SUFFIX,trae.guru,PROXY
 DOMAIN-SUFFIX,yoma.cn,PROXY
-
-DOMAIN-SUFFIX,marscode.com,PROXY
-DOMAIN-SUFFIX,trae.ai,PROXY
 #end include:trae
 
 # 智谱清言

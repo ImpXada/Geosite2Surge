@@ -1,9 +1,6 @@
 # Entertainment & Videos & Games & Music & Podcasts
 
 
-#include:3dm
-DOMAIN-SUFFIX,3dmgame.com,PROXY
-#end include:3dm
 #include:acfun
 # Beijing Danmu Network Technology Co., Ltd.
 
@@ -23,9 +20,6 @@ DOMAIN,apilog-web.acfun.cn,PROXY
 DOMAIN-SUFFIX,acplay.net,PROXY
 DOMAIN-SUFFIX,dandanplay.com,PROXY
 #end include:acplay
-#include:ali213
-DOMAIN-SUFFIX,ali213.net,PROXY
-#end include:ali213
 #include:bestv
 # 百视通
 DOMAIN-SUFFIX,bbtv.cn,PROXY
@@ -114,9 +108,6 @@ DOMAIN-SUFFIX,mogoo.com,PROXY
 DOMAIN-SUFFIX,sao.cn,PROXY
 DOMAIN-SUFFIX,saolife.com,PROXY
 #end include:dedao
-#include:dmzj
-DOMAIN-SUFFIX,dmzj.com,PROXY
-#end include:dmzj
 #include:douyin
 # 北京抖音科技有限公司 京ICP备16016397号
 # 抖音、抖音火山版、汽水音乐
@@ -259,9 +250,6 @@ DOMAIN-SUFFIX,ja1.gamersky.com,PROXY
 DOMAIN-SUFFIX,ja2.gamersky.com,PROXY
 DOMAIN-SUFFIX,wmbd.gamersky.com,PROXY
 #end include:gamersky
-#include:gcores
-DOMAIN-SUFFIX,gcores.com,PROXY
-#end include:gcores
 #include:gitv
 DOMAIN-SUFFIX,gitv.cn,PROXY
 DOMAIN-SUFFIX,gitv.tv,PROXY
@@ -320,9 +308,6 @@ DOMAIN-SUFFIX,policy.video.iqiyi.com,PROXY
 DOMAIN-SUFFIX,yuedu.iqiyi.com,PROXY
 #end include:iqiyi-ads
 #end include:iqiyi
-#include:jinjiang
-DOMAIN-SUFFIX,jjwxc.net,PROXY
-#end include:jinjiang
 #include:ku6
 DOMAIN-SUFFIX,ku6.com,PROXY
 DOMAIN-SUFFIX,ku6cdn.com,PROXY
@@ -368,15 +353,6 @@ DOMAIN-SUFFIX,letvimg.com,PROXY
 DOMAIN-SUFFIX,lizhi.fm,PROXY
 DOMAIN-SUFFIX,lizhifm.com,PROXY
 #end include:lizhi
-#include:mfuns
-DOMAIN-SUFFIX,mfuns.cn,PROXY
-#end include:mfuns
-#include:miaopai
-DOMAIN-SUFFIX,miaopai.com,PROXY
-#end include:miaopai
-#include:muwai
-DOMAIN-SUFFIX,muwai.com,PROXY
-#end include:muwai
 #include:pptv
 DOMAIN-SUFFIX,pplive.cn,PROXY
 DOMAIN-SUFFIX,pplive.com,PROXY
@@ -461,9 +437,6 @@ DOMAIN-SUFFIX,frp-rib.com,PROXY    #石家庄联通PLUS1
 DOMAIN-SUFFIX,frp-sea.com,PROXY    #浙江电信PLUS5
 DOMAIN-SUFFIX,frp-six.com,PROXY    #浙江电信PLUS6
 #end include:sakurafrp
-#include:sfacg
-DOMAIN-SUFFIX,sfacg.com,PROXY
-#end include:sfacg
 #include:taomee
 DOMAIN-SUFFIX,61.com,PROXY
 DOMAIN-SUFFIX,taomee.com,PROXY
@@ -513,11 +486,9 @@ DOMAIN-SUFFIX,soku.com,PROXY
 # youku video cdn
 DOMAIN-SUFFIX,cibntv.net,PROXY
 #end include:youku
-#include:zhanqi
-DOMAIN-SUFFIX,zhanqi.tv,PROXY
-#end include:zhanqi
 
 # Android Emulator
+DOMAIN-SUFFIX,ldmnq.com,PROXY
 DOMAIN-SUFFIX,lsplayer.com,PROXY
 DOMAIN-SUFFIX,yeshen.com,PROXY
 
@@ -528,6 +499,15 @@ DOMAIN-SUFFIX,51zmt.top,PROXY
 # B站空降助手 鲁ICP备2024098956号-1
 DOMAIN-SUFFIX,bsbsb.top,PROXY
 
+DOMAIN-SUFFIX,3dmgame.com,PROXY
+DOMAIN-SUFFIX,ali213.net,PROXY
+DOMAIN-SUFFIX,dmzj.com,PROXY    #动漫之家
 DOMAIN-SUFFIX,dongqiudi.com,PROXY
 DOMAIN-SUFFIX,goka.top,PROXY    #三国杀打小抄官网
+DOMAIN-SUFFIX,jjwxc.net,PROXY    #晋江文学城
+DOMAIN-SUFFIX,mfuns.cn,PROXY    #喵御宅
+DOMAIN-SUFFIX,miaopai.com,PROXY
+DOMAIN-SUFFIX,muwai.com,PROXY    #703
 DOMAIN-SUFFIX,pearvideo.com,PROXY
+DOMAIN-SUFFIX,sfacg.com,PROXY    #SF轻小说二次元
+DOMAIN-SUFFIX,zhanqi.tv,PROXY

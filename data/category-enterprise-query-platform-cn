@@ -3,26 +3,18 @@ DOMAIN-SUFFIX,aiqicha.baidu.com,PROXY
 DOMAIN-SUFFIX,aiqicha.cn,PROXY
 DOMAIN-SUFFIX,aiqicha.com,PROXY
 #end include:aiqicha
-#include:hongdunwang
-DOMAIN-SUFFIX,hongdunwang.com.cn,PROXY
-#end include:hongdunwang
 #include:qcc
 DOMAIN-SUFFIX,qcc.com,PROXY
 DOMAIN-SUFFIX,qichacha.com,PROXY
 #end include:qcc
-#include:qichamao
-DOMAIN-SUFFIX,qichamao.com,PROXY
-#end include:qichamao
 #include:qixin
 DOMAIN-SUFFIX,qixin.com,PROXY
 #end include:qixin
-#include:qyyjt
-DOMAIN-SUFFIX,qyyjt.cn,PROXY
-#end include:qyyjt
 #include:tianyancha
 DOMAIN-SUFFIX,jindidata.com,PROXY
 DOMAIN-SUFFIX,tianyancha.com,PROXY
 #end include:tianyancha
-#include:x315
+
+DOMAIN-SUFFIX,qichamao.com,PROXY
+DOMAIN-SUFFIX,qyyjt.cn,PROXY
 DOMAIN-SUFFIX,x315.com,PROXY
-#end include:x315

@@ -1,0 +1,7 @@
+# affinity
+DOMAIN-SUFFIX,affinity.api.serifservices.com,PROXY
+DOMAIN-SUFFIX,affinity.studio,PROXY
+DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com,PROXY
+DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com,PROXY
+
+DOMAIN-SUFFIX,canva.com,PROXY

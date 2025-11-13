@@ -11,6 +11,21 @@ DOMAIN-SUFFIX,claudemcpclient.com,PROXY
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net,PROXY
 #end include:anthropic
+#include:bytedance-ai-!cn
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX,cici.com,PROXY
+DOMAIN-SUFFIX,ciciai.com,PROXY
+DOMAIN-SUFFIX,ciciaicdn.com,PROXY
+DOMAIN-SUFFIX,dola.com,PROXY
+#end include:dola
+
+# related to doubao
+DOMAIN-SUFFIX,coze.com,PROXY
+
+# related to trae
+DOMAIN-SUFFIX,marscode.com,PROXY
+DOMAIN-SUFFIX,trae.ai,PROXY
+#end include:bytedance-ai-!cn
 #include:cerebras
 DOMAIN-SUFFIX,cerebras.ai,PROXY
 #end include:cerebras
@@ -20,13 +35,6 @@ DOMAIN-SUFFIX,cursor.com,PROXY
 DOMAIN-SUFFIX,cursor.sh,PROXY
 DOMAIN-SUFFIX,cursorapi.com,PROXY
 #end include:cursor
-#include:dola
-# Dola, formly ciciai, an AI service of bytedance
-DOMAIN-SUFFIX,cici.com,PROXY
-DOMAIN-SUFFIX,ciciai.com,PROXY
-DOMAIN-SUFFIX,ciciaicdn.com,PROXY
-DOMAIN-SUFFIX,dola.com,PROXY
-#end include:dola
 #include:elevenlabs
 DOMAIN-SUFFIX,elevenlabs.com,PROXY
 DOMAIN-SUFFIX,elevenlabs.io,PROXY
