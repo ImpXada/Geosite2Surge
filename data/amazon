@@ -133,6 +133,18 @@ DOMAIN-SUFFIX,kindleproject.com,PROXY
 #end include:kindle
 #include:primevideo
 # Prime Video
+
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net,PROXY
+DOMAIN,d22qjgkvxw22r6.cloudfront.net,PROXY
+DOMAIN,d25xi40x97liuc.cloudfront.net,PROXY
+DOMAIN,d27xxe7juh1us6.cloudfront.net,PROXY
+DOMAIN,dmqdd6hw24ucf.cloudfront.net,PROXY
+DOMAIN,images-eu.ssl-images-amazon.com,PROXY
+DOMAIN,images-na.ssl-images-amazon.com,PROXY
+DOMAIN,images-fe.ssl-images-amazon.com,PROXY
+DOMAIN,msh.amazon.co.uk,PROXY
+DOMAIN,static.siege-amazon.com,PROXY
+
 DOMAIN-SUFFIX,aiv-cdn.net,PROXY
 DOMAIN-SUFFIX,amazonprimevideo.cn,PROXY
 DOMAIN-SUFFIX,amazonprimevideo.com.cn,PROXY
@@ -145,6 +157,7 @@ DOMAIN-SUFFIX,primevideo.com,PROXY
 DOMAIN-SUFFIX,primevideo.info,PROXY
 DOMAIN-SUFFIX,primevideo.org,PROXY
 DOMAIN-SUFFIX,primevideo.tv,PROXY
+DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com,PROXY
 #end include:primevideo
 #include:wholefoodsmarket
 DOMAIN-SUFFIX,wfm.com,PROXY
