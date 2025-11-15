@@ -5,23 +5,6 @@ DOMAIN-SUFFIX,acer-group.com,PROXY
 DOMAIN-SUFFIX,acer.com,PROXY
 DOMAIN-SUFFIX,acer.com.cn,PROXY
 #end include:acer
-#include:agilebits
-DOMAIN-SUFFIX,1infra.net,PROXY
-DOMAIN-SUFFIX,1password.ca,PROXY
-DOMAIN-SUFFIX,1password.co,PROXY
-DOMAIN-SUFFIX,1password.com,PROXY
-DOMAIN-SUFFIX,1password.community,PROXY
-DOMAIN-SUFFIX,1password.eu,PROXY
-DOMAIN-SUFFIX,1password.io,PROXY
-DOMAIN-SUFFIX,1passwordservices.com,PROXY
-DOMAIN-SUFFIX,1passwordusercontent.ca,PROXY
-DOMAIN-SUFFIX,1passwordusercontent.com,PROXY
-DOMAIN-SUFFIX,1passwordusercontent.eu,PROXY
-DOMAIN-SUFFIX,agilebits.com,PROXY
-DOMAIN-SUFFIX,passage.id,PROXY
-
-DOMAIN,1password.drift.click,PROXY
-#end include:agilebits
 #include:alibabacloud
 DOMAIN-SUFFIX,alibabacloud.co.in,PROXY
 DOMAIN-SUFFIX,alibabacloud.com,PROXY
@@ -77,16 +60,6 @@ DOMAIN-SUFFIX,fourthns.systems,PROXY
 DOMAIN-SUFFIX,secondns.at,PROXY
 DOMAIN-SUFFIX,thirdns.de,PROXY
 #end include:anexia
-#include:anthropic
-DOMAIN-SUFFIX,anthropic.com,PROXY
-DOMAIN-SUFFIX,claude.ai,PROXY
-DOMAIN-SUFFIX,claude.com,PROXY
-DOMAIN-SUFFIX,claudeusercontent.com,PROXY
-DOMAIN-SUFFIX,claudemcpclient.com,PROXY
-
-# CDN
-DOMAIN,servd-anthropic-website.b-cdn.net,PROXY
-#end include:anthropic
 #include:asus
 DOMAIN-SUFFIX,asus.com,PROXY
 DOMAIN-SUFFIX,asus.com.cn,PROXY
@@ -1369,9 +1342,6 @@ DOMAIN-SUFFIX,x.co,PROXY    #GoDaddy URL Shortener
 # All .godaddy domains
 DOMAIN-SUFFIX,godaddy,PROXY
 #end include:godaddy
-#include:groq
-DOMAIN-SUFFIX,groq.com,PROXY
-#end include:groq
 #include:hetzner
 DOMAIN-SUFFIX,first-ns.de,PROXY
 DOMAIN-SUFFIX,hetzner.cloud,PROXY
@@ -2132,33 +2102,6 @@ DOMAIN,nvidia.tt.omtrdc.net,PROXY
 # NVIDIA 文件下载服务器中国镜像
 DOMAIN,cn.download.nvidia.com,PROXY
 #end include:nvidia
-#include:openai
-# Main domain
-DOMAIN-SUFFIX,chatgpt.com,PROXY
-DOMAIN-SUFFIX,chat.com,PROXY
-DOMAIN-SUFFIX,oaistatic.com,PROXY
-DOMAIN-SUFFIX,oaiusercontent.com,PROXY
-DOMAIN-SUFFIX,openai.com,PROXY
-DOMAIN-SUFFIX,sora.com,PROXY
-
-# CDN & API
-DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net,PROXY
-DOMAIN,openaiapi-site.azureedge.net,PROXY
-DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,PROXY
-DOMAIN,openaicomproductionae4b.blob.core.windows.net,PROXY
-DOMAIN,production-openaicom-storage.azureedge.net,PROXY
-DOMAIN-WILDCARD,chatgpt-async-webps-prod-*-*.webpubsub.azure.com,PROXY
-
-# tracking
-DOMAIN,o33249.ingest.sentry.io,PROXY
-DOMAIN,openaicom.imgix.net,PROXY
-DOMAIN,browser-intake-datadoghq.com,PROXY
-
-# Advanced Voice
-DOMAIN-SUFFIX,chatgpt.livekit.cloud,PROXY
-DOMAIN-SUFFIX,host.livekit.cloud,PROXY
-DOMAIN-SUFFIX,turn.livekit.cloud,PROXY
-#end include:openai
 #include:openweather
 DOMAIN-SUFFIX,openweather.co.uk,PROXY
 DOMAIN-SUFFIX,openweathermap.org,PROXY
@@ -2172,13 +2115,6 @@ DOMAIN-SUFFIX,panasonic.com,PROXY
 DOMAIN-SUFFIX,panasonic.jp,PROXY
 DOMAIN-SUFFIX,technics.com,PROXY
 #end include:panasonic
-#include:perplexity
-DOMAIN-SUFFIX,perplexity.ai,PROXY
-DOMAIN-SUFFIX,perplexity.com,PROXY
-DOMAIN-SUFFIX,pplx.ai,PROXY
-
-DOMAIN,pplx-res.cloudinary.com,PROXY
-#end include:perplexity
 #include:qnap
 # Global
 DOMAIN-SUFFIX,myqnapcloud.com,PROXY
@@ -2701,10 +2637,6 @@ DOMAIN-SUFFIX,yastatic.net,PROXY
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX,kinopoisk.ru,PROXY
 #end include:yandex
-#include:xai
-DOMAIN-SUFFIX,grok.com,PROXY
-DOMAIN-SUFFIX,x.ai,PROXY
-#end include:xai
 
 # Remote Control
 #include:category-remote-control

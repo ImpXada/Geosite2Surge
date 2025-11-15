@@ -674,6 +674,7 @@ DOMAIN-SUFFIX,greenend.org.uk,PROXY
 
 DOMAIN-SUFFIX,hex.pm,PROXY
 DOMAIN-SUFFIX,hexdocs.pm,PROXY
+DOMAIN-SUFFIX,imageglass.org,PROXY
 DOMAIN-SUFFIX,ius.io,PROXY
 DOMAIN-SUFFIX,jenkins.io,PROXY
 DOMAIN-SUFFIX,js.org,PROXY
@@ -689,6 +690,7 @@ DOMAIN-SUFFIX,mingw.org,PROXY
 # Mobatek official website.
 DOMAIN-SUFFIX,mobatek.net,PROXY
 
+DOMAIN-SUFFIX,mpv.io,PROXY
 DOMAIN-SUFFIX,mysql.com,PROXY
 DOMAIN-SUFFIX,neovim.io,PROXY
 DOMAIN-SUFFIX,nixos.org,PROXY

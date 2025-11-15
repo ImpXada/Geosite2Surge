@@ -1914,6 +1914,7 @@ DOMAIN,yangzhi.app,PROXY
 
 #include:accuweather
 DOMAIN-SUFFIX,accuweather.com,PROXY
+DOMAIN-SUFFIX,awxcdn.com,PROXY
 #end include:accuweather
 #include:adblock
 DOMAIN-SUFFIX,adblockcdn.com,PROXY
@@ -1966,21 +1967,11 @@ DOMAIN-SUFFIX,arphic.com.tw,PROXY
 # iFontCloud
 DOMAIN-SUFFIX,ifontcloud.com,PROXY
 #end include:arphic
-#include:authy
-DOMAIN-SUFFIX,authy.com,PROXY
-#end include:authy
 #include:bitly
 DOMAIN-SUFFIX,bit.ly,PROXY
 DOMAIN-SUFFIX,bitly.com,PROXY
 DOMAIN-SUFFIX,bitly.is,PROXY
 #end include:bitly
-#include:bitwarden
-DOMAIN-SUFFIX,bitwarden.com,PROXY
-DOMAIN-SUFFIX,bitwarden.eu,PROXY
-DOMAIN-SUFFIX,bitwarden.net,PROXY
-DOMAIN-SUFFIX,btwrdn.co,PROXY
-DOMAIN-SUFFIX,btwrdn.com,PROXY
-#end include:bitwarden
 #include:blender
 DOMAIN-SUFFIX,bigbuckbunny.org,PROXY
 DOMAIN-SUFFIX,blender.org,PROXY
@@ -2135,9 +2126,6 @@ DOMAIN-SUFFIX,he.net,PROXY
 #include:iina
 DOMAIN-SUFFIX,iina.io,PROXY
 #end include:iina
-#include:imageglass
-DOMAIN-SUFFIX,imageglass.org,PROXY
-#end include:imageglass
 #include:infrapedia
 DOMAIN-SUFFIX,infrapedia.com,PROXY
 #end include:infrapedia
@@ -2191,9 +2179,6 @@ DOMAIN-SUFFIX,mega.co.nz,PROXY
 DOMAIN-SUFFIX,mega.io,PROXY
 DOMAIN-SUFFIX,mega.nz,PROXY
 #end include:mega
-#include:mpv
-DOMAIN-SUFFIX,mpv.io,PROXY
-#end include:mpv
 #include:netlify
 DOMAIN-SUFFIX,bitballoon.com,PROXY
 DOMAIN-SUFFIX,netlify.app,PROXY

@@ -1125,13 +1125,6 @@ DOMAIN-SUFFIX,tr.com,PROXY
 DOMAIN-SUFFIX,tokyo-sports.co.jp,PROXY
 DOMAIN-SUFFIX,tospo-keiba.jp,PROXY
 #end include:tokyo-sports
-#include:tver
-DOMAIN-SUFFIX,dogatch.jp,PROXY
-DOMAIN-SUFFIX,gorin.jp,PROXY
-DOMAIN-SUFFIX,screens-lab.jp,PROXY
-DOMAIN-SUFFIX,tver.co.jp,PROXY
-DOMAIN-SUFFIX,tver.jp,PROXY
-#end include:tver
 #include:udn
 DOMAIN-SUFFIX,udn.com,PROXY
 DOMAIN-SUFFIX,udn.com.tw,PROXY
