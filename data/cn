@@ -199,6 +199,9 @@ DOMAIN,ai.zhaomi.cn,PROXY
 
 # 妙言AI 冀ICP备20012219号-3
 DOMAIN-SUFFIX,miaoyanai.com,PROXY
+
+# 法行宝 (百度)
+DOMAIN-SUFFIX,faxingbao.com,PROXY
 #end include:category-ai-cn
 
 # Aviation
@@ -1367,9 +1370,12 @@ DOMAIN-SUFFIX,stage1st.com,PROXY
 #end include:stage1st
 
 DOMAIN-SUFFIX,52pojie.cn,PROXY    #吾爱破解
+DOMAIN-SUFFIX,anywlan.com,PROXY    #无线论坛
+DOMAIN-SUFFIX,chinadsl.net,PROXY    #宽带技术网
 DOMAIN-SUFFIX,chiphell.com,PROXY    #ChipHell
 DOMAIN-SUFFIX,chongbuluo.com,PROXY    #虫部落
 DOMAIN-SUFFIX,erji.net,PROXY    #耳机网
+DOMAIN-SUFFIX,itpub.net,PROXY    #ITPUB技术论坛
 DOMAIN-SUFFIX,itsk.com,PROXY    #IT天空论坛
 DOMAIN-SUFFIX,kafan.cn,PROXY    #卡饭论坛
 DOMAIN-SUFFIX,kanxue.com,PROXY    #看雪
@@ -1379,6 +1385,7 @@ DOMAIN-SUFFIX,klpbbs.com,PROXY    #苦力怕论坛
 DOMAIN-SUFFIX,mcbbs.net,PROXY    #MCBBS论坛
 DOMAIN-SUFFIX,pcbeta.com,PROXY    #远景论坛
 DOMAIN-SUFFIX,right.com.cn,PROXY    #恩山论坛
+DOMAIN-SUFFIX,txrjy.com,PROXY    #通信人家园
 DOMAIN-SUFFIX,uiwow.com,PROXY    #魔兽有爱论坛
 DOMAIN-SUFFIX,wuyou.net,PROXY    #无忧启动论坛
 
@@ -3461,7 +3468,6 @@ DOMAIN-SUFFIX,tuwan.com,PROXY
 DOMAIN-SUFFIX,tuwanjun.com,PROXY
 DOMAIN-SUFFIX,tvmao.com,PROXY
 DOMAIN-SUFFIX,tvzhe.com,PROXY
-DOMAIN-SUFFIX,txrjy.com,PROXY    #沪ICP备12002292号
 DOMAIN-SUFFIX,u.tools,PROXY
 DOMAIN-SUFFIX,ucbug.com,PROXY
 DOMAIN-SUFFIX,uggame.com,PROXY

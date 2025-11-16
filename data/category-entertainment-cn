@@ -510,4 +510,6 @@ DOMAIN-SUFFIX,miaopai.com,PROXY
 DOMAIN-SUFFIX,muwai.com,PROXY    #703
 DOMAIN-SUFFIX,pearvideo.com,PROXY
 DOMAIN-SUFFIX,sfacg.com,PROXY    #SF轻小说二次元
+DOMAIN-SUFFIX,yamibo.com,PROXY    #百合会
+DOMAIN-SUFFIX,yiyouliao.com,PROXY    #易有料
 DOMAIN-SUFFIX,zhanqi.tv,PROXY

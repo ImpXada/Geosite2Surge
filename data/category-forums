@@ -112,9 +112,6 @@ DOMAIN-SUFFIX,xda-developers.com,PROXY
 DOMAIN-SUFFIX,xdaforums.com,PROXY
 DOMAIN-SUFFIX,xdaimages.com,PROXY
 #end include:xda
-#include:yamibo
-DOMAIN-SUFFIX,yamibo.com,PROXY
-#end include:yamibo
 
 DOMAIN,bbs.boingboing.net,PROXY
 
