@@ -2331,12 +2331,15 @@ DOMAIN,ztedevices.com,PROXY
 #end include:zte
 
 DOMAIN-SUFFIX,antutu.com,PROXY    #安兔兔
+DOMAIN-SUFFIX,avlyun.com,PROXY    #安天移动安全
 DOMAIN-SUFFIX,dida365.com,PROXY    #滴答清单
+DOMAIN-SUFFIX,huolala.cn,PROXY    #货拉拉
 DOMAIN-SUFFIX,huorong.cn,PROXY    #火绒
 DOMAIN-SUFFIX,quickapp.cn,PROXY    #快应用
 DOMAIN-SUFFIX,roborock.com,PROXY    #石头科技
 DOMAIN-SUFFIX,socpk.com,PROXY    #极客湾移动芯片排行
 DOMAIN-SUFFIX,udesk.cn,PROXY    #沃丰科技
+DOMAIN-SUFFIX,viayoo.com,PROXY    #Via 浏览器
 DOMAIN-SUFFIX,yinxiang.com,PROXY    #印象笔记
 
 # 酷控
@@ -2488,15 +2491,24 @@ DOMAIN-SUFFIX,ipshu.com,PROXY    #鄂B2-20110095-1
 DOMAIN-SUFFIX,fofa.info,PROXY    #Fofa网站测绘（华顺信安）
 DOMAIN-SUFFIX,onedns.net,PROXY    #OneDNS（微步在线）
 
+# 氪主页
+DOMAIN-SUFFIX,51kim.com,PROXY
+DOMAIN-SUFFIX,zhuye.kim,PROXY
+# 乐游导航主页
+DOMAIN-SUFFIX,6-u.com,PROXY
+# imsYY起始页
+DOMAIN-SUFFIX,imsyy.com,PROXY
 # Infinity Pro（浏览器主页）
 DOMAIN-SUFFIX,infinitynewtab.com,PROXY
 DOMAIN-SUFFIX,inftab.com,PROXY
-
-# 某柠檬导航（浏览器主页）
-DOMAIN-SUFFIX,moulem.com,PROXY
-
+# 可可牛导航
+DOMAIN-SUFFIX,kekeniu.com,PROXY
 # 青柠起始页
 DOMAIN-SUFFIX,limestart.cn,PROXY
+# 某柠檬导航（浏览器主页）
+DOMAIN-SUFFIX,moulem.com,PROXY
+# 轻主页
+DOMAIN-SUFFIX,qzhuye.com,PROXY
 
 # 街机
 #include:aamgame
