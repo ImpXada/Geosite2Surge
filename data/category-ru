@@ -1,6 +1,7 @@
 # Russian websites
 
 # Russian TLDs
+DOMAIN-SUFFIX,moscow,PROXY
 DOMAIN-SUFFIX,ru,PROXY
 DOMAIN-SUFFIX,su,PROXY
 DOMAIN-SUFFIX,xn--80adxhks,PROXY
@@ -10,6 +11,9 @@ DOMAIN-SUFFIX,xn--c1avg,PROXY
 DOMAIN-SUFFIX,xn--d1acj3b,PROXY
 DOMAIN-SUFFIX,xn--p1acf,PROXY
 DOMAIN-SUFFIX,xn--p1ai,PROXY
+
+DOMAIN-SUFFIX,ru.com,PROXY
+DOMAIN-SUFFIX,ru.net,PROXY
 
 #include:category-gov-ru
 # Federal Gov.
@@ -259,12 +263,18 @@ DOMAIN-SUFFIX,yandex,PROXY
 # яндекс.рф
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai,PROXY
 
+DOMAIN-SUFFIX,adfox.ru,PROXY
+DOMAIN-SUFFIX,admetrica.ru,PROXY
 DOMAIN-SUFFIX,dzen.ru,PROXY
 DOMAIN-SUFFIX,naydex.net,PROXY
 DOMAIN-SUFFIX,rostaxi.org,PROXY
+DOMAIN-SUFFIX,webvisor.com,PROXY
+DOMAIN-SUFFIX,webvisor.org,PROXY
 DOMAIN-SUFFIX,ya.ru,PROXY
+DOMAIN-SUFFIX,yads.tech,PROXY
 DOMAIN-SUFFIX,yandex-bank.net,PROXY
 DOMAIN-SUFFIX,yandex-images.clstorage.net,PROXY
+DOMAIN-SUFFIX,yandex-team.ru,PROXY
 DOMAIN-SUFFIX,yandex.aero,PROXY
 DOMAIN-SUFFIX,yandex.az,PROXY
 DOMAIN-SUFFIX,yandex.by,PROXY
@@ -300,9 +310,12 @@ DOMAIN-SUFFIX,yandex.uz,PROXY
 DOMAIN-SUFFIX,yandexadexchange.net,PROXY
 DOMAIN-SUFFIX,yandexcloud.net,PROXY
 DOMAIN-SUFFIX,yandexcom.net,PROXY
+DOMAIN-SUFFIX,yandexmetrica.com,PROXY
 DOMAIN-SUFFIX,yandexwebcache.org,PROXY
+DOMAIN-SUFFIX,yastat.net,PROXY
 DOMAIN-SUFFIX,yastatic.net,PROXY
 
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX,kinopoisk.ru,PROXY
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net,PROXY
 #end include:yandex

@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,groq.com,PROXY
 #end include:groq
 #include:huggingface
 DOMAIN-SUFFIX,hf.co,PROXY
+DOMAIN-SUFFIX,hf.space,PROXY
 DOMAIN-SUFFIX,huggingface.co,PROXY
 #end include:huggingface
 #include:openai
