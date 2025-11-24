@@ -2388,6 +2388,7 @@ DOMAIN-SUFFIX,tutanota.com,PROXY
 DOMAIN-SUFFIX,tutanota.de,PROXY
 #end include:tutanota
 #include:vercel
+DOMAIN-SUFFIX,ai-sdk.dev,PROXY
 DOMAIN-SUFFIX,err.sh,PROXY
 DOMAIN-SUFFIX,hyper.is,PROXY
 DOMAIN-SUFFIX,nextjs.org,PROXY
@@ -2472,6 +2473,9 @@ DOMAIN-SUFFIX,zoom.us,PROXY
 #end include:zoom
 
 DOMAIN-SUFFIX,biliplus.com,PROXY    #BiliPlus
+
+# Graphing for Science and Engineering
+DOMAIN-SUFFIX,originlab.com,PROXY
 
 # Online LaTeX Editor
 DOMAIN-SUFFIX,cloudlatex.io,PROXY
