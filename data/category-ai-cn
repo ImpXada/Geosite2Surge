@@ -8,10 +8,11 @@ DOMAIN-SUFFIX,rwkv.cn,PROXY
 DOMAIN-SUFFIX,rwkv.com,PROXY
 
 # 通义千问
-DOMAIN-SUFFIX,tongyi.aliyun.com,PROXY
 DOMAIN-SUFFIX,qianwen.aliyun.com,PROXY
+DOMAIN-SUFFIX,qianwen.com,PROXY
 DOMAIN-SUFFIX,qwen.ai,PROXY
 DOMAIN-SUFFIX,qwenlm.ai,PROXY
+DOMAIN-SUFFIX,tongyi.aliyun.com,PROXY
 DOMAIN-SUFFIX,tongyi.com,PROXY
 
 # 文心一言

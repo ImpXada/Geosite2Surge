@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,anaconda.org,PROXY
 DOMAIN-SUFFIX,conda.io,PROXY
 #end include:anaconda
 #include:android
+# All .android domains
+DOMAIN-SUFFIX,android,PROXY
+
 DOMAIN-SUFFIX,android.com,PROXY
 DOMAIN-SUFFIX,androidify.com,PROXY
 

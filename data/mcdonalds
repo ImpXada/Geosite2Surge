@@ -1,8 +1,8 @@
-# All .mcd domains
-DOMAIN-SUFFIX,mcd,PROXY
+# https://www.iana.org/domains/root/db/mcd.html
+# mcd (Revoked)
 
-# All .mcdonalds domains
-DOMAIN-SUFFIX,mcdonalds,PROXY
+# https://www.iana.org/domains/root/db/mcdonalds.html
+# mcdonalds (Revoked)
 
 # McDonald's Australia
 DOMAIN-SUFFIX,happymeal.com.au,PROXY

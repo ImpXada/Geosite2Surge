@@ -194,11 +194,11 @@ DOMAIN-SUFFIX,c-span.org,PROXY
 DOMAIN-SUFFIX,c-spanvideo.org,PROXY
 #end include:c-span
 #include:cbs
-# All .cbs domains
-DOMAIN-SUFFIX,cbs,PROXY
+# https://www.iana.org/domains/root/db/cbs.html
+# cbs (Revoked)
 
-# All .showtime domains
-DOMAIN-SUFFIX,showtime,PROXY
+# https://www.iana.org/domains/root/db/showtime.html
+# showtime (Revoked)
 
 DOMAIN-SUFFIX,cbs.com,PROXY
 DOMAIN-SUFFIX,cbscorporation.com,PROXY
@@ -1069,7 +1069,7 @@ DOMAIN-SUFFIX,cn-cdn1.skymansion.net,PROXY
 #end include:sky
 #include:theguardian
 # All .theguardian domains
-DOMAIN-SUFFIX,theguardian,PROXY
+# theguardian (never delegated)
 
 DOMAIN-SUFFIX,dev-guardianapis.com,PROXY
 DOMAIN-SUFFIX,dev-theguardian.com,PROXY

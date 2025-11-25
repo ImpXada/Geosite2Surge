@@ -1,8 +1,8 @@
-# All .cbs domains
-DOMAIN-SUFFIX,cbs,PROXY
+# https://www.iana.org/domains/root/db/cbs.html
+# cbs (Revoked)
 
-# All .showtime domains
-DOMAIN-SUFFIX,showtime,PROXY
+# https://www.iana.org/domains/root/db/showtime.html
+# showtime (Revoked)
 
 DOMAIN-SUFFIX,cbs.com,PROXY
 DOMAIN-SUFFIX,cbscorporation.com,PROXY

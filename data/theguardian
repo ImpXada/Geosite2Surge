@@ -1,5 +1,5 @@
 # All .theguardian domains
-DOMAIN-SUFFIX,theguardian,PROXY
+# theguardian (never delegated)
 
 DOMAIN-SUFFIX,dev-guardianapis.com,PROXY
 DOMAIN-SUFFIX,dev-theguardian.com,PROXY

@@ -96,6 +96,10 @@ DOMAIN-SUFFIX,qgzb.net,PROXY
 DOMAIN-SUFFIX,zbbm.gov.cn,PROXY
 DOMAIN-SUFFIX,zbbm.net,PROXY
 
+# 国家智慧教育公共服务平台
+DOMAIN-SUFFIX,cbern.com.cn,PROXY
+DOMAIN-SUFFIX,smartedu.cn,PROXY
+
 # 中国地质大学 继续教育学院
 DOMAIN-SUFFIX,cugbonline.cn,PROXY
 
