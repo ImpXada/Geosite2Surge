@@ -1,5 +1,6 @@
 #include:facebook-ads
 DOMAIN-SUFFIX,analytics.facebook.com,PROXY
+DOMAIN-SUFFIX,facebookads.com,PROXY
 DOMAIN-SUFFIX,pixel.facebook.com,PROXY
 #end include:facebook-ads
 #include:instagram-ads

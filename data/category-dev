@@ -561,6 +561,7 @@ DOMAIN-SUFFIX,scala-sbt.org,PROXY
 #end include:scala
 #include:sentry
 DOMAIN-SUFFIX,sentry.io,PROXY
+DOMAIN-SUFFIX,sentry-cdn.com,PROXY
 #end include:sentry
 #include:sourcehut
 DOMAIN-SUFFIX,sourcehut.org,PROXY

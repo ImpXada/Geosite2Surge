@@ -1,5 +1,7 @@
+DOMAIN-SUFFIX,ad.browser.qq.com,PROXY
 DOMAIN-SUFFIX,ad.qq.com,PROXY
 DOMAIN-SUFFIX,ad.qun.qq.com,PROXY
+DOMAIN-SUFFIX,ad.weixin.qq.com,PROXY
 DOMAIN-SUFFIX,adfilter.imtt.qq.com,PROXY
 DOMAIN-SUFFIX,adnet.qq.com,PROXY
 DOMAIN-SUFFIX,adping.qq.com,PROXY
@@ -16,13 +18,17 @@ DOMAIN-SUFFIX,adsview.qq.com,PROXY
 DOMAIN-SUFFIX,adsview2.qq.com,PROXY
 DOMAIN-SUFFIX,adv.app.qq.com,PROXY
 DOMAIN-SUFFIX,adver.qq.com,PROXY
+DOMAIN-SUFFIX,beacon.cdn.qq.com,PROXY
 DOMAIN-SUFFIX,beacon.qq.com,PROXY
 DOMAIN-SUFFIX,beaconcdn.qq.com,PROXY
 DOMAIN-SUFFIX,btrace.qq.com,PROXY
+DOMAIN-SUFFIX,bugly.qq.com,PROXY
 DOMAIN-SUFFIX,e.qq.com,PROXY
 DOMAIN-SUFFIX,gdt.qq.com,PROXY
+DOMAIN-SUFFIX,hq-tracking.qq.com,PROXY
 DOMAIN-SUFFIX,isdspeed.qq.com,PROXY
 DOMAIN-SUFFIX,log.tbs.qq.com,PROXY
+DOMAIN-SUFFIX,mdt.qq.com,PROXY
 DOMAIN-SUFFIX,mpush.qq.com,PROXY
 DOMAIN-SUFFIX,mtrace.qq.com,PROXY
 DOMAIN-SUFFIX,pgdt.gtimg.cn,PROXY
@@ -32,6 +38,8 @@ DOMAIN-SUFFIX,sngmta.qq.com,PROXY
 DOMAIN-SUFFIX,stat.y.qq.com,PROXY
 DOMAIN-SUFFIX,tajs.qq.com,PROXY
 DOMAIN-SUFFIX,tcss.qq.com,PROXY
+DOMAIN-SUFFIX,tmead.y.qq.com,PROXY
+DOMAIN-SUFFIX,tmeadcomm.y.qq.com,PROXY
 DOMAIN-SUFFIX,trace.qq.com,PROXY
 DOMAIN-SUFFIX,ugdtimg.com,PROXY
 DOMAIN-SUFFIX,wit.qq.com,PROXY

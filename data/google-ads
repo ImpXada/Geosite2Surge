@@ -12,6 +12,8 @@ DOMAIN-SUFFIX,advertiserscommunity.com,PROXY
 DOMAIN-SUFFIX,adwords-community.com,PROXY
 DOMAIN-SUFFIX,adwords.com,PROXY
 DOMAIN-SUFFIX,adwordsexpress.com,PROXY
+DOMAIN-SUFFIX,app-analytics-services.com,PROXY
+DOMAIN-SUFFIX,app-analytics-services-att.com,PROXY
 DOMAIN-SUFFIX,app-measurement-cn.com,PROXY
 DOMAIN-SUFFIX,app-measurement.com,PROXY
 DOMAIN-SUFFIX,doubleclick-cn.net,PROXY
@@ -21,6 +23,7 @@ DOMAIN-SUFFIX,doubleclick.net,PROXY
 DOMAIN-SUFFIX,google-analytics-cn.com,PROXY
 DOMAIN-SUFFIX,google-analytics.com,PROXY
 DOMAIN-SUFFIX,googleadapis.com,PROXY
+DOMAIN-SUFFIX,googleadapis.l.google.com,PROXY
 DOMAIN-SUFFIX,googleads-cn.com,PROXY
 DOMAIN-SUFFIX,googleads.com,PROXY
 DOMAIN-SUFFIX,googleadservices-cn.com,PROXY
@@ -39,9 +42,13 @@ DOMAIN-SUFFIX,googletraveladservices-cn.com,PROXY
 DOMAIN-SUFFIX,googletraveladservices.com,PROXY
 DOMAIN-SUFFIX,googlevads-cn.com,PROXY
 DOMAIN-SUFFIX,mail-ads.google.com,PROXY
+DOMAIN-SUFFIX,mobileads.google.com,PROXY
 DOMAIN-SUFFIX,marketingplatform.google.com,PROXY
+DOMAIN-SUFFIX,pagead.l.google.com,PROXY
+DOMAIN-SUFFIX,partnerad.l.google.com,PROXY
 DOMAIN-SUFFIX,urchin.com,PROXY
 
 DOMAIN,analytics.google.com,PROXY
+DOMAIN,fundingchoicesmessages.google.com,PROXY
 
 DOMAIN-WILDCARD,adservice.google.*,PROXY
