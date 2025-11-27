@@ -105,3 +105,11 @@ DOMAIN-SUFFIX,ti.com.cn,PROXY
 # 沁恒微电子
 DOMAIN-SUFFIX,wch.cn,PROXY
 DOMAIN-SUFFIX,wch-ic.com,PROXY
+
+# 长江存储
+#include:ymtc
+# 长江存储
+DOMAIN-SUFFIX,ymtc.com,PROXY
+DOMAIN-SUFFIX,ymtc.com.cn,PROXY
+DOMAIN-SUFFIX,ymtc.cn,PROXY
+#end include:ymtc

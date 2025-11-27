@@ -1,17 +1,8 @@
 #include:letv-ads
-DOMAIN-SUFFIX,api.game.letvstore.com,PROXY
+DOMAIN-SUFFIX,apple.www.letv.com,PROXY
 DOMAIN-SUFFIX,ark.letv.com,PROXY
 DOMAIN-SUFFIX,dc.letv.com,PROXY
-DOMAIN-SUFFIX,fz.letv.com,PROXY
 DOMAIN-SUFFIX,g3.letv.com,PROXY
-DOMAIN-SUFFIX,letv.allyes.com,PROXY
-DOMAIN-SUFFIX,minisite.letv.com,PROXY
-DOMAIN-SUFFIX,msg.m.letv.com,PROXY
-DOMAIN-SUFFIX,n.mark.letv.com,PROXY
-DOMAIN-SUFFIX,pro.hoye.letv.com,PROXY
-DOMAIN-SUFFIX,pro.letv.com,PROXY
-DOMAIN-SUFFIX,stat.letv.com,PROXY
-DOMAIN-SUFFIX,static.app.m.letv.com,PROXY
 #end include:letv-ads
 
 DOMAIN-SUFFIX,le.com,PROXY

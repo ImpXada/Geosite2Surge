@@ -245,6 +245,16 @@ DOMAIN-SUFFIX,vrzwk.com,PROXY
 DOMAIN-SUFFIX,vrzwk.net,PROXY
 DOMAIN-SUFFIX,vrzwk.top,PROXY
 #end include:vrzwk
+#include:yokaverse
+# 游卡
+DOMAIN-SUFFIX,dobest.com,PROXY
+DOMAIN-SUFFIX,langrenclub.com,PROXY
+DOMAIN-SUFFIX,sanguosha.com,PROXY
+DOMAIN-SUFFIX,xhlsgs.com,PROXY
+DOMAIN-SUFFIX,xinwuji.com,PROXY
+DOMAIN-SUFFIX,yokaverse.com,PROXY
+DOMAIN-SUFFIX,zhuoyou.com,PROXY
+#end include:yokaverse
 
 # 刀锋盒子 皖B2-20190103-4
 DOMAIN-SUFFIX,9xgame.com,PROXY
@@ -269,6 +279,11 @@ DOMAIN-SUFFIX,heavenlywind.cc,PROXY
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX,tgpro.top,PROXY
 DOMAIN-SUFFIX,tgprocs.net,PROXY
+# 途游
+DOMAIN-SUFFIX,tuyoo.com,PROXY
+# 完美世界
+DOMAIN-SUFFIX,wanmei.com,PROXY
+DOMAIN-SUFFIX,wmsj.cn,PROXY
 # Wine游戏助手 京ICP备18041936号
 DOMAIN-SUFFIX,winegame.net,PROXY
 # 畅玩空间 冀ICP备20019223号

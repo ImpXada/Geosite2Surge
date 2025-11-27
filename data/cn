@@ -1730,6 +1730,27 @@ DOMAIN-SUFFIX,mob.com,PROXY
 DOMAIN-SUFFIX,dutils.com,PROXY
 DOMAIN-SUFFIX,accuratead.cn,PROXY
 #end include:zhangtao
+#include:zhubajie
+# 猪八戒网
+DOMAIN-SUFFIX,tianpeng.com,PROXY
+DOMAIN-SUFFIX,zbj.com,PROXY
+DOMAIN-SUFFIX,zbjdev.com,PROXY
+DOMAIN-SUFFIX,zbjimg.com,PROXY
+DOMAIN-SUFFIX,zhubajie.com,PROXY
+#end include:zhubajie
+
+# 中国天气网
+DOMAIN-SUFFIX,i8tq.com,PROXY
+DOMAIN-SUFFIX,tq121.com.cn,PROXY
+DOMAIN-SUFFIX,weather.com.cn,PROXY
+DOMAIN-SUFFIX,weatherdt.com,PROXY
+
+# 重庆阅品科技
+DOMAIN-SUFFIX,tianqi.com,PROXY
+DOMAIN-SUFFIX,tianqistatic.com,PROXY
+
+# TaCool SSL 酷证书
+DOMAIN-SUFFIX,tacool.com,PROXY
 
 # 方正字库
 DOMAIN-SUFFIX,foundertype.com,PROXY
@@ -1878,17 +1899,12 @@ DOMAIN-SUFFIX,honor.com.cn,PROXY
 DOMAIN-SUFFIX,honorfile.com,PROXY
 #end include:honor
 #include:iflytek
-# 科大讯飞官网
-DOMAIN-SUFFIX,iflytek.com,PROXY
-
-# 科大讯飞官方商城
-DOMAIN-SUFFIX,xunfei.cn,PROXY
-
-# 讯飞读写
 DOMAIN-SUFFIX,iflyink.com,PROXY
-
-# 讯飞听见
 DOMAIN-SUFFIX,iflyrec.com,PROXY
+DOMAIN-SUFFIX,iflysec.com,PROXY
+DOMAIN-SUFFIX,iflytek.com,PROXY
+DOMAIN-SUFFIX,xfyun.cn,PROXY
+DOMAIN-SUFFIX,xunfei.cn,PROXY
 
 # e听说中学
 DOMAIN-SUFFIX,ets100.com,PROXY
@@ -2057,6 +2073,8 @@ DOMAIN-SUFFIX,188.com,PROXY
 DOMAIN-SUFFIX,321fenx.com,PROXY
 DOMAIN-SUFFIX,haowu.link,PROXY
 DOMAIN-SUFFIX,icourse163.org,PROXY
+DOMAIN-SUFFIX,lf126.net,PROXY
+DOMAIN-SUFFIX,lf127.net,PROXY
 DOMAIN-SUFFIX,lofter.com,PROXY
 DOMAIN-SUFFIX,nease.net,PROXY
 DOMAIN-SUFFIX,netease-inc.com,PROXY
@@ -2359,12 +2377,6 @@ DOMAIN-SUFFIX,thundercdn.com,PROXY
 DOMAIN-SUFFIX,xycloud.com,PROXY
 DOMAIN-SUFFIX,xycdn.com,PROXY
 #end include:xunlei
-#include:ymtc
-# 长江存储
-DOMAIN-SUFFIX,ymtc.com,PROXY
-DOMAIN-SUFFIX,ymtc.com.cn,PROXY
-DOMAIN-SUFFIX,ymtc.cn,PROXY
-#end include:ymtc
 #include:zte
 DOMAIN-SUFFIX,nubia.cn,PROXY
 DOMAIN-SUFFIX,nubia.com,PROXY
@@ -3369,7 +3381,6 @@ DOMAIN-SUFFIX,ruiwen.com,PROXY
 DOMAIN-SUFFIX,runoob.com,PROXY
 DOMAIN-SUFFIX,rzrc114.com,PROXY
 DOMAIN-SUFFIX,saibo.com,PROXY
-DOMAIN-SUFFIX,sanguosha.com,PROXY
 DOMAIN-SUFFIX,sanwen.net,PROXY
 DOMAIN-SUFFIX,sast.fun,PROXY
 DOMAIN-SUFFIX,scdng.com,PROXY
@@ -3437,7 +3448,6 @@ DOMAIN-SUFFIX,t1y5.com,PROXY
 DOMAIN-SUFFIX,taihe.com,PROXY
 DOMAIN-SUFFIX,taihuoniao.com,PROXY
 DOMAIN-SUFFIX,tangeche.com,PROXY
-DOMAIN-SUFFIX,tanx.com,PROXY
 DOMAIN-SUFFIX,tao123.com,PROXY
 DOMAIN-SUFFIX,taoche.com,PROXY
 DOMAIN-SUFFIX,te5.com,PROXY
@@ -3445,8 +3455,6 @@ DOMAIN-SUFFIX,tenxcloud.com,PROXY
 DOMAIN-SUFFIX,tianjimedia.com,PROXY
 DOMAIN-SUFFIX,tianjin-air.com,PROXY
 DOMAIN-SUFFIX,tianlailive.com,PROXY
-DOMAIN-SUFFIX,tianqi.com,PROXY
-DOMAIN-SUFFIX,tianqistatic.com,PROXY
 DOMAIN-SUFFIX,tietuku.com,PROXY
 DOMAIN-SUFFIX,tiexue.net,PROXY
 DOMAIN-SUFFIX,timedoo.com,PROXY
@@ -3639,7 +3647,6 @@ DOMAIN-SUFFIX,z28j.com,PROXY    #鄂ICP备20002930号-1
 DOMAIN-SUFFIX,zampda.net,PROXY
 DOMAIN-SUFFIX,zampdsp.com,PROXY
 DOMAIN-SUFFIX,zastatic.com,PROXY
-DOMAIN-SUFFIX,zbjimg.com,PROXY
 DOMAIN-SUFFIX,zczj.com,PROXY
 DOMAIN-SUFFIX,zdfans.com,PROXY
 DOMAIN-SUFFIX,zgjm.org,PROXY
@@ -3662,7 +3669,6 @@ DOMAIN-SUFFIX,zhongkao.com,PROXY
 DOMAIN-SUFFIX,zhuangjiba.com,PROXY
 DOMAIN-SUFFIX,zhuanyewanjia.com,PROXY
 DOMAIN-SUFFIX,zhuayoukong.com,PROXY
-DOMAIN-SUFFIX,zhubajie.com,PROXY
 DOMAIN-SUFFIX,zimuzu.io,PROXY
 DOMAIN-SUFFIX,zixiaomao.com,PROXY
 DOMAIN-SUFFIX,zixuntop.com,PROXY

@@ -11,9 +11,11 @@ DOMAIN,wlog.kuaishou.com,PROXY
 
 DOMAIN-SUFFIX,ecukwai.com,PROXY
 DOMAIN-SUFFIX,gifshow.com,PROXY
+DOMAIN-SUFFIX,inkuai.com,PROXY
 DOMAIN-SUFFIX,inkwai.com,PROXY
 DOMAIN-SUFFIX,ksapisrv.com,PROXY
 DOMAIN-SUFFIX,kskwai.com,PROXY
+DOMAIN-SUFFIX,kuaishou.cn,PROXY
 DOMAIN-SUFFIX,kuaishou.com,PROXY
 DOMAIN-SUFFIX,kuaishouapps.com,PROXY
 DOMAIN-SUFFIX,kuaishoupay.com,PROXY

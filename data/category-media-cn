@@ -225,8 +225,18 @@ DOMAIN-SUFFIX,zjstv.com,PROXY
 # 重庆晨报 上游新闻
 DOMAIN-SUFFIX,cqcb.com,PROXY
 
+# 重庆华龙网
+DOMAIN-SUFFIX,cqhlw.cn,PROXY
+DOMAIN-SUFFIX,cqliving.com,PROXY
+DOMAIN-SUFFIX,cqnews.net,PROXY
+DOMAIN-SUFFIX,cqsjb.com,PROXY
+
 # 河南广播电视台 大象网
 DOMAIN-SUFFIX,hntv.tv,PROXY
+# 河南广播网
+DOMAIN-SUFFIX,hndt.com,PROXY
+# 河南广电融媒
+DOMAIN-SUFFIX,dianzhenkeji.com,PROXY
 
 # 数字尾巴
 DOMAIN-SUFFIX,dgtle.com,PROXY
@@ -308,6 +318,7 @@ DOMAIN-SUFFIX,caixin.com,PROXY
 # Xinhua News Agency
 DOMAIN-SUFFIX,news.cn,PROXY
 DOMAIN-SUFFIX,xinhuanet.com,PROXY
+DOMAIN-SUFFIX,xinhuaxmt.com,PROXY
 
 # 人民网
 DOMAIN-SUFFIX,people.cn,PROXY
