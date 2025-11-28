@@ -1,0 +1,11 @@
+# 绘世启动器
+DOMAIN-SUFFIX,oystermercury.top,PROXY
+#end include:comfy-ui-launcher
+
+DOMAIN-SUFFIX,comfy.org,PROXY
+
+# Dev
+DOMAIN-SUFFIX,comfyci.org,PROXY
+
+# Redirect
+DOMAIN-SUFFIX,comfyregistry.org,PROXY

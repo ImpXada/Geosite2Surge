@@ -1,8 +1,9 @@
-# Iranian payment websites
+# Iranian payment (IPG) websites
 
 DOMAIN-SUFFIX,asanpardakht.com,PROXY
 DOMAIN-SUFFIX,asanpardakht.net,PROXY
 DOMAIN-SUFFIX,behpardakht.com,PROXY
+DOMAIN-SUFFIX,bitbarg.me,PROXY
 DOMAIN-SUFFIX,iranicard.ir,PROXY
 DOMAIN-SUFFIX,mydigipay.com,PROXY
 DOMAIN-SUFFIX,pay.ir,PROXY
@@ -12,5 +13,7 @@ DOMAIN-SUFFIX,pep.co.ir,PROXY
 DOMAIN-SUFFIX,sadadpsp.ir,PROXY
 DOMAIN-SUFFIX,sep.ir,PROXY
 DOMAIN-SUFFIX,shaparak.ir,PROXY
+DOMAIN-SUFFIX,vandar.app,PROXY
+DOMAIN-SUFFIX,vandar.io,PROXY
 DOMAIN-SUFFIX,weswap.digital,PROXY
 DOMAIN-SUFFIX,zarinpal.com,PROXY

@@ -342,8 +342,11 @@ DOMAIN-SUFFIX,yushanfang.com,PROXY
 DOMAIN-SUFFIX,zuodao.com,PROXY
 
 # AliExpress
+DOMAIN-SUFFIX,ae-rus.net,PROXY
+DOMAIN-SUFFIX,aestatic.net,PROXY
 DOMAIN-SUFFIX,aliexpress.com,PROXY
 DOMAIN-SUFFIX,aliexpress.ru,PROXY
+DOMAIN-SUFFIX,aliexpress-media.com,PROXY
 
 # Alipay+
 DOMAIN-SUFFIX,alipayplus.com,PROXY

@@ -1,5 +1,5 @@
-# Iranian websites which will not open without an Iranian IP
-# Use to make them direct connections so they open inside Iran
+# Iranian websites or domains that are intended to be accessed from Iranian IP addresses (though this may not necessarily apply to all of them).
+# Hence, it is recommended to utilize direct connection for this category.
 
 # Iran TLDs
 DOMAIN-SUFFIX,ir,PROXY
@@ -285,11 +285,12 @@ DOMAIN-SUFFIX,sharghdaily.ir,PROXY
 DOMAIN-SUFFIX,tehrantimes.com,PROXY
 #end include:category-news-ir
 #include:category-payment-ir
-# Iranian payment websites
+# Iranian payment (IPG) websites
 
 DOMAIN-SUFFIX,asanpardakht.com,PROXY
 DOMAIN-SUFFIX,asanpardakht.net,PROXY
 DOMAIN-SUFFIX,behpardakht.com,PROXY
+DOMAIN-SUFFIX,bitbarg.me,PROXY
 DOMAIN-SUFFIX,iranicard.ir,PROXY
 DOMAIN-SUFFIX,mydigipay.com,PROXY
 DOMAIN-SUFFIX,pay.ir,PROXY
@@ -299,6 +300,8 @@ DOMAIN-SUFFIX,pep.co.ir,PROXY
 DOMAIN-SUFFIX,sadadpsp.ir,PROXY
 DOMAIN-SUFFIX,sep.ir,PROXY
 DOMAIN-SUFFIX,shaparak.ir,PROXY
+DOMAIN-SUFFIX,vandar.app,PROXY
+DOMAIN-SUFFIX,vandar.io,PROXY
 DOMAIN-SUFFIX,weswap.digital,PROXY
 DOMAIN-SUFFIX,zarinpal.com,PROXY
 #end include:category-payment-ir
@@ -408,6 +411,9 @@ DOMAIN-SUFFIX,zoomit.ir,PROXY
 DOMAIN-SUFFIX,alibaba.ir,PROXY
 DOMAIN-SUFFIX,flightio.com,PROXY
 DOMAIN-SUFFIX,mrbilit.com,PROXY
+DOMAIN-SUFFIX,tap30.services,PROXY
+DOMAIN-SUFFIX,tap33.me,PROXY
+DOMAIN-SUFFIX,tapsi.cab,PROXY
 DOMAIN-SUFFIX,tapsi.ir,PROXY
 #end include:category-travel-ir
 
@@ -473,3 +479,11 @@ DOMAIN-SUFFIX,jobinjacdn.com,PROXY
 DOMAIN-SUFFIX,beytoote.com,PROXY
 DOMAIN-SUFFIX,setare.com,PROXY
 DOMAIN-SUFFIX,tebyan.net,PROXY
+
+# Courier Services
+DOMAIN-SUFFIX,dekapost.com,PROXY
+DOMAIN-SUFFIX,mahex.com,PROXY
+DOMAIN-SUFFIX,miare.ir,PROXY
+DOMAIN-SUFFIX,podro.com,PROXY
+DOMAIN-SUFFIX,tipax.ir,PROXY
+DOMAIN-SUFFIX,tipaxco.com,PROXY

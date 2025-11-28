@@ -29,6 +29,19 @@ DOMAIN-SUFFIX,trae.ai,PROXY
 #include:cerebras
 DOMAIN-SUFFIX,cerebras.ai,PROXY
 #end include:cerebras
+#include:comfy
+# 绘世启动器
+DOMAIN-SUFFIX,oystermercury.top,PROXY
+#end include:comfy-ui-launcher
+
+DOMAIN-SUFFIX,comfy.org,PROXY
+
+# Dev
+DOMAIN-SUFFIX,comfyci.org,PROXY
+
+# Redirect
+DOMAIN-SUFFIX,comfyregistry.org,PROXY
+#end include:comfy
 #include:cursor
 DOMAIN-SUFFIX,cursor-cdn.com,PROXY
 DOMAIN-SUFFIX,cursor.com,PROXY

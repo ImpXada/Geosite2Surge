@@ -1,0 +1,10 @@
+DOMAIN-SUFFIX,rblx.org,PROXY
+DOMAIN-SUFFIX,rbx.com,PROXY
+DOMAIN-SUFFIX,rbxcdn.com,PROXY
+DOMAIN-SUFFIX,roblox-api.arkoselabs.co,PROXY
+DOMAIN-SUFFIX,roblox.com,PROXY
+DOMAIN-SUFFIX,robloxlabs.com,PROXY
+DOMAIN,d1unuk07s6td74.cloudfront.net,PROXY
+DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com,PROXY
+DOMAIN,roblox-poc.global.ssl.fastly.net,PROXY
+DOMAIN,robloxcorp.s.llnwi.net,PROXY
