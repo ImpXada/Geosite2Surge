@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,idg.com,PROXY
-DOMAIN-SUFFIX,idgcommunications.net,PROXY
-DOMAIN-SUFFIX,idgconnect-direct.com,PROXY
-DOMAIN-SUFFIX,idgconnect-resources.com,PROXY
-DOMAIN-SUFFIX,idgconnect.com,PROXY
-DOMAIN-SUFFIX,idgesg.net,PROXY
-DOMAIN-SUFFIX,idginc.com,PROXY
-DOMAIN-SUFFIX,idginsiderpro.com,PROXY
+DOMAIN-SUFFIX,idg.com
+DOMAIN-SUFFIX,idgcommunications.net
+DOMAIN-SUFFIX,idgconnect-direct.com
+DOMAIN-SUFFIX,idgconnect-resources.com
+DOMAIN-SUFFIX,idgconnect.com
+DOMAIN-SUFFIX,idgesg.net
+DOMAIN-SUFFIX,idginc.com
+DOMAIN-SUFFIX,idginsiderpro.com

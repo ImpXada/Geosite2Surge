@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,duowan.com,PROXY
-DOMAIN-SUFFIX,dwstatic.com,PROXY
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dwstatic.com
 #end include:duowan
 
-DOMAIN-SUFFIX,yy.com,PROXY
-DOMAIN-SUFFIX,yystatic.com,PROXY
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yystatic.com

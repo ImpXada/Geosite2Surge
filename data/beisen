@@ -1,12 +1,12 @@
-DOMAIN-SUFFIX,beisen.com,PROXY
-DOMAIN-SUFFIX,beisen.cn,PROXY
-DOMAIN-SUFFIX,beisenapp.com,PROXY
-DOMAIN-SUFFIX,beisencloud.com,PROXY
-DOMAIN-SUFFIX,beisenpaas.com,PROXY
+DOMAIN-SUFFIX,beisen.com
+DOMAIN-SUFFIX,beisen.cn
+DOMAIN-SUFFIX,beisenapp.com
+DOMAIN-SUFFIX,beisencloud.com
+DOMAIN-SUFFIX,beisenpaas.com
 
 # short url
-DOMAIN-SUFFIX,bsurl.cc,PROXY
-DOMAIN-SUFFIX,bsurl.cn,PROXY
+DOMAIN-SUFFIX,bsurl.cc
+DOMAIN-SUFFIX,bsurl.cn
 
 # recuitment
-DOMAIN-SUFFIX,zhiye.com,PROXY
+DOMAIN-SUFFIX,zhiye.com

@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,nginx.com,PROXY
-DOMAIN-SUFFIX,nginx.org,PROXY
+DOMAIN-SUFFIX,nginx.com
+DOMAIN-SUFFIX,nginx.org

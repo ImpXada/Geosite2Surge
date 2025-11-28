@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,ic.ac.uk,PROXY
-DOMAIN-SUFFIX,imperial.ac.uk,PROXY
-DOMAIN-SUFFIX,imperialbusiness.school,PROXY
+DOMAIN-SUFFIX,ic.ac.uk
+DOMAIN-SUFFIX,imperial.ac.uk
+DOMAIN-SUFFIX,imperialbusiness.school
 
-DOMAIN,imperial.insendi.com,PROXY
+DOMAIN,imperial.insendi.com

@@ -1,15 +1,15 @@
 # SDKs provided by Chinese ISP are used by apps to determine the phone number through celluar network.
 
 # China Telecom
-DOMAIN,id6.me,PROXY
+DOMAIN,id6.me
 
 # China Mobile
-DOMAIN-SUFFIX,cmpassport.com,PROXY
+DOMAIN-SUFFIX,cmpassport.com
 
 # China Unicom
-DOMAIN,opencloud.wostore.cn,PROXY
-DOMAIN,hs.wosms.cn,PROXY
-DOMAIN,enrichgw.10010.com,PROXY
-DOMAIN,hap.10010.com,PROXY
+DOMAIN,opencloud.wostore.cn
+DOMAIN,hs.wosms.cn
+DOMAIN,enrichgw.10010.com
+DOMAIN,hap.10010.com
 
-DOMAIN-WILDCARD,nis*.10010.com,PROXY
+DOMAIN-WILDCARD,nis*.10010.com

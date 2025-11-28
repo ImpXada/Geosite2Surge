@@ -1,3 +1,3 @@
-DOMAIN-SUFFIX,bsky.app,PROXY
-DOMAIN-SUFFIX,bsky.network,PROXY
-DOMAIN-SUFFIX,bsky.social,PROXY
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.social

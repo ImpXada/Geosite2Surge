@@ -1,13 +1,13 @@
 # Game
-DOMAIN-SUFFIX,colorfulstage.com,PROXY
+DOMAIN-SUFFIX,colorfulstage.com
 
 # Idol
-DOMAIN-SUFFIX,crypton.co.jp,PROXY
-DOMAIN-SUFFIX,lapriere.jp,PROXY
-DOMAIN-SUFFIX,magicalmirai.com,PROXY
-DOMAIN-SUFFIX,mikuexpo.com,PROXY
-DOMAIN-SUFFIX,piapro.net,PROXY
-DOMAIN-SUFFIX,snowmiku.com,PROXY
+DOMAIN-SUFFIX,crypton.co.jp
+DOMAIN-SUFFIX,lapriere.jp
+DOMAIN-SUFFIX,magicalmirai.com
+DOMAIN-SUFFIX,mikuexpo.com
+DOMAIN-SUFFIX,piapro.net
+DOMAIN-SUFFIX,snowmiku.com
 
 # Resource sharing
-DOMAIN-SUFFIX,bowlroll.net,PROXY
+DOMAIN-SUFFIX,bowlroll.net

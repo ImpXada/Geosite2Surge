@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,secom.co.jp,PROXY
-DOMAIN-SUFFIX,secomtrust.net,PROXY
+DOMAIN-SUFFIX,secom.co.jp
+DOMAIN-SUFFIX,secomtrust.net
 
 # Sub brand
 
-DOMAIN-SUFFIX,cybertrust.co.jp,PROXY
-DOMAIN-SUFFIX,cybertrust.ne.jp,PROXY
-DOMAIN-SUFFIX,managedpki.ne.jp,PROXY
+DOMAIN-SUFFIX,cybertrust.co.jp
+DOMAIN-SUFFIX,cybertrust.ne.jp
+DOMAIN-SUFFIX,managedpki.ne.jp

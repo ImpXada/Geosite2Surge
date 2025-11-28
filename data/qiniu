@@ -1,13 +1,13 @@
 #include:staticfile
-DOMAIN-SUFFIX,staticfile.net,PROXY
-DOMAIN-SUFFIX,staticfile.org,PROXY
+DOMAIN-SUFFIX,staticfile.net
+DOMAIN-SUFFIX,staticfile.org
 #end include:staticfile
 
-DOMAIN-SUFFIX,qbox.me,PROXY
-DOMAIN-SUFFIX,qiniu.com,PROXY
-DOMAIN-SUFFIX,qiniucdn.com,PROXY
-DOMAIN-SUFFIX,qiniudn.com,PROXY
-DOMAIN-SUFFIX,qiniudns.com,PROXY
-DOMAIN-SUFFIX,qiniup.com,PROXY
-DOMAIN-SUFFIX,qnsdk.com,PROXY
-DOMAIN-SUFFIX,qnssl.com,PROXY
+DOMAIN-SUFFIX,qbox.me
+DOMAIN-SUFFIX,qiniu.com
+DOMAIN-SUFFIX,qiniucdn.com
+DOMAIN-SUFFIX,qiniudn.com
+DOMAIN-SUFFIX,qiniudns.com
+DOMAIN-SUFFIX,qiniup.com
+DOMAIN-SUFFIX,qnsdk.com
+DOMAIN-SUFFIX,qnssl.com

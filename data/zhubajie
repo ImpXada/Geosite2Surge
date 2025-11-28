@@ -1,6 +1,6 @@
 # 猪八戒网
-DOMAIN-SUFFIX,tianpeng.com,PROXY
-DOMAIN-SUFFIX,zbj.com,PROXY
-DOMAIN-SUFFIX,zbjdev.com,PROXY
-DOMAIN-SUFFIX,zbjimg.com,PROXY
-DOMAIN-SUFFIX,zhubajie.com,PROXY
+DOMAIN-SUFFIX,tianpeng.com
+DOMAIN-SUFFIX,zbj.com
+DOMAIN-SUFFIX,zbjdev.com
+DOMAIN-SUFFIX,zbjimg.com
+DOMAIN-SUFFIX,zhubajie.com

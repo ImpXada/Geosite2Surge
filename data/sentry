@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,sentry.io,PROXY
-DOMAIN-SUFFIX,sentry-cdn.com,PROXY
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry-cdn.com

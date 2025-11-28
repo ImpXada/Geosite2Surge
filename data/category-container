@@ -1,12 +1,12 @@
-DOMAIN-SUFFIX,azurecr.io,PROXY
-DOMAIN-SUFFIX,docker.io,PROXY
-DOMAIN-SUFFIX,ecr.aws,PROXY
-DOMAIN-SUFFIX,gcr.io,PROXY
-DOMAIN-SUFFIX,ghcr.io,PROXY
-DOMAIN-SUFFIX,mcr.microsoft.com,PROXY
-DOMAIN-SUFFIX,quay.io,PROXY
-DOMAIN-SUFFIX,registry.gitlab.com,PROXY
-DOMAIN-SUFFIX,registry.k8s.io,PROXY
+DOMAIN-SUFFIX,azurecr.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ecr.aws
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,mcr.microsoft.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,registry.gitlab.com
+DOMAIN-SUFFIX,registry.k8s.io
 
 
-DOMAIN-WILDCARD,*.dkr.ecr.*.amazonaws.com,PROXY
+DOMAIN-WILDCARD,*.dkr.ecr.*.amazonaws.com

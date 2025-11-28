@@ -1,14 +1,14 @@
-DOMAIN-SUFFIX,braventures.com,PROXY
-DOMAIN-SUFFIX,braveux.com,PROXY
+DOMAIN-SUFFIX,braventures.com
+DOMAIN-SUFFIX,braveux.com
 
 # Compass
-DOMAIN-SUFFIX,compass.is,PROXY
+DOMAIN-SUFFIX,compass.is
 
 # Fight For UX
-DOMAIN-SUFFIX,fightforux.com,PROXY
+DOMAIN-SUFFIX,fightforux.com
 
 # For the Badge
-DOMAIN-SUFFIX,forthebadge.com,PROXY
+DOMAIN-SUFFIX,forthebadge.com
 
 # Stock Against Photography
-DOMAIN-SUFFIX,stockagainstphotography.com,PROXY
+DOMAIN-SUFFIX,stockagainstphotography.com

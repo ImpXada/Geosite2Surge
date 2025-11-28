@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,ubuntu.com,PROXY
-DOMAIN-SUFFIX,ubuntu.net,PROXY
-DOMAIN-SUFFIX,ubuntuforums.org,PROXY
-DOMAIN-SUFFIX,ubuntu-touch.io,PROXY
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-touch.io

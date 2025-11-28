@@ -1,14 +1,14 @@
-DOMAIN-SUFFIX,charlestonroadregistry.com,PROXY
-DOMAIN-SUFFIX,crr.com,PROXY
-DOMAIN-SUFFIX,registry.google,PROXY
+DOMAIN-SUFFIX,charlestonroadregistry.com
+DOMAIN-SUFFIX,crr.com
+DOMAIN-SUFFIX,registry.google
 
-DOMAIN-SUFFIX,get.app,PROXY
-DOMAIN-SUFFIX,get.dev,PROXY
-DOMAIN-SUFFIX,get.how,PROXY
-DOMAIN-SUFFIX,get.new,PROXY
-DOMAIN-SUFFIX,get.page,PROXY
-DOMAIN-SUFFIX,get.rsvp,PROXY
-DOMAIN-SUFFIX,hey.boo,PROXY
-DOMAIN-SUFFIX,iam.soy,PROXY
-DOMAIN-SUFFIX,new.day,PROXY
-DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c,PROXY    #はじめよう.みんな
+DOMAIN-SUFFIX,get.app
+DOMAIN-SUFFIX,get.dev
+DOMAIN-SUFFIX,get.how
+DOMAIN-SUFFIX,get.new
+DOMAIN-SUFFIX,get.page
+DOMAIN-SUFFIX,get.rsvp
+DOMAIN-SUFFIX,hey.boo
+DOMAIN-SUFFIX,iam.soy
+DOMAIN-SUFFIX,new.day
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c    #はじめよう.みんな

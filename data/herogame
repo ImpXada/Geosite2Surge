@@ -1,6 +1,6 @@
 # 英雄游戏(英雄互娱)
-DOMAIN-SUFFIX,hero.com,PROXY
-DOMAIN-SUFFIX,herogame.com,PROXY
-DOMAIN-SUFFIX,heroesports.com,PROXY
-DOMAIN-SUFFIX,shyxhy.com,PROXY
-DOMAIN-SUFFIX,yingxiong.com,PROXY
+DOMAIN-SUFFIX,hero.com
+DOMAIN-SUFFIX,herogame.com
+DOMAIN-SUFFIX,heroesports.com
+DOMAIN-SUFFIX,shyxhy.com
+DOMAIN-SUFFIX,yingxiong.com

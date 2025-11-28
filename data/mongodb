@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,mongodb.com,PROXY
-DOMAIN-SUFFIX,mongodb.org,PROXY
+DOMAIN-SUFFIX,mongodb.com
+DOMAIN-SUFFIX,mongodb.org

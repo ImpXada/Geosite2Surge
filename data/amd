@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,amd.com,PROXY
-DOMAIN-SUFFIX,amd.com.cn,PROXY
-DOMAIN-SUFFIX,amdfanstore.com,PROXY
-DOMAIN-SUFFIX,radeon.com,PROXY
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,radeon.com
 
-DOMAIN,www.amd.com,PROXY
+DOMAIN,www.amd.com

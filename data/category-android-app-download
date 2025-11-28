@@ -1,10 +1,10 @@
-DOMAIN-SUFFIX,apkcombo.com,PROXY
+DOMAIN-SUFFIX,apkcombo.com
 #end include:apkcombo
-DOMAIN-SUFFIX,apkmirror.com,PROXY
+DOMAIN-SUFFIX,apkmirror.com
 #end include:apkmirror
-DOMAIN-SUFFIX,apkpure.com,PROXY
-DOMAIN-SUFFIX,apkpure.net,PROXY
-DOMAIN-SUFFIX,cdnpure.com,PROXY
-DOMAIN-SUFFIX,pureapk.com,PROXY
-DOMAIN-SUFFIX,winudf.com,PROXY
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com
 #end include:apkpure

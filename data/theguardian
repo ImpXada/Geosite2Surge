@@ -1,12 +1,12 @@
 # All .theguardian domains
 # theguardian (never delegated)
 
-DOMAIN-SUFFIX,dev-guardianapis.com,PROXY
-DOMAIN-SUFFIX,dev-theguardian.com,PROXY
-DOMAIN-SUFFIX,gu-web.net,PROXY
-DOMAIN-SUFFIX,guardianapis.com,PROXY
-DOMAIN-SUFFIX,guardianapps.co.uk,PROXY
-DOMAIN-SUFFIX,guim.co.uk,PROXY
-DOMAIN-SUFFIX,guimcode.co.uk,PROXY
-DOMAIN-SUFFIX,theguardian.com,PROXY
-DOMAIN-SUFFIX,theguardiandns.com,PROXY
+DOMAIN-SUFFIX,dev-guardianapis.com
+DOMAIN-SUFFIX,dev-theguardian.com
+DOMAIN-SUFFIX,gu-web.net
+DOMAIN-SUFFIX,guardianapis.com
+DOMAIN-SUFFIX,guardianapps.co.uk
+DOMAIN-SUFFIX,guim.co.uk
+DOMAIN-SUFFIX,guimcode.co.uk
+DOMAIN-SUFFIX,theguardian.com
+DOMAIN-SUFFIX,theguardiandns.com

@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,hainanairlines.com,PROXY
-DOMAIN-SUFFIX,hnacargo.com,PROXY
-DOMAIN-SUFFIX,hnair.com,PROXY
+DOMAIN-SUFFIX,hainanairlines.com
+DOMAIN-SUFFIX,hnacargo.com
+DOMAIN-SUFFIX,hnair.com
 
 # HNA Telecom
-DOMAIN-SUFFIX,10044.cn,PROXY
+DOMAIN-SUFFIX,10044.cn

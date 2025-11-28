@@ -1,10 +1,10 @@
-DOMAIN-SUFFIX,seasungames.com,PROXY
-DOMAIN-SUFFIX,xishanju.com,PROXY
-DOMAIN-SUFFIX,xoyo.com,PROXY
-DOMAIN-SUFFIX,xoyocdn.com,PROXY
+DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,xishanju.com
+DOMAIN-SUFFIX,xoyo.com
+DOMAIN-SUFFIX,xoyocdn.com
 
 # 尘白禁区
-DOMAIN-SUFFIX,cbjq.com,PROXY
+DOMAIN-SUFFIX,cbjq.com
 
 # Testplus
-DOMAIN-SUFFIX,testplus.cn,PROXY
+DOMAIN-SUFFIX,testplus.cn

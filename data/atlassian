@@ -1,9 +1,9 @@
-DOMAIN-SUFFIX,atlassian.com,PROXY
-DOMAIN-SUFFIX,atlassian.net,PROXY
-DOMAIN-SUFFIX,bitbucket.io,PROXY
-DOMAIN-SUFFIX,bitbucket.org,PROXY
-DOMAIN-SUFFIX,statuspage.io,PROXY
+DOMAIN-SUFFIX,atlassian.com
+DOMAIN-SUFFIX,atlassian.net
+DOMAIN-SUFFIX,bitbucket.io
+DOMAIN-SUFFIX,bitbucket.org
+DOMAIN-SUFFIX,statuspage.io
 
-DOMAIN-SUFFIX,trello.com,PROXY
-DOMAIN-SUFFIX,trellocdn.com,PROXY
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
 #end include:trello

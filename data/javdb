@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,jav.app,PROXY
-DOMAIN-SUFFIX,javdb.com,PROXY
-DOMAIN-SUFFIX,jdbimgs.com,PROXY
-DOMAIN-SUFFIX,jdbstatic.com,PROXY
+DOMAIN-SUFFIX,jav.app
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,jdbimgs.com
+DOMAIN-SUFFIX,jdbstatic.com
 
-DOMAIN-WILDCARD,javdb*.com,PROXY
+DOMAIN-WILDCARD,javdb*.com

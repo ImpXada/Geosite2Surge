@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,readthedocs-hosted.com,PROXY
-DOMAIN-SUFFIX,readthedocs.com,PROXY
-DOMAIN-SUFFIX,readthedocs.io,PROXY
-DOMAIN-SUFFIX,readthedocs.org,PROXY
+DOMAIN-SUFFIX,readthedocs-hosted.com
+DOMAIN-SUFFIX,readthedocs.com
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,readthedocs.org

@@ -1,6 +1,6 @@
 # Disqus, Inc.
 # Disqus offers the best add-on tools for websites to increase engagement.
 
-DOMAIN-SUFFIX,disqus.com,PROXY
-DOMAIN-SUFFIX,disquscdn.com,PROXY
-DOMAIN-SUFFIX,disqusservice.com,PROXY
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,disqusservice.com

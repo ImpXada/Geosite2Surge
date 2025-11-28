@@ -1,10 +1,10 @@
-DOMAIN-SUFFIX,fastly-edge.com,PROXY
-DOMAIN-SUFFIX,fastly-terrarium.com,PROXY
-DOMAIN-SUFFIX,fastly.com,PROXY
-DOMAIN-SUFFIX,fastly.io,PROXY
-DOMAIN-SUFFIX,fastly.net,PROXY
-DOMAIN-SUFFIX,fastlylabs.com,PROXY
-DOMAIN-SUFFIX,fastlylb.net,PROXY
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-terrarium.com
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.io
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastlylb.net
 
 # Video.js CDN
-DOMAIN-SUFFIX,zencdn.net,PROXY
+DOMAIN-SUFFIX,zencdn.net

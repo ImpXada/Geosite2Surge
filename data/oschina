@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,gitee.com,PROXY
-DOMAIN-SUFFIX,gitee.io,PROXY
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io
 #end include:gitee
 
-DOMAIN-SUFFIX,oschina.net,PROXY
+DOMAIN-SUFFIX,oschina.net

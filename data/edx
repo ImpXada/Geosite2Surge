@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,edx.org,PROXY
-DOMAIN-SUFFIX,edx-cdn.org,PROXY
+DOMAIN-SUFFIX,edx.org
+DOMAIN-SUFFIX,edx-cdn.org

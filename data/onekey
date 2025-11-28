@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,onekey-asset.com,PROXY
-DOMAIN-SUFFIX,onekey.so,PROXY
-DOMAIN-SUFFIX,onekeycn.com,PROXY
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekeycn.com
 
-DOMAIN,onekey.zendesk.com,PROXY
+DOMAIN,onekey.zendesk.com

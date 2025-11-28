@@ -1,739 +1,739 @@
 #include:anaconda
-DOMAIN-SUFFIX,anaconda.cloud,PROXY
-DOMAIN-SUFFIX,anaconda.com,PROXY
-DOMAIN-SUFFIX,anaconda.org,PROXY
-DOMAIN-SUFFIX,conda.io,PROXY
+DOMAIN-SUFFIX,anaconda.cloud
+DOMAIN-SUFFIX,anaconda.com
+DOMAIN-SUFFIX,anaconda.org
+DOMAIN-SUFFIX,conda.io
 #end include:anaconda
 #include:android
 # All .android domains
-DOMAIN-SUFFIX,android,PROXY
+DOMAIN-SUFFIX,android
 
-DOMAIN-SUFFIX,android.com,PROXY
-DOMAIN-SUFFIX,androidify.com,PROXY
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
 
-DOMAIN,android.googlesource.com,PROXY
+DOMAIN,android.googlesource.com
 #end include:android
 #include:apple-dev
 #include:swift
-DOMAIN-SUFFIX,appleswift.com,PROXY
-DOMAIN-SUFFIX,swift.org,PROXY
-DOMAIN-SUFFIX,swiftui.cn,PROXY
-DOMAIN-SUFFIX,swiftui.com.cn,PROXY
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
 #end include:swift
 
 # Calendar and Contact Server
-DOMAIN-SUFFIX,calendarserver.org,PROXY
+DOMAIN-SUFFIX,calendarserver.org
 
 # CloudKit
-DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
+DOMAIN-SUFFIX,apple-cloudkit.com
 
 # CUPS
-DOMAIN-SUFFIX,cups.org,PROXY
+DOMAIN-SUFFIX,cups.org
 
 # Developer
-DOMAIN-SUFFIX,developer.apple.com,PROXY
-DOMAIN-SUFFIX,devimages-cdn.apple.com,PROXY
-DOMAIN-SUFFIX,devstreaming-cdn.apple.com,PROXY
-DOMAIN-SUFFIX,developerservices2.apple.com,PROXY
-DOMAIN-SUFFIX,timestamp.apple.com,PROXY
-DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
-DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com,PROXY
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+DOMAIN-SUFFIX,developerservices2.apple.com
+DOMAIN-SUFFIX,timestamp.apple.com
+DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
+DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 
 # FoundationDB
-DOMAIN-SUFFIX,foundationdb.org,PROXY
+DOMAIN-SUFFIX,foundationdb.org
 
 # macOS forge
-DOMAIN-SUFFIX,macosforge.org,PROXY
+DOMAIN-SUFFIX,macosforge.org
 
 # MacRuby
-DOMAIN-SUFFIX,macruby.com,PROXY
-DOMAIN-SUFFIX,macruby.net,PROXY
-DOMAIN-SUFFIX,macruby.org,PROXY
+DOMAIN-SUFFIX,macruby.com
+DOMAIN-SUFFIX,macruby.net
+DOMAIN-SUFFIX,macruby.org
 
 # MapKit
-DOMAIN-SUFFIX,apple-mapkit.com,PROXY
+DOMAIN-SUFFIX,apple-mapkit.com
 
 # Playgrounds
-DOMAIN-SUFFIX,playgrounds-cdn.apple.com,PROXY
+DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 
 # Research & Care
-DOMAIN-SUFFIX,carekit.org,PROXY
-DOMAIN-SUFFIX,researchandcare.org,PROXY
-DOMAIN-SUFFIX,researchkit.cn,PROXY
-DOMAIN-SUFFIX,researchkit.com.cn,PROXY
-DOMAIN-SUFFIX,researchkit.hk,PROXY
-DOMAIN-SUFFIX,researchkit.net,PROXY
-DOMAIN-SUFFIX,researchkit.org,PROXY
-DOMAIN-SUFFIX,researchkit.tv,PROXY
+DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,researchandcare.org
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,researchkit.hk
+DOMAIN-SUFFIX,researchkit.net
+DOMAIN-SUFFIX,researchkit.org
+DOMAIN-SUFFIX,researchkit.tv
 
 # ServiceTalk
-DOMAIN-SUFFIX,servicetalk.io,PROXY
+DOMAIN-SUFFIX,servicetalk.io
 
 # WebKit
-DOMAIN-SUFFIX,webkit.org,PROXY
-DOMAIN-SUFFIX,webkitgtk.org,PROXY
-DOMAIN-SUFFIX,wpewebkit.org,PROXY
+DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,webkitgtk.org
+DOMAIN-SUFFIX,wpewebkit.org
 
 # Other
-DOMAIN-SUFFIX,webobjects.com,PROXY
+DOMAIN-SUFFIX,webobjects.com
 
-DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net,PROXY
-DOMAIN,appleworldwidedeveloper.sc.omtrdc.net,PROXY
-DOMAIN,p-events-delivery.akamaized.net,PROXY
+DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
+DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN,p-events-delivery.akamaized.net
 
 #end include:apple-dev
 #include:archlinux
-DOMAIN-SUFFIX,archlinux.org,PROXY
-DOMAIN-SUFFIX,archlinuxarm.org,PROXY
+DOMAIN-SUFFIX,archlinux.org
+DOMAIN-SUFFIX,archlinuxarm.org
 #end include:archlinux
 #include:bootstrap
-DOMAIN-SUFFIX,bootstrapcdn.com,PROXY
-DOMAIN-SUFFIX,getbootstrap.com,PROXY
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,getbootstrap.com
 #end include:bootstrap
 #include:braveux
-DOMAIN-SUFFIX,braventures.com,PROXY
-DOMAIN-SUFFIX,braveux.com,PROXY
+DOMAIN-SUFFIX,braventures.com
+DOMAIN-SUFFIX,braveux.com
 
 # Compass
-DOMAIN-SUFFIX,compass.is,PROXY
+DOMAIN-SUFFIX,compass.is
 
 # Fight For UX
-DOMAIN-SUFFIX,fightforux.com,PROXY
+DOMAIN-SUFFIX,fightforux.com
 
 # For the Badge
-DOMAIN-SUFFIX,forthebadge.com,PROXY
+DOMAIN-SUFFIX,forthebadge.com
 
 # Stock Against Photography
-DOMAIN-SUFFIX,stockagainstphotography.com,PROXY
+DOMAIN-SUFFIX,stockagainstphotography.com
 #end include:braveux
 #include:category-container
-DOMAIN-SUFFIX,azurecr.io,PROXY
-DOMAIN-SUFFIX,docker.io,PROXY
-DOMAIN-SUFFIX,ecr.aws,PROXY
-DOMAIN-SUFFIX,gcr.io,PROXY
-DOMAIN-SUFFIX,ghcr.io,PROXY
-DOMAIN-SUFFIX,mcr.microsoft.com,PROXY
-DOMAIN-SUFFIX,quay.io,PROXY
-DOMAIN-SUFFIX,registry.gitlab.com,PROXY
-DOMAIN-SUFFIX,registry.k8s.io,PROXY
+DOMAIN-SUFFIX,azurecr.io
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,ecr.aws
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,mcr.microsoft.com
+DOMAIN-SUFFIX,quay.io
+DOMAIN-SUFFIX,registry.gitlab.com
+DOMAIN-SUFFIX,registry.k8s.io
 
 
-DOMAIN-WILDCARD,*.dkr.ecr.*.amazonaws.com,PROXY
+DOMAIN-WILDCARD,*.dkr.ecr.*.amazonaws.com
 #end include:category-container
 #include:codeberg
-DOMAIN-SUFFIX,codeberg.org,PROXY
-DOMAIN-SUFFIX,codeberg.page,PROXY
+DOMAIN-SUFFIX,codeberg.org
+DOMAIN-SUFFIX,codeberg.page
 #end include:codeberg
 #include:dart
-DOMAIN-SUFFIX,dart.dev,PROXY
-DOMAIN-SUFFIX,dartlang.org,PROXY
-DOMAIN-SUFFIX,dartpad.dev,PROXY
+DOMAIN-SUFFIX,dart.dev
+DOMAIN-SUFFIX,dartlang.org
+DOMAIN-SUFFIX,dartpad.dev
 #end include:dart
 #include:debian
-DOMAIN-SUFFIX,debian.org,PROXY
-DOMAIN-SUFFIX,dotdeb.org,PROXY
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,dotdeb.org
 #end include:debian
 #include:docker
-DOMAIN-SUFFIX,compose-spec.io,PROXY
-DOMAIN-SUFFIX,docker.com,PROXY
-DOMAIN-SUFFIX,docker.io,PROXY
-DOMAIN-SUFFIX,dockerstatic.com,PROXY
+DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerstatic.com
 
-DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com,PROXY
-DOMAIN,docker-pinata-support.s3.amazonaws.com,PROXY
+DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
+DOMAIN,docker-pinata-support.s3.amazonaws.com
 #end include:docker
 #include:embedly
-DOMAIN-SUFFIX,embed.ly,PROXY
-DOMAIN-SUFFIX,embedly.com,PROXY
+DOMAIN-SUFFIX,embed.ly
+DOMAIN-SUFFIX,embedly.com
 
 # Player.js
-DOMAIN-SUFFIX,playerjs.io,PROXY
+DOMAIN-SUFFIX,playerjs.io
 #end include:embedly
 #include:facebook-dev
-DOMAIN-SUFFIX,accountkit.com,PROXY
-DOMAIN-SUFFIX,atscaleconference.com,PROXY
-DOMAIN-SUFFIX,botorch.org,PROXY
-DOMAIN-SUFFIX,buck.build,PROXY
-DOMAIN-SUFFIX,buckbuild.com,PROXY
-DOMAIN-SUFFIX,componentkit.org,PROXY
-DOMAIN-SUFFIX,draftjs.org,PROXY
-DOMAIN-SUFFIX,f8.com,PROXY
-DOMAIN-SUFFIX,facebookappcenter.info,PROXY
-DOMAIN-SUFFIX,facebookappcenter.net,PROXY
-DOMAIN-SUFFIX,facebookappcenter.org,PROXY
-DOMAIN-SUFFIX,facebookconnect.com,PROXY
-DOMAIN-SUFFIX,facebookdevelopergarage.com,PROXY
-DOMAIN-SUFFIX,faciometrics.com,PROXY
-DOMAIN-SUFFIX,fasttext.cc,PROXY
-DOMAIN-SUFFIX,fbf8.com,PROXY
-DOMAIN-SUFFIX,fbinfer.com,PROXY
-DOMAIN-SUFFIX,fblitho.com,PROXY
-DOMAIN-SUFFIX,fbredex.com,PROXY
-DOMAIN-SUFFIX,fbrell.com,PROXY
-DOMAIN-SUFFIX,flow.dev,PROXY
-DOMAIN-SUFFIX,flow.org,PROXY
-DOMAIN-SUFFIX,flowtype.org,PROXY
-DOMAIN-SUFFIX,frescolib.org,PROXY
-DOMAIN-SUFFIX,hacklang.org,PROXY
-DOMAIN-SUFFIX,hhvm.com,PROXY
-DOMAIN-SUFFIX,makeitopen.com,PROXY
-DOMAIN-SUFFIX,mcrouter.net,PROXY
-DOMAIN-SUFFIX,mcrouter.org,PROXY
-DOMAIN-SUFFIX,messengerdevelopers.com,PROXY
-DOMAIN-SUFFIX,ogp.me,PROXY
-DOMAIN-SUFFIX,opengraphprotocol.com,PROXY
-DOMAIN-SUFFIX,opengraphprotocol.org,PROXY
-DOMAIN-SUFFIX,parse.com,PROXY
-DOMAIN-SUFFIX,pyrobot.org,PROXY
-DOMAIN-SUFFIX,react.com,PROXY
-DOMAIN-SUFFIX,reactjs.com,PROXY
-DOMAIN-SUFFIX,reactjs.org,PROXY
-DOMAIN-SUFFIX,recoiljs.org,PROXY
-DOMAIN-SUFFIX,rocksdb.com,PROXY
-DOMAIN-SUFFIX,rocksdb.net,PROXY
-DOMAIN-SUFFIX,rocksdb.org,PROXY
-DOMAIN-SUFFIX,yogalayout.com,PROXY
+DOMAIN-SUFFIX,accountkit.com
+DOMAIN-SUFFIX,atscaleconference.com
+DOMAIN-SUFFIX,botorch.org
+DOMAIN-SUFFIX,buck.build
+DOMAIN-SUFFIX,buckbuild.com
+DOMAIN-SUFFIX,componentkit.org
+DOMAIN-SUFFIX,draftjs.org
+DOMAIN-SUFFIX,f8.com
+DOMAIN-SUFFIX,facebookappcenter.info
+DOMAIN-SUFFIX,facebookappcenter.net
+DOMAIN-SUFFIX,facebookappcenter.org
+DOMAIN-SUFFIX,facebookconnect.com
+DOMAIN-SUFFIX,facebookdevelopergarage.com
+DOMAIN-SUFFIX,faciometrics.com
+DOMAIN-SUFFIX,fasttext.cc
+DOMAIN-SUFFIX,fbf8.com
+DOMAIN-SUFFIX,fbinfer.com
+DOMAIN-SUFFIX,fblitho.com
+DOMAIN-SUFFIX,fbredex.com
+DOMAIN-SUFFIX,fbrell.com
+DOMAIN-SUFFIX,flow.dev
+DOMAIN-SUFFIX,flow.org
+DOMAIN-SUFFIX,flowtype.org
+DOMAIN-SUFFIX,frescolib.org
+DOMAIN-SUFFIX,hacklang.org
+DOMAIN-SUFFIX,hhvm.com
+DOMAIN-SUFFIX,makeitopen.com
+DOMAIN-SUFFIX,mcrouter.net
+DOMAIN-SUFFIX,mcrouter.org
+DOMAIN-SUFFIX,messengerdevelopers.com
+DOMAIN-SUFFIX,ogp.me
+DOMAIN-SUFFIX,opengraphprotocol.com
+DOMAIN-SUFFIX,opengraphprotocol.org
+DOMAIN-SUFFIX,parse.com
+DOMAIN-SUFFIX,pyrobot.org
+DOMAIN-SUFFIX,react.com
+DOMAIN-SUFFIX,reactjs.com
+DOMAIN-SUFFIX,reactjs.org
+DOMAIN-SUFFIX,recoiljs.org
+DOMAIN-SUFFIX,rocksdb.com
+DOMAIN-SUFFIX,rocksdb.net
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,yogalayout.com
 
-DOMAIN,developers.facebook.com,PROXY
+DOMAIN,developers.facebook.com
 #end include:facebook-dev
 #include:fastlane
-DOMAIN-SUFFIX,fastlane.ci,PROXY
-DOMAIN-SUFFIX,fastlane.tools,PROXY
+DOMAIN-SUFFIX,fastlane.ci
+DOMAIN-SUFFIX,fastlane.tools
 #end include:fastlane
 #include:fedora
-DOMAIN-SUFFIX,getfedora.org,PROXY
-DOMAIN-SUFFIX,fedoraforum.org,PROXY
-DOMAIN-SUFFIX,fedorapeople.org,PROXY
-DOMAIN-SUFFIX,fedoraproject.org,PROXY
-DOMAIN-SUFFIX,fedoramagazine.org,PROXY
+DOMAIN-SUFFIX,getfedora.org
+DOMAIN-SUFFIX,fedoraforum.org
+DOMAIN-SUFFIX,fedorapeople.org
+DOMAIN-SUFFIX,fedoraproject.org
+DOMAIN-SUFFIX,fedoramagazine.org
 #end include:fedora
 #include:firebase
-DOMAIN-SUFFIX,firebase.com,PROXY
-DOMAIN-SUFFIX,firebase.io,PROXY
-DOMAIN-SUFFIX,firebaseapp.com,PROXY
-DOMAIN-SUFFIX,firebaseio.com,PROXY
+DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.io
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com
 
-DOMAIN,firebase-settings.crashlytics.com,PROXY
-DOMAIN,firebase.google.com,PROXY
-DOMAIN,firebase.googleapis.com,PROXY
-DOMAIN,firebaseappcheck.googleapis.com,PROXY
-DOMAIN,firebasedynamiclinks-ipv4.googleapis.com,PROXY
-DOMAIN,firebasedynamiclinks-ipv6.googleapis.com,PROXY
-DOMAIN,firebasedynamiclinks.googleapis.com,PROXY
-DOMAIN,firebaseinappmessaging.googleapis.com,PROXY
-DOMAIN,firebaseinstallations.googleapis.com,PROXY
-DOMAIN,firebaselogging-pa.googleapis.com,PROXY
-DOMAIN,firebaselogging.googleapis.com,PROXY
-DOMAIN,firebaseperusertopics-pa.googleapis.com,PROXY
-DOMAIN,firebaseremoteconfig.googleapis.com,PROXY
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebase.google.com
+DOMAIN,firebase.googleapis.com
+DOMAIN,firebaseappcheck.googleapis.com
+DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
+DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
+DOMAIN,firebasedynamiclinks.googleapis.com
+DOMAIN,firebaseinappmessaging.googleapis.com
+DOMAIN,firebaseinstallations.googleapis.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
+DOMAIN,firebaseperusertopics-pa.googleapis.com
+DOMAIN,firebaseremoteconfig.googleapis.com
 #end include:firebase
 #include:flatpak
-DOMAIN-SUFFIX,flathub.org,PROXY
-DOMAIN-SUFFIX,flatpak.org,PROXY
+DOMAIN-SUFFIX,flathub.org
+DOMAIN-SUFFIX,flatpak.org
 #end include:flatpak
 #include:flutter
-DOMAIN-SUFFIX,flutter.dev,PROXY
-DOMAIN-SUFFIX,flutterapp.com,PROXY
-DOMAIN-SUFFIX,pub.dev,PROXY
+DOMAIN-SUFFIX,flutter.dev
+DOMAIN-SUFFIX,flutterapp.com
+DOMAIN-SUFFIX,pub.dev
 #end include:flutter
 #include:fontawesome
-DOMAIN-SUFFIX,fontawesome.com,PROXY
-DOMAIN-SUFFIX,fortawesome.com,PROXY
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,fortawesome.com
 #end include:fontawesome
 #include:framer
-DOMAIN-SUFFIX,framer.com,PROXY
-DOMAIN-SUFFIX,framer.website,PROXY
-DOMAIN-SUFFIX,framercanvas.com,PROXY
-DOMAIN-SUFFIX,framerstatic.com,PROXY
-DOMAIN-SUFFIX,framerusercontent.com,PROXY
+DOMAIN-SUFFIX,framer.com
+DOMAIN-SUFFIX,framer.website
+DOMAIN-SUFFIX,framercanvas.com
+DOMAIN-SUFFIX,framerstatic.com
+DOMAIN-SUFFIX,framerusercontent.com
 #end include:framer
 #include:gemfury
-DOMAIN-SUFFIX,fury.blog,PROXY
-DOMAIN-SUFFIX,fury.co,PROXY
-DOMAIN-SUFFIX,fury.dev,PROXY
-DOMAIN-SUFFIX,fury.help,PROXY
-DOMAIN-SUFFIX,fury.io,PROXY
-DOMAIN-SUFFIX,gemfury.com,PROXY
+DOMAIN-SUFFIX,fury.blog
+DOMAIN-SUFFIX,fury.co
+DOMAIN-SUFFIX,fury.dev
+DOMAIN-SUFFIX,fury.help
+DOMAIN-SUFFIX,fury.io
+DOMAIN-SUFFIX,gemfury.com
 #end include:gemfury
 #include:gitbook
-DOMAIN-SUFFIX,gitbook.com,PROXY
-DOMAIN-SUFFIX,gitbook.io,PROXY
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io
 #end include:gitbook
 #include:github
 #include:npmjs
-DOMAIN-SUFFIX,npm.community,PROXY
-DOMAIN-SUFFIX,npmjs.com,PROXY
-DOMAIN-SUFFIX,npmjs.org,PROXY
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
 #end include:npmjs
 
-DOMAIN-SUFFIX,atom.io,PROXY
-DOMAIN-SUFFIX,dependabot.com,PROXY
-DOMAIN-SUFFIX,gh.io,PROXY
-DOMAIN-SUFFIX,ghcr.io,PROXY
-DOMAIN-SUFFIX,git.io,PROXY
-DOMAIN-SUFFIX,github.ai,PROXY
-DOMAIN-SUFFIX,github.blog,PROXY
-DOMAIN-SUFFIX,github.com,PROXY
-DOMAIN-SUFFIX,github.community,PROXY
-DOMAIN-SUFFIX,github.dev,PROXY
-DOMAIN-SUFFIX,github.io,PROXY
-DOMAIN-SUFFIX,githubapp.com,PROXY
-DOMAIN-SUFFIX,githubassets.com,PROXY
-DOMAIN-SUFFIX,githubcopilot.com,PROXY
-DOMAIN-SUFFIX,githubhackathon.com,PROXY
-DOMAIN-SUFFIX,githubnext.com,PROXY
-DOMAIN-SUFFIX,githubpreview.dev,PROXY
-DOMAIN-SUFFIX,githubstatus.com,PROXY
-DOMAIN-SUFFIX,githubuniverse.com,PROXY
-DOMAIN-SUFFIX,githubusercontent.com,PROXY
-DOMAIN-SUFFIX,myoctocat.com,PROXY
-DOMAIN-SUFFIX,octocaptcha.com,PROXY
-DOMAIN-SUFFIX,opensource.guide,PROXY
-DOMAIN-SUFFIX,repo.new,PROXY
-DOMAIN-SUFFIX,thegithubshop.com,PROXY
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,gh.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.ai
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubhackathon.com
+DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubuniverse.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,octocaptcha.com
+DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,repo.new
+DOMAIN-SUFFIX,thegithubshop.com
 
 # GitHub Actions Artifacts
-DOMAIN-SUFFIX,blob.core.windows.net,PROXY
+DOMAIN-SUFFIX,blob.core.windows.net
 
-DOMAIN,github-api.arkoselabs.com,PROXY
-DOMAIN,github-cloud.s3.amazonaws.com,PROXY
-DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com,PROXY
+DOMAIN,github-api.arkoselabs.com
+DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com
 #end include:github
 #include:github1s
-DOMAIN-SUFFIX,github1s.com,PROXY
-DOMAIN-SUFFIX,sourcegraph.com,PROXY
+DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,sourcegraph.com
 #end include:github1s
 #include:gitlab
-DOMAIN-SUFFIX,gitlab.com,PROXY
-DOMAIN-SUFFIX,gitlab.io,PROXY
-DOMAIN-SUFFIX,gitlab.net,PROXY
-DOMAIN-SUFFIX,gitlab-static.net,PROXY
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitlab-static.net
 
-DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com,PROXY
+DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
 #end include:gitlab
 #include:golang
-DOMAIN-SUFFIX,go-lang.com,PROXY
-DOMAIN-SUFFIX,go-lang.net,PROXY
-DOMAIN-SUFFIX,go-lang.org,PROXY
-DOMAIN-SUFFIX,go.dev,PROXY
-DOMAIN-SUFFIX,godoc.org,PROXY
-DOMAIN-SUFFIX,golang.com,PROXY
-DOMAIN-SUFFIX,golang.net,PROXY
-DOMAIN-SUFFIX,golang.org,PROXY
+DOMAIN-SUFFIX,go-lang.com
+DOMAIN-SUFFIX,go-lang.net
+DOMAIN-SUFFIX,go-lang.org
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.com
+DOMAIN-SUFFIX,golang.net
+DOMAIN-SUFFIX,golang.org
 #end include:golang
 #include:hashicorp
-DOMAIN-SUFFIX,consul.io,PROXY
-DOMAIN-SUFFIX,hashicorp.com,PROXY
-DOMAIN-SUFFIX,nomadproject.io,PROXY
-DOMAIN-SUFFIX,packer.io,PROXY
-DOMAIN-SUFFIX,terraform.io,PROXY
-DOMAIN-SUFFIX,vagrantcloud.com,PROXY
-DOMAIN-SUFFIX,vagrantup.com,PROXY
-DOMAIN-SUFFIX,vaultproject.io,PROXY
+DOMAIN-SUFFIX,consul.io
+DOMAIN-SUFFIX,hashicorp.com
+DOMAIN-SUFFIX,nomadproject.io
+DOMAIN-SUFFIX,packer.io
+DOMAIN-SUFFIX,terraform.io
+DOMAIN-SUFFIX,vagrantcloud.com
+DOMAIN-SUFFIX,vagrantup.com
+DOMAIN-SUFFIX,vaultproject.io
 #end include:hashicorp
 #include:haskell
-DOMAIN-SUFFIX,haskell.org,PROXY
-DOMAIN-SUFFIX,haskellstack.org,PROXY
-DOMAIN-SUFFIX,stackage.org,PROXY
+DOMAIN-SUFFIX,haskell.org
+DOMAIN-SUFFIX,haskellstack.org
+DOMAIN-SUFFIX,stackage.org
 #end include:haskell
 #include:homebrew
-DOMAIN-SUFFIX,brew.sh,PROXY
+DOMAIN-SUFFIX,brew.sh
 
-DOMAIN,homebrew.bintray.com,PROXY
+DOMAIN,homebrew.bintray.com
 #end include:homebrew
 #include:intel-dev
-DOMAIN-SUFFIX,01.org,PROXY
-DOMAIN-SUFFIX,hyperscan.io,PROXY
-DOMAIN-SUFFIX,intellinuxgraphics.com,PROXY
-DOMAIN-SUFFIX,intellinuxgraphics.net,PROXY
-DOMAIN-SUFFIX,oneapi.com,PROXY
-DOMAIN-SUFFIX,oneapi.io,PROXY
-DOMAIN-SUFFIX,opencas.io,PROXY
-DOMAIN-SUFFIX,opendroneid.org,PROXY
-DOMAIN-SUFFIX,openvino.ai,PROXY
-DOMAIN-SUFFIX,openvinotoolkit.org,PROXY
-DOMAIN-SUFFIX,renderingtoolkit.org,PROXY
-DOMAIN-SUFFIX,snap-telemetry.io,PROXY
-DOMAIN-SUFFIX,universalscalablefirmware.org,PROXY
+DOMAIN-SUFFIX,01.org
+DOMAIN-SUFFIX,hyperscan.io
+DOMAIN-SUFFIX,intellinuxgraphics.com
+DOMAIN-SUFFIX,intellinuxgraphics.net
+DOMAIN-SUFFIX,oneapi.com
+DOMAIN-SUFFIX,oneapi.io
+DOMAIN-SUFFIX,opencas.io
+DOMAIN-SUFFIX,opendroneid.org
+DOMAIN-SUFFIX,openvino.ai
+DOMAIN-SUFFIX,openvinotoolkit.org
+DOMAIN-SUFFIX,renderingtoolkit.org
+DOMAIN-SUFFIX,snap-telemetry.io
+DOMAIN-SUFFIX,universalscalablefirmware.org
 
 # ACPI Component Architecture
-DOMAIN-SUFFIX,acpica.com,PROXY
+DOMAIN-SUFFIX,acpica.com
 
 # Clear Linux
-DOMAIN-SUFFIX,clearlinux.org,PROXY
+DOMAIN-SUFFIX,clearlinux.org
 
 # OSPRay
-DOMAIN-SUFFIX,ospray.net,PROXY
-DOMAIN-SUFFIX,ospray.org,PROXY
+DOMAIN-SUFFIX,ospray.net
+DOMAIN-SUFFIX,ospray.org
 #end include:intel-dev
 #include:java
 # All .java domains
-DOMAIN-SUFFIX,java,PROXY
+DOMAIN-SUFFIX,java
 
-DOMAIN-SUFFIX,java.com,PROXY
-DOMAIN-SUFFIX,java.net,PROXY
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net
 #end include:java
 #include:jetbrains
-DOMAIN-SUFFIX,intellij.com,PROXY
-DOMAIN-SUFFIX,intellij.net,PROXY
-DOMAIN-SUFFIX,intellij.org,PROXY
-DOMAIN-SUFFIX,jetbrains.com,PROXY
-DOMAIN-SUFFIX,jetbrains.net,PROXY
-DOMAIN-SUFFIX,jetbrains.space,PROXY
-DOMAIN-SUFFIX,jetbrains.team,PROXY
-DOMAIN-SUFFIX,datalore.io,PROXY
-DOMAIN-SUFFIX,kotlinlang.org,PROXY
-DOMAIN-SUFFIX,cdn.jetbrains.com,PROXY
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn,PROXY
-DOMAIN-SUFFIX,jb.gg,PROXY
-DOMAIN-SUFFIX,youtrack.cloud,PROXY
+DOMAIN-SUFFIX,intellij.com
+DOMAIN-SUFFIX,intellij.net
+DOMAIN-SUFFIX,intellij.org
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.space
+DOMAIN-SUFFIX,jetbrains.team
+DOMAIN-SUFFIX,datalore.io
+DOMAIN-SUFFIX,kotlinlang.org
+DOMAIN-SUFFIX,cdn.jetbrains.com
+DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
+DOMAIN-SUFFIX,jb.gg
+DOMAIN-SUFFIX,youtrack.cloud
 #end include:jetbrains
 #include:jetbrains-ai
-DOMAIN-SUFFIX,grazie.ai,PROXY
-DOMAIN-SUFFIX,grazie.aws.intellij.net,PROXY
-DOMAIN-SUFFIX,jetbrains.ai,PROXY
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,jetbrains.ai
 #end include:jetbrains-ai
 #include:jfrog
-DOMAIN-SUFFIX,jfrog.com,PROXY
-DOMAIN-SUFFIX,jfrog.org,PROXY
-DOMAIN-SUFFIX,bintray.com,PROXY
+DOMAIN-SUFFIX,jfrog.com
+DOMAIN-SUFFIX,jfrog.org
+DOMAIN-SUFFIX,bintray.com
 
-DOMAIN,d29vzk4ow07wi7.cloudfront.net,PROXY
+DOMAIN,d29vzk4ow07wi7.cloudfront.net
 #end include:jfrog
 #include:jsdelivr
-DOMAIN-SUFFIX,jsdelivr.com,PROXY
-DOMAIN-SUFFIX,jsdelivr.net,PROXY
-DOMAIN-SUFFIX,esm.run,PROXY
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,esm.run
 
-DOMAIN,cdn.jsdelivr.net,PROXY
+DOMAIN,cdn.jsdelivr.net
 #end include:jsdelivr
 #include:kubernetes
-DOMAIN-SUFFIX,kubernetes.io,PROXY
-DOMAIN-SUFFIX,k8s.io,PROXY
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,k8s.io
 #end include:kubernetes
 #include:microsoft-dev
-DOMAIN-SUFFIX,adaptivecards.io,PROXY
-DOMAIN-SUFFIX,api-extractor.com,PROXY
-DOMAIN-SUFFIX,apisof.net,PROXY
-DOMAIN-SUFFIX,appcenter.ms,PROXY
-DOMAIN-SUFFIX,blazor.net,PROXY
-DOMAIN-SUFFIX,botframework.com,PROXY
-DOMAIN-SUFFIX,codethemicrobit.com,PROXY
-DOMAIN-SUFFIX,devopsassessment.net,PROXY
-DOMAIN-SUFFIX,dot.net,PROXY
-DOMAIN-SUFFIX,gamesstack.com,PROXY
-DOMAIN-SUFFIX,graphengine.io,PROXY
-DOMAIN-SUFFIX,insiderdevtour.com,PROXY
-DOMAIN-SUFFIX,jwt.ms,PROXY
-DOMAIN-SUFFIX,microbit.org,PROXY
-DOMAIN-SUFFIX,microsoftadc.com,PROXY
-DOMAIN-SUFFIX,microsoftgamestack.com,PROXY
-DOMAIN-SUFFIX,microsoftiotinsiderlabs.com,PROXY
-DOMAIN-SUFFIX,microsoftreactor.cn,PROXY
-DOMAIN-SUFFIX,microsoftreactor.com.cn,PROXY
-DOMAIN-SUFFIX,microsoftreactor.info,PROXY
-DOMAIN-SUFFIX,microsoftreactor.net,PROXY
-DOMAIN-SUFFIX,microsoftreactor.org,PROXY
-DOMAIN-SUFFIX,microsoftsilverlight.com,PROXY
-DOMAIN-SUFFIX,microsoftsilverlight.org,PROXY
-DOMAIN-SUFFIX,microsoftsilverlight.net,PROXY
-DOMAIN-SUFFIX,microsoftsqlserver.com,PROXY
-DOMAIN-SUFFIX,mmdnn.com,PROXY
-DOMAIN-SUFFIX,mono-project.com,PROXY
-DOMAIN-SUFFIX,msdn.com,PROXY
-DOMAIN-SUFFIX,msinnovationchallenge.com,PROXY
-DOMAIN-SUFFIX,mspairlift.com,PROXY
-DOMAIN-SUFFIX,msropendata.com,PROXY
-DOMAIN-SUFFIX,nuget.org,PROXY
-DOMAIN-SUFFIX,nugettest.org,PROXY
-DOMAIN-SUFFIX,opentranslatorstothings.org,PROXY
-DOMAIN-SUFFIX,poshtestgallery.com,PROXY
-DOMAIN-SUFFIX,pwabuilder.com,PROXY
-DOMAIN-SUFFIX,reactorms.com.cn,PROXY
-DOMAIN-SUFFIX,sankie.net,PROXY
-DOMAIN-SUFFIX,sqlserveronlinux.com,PROXY
-DOMAIN-SUFFIX,timelinestoryteller.com,PROXY
-DOMAIN-SUFFIX,uwpcommunitytoolkit.com,PROXY
-DOMAIN-SUFFIX,visualstudio-staging.com,PROXY
-DOMAIN-SUFFIX,visualstudio.com,PROXY
-DOMAIN-SUFFIX,visualstudio.co,PROXY
-DOMAIN-SUFFIX,visualstudio.co.uk,PROXY
-DOMAIN-SUFFIX,visualstudio.eu,PROXY
-DOMAIN-SUFFIX,visualstudio.net,PROXY
-DOMAIN-SUFFIX,vfsforgit.com,PROXY
-DOMAIN-SUFFIX,vfsforgit.org,PROXY
-DOMAIN-SUFFIX,vsassets.io,PROXY
-DOMAIN-SUFFIX,vscode.dev,PROXY
-DOMAIN-SUFFIX,vscode-cdn.net,PROXY
-DOMAIN-SUFFIX,vscode-unpkg.net,PROXY
-DOMAIN-SUFFIX,xamarin.com,PROXY
+DOMAIN-SUFFIX,adaptivecards.io
+DOMAIN-SUFFIX,api-extractor.com
+DOMAIN-SUFFIX,apisof.net
+DOMAIN-SUFFIX,appcenter.ms
+DOMAIN-SUFFIX,blazor.net
+DOMAIN-SUFFIX,botframework.com
+DOMAIN-SUFFIX,codethemicrobit.com
+DOMAIN-SUFFIX,devopsassessment.net
+DOMAIN-SUFFIX,dot.net
+DOMAIN-SUFFIX,gamesstack.com
+DOMAIN-SUFFIX,graphengine.io
+DOMAIN-SUFFIX,insiderdevtour.com
+DOMAIN-SUFFIX,jwt.ms
+DOMAIN-SUFFIX,microbit.org
+DOMAIN-SUFFIX,microsoftadc.com
+DOMAIN-SUFFIX,microsoftgamestack.com
+DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
+DOMAIN-SUFFIX,microsoftreactor.cn
+DOMAIN-SUFFIX,microsoftreactor.com.cn
+DOMAIN-SUFFIX,microsoftreactor.info
+DOMAIN-SUFFIX,microsoftreactor.net
+DOMAIN-SUFFIX,microsoftreactor.org
+DOMAIN-SUFFIX,microsoftsilverlight.com
+DOMAIN-SUFFIX,microsoftsilverlight.org
+DOMAIN-SUFFIX,microsoftsilverlight.net
+DOMAIN-SUFFIX,microsoftsqlserver.com
+DOMAIN-SUFFIX,mmdnn.com
+DOMAIN-SUFFIX,mono-project.com
+DOMAIN-SUFFIX,msdn.com
+DOMAIN-SUFFIX,msinnovationchallenge.com
+DOMAIN-SUFFIX,mspairlift.com
+DOMAIN-SUFFIX,msropendata.com
+DOMAIN-SUFFIX,nuget.org
+DOMAIN-SUFFIX,nugettest.org
+DOMAIN-SUFFIX,opentranslatorstothings.org
+DOMAIN-SUFFIX,poshtestgallery.com
+DOMAIN-SUFFIX,pwabuilder.com
+DOMAIN-SUFFIX,reactorms.com.cn
+DOMAIN-SUFFIX,sankie.net
+DOMAIN-SUFFIX,sqlserveronlinux.com
+DOMAIN-SUFFIX,timelinestoryteller.com
+DOMAIN-SUFFIX,uwpcommunitytoolkit.com
+DOMAIN-SUFFIX,visualstudio-staging.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,visualstudio.co
+DOMAIN-SUFFIX,visualstudio.co.uk
+DOMAIN-SUFFIX,visualstudio.eu
+DOMAIN-SUFFIX,visualstudio.net
+DOMAIN-SUFFIX,vfsforgit.com
+DOMAIN-SUFFIX,vfsforgit.org
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscode-cdn.net
+DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,xamarin.com
 
-DOMAIN,az764295.vo.msecnd.net,PROXY
-DOMAIN,bingsettingssearch.trafficmanager.net,PROXY
-DOMAIN,default.exp-tas.com,PROXY
-DOMAIN,developer.microsoft.com,PROXY
-DOMAIN,download.visualstudio.microsoft.com,PROXY
-DOMAIN,dtlgalleryint.cloudapp.net,PROXY
-DOMAIN,poshtestgallery.cloudapp.net,PROXY
-DOMAIN,psg-int-centralus.cloudapp.net,PROXY
-DOMAIN,psg-int-eastus.cloudapp.net,PROXY
-DOMAIN,rink.hockeyapp.net,PROXY
-DOMAIN,vscode-sync-insiders.trafficmanager.net,PROXY
-DOMAIN,vscode-sync.trafficmanager.net,PROXY
-DOMAIN,vscode.blob.core.windows.net,PROXY
-DOMAIN,vscode.search.windows.net,PROXY
-DOMAIN,vsmarketplacebadge.apphb.com,PROXY
+DOMAIN,az764295.vo.msecnd.net
+DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,default.exp-tas.com
+DOMAIN,developer.microsoft.com
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,dtlgalleryint.cloudapp.net
+DOMAIN,poshtestgallery.cloudapp.net
+DOMAIN,psg-int-centralus.cloudapp.net
+DOMAIN,psg-int-eastus.cloudapp.net
+DOMAIN,rink.hockeyapp.net
+DOMAIN,vscode-sync-insiders.trafficmanager.net
+DOMAIN,vscode-sync.trafficmanager.net
+DOMAIN,vscode.blob.core.windows.net
+DOMAIN,vscode.search.windows.net
+DOMAIN,vsmarketplacebadge.apphb.com
 #end include:microsoft-dev
 #include:mongodb
-DOMAIN-SUFFIX,mongodb.com,PROXY
-DOMAIN-SUFFIX,mongodb.org,PROXY
+DOMAIN-SUFFIX,mongodb.com
+DOMAIN-SUFFIX,mongodb.org
 #end include:mongodb
 #include:nginx
-DOMAIN-SUFFIX,nginx.com,PROXY
-DOMAIN-SUFFIX,nginx.org,PROXY
+DOMAIN-SUFFIX,nginx.com
+DOMAIN-SUFFIX,nginx.org
 #end include:nginx
 #include:nixos
-DOMAIN-SUFFIX,nixos.org,PROXY
+DOMAIN-SUFFIX,nixos.org
 #end include:nixos
 #include:openwrt
-DOMAIN-SUFFIX,openwrt.org,PROXY
-DOMAIN-SUFFIX,lede-project.org,PROXY
+DOMAIN-SUFFIX,openwrt.org
+DOMAIN-SUFFIX,lede-project.org
 #end include:openwrt
 #include:osdn
-DOMAIN-SUFFIX,osdn.net,PROXY
+DOMAIN-SUFFIX,osdn.net
 #end include:osdn
 #include:perl
-DOMAIN-SUFFIX,perl.apache.org,PROXY
-DOMAIN-SUFFIX,perl.org,PROXY
-DOMAIN-SUFFIX,cpan.org,PROXY
-DOMAIN-SUFFIX,metacpan.org,PROXY
-DOMAIN-SUFFIX,modperl.pl,PROXY
+DOMAIN-SUFFIX,perl.apache.org
+DOMAIN-SUFFIX,perl.org
+DOMAIN-SUFFIX,cpan.org
+DOMAIN-SUFFIX,metacpan.org
+DOMAIN-SUFFIX,modperl.pl
 #end include:perl
 #include:polymer
-DOMAIN-SUFFIX,polymer-project.org,PROXY
-DOMAIN-SUFFIX,polymerproject.org,PROXY
+DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,polymerproject.org
 #end include:polymer
 #include:python
-DOMAIN-SUFFIX,pycon.org,PROXY
-DOMAIN-SUFFIX,pypa.io,PROXY
-DOMAIN-SUFFIX,pypi.io,PROXY
-DOMAIN-SUFFIX,pypi.org,PROXY
-DOMAIN-SUFFIX,python.org,PROXY
-DOMAIN-SUFFIX,pythonhosted.org,PROXY
+DOMAIN-SUFFIX,pycon.org
+DOMAIN-SUFFIX,pypa.io
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pythonhosted.org
 #end include:python
 #include:python-community
-DOMAIN-SUFFIX,piwheels.org,PROXY
+DOMAIN-SUFFIX,piwheels.org
 #end include:python-community
 #include:qt
-DOMAIN-SUFFIX,qt.io,PROXY
-DOMAIN-SUFFIX,qt-project.org,PROXY
+DOMAIN-SUFFIX,qt.io
+DOMAIN-SUFFIX,qt-project.org
 #end include:qt
 #include:readthedocs
-DOMAIN-SUFFIX,readthedocs-hosted.com,PROXY
-DOMAIN-SUFFIX,readthedocs.com,PROXY
-DOMAIN-SUFFIX,readthedocs.io,PROXY
-DOMAIN-SUFFIX,readthedocs.org,PROXY
+DOMAIN-SUFFIX,readthedocs-hosted.com
+DOMAIN-SUFFIX,readthedocs.com
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,readthedocs.org
 #end include:readthedocs
 #include:redis
-DOMAIN-SUFFIX,redis.io,PROXY
-DOMAIN-SUFFIX,redislabs.com,PROXY
+DOMAIN-SUFFIX,redis.io
+DOMAIN-SUFFIX,redislabs.com
 #end include:redis
 #include:remirepo
-DOMAIN-SUFFIX,remirepo.net,PROXY
+DOMAIN-SUFFIX,remirepo.net
 #end include:remirepo
 #include:ruby
-DOMAIN-SUFFIX,ruby-lang.org,PROXY
-DOMAIN-SUFFIX,rubygems.org,PROXY
+DOMAIN-SUFFIX,ruby-lang.org
+DOMAIN-SUFFIX,rubygems.org
 #end include:ruby
 #include:rust
-DOMAIN-SUFFIX,rust-lang.org,PROXY
-DOMAIN-SUFFIX,rustup.rs,PROXY
-DOMAIN-SUFFIX,crates.io,PROXY
-DOMAIN-SUFFIX,docs.rs,PROXY
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
 #end include:rust
 #include:redhat
-DOMAIN-SUFFIX,redhat.com,PROXY
-DOMAIN-SUFFIX,redhat.org,PROXY
+DOMAIN-SUFFIX,redhat.com
+DOMAIN-SUFFIX,redhat.org
 #end include:redhat
 #include:scala
-DOMAIN-SUFFIX,scala-lang.org,PROXY
-DOMAIN-SUFFIX,scala-sbt.org,PROXY
+DOMAIN-SUFFIX,scala-lang.org
+DOMAIN-SUFFIX,scala-sbt.org
 #end include:scala
 #include:sentry
-DOMAIN-SUFFIX,sentry.io,PROXY
-DOMAIN-SUFFIX,sentry-cdn.com,PROXY
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sentry-cdn.com
 #end include:sentry
 #include:sourcehut
-DOMAIN-SUFFIX,sourcehut.org,PROXY
-DOMAIN-SUFFIX,sr.ht,PROXY
+DOMAIN-SUFFIX,sourcehut.org
+DOMAIN-SUFFIX,sr.ht
 #end include:sourcehut
 #include:stackexchange
 # References:
 # https://stackexchange.com/sites
 # https://meta.stackexchange.com/questions/81379/can-we-have-a-list-of-all-the-stack-exchange-domains-somewhere-for-firewall-pur
 
-DOMAIN-SUFFIX,askubuntu.com,PROXY
-DOMAIN-SUFFIX,blogoverflow.com,PROXY
-DOMAIN-SUFFIX,codeforaliving.io,PROXY
-DOMAIN-SUFFIX,mathoverflow.net,PROXY
-DOMAIN-SUFFIX,serverfault.com,PROXY
-DOMAIN-SUFFIX,sstatic.net,PROXY
-DOMAIN-SUFFIX,stackapps.com,PROXY
-DOMAIN-SUFFIX,stackauth.com,PROXY
-DOMAIN-SUFFIX,stackexchange.com,PROXY
-DOMAIN-SUFFIX,stackmod.blog,PROXY
-DOMAIN-SUFFIX,stackoverflow.blog,PROXY
-DOMAIN-SUFFIX,stackoverflow.co,PROXY
-DOMAIN-SUFFIX,stackoverflow.com,PROXY
-DOMAIN-SUFFIX,stackoverflow.email,PROXY
-DOMAIN-SUFFIX,stackoverflow.help,PROXY
-DOMAIN-SUFFIX,stackoverflow.net,PROXY
-DOMAIN-SUFFIX,stackoverflowbusiness.com,PROXY
-DOMAIN-SUFFIX,stackoverflowcareers.com,PROXY
-DOMAIN-SUFFIX,stackoverflowjobs.com,PROXY
-DOMAIN-SUFFIX,stackoverflowsolutions.com,PROXY
-DOMAIN-SUFFIX,stackoverflowteams.com,PROXY
-DOMAIN-SUFFIX,stacksnippets.net,PROXY
-DOMAIN-SUFFIX,superuser.com,PROXY
-DOMAIN-SUFFIX,tex-talk.net,PROXY
-DOMAIN-SUFFIX,thesffblog.com,PROXY
+DOMAIN-SUFFIX,askubuntu.com
+DOMAIN-SUFFIX,blogoverflow.com
+DOMAIN-SUFFIX,codeforaliving.io
+DOMAIN-SUFFIX,mathoverflow.net
+DOMAIN-SUFFIX,serverfault.com
+DOMAIN-SUFFIX,sstatic.net
+DOMAIN-SUFFIX,stackapps.com
+DOMAIN-SUFFIX,stackauth.com
+DOMAIN-SUFFIX,stackexchange.com
+DOMAIN-SUFFIX,stackmod.blog
+DOMAIN-SUFFIX,stackoverflow.blog
+DOMAIN-SUFFIX,stackoverflow.co
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,stackoverflow.email
+DOMAIN-SUFFIX,stackoverflow.help
+DOMAIN-SUFFIX,stackoverflow.net
+DOMAIN-SUFFIX,stackoverflowbusiness.com
+DOMAIN-SUFFIX,stackoverflowcareers.com
+DOMAIN-SUFFIX,stackoverflowjobs.com
+DOMAIN-SUFFIX,stackoverflowsolutions.com
+DOMAIN-SUFFIX,stackoverflowteams.com
+DOMAIN-SUFFIX,stacksnippets.net
+DOMAIN-SUFFIX,superuser.com
+DOMAIN-SUFFIX,tex-talk.net
+DOMAIN-SUFFIX,thesffblog.com
 #end include:stackexchange
 #include:strikingly
-DOMAIN-SUFFIX,mystrikingly.com,PROXY
-DOMAIN-SUFFIX,strikingly.com,PROXY
-DOMAIN-SUFFIX,strikinglycdn.com,PROXY
+DOMAIN-SUFFIX,mystrikingly.com
+DOMAIN-SUFFIX,strikingly.com
+DOMAIN-SUFFIX,strikinglycdn.com
 #end include:strikingly
 #include:termux
-DOMAIN-SUFFIX,termux.com,PROXY
-DOMAIN-SUFFIX,termux.dev,PROXY
-DOMAIN-SUFFIX,termux.org,PROXY
+DOMAIN-SUFFIX,termux.com
+DOMAIN-SUFFIX,termux.dev
+DOMAIN-SUFFIX,termux.org
 #end include:termux
 #include:thelinuxfoundation
 #include:kernel
-DOMAIN-SUFFIX,kernel.org,PROXY
+DOMAIN-SUFFIX,kernel.org
 #end include:kernel
 #include:linux
-DOMAIN-SUFFIX,linux.org,PROXY
+DOMAIN-SUFFIX,linux.org
 #end include:linux
 
-DOMAIN-SUFFIX,lfai.foundation,PROXY
-DOMAIN-SUFFIX,linuxfoundation.org,PROXY
+DOMAIN-SUFFIX,lfai.foundation
+DOMAIN-SUFFIX,linuxfoundation.org
 #end include:thelinuxfoundation
 #include:topcoder
-DOMAIN-SUFFIX,topcoder.com,PROXY
+DOMAIN-SUFFIX,topcoder.com
 #end include:topcoder
 #include:unity
-DOMAIN-SUFFIX,unity.com,PROXY
-DOMAIN-SUFFIX,unity3d.com,PROXY
+DOMAIN-SUFFIX,unity.com
+DOMAIN-SUFFIX,unity3d.com
 
-DOMAIN-SUFFIX,ads.unitychina.cn,PROXY
-DOMAIN-SUFFIX,splash-ads.cdn.unity.cn,PROXY
-DOMAIN-SUFFIX,splash-ads.unitychina.cn,PROXY
-DOMAIN-SUFFIX,unityads.unity.cn,PROXY
-DOMAIN-SUFFIX,unityads.unity3d.com,PROXY
-DOMAIN-SUFFIX,unityads.unitychina.cn,PROXY
+DOMAIN-SUFFIX,ads.unitychina.cn
+DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
+DOMAIN-SUFFIX,splash-ads.unitychina.cn
+DOMAIN-SUFFIX,unityads.unity.cn
+DOMAIN-SUFFIX,unityads.unity3d.com
+DOMAIN-SUFFIX,unityads.unitychina.cn
 #end include:unity-ads
 #end include:unity
 #include:v8
-DOMAIN-SUFFIX,v8.dev,PROXY
-DOMAIN-SUFFIX,v8project.org,PROXY
+DOMAIN-SUFFIX,v8.dev
+DOMAIN-SUFFIX,v8project.org
 #end include:v8
 #include:vim
-DOMAIN-SUFFIX,vim.org,PROXY
+DOMAIN-SUFFIX,vim.org
 #end include:vim
 
-DOMAIN-SUFFIX,adventofcode.com,PROXY
-DOMAIN-SUFFIX,alpinelinux.org,PROXY
-DOMAIN-SUFFIX,apache.org,PROXY
-DOMAIN-SUFFIX,artixlinux.org,PROXY
-DOMAIN-SUFFIX,atom.io,PROXY
-DOMAIN-SUFFIX,badgen.net,PROXY
+DOMAIN-SUFFIX,adventofcode.com
+DOMAIN-SUFFIX,alpinelinux.org
+DOMAIN-SUFFIX,apache.org
+DOMAIN-SUFFIX,artixlinux.org
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,badgen.net
 
 # Bitvise official website.
-DOMAIN-SUFFIX,bitvise.com,PROXY
+DOMAIN-SUFFIX,bitvise.com
 
-DOMAIN-SUFFIX,cdnjs.com,PROXY
-DOMAIN-SUFFIX,centos.org,PROXY
-DOMAIN-SUFFIX,chocolatey.org,PROXY
-DOMAIN-SUFFIX,clojure.org,PROXY
-DOMAIN-SUFFIX,cnpmjs.org,PROXY
-DOMAIN-SUFFIX,cygwin.com,PROXY
-DOMAIN-SUFFIX,cython.org,PROXY
-DOMAIN-SUFFIX,deno.com,PROXY
-DOMAIN-SUFFIX,deno.land,PROXY
-DOMAIN-SUFFIX,dev.to,PROXY
-DOMAIN-SUFFIX,elixir-lang.org,PROXY
-DOMAIN-SUFFIX,elrepo.org,PROXY
-DOMAIN-SUFFIX,erlang.org,PROXY
-DOMAIN-SUFFIX,ffmpeg.org,PROXY
-DOMAIN-SUFFIX,freebsd.org,PROXY
-DOMAIN-SUFFIX,gentoo.org,PROXY
-DOMAIN-SUFFIX,getcomposer.org,PROXY
-DOMAIN-SUFFIX,getzola.org,PROXY
-DOMAIN-SUFFIX,git-scm.com,PROXY
-DOMAIN-SUFFIX,gnu.org,PROXY
+DOMAIN-SUFFIX,cdnjs.com
+DOMAIN-SUFFIX,centos.org
+DOMAIN-SUFFIX,chocolatey.org
+DOMAIN-SUFFIX,clojure.org
+DOMAIN-SUFFIX,cnpmjs.org
+DOMAIN-SUFFIX,cygwin.com
+DOMAIN-SUFFIX,cython.org
+DOMAIN-SUFFIX,deno.com
+DOMAIN-SUFFIX,deno.land
+DOMAIN-SUFFIX,dev.to
+DOMAIN-SUFFIX,elixir-lang.org
+DOMAIN-SUFFIX,elrepo.org
+DOMAIN-SUFFIX,erlang.org
+DOMAIN-SUFFIX,ffmpeg.org
+DOMAIN-SUFFIX,freebsd.org
+DOMAIN-SUFFIX,gentoo.org
+DOMAIN-SUFFIX,getcomposer.org
+DOMAIN-SUFFIX,getzola.org
+DOMAIN-SUFFIX,git-scm.com
+DOMAIN-SUFFIX,gnu.org
 
 # PuTTY and some software official websites.
-DOMAIN-SUFFIX,greenend.org.uk,PROXY
+DOMAIN-SUFFIX,greenend.org.uk
 
-DOMAIN-SUFFIX,hex.pm,PROXY
-DOMAIN-SUFFIX,hexdocs.pm,PROXY
-DOMAIN-SUFFIX,imageglass.org,PROXY
-DOMAIN-SUFFIX,ius.io,PROXY
-DOMAIN-SUFFIX,jenkins.io,PROXY
-DOMAIN-SUFFIX,js.org,PROXY
-DOMAIN-SUFFIX,jupyter.org,PROXY
-DOMAIN-SUFFIX,kali.org,PROXY
-DOMAIN-SUFFIX,linuxfromscratch.org,PROXY
-DOMAIN-SUFFIX,linuxmint.com,PROXY
-DOMAIN-SUFFIX,lua.org,PROXY
-DOMAIN-SUFFIX,macports.org,PROXY
-DOMAIN-SUFFIX,mariadb.org,PROXY
-DOMAIN-SUFFIX,mingw.org,PROXY
+DOMAIN-SUFFIX,hex.pm
+DOMAIN-SUFFIX,hexdocs.pm
+DOMAIN-SUFFIX,imageglass.org
+DOMAIN-SUFFIX,ius.io
+DOMAIN-SUFFIX,jenkins.io
+DOMAIN-SUFFIX,js.org
+DOMAIN-SUFFIX,jupyter.org
+DOMAIN-SUFFIX,kali.org
+DOMAIN-SUFFIX,linuxfromscratch.org
+DOMAIN-SUFFIX,linuxmint.com
+DOMAIN-SUFFIX,lua.org
+DOMAIN-SUFFIX,macports.org
+DOMAIN-SUFFIX,mariadb.org
+DOMAIN-SUFFIX,mingw.org
 
 # Mobatek official website.
-DOMAIN-SUFFIX,mobatek.net,PROXY
+DOMAIN-SUFFIX,mobatek.net
 
-DOMAIN-SUFFIX,mpv.io,PROXY
-DOMAIN-SUFFIX,mysql.com,PROXY
-DOMAIN-SUFFIX,neovim.io,PROXY
-DOMAIN-SUFFIX,nixos.org,PROXY
-DOMAIN-SUFFIX,nodesource.com,PROXY
-DOMAIN-SUFFIX,notepad-plus-plus.org,PROXY
-DOMAIN-SUFFIX,openresty.org,PROXY
-DOMAIN-SUFFIX,openssl.org,PROXY
-DOMAIN-SUFFIX,opensuse.org,PROXY
-DOMAIN-SUFFIX,packagist.org,PROXY
-DOMAIN-SUFFIX,pcre.org,PROXY
-DOMAIN-SUFFIX,phantomjs.org,PROXY
-DOMAIN-SUFFIX,php.net,PROXY
+DOMAIN-SUFFIX,mpv.io
+DOMAIN-SUFFIX,mysql.com
+DOMAIN-SUFFIX,neovim.io
+DOMAIN-SUFFIX,nixos.org
+DOMAIN-SUFFIX,nodesource.com
+DOMAIN-SUFFIX,notepad-plus-plus.org
+DOMAIN-SUFFIX,openresty.org
+DOMAIN-SUFFIX,openssl.org
+DOMAIN-SUFFIX,opensuse.org
+DOMAIN-SUFFIX,packagist.org
+DOMAIN-SUFFIX,pcre.org
+DOMAIN-SUFFIX,phantomjs.org
+DOMAIN-SUFFIX,php.net
 
 # PuTTY unofficial website, owned by Bitvise.
-DOMAIN-SUFFIX,putty.org,PROXY
+DOMAIN-SUFFIX,putty.org
 
-DOMAIN-SUFFIX,postgresql.org,PROXY
-DOMAIN-SUFFIX,r-project.org,PROXY
-DOMAIN-SUFFIX,raspberrypi.org,PROXY
-DOMAIN-SUFFIX,raspbian.org,PROXY
-DOMAIN-SUFFIX,regex101.com,PROXY
-DOMAIN-SUFFIX,rpmfusion.org,PROXY
-DOMAIN-SUFFIX,scientificlinux.org,PROXY
-DOMAIN-SUFFIX,scoop.sh,PROXY
-DOMAIN-SUFFIX,shellcheck.net,PROXY
-DOMAIN-SUFFIX,shields.io,PROXY
-DOMAIN-SUFFIX,sqlite.org,PROXY
-DOMAIN-SUFFIX,sublimetext.com,PROXY
+DOMAIN-SUFFIX,postgresql.org
+DOMAIN-SUFFIX,r-project.org
+DOMAIN-SUFFIX,raspberrypi.org
+DOMAIN-SUFFIX,raspbian.org
+DOMAIN-SUFFIX,regex101.com
+DOMAIN-SUFFIX,rpmfusion.org
+DOMAIN-SUFFIX,scientificlinux.org
+DOMAIN-SUFFIX,scoop.sh
+DOMAIN-SUFFIX,shellcheck.net
+DOMAIN-SUFFIX,shields.io
+DOMAIN-SUFFIX,sqlite.org
+DOMAIN-SUFFIX,sublimetext.com
 
 # Termius official website.
-DOMAIN-SUFFIX,termius.com,PROXY
+DOMAIN-SUFFIX,termius.com
 
-DOMAIN-SUFFIX,unpkg.com,PROXY
-DOMAIN-SUFFIX,videojs.com,PROXY
-DOMAIN-SUFFIX,videolan.org,PROXY
-DOMAIN-SUFFIX,wapm.io,PROXY
-DOMAIN-SUFFIX,wasmer.io,PROXY
-DOMAIN-SUFFIX,wireshark.org,PROXY
-DOMAIN-SUFFIX,x.org,PROXY
-DOMAIN-SUFFIX,xposed.info,PROXY
-DOMAIN-SUFFIX,yarnpkg.com,PROXY
-DOMAIN-SUFFIX,zsh.org,PROXY
+DOMAIN-SUFFIX,unpkg.com
+DOMAIN-SUFFIX,videojs.com
+DOMAIN-SUFFIX,videolan.org
+DOMAIN-SUFFIX,wapm.io
+DOMAIN-SUFFIX,wasmer.io
+DOMAIN-SUFFIX,wireshark.org
+DOMAIN-SUFFIX,x.org
+DOMAIN-SUFFIX,xposed.info
+DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,zsh.org

@@ -1,32 +1,32 @@
 #include:playcover
-DOMAIN-SUFFIX,playcover.io,PROXY
-DOMAIN-SUFFIX,playcover.workers.dev,PROXY
+DOMAIN-SUFFIX,playcover.io
+DOMAIN-SUFFIX,playcover.workers.dev
 #end include:playcover
 #include:fflogs
-DOMAIN-SUFFIX,fflogs.com,PROXY
-DOMAIN-SUFFIX,rpglogs.com,PROXY
+DOMAIN-SUFFIX,fflogs.com
+DOMAIN-SUFFIX,rpglogs.com
 
-DOMAIN-SUFFIX,rpglogs.cn,PROXY
+DOMAIN-SUFFIX,rpglogs.cn
 #end include:fflogs
 #include:trackernetwork
-DOMAIN-SUFFIX,thetrackernetwork.com,PROXY
-DOMAIN-SUFFIX,tracker.gg,PROXY
-DOMAIN-SUFFIX,tracker.network,PROXY
+DOMAIN-SUFFIX,thetrackernetwork.com
+DOMAIN-SUFFIX,tracker.gg
+DOMAIN-SUFFIX,tracker.network
 #end include:trackernetwork
 
 # Android Emulator
-DOMAIN-SUFFIX,bluestacks.com,PROXY
-DOMAIN-SUFFIX,ldmnq.com,PROXY
-DOMAIN-SUFFIX,lsplayer.com,PROXY
-DOMAIN-SUFFIX,yeshen.com,PROXY
+DOMAIN-SUFFIX,bluestacks.com
+DOMAIN-SUFFIX,ldmnq.com
+DOMAIN-SUFFIX,lsplayer.com
+DOMAIN-SUFFIX,yeshen.com
 
 # Arknights
-DOMAIN-SUFFIX,maa.plus,PROXY
-DOMAIN-SUFFIX,prts.plus,PROXY
+DOMAIN-SUFFIX,maa.plus
+DOMAIN-SUFFIX,prts.plus
 
 # KanColle
-DOMAIN-SUFFIX,heavenlywind.cc,PROXY
-DOMAIN-SUFFIX,poi.moe,PROXY
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,poi.moe
 
 
-DOMAIN-SUFFIX,steampp.net,PROXY
+DOMAIN-SUFFIX,steampp.net

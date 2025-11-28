@@ -1,10 +1,10 @@
-DOMAIN-SUFFIX,extremetube.com,PROXY
-DOMAIN-SUFFIX,keezmovies.com,PROXY
-DOMAIN-SUFFIX,youporn.com,PROXY
-DOMAIN-SUFFIX,youporngay.com,PROXY
-DOMAIN-SUFFIX,youpornpremium.com,PROXY
-DOMAIN-SUFFIX,youpornru.com,PROXY
-DOMAIN-SUFFIX,yopornshop.com,PROXY
+DOMAIN-SUFFIX,extremetube.com
+DOMAIN-SUFFIX,keezmovies.com
+DOMAIN-SUFFIX,youporn.com
+DOMAIN-SUFFIX,youporngay.com
+DOMAIN-SUFFIX,youpornpremium.com
+DOMAIN-SUFFIX,youpornru.com
+DOMAIN-SUFFIX,yopornshop.com
 
 # CDN
-DOMAIN-SUFFIX,ypncdn.com,PROXY
+DOMAIN-SUFFIX,ypncdn.com

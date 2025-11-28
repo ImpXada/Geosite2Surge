@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,kubernetes.io,PROXY
-DOMAIN-SUFFIX,k8s.io,PROXY
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,k8s.io

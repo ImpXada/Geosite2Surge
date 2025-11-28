@@ -1,14 +1,14 @@
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
 # non-cn domains is added to bytedance-ai-!cn
-DOMAIN-SUFFIX,doudou.com,PROXY
-DOMAIN-SUFFIX,marscode.cn,PROXY
-DOMAIN-SUFFIX,marscode.com.cn,PROXY
-DOMAIN-SUFFIX,mcbaas.work,PROXY
-DOMAIN-SUFFIX,mcdemo.show,PROXY
-DOMAIN-SUFFIX,mchost.guru,PROXY
-DOMAIN-SUFFIX,mcprev.cn,PROXY
-DOMAIN-SUFFIX,tcwqqdy.guru,PROXY
-DOMAIN-SUFFIX,trae.cn,PROXY
-DOMAIN-SUFFIX,trae.com.cn,PROXY
-DOMAIN-SUFFIX,trae.guru,PROXY
-DOMAIN-SUFFIX,yoma.cn,PROXY
+DOMAIN-SUFFIX,doudou.com
+DOMAIN-SUFFIX,marscode.cn
+DOMAIN-SUFFIX,marscode.com.cn
+DOMAIN-SUFFIX,mcbaas.work
+DOMAIN-SUFFIX,mcdemo.show
+DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,mcprev.cn
+DOMAIN-SUFFIX,tcwqqdy.guru
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,yoma.cn

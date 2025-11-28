@@ -1,25 +1,25 @@
-DOMAIN-SUFFIX,cursecdn.com,PROXY
-DOMAIN-SUFFIX,fandom.com,PROXY
-DOMAIN-SUFFIX,wikia.com,PROXY
-DOMAIN-SUFFIX,wikia.org,PROXY
+DOMAIN-SUFFIX,cursecdn.com
+DOMAIN-SUFFIX,fandom.com
+DOMAIN-SUFFIX,wikia.com
+DOMAIN-SUFFIX,wikia.org
 
 # D&D Beyond
-DOMAIN-SUFFIX,dndbeyond.com,PROXY
+DOMAIN-SUFFIX,dndbeyond.com
 
 # Futhead
-DOMAIN-SUFFIX,futhead.com,PROXY
+DOMAIN-SUFFIX,futhead.com
 
 # Gamepedia
-DOMAIN-SUFFIX,gamepedia.com,PROXY
+DOMAIN-SUFFIX,gamepedia.com
 
 # Muthead
-DOMAIN-SUFFIX,muthead.com,PROXY
+DOMAIN-SUFFIX,muthead.com
 
 # Cortex RPG
-DOMAIN-SUFFIX,cortexrpg.com,PROXY
+DOMAIN-SUFFIX,cortexrpg.com
 
 # Fanatical
-DOMAIN-SUFFIX,fanatical.com,PROXY
+DOMAIN-SUFFIX,fanatical.com
 
-DOMAIN-SUFFIX,wikia.nocookie.net,PROXY
-DOMAIN,fandom.zendesk.com,PROXY
+DOMAIN-SUFFIX,wikia.nocookie.net
+DOMAIN,fandom.zendesk.com

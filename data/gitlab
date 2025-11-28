@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,gitlab.com,PROXY
-DOMAIN-SUFFIX,gitlab.io,PROXY
-DOMAIN-SUFFIX,gitlab.net,PROXY
-DOMAIN-SUFFIX,gitlab-static.net,PROXY
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,gitlab.io
+DOMAIN-SUFFIX,gitlab.net
+DOMAIN-SUFFIX,gitlab-static.net
 
-DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com,PROXY
+DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com

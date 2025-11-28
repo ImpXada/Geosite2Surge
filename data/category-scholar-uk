@@ -1,53 +1,53 @@
 # This list contains scholarly domains that in UK
 
 #include:cambridge
-DOMAIN-SUFFIX,cam.ac.uk,PROXY
-DOMAIN-SUFFIX,cambridge.org,PROXY
-DOMAIN-SUFFIX,cambridgeschoolshakespeare.com,PROXY
-DOMAIN-SUFFIX,cambridgedigital.net,PROXY
-DOMAIN-SUFFIX,cambridgemaths.org,PROXY
-DOMAIN-SUFFIX,ccdc.cam.ac.uk,PROXY    #The Cambridge Structural Database
-DOMAIN-SUFFIX,dlib.eastview.com,PROXY    #Cambridge Archive Editions Online 剑桥档案编研
+DOMAIN-SUFFIX,cam.ac.uk
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
+DOMAIN-SUFFIX,cambridgedigital.net
+DOMAIN-SUFFIX,cambridgemaths.org
+DOMAIN-SUFFIX,ccdc.cam.ac.uk    #The Cambridge Structural Database
+DOMAIN-SUFFIX,dlib.eastview.com    #Cambridge Archive Editions Online 剑桥档案编研
 #end include:cambridge
 #include:imperialcollege
-DOMAIN-SUFFIX,ic.ac.uk,PROXY
-DOMAIN-SUFFIX,imperial.ac.uk,PROXY
-DOMAIN-SUFFIX,imperialbusiness.school,PROXY
+DOMAIN-SUFFIX,ic.ac.uk
+DOMAIN-SUFFIX,imperial.ac.uk
+DOMAIN-SUFFIX,imperialbusiness.school
 
-DOMAIN,imperial.insendi.com,PROXY
+DOMAIN,imperial.insendi.com
 #end include:imperialcollege
 #include:oup
-DOMAIN-SUFFIX,amamanualofstyle.com,PROXY
-DOMAIN-SUFFIX,anb.org,PROXY
-DOMAIN-SUFFIX,blackstonespoliceservice.com,PROXY
-DOMAIN-SUFFIX,epigeum.com,PROXY
-DOMAIN-SUFFIX,oed.com,PROXY
-DOMAIN-SUFFIX,omscr.com,PROXY
-DOMAIN-SUFFIX,oup.com,PROXY
-DOMAIN-SUFFIX,ouplaw.com,PROXY
-DOMAIN-SUFFIX,ox.ac.uk,PROXY
-DOMAIN-SUFFIX,oxfordaasc.com,PROXY
-DOMAIN-SUFFIX,oxfordartonline.com,PROXY
-DOMAIN-SUFFIX,oxfordbibliographies.com,PROXY
-DOMAIN-SUFFIX,oxfordclinicalpsych.com,PROXY
-DOMAIN-SUFFIX,oxforddnb.com,PROXY
-DOMAIN-SUFFIX,oxfordfirstsource.com,PROXY
-DOMAIN-SUFFIX,oxfordhandbooks.com,PROXY
-DOMAIN-SUFFIX,oxfordlawtrove.com,PROXY
-DOMAIN-SUFFIX,oxfordmedicine.com,PROXY
-DOMAIN-SUFFIX,oxfordmusiconline.com,PROXY
-DOMAIN-SUFFIX,oxfordpoliticstrove.com,PROXY
-DOMAIN-SUFFIX,oxfordre.com,PROXY
-DOMAIN-SUFFIX,oxfordreference.com,PROXY
-DOMAIN-SUFFIX,oxfordscholarlyeditions.com,PROXY
-DOMAIN-SUFFIX,oxfordscholarship.com,PROXY
-DOMAIN-SUFFIX,oxfordwesternmusic.com,PROXY
-DOMAIN-SUFFIX,sipriyearbook.org,PROXY
-DOMAIN-SUFFIX,ukwhoswho.com,PROXY
-DOMAIN-SUFFIX,universitypressscholarship.com,PROXY
-DOMAIN-SUFFIX,veryshortintroductions.com,PROXY
+DOMAIN-SUFFIX,amamanualofstyle.com
+DOMAIN-SUFFIX,anb.org
+DOMAIN-SUFFIX,blackstonespoliceservice.com
+DOMAIN-SUFFIX,epigeum.com
+DOMAIN-SUFFIX,oed.com
+DOMAIN-SUFFIX,omscr.com
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,ouplaw.com
+DOMAIN-SUFFIX,ox.ac.uk
+DOMAIN-SUFFIX,oxfordaasc.com
+DOMAIN-SUFFIX,oxfordartonline.com
+DOMAIN-SUFFIX,oxfordbibliographies.com
+DOMAIN-SUFFIX,oxfordclinicalpsych.com
+DOMAIN-SUFFIX,oxforddnb.com
+DOMAIN-SUFFIX,oxfordfirstsource.com
+DOMAIN-SUFFIX,oxfordhandbooks.com
+DOMAIN-SUFFIX,oxfordlawtrove.com
+DOMAIN-SUFFIX,oxfordmedicine.com
+DOMAIN-SUFFIX,oxfordmusiconline.com
+DOMAIN-SUFFIX,oxfordpoliticstrove.com
+DOMAIN-SUFFIX,oxfordre.com
+DOMAIN-SUFFIX,oxfordreference.com
+DOMAIN-SUFFIX,oxfordscholarlyeditions.com
+DOMAIN-SUFFIX,oxfordscholarship.com
+DOMAIN-SUFFIX,oxfordwesternmusic.com
+DOMAIN-SUFFIX,sipriyearbook.org
+DOMAIN-SUFFIX,ukwhoswho.com
+DOMAIN-SUFFIX,universitypressscholarship.com
+DOMAIN-SUFFIX,veryshortintroductions.com
 #end include:oup
 
 # https://iridis.uk/ac-uk-domain-registration/
 # https://community.jisc.ac.uk/library/janet-services-documentation/terms-and-conditions-acuk
-DOMAIN-SUFFIX,ac.uk,PROXY
+DOMAIN-SUFFIX,ac.uk

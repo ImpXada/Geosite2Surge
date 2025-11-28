@@ -1,6 +1,6 @@
 # Chunghwa Telecom PKI
-DOMAIN-SUFFIX,eca.hinet.net,PROXY
-DOMAIN-SUFFIX,gtlsca.nat.gov.tw,PROXY
-DOMAIN-SUFFIX,pki.hinet.net,PROXY
-DOMAIN-SUFFIX,publicca.hinet.net,PROXY
-DOMAIN-SUFFIX,tls.hinet.net,PROXY
+DOMAIN-SUFFIX,eca.hinet.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+DOMAIN-SUFFIX,pki.hinet.net
+DOMAIN-SUFFIX,publicca.hinet.net
+DOMAIN-SUFFIX,tls.hinet.net

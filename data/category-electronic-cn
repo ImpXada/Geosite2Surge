@@ -1,115 +1,115 @@
 # Electronic store/company's website with access point in China
 
 # Analog
-DOMAIN-SUFFIX,analog.com,PROXY
+DOMAIN-SUFFIX,analog.com
 
 # 艾睿电子
-DOMAIN-SUFFIX,arrow.cn,PROXY
+DOMAIN-SUFFIX,arrow.cn
 
 # 京东方
-DOMAIN-SUFFIX,boe.com,PROXY
-DOMAIN-SUFFIX,boe.com.cn,PROXY
+DOMAIN-SUFFIX,boe.com
+DOMAIN-SUFFIX,boe.com.cn
 
 # 博流智能
-DOMAIN-SUFFIX,bouffalolab.com,PROXY
+DOMAIN-SUFFIX,bouffalolab.com
 
 # 乐鑫信息科技
-DOMAIN-SUFFIX,esp8266.cn,PROXY
-DOMAIN-SUFFIX,esp8266.com,PROXY
-DOMAIN-SUFFIX,esp8266.com.cn,PROXY
-DOMAIN-SUFFIX,espressif.cn,PROXY
-DOMAIN-SUFFIX,espressif.com,PROXY
-DOMAIN-SUFFIX,espressif.com.cn,PROXY
+DOMAIN-SUFFIX,esp8266.cn
+DOMAIN-SUFFIX,esp8266.com
+DOMAIN-SUFFIX,esp8266.com.cn
+DOMAIN-SUFFIX,espressif.cn
+DOMAIN-SUFFIX,espressif.com
+DOMAIN-SUFFIX,espressif.com.cn
 
 # 华秋电子
-DOMAIN-SUFFIX,eda.cn,PROXY
-DOMAIN-SUFFIX,elecfans.com,PROXY
-DOMAIN-SUFFIX,hqchip.com,PROXY
-DOMAIN-SUFFIX,hqdoc.com,PROXY
-DOMAIN-SUFFIX,hqpcb.com,PROXY
+DOMAIN-SUFFIX,eda.cn
+DOMAIN-SUFFIX,elecfans.com
+DOMAIN-SUFFIX,hqchip.com
+DOMAIN-SUFFIX,hqdoc.com
+DOMAIN-SUFFIX,hqpcb.com
 
 # 英飞凌
-DOMAIN-SUFFIX,infineon.cn,PROXY
+DOMAIN-SUFFIX,infineon.cn
 #infineon.com
 
 # 嘉立创集团
 #include:jlc
 # 嘉立创
-DOMAIN-SUFFIX,fa-part.com,PROXY
-DOMAIN-SUFFIX,forface3d.com,PROXY
-DOMAIN-SUFFIX,jlc-3dp.cn,PROXY
-DOMAIN-SUFFIX,jlc-3dp.com,PROXY
-DOMAIN-SUFFIX,jlc-bbs.com,PROXY
-DOMAIN-SUFFIX,jlc-cad.com,PROXY
-DOMAIN-SUFFIX,jlc-cam.com,PROXY
-DOMAIN-SUFFIX,jlc-cnc.com,PROXY
-DOMAIN-SUFFIX,jlc-dfm.com,PROXY
-DOMAIN-SUFFIX,jlc-drm.com,PROXY
-DOMAIN-SUFFIX,jlc-ecad.com,PROXY
-DOMAIN-SUFFIX,jlc-erp.com,PROXY
-DOMAIN-SUFFIX,jlc-fpc.com,PROXY
-DOMAIN-SUFFIX,jlc-gw.com,PROXY
-DOMAIN-SUFFIX,jlc-jh.com,PROXY
-DOMAIN-SUFFIX,jlc-layout.com,PROXY
-DOMAIN-SUFFIX,jlc-pcb.com,PROXY
-DOMAIN-SUFFIX,jlc-smt.com,PROXY
-DOMAIN-SUFFIX,jlc-zh.com,PROXY
-DOMAIN-SUFFIX,jlc.com,PROXY
-DOMAIN-SUFFIX,jlc3dp.cn,PROXY
-DOMAIN-SUFFIX,jlccad.com,PROXY
-DOMAIN-SUFFIX,jlccam.com,PROXY
-DOMAIN-SUFFIX,jlccnc.com,PROXY
-DOMAIN-SUFFIX,jlcdfm.com,PROXY
-DOMAIN-SUFFIX,jlcecad.com,PROXY
-DOMAIN-SUFFIX,jlceda.cn,PROXY
-DOMAIN-SUFFIX,jlceda.com,PROXY
-DOMAIN-SUFFIX,jlcerp.com,PROXY
-DOMAIN-SUFFIX,jlcfa.com,PROXY
-DOMAIN-SUFFIX,jlcgroup.cn,PROXY
-DOMAIN-SUFFIX,jlcops.com,PROXY
-DOMAIN-SUFFIX,jlcsj.com,PROXY
-DOMAIN-SUFFIX,jlcsmt.com,PROXY
-DOMAIN-SUFFIX,lceda.cn,PROXY
-DOMAIN-SUFFIX,lckfb.com,PROXY
-DOMAIN-SUFFIX,oshwhub.com,PROXY
-DOMAIN-SUFFIX,sanweihou.com,PROXY
-DOMAIN-SUFFIX,sz-jlc.com,PROXY
-DOMAIN-SUFFIX,szjlc.cn,PROXY
-DOMAIN-SUFFIX,szlcsc.com,PROXY
-DOMAIN-SUFFIX,zs-jlc.com,PROXY
-DOMAIN-SUFFIX,zxhgroup.com,PROXY
+DOMAIN-SUFFIX,fa-part.com
+DOMAIN-SUFFIX,forface3d.com
+DOMAIN-SUFFIX,jlc-3dp.cn
+DOMAIN-SUFFIX,jlc-3dp.com
+DOMAIN-SUFFIX,jlc-bbs.com
+DOMAIN-SUFFIX,jlc-cad.com
+DOMAIN-SUFFIX,jlc-cam.com
+DOMAIN-SUFFIX,jlc-cnc.com
+DOMAIN-SUFFIX,jlc-dfm.com
+DOMAIN-SUFFIX,jlc-drm.com
+DOMAIN-SUFFIX,jlc-ecad.com
+DOMAIN-SUFFIX,jlc-erp.com
+DOMAIN-SUFFIX,jlc-fpc.com
+DOMAIN-SUFFIX,jlc-gw.com
+DOMAIN-SUFFIX,jlc-jh.com
+DOMAIN-SUFFIX,jlc-layout.com
+DOMAIN-SUFFIX,jlc-pcb.com
+DOMAIN-SUFFIX,jlc-smt.com
+DOMAIN-SUFFIX,jlc-zh.com
+DOMAIN-SUFFIX,jlc.com
+DOMAIN-SUFFIX,jlc3dp.cn
+DOMAIN-SUFFIX,jlccad.com
+DOMAIN-SUFFIX,jlccam.com
+DOMAIN-SUFFIX,jlccnc.com
+DOMAIN-SUFFIX,jlcdfm.com
+DOMAIN-SUFFIX,jlcecad.com
+DOMAIN-SUFFIX,jlceda.cn
+DOMAIN-SUFFIX,jlceda.com
+DOMAIN-SUFFIX,jlcerp.com
+DOMAIN-SUFFIX,jlcfa.com
+DOMAIN-SUFFIX,jlcgroup.cn
+DOMAIN-SUFFIX,jlcops.com
+DOMAIN-SUFFIX,jlcsj.com
+DOMAIN-SUFFIX,jlcsmt.com
+DOMAIN-SUFFIX,lceda.cn
+DOMAIN-SUFFIX,lckfb.com
+DOMAIN-SUFFIX,oshwhub.com
+DOMAIN-SUFFIX,sanweihou.com
+DOMAIN-SUFFIX,sz-jlc.com
+DOMAIN-SUFFIX,szjlc.cn
+DOMAIN-SUFFIX,szlcsc.com
+DOMAIN-SUFFIX,zs-jlc.com
+DOMAIN-SUFFIX,zxhgroup.com
 #end include:jlc
 
 # 移远通信
-DOMAIN-SUFFIX,quecmall.cn,PROXY
-DOMAIN-SUFFIX,quectel.com.cn,PROXY
-DOMAIN-SUFFIX,iotronic.tech,PROXY
+DOMAIN-SUFFIX,quecmall.cn
+DOMAIN-SUFFIX,quectel.com.cn
+DOMAIN-SUFFIX,iotronic.tech
 
 # 瑞芯微电子
-DOMAIN-SUFFIX,rock-chips.com,PROXY
+DOMAIN-SUFFIX,rock-chips.com
 
 # 矽递科技
-DOMAIN-SUFFIX,seeed.cn,PROXY
-DOMAIN-SUFFIX,seeed.cc,PROXY
-DOMAIN-SUFFIX,seeed.com.cn,PROXY
-DOMAIN-SUFFIX,seeedstudio.com.cn,PROXY
+DOMAIN-SUFFIX,seeed.cn
+DOMAIN-SUFFIX,seeed.cc
+DOMAIN-SUFFIX,seeed.com.cn
+DOMAIN-SUFFIX,seeedstudio.com.cn
 
 # 矽速科技
-DOMAIN-SUFFIX,sipeed.com,PROXY
-DOMAIN-SUFFIX,maixhub.com,PROXY
+DOMAIN-SUFFIX,sipeed.com
+DOMAIN-SUFFIX,maixhub.com
 
 # 德州仪器
 #ti.com
-DOMAIN-SUFFIX,ti.com.cn,PROXY
+DOMAIN-SUFFIX,ti.com.cn
 
 # 沁恒微电子
-DOMAIN-SUFFIX,wch.cn,PROXY
-DOMAIN-SUFFIX,wch-ic.com,PROXY
+DOMAIN-SUFFIX,wch.cn
+DOMAIN-SUFFIX,wch-ic.com
 
 # 长江存储
 #include:ymtc
 # 长江存储
-DOMAIN-SUFFIX,ymtc.com,PROXY
-DOMAIN-SUFFIX,ymtc.com.cn,PROXY
-DOMAIN-SUFFIX,ymtc.cn,PROXY
+DOMAIN-SUFFIX,ymtc.com
+DOMAIN-SUFFIX,ymtc.com.cn
+DOMAIN-SUFFIX,ymtc.cn
 #end include:ymtc

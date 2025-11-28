@@ -1,7 +1,7 @@
 # All .imdb domains
-DOMAIN-SUFFIX,imdb,PROXY
+DOMAIN-SUFFIX,imdb
 
-DOMAIN-SUFFIX,boxofficemojo.com,PROXY
-DOMAIN-SUFFIX,imdb.com,PROXY
-DOMAIN-SUFFIX,imdb.to,PROXY
-DOMAIN-SUFFIX,media-imdb.com,PROXY
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,media-imdb.com

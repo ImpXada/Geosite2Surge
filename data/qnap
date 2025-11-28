@@ -1,9 +1,9 @@
 # Global
-DOMAIN-SUFFIX,myqnapcloud.com,PROXY
-DOMAIN-SUFFIX,qlink.to,PROXY
-DOMAIN-SUFFIX,qnap.com,PROXY
+DOMAIN-SUFFIX,myqnapcloud.com
+DOMAIN-SUFFIX,qlink.to
+DOMAIN-SUFFIX,qnap.com
 
 # China Mainland
-DOMAIN-SUFFIX,myqnapcloud.cn,PROXY
-DOMAIN-SUFFIX,qlinkto.cn,PROXY
-DOMAIN-SUFFIX,qnap.com.cn,PROXY
+DOMAIN-SUFFIX,myqnapcloud.cn
+DOMAIN-SUFFIX,qlinkto.cn
+DOMAIN-SUFFIX,qnap.com.cn

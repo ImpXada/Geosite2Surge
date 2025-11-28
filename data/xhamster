@@ -1,16 +1,16 @@
-DOMAIN-SUFFIX,collector.xhamster.com,PROXY
+DOMAIN-SUFFIX,collector.xhamster.com
 #end include:xhamster-ads
 
 
-DOMAIN-SUFFIX,xhamster.com,PROXY
-DOMAIN-SUFFIX,xhamster.desi,PROXY
-DOMAIN-SUFFIX,xhamster.xxx,PROXY
-DOMAIN-SUFFIX,xhamster18.com,PROXY
-DOMAIN-SUFFIX,xhamster18.desi,PROXY
-DOMAIN-SUFFIX,xhamsterlive.com,PROXY
-DOMAIN-SUFFIX,xhcdn.com,PROXY
+DOMAIN-SUFFIX,xhamster.com
+DOMAIN-SUFFIX,xhamster.desi
+DOMAIN-SUFFIX,xhamster.xxx
+DOMAIN-SUFFIX,xhamster18.com
+DOMAIN-SUFFIX,xhamster18.desi
+DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,xhcdn.com
 
 
 # xhamsterlive thumbnails
 
-DOMAIN,widgets.stripst.com,PROXY
+DOMAIN,widgets.stripst.com

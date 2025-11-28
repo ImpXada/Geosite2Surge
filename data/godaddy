@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,godaddy.com,PROXY
-DOMAIN-SUFFIX,x.co,PROXY    #GoDaddy URL Shortener
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,x.co    #GoDaddy URL Shortener
 
 # All .godaddy domains
-DOMAIN-SUFFIX,godaddy,PROXY
+DOMAIN-SUFFIX,godaddy

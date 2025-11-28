@@ -1,64 +1,64 @@
 # This list contains social media platforms inside China mainland.
 
 #include:coolapk
-DOMAIN-SUFFIX,coolapk.com,PROXY
-DOMAIN-SUFFIX,coolapkmarket.com,PROXY
-DOMAIN-SUFFIX,coolapkmarket.net,PROXY
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,coolapkmarket.net
 #end include:coolapk
 #include:douban
-DOMAIN-SUFFIX,douban.com,PROXY
-DOMAIN-SUFFIX,douban.fm,PROXY
-DOMAIN-SUFFIX,doubanio.com,PROXY
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,douban.fm
+DOMAIN-SUFFIX,doubanio.com
 #end include:douban
 #include:gracg
-DOMAIN-SUFFIX,gracg.com,PROXY
-DOMAIN-SUFFIX,procg.cn,PROXY
+DOMAIN-SUFFIX,gracg.com
+DOMAIN-SUFFIX,procg.cn
 #end include:gracg
 #include:hupu
-DOMAIN-SUFFIX,hoopchina.com.cn,PROXY
-DOMAIN-SUFFIX,hupu.com,PROXY
-DOMAIN-SUFFIX,hupucdn.com,PROXY
-DOMAIN-SUFFIX,shihuo.cn,PROXY
+DOMAIN-SUFFIX,hoopchina.com.cn
+DOMAIN-SUFFIX,hupu.com
+DOMAIN-SUFFIX,hupucdn.com
+DOMAIN-SUFFIX,shihuo.cn
 #end include:hupu
 #include:meipian
 # 美篇
-DOMAIN-SUFFIX,ivwen.com,PROXY
-DOMAIN-SUFFIX,meipian.cn,PROXY
-DOMAIN-SUFFIX,meipian.me,PROXY
+DOMAIN-SUFFIX,ivwen.com
+DOMAIN-SUFFIX,meipian.cn
+DOMAIN-SUFFIX,meipian.me
 #end include:meipian
 #include:okjike
 # 即刻 沪ICP备15000478号
-DOMAIN-SUFFIX,jike.city,PROXY
-DOMAIN-SUFFIX,jikecdn.com,PROXY
-DOMAIN-SUFFIX,okjike.com,PROXY
-DOMAIN-SUFFIX,okjk.co,PROXY
-DOMAIN-SUFFIX,ruguoapp.com,PROXY
+DOMAIN-SUFFIX,jike.city
+DOMAIN-SUFFIX,jikecdn.com
+DOMAIN-SUFFIX,okjike.com
+DOMAIN-SUFFIX,okjk.co
+DOMAIN-SUFFIX,ruguoapp.com
 #end include:okjike
 #include:xiaohongshu
-DOMAIN-SUFFIX,xhscdn.com,PROXY
-DOMAIN-SUFFIX,xhscdn.net,PROXY
-DOMAIN-SUFFIX,xiaohongshu.com,PROXY
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xiaohongshu.com
 #end include:xiaohongshu
 #include:yy
-DOMAIN-SUFFIX,duowan.com,PROXY
-DOMAIN-SUFFIX,dwstatic.com,PROXY
+DOMAIN-SUFFIX,duowan.com
+DOMAIN-SUFFIX,dwstatic.com
 #end include:duowan
 
-DOMAIN-SUFFIX,yy.com,PROXY
-DOMAIN-SUFFIX,yystatic.com,PROXY
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yystatic.com
 #end include:yy
 #include:zhihu
-DOMAIN-SUFFIX,zhihu.com,PROXY
-DOMAIN-SUFFIX,zhimg.com,PROXY
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 #end include:zhihu
 
-DOMAIN-SUFFIX,tieba.baidu.com,PROXY
-DOMAIN-SUFFIX,tieba.com,PROXY
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,tieba.com
 
 # 杭州蛋蛋语音科技有限公司
-DOMAIN-SUFFIX,dandan818.com,PROXY
-DOMAIN-SUFFIX,dandanvoice.com,PROXY
+DOMAIN-SUFFIX,dandan818.com
+DOMAIN-SUFFIX,dandanvoice.com
 
 # 脉脉
-DOMAIN-SUFFIX,maimai.cn,PROXY
-DOMAIN-SUFFIX,taou.com,PROXY
+DOMAIN-SUFFIX,maimai.cn
+DOMAIN-SUFFIX,taou.com

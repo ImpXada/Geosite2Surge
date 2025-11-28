@@ -1,38 +1,38 @@
 # Reference: https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%8F%AF%E6%96%87%E5%AA%92%E9%AB%94
 
 # 世华媒体
-DOMAIN-SUFFIX,mediachinese.com,PROXY
+DOMAIN-SUFFIX,mediachinese.com
 
 # 星洲网
-DOMAIN-SUFFIX,mysinchew.com,PROXY
-DOMAIN-SUFFIX,sinchew.com.my,PROXY
-DOMAIN-SUFFIX,sinchew.my,PROXY
-DOMAIN-SUFFIX,soccerfanz.com.my,PROXY
+DOMAIN-SUFFIX,mysinchew.com
+DOMAIN-SUFFIX,sinchew.com.my
+DOMAIN-SUFFIX,sinchew.my
+DOMAIN-SUFFIX,soccerfanz.com.my
 
 # 南洋商报
-DOMAIN-SUFFIX,enanyang.my,PROXY
+DOMAIN-SUFFIX,enanyang.my
 
 # 中国报
-DOMAIN-SUFFIX,chinapress.com.my,PROXY
+DOMAIN-SUFFIX,chinapress.com.my
 
 # 光明日报
-DOMAIN-SUFFIX,guangming.com.my,PROXY
+DOMAIN-SUFFIX,guangming.com.my
 
 # 明报
-DOMAIN-SUFFIX,mingpao.com,PROXY
-DOMAIN-SUFFIX,mingpaocanada.com,PROXY
-DOMAIN-SUFFIX,mingpaomonthly.com,PROXY
-DOMAIN-SUFFIX,mingpaotor.com,PROXY
-DOMAIN-SUFFIX,mingpaovan.com,PROXY
-DOMAIN-SUFFIX,mingshengbao.com,PROXY
-DOMAIN-SUFFIX,mingwatch.com,PROXY
-DOMAIN-SUFFIX,mpfinance.com,PROXY
-DOMAIN-SUFFIX,mpweekly.com,PROXY
+DOMAIN-SUFFIX,mingpao.com
+DOMAIN-SUFFIX,mingpaocanada.com
+DOMAIN-SUFFIX,mingpaomonthly.com
+DOMAIN-SUFFIX,mingpaotor.com
+DOMAIN-SUFFIX,mingpaovan.com
+DOMAIN-SUFFIX,mingshengbao.com
+DOMAIN-SUFFIX,mingwatch.com
+DOMAIN-SUFFIX,mpfinance.com
+DOMAIN-SUFFIX,mpweekly.com
 
 # 亚洲周刊
-DOMAIN-SUFFIX,yzzk.com,PROXY
+DOMAIN-SUFFIX,yzzk.com
 
 # 万华媒体
-DOMAIN-SUFFIX,omghk.com,PROXY
-DOMAIN-SUFFIX,mings.hk,PROXY
-DOMAIN-SUFFIX,mings-fashion.com,PROXY
+DOMAIN-SUFFIX,omghk.com
+DOMAIN-SUFFIX,mings.hk
+DOMAIN-SUFFIX,mings-fashion.com

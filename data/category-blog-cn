@@ -1,13 +1,13 @@
 # List of all blog domains that have access point in China mainland
 
-DOMAIN-SUFFIX,huangyuhui.net,PROXY    #粤ICP备18071565号-1
+DOMAIN-SUFFIX,huangyuhui.net    #粤ICP备18071565号-1
 
-DOMAIN-SUFFIX,114blog.com,PROXY
-DOMAIN-SUFFIX,mryys.com,PROXY
-DOMAIN-SUFFIX,mryys.cn,PROXY
-DOMAIN-SUFFIX,4thworkshop.com,PROXY
-DOMAIN-SUFFIX,4thworkshop.cn,PROXY
+DOMAIN-SUFFIX,114blog.com
+DOMAIN-SUFFIX,mryys.com
+DOMAIN-SUFFIX,mryys.cn
+DOMAIN-SUFFIX,4thworkshop.com
+DOMAIN-SUFFIX,4thworkshop.cn
 
-DOMAIN-SUFFIX,aloys233.top,PROXY    #蜀ICP备2023035383号-1
-DOMAIN-SUFFIX,fanmingming.com,PROXY    #范明明's Blog 蒙ICP备18004194号
-DOMAIN-SUFFIX,zway.top,PROXY    #longjuan's Blog 粤ICP备2020094784号-1
+DOMAIN-SUFFIX,aloys233.top    #蜀ICP备2023035383号-1
+DOMAIN-SUFFIX,fanmingming.com    #范明明's Blog 蒙ICP备18004194号
+DOMAIN-SUFFIX,zway.top    #longjuan's Blog 粤ICP备2020094784号-1

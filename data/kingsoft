@@ -1,66 +1,66 @@
 #include:cheetahmobile
-DOMAIN-SUFFIX,cmcm.com,PROXY
-DOMAIN-SUFFIX,cmcmcdn.com,PROXY
-DOMAIN-SUFFIX,liebao.cn,PROXY
+DOMAIN-SUFFIX,cmcm.com
+DOMAIN-SUFFIX,cmcmcdn.com
+DOMAIN-SUFFIX,liebao.cn
 
 # Antivirus
-DOMAIN-SUFFIX,duba.com,PROXY
-DOMAIN-SUFFIX,duba.net,PROXY
-DOMAIN-SUFFIX,ijinshan.com,PROXY
+DOMAIN-SUFFIX,duba.com
+DOMAIN-SUFFIX,duba.net
+DOMAIN-SUFFIX,ijinshan.com
 #end include:cheetahmobile
 #include:seasun
-DOMAIN-SUFFIX,seasungames.com,PROXY
-DOMAIN-SUFFIX,xishanju.com,PROXY
-DOMAIN-SUFFIX,xoyo.com,PROXY
-DOMAIN-SUFFIX,xoyocdn.com,PROXY
+DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,xishanju.com
+DOMAIN-SUFFIX,xoyo.com
+DOMAIN-SUFFIX,xoyocdn.com
 
 # 尘白禁区
-DOMAIN-SUFFIX,cbjq.com,PROXY
+DOMAIN-SUFFIX,cbjq.com
 
 # Testplus
-DOMAIN-SUFFIX,testplus.cn,PROXY
+DOMAIN-SUFFIX,testplus.cn
 #end include:seasun
 #include:wps
-DOMAIN-SUFFIX,wps.cn,PROXY
-DOMAIN-SUFFIX,wps.com,PROXY
-DOMAIN-SUFFIX,wpscdn.cn,PROXY
-DOMAIN-SUFFIX,wpscdn.com,PROXY
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.cn
+DOMAIN-SUFFIX,wpscdn.com
 
 # Big Data Platform
-DOMAIN-SUFFIX,kscord.com,PROXY
+DOMAIN-SUFFIX,kscord.com
 
 # Dazitong
-DOMAIN-SUFFIX,51dzt.com,PROXY
+DOMAIN-SUFFIX,51dzt.com
 
 # Dictionary
-DOMAIN-SUFFIX,iciba.com,PROXY
+DOMAIN-SUFFIX,iciba.com
 
 # Docer
-DOMAIN-SUFFIX,docer.com,PROXY
+DOMAIN-SUFFIX,docer.com
 
 # Documents
-DOMAIN-SUFFIX,kdocs.cn,PROXY
+DOMAIN-SUFFIX,kdocs.cn
 
 # Mail
-DOMAIN-SUFFIX,wpsmail.net,PROXY
+DOMAIN-SUFFIX,wpsmail.net
 
 # PAPocket
-DOMAIN-SUFFIX,papocket.com,PROXY
+DOMAIN-SUFFIX,papocket.com
 
 # PDF
-DOMAIN-SUFFIX,wpspdf.cn,PROXY
+DOMAIN-SUFFIX,wpspdf.cn
 #end include:wps
 
-DOMAIN-SUFFIX,kimg.cn,PROXY
-DOMAIN-SUFFIX,kingsoft-office-service.com,PROXY
-DOMAIN-SUFFIX,kingsoft.com,PROXY
-DOMAIN-SUFFIX,ks-live.com,PROXY
-DOMAIN-SUFFIX,ksmobile.com,PROXY
-DOMAIN-SUFFIX,ksosoft.com,PROXY
+DOMAIN-SUFFIX,kimg.cn
+DOMAIN-SUFFIX,kingsoft-office-service.com
+DOMAIN-SUFFIX,kingsoft.com
+DOMAIN-SUFFIX,ks-live.com
+DOMAIN-SUFFIX,ksmobile.com
+DOMAIN-SUFFIX,ksosoft.com
 
 # Kingsoft Cloud
-DOMAIN-SUFFIX,ks-cdn.com,PROXY
-DOMAIN-SUFFIX,ks-cdn1.com,PROXY
-DOMAIN-SUFFIX,ksyun.com,PROXY
-DOMAIN-SUFFIX,ksyuncdn.com,PROXY
-DOMAIN-SUFFIX,ksyungslb.com,PROXY
+DOMAIN-SUFFIX,ks-cdn.com
+DOMAIN-SUFFIX,ks-cdn1.com
+DOMAIN-SUFFIX,ksyun.com
+DOMAIN-SUFFIX,ksyuncdn.com
+DOMAIN-SUFFIX,ksyungslb.com

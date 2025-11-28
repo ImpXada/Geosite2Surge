@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,airchina.com.cn,PROXY    #中国国际航空
-DOMAIN-SUFFIX,airchinacargo.com,PROXY    #中国国际货运航空
+DOMAIN-SUFFIX,airchina.com.cn    #中国国际航空
+DOMAIN-SUFFIX,airchinacargo.com    #中国国际货运航空

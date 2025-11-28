@@ -1,24 +1,24 @@
 # All .samsung domains
-DOMAIN-SUFFIX,samsung,PROXY
+DOMAIN-SUFFIX,samsung
 
 # All .삼성 domains
-DOMAIN-SUFFIX,xn--cg4bki,PROXY
+DOMAIN-SUFFIX,xn--cg4bki
 
-DOMAIN-SUFFIX,galaxyappstore.com,PROXY
-DOMAIN-SUFFIX,galaxymobile.jp,PROXY
-DOMAIN-SUFFIX,game-platform.net,PROXY
-DOMAIN-SUFFIX,knoxemm.com,PROXY
-DOMAIN-SUFFIX,samsung.com,PROXY
-DOMAIN-SUFFIX,samsungads.com,PROXY
-DOMAIN-SUFFIX,samsungapps.com,PROXY
-DOMAIN-SUFFIX,samsungcloud.com,PROXY
-DOMAIN-SUFFIX,samsungconsent.com,PROXY
-DOMAIN-SUFFIX,samsungdm.com,PROXY
-DOMAIN-SUFFIX,samsungeshop.com.cn,PROXY
-DOMAIN-SUFFIX,samsunggalaxyfriends.com,PROXY
-DOMAIN-SUFFIX,samsunghealth.com,PROXY
-DOMAIN-SUFFIX,samsungiotcloud.com,PROXY
-DOMAIN-SUFFIX,samsungknox.com,PROXY
-DOMAIN-SUFFIX,samsungosp.com,PROXY
-DOMAIN-SUFFIX,samsungqbe.com,PROXY
-DOMAIN-SUFFIX,samsungrs.com,PROXY
+DOMAIN-SUFFIX,galaxyappstore.com
+DOMAIN-SUFFIX,galaxymobile.jp
+DOMAIN-SUFFIX,game-platform.net
+DOMAIN-SUFFIX,knoxemm.com
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsungads.com
+DOMAIN-SUFFIX,samsungapps.com
+DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungconsent.com
+DOMAIN-SUFFIX,samsungdm.com
+DOMAIN-SUFFIX,samsungeshop.com.cn
+DOMAIN-SUFFIX,samsunggalaxyfriends.com
+DOMAIN-SUFFIX,samsunghealth.com
+DOMAIN-SUFFIX,samsungiotcloud.com
+DOMAIN-SUFFIX,samsungknox.com
+DOMAIN-SUFFIX,samsungosp.com
+DOMAIN-SUFFIX,samsungqbe.com
+DOMAIN-SUFFIX,samsungrs.com

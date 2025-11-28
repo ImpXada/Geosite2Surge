@@ -1,9 +1,9 @@
 # Iranian travel/trip websites
 
-DOMAIN-SUFFIX,alibaba.ir,PROXY
-DOMAIN-SUFFIX,flightio.com,PROXY
-DOMAIN-SUFFIX,mrbilit.com,PROXY
-DOMAIN-SUFFIX,tap30.services,PROXY
-DOMAIN-SUFFIX,tap33.me,PROXY
-DOMAIN-SUFFIX,tapsi.cab,PROXY
-DOMAIN-SUFFIX,tapsi.ir,PROXY
+DOMAIN-SUFFIX,alibaba.ir
+DOMAIN-SUFFIX,flightio.com
+DOMAIN-SUFFIX,mrbilit.com
+DOMAIN-SUFFIX,tap30.services
+DOMAIN-SUFFIX,tap33.me
+DOMAIN-SUFFIX,tapsi.cab
+DOMAIN-SUFFIX,tapsi.ir

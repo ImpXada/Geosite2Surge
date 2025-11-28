@@ -1,10 +1,10 @@
 # All .nico domains
-DOMAIN-SUFFIX,nico,PROXY
+DOMAIN-SUFFIX,nico
 
-DOMAIN-SUFFIX,nicodic.jp,PROXY
-DOMAIN-SUFFIX,nicomanga.jp,PROXY
-DOMAIN-SUFFIX,niconico.com,PROXY
-DOMAIN-SUFFIX,nicoseiga.jp,PROXY
-DOMAIN-SUFFIX,nicovideo.jp,PROXY
-DOMAIN-SUFFIX,nimg.jp,PROXY
-DOMAIN-SUFFIX,simg.jp,PROXY
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp

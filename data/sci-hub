@@ -1,9 +1,9 @@
 # Official site
-DOMAIN-SUFFIX,sci-hub.se,PROXY
+DOMAIN-SUFFIX,sci-hub.se
 
 # Mirrors from the official site
-DOMAIN-SUFFIX,sci-hub.ee,PROXY
-DOMAIN-SUFFIX,sci-hub.it.nf,PROXY
-DOMAIN-SUFFIX,sci-hub.mksa.top,PROXY
-DOMAIN-SUFFIX,sci-hub.st,PROXY
-DOMAIN-SUFFIX,sci.hubg.org,PROXY
+DOMAIN-SUFFIX,sci-hub.ee
+DOMAIN-SUFFIX,sci-hub.it.nf
+DOMAIN-SUFFIX,sci-hub.mksa.top
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci.hubg.org

@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,arphic.com,PROXY
-DOMAIN-SUFFIX,arphic.com.cn,PROXY
-DOMAIN-SUFFIX,arphic.com.tw,PROXY
+DOMAIN-SUFFIX,arphic.com
+DOMAIN-SUFFIX,arphic.com.cn
+DOMAIN-SUFFIX,arphic.com.tw
 
 # iFontCloud
-DOMAIN-SUFFIX,ifontcloud.com,PROXY
+DOMAIN-SUFFIX,ifontcloud.com

@@ -1,20 +1,20 @@
-DOMAIN-SUFFIX,517lppz.com,PROXY
-DOMAIN-SUFFIX,lppz.com,PROXY
-DOMAIN-SUFFIX,lppzimg.com,PROXY
+DOMAIN-SUFFIX,517lppz.com
+DOMAIN-SUFFIX,lppz.com
+DOMAIN-SUFFIX,lppzimg.com
 #end include:bestore
-DOMAIN-SUFFIX,lkcoffee.com,PROXY
-DOMAIN-SUFFIX,luckincoffeecdn.com,PROXY
-DOMAIN-SUFFIX,yyds.co,PROXY
+DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
+DOMAIN-SUFFIX,yyds.co
 #end include:lkcoffee
 
-DOMAIN-SUFFIX,3songshu.com,PROXY
-DOMAIN-SUFFIX,haidilao.com,PROXY
+DOMAIN-SUFFIX,3songshu.com
+DOMAIN-SUFFIX,haidilao.com
 
 # 喜茶
-DOMAIN-SUFFIX,heytea.com,PROXY
+DOMAIN-SUFFIX,heytea.com
 
 # 俺来也（上海）网络科技有限公司
-DOMAIN-SUFFIX,anlaiye.com,PROXY
-DOMAIN-SUFFIX,anlaiye.com.cn,PROXY
-DOMAIN-SUFFIX,imcoming.com,PROXY
-DOMAIN-SUFFIX,imcome.net,PROXY
+DOMAIN-SUFFIX,anlaiye.com
+DOMAIN-SUFFIX,anlaiye.com.cn
+DOMAIN-SUFFIX,imcoming.com
+DOMAIN-SUFFIX,imcome.net

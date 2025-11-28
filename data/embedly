@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,embed.ly,PROXY
-DOMAIN-SUFFIX,embedly.com,PROXY
+DOMAIN-SUFFIX,embed.ly
+DOMAIN-SUFFIX,embedly.com
 
 # Player.js
-DOMAIN-SUFFIX,playerjs.io,PROXY
+DOMAIN-SUFFIX,playerjs.io

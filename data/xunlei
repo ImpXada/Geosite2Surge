@@ -1,13 +1,13 @@
-DOMAIN-SUFFIX,sandai.net,PROXY
-DOMAIN-SUFFIX,thunderurl.com,PROXY
-DOMAIN-SUFFIX,xunlei.com,PROXY
+DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,thunderurl.com
+DOMAIN-SUFFIX,xunlei.com
 
 # 烽动cdn
-DOMAIN-SUFFIX,00cdn.com,PROXY
-DOMAIN-SUFFIX,88cdn.com,PROXY
-DOMAIN-SUFFIX,p2cdn.com,PROXY
-DOMAIN-SUFFIX,thundercdn.com,PROXY
+DOMAIN-SUFFIX,00cdn.com
+DOMAIN-SUFFIX,88cdn.com
+DOMAIN-SUFFIX,p2cdn.com
+DOMAIN-SUFFIX,thundercdn.com
 
 # 星域云
-DOMAIN-SUFFIX,xycloud.com,PROXY
-DOMAIN-SUFFIX,xycdn.com,PROXY
+DOMAIN-SUFFIX,xycloud.com
+DOMAIN-SUFFIX,xycdn.com

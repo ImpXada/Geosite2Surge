@@ -1,190 +1,190 @@
 # ntRRR
-DOMAIN-SUFFIX,stream.ntrrr.top,PROXY
-DOMAIN-SUFFIX,stream.synn.cc,PROXY
+DOMAIN-SUFFIX,stream.ntrrr.top
+DOMAIN-SUFFIX,stream.synn.cc
 
 # feiyue
-DOMAIN-SUFFIX,sfcj.org,PROXY
+DOMAIN-SUFFIX,sfcj.org
 
 # Singularity
-DOMAIN-SUFFIX,singularity.deja-vu.beauty,PROXY
+DOMAIN-SUFFIX,singularity.deja-vu.beauty
 
 # 品云
-DOMAIN-SUFFIX,embyplus.club,PROXY
+DOMAIN-SUFFIX,embyplus.club
 
 # Netcup
-DOMAIN-SUFFIX,404.sb,PROXY
+DOMAIN-SUFFIX,404.sb
 
 # 佛系
-DOMAIN-SUFFIX,4545.cf,PROXY
+DOMAIN-SUFFIX,4545.cf
 
 # 蓝海
-DOMAIN-SUFFIX,blueseacdn.com,PROXY
+DOMAIN-SUFFIX,blueseacdn.com
 
 # 1111
-DOMAIN-SUFFIX,emby.ml,PROXY
-DOMAIN-SUFFIX,loseremby.org,PROXY
+DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,loseremby.org
 
 # llon plex
-DOMAIN-SUFFIX,plex.direct,PROXY
-DOMAIN,plex.llon.net,PROXY
+DOMAIN-SUFFIX,plex.direct
+DOMAIN,plex.llon.net
 
 # texon
-DOMAIN-SUFFIX,texon.fans,PROXY
+DOMAIN-SUFFIX,texon.fans
 
 # 剧狗
-DOMAIN-SUFFIX,ju.dog,PROXY
+DOMAIN-SUFFIX,ju.dog
 
 # TreeDiagram
-DOMAIN-SUFFIX,123456.al,PROXY
+DOMAIN-SUFFIX,123456.al
 
 # EMBY 餐厅
-DOMAIN-SUFFIX,mius.uk,PROXY
+DOMAIN-SUFFIX,mius.uk
 
 # emby-nexitally
-DOMAIN,emby.nexitally.com,PROXY
+DOMAIN,emby.nexitally.com
 
 # emby-paoche
-DOMAIN,emby.cjpc.cc,PROXY
+DOMAIN,emby.cjpc.cc
 
 # emby-flowercloud
-DOMAIN,emby.flowercloud.yt,PROXY
+DOMAIN,emby.flowercloud.yt
 
 # emby-maying
-DOMAIN,emby.maying.club,PROXY
+DOMAIN,emby.maying.club
 
 # emby-mdss
-DOMAIN,emby.mdss.cloud,PROXY
+DOMAIN,emby.mdss.cloud
 
 # emby-ytoo
-DOMAIN,emby.ytoo.li,PROXY
+DOMAIN,emby.ytoo.li
 
 # emby-w8ves
-DOMAIN,embyserver.ga,PROXY
+DOMAIN,embyserver.ga
 
 # emby-prpr
-DOMAIN,emby.prprcloud.com,PROXY
+DOMAIN,emby.prprcloud.com
 
 # emby-nyancat
-DOMAIN,emby.nyancat.net,PROXY
+DOMAIN,emby.nyancat.net
 
 # emby-Plus
-DOMAIN,emby.plusmedia.site,PROXY
-DOMAIN,emby-cf.plusmedia.site,PROXY
-DOMAIN,emby.xeton.dev,PROXY
-DOMAIN,jellyfin.xeton.dev,PROXY
-DOMAIN,movie.xeton.dev,PROXY
-DOMAIN,servers.xeton.dev,PROXY
+DOMAIN,emby.plusmedia.site
+DOMAIN,emby-cf.plusmedia.site
+DOMAIN,emby.xeton.dev
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
 
 # emby-Otaku
-DOMAIN,emby.otakudrive.life,PROXY
-DOMAIN,emby2.otakudrive.life,PROXY
+DOMAIN,emby.otakudrive.life
+DOMAIN,emby2.otakudrive.life
 
 # emby-jmsooo
-DOMAIN,agahk1.jmsooo.com,PROXY
-DOMAIN,agasg1.jmsooo.com,PROXY
-DOMAIN,agajp1.jmsooo.com,PROXY
-DOMAIN,aws.jmsooo.com,PROXY
-DOMAIN,ntt1.jmsooo.com,PROXY
-DOMAIN,hinet.jmsooo.com,PROXY
-DOMAIN,cf1.jmsooo.com,PROXY
+DOMAIN,agahk1.jmsooo.com
+DOMAIN,agasg1.jmsooo.com
+DOMAIN,agajp1.jmsooo.com
+DOMAIN,aws.jmsooo.com
+DOMAIN,ntt1.jmsooo.com
+DOMAIN,hinet.jmsooo.com
+DOMAIN,cf1.jmsooo.com
 
 # pornemby
-DOMAIN,pornemby.club,PROXY
+DOMAIN,pornemby.club
 
 # IMM
-DOMAIN,emby.immtel.com,PROXY
+DOMAIN,emby.immtel.com
 
 # Odyssey
-DOMAIN,cf.odysseyplus.site,PROXY
-DOMAIN,agahk.odysseyplus.site,PROXY
-DOMAIN,agasg.odysseyplus.site,PROXY
-DOMAIN,ru.odysseyplus.site,PROXY
+DOMAIN,cf.odysseyplus.site
+DOMAIN,agahk.odysseyplus.site
+DOMAIN,agasg.odysseyplus.site
+DOMAIN,ru.odysseyplus.site
 
 # Exflux
-DOMAIN,line.emby.men,PROXY
+DOMAIN,line.emby.men
 
 # SoCloud
-DOMAIN,emby.run,PROXY
+DOMAIN,emby.run
 
 # 普拉斯影业
-DOMAIN,emby.plusmedia.site,PROXY
-DOMAIN,emby-sg.plusmedia.site,PROXY
-DOMAIN,emby-cf.plusmedia.site,PROXY
-DOMAIN,emby.xeton.dev,PROXY
-DOMAIN,jellyfin.xeton.dev,PROXY
-DOMAIN,movie.xeton.dev,PROXY
-DOMAIN,servers.xeton.dev,PROXY
+DOMAIN,emby.plusmedia.site
+DOMAIN,emby-sg.plusmedia.site
+DOMAIN,emby-cf.plusmedia.site
+DOMAIN,emby.xeton.dev
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
 
 # WaveCloud
-DOMAIN,embyserver.ga,PROXY
+DOMAIN,embyserver.ga
 
 # 卷毛鼠
-DOMAIN,jmsooo.com,PROXY
-DOMAIN,cf.jmsooo.com,PROXY
-DOMAIN,hk.jmsooo.com,PROXY
-DOMAIN,sg.jmsooo.com,PROXY
+DOMAIN,jmsooo.com
+DOMAIN,cf.jmsooo.com
+DOMAIN,hk.jmsooo.com
+DOMAIN,sg.jmsooo.com
 
 # 终点站
-DOMAIN,emby.wtf,PROXY
-DOMAIN,pub1back.emby.wtf,PROXY
-DOMAIN,pub2back.emby.wtf,PROXY
-DOMAIN,pub3back.emby.wtf,PROXY
-DOMAIN,pub1.emby.wtf,PROXY
-DOMAIN,pub2.emby.wtf,PROXY
-DOMAIN,pub3.emby.wtf,PROXY
+DOMAIN,emby.wtf
+DOMAIN,pub1back.emby.wtf
+DOMAIN,pub2back.emby.wtf
+DOMAIN,pub3back.emby.wtf
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
 
 # 熊猫
-DOMAIN,embyclub.com,PROXY
-DOMAIN,az-hk.embyclub.com,PROXY
-DOMAIN,azsgp.embyclub.com,PROXY
+DOMAIN,embyclub.com
+DOMAIN,az-hk.embyclub.com
+DOMAIN,azsgp.embyclub.com
 
 # 卡戎
-DOMAIN,play.charontv.com,PROXY
+DOMAIN,play.charontv.com
 
 # 大白
-DOMAIN,emby.p-p.men,PROXY
+DOMAIN,emby.p-p.men
 
 # aiyowei
-DOMAIN,emby.aiyowei.ml,PROXY
+DOMAIN,emby.aiyowei.ml
 
 # polo
-DOMAIN-SUFFIX,poloemby.xyz,PROXY
-DOMAIN-SUFFIX,pololine.ml,PROXY
+DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-SUFFIX,pololine.ml
 
 # MisakaF
-DOMAIN-SUFFIX,misakaf.org,PROXY
+DOMAIN-SUFFIX,misakaf.org
 
 # GfwEmby
-DOMAIN-SUFFIX,gfwemby.org,PROXY
+DOMAIN-SUFFIX,gfwemby.org
 
 # 垃圾影音
-DOMAIN-SUFFIX,loseremby.org,PROXY
+DOMAIN-SUFFIX,loseremby.org
 
 # Cc
-DOMAIN,cc.ccemby.tk,PROXY
+DOMAIN,cc.ccemby.tk
 
 # Nebula
-DOMAIN-SUFFIX,nebula-emby.com,PROXY
+DOMAIN-SUFFIX,nebula-emby.com
 
 # 狂热云
-DOMAIN-SUFFIX,feverss.cloud,PROXY
+DOMAIN-SUFFIX,feverss.cloud
 
 # hxdのemby
-DOMAIN-SUFFIX,nvidia.rip,PROXY
+DOMAIN-SUFFIX,nvidia.rip
 
 # Media 1
-DOMAIN-SUFFIX,media-1.co.uk,PROXY
+DOMAIN-SUFFIX,media-1.co.uk
 
 # McFun
-DOMAIN-SUFFIX,sptv.ii00.cc,PROXY
-DOMAIN-SUFFIX,sgtv.ii00.cc,PROXY
-DOMAIN-SUFFIX,cn-music.mefun.vip,PROXY
+DOMAIN-SUFFIX,sptv.ii00.cc
+DOMAIN-SUFFIX,sgtv.ii00.cc
+DOMAIN-SUFFIX,cn-music.mefun.vip
 
 # 红杏云
-DOMAIN-SUFFIX,hongxingyunmovie.vip,PROXY
+DOMAIN-SUFFIX,hongxingyunmovie.vip
 
 # 69云
-DOMAIN-SUFFIX,emby1.69yun69.com,PROXY
+DOMAIN-SUFFIX,emby1.69yun69.com
 
 # 云梯
-DOMAIN-SUFFIX,yunti.online,PROXY
+DOMAIN-SUFFIX,yunti.online

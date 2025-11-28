@@ -1,4 +1,4 @@
 # https://support.wistia.com/en/articles/8233530-firewall-and-network-allowlist-settings
-DOMAIN-SUFFIX,embedwistia-a.akamaihd.net,PROXY
-DOMAIN-SUFFIX,wistia.com,PROXY
-DOMAIN-SUFFIX,wistia.net,PROXY
+DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
+DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,wistia.net

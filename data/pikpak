@@ -1,9 +1,9 @@
-DOMAIN-SUFFIX,mypikpak.com,PROXY
-DOMAIN-SUFFIX,mypikpak.net,PROXY
-DOMAIN-SUFFIX,pickpackapp.com,PROXY
-DOMAIN-SUFFIX,pikpak.io,PROXY
-DOMAIN-SUFFIX,pikpak.me,PROXY
-DOMAIN-SUFFIX,pikpakdrive.com,PROXY
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,pickpackapp.com
+DOMAIN-SUFFIX,pikpak.io
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
 
 # tracking
-DOMAIN,o4504926511693824.ingest.sentry.io,PROXY
+DOMAIN,o4504926511693824.ingest.sentry.io

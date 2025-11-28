@@ -1,17 +1,17 @@
-DOMAIN-SUFFIX,deepin.cn,PROXY
-DOMAIN-SUFFIX,deepin.com,PROXY
-DOMAIN-SUFFIX,deepin.io,PROXY
-DOMAIN-SUFFIX,deepin.org,PROXY
-DOMAIN-SUFFIX,deepin.org.cn,PROXY
-DOMAIN-SUFFIX,sndu.cn,PROXY
+DOMAIN-SUFFIX,deepin.cn
+DOMAIN-SUFFIX,deepin.com
+DOMAIN-SUFFIX,deepin.io
+DOMAIN-SUFFIX,deepin.org
+DOMAIN-SUFFIX,deepin.org.cn
+DOMAIN-SUFFIX,sndu.cn
 
 # 统信
-DOMAIN-SUFFIX,51changxie.com,PROXY
-DOMAIN-SUFFIX,51jianxie.cn,PROXY
-DOMAIN-SUFFIX,91changxie.com,PROXY
-DOMAIN-SUFFIX,changxie.com,PROXY
-DOMAIN-SUFFIX,chinauos.com,PROXY
-DOMAIN-SUFFIX,linglong.space,PROXY
-DOMAIN-SUFFIX,linyaps.org.cn,PROXY
-DOMAIN-SUFFIX,uniontech.cn,PROXY
-DOMAIN-SUFFIX,uniontech.com,PROXY
+DOMAIN-SUFFIX,51changxie.com
+DOMAIN-SUFFIX,51jianxie.cn
+DOMAIN-SUFFIX,91changxie.com
+DOMAIN-SUFFIX,changxie.com
+DOMAIN-SUFFIX,chinauos.com
+DOMAIN-SUFFIX,linglong.space
+DOMAIN-SUFFIX,linyaps.org.cn
+DOMAIN-SUFFIX,uniontech.cn
+DOMAIN-SUFFIX,uniontech.com

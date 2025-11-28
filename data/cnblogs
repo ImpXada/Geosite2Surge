@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,blogjava.net,PROXY
-DOMAIN-SUFFIX,cnblogs.com,PROXY
-DOMAIN-SUFFIX,cnitblog.com,PROXY
-DOMAIN-SUFFIX,cnweblog.com,PROXY
-DOMAIN-SUFFIX,cppblog.com,PROXY
-DOMAIN-SUFFIX,phpweblog.net,PROXY
-DOMAIN-SUFFIX,teachblog.net,PROXY
+DOMAIN-SUFFIX,blogjava.net
+DOMAIN-SUFFIX,cnblogs.com
+DOMAIN-SUFFIX,cnitblog.com
+DOMAIN-SUFFIX,cnweblog.com
+DOMAIN-SUFFIX,cppblog.com
+DOMAIN-SUFFIX,phpweblog.net
+DOMAIN-SUFFIX,teachblog.net

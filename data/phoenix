@@ -1,12 +1,12 @@
-DOMAIN-SUFFIX,fengcx.com,PROXY
-DOMAIN-SUFFIX,ifeng.com,PROXY
-DOMAIN-SUFFIX,ifengimg.com,PROXY
+DOMAIN-SUFFIX,fengcx.com
+DOMAIN-SUFFIX,ifeng.com
+DOMAIN-SUFFIX,ifengimg.com
 
 # Phoenix Center
-DOMAIN-SUFFIX,phoenixcenter.cn,PROXY
+DOMAIN-SUFFIX,phoenixcenter.cn
 
 # Phoenix Education
-DOMAIN-SUFFIX,fengedu.com,PROXY
+DOMAIN-SUFFIX,fengedu.com
 
 # Phoenix Weekly
-DOMAIN-SUFFIX,ifengweekly.com,PROXY
+DOMAIN-SUFFIX,ifengweekly.com

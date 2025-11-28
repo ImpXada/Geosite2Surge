@@ -1,41 +1,41 @@
 #include:hkt
-DOMAIN-SUFFIX,1010.com.hk,PROXY
-DOMAIN-SUFFIX,esmarthealth.com,PROXY
-DOMAIN-SUFFIX,hkcsl.com,PROXY
-DOMAIN-SUFFIX,hkt-enterprise.com,PROXY
-DOMAIN-SUFFIX,hkt-eye.com,PROXY
-DOMAIN-SUFFIX,hkt.com,PROXY
-DOMAIN-SUFFIX,hkteducation.com,PROXY
-DOMAIN-SUFFIX,hktpremier.com,PROXY
-DOMAIN-SUFFIX,hktshop.com,PROXY
-DOMAIN-SUFFIX,netvigator.com,PROXY
-DOMAIN-SUFFIX,theclub.com.hk,PROXY
-DOMAIN-SUFFIX,uhub.com,PROXY
+DOMAIN-SUFFIX,1010.com.hk
+DOMAIN-SUFFIX,esmarthealth.com
+DOMAIN-SUFFIX,hkcsl.com
+DOMAIN-SUFFIX,hkt-enterprise.com
+DOMAIN-SUFFIX,hkt-eye.com
+DOMAIN-SUFFIX,hkt.com
+DOMAIN-SUFFIX,hkteducation.com
+DOMAIN-SUFFIX,hktpremier.com
+DOMAIN-SUFFIX,hktshop.com
+DOMAIN-SUFFIX,netvigator.com
+DOMAIN-SUFFIX,theclub.com.hk
+DOMAIN-SUFFIX,uhub.com
 #end include:hkt
 #include:now
-DOMAIN-SUFFIX,now.com,PROXY
-DOMAIN-SUFFIX,now.com.hk,PROXY
-DOMAIN-SUFFIX,nowe.com,PROXY
-DOMAIN-SUFFIX,nowe.hk,PROXY
-DOMAIN-SUFFIX,now-tv.com,PROXY
-DOMAIN-SUFFIX,now-ashare.com,PROXY
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowe.hk
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now-ashare.com
 #end include:now
 #include:viu
 # viu.tv
-DOMAIN-SUFFIX,viu.tv,PROXY
-DOMAIN,api.viu.now.com,PROXY
-DOMAIN-WILDCARD,ewcdn*.nowe.com,PROXY
+DOMAIN-SUFFIX,viu.tv
+DOMAIN,api.viu.now.com
+DOMAIN-WILDCARD,ewcdn*.nowe.com
 
 # viu.com
-DOMAIN-SUFFIX,viu.com,PROXY
-DOMAIN,dfp6rglgjqszk.cloudfront.net,PROXY
-DOMAIN,d1k2us671qcoau.cloudfront.net,PROXY
-DOMAIN,d2anahhhmp1ffz.cloudfront.net,PROXY
+DOMAIN-SUFFIX,viu.com
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
 #end include:viu
 
-DOMAIN-SUFFIX,pccw.com,PROXY
-DOMAIN-SUFFIX,pccwglobal.com,PROXY
-DOMAIN-SUFFIX,pccwsolutions.com,PROXY
+DOMAIN-SUFFIX,pccw.com
+DOMAIN-SUFFIX,pccwglobal.com
+DOMAIN-SUFFIX,pccwsolutions.com
 
 # Moov
-DOMAIN-SUFFIX,moov.hk,PROXY
+DOMAIN-SUFFIX,moov.hk

@@ -1,12 +1,12 @@
-DOMAIN-SUFFIX,longbridge.cloud,PROXY
-DOMAIN-SUFFIX,longbridge.com,PROXY
-DOMAIN-SUFFIX,longbridge.global,PROXY
-DOMAIN-SUFFIX,longbridge.hk,PROXY
-DOMAIN-SUFFIX,longbridge.sg,PROXY
-DOMAIN-SUFFIX,longbridgeapp.com,PROXY
-DOMAIN-SUFFIX,longportapp.com,PROXY
+DOMAIN-SUFFIX,longbridge.cloud
+DOMAIN-SUFFIX,longbridge.com
+DOMAIN-SUFFIX,longbridge.global
+DOMAIN-SUFFIX,longbridge.hk
+DOMAIN-SUFFIX,longbridge.sg
+DOMAIN-SUFFIX,longbridgeapp.com
+DOMAIN-SUFFIX,longportapp.com
 
 # Site Assets
-DOMAIN-SUFFIX,lbctrl.com,PROXY
-DOMAIN-SUFFIX,lbkrs.com,PROXY
-DOMAIN-SUFFIX,wbrks.com,PROXY
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,wbrks.com

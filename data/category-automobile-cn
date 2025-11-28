@@ -1,55 +1,55 @@
 # 汽车资讯
 ## 汽车之家
-DOMAIN-SUFFIX,autohome.com,PROXY
-DOMAIN-SUFFIX,autohome.com.cn,PROXY
-DOMAIN-SUFFIX,autohome.tel,PROXY
-DOMAIN-SUFFIX,autoimg.cn,PROXY
-DOMAIN-SUFFIX,autoimg.com.cn,PROXY
+DOMAIN-SUFFIX,autohome.com
+DOMAIN-SUFFIX,autohome.com.cn
+DOMAIN-SUFFIX,autohome.tel
+DOMAIN-SUFFIX,autoimg.cn
+DOMAIN-SUFFIX,autoimg.com.cn
 ## 易车‌
 #include:bitauto
-DOMAIN-SUFFIX,bitauto.com,PROXY
-DOMAIN-SUFFIX,bitautoimg.com,PROXY
-DOMAIN-SUFFIX,cheyisou.com,PROXY
-DOMAIN-SUFFIX,yiche.com,PROXY
-DOMAIN-SUFFIX,yccdn.com,PROXY
+DOMAIN-SUFFIX,bitauto.com
+DOMAIN-SUFFIX,bitautoimg.com
+DOMAIN-SUFFIX,cheyisou.com
+DOMAIN-SUFFIX,yiche.com
+DOMAIN-SUFFIX,yccdn.com
 #end include:bitauto
 ## 懂车帝
 #include:dongchedi
 # 渝ICP备2023013619号
-DOMAIN-SUFFIX,dcarapi.com,PROXY
-DOMAIN-SUFFIX,dcarimg.com,PROXY
-DOMAIN-SUFFIX,dcarlive.com,PROXY
-DOMAIN-SUFFIX,dcarstatic.com,PROXY
-DOMAIN-SUFFIX,dcarvod.com,PROXY
-DOMAIN-SUFFIX,dcdapp.com,PROXY
-DOMAIN-SUFFIX,dongchedi.com,PROXY
-DOMAIN-SUFFIX,dongchediapp.com,PROXY
+DOMAIN-SUFFIX,dcarapi.com
+DOMAIN-SUFFIX,dcarimg.com
+DOMAIN-SUFFIX,dcarlive.com
+DOMAIN-SUFFIX,dcarstatic.com
+DOMAIN-SUFFIX,dcarvod.com
+DOMAIN-SUFFIX,dcdapp.com
+DOMAIN-SUFFIX,dongchedi.com
+DOMAIN-SUFFIX,dongchediapp.com
 #end include:dongchedi
 
 # 汽车品牌
-DOMAIN-SUFFIX,byd.com,PROXY    #比亚迪
-DOMAIN-SUFFIX,geely.com,PROXY    #吉利
-DOMAIN-SUFFIX,gwm.com.cn,PROXY    #长城
-DOMAIN-SUFFIX,lixiang.com,PROXY    #理想
-DOMAIN-SUFFIX,nio.cn,PROXY    #蔚来
-DOMAIN-SUFFIX,xiaopeng.com,PROXY    #小鹏
-DOMAIN-SUFFIX,zeekrlife.com,PROXY    #极氪
+DOMAIN-SUFFIX,byd.com    #比亚迪
+DOMAIN-SUFFIX,geely.com    #吉利
+DOMAIN-SUFFIX,gwm.com.cn    #长城
+DOMAIN-SUFFIX,lixiang.com    #理想
+DOMAIN-SUFFIX,nio.cn    #蔚来
+DOMAIN-SUFFIX,xiaopeng.com    #小鹏
+DOMAIN-SUFFIX,zeekrlife.com    #极氪
 
 ## 瓜子二手车
-DOMAIN-SUFFIX,gzurl.cn,PROXY
-DOMAIN-SUFFIX,guazi.com,PROXY
-DOMAIN-SUFFIX,guazistatic.com,PROXY
-DOMAIN-SUFFIX,guazi.net,PROXY
+DOMAIN-SUFFIX,gzurl.cn
+DOMAIN-SUFFIX,guazi.com
+DOMAIN-SUFFIX,guazistatic.com
+DOMAIN-SUFFIX,guazi.net
 
 # 租车平台
 ## 一嗨租车
-DOMAIN-SUFFIX,1hai.cn,PROXY
+DOMAIN-SUFFIX,1hai.cn
 ## 首汽租车
-DOMAIN-SUFFIX,izuche.com,PROXY
+DOMAIN-SUFFIX,izuche.com
 ## 租车宝
-DOMAIN-SUFFIX,izuchebao.com,PROXY
+DOMAIN-SUFFIX,izuchebao.com
 ## 悟空租车
-DOMAIN-SUFFIX,wkzuche.com,PROXY
+DOMAIN-SUFFIX,wkzuche.com
 ## 神州租车
-DOMAIN-SUFFIX,zuche.com,PROXY
-DOMAIN-SUFFIX,zuchecdn.com,PROXY
+DOMAIN-SUFFIX,zuche.com
+DOMAIN-SUFFIX,zuchecdn.com

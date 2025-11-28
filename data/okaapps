@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,domain:okaapps.com,PROXY
+DOMAIN-SUFFIX,domain:okaapps.com
 
 # CN part of okaapps
-DOMAIN-WILDCARD,*zh.okaapps.com,PROXY
+DOMAIN-WILDCARD,*zh.okaapps.com

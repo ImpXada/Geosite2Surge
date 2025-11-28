@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,rust-lang.org,PROXY
-DOMAIN-SUFFIX,rustup.rs,PROXY
-DOMAIN-SUFFIX,crates.io,PROXY
-DOMAIN-SUFFIX,docs.rs,PROXY
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs

@@ -1,207 +1,207 @@
 #include:category-mooc-cn
-DOMAIN-SUFFIX,chinesemooc.org,PROXY
-DOMAIN-SUFFIX,cnmooc.org,PROXY
-DOMAIN-SUFFIX,icourse163.org,PROXY
-DOMAIN-SUFFIX,icourses.cn,PROXY
-DOMAIN-SUFFIX,icve.com.cn,PROXY
-DOMAIN-SUFFIX,mooc.cn,PROXY
-DOMAIN-SUFFIX,openlearning.com,PROXY
-DOMAIN-SUFFIX,pmphmooc.com,PROXY
+DOMAIN-SUFFIX,chinesemooc.org
+DOMAIN-SUFFIX,cnmooc.org
+DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,icourses.cn
+DOMAIN-SUFFIX,icve.com.cn
+DOMAIN-SUFFIX,mooc.cn
+DOMAIN-SUFFIX,openlearning.com
+DOMAIN-SUFFIX,pmphmooc.com
 
-DOMAIN,moocs.unipus.cn,PROXY
-DOMAIN,opencourse.pku.edu.cn,PROXY
-DOMAIN,study.163.com,PROXY
+DOMAIN,moocs.unipus.cn
+DOMAIN,opencourse.pku.edu.cn
+DOMAIN,study.163.com
 #end include:category-mooc-cn
 
 #include:17zuoye
-DOMAIN-SUFFIX,17zuoye.cn,PROXY
-DOMAIN-SUFFIX,17zuoye.com,PROXY
-DOMAIN-SUFFIX,17zuoye.net,PROXY
+DOMAIN-SUFFIX,17zuoye.cn
+DOMAIN-SUFFIX,17zuoye.com
+DOMAIN-SUFFIX,17zuoye.net
 #end include:17zuoye
 #include:applysquare
-DOMAIN-SUFFIX,applysquare.com,PROXY
-DOMAIN-SUFFIX,applysquare.net,PROXY
+DOMAIN-SUFFIX,applysquare.com
+DOMAIN-SUFFIX,applysquare.net
 #end include:applysquare
 #include:hugecore
-DOMAIN-SUFFIX,hugecore.net,PROXY
-DOMAIN-SUFFIX,shareintelli.com,PROXY
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,shareintelli.com
 
 # MOJi辞書
-DOMAIN-SUFFIX,mojidict.com,PROXY
+DOMAIN-SUFFIX,mojidict.com
 #end include:hugecore
 #include:hujiang
-DOMAIN-SUFFIX,cctalk.com,PROXY
-DOMAIN-SUFFIX,hjapi.com,PROXY
-DOMAIN-SUFFIX,hjfile.cn,PROXY
-DOMAIN-SUFFIX,hujiang.com,PROXY
-DOMAIN-SUFFIX,yeshj.com,PROXY
+DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,yeshj.com
 #end include:hujiang
 #include:koolearn
-DOMAIN-SUFFIX,koocdn.com,PROXY
-DOMAIN-SUFFIX,koolearn.com,PROXY
-DOMAIN-SUFFIX,koopass.com,PROXY
+DOMAIN-SUFFIX,koocdn.com
+DOMAIN-SUFFIX,koolearn.com
+DOMAIN-SUFFIX,koopass.com
 #end include:koolearn
 #include:shanbay
-DOMAIN-SUFFIX,baydn.com,PROXY
-DOMAIN-SUFFIX,shanbay.com,PROXY
+DOMAIN-SUFFIX,baydn.com
+DOMAIN-SUFFIX,shanbay.com
 #end include:shanbay
 #include:xueersi
-DOMAIN-SUFFIX,speiyou.com,PROXY
-DOMAIN-SUFFIX,xesimg.com,PROXY
-DOMAIN-SUFFIX,xueersi.com,PROXY
+DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,xesimg.com
+DOMAIN-SUFFIX,xueersi.com
 #end include:xueersi
 #include:yuanfudao
-DOMAIN-SUFFIX,banmaaike.com,PROXY
-DOMAIN-SUFFIX,xiaoyuankousuan.com,PROXY
-DOMAIN-SUFFIX,ybccode.com,PROXY
-DOMAIN-SUFFIX,yuanfudao.com,PROXY
-DOMAIN-SUFFIX,yuansouti.com,PROXY
-DOMAIN-SUFFIX,yuantiku.com,PROXY
+DOMAIN-SUFFIX,banmaaike.com
+DOMAIN-SUFFIX,xiaoyuankousuan.com
+DOMAIN-SUFFIX,ybccode.com
+DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,yuansouti.com
+DOMAIN-SUFFIX,yuantiku.com
 
 # 粉笔蓝天
-DOMAIN-SUFFIX,fbstatic.cn,PROXY
-DOMAIN-SUFFIX,fenbi.com,PROXY
-DOMAIN-SUFFIX,fenbike.cn,PROXY
-DOMAIN-SUFFIX,fenbike.com,PROXY
-DOMAIN-SUFFIX,fenbilantian.cn,PROXY
-DOMAIN-SUFFIX,fenbilantian.com,PROXY
+DOMAIN-SUFFIX,fbstatic.cn
+DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,fenbike.cn
+DOMAIN-SUFFIX,fenbike.com
+DOMAIN-SUFFIX,fenbilantian.cn
+DOMAIN-SUFFIX,fenbilantian.com
 #end include:yuanfudao
 
 # 教育部学生服务与素质发展中心
 # 京ICP备19004913号
-DOMAIN-SUFFIX,cedf.cn,PROXY
-DOMAIN-SUFFIX,cedf.org.cn,PROXY
-DOMAIN-SUFFIX,chdi.com.cn,PROXY
-DOMAIN-SUFFIX,chei.com.cn,PROXY
-DOMAIN-SUFFIX,chesicc.cn,PROXY
-DOMAIN-SUFFIX,chesicc.com,PROXY
-DOMAIN-SUFFIX,chesicc.com.cn,PROXY
-DOMAIN-SUFFIX,chesicc.net,PROXY
-DOMAIN-SUFFIX,chesicc.net.cn,PROXY
-DOMAIN-SUFFIX,chesicc.org.cn,PROXY
-DOMAIN-SUFFIX,chinayz.com.cn,PROXY
-DOMAIN-SUFFIX,chsi.cn,PROXY
-DOMAIN-SUFFIX,chsi.com.cn,PROXY
-DOMAIN-SUFFIX,gatzs.com.cn,PROXY
-DOMAIN-SUFFIX,gfbzb.cn,PROXY
-DOMAIN-SUFFIX,gfbzb.com,PROXY
-DOMAIN-SUFFIX,gfbzb.com.cn,PROXY
-DOMAIN-SUFFIX,gfbzb.gov.cn,PROXY
-DOMAIN-SUFFIX,gfbzb.net,PROXY
-DOMAIN-SUFFIX,ncss.cn,PROXY
-DOMAIN-SUFFIX,ncss.org.cn,PROXY
-DOMAIN-SUFFIX,qgzb.com.cn,PROXY
-DOMAIN-SUFFIX,qgzb.gov.cn,PROXY
-DOMAIN-SUFFIX,qgzb.net,PROXY
-DOMAIN-SUFFIX,zbbm.gov.cn,PROXY
-DOMAIN-SUFFIX,zbbm.net,PROXY
+DOMAIN-SUFFIX,cedf.cn
+DOMAIN-SUFFIX,cedf.org.cn
+DOMAIN-SUFFIX,chdi.com.cn
+DOMAIN-SUFFIX,chei.com.cn
+DOMAIN-SUFFIX,chesicc.cn
+DOMAIN-SUFFIX,chesicc.com
+DOMAIN-SUFFIX,chesicc.com.cn
+DOMAIN-SUFFIX,chesicc.net
+DOMAIN-SUFFIX,chesicc.net.cn
+DOMAIN-SUFFIX,chesicc.org.cn
+DOMAIN-SUFFIX,chinayz.com.cn
+DOMAIN-SUFFIX,chsi.cn
+DOMAIN-SUFFIX,chsi.com.cn
+DOMAIN-SUFFIX,gatzs.com.cn
+DOMAIN-SUFFIX,gfbzb.cn
+DOMAIN-SUFFIX,gfbzb.com
+DOMAIN-SUFFIX,gfbzb.com.cn
+DOMAIN-SUFFIX,gfbzb.gov.cn
+DOMAIN-SUFFIX,gfbzb.net
+DOMAIN-SUFFIX,ncss.cn
+DOMAIN-SUFFIX,ncss.org.cn
+DOMAIN-SUFFIX,qgzb.com.cn
+DOMAIN-SUFFIX,qgzb.gov.cn
+DOMAIN-SUFFIX,qgzb.net
+DOMAIN-SUFFIX,zbbm.gov.cn
+DOMAIN-SUFFIX,zbbm.net
 
 # 国家智慧教育公共服务平台
-DOMAIN-SUFFIX,cbern.com.cn,PROXY
-DOMAIN-SUFFIX,smartedu.cn,PROXY
+DOMAIN-SUFFIX,cbern.com.cn
+DOMAIN-SUFFIX,smartedu.cn
 
 # 中国地质大学 继续教育学院
-DOMAIN-SUFFIX,cugbonline.cn,PROXY
+DOMAIN-SUFFIX,cugbonline.cn
 
 # 智慧树
-DOMAIN-SUFFIX,zhihuishu.com,PROXY
+DOMAIN-SUFFIX,zhihuishu.com
 
 # 日语测试
-DOMAIN-SUFFIX,j-test.com,PROXY
-DOMAIN-SUFFIX,nattest-china.com,PROXY
+DOMAIN-SUFFIX,j-test.com
+DOMAIN-SUFFIX,nattest-china.com
 
 # 雨课堂
 #include:yuketang
-DOMAIN-SUFFIX,rainclassroom.com,PROXY
-DOMAIN-SUFFIX,yuketang.cn,PROXY
+DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,yuketang.cn
 #end include:yuketang
 
 ## 雨豆课堂
-DOMAIN-SUFFIX,yudou.cn,PROXY
+DOMAIN-SUFFIX,yudou.cn
 
 ## 雨实验
-DOMAIN-SUFFIX,yushiyan.net,PROXY
+DOMAIN-SUFFIX,yushiyan.net
 
 ## 学堂在线
-DOMAIN-SUFFIX,xuetangx.com,PROXY
+DOMAIN-SUFFIX,xuetangx.com
 
 # 时代行云
-DOMAIN-SUFFIX,x-cloud.cc,PROXY
+DOMAIN-SUFFIX,x-cloud.cc
 
 # 学科网
-DOMAIN-SUFFIX,xkw.com,PROXY
-DOMAIN-SUFFIX,zxxk.com,PROXY
+DOMAIN-SUFFIX,xkw.com
+DOMAIN-SUFFIX,zxxk.com
 
 # 第二教育网
-DOMAIN-SUFFIX,dearedu.com,PROXY
+DOMAIN-SUFFIX,dearedu.com
 
 # 快对作业
-DOMAIN-SUFFIX,kuaiduizuoye.com,PROXY
+DOMAIN-SUFFIX,kuaiduizuoye.com
 
 # 流利说
-DOMAIN-SUFFIX,liulishuo.com,PROXY
-DOMAIN-SUFFIX,llsapp.com,PROXY
-DOMAIN-SUFFIX,llscdn.com,PROXY
-DOMAIN-SUFFIX,llsserver.com,PROXY
+DOMAIN-SUFFIX,liulishuo.com
+DOMAIN-SUFFIX,llsapp.com
+DOMAIN-SUFFIX,llscdn.com
+DOMAIN-SUFFIX,llsserver.com
 
 # 百词斩
-DOMAIN-SUFFIX,baicizhan.com,PROXY
-DOMAIN-SUFFIX,baicizhan.org,PROXY
-DOMAIN-SUFFIX,bczcdn.com,PROXY
-DOMAIN-SUFFIX,bczeducation.cn,PROXY
+DOMAIN-SUFFIX,baicizhan.com
+DOMAIN-SUFFIX,baicizhan.org
+DOMAIN-SUFFIX,bczcdn.com
+DOMAIN-SUFFIX,bczeducation.cn
 
 # 小站教育
-DOMAIN-SUFFIX,zhan.com,PROXY
+DOMAIN-SUFFIX,zhan.com
 
 # Burning Vocabulary
-DOMAIN-SUFFIX,burningvocabulary.cn,PROXY
-DOMAIN-SUFFIX,burningvocabulary.com,PROXY
+DOMAIN-SUFFIX,burningvocabulary.cn
+DOMAIN-SUFFIX,burningvocabulary.com
 
 # 莞教通
-DOMAIN-SUFFIX,dgjy.net,PROXY
+DOMAIN-SUFFIX,dgjy.net
 
 # 云校
-DOMAIN-SUFFIX,91yunxiao.com,PROXY
+DOMAIN-SUFFIX,91yunxiao.com
 
 # 爱云校/好分数
-DOMAIN-SUFFIX,aiyunxiao.com,PROXY
-DOMAIN-SUFFIX,haofenshu.com,PROXY
-DOMAIN-SUFFIX,iyunxiao.com,PROXY
-DOMAIN-SUFFIX,yunxiao.com,PROXY
+DOMAIN-SUFFIX,aiyunxiao.com
+DOMAIN-SUFFIX,haofenshu.com
+DOMAIN-SUFFIX,iyunxiao.com
+DOMAIN-SUFFIX,yunxiao.com
 
 # 课播云校
-DOMAIN-SUFFIX,keboyunxiao.com,PROXY
+DOMAIN-SUFFIX,keboyunxiao.com
 
 # 课堂派
-DOMAIN-SUFFIX,ketangpai.com,PROXY
+DOMAIN-SUFFIX,ketangpai.com
 
 # 批改网
-DOMAIN-SUFFIX,pigai.org,PROXY
+DOMAIN-SUFFIX,pigai.org
 
 # 未来云校
-DOMAIN-SUFFIX,weilaiyunxiao.com,PROXY
+DOMAIN-SUFFIX,weilaiyunxiao.com
 
 # 马哥教育
-DOMAIN-SUFFIX,magedu.com,PROXY
+DOMAIN-SUFFIX,magedu.com
 
 # 老男孩教育
-DOMAIN-SUFFIX,oldboyedu.com,PROXY
+DOMAIN-SUFFIX,oldboyedu.com
 
 # 在职研究生教育信息网
-DOMAIN-SUFFIX,eduei.com,PROXY
+DOMAIN-SUFFIX,eduei.com
 
-DOMAIN-SUFFIX,edu.cn,PROXY
+DOMAIN-SUFFIX,edu.cn
 
 # “叶圣陶杯”全国中学生新作文大赛
-DOMAIN-SUFFIX,ystbds.com,PROXY
+DOMAIN-SUFFIX,ystbds.com
 
 # CIS NanoMasters
 # 粤ICP备2022138914号
-DOMAIN-SUFFIX,neoscholar.com,PROXY
-DOMAIN-SUFFIX,neoschool.com,PROXY
+DOMAIN-SUFFIX,neoscholar.com
+DOMAIN-SUFFIX,neoschool.com
 
 # 北京嘉瑞新创教育咨询有限公司 京ICP备2020046790号-3
-DOMAIN-SUFFIX,winyoungreading.com,PROXY
+DOMAIN-SUFFIX,winyoungreading.com
 
 # 公考知识库 黔ICP备2024035854号
-DOMAIN-SUFFIX,saduck.top,PROXY
+DOMAIN-SUFFIX,saduck.top

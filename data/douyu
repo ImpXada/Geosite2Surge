@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,douyu.com,PROXY
-DOMAIN-SUFFIX,douyu.tv,PROXY
-DOMAIN-SUFFIX,douyucdn.cn,PROXY
-DOMAIN-SUFFIX,douyucdn2.cn,PROXY
-DOMAIN-SUFFIX,douyuscdn.com,PROXY
-DOMAIN-SUFFIX,douyutv.com,PROXY
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,douyu.tv
+DOMAIN-SUFFIX,douyucdn.cn
+DOMAIN-SUFFIX,douyucdn2.cn
+DOMAIN-SUFFIX,douyuscdn.com
+DOMAIN-SUFFIX,douyutv.com

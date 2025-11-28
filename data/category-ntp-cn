@@ -1,31 +1,31 @@
 # Aliyun
 # regexp:^ntp([1-7])?\.aliyun\.com$ @cn
-DOMAIN,ntp.aliyun.com,PROXY
-DOMAIN,ntp1.aliyun.com,PROXY
-DOMAIN,ntp2.aliyun.com,PROXY
-DOMAIN,ntp3.aliyun.com,PROXY
-DOMAIN,ntp4.aliyun.com,PROXY
-DOMAIN,ntp5.aliyun.com,PROXY
-DOMAIN,ntp6.aliyun.com,PROXY
-DOMAIN,ntp7.aliyun.com,PROXY
+DOMAIN,ntp.aliyun.com
+DOMAIN,ntp1.aliyun.com
+DOMAIN,ntp2.aliyun.com
+DOMAIN,ntp3.aliyun.com
+DOMAIN,ntp4.aliyun.com
+DOMAIN,ntp5.aliyun.com
+DOMAIN,ntp6.aliyun.com
+DOMAIN,ntp7.aliyun.com
 
 # AWS
-DOMAIN,time.amazonaws.cn,PROXY
+DOMAIN,time.amazonaws.cn
 
 # Qualcomm
-DOMAIN,time.izatcloud.net,PROXY
-DOMAIN,time.xtracloud.net,PROXY
+DOMAIN,time.izatcloud.net
+DOMAIN,time.xtracloud.net
 
 # Tencent
 # regexp:^ntp([1-5])?\.tencent\.com$ @cn
-DOMAIN,ntp.tencent.com,PROXY
-DOMAIN,ntp1.tencent.com,PROXY
-DOMAIN,ntp2.tencent.com,PROXY
-DOMAIN,ntp3.tencent.com,PROXY
-DOMAIN,ntp4.tencent.com,PROXY
-DOMAIN,ntp5.tencent.com,PROXY
+DOMAIN,ntp.tencent.com
+DOMAIN,ntp1.tencent.com
+DOMAIN,ntp2.tencent.com
+DOMAIN,ntp3.tencent.com
+DOMAIN,ntp4.tencent.com
+DOMAIN,ntp5.tencent.com
 
-DOMAIN-SUFFIX,cn.pool.ntp.org,PROXY
-DOMAIN-SUFFIX,ntp.neu.edu.cn,PROXY
-DOMAIN-SUFFIX,ntp.ntsc.ac.cn,PROXY
-DOMAIN-SUFFIX,ntp.org.cn,PROXY
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,ntp.neu.edu.cn
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-SUFFIX,ntp.org.cn

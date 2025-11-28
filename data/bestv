@@ -1,8 +1,8 @@
 # 百视通
-DOMAIN-SUFFIX,bbtv.cn,PROXY
-DOMAIN-SUFFIX,bestv.com.cn,PROXY
-DOMAIN-SUFFIX,bestvcdn.cn,PROXY
-DOMAIN-SUFFIX,bestvcdn.com,PROXY
-DOMAIN-SUFFIX,bestvcdn.com.cn,PROXY
-DOMAIN-SUFFIX,bestvcdn.net,PROXY
-DOMAIN-SUFFIX,smgbb.cn,PROXY
+DOMAIN-SUFFIX,bbtv.cn
+DOMAIN-SUFFIX,bestv.com.cn
+DOMAIN-SUFFIX,bestvcdn.cn
+DOMAIN-SUFFIX,bestvcdn.com
+DOMAIN-SUFFIX,bestvcdn.com.cn
+DOMAIN-SUFFIX,bestvcdn.net
+DOMAIN-SUFFIX,smgbb.cn

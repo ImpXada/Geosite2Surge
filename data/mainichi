@@ -1,12 +1,12 @@
-DOMAIN-SUFFIX,machigoto.jp,PROXY
-DOMAIN-SUFFIX,mainichi-athletepartners.jp,PROXY
-DOMAIN-SUFFIX,mainichi.jp,PROXY
-DOMAIN-SUFFIX,mainichibooks.com,PROXY
+DOMAIN-SUFFIX,machigoto.jp
+DOMAIN-SUFFIX,mainichi-athletepartners.jp
+DOMAIN-SUFFIX,mainichi.jp
+DOMAIN-SUFFIX,mainichibooks.com
 
-DOMAIN-SUFFIX,meijinsen.jp,PROXY
-DOMAIN-SUFFIX,mirailab.tech,PROXY
-DOMAIN-SUFFIX,mottainai.info,PROXY
-DOMAIN-SUFFIX,newsgawakaru.com,PROXY
+DOMAIN-SUFFIX,meijinsen.jp
+DOMAIN-SUFFIX,mirailab.tech
+DOMAIN-SUFFIX,mottainai.info
+DOMAIN-SUFFIX,newsgawakaru.com
 
-DOMAIN-SUFFIX,sponichi.co.jp,PROXY
-DOMAIN-SUFFIX,weekly-economist.com,PROXY
+DOMAIN-SUFFIX,sponichi.co.jp
+DOMAIN-SUFFIX,weekly-economist.com

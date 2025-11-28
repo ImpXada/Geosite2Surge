@@ -1,13 +1,13 @@
 # Forum
-DOMAIN-SUFFIX,libgen.life,PROXY
+DOMAIN-SUFFIX,libgen.life
 
 # Official site
-DOMAIN-SUFFIX,libgen.fun,PROXY
-DOMAIN-SUFFIX,library.lol,PROXY
+DOMAIN-SUFFIX,libgen.fun
+DOMAIN-SUFFIX,library.lol
 
 # Unofficial sites (forked from the official site)
-DOMAIN-SUFFIX,gen.lib.rus.ec,PROXY
-DOMAIN-SUFFIX,libgen.is,PROXY
-DOMAIN-SUFFIX,libgen.me,PROXY
-DOMAIN-SUFFIX,libgen.rs,PROXY
-DOMAIN-SUFFIX,libgen.st,PROXY
+DOMAIN-SUFFIX,gen.lib.rus.ec
+DOMAIN-SUFFIX,libgen.is
+DOMAIN-SUFFIX,libgen.me
+DOMAIN-SUFFIX,libgen.rs
+DOMAIN-SUFFIX,libgen.st

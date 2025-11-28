@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,hugecore.net,PROXY
-DOMAIN-SUFFIX,shareintelli.com,PROXY
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,shareintelli.com
 
 # MOJi辞書
-DOMAIN-SUFFIX,mojidict.com,PROXY
+DOMAIN-SUFFIX,mojidict.com

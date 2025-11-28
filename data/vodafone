@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,myvodafone.com.au,PROXY
-DOMAIN-SUFFIX,myvodafone.com.ws,PROXY
-DOMAIN-SUFFIX,vodafone.co.uk,PROXY
-DOMAIN-SUFFIX,vodafone.com,PROXY
-DOMAIN-SUFFIX,vodafone.com.au,PROXY
-DOMAIN-SUFFIX,vodafone.com.tr,PROXY
-DOMAIN-SUFFIX,vodafone.de,PROXY
-DOMAIN-SUFFIX,vodafone.it,PROXY
+DOMAIN-SUFFIX,myvodafone.com.au
+DOMAIN-SUFFIX,myvodafone.com.ws
+DOMAIN-SUFFIX,vodafone.co.uk
+DOMAIN-SUFFIX,vodafone.com
+DOMAIN-SUFFIX,vodafone.com.au
+DOMAIN-SUFFIX,vodafone.com.tr
+DOMAIN-SUFFIX,vodafone.de
+DOMAIN-SUFFIX,vodafone.it

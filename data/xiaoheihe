@@ -1,11 +1,11 @@
 # 清枫（北京）科技有限公司
 # 京ICP备15018522号
 
-DOMAIN-SUFFIX,1xhh.cn,PROXY
-DOMAIN-SUFFIX,accxiaoheihe.com,PROXY
-DOMAIN-SUFFIX,chat.top,PROXY
-DOMAIN-SUFFIX,debugmode.cn,PROXY
-DOMAIN-SUFFIX,max-c.com,PROXY
-DOMAIN-SUFFIX,maxadmin.cn,PROXY
-DOMAIN-SUFFIX,maxjia.com,PROXY
-DOMAIN-SUFFIX,xiaoheihe.cn,PROXY
+DOMAIN-SUFFIX,1xhh.cn
+DOMAIN-SUFFIX,accxiaoheihe.com
+DOMAIN-SUFFIX,chat.top
+DOMAIN-SUFFIX,debugmode.cn
+DOMAIN-SUFFIX,max-c.com
+DOMAIN-SUFFIX,maxadmin.cn
+DOMAIN-SUFFIX,maxjia.com
+DOMAIN-SUFFIX,xiaoheihe.cn

@@ -1,6 +1,6 @@
 # 北太天元通用数值计算
 # 北太振寰（重庆）科技有限公司 渝ICP备2022008375号
-DOMAIN-SUFFIX,baltamatica.cn,PROXY
-DOMAIN-SUFFIX,baltamatica.net,PROXY
-DOMAIN-SUFFIX,baltamatica.org.cn,PROXY
-DOMAIN-SUFFIX,baltamatica.com,PROXY
+DOMAIN-SUFFIX,baltamatica.cn
+DOMAIN-SUFFIX,baltamatica.net
+DOMAIN-SUFFIX,baltamatica.org.cn
+DOMAIN-SUFFIX,baltamatica.com

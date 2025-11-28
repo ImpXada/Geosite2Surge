@@ -1,16 +1,16 @@
-DOMAIN-SUFFIX,bilicdn1.com,PROXY
-DOMAIN-SUFFIX,bilicdn2.com,PROXY
-DOMAIN-SUFFIX,bilicdn3.com,PROXY
-DOMAIN-SUFFIX,bilicdn4.com,PROXY
-DOMAIN-SUFFIX,bilicdn5.com,PROXY
-DOMAIN-SUFFIX,biliimg.com,PROXY
-DOMAIN-SUFFIX,bilivideo.cn,PROXY
-DOMAIN-SUFFIX,bilivideo.com,PROXY
-DOMAIN-SUFFIX,bilivideo.net,PROXY
-DOMAIN-SUFFIX,hdslb.com,PROXY
-DOMAIN-SUFFIX,hdslb.org,PROXY
+DOMAIN-SUFFIX,bilicdn1.com
+DOMAIN-SUFFIX,bilicdn2.com
+DOMAIN-SUFFIX,bilicdn3.com
+DOMAIN-SUFFIX,bilicdn4.com
+DOMAIN-SUFFIX,bilicdn5.com
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilivideo.com
+DOMAIN-SUFFIX,bilivideo.net
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,hdslb.org
 
-DOMAIN-SUFFIX,maoercdn.com,PROXY
-DOMAIN-SUFFIX,mincdn.com,PROXY
+DOMAIN-SUFFIX,maoercdn.com
+DOMAIN-SUFFIX,mincdn.com
 
-DOMAIN,upos-hz-mirrorakam.akamaized.net,PROXY
+DOMAIN,upos-hz-mirrorakam.akamaized.net

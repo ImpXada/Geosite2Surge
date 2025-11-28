@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,gannett-cdn.com,PROXY
-DOMAIN-SUFFIX,gannett.com,PROXY
-DOMAIN-SUFFIX,gannettdigital.com,PROXY
+DOMAIN-SUFFIX,gannett-cdn.com
+DOMAIN-SUFFIX,gannett.com
+DOMAIN-SUFFIX,gannettdigital.com
 
 # USA TODAY
-DOMAIN-SUFFIX,usatoday.com,PROXY
-DOMAIN-SUFFIX,usatodaynetworkservice.com,PROXY
+DOMAIN-SUFFIX,usatoday.com
+DOMAIN-SUFFIX,usatodaynetworkservice.com

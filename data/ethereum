@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,devcon.org,PROXY
-DOMAIN-SUFFIX,ethereum.foundation,PROXY
-DOMAIN-SUFFIX,ethereum.org,PROXY
-DOMAIN-SUFFIX,etherscan.io,PROXY
+DOMAIN-SUFFIX,devcon.org
+DOMAIN-SUFFIX,ethereum.foundation
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,etherscan.io

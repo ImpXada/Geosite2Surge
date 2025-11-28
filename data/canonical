@@ -1,19 +1,19 @@
 #include:launchpad
-DOMAIN-SUFFIX,launchpad.net,PROXY
-DOMAIN-SUFFIX,launchpadcontent.net,PROXY
-DOMAIN-SUFFIX,launchpadlibrarian.com,PROXY
-DOMAIN-SUFFIX,launchpadlibrarian.net,PROXY
-DOMAIN-SUFFIX,launchpadlibrarian.org,PROXY
+DOMAIN-SUFFIX,launchpad.net
+DOMAIN-SUFFIX,launchpadcontent.net
+DOMAIN-SUFFIX,launchpadlibrarian.com
+DOMAIN-SUFFIX,launchpadlibrarian.net
+DOMAIN-SUFFIX,launchpadlibrarian.org
 #end include:launchpad
 #include:snapcraft
-DOMAIN-SUFFIX,snapcraft.io,PROXY
-DOMAIN-SUFFIX,snapstore.io,PROXY
+DOMAIN-SUFFIX,snapcraft.io
+DOMAIN-SUFFIX,snapstore.io
 #end include:snapcraft
 #include:ubuntu
-DOMAIN-SUFFIX,ubuntu.com,PROXY
-DOMAIN-SUFFIX,ubuntu.net,PROXY
-DOMAIN-SUFFIX,ubuntuforums.org,PROXY
-DOMAIN-SUFFIX,ubuntu-touch.io,PROXY
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-touch.io
 #end include:ubuntu
 
-DOMAIN-SUFFIX,canonical.com,PROXY
+DOMAIN-SUFFIX,canonical.com

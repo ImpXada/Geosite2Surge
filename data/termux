@@ -1,3 +1,3 @@
-DOMAIN-SUFFIX,termux.com,PROXY
-DOMAIN-SUFFIX,termux.dev,PROXY
-DOMAIN-SUFFIX,termux.org,PROXY
+DOMAIN-SUFFIX,termux.com
+DOMAIN-SUFFIX,termux.dev
+DOMAIN-SUFFIX,termux.org

@@ -1,65 +1,65 @@
-DOMAIN-SUFFIX,historyofdota.com,PROXY
-DOMAIN-SUFFIX,historyofdota.net,PROXY
-DOMAIN-SUFFIX,historyofdota.org,PROXY
-DOMAIN-SUFFIX,instituteofwar.org,PROXY
-DOMAIN-SUFFIX,molesports.com,PROXY
-DOMAIN-SUFFIX,rgpub.io,PROXY
-DOMAIN-SUFFIX,riot-games.com,PROXY
-DOMAIN-SUFFIX,riot.com,PROXY
-DOMAIN-SUFFIX,riot.net,PROXY
-DOMAIN-SUFFIX,riotcdn.net,PROXY
-DOMAIN-SUFFIX,riotgames.co.kr,PROXY
-DOMAIN-SUFFIX,riotgames.com,PROXY
-DOMAIN-SUFFIX,riotgames.info,PROXY
-DOMAIN-SUFFIX,riotgames.jp,PROXY
-DOMAIN-SUFFIX,riotgames.net,PROXY
-DOMAIN-SUFFIX,riotgames.tv,PROXY
-DOMAIN-SUFFIX,riotpin.com,PROXY
-DOMAIN-SUFFIX,riotpoints.com,PROXY
-DOMAIN-SUFFIX,rstatic.net,PROXY
-DOMAIN-SUFFIX,supremacy.com,PROXY
-DOMAIN-SUFFIX,supremacy.net,PROXY
+DOMAIN-SUFFIX,historyofdota.com
+DOMAIN-SUFFIX,historyofdota.net
+DOMAIN-SUFFIX,historyofdota.org
+DOMAIN-SUFFIX,instituteofwar.org
+DOMAIN-SUFFIX,molesports.com
+DOMAIN-SUFFIX,rgpub.io
+DOMAIN-SUFFIX,riot-games.com
+DOMAIN-SUFFIX,riot.com
+DOMAIN-SUFFIX,riot.net
+DOMAIN-SUFFIX,riotcdn.net
+DOMAIN-SUFFIX,riotgames.co.kr
+DOMAIN-SUFFIX,riotgames.com
+DOMAIN-SUFFIX,riotgames.info
+DOMAIN-SUFFIX,riotgames.jp
+DOMAIN-SUFFIX,riotgames.net
+DOMAIN-SUFFIX,riotgames.tv
+DOMAIN-SUFFIX,riotpin.com
+DOMAIN-SUFFIX,riotpoints.com
+DOMAIN-SUFFIX,rstatic.net
+DOMAIN-SUFFIX,supremacy.com
+DOMAIN-SUFFIX,supremacy.net
 
 
 # League of Lengends
-DOMAIN-SUFFIX,championshipseriesleague.com,PROXY
-DOMAIN-SUFFIX,lcsmerch.com,PROXY
-DOMAIN-SUFFIX,leaguehighschool.com,PROXY
-DOMAIN-SUFFIX,leagueoflegends.ca,PROXY
-DOMAIN-SUFFIX,leagueoflegends.cn,PROXY
-DOMAIN-SUFFIX,leagueoflegends.co.kr,PROXY
-DOMAIN-SUFFIX,leagueoflegends.com,PROXY
-DOMAIN-SUFFIX,leagueoflegends.info,PROXY
-DOMAIN-SUFFIX,leagueoflegends.kr,PROXY
-DOMAIN-SUFFIX,leagueoflegends.net,PROXY
-DOMAIN-SUFFIX,leagueoflegends.org,PROXY
-DOMAIN-SUFFIX,leagueoflegendsscripts.com,PROXY
-DOMAIN-SUFFIX,leaguesharp.info,PROXY
-DOMAIN-SUFFIX,leaguoflegends.com,PROXY
-DOMAIN-SUFFIX,learnwithleague.com,PROXY
-DOMAIN-SUFFIX,lol-europe.com,PROXY
-DOMAIN-SUFFIX,lolclub.org,PROXY
-DOMAIN-SUFFIX,lolespor.com,PROXY
-DOMAIN-SUFFIX,lolesports.com,PROXY
-DOMAIN-SUFFIX,lolfanart.net,PROXY
-DOMAIN-SUFFIX,lolpcs.com,PROXY
-DOMAIN-SUFFIX,lolshop.co.kr,PROXY
-DOMAIN-SUFFIX,lolstatic.com,PROXY
-DOMAIN-SUFFIX,lolusercontent.com,PROXY
-DOMAIN-SUFFIX,lpl.com.cn,PROXY
-DOMAIN-SUFFIX,pvp.net,PROXY
-DOMAIN-SUFFIX,pvp.tv,PROXY
-DOMAIN-SUFFIX,ulol.com,PROXY
+DOMAIN-SUFFIX,championshipseriesleague.com
+DOMAIN-SUFFIX,lcsmerch.com
+DOMAIN-SUFFIX,leaguehighschool.com
+DOMAIN-SUFFIX,leagueoflegends.ca
+DOMAIN-SUFFIX,leagueoflegends.cn
+DOMAIN-SUFFIX,leagueoflegends.co.kr
+DOMAIN-SUFFIX,leagueoflegends.com
+DOMAIN-SUFFIX,leagueoflegends.info
+DOMAIN-SUFFIX,leagueoflegends.kr
+DOMAIN-SUFFIX,leagueoflegends.net
+DOMAIN-SUFFIX,leagueoflegends.org
+DOMAIN-SUFFIX,leagueoflegendsscripts.com
+DOMAIN-SUFFIX,leaguesharp.info
+DOMAIN-SUFFIX,leaguoflegends.com
+DOMAIN-SUFFIX,learnwithleague.com
+DOMAIN-SUFFIX,lol-europe.com
+DOMAIN-SUFFIX,lolclub.org
+DOMAIN-SUFFIX,lolespor.com
+DOMAIN-SUFFIX,lolesports.com
+DOMAIN-SUFFIX,lolfanart.net
+DOMAIN-SUFFIX,lolpcs.com
+DOMAIN-SUFFIX,lolshop.co.kr
+DOMAIN-SUFFIX,lolstatic.com
+DOMAIN-SUFFIX,lolusercontent.com
+DOMAIN-SUFFIX,lpl.com.cn
+DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,pvp.tv
+DOMAIN-SUFFIX,ulol.com
 
-DOMAIN,lolstatic-a.akamaihd.net,PROXY
+DOMAIN,lolstatic-a.akamaihd.net
 
 
 # Valorant
-DOMAIN-SUFFIX,playvalorant.com,PROXY
+DOMAIN-SUFFIX,playvalorant.com
 
 
 # Riot Forge
-DOMAIN-SUFFIX,riotforgegames.com,PROXY
-DOMAIN-SUFFIX,ruinedking.com,PROXY
-DOMAIN-SUFFIX,convrgencegame.com,PROXY
+DOMAIN-SUFFIX,riotforgegames.com
+DOMAIN-SUFFIX,ruinedking.com
+DOMAIN-SUFFIX,convrgencegame.com
 

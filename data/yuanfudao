@@ -1,14 +1,14 @@
-DOMAIN-SUFFIX,banmaaike.com,PROXY
-DOMAIN-SUFFIX,xiaoyuankousuan.com,PROXY
-DOMAIN-SUFFIX,ybccode.com,PROXY
-DOMAIN-SUFFIX,yuanfudao.com,PROXY
-DOMAIN-SUFFIX,yuansouti.com,PROXY
-DOMAIN-SUFFIX,yuantiku.com,PROXY
+DOMAIN-SUFFIX,banmaaike.com
+DOMAIN-SUFFIX,xiaoyuankousuan.com
+DOMAIN-SUFFIX,ybccode.com
+DOMAIN-SUFFIX,yuanfudao.com
+DOMAIN-SUFFIX,yuansouti.com
+DOMAIN-SUFFIX,yuantiku.com
 
 # 粉笔蓝天
-DOMAIN-SUFFIX,fbstatic.cn,PROXY
-DOMAIN-SUFFIX,fenbi.com,PROXY
-DOMAIN-SUFFIX,fenbike.cn,PROXY
-DOMAIN-SUFFIX,fenbike.com,PROXY
-DOMAIN-SUFFIX,fenbilantian.cn,PROXY
-DOMAIN-SUFFIX,fenbilantian.com,PROXY
+DOMAIN-SUFFIX,fbstatic.cn
+DOMAIN-SUFFIX,fenbi.com
+DOMAIN-SUFFIX,fenbike.cn
+DOMAIN-SUFFIX,fenbike.com
+DOMAIN-SUFFIX,fenbilantian.cn
+DOMAIN-SUFFIX,fenbilantian.com

@@ -5,60 +5,60 @@
 # mcdonalds (Revoked)
 
 # McDonald's Australia
-DOMAIN-SUFFIX,happymeal.com.au,PROXY
-DOMAIN-SUFFIX,mcdelivery.com.au,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.au,PROXY
+DOMAIN-SUFFIX,happymeal.com.au
+DOMAIN-SUFFIX,mcdelivery.com.au
+DOMAIN-SUFFIX,mcdonalds.com.au
 
 # McDonald's China
-DOMAIN-SUFFIX,4008-517-517.cn,PROXY
-DOMAIN-SUFFIX,mcd.cn,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.cn,PROXY
+DOMAIN-SUFFIX,4008-517-517.cn
+DOMAIN-SUFFIX,mcd.cn
+DOMAIN-SUFFIX,mcdonalds.com.cn
 
 # McDonald's Hong Kong
-DOMAIN-SUFFIX,mcdonalds.hk,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.hk,PROXY
+DOMAIN-SUFFIX,mcdonalds.hk
+DOMAIN-SUFFIX,mcdonalds.com.hk
 
 # McDonald's India
-DOMAIN-SUFFIX,mcdelivery.co.in,PROXY
-DOMAIN-SUFFIX,mcdindia.com,PROXY
+DOMAIN-SUFFIX,mcdelivery.co.in
+DOMAIN-SUFFIX,mcdindia.com
 
 # McDonald's Indonesia
-DOMAIN-SUFFIX,mcdelivery.co.id,PROXY
-DOMAIN-SUFFIX,mcdindonesia.com,PROXY
-DOMAIN-SUFFIX,mcdonalds.co.id,PROXY
+DOMAIN-SUFFIX,mcdelivery.co.id
+DOMAIN-SUFFIX,mcdindonesia.com
+DOMAIN-SUFFIX,mcdonalds.co.id
 
 # McDonald's Japan
-DOMAIN-SUFFIX,mcdonalds.co.jp,PROXY
-DOMAIN-SUFFIX,mcdonalds-online.com,PROXY
-DOMAIN-SUFFIX,mcd-holdings.co.jp,PROXY
+DOMAIN-SUFFIX,mcdonalds.co.jp
+DOMAIN-SUFFIX,mcdonalds-online.com
+DOMAIN-SUFFIX,mcd-holdings.co.jp
 
 # McDonald's Korea
-DOMAIN-SUFFIX,mcdelivery.co.kr,PROXY
-DOMAIN-SUFFIX,mcdonalds.co.kr,PROXY
+DOMAIN-SUFFIX,mcdelivery.co.kr
+DOMAIN-SUFFIX,mcdonalds.co.kr
 
 # McDonald's Taiwan
-DOMAIN-SUFFIX,mcdelivery.com.tw,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.tw,PROXY
+DOMAIN-SUFFIX,mcdelivery.com.tw
+DOMAIN-SUFFIX,mcdonalds.com.tw
 
-DOMAIN-SUFFIX,aboutmcdonalds.com,PROXY
-DOMAIN-SUFFIX,happymeal.co.nz,PROXY
-DOMAIN-SUFFIX,happymeal.com,PROXY
-DOMAIN-SUFFIX,happymealdigital.com,PROXY
-DOMAIN-SUFFIX,mcd.com,PROXY
-DOMAIN-SUFFIX,mcdelivery.com.my,PROXY
-DOMAIN-SUFFIX,mcdelivery.com.ph,PROXY
-DOMAIN-SUFFIX,mcdelivery.com.sg,PROXY
-DOMAIN-SUFFIX,mcdonalds.be,PROXY
-DOMAIN-SUFFIX,mcdonalds.ca,PROXY
-DOMAIN-SUFFIX,mcdonalds.it,PROXY
-DOMAIN-SUFFIX,mcdonalds.no,PROXY
-DOMAIN-SUFFIX,mcdonalds.se,PROXY
-DOMAIN-SUFFIX,mcdonalds.co.nz,PROXY
-DOMAIN-SUFFIX,mcdonalds.co.uk,PROXY
-DOMAIN-SUFFIX,mcdonalds.com,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.lb,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.my,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.ph,PROXY
-DOMAIN-SUFFIX,mcdonaldsapps.com,PROXY
-DOMAIN-SUFFIX,mcdonaldsarabia.com,PROXY
-DOMAIN-SUFFIX,mcdonaldsparties.co.nz,PROXY
+DOMAIN-SUFFIX,aboutmcdonalds.com
+DOMAIN-SUFFIX,happymeal.co.nz
+DOMAIN-SUFFIX,happymeal.com
+DOMAIN-SUFFIX,happymealdigital.com
+DOMAIN-SUFFIX,mcd.com
+DOMAIN-SUFFIX,mcdelivery.com.my
+DOMAIN-SUFFIX,mcdelivery.com.ph
+DOMAIN-SUFFIX,mcdelivery.com.sg
+DOMAIN-SUFFIX,mcdonalds.be
+DOMAIN-SUFFIX,mcdonalds.ca
+DOMAIN-SUFFIX,mcdonalds.it
+DOMAIN-SUFFIX,mcdonalds.no
+DOMAIN-SUFFIX,mcdonalds.se
+DOMAIN-SUFFIX,mcdonalds.co.nz
+DOMAIN-SUFFIX,mcdonalds.co.uk
+DOMAIN-SUFFIX,mcdonalds.com
+DOMAIN-SUFFIX,mcdonalds.com.lb
+DOMAIN-SUFFIX,mcdonalds.com.my
+DOMAIN-SUFFIX,mcdonalds.com.ph
+DOMAIN-SUFFIX,mcdonaldsapps.com
+DOMAIN-SUFFIX,mcdonaldsarabia.com
+DOMAIN-SUFFIX,mcdonaldsparties.co.nz

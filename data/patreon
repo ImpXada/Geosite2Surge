@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,patreon.com,PROXY
-DOMAIN-SUFFIX,patreoncommunity.com,PROXY
-DOMAIN-SUFFIX,patreonusercontent.com,PROXY
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreoncommunity.com
+DOMAIN-SUFFIX,patreonusercontent.com
 
-DOMAIN,live-patreon-marketing.pantheonsite.io,PROXY
+DOMAIN,live-patreon-marketing.pantheonsite.io

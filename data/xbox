@@ -1,58 +1,58 @@
-DOMAIN-SUFFIX,asobostudio.com,PROXY
-DOMAIN-SUFFIX,flightsimulator.com,PROXY
+DOMAIN-SUFFIX,asobostudio.com
+DOMAIN-SUFFIX,flightsimulator.com
 
-DOMAIN,flightsimulator.azureedge.net,PROXY
+DOMAIN,flightsimulator.azureedge.net
 #end include:asobo
-DOMAIN-SUFFIX,beth.games,PROXY
-DOMAIN-SUFFIX,bethesda.net,PROXY
-DOMAIN-SUFFIX,bethesdagamestudios.com,PROXY
-DOMAIN-SUFFIX,bethsoft.com,PROXY
+DOMAIN-SUFFIX,beth.games
+DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,bethesdagamestudios.com
+DOMAIN-SUFFIX,bethsoft.com
 
 # Doom
-DOMAIN-SUFFIX,doom.com,PROXY
+DOMAIN-SUFFIX,doom.com
 
 # The Elder Scrolls
-DOMAIN-SUFFIX,elderscrolls.com,PROXY
+DOMAIN-SUFFIX,elderscrolls.com
 #end include:bethesda
-DOMAIN-SUFFIX,forza.net,PROXY
-DOMAIN-SUFFIX,forzamotorsport.net,PROXY
-DOMAIN-SUFFIX,forzaracingchampionship.com,PROXY
-DOMAIN-SUFFIX,forzarc.com,PROXY
+DOMAIN-SUFFIX,forza.net
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,forzaracingchampionship.com
+DOMAIN-SUFFIX,forzarc.com
 
-DOMAIN,prodforza.blob.core.windows.net,PROXY
+DOMAIN,prodforza.blob.core.windows.net
 #end include:forza
-DOMAIN-SUFFIX,callersbane.com,PROXY
-DOMAIN-SUFFIX,minecraft-services.net,PROXY
-DOMAIN-SUFFIX,minecraft.net,PROXY
-DOMAIN-SUFFIX,minecraftservices.com,PROXY
-DOMAIN-SUFFIX,minecraftshop.com,PROXY
-DOMAIN-SUFFIX,mojang.com,PROXY
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com
 #end include:mojang
 
 # All .xbox domains
-DOMAIN-SUFFIX,xbox,PROXY
+DOMAIN-SUFFIX,xbox
 
-DOMAIN-SUFFIX,gamepass.com,PROXY
-DOMAIN-SUFFIX,orithegame.com,PROXY
-DOMAIN-SUFFIX,renovacionxboxlive.com,PROXY
-DOMAIN-SUFFIX,tellmewhygame.com,PROXY
-DOMAIN-SUFFIX,xbox.co,PROXY
-DOMAIN-SUFFIX,xbox.com,PROXY
-DOMAIN-SUFFIX,xbox.eu,PROXY
-DOMAIN-SUFFIX,xbox.org,PROXY
-DOMAIN-SUFFIX,xbox360.co,PROXY
-DOMAIN-SUFFIX,xbox360.com,PROXY
-DOMAIN-SUFFIX,xbox360.eu,PROXY
-DOMAIN-SUFFIX,xbox360.org,PROXY
-DOMAIN-SUFFIX,xboxab.com,PROXY
-DOMAIN-SUFFIX,xboxgamepass.com,PROXY
-DOMAIN-SUFFIX,xboxgamestudios.com,PROXY
-DOMAIN-SUFFIX,xboxlive.cn,PROXY
-DOMAIN-SUFFIX,xboxlive.com,PROXY
-DOMAIN-SUFFIX,xboxone.co,PROXY
-DOMAIN-SUFFIX,xboxone.com,PROXY
-DOMAIN-SUFFIX,xboxone.eu,PROXY
-DOMAIN-SUFFIX,xboxplayanywhere.com,PROXY
-DOMAIN-SUFFIX,xboxservices.com,PROXY
-DOMAIN-SUFFIX,xboxstudios.com,PROXY
-DOMAIN-SUFFIX,xbx.lv,PROXY
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,orithegame.com
+DOMAIN-SUFFIX,renovacionxboxlive.com
+DOMAIN-SUFFIX,tellmewhygame.com
+DOMAIN-SUFFIX,xbox.co
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xbox.eu
+DOMAIN-SUFFIX,xbox.org
+DOMAIN-SUFFIX,xbox360.co
+DOMAIN-SUFFIX,xbox360.com
+DOMAIN-SUFFIX,xbox360.eu
+DOMAIN-SUFFIX,xbox360.org
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxgamepass.com
+DOMAIN-SUFFIX,xboxgamestudios.com
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxone.co
+DOMAIN-SUFFIX,xboxone.com
+DOMAIN-SUFFIX,xboxone.eu
+DOMAIN-SUFFIX,xboxplayanywhere.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,xboxstudios.com
+DOMAIN-SUFFIX,xbx.lv

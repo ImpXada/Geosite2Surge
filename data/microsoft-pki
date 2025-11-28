@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,msocsp.com,PROXY
+DOMAIN-SUFFIX,msocsp.com
 
-DOMAIN,crl.microsoft.com,PROXY
-DOMAIN,mscrl.microsoft.com,PROXY
-DOMAIN,ocsp.microsoft.com,PROXY
-DOMAIN,oneocsp.microsoft.com,PROXY
-DOMAIN,www.microsoft.com,PROXY
+DOMAIN,crl.microsoft.com
+DOMAIN,mscrl.microsoft.com
+DOMAIN,ocsp.microsoft.com
+DOMAIN,oneocsp.microsoft.com
+DOMAIN,www.microsoft.com

@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,yfcache.com,PROXY
-DOMAIN-SUFFIX,yfcalc.com,PROXY
-DOMAIN-SUFFIX,yfcdn.net,PROXY
-DOMAIN-SUFFIX,yfcloud.com,PROXY
-DOMAIN-SUFFIX,yfdts.net,PROXY
-DOMAIN-SUFFIX,yfp2p.net,PROXY
-DOMAIN-SUFFIX,yfscdn.net,PROXY
-DOMAIN-SUFFIX,yunfancdn.com,PROXY
+DOMAIN-SUFFIX,yfcache.com
+DOMAIN-SUFFIX,yfcalc.com
+DOMAIN-SUFFIX,yfcdn.net
+DOMAIN-SUFFIX,yfcloud.com
+DOMAIN-SUFFIX,yfdts.net
+DOMAIN-SUFFIX,yfp2p.net
+DOMAIN-SUFFIX,yfscdn.net
+DOMAIN-SUFFIX,yunfancdn.com

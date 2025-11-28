@@ -1,20 +1,20 @@
 # All .unicom domains
-DOMAIN-SUFFIX,unicom,PROXY
+DOMAIN-SUFFIX,unicom
 
 # All .联通 domains
-DOMAIN-SUFFIX,xn--8y0a063a,PROXY
+DOMAIN-SUFFIX,xn--8y0a063a
 
-DOMAIN-SUFFIX,10010.com,PROXY
-DOMAIN-SUFFIX,10010.com.cn,PROXY
-DOMAIN-SUFFIX,114menhu.com,PROXY
-DOMAIN-SUFFIX,169ol.com,PROXY
-DOMAIN-SUFFIX,chinaunicom.cn,PROXY
-DOMAIN-SUFFIX,chinaunicom.com,PROXY
-DOMAIN-SUFFIX,chinaunicom.com.cn,PROXY
-DOMAIN-SUFFIX,chinaunicom.com.hk,PROXY
-DOMAIN-SUFFIX,chinaunicomglobal.com,PROXY
-DOMAIN-SUFFIX,cuniq.com,PROXY
-DOMAIN-SUFFIX,mychinaunicom.com,PROXY
-DOMAIN-SUFFIX,wo.cn,PROXY
-DOMAIN-SUFFIX,wo.com.cn,PROXY
-DOMAIN-SUFFIX,wo116114.com,PROXY
+DOMAIN-SUFFIX,10010.com
+DOMAIN-SUFFIX,10010.com.cn
+DOMAIN-SUFFIX,114menhu.com
+DOMAIN-SUFFIX,169ol.com
+DOMAIN-SUFFIX,chinaunicom.cn
+DOMAIN-SUFFIX,chinaunicom.com
+DOMAIN-SUFFIX,chinaunicom.com.cn
+DOMAIN-SUFFIX,chinaunicom.com.hk
+DOMAIN-SUFFIX,chinaunicomglobal.com
+DOMAIN-SUFFIX,cuniq.com
+DOMAIN-SUFFIX,mychinaunicom.com
+DOMAIN-SUFFIX,wo.cn
+DOMAIN-SUFFIX,wo.com.cn
+DOMAIN-SUFFIX,wo116114.com

@@ -1,18 +1,18 @@
-DOMAIN-SUFFIX,iflyink.com,PROXY
-DOMAIN-SUFFIX,iflyrec.com,PROXY
-DOMAIN-SUFFIX,iflysec.com,PROXY
-DOMAIN-SUFFIX,iflytek.com,PROXY
-DOMAIN-SUFFIX,xfyun.cn,PROXY
-DOMAIN-SUFFIX,xunfei.cn,PROXY
+DOMAIN-SUFFIX,iflyink.com
+DOMAIN-SUFFIX,iflyrec.com
+DOMAIN-SUFFIX,iflysec.com
+DOMAIN-SUFFIX,iflytek.com
+DOMAIN-SUFFIX,xfyun.cn
+DOMAIN-SUFFIX,xunfei.cn
 
 # e听说中学
-DOMAIN-SUFFIX,ets100.com,PROXY
+DOMAIN-SUFFIX,ets100.com
 
 # 智学网
-DOMAIN-SUFFIX,zhixue.com,PROXY
+DOMAIN-SUFFIX,zhixue.com
 
 #畅言教育开放平台
-DOMAIN-SUFFIX,changyan.com,PROXY
+DOMAIN-SUFFIX,changyan.com
 
 #科大讯飞AI学习机官网
-DOMAIN-SUFFIX,xunfeixxj.com,PROXY
+DOMAIN-SUFFIX,xunfeixxj.com

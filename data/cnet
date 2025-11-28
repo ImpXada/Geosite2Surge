@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,cnet.co.kr,PROXY
-DOMAIN-SUFFIX,cnet.com,PROXY
-DOMAIN-SUFFIX,cnet.de,PROXY
-DOMAIN-SUFFIX,cnetfrance.fr,PROXY
+DOMAIN-SUFFIX,cnet.co.kr
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnet.de
+DOMAIN-SUFFIX,cnetfrance.fr
 
 # CNET Download
-DOMAIN-SUFFIX,download.com,PROXY
+DOMAIN-SUFFIX,download.com

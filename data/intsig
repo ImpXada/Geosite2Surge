@@ -1,13 +1,13 @@
-DOMAIN-SUFFIX,intsig.com,PROXY
-DOMAIN-SUFFIX,intsig.net,PROXY
+DOMAIN-SUFFIX,intsig.com
+DOMAIN-SUFFIX,intsig.net
 
 # 扫描全能王
-DOMAIN-SUFFIX,camscanner.com,PROXY
+DOMAIN-SUFFIX,camscanner.com
 
 # 名片全能王
-DOMAIN-SUFFIX,camcard.com,PROXY
+DOMAIN-SUFFIX,camcard.com
 
 # 启信宝
 #include:qixin
-DOMAIN-SUFFIX,qixin.com,PROXY
+DOMAIN-SUFFIX,qixin.com
 #end include:qixin

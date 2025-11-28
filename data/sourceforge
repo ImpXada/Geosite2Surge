@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,sourceforge.com,PROXY
-DOMAIN-SUFFIX,sourceforge.net,PROXY
-DOMAIN-SUFFIX,sf.net,PROXY
-DOMAIN-SUFFIX,fsdn.com,PROXY
+DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,sf.net
+DOMAIN-SUFFIX,fsdn.com

@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,awempire.com,PROXY
+DOMAIN-SUFFIX,awempire.com
 
 # CDN
-DOMAIN-SUFFIX,dditsadn.com,PROXY
-DOMAIN-SUFFIX,dditscdn.com,PROXY
-DOMAIN-SUFFIX,docleradn.com,PROXY
-DOMAIN-SUFFIX,doclercdn.com,PROXY
+DOMAIN-SUFFIX,dditsadn.com
+DOMAIN-SUFFIX,dditscdn.com
+DOMAIN-SUFFIX,docleradn.com
+DOMAIN-SUFFIX,doclercdn.com

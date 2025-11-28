@@ -1,8 +1,8 @@
 # 嘉信理财
-DOMAIN-SUFFIX,aboutschwab.com,PROXY
-DOMAIN-SUFFIX,schwab.co.uk,PROXY
-DOMAIN-SUFFIX,schwab.com,PROXY
-DOMAIN-SUFFIX,schwab.com.hk,PROXY
-DOMAIN-SUFFIX,schwab.com.sg,PROXY
-DOMAIN-SUFFIX,schwabassetmanagement.com,PROXY
-DOMAIN-SUFFIX,schwabplan.com,PROXY
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,schwab.co.uk
+DOMAIN-SUFFIX,schwab.com
+DOMAIN-SUFFIX,schwab.com.hk
+DOMAIN-SUFFIX,schwab.com.sg
+DOMAIN-SUFFIX,schwabassetmanagement.com
+DOMAIN-SUFFIX,schwabplan.com

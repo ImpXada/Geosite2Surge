@@ -1,14 +1,14 @@
 #include:taptap
-DOMAIN-SUFFIX,tapimg.com,PROXY
-DOMAIN-SUFFIX,tapimg.net,PROXY
-DOMAIN-SUFFIX,taptap.cn,PROXY
-DOMAIN-SUFFIX,taptap.com,PROXY
-DOMAIN-SUFFIX,taptap.io,PROXY
-DOMAIN-SUFFIX,taptapdada.com,PROXY
+DOMAIN-SUFFIX,tapimg.com
+DOMAIN-SUFFIX,tapimg.net
+DOMAIN-SUFFIX,taptap.cn
+DOMAIN-SUFFIX,taptap.com
+DOMAIN-SUFFIX,taptap.io
+DOMAIN-SUFFIX,taptapdada.com
 #end include:taptap
 
-DOMAIN-SUFFIX,ro.com,PROXY
-DOMAIN-SUFFIX,xd.cn,PROXY
-DOMAIN-SUFFIX,xd.com,PROXY
-DOMAIN-SUFFIX,xdcdn.net,PROXY
-DOMAIN-SUFFIX,xindong.com,PROXY
+DOMAIN-SUFFIX,ro.com
+DOMAIN-SUFFIX,xd.cn
+DOMAIN-SUFFIX,xd.com
+DOMAIN-SUFFIX,xdcdn.net
+DOMAIN-SUFFIX,xindong.com

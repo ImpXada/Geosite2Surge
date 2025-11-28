@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,videopress.com,PROXY
-DOMAIN-SUFFIX,w.org,PROXY
-DOMAIN-SUFFIX,wordpress.com,PROXY
-DOMAIN-SUFFIX,wordpress.org,PROXY
-DOMAIN-SUFFIX,wordpress.tv,PROXY
-DOMAIN-SUFFIX,wp-themes.com,PROXY
-DOMAIN-SUFFIX,wp.com,PROXY
-DOMAIN-SUFFIX,wpvip.com,PROXY
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wpvip.com

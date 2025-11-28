@@ -1,38 +1,38 @@
-DOMAIN-SUFFIX,cctv.cn,PROXY
-DOMAIN-SUFFIX,cctv.com,PROXY
-DOMAIN-SUFFIX,cctvpic.com,PROXY
-DOMAIN-SUFFIX,chinaepg.cn,PROXY
-DOMAIN-SUFFIX,chinalive.com,PROXY
-DOMAIN-SUFFIX,citv.net.cn,PROXY
-DOMAIN-SUFFIX,cnms.net.cn,PROXY
-DOMAIN-SUFFIX,cntv.cn,PROXY
-DOMAIN-SUFFIX,cntv.com.cn,PROXY
-DOMAIN-SUFFIX,cctvlib.cn,PROXY
-DOMAIN-SUFFIX,cctvlibrary.cn,PROXY
-DOMAIN-SUFFIX,cctvlib.com.cn,PROXY
-DOMAIN-SUFFIX,cctvlibrary.com.cn,PROXY
-DOMAIN-SUFFIX,cctvpro.cn,PROXY
-DOMAIN-SUFFIX,cctvpro.com.cn,PROXY
-DOMAIN-SUFFIX,cntvwb.cn,PROXY
-DOMAIN-SUFFIX,gjgbdszt.cn,PROXY
-DOMAIN-SUFFIX,gjgbdszt.com.cn,PROXY
-DOMAIN-SUFFIX,gjgbdszt.net.cn,PROXY
-DOMAIN-SUFFIX,ipanda.cn,PROXY
-DOMAIN-SUFFIX,ipanda.com,PROXY
-DOMAIN-SUFFIX,ipanda.com.cn,PROXY
-DOMAIN-SUFFIX,ipanda.net,PROXY
-DOMAIN-SUFFIX,livechina.cn,PROXY
-DOMAIN-SUFFIX,livechina.com,PROXY
-DOMAIN-SUFFIX,olympicchannelchina.cn,PROXY
-DOMAIN-SUFFIX,tvcc.cn,PROXY
-DOMAIN-SUFFIX,tvcc.com.cn,PROXY
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn,PROXY    #中国广播电视总台.cn
-DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn,PROXY    #中央广播电视总台.cn
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s,PROXY    #中国广播电视总台.中国
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn,PROXY    #国家广播电视总台.cn
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s,PROXY    #国家广播电视总台.中国
-DOMAIN-SUFFIX,yangshipin.cn,PROXY
-DOMAIN-SUFFIX,zggbdszt.cn,PROXY
-DOMAIN-SUFFIX,zggbdszt.com.cn,PROXY
-DOMAIN-SUFFIX,zggbdszt.net.cn,PROXY
-DOMAIN-SUFFIX,zygbdszt.net.cn,PROXY
+DOMAIN-SUFFIX,cctv.cn
+DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctvpic.com
+DOMAIN-SUFFIX,chinaepg.cn
+DOMAIN-SUFFIX,chinalive.com
+DOMAIN-SUFFIX,citv.net.cn
+DOMAIN-SUFFIX,cnms.net.cn
+DOMAIN-SUFFIX,cntv.cn
+DOMAIN-SUFFIX,cntv.com.cn
+DOMAIN-SUFFIX,cctvlib.cn
+DOMAIN-SUFFIX,cctvlibrary.cn
+DOMAIN-SUFFIX,cctvlib.com.cn
+DOMAIN-SUFFIX,cctvlibrary.com.cn
+DOMAIN-SUFFIX,cctvpro.cn
+DOMAIN-SUFFIX,cctvpro.com.cn
+DOMAIN-SUFFIX,cntvwb.cn
+DOMAIN-SUFFIX,gjgbdszt.cn
+DOMAIN-SUFFIX,gjgbdszt.com.cn
+DOMAIN-SUFFIX,gjgbdszt.net.cn
+DOMAIN-SUFFIX,ipanda.cn
+DOMAIN-SUFFIX,ipanda.com
+DOMAIN-SUFFIX,ipanda.com.cn
+DOMAIN-SUFFIX,ipanda.net
+DOMAIN-SUFFIX,livechina.cn
+DOMAIN-SUFFIX,livechina.com
+DOMAIN-SUFFIX,olympicchannelchina.cn
+DOMAIN-SUFFIX,tvcc.cn
+DOMAIN-SUFFIX,tvcc.com.cn
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn    #中国广播电视总台.cn
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn    #中央广播电视总台.cn
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s    #中国广播电视总台.中国
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn    #国家广播电视总台.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s    #国家广播电视总台.中国
+DOMAIN-SUFFIX,yangshipin.cn
+DOMAIN-SUFFIX,zggbdszt.cn
+DOMAIN-SUFFIX,zggbdszt.com.cn
+DOMAIN-SUFFIX,zggbdszt.net.cn
+DOMAIN-SUFFIX,zygbdszt.net.cn

@@ -1,40 +1,40 @@
 #include:ceno
-DOMAIN-SUFFIX,censorship.no,PROXY
+DOMAIN-SUFFIX,censorship.no
 #end include:ceno
 #include:epicbrowser
-DOMAIN-SUFFIX,epicbrowser.com,PROXY
+DOMAIN-SUFFIX,epicbrowser.com
 #end include:epicbrowser
 #include:firefox
-DOMAIN-SUFFIX,firefox.com,PROXY
-DOMAIN-SUFFIX,firefoxusercontent.com,PROXY
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefoxusercontent.com
 #end include:firefox
 #include:torproject
-DOMAIN-SUFFIX,torproject.org,PROXY
+DOMAIN-SUFFIX,torproject.org
 #end include:torproject
 
 # chromium
-DOMAIN-SUFFIX,chrome,PROXY
-DOMAIN-SUFFIX,chrome.com,PROXY
-DOMAIN-SUFFIX,chromium.org,PROXY
+DOMAIN-SUFFIX,chrome
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromium.org
 
-DOMAIN-SUFFIX,basilisk-browser.org,PROXY
-DOMAIN-SUFFIX,brave.com,PROXY
-DOMAIN-SUFFIX,bromite.org,PROXY
-DOMAIN-SUFFIX,browser.kagi.com,PROXY    #Orion Browser
-DOMAIN-SUFFIX,cromite.org,PROXY
-DOMAIN-SUFFIX,decentr.net,PROXY
-DOMAIN-SUFFIX,dothq.org,PROXY
-DOMAIN-SUFFIX,floorp.app,PROXY
-DOMAIN-SUFFIX,iridiumbrowser.de,PROXY
-DOMAIN-SUFFIX,kiwibrowser.com,PROXY
-DOMAIN-SUFFIX,kmeleonbrowser.org,PROXY
-DOMAIN-SUFFIX,librewolf.net,PROXY
-DOMAIN-SUFFIX,minbrowser.org,PROXY
-DOMAIN-SUFFIX,netsurf-browser.org,PROXY
-DOMAIN-SUFFIX,opera.com,PROXY
-DOMAIN-SUFFIX,palemoon.org,PROXY
-DOMAIN-SUFFIX,pulsebrowser.app,PROXY
-DOMAIN-SUFFIX,qutebrowser.org,PROXY
-DOMAIN-SUFFIX,vivaldi.com,PROXY
-DOMAIN-SUFFIX,waterfox.net,PROXY
-DOMAIN-SUFFIX,zen-browser.app,PROXY
+DOMAIN-SUFFIX,basilisk-browser.org
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,bromite.org
+DOMAIN-SUFFIX,browser.kagi.com    #Orion Browser
+DOMAIN-SUFFIX,cromite.org
+DOMAIN-SUFFIX,decentr.net
+DOMAIN-SUFFIX,dothq.org
+DOMAIN-SUFFIX,floorp.app
+DOMAIN-SUFFIX,iridiumbrowser.de
+DOMAIN-SUFFIX,kiwibrowser.com
+DOMAIN-SUFFIX,kmeleonbrowser.org
+DOMAIN-SUFFIX,librewolf.net
+DOMAIN-SUFFIX,minbrowser.org
+DOMAIN-SUFFIX,netsurf-browser.org
+DOMAIN-SUFFIX,opera.com
+DOMAIN-SUFFIX,palemoon.org
+DOMAIN-SUFFIX,pulsebrowser.app
+DOMAIN-SUFFIX,qutebrowser.org
+DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,waterfox.net
+DOMAIN-SUFFIX,zen-browser.app

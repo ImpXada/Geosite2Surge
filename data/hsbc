@@ -1,67 +1,67 @@
 # TLD
-DOMAIN-SUFFIX,hsbc,PROXY
+DOMAIN-SUFFIX,hsbc
 
 # General
-DOMAIN-SUFFIX,hsbc.com,PROXY
-DOMAIN-SUFFIX,hsbc.net,PROXY
-DOMAIN-SUFFIX,hsbcinnovationbanking.com,PROXY
-DOMAIN-SUFFIX,hsbcnet.com,PROXY
-DOMAIN-SUFFIX,hsbcprivatebank.com,PROXY
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc.net
+DOMAIN-SUFFIX,hsbcinnovationbanking.com
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbcprivatebank.com
 
 # Active Branches
-DOMAIN-SUFFIX,hsbc.ae,PROXY
-DOMAIN-SUFFIX,hsbc.am,PROXY
-DOMAIN-SUFFIX,hsbc.bm,PROXY
-DOMAIN-SUFFIX,hsbc.co.id,PROXY
-DOMAIN-SUFFIX,hsbc.co.in,PROXY
-DOMAIN-SUFFIX,hsbc.co.kr,PROXY
-DOMAIN-SUFFIX,hsbc.co.mu,PROXY
-DOMAIN-SUFFIX,hsbc.co.nz,PROXY
-DOMAIN-SUFFIX,hsbc.co.th,PROXY
+DOMAIN-SUFFIX,hsbc.ae
+DOMAIN-SUFFIX,hsbc.am
+DOMAIN-SUFFIX,hsbc.bm
+DOMAIN-SUFFIX,hsbc.co.id
+DOMAIN-SUFFIX,hsbc.co.in
+DOMAIN-SUFFIX,hsbc.co.kr
+DOMAIN-SUFFIX,hsbc.co.mu
+DOMAIN-SUFFIX,hsbc.co.nz
+DOMAIN-SUFFIX,hsbc.co.th
 
 ## HSBC UK
-DOMAIN-SUFFIX,hsbc.co.uk,PROXY
-DOMAIN-SUFFIX,hsbc.uk,PROXY
+DOMAIN-SUFFIX,hsbc.co.uk
+DOMAIN-SUFFIX,hsbc.uk
 
-DOMAIN-SUFFIX,hsbc.com.ar,PROXY
-DOMAIN-SUFFIX,hsbc.com.au,PROXY
-DOMAIN-SUFFIX,hsbc.com.bd,PROXY
-DOMAIN-SUFFIX,hsbc.com.bh,PROXY
-DOMAIN-SUFFIX,hsbc.com.br,PROXY
+DOMAIN-SUFFIX,hsbc.com.ar
+DOMAIN-SUFFIX,hsbc.com.au
+DOMAIN-SUFFIX,hsbc.com.bd
+DOMAIN-SUFFIX,hsbc.com.bh
+DOMAIN-SUFFIX,hsbc.com.br
 
 ## HSBC CN
-DOMAIN-SUFFIX,hsbc.com.cn,PROXY
-DOMAIN-SUFFIX,hsbcqh.com.cn,PROXY
-DOMAIN-SUFFIX,hsbcinsurance.com.cn,PROXY
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbcqh.com.cn
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
 #end include:hsbc-cn
 
-DOMAIN-SUFFIX,hsbc.com.eg,PROXY
-DOMAIN-SUFFIX,hsbc.com.hk,PROXY
-DOMAIN-SUFFIX,hsbc.com.mo,PROXY
-DOMAIN-SUFFIX,hsbc.com.mt,PROXY
-DOMAIN-SUFFIX,hsbc.com.mx,PROXY
+DOMAIN-SUFFIX,hsbc.com.eg
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com.mo
+DOMAIN-SUFFIX,hsbc.com.mt
+DOMAIN-SUFFIX,hsbc.com.mx
 
 ## HSBC MY
-DOMAIN-SUFFIX,hsbc.com.my,PROXY
-DOMAIN-SUFFIX,hsbcamanah.com.my,PROXY
+DOMAIN-SUFFIX,hsbc.com.my
+DOMAIN-SUFFIX,hsbcamanah.com.my
 
-DOMAIN-SUFFIX,hsbc.com.ph,PROXY
-DOMAIN-SUFFIX,hsbc.com.sg,PROXY
-DOMAIN-SUFFIX,hsbc.com.tr,PROXY
-DOMAIN-SUFFIX,hsbc.com.tw,PROXY
-DOMAIN-SUFFIX,hsbc.com.uy,PROXY
-DOMAIN-SUFFIX,hsbc.com.vn,PROXY
+DOMAIN-SUFFIX,hsbc.com.ph
+DOMAIN-SUFFIX,hsbc.com.sg
+DOMAIN-SUFFIX,hsbc.com.tr
+DOMAIN-SUFFIX,hsbc.com.tw
+DOMAIN-SUFFIX,hsbc.com.uy
+DOMAIN-SUFFIX,hsbc.com.vn
 
 ## HSBC DE
-DOMAIN-SUFFIX,hsbc.de,PROXY
-DOMAIN-SUFFIX,hsbc-alternatives.de,PROXY
-DOMAIN-SUFFIX,hsbc-transactionservices.de,PROXY
-DOMAIN-SUFFIX,hsbc-zertifikate.de,PROXY
+DOMAIN-SUFFIX,hsbc.de
+DOMAIN-SUFFIX,hsbc-alternatives.de
+DOMAIN-SUFFIX,hsbc-transactionservices.de
+DOMAIN-SUFFIX,hsbc-zertifikate.de
 
-DOMAIN-SUFFIX,hsbc.lk,PROXY
+DOMAIN-SUFFIX,hsbc.lk
 
 # Inactive Branches
-DOMAIN-SUFFIX,hsbc.ca,PROXY
-DOMAIN-SUFFIX,hsbc.co.jp,PROXY
-DOMAIN-SUFFIX,hsbc.fr,PROXY
-DOMAIN-SUFFIX,hsbctrinkaus.de,PROXY
+DOMAIN-SUFFIX,hsbc.ca
+DOMAIN-SUFFIX,hsbc.co.jp
+DOMAIN-SUFFIX,hsbc.fr
+DOMAIN-SUFFIX,hsbctrinkaus.de

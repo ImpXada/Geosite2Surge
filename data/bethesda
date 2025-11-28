@@ -1,10 +1,10 @@
-DOMAIN-SUFFIX,beth.games,PROXY
-DOMAIN-SUFFIX,bethesda.net,PROXY
-DOMAIN-SUFFIX,bethesdagamestudios.com,PROXY
-DOMAIN-SUFFIX,bethsoft.com,PROXY
+DOMAIN-SUFFIX,beth.games
+DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,bethesdagamestudios.com
+DOMAIN-SUFFIX,bethsoft.com
 
 # Doom
-DOMAIN-SUFFIX,doom.com,PROXY
+DOMAIN-SUFFIX,doom.com
 
 # The Elder Scrolls
-DOMAIN-SUFFIX,elderscrolls.com,PROXY
+DOMAIN-SUFFIX,elderscrolls.com

@@ -1,18 +1,18 @@
 # LeetCode 中国站
-DOMAIN-SUFFIX,leetcode.cn,PROXY
-DOMAIN-SUFFIX,leetcode-cn.com,PROXY
-DOMAIN-SUFFIX,lingkou.xyz,PROXY
-DOMAIN-SUFFIX,lingkou.com,PROXY
-DOMAIN-SUFFIX,lingkou.cn,PROXY
+DOMAIN-SUFFIX,leetcode.cn
+DOMAIN-SUFFIX,leetcode-cn.com
+DOMAIN-SUFFIX,lingkou.xyz
+DOMAIN-SUFFIX,lingkou.com
+DOMAIN-SUFFIX,lingkou.cn
 
-DOMAIN-SUFFIX,51nod.com,PROXY
-DOMAIN-SUFFIX,acwing.com,PROXY
-DOMAIN-SUFFIX,hihocoder.com,PROXY
-DOMAIN-SUFFIX,jisuanke.com,PROXY
-DOMAIN-SUFFIX,kidsccshow.com,PROXY
-DOMAIN-SUFFIX,luogu.com.cn,PROXY
-DOMAIN-SUFFIX,oi-wiki.com,PROXY
-DOMAIN-SUFFIX,openjudge.cn,PROXY
-DOMAIN-SUFFIX,rqnoj.cn,PROXY
-DOMAIN-SUFFIX,uoj.ac,PROXY
-DOMAIN-SUFFIX,vijos.org,PROXY
+DOMAIN-SUFFIX,51nod.com
+DOMAIN-SUFFIX,acwing.com
+DOMAIN-SUFFIX,hihocoder.com
+DOMAIN-SUFFIX,jisuanke.com
+DOMAIN-SUFFIX,kidsccshow.com
+DOMAIN-SUFFIX,luogu.com.cn
+DOMAIN-SUFFIX,oi-wiki.com
+DOMAIN-SUFFIX,openjudge.cn
+DOMAIN-SUFFIX,rqnoj.cn
+DOMAIN-SUFFIX,uoj.ac
+DOMAIN-SUFFIX,vijos.org

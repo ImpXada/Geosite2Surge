@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,fastlane.ci,PROXY
-DOMAIN-SUFFIX,fastlane.tools,PROXY
+DOMAIN-SUFFIX,fastlane.ci
+DOMAIN-SUFFIX,fastlane.tools

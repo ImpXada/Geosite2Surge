@@ -1,104 +1,104 @@
 #include:115
-DOMAIN-SUFFIX,115.com,PROXY
-DOMAIN-SUFFIX,115cdn.com,PROXY
-DOMAIN-SUFFIX,115cdn.net,PROXY
-DOMAIN-SUFFIX,115cloud.cn,PROXY
-DOMAIN-SUFFIX,115cloud.com,PROXY
-DOMAIN-SUFFIX,115cloud.net,PROXY
-DOMAIN-SUFFIX,115img.com,PROXY
-DOMAIN-SUFFIX,115meta.com,PROXY
-DOMAIN-SUFFIX,115vod.com,PROXY
-DOMAIN-SUFFIX,116cd.cn,PROXY
-DOMAIN-SUFFIX,116cd.com,PROXY
-DOMAIN-SUFFIX,116cd.net,PROXY
-DOMAIN-SUFFIX,anxia.com,PROXY
-DOMAIN-SUFFIX,sq.cc,PROXY
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,115cdn.com
+DOMAIN-SUFFIX,115cdn.net
+DOMAIN-SUFFIX,115cloud.cn
+DOMAIN-SUFFIX,115cloud.com
+DOMAIN-SUFFIX,115cloud.net
+DOMAIN-SUFFIX,115img.com
+DOMAIN-SUFFIX,115meta.com
+DOMAIN-SUFFIX,115vod.com
+DOMAIN-SUFFIX,116cd.cn
+DOMAIN-SUFFIX,116cd.com
+DOMAIN-SUFFIX,116cd.net
+DOMAIN-SUFFIX,anxia.com
+DOMAIN-SUFFIX,sq.cc
 #end include:115
 #include:aliyun-drive
-DOMAIN-SUFFIX,alicloudccp.com,PROXY
-DOMAIN-SUFFIX,alipan.com,PROXY
-DOMAIN-SUFFIX,aliyundrive.cloud,PROXY
-DOMAIN-SUFFIX,aliyundrive.com,PROXY
-DOMAIN-SUFFIX,aliyundrive.net,PROXY
-DOMAIN-SUFFIX,yunpan.aliyun.com,PROXY
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.cloud
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,yunpan.aliyun.com
 #end include:aliyun-drive
 #include:cowtransfer
 # 奶牛快传
 ## 蜀ICP备14008877号
-DOMAIN-SUFFIX,c-t.work,PROXY
+DOMAIN-SUFFIX,c-t.work
 ## 闽ICP备2021013850号
-DOMAIN-SUFFIX,cowcs.com,PROXY
-DOMAIN-SUFFIX,cowtransfer.com,PROXY
+DOMAIN-SUFFIX,cowcs.com
+DOMAIN-SUFFIX,cowtransfer.com
 #end include:cowtransfer
 #include:lanzou
-DOMAIN-SUFFIX,baidupan.com,PROXY
-DOMAIN-SUFFIX,ilanzou.com,PROXY
-DOMAIN-SUFFIX,lanosso.com,PROXY
-DOMAIN-SUFFIX,lanrar.com,PROXY
-DOMAIN-SUFFIX,lanzou.com,PROXY
-DOMAIN-SUFFIX,lanzoub.com,PROXY
-DOMAIN-SUFFIX,lanzouc.com,PROXY
-DOMAIN-SUFFIX,lanzoue.com,PROXY
-DOMAIN-SUFFIX,lanzouf.com,PROXY
-DOMAIN-SUFFIX,lanzoug.com,PROXY
-DOMAIN-SUFFIX,lanzouh.com,PROXY
-DOMAIN-SUFFIX,lanzoui.com,PROXY
-DOMAIN-SUFFIX,lanzouj.com,PROXY
-DOMAIN-SUFFIX,lanzouk.com,PROXY
-DOMAIN-SUFFIX,lanzoul.com,PROXY
-DOMAIN-SUFFIX,lanzoum.com,PROXY
-DOMAIN-SUFFIX,lanzouo.com,PROXY
-DOMAIN-SUFFIX,lanzoup.com,PROXY
-DOMAIN-SUFFIX,lanzouq.com,PROXY
-DOMAIN-SUFFIX,lanzous.com,PROXY
-DOMAIN-SUFFIX,lanzout.com,PROXY
-DOMAIN-SUFFIX,lanzouu.com,PROXY
-DOMAIN-SUFFIX,lanzouv.com,PROXY
-DOMAIN-SUFFIX,lanzouw.com,PROXY
-DOMAIN-SUFFIX,lanzoux.com,PROXY
-DOMAIN-SUFFIX,lanzouy.com,PROXY
-DOMAIN-SUFFIX,lanzov.com,PROXY
-DOMAIN-SUFFIX,woozooo.com,PROXY
+DOMAIN-SUFFIX,baidupan.com
+DOMAIN-SUFFIX,ilanzou.com
+DOMAIN-SUFFIX,lanosso.com
+DOMAIN-SUFFIX,lanrar.com
+DOMAIN-SUFFIX,lanzou.com
+DOMAIN-SUFFIX,lanzoub.com
+DOMAIN-SUFFIX,lanzouc.com
+DOMAIN-SUFFIX,lanzoue.com
+DOMAIN-SUFFIX,lanzouf.com
+DOMAIN-SUFFIX,lanzoug.com
+DOMAIN-SUFFIX,lanzouh.com
+DOMAIN-SUFFIX,lanzoui.com
+DOMAIN-SUFFIX,lanzouj.com
+DOMAIN-SUFFIX,lanzouk.com
+DOMAIN-SUFFIX,lanzoul.com
+DOMAIN-SUFFIX,lanzoum.com
+DOMAIN-SUFFIX,lanzouo.com
+DOMAIN-SUFFIX,lanzoup.com
+DOMAIN-SUFFIX,lanzouq.com
+DOMAIN-SUFFIX,lanzous.com
+DOMAIN-SUFFIX,lanzout.com
+DOMAIN-SUFFIX,lanzouu.com
+DOMAIN-SUFFIX,lanzouv.com
+DOMAIN-SUFFIX,lanzouw.com
+DOMAIN-SUFFIX,lanzoux.com
+DOMAIN-SUFFIX,lanzouy.com
+DOMAIN-SUFFIX,lanzov.com
+DOMAIN-SUFFIX,woozooo.com
 #end include:lanzou
 #include:wenshushu
 # 成都字节星云科技有限公司 蜀ICP备19024011号
-DOMAIN-SUFFIX,wenshushu.cn,PROXY
-DOMAIN-SUFFIX,wenshushu.com,PROXY
-DOMAIN-SUFFIX,wenxiaozhan.cn,PROXY
-DOMAIN-SUFFIX,wenxiaozhan.com,PROXY
-DOMAIN-SUFFIX,wenxiaozhan.net,PROXY
-DOMAIN-SUFFIX,wss.cc,PROXY
-DOMAIN-SUFFIX,wss.email,PROXY
-DOMAIN-SUFFIX,wss.ink,PROXY
-DOMAIN-SUFFIX,wss.pet,PROXY
-DOMAIN-SUFFIX,wss.show,PROXY
-DOMAIN-SUFFIX,wss.zone,PROXY
-DOMAIN-SUFFIX,wss1.cn,PROXY
+DOMAIN-SUFFIX,wenshushu.cn
+DOMAIN-SUFFIX,wenshushu.com
+DOMAIN-SUFFIX,wenxiaozhan.cn
+DOMAIN-SUFFIX,wenxiaozhan.com
+DOMAIN-SUFFIX,wenxiaozhan.net
+DOMAIN-SUFFIX,wss.cc
+DOMAIN-SUFFIX,wss.email
+DOMAIN-SUFFIX,wss.ink
+DOMAIN-SUFFIX,wss.pet
+DOMAIN-SUFFIX,wss.show
+DOMAIN-SUFFIX,wss.zone
+DOMAIN-SUFFIX,wss1.cn
 #end include:wenshushu
 
 # 123云盘
-DOMAIN-SUFFIX,123pan.cn,PROXY
-DOMAIN-SUFFIX,123pan.com,PROXY
-DOMAIN-SUFFIX,123panpay.com,PROXY
-DOMAIN-SUFFIX,123957.com,PROXY
-DOMAIN-SUFFIX,123912.com,PROXY
-DOMAIN-SUFFIX,123860.com,PROXY
-DOMAIN-SUFFIX,123842.com,PROXY
-DOMAIN-SUFFIX,123641.com,PROXY
-DOMAIN-SUFFIX,123624.com,PROXY
-DOMAIN-SUFFIX,123294.com,PROXY
-DOMAIN-SUFFIX,123254.com,PROXY
-DOMAIN-SUFFIX,123245.com,PROXY
-DOMAIN-SUFFIX,123952.com,PROXY
+DOMAIN-SUFFIX,123pan.cn
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,123panpay.com
+DOMAIN-SUFFIX,123957.com
+DOMAIN-SUFFIX,123912.com
+DOMAIN-SUFFIX,123860.com
+DOMAIN-SUFFIX,123842.com
+DOMAIN-SUFFIX,123641.com
+DOMAIN-SUFFIX,123624.com
+DOMAIN-SUFFIX,123294.com
+DOMAIN-SUFFIX,123254.com
+DOMAIN-SUFFIX,123245.com
+DOMAIN-SUFFIX,123952.com
 
-DOMAIN-SUFFIX,cloud.189.cn,PROXY    #天翼云盘
-DOMAIN-SUFFIX,ctfile.com,PROXY    #城通网盘
-DOMAIN-SUFFIX,feimaoyun.com,PROXY    #飞猫盘
-DOMAIN-SUFFIX,filez.com,PROXY    #联想企业网盘
-DOMAIN-SUFFIX,jianguoyun.com,PROXY    #坚果云
-DOMAIN-SUFFIX,pan.baidu.com,PROXY    #百度网盘
-DOMAIN-SUFFIX,pan.quark.cn,PROXY    #夸克网盘
-DOMAIN-SUFFIX,pan.xunlei.com,PROXY    #迅雷云盘
-DOMAIN-SUFFIX,weiyun.com,PROXY    #微云
-DOMAIN-SUFFIX,yun.139.com,PROXY    #中国移动云盘
-DOMAIN-SUFFIX,yunpan.com,PROXY    #360安全云盘
+DOMAIN-SUFFIX,cloud.189.cn    #天翼云盘
+DOMAIN-SUFFIX,ctfile.com    #城通网盘
+DOMAIN-SUFFIX,feimaoyun.com    #飞猫盘
+DOMAIN-SUFFIX,filez.com    #联想企业网盘
+DOMAIN-SUFFIX,jianguoyun.com    #坚果云
+DOMAIN-SUFFIX,pan.baidu.com    #百度网盘
+DOMAIN-SUFFIX,pan.quark.cn    #夸克网盘
+DOMAIN-SUFFIX,pan.xunlei.com    #迅雷云盘
+DOMAIN-SUFFIX,weiyun.com    #微云
+DOMAIN-SUFFIX,yun.139.com    #中国移动云盘
+DOMAIN-SUFFIX,yunpan.com    #360安全云盘

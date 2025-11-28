@@ -3,538 +3,538 @@
 #include:category-scholar-ir
 # Iranian scholar websites
 
-DOMAIN-SUFFIX,ac.ir,PROXY
-DOMAIN-SUFFIX,edu.ir,PROXY
-DOMAIN-SUFFIX,iau.ac.ir,PROXY
-DOMAIN-SUFFIX,iranlms.ir,PROXY
-DOMAIN-SUFFIX,jtt.ir,PROXY
-DOMAIN-SUFFIX,sanjesh.org,PROXY
-DOMAIN-SUFFIX,sharif.edu,PROXY
-DOMAIN-SUFFIX,sharif.ir,PROXY
-DOMAIN-SUFFIX,srttu.edu,PROXY
+DOMAIN-SUFFIX,ac.ir
+DOMAIN-SUFFIX,edu.ir
+DOMAIN-SUFFIX,iau.ac.ir
+DOMAIN-SUFFIX,iranlms.ir
+DOMAIN-SUFFIX,jtt.ir
+DOMAIN-SUFFIX,sanjesh.org
+DOMAIN-SUFFIX,sharif.edu
+DOMAIN-SUFFIX,sharif.ir
+DOMAIN-SUFFIX,srttu.edu
 #end include:category-scholar-ir
 #include:category-scholar-uk
 # This list contains scholarly domains that in UK
 
 #include:cambridge
-DOMAIN-SUFFIX,cam.ac.uk,PROXY
-DOMAIN-SUFFIX,cambridge.org,PROXY
-DOMAIN-SUFFIX,cambridgeschoolshakespeare.com,PROXY
-DOMAIN-SUFFIX,cambridgedigital.net,PROXY
-DOMAIN-SUFFIX,cambridgemaths.org,PROXY
-DOMAIN-SUFFIX,ccdc.cam.ac.uk,PROXY    #The Cambridge Structural Database
-DOMAIN-SUFFIX,dlib.eastview.com,PROXY    #Cambridge Archive Editions Online 剑桥档案编研
+DOMAIN-SUFFIX,cam.ac.uk
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
+DOMAIN-SUFFIX,cambridgedigital.net
+DOMAIN-SUFFIX,cambridgemaths.org
+DOMAIN-SUFFIX,ccdc.cam.ac.uk    #The Cambridge Structural Database
+DOMAIN-SUFFIX,dlib.eastview.com    #Cambridge Archive Editions Online 剑桥档案编研
 #end include:cambridge
 #include:imperialcollege
-DOMAIN-SUFFIX,ic.ac.uk,PROXY
-DOMAIN-SUFFIX,imperial.ac.uk,PROXY
-DOMAIN-SUFFIX,imperialbusiness.school,PROXY
+DOMAIN-SUFFIX,ic.ac.uk
+DOMAIN-SUFFIX,imperial.ac.uk
+DOMAIN-SUFFIX,imperialbusiness.school
 
-DOMAIN,imperial.insendi.com,PROXY
+DOMAIN,imperial.insendi.com
 #end include:imperialcollege
 #include:oup
-DOMAIN-SUFFIX,amamanualofstyle.com,PROXY
-DOMAIN-SUFFIX,anb.org,PROXY
-DOMAIN-SUFFIX,blackstonespoliceservice.com,PROXY
-DOMAIN-SUFFIX,epigeum.com,PROXY
-DOMAIN-SUFFIX,oed.com,PROXY
-DOMAIN-SUFFIX,omscr.com,PROXY
-DOMAIN-SUFFIX,oup.com,PROXY
-DOMAIN-SUFFIX,ouplaw.com,PROXY
-DOMAIN-SUFFIX,ox.ac.uk,PROXY
-DOMAIN-SUFFIX,oxfordaasc.com,PROXY
-DOMAIN-SUFFIX,oxfordartonline.com,PROXY
-DOMAIN-SUFFIX,oxfordbibliographies.com,PROXY
-DOMAIN-SUFFIX,oxfordclinicalpsych.com,PROXY
-DOMAIN-SUFFIX,oxforddnb.com,PROXY
-DOMAIN-SUFFIX,oxfordfirstsource.com,PROXY
-DOMAIN-SUFFIX,oxfordhandbooks.com,PROXY
-DOMAIN-SUFFIX,oxfordlawtrove.com,PROXY
-DOMAIN-SUFFIX,oxfordmedicine.com,PROXY
-DOMAIN-SUFFIX,oxfordmusiconline.com,PROXY
-DOMAIN-SUFFIX,oxfordpoliticstrove.com,PROXY
-DOMAIN-SUFFIX,oxfordre.com,PROXY
-DOMAIN-SUFFIX,oxfordreference.com,PROXY
-DOMAIN-SUFFIX,oxfordscholarlyeditions.com,PROXY
-DOMAIN-SUFFIX,oxfordscholarship.com,PROXY
-DOMAIN-SUFFIX,oxfordwesternmusic.com,PROXY
-DOMAIN-SUFFIX,sipriyearbook.org,PROXY
-DOMAIN-SUFFIX,ukwhoswho.com,PROXY
-DOMAIN-SUFFIX,universitypressscholarship.com,PROXY
-DOMAIN-SUFFIX,veryshortintroductions.com,PROXY
+DOMAIN-SUFFIX,amamanualofstyle.com
+DOMAIN-SUFFIX,anb.org
+DOMAIN-SUFFIX,blackstonespoliceservice.com
+DOMAIN-SUFFIX,epigeum.com
+DOMAIN-SUFFIX,oed.com
+DOMAIN-SUFFIX,omscr.com
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,ouplaw.com
+DOMAIN-SUFFIX,ox.ac.uk
+DOMAIN-SUFFIX,oxfordaasc.com
+DOMAIN-SUFFIX,oxfordartonline.com
+DOMAIN-SUFFIX,oxfordbibliographies.com
+DOMAIN-SUFFIX,oxfordclinicalpsych.com
+DOMAIN-SUFFIX,oxforddnb.com
+DOMAIN-SUFFIX,oxfordfirstsource.com
+DOMAIN-SUFFIX,oxfordhandbooks.com
+DOMAIN-SUFFIX,oxfordlawtrove.com
+DOMAIN-SUFFIX,oxfordmedicine.com
+DOMAIN-SUFFIX,oxfordmusiconline.com
+DOMAIN-SUFFIX,oxfordpoliticstrove.com
+DOMAIN-SUFFIX,oxfordre.com
+DOMAIN-SUFFIX,oxfordreference.com
+DOMAIN-SUFFIX,oxfordscholarlyeditions.com
+DOMAIN-SUFFIX,oxfordscholarship.com
+DOMAIN-SUFFIX,oxfordwesternmusic.com
+DOMAIN-SUFFIX,sipriyearbook.org
+DOMAIN-SUFFIX,ukwhoswho.com
+DOMAIN-SUFFIX,universitypressscholarship.com
+DOMAIN-SUFFIX,veryshortintroductions.com
 #end include:oup
 
 # https://iridis.uk/ac-uk-domain-registration/
 # https://community.jisc.ac.uk/library/janet-services-documentation/terms-and-conditions-acuk
-DOMAIN-SUFFIX,ac.uk,PROXY
+DOMAIN-SUFFIX,ac.uk
 #end include:category-scholar-uk
 #include:apa
-DOMAIN-SUFFIX,apa.org,PROXY
-DOMAIN-SUFFIX,psyccareers.com,PROXY
+DOMAIN-SUFFIX,apa.org
+DOMAIN-SUFFIX,psyccareers.com
 #end include:apa
 #include:clarivate
 # Clarivate Analytics is a company that owns and operates a collection of subscription-based services focused largely on analytics, including scientific and academic research, patent analytics, regulatory standards, trademark protection, pharmaceutical and biotechnology intelligence, domain brand protection and intellectual property management.
 
-DOMAIN-SUFFIX,newisiknowledge.com,PROXY
-DOMAIN-SUFFIX,isiknowledge.com,PROXY
+DOMAIN-SUFFIX,newisiknowledge.com
+DOMAIN-SUFFIX,isiknowledge.com
 #end include:sci
 
-DOMAIN-SUFFIX,clarivate.com,PROXY
-DOMAIN-SUFFIX,webofknowledge.com,PROXY
-DOMAIN-SUFFIX,webofscience.com,PROXY
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,webofscience.com
 #end include:clarivate
 #include:doi
-DOMAIN-SUFFIX,doi.org,PROXY
-DOMAIN-SUFFIX,doi.info,PROXY
+DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,doi.info
 #end include:doi
 #include:elsevier
 # Elsevier's website,  One of the largest academic publishing companies
 
-DOMAIN-SUFFIX,cell.com,PROXY
-DOMAIN-SUFFIX,clinicalkey.com,PROXY
-DOMAIN-SUFFIX,els-cdn.com,PROXY
-DOMAIN-SUFFIX,elsevier-ae.com,PROXY
-DOMAIN-SUFFIX,elsevier.com,PROXY
-DOMAIN-SUFFIX,elsevier.io,PROXY
-DOMAIN-SUFFIX,engineeringvillage.com,PROXY
-DOMAIN-SUFFIX,evise.com,PROXY
-DOMAIN-SUFFIX,fundinginstitutional.com,PROXY
-DOMAIN-SUFFIX,knovel.com,PROXY
-DOMAIN-SUFFIX,mendeley.com,PROXY
-DOMAIN-SUFFIX,reaxys.com,PROXY
-DOMAIN-SUFFIX,scival.com,PROXY
-DOMAIN-SUFFIX,scopus.com,PROXY
+DOMAIN-SUFFIX,cell.com
+DOMAIN-SUFFIX,clinicalkey.com
+DOMAIN-SUFFIX,els-cdn.com
+DOMAIN-SUFFIX,elsevier-ae.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,elsevier.io
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,evise.com
+DOMAIN-SUFFIX,fundinginstitutional.com
+DOMAIN-SUFFIX,knovel.com
+DOMAIN-SUFFIX,mendeley.com
+DOMAIN-SUFFIX,reaxys.com
+DOMAIN-SUFFIX,scival.com
+DOMAIN-SUFFIX,scopus.com
 #end include:elsevier
 #include:google-scholar
-DOMAIN,scholar.google.ae,PROXY
-DOMAIN,scholar.google.at,PROXY
-DOMAIN,scholar.google.be,PROXY
-DOMAIN,scholar.google.bg,PROXY
-DOMAIN,scholar.google.ca,PROXY
-DOMAIN,scholar.google.cat,PROXY
-DOMAIN,scholar.google.ch,PROXY
-DOMAIN,scholar.google.cl,PROXY
-DOMAIN,scholar.google.cn,PROXY
-DOMAIN,scholar.google.co.cr,PROXY
-DOMAIN,scholar.google.co.id,PROXY
-DOMAIN,scholar.google.co.il,PROXY
-DOMAIN,scholar.google.co.in,PROXY
-DOMAIN,scholar.google.co.jp,PROXY
-DOMAIN,scholar.google.co.kr,PROXY
-DOMAIN,scholar.google.co.nz,PROXY
-DOMAIN,scholar.google.co.th,PROXY
-DOMAIN,scholar.google.co.uk,PROXY
-DOMAIN,scholar.google.co.ve,PROXY
-DOMAIN,scholar.google.co.za,PROXY
-DOMAIN,scholar.google.com,PROXY
-DOMAIN,scholar.google.com.ar,PROXY
-DOMAIN,scholar.google.com.au,PROXY
-DOMAIN,scholar.google.com.bo,PROXY
-DOMAIN,scholar.google.com.br,PROXY
-DOMAIN,scholar.google.com.co,PROXY
-DOMAIN,scholar.google.com.cu,PROXY
-DOMAIN,scholar.google.com.do,PROXY
-DOMAIN,scholar.google.com.ec,PROXY
-DOMAIN,scholar.google.com.eg,PROXY
-DOMAIN,scholar.google.com.gt,PROXY
-DOMAIN,scholar.google.com.hk,PROXY
-DOMAIN,scholar.google.com.ly,PROXY
-DOMAIN,scholar.google.com.mx,PROXY
-DOMAIN,scholar.google.com.my,PROXY
-DOMAIN,scholar.google.com.ni,PROXY
-DOMAIN,scholar.google.com.pa,PROXY
-DOMAIN,scholar.google.com.pe,PROXY
-DOMAIN,scholar.google.com.ph,PROXY
-DOMAIN,scholar.google.com.pk,PROXY
-DOMAIN,scholar.google.com.pr,PROXY
-DOMAIN,scholar.google.com.py,PROXY
-DOMAIN,scholar.google.com.sg,PROXY
-DOMAIN,scholar.google.com.sv,PROXY
-DOMAIN,scholar.google.com.tr,PROXY
-DOMAIN,scholar.google.com.tw,PROXY
-DOMAIN,scholar.google.com.ua,PROXY
-DOMAIN,scholar.google.com.uy,PROXY
-DOMAIN,scholar.google.com.vn,PROXY
-DOMAIN,scholar.google.cz,PROXY
-DOMAIN,scholar.google.de,PROXY
-DOMAIN,scholar.google.dk,PROXY
-DOMAIN,scholar.google.es,PROXY
-DOMAIN,scholar.google.fi,PROXY
-DOMAIN,scholar.google.fr,PROXY
-DOMAIN,scholar.google.gr,PROXY
-DOMAIN,scholar.google.hn,PROXY
-DOMAIN,scholar.google.hr,PROXY
-DOMAIN,scholar.google.hu,PROXY
-DOMAIN,scholar.google.is,PROXY
-DOMAIN,scholar.google.it,PROXY
-DOMAIN,scholar.google.li,PROXY
-DOMAIN,scholar.google.lt,PROXY
-DOMAIN,scholar.google.lu,PROXY
-DOMAIN,scholar.google.lv,PROXY
-DOMAIN,scholar.google.nl,PROXY
-DOMAIN,scholar.google.no,PROXY
-DOMAIN,scholar.google.pl,PROXY
-DOMAIN,scholar.google.pt,PROXY
-DOMAIN,scholar.google.ro,PROXY
-DOMAIN,scholar.google.ru,PROXY
-DOMAIN,scholar.google.se,PROXY
-DOMAIN,scholar.google.si,PROXY
-DOMAIN,scholar.google.sk,PROXY
-DOMAIN,scholar.googleusercontent.com,PROXY
-DOMAIN,scholar.l.google.com,PROXY
+DOMAIN,scholar.google.ae
+DOMAIN,scholar.google.at
+DOMAIN,scholar.google.be
+DOMAIN,scholar.google.bg
+DOMAIN,scholar.google.ca
+DOMAIN,scholar.google.cat
+DOMAIN,scholar.google.ch
+DOMAIN,scholar.google.cl
+DOMAIN,scholar.google.cn
+DOMAIN,scholar.google.co.cr
+DOMAIN,scholar.google.co.id
+DOMAIN,scholar.google.co.il
+DOMAIN,scholar.google.co.in
+DOMAIN,scholar.google.co.jp
+DOMAIN,scholar.google.co.kr
+DOMAIN,scholar.google.co.nz
+DOMAIN,scholar.google.co.th
+DOMAIN,scholar.google.co.uk
+DOMAIN,scholar.google.co.ve
+DOMAIN,scholar.google.co.za
+DOMAIN,scholar.google.com
+DOMAIN,scholar.google.com.ar
+DOMAIN,scholar.google.com.au
+DOMAIN,scholar.google.com.bo
+DOMAIN,scholar.google.com.br
+DOMAIN,scholar.google.com.co
+DOMAIN,scholar.google.com.cu
+DOMAIN,scholar.google.com.do
+DOMAIN,scholar.google.com.ec
+DOMAIN,scholar.google.com.eg
+DOMAIN,scholar.google.com.gt
+DOMAIN,scholar.google.com.hk
+DOMAIN,scholar.google.com.ly
+DOMAIN,scholar.google.com.mx
+DOMAIN,scholar.google.com.my
+DOMAIN,scholar.google.com.ni
+DOMAIN,scholar.google.com.pa
+DOMAIN,scholar.google.com.pe
+DOMAIN,scholar.google.com.ph
+DOMAIN,scholar.google.com.pk
+DOMAIN,scholar.google.com.pr
+DOMAIN,scholar.google.com.py
+DOMAIN,scholar.google.com.sg
+DOMAIN,scholar.google.com.sv
+DOMAIN,scholar.google.com.tr
+DOMAIN,scholar.google.com.tw
+DOMAIN,scholar.google.com.ua
+DOMAIN,scholar.google.com.uy
+DOMAIN,scholar.google.com.vn
+DOMAIN,scholar.google.cz
+DOMAIN,scholar.google.de
+DOMAIN,scholar.google.dk
+DOMAIN,scholar.google.es
+DOMAIN,scholar.google.fi
+DOMAIN,scholar.google.fr
+DOMAIN,scholar.google.gr
+DOMAIN,scholar.google.hn
+DOMAIN,scholar.google.hr
+DOMAIN,scholar.google.hu
+DOMAIN,scholar.google.is
+DOMAIN,scholar.google.it
+DOMAIN,scholar.google.li
+DOMAIN,scholar.google.lt
+DOMAIN,scholar.google.lu
+DOMAIN,scholar.google.lv
+DOMAIN,scholar.google.nl
+DOMAIN,scholar.google.no
+DOMAIN,scholar.google.pl
+DOMAIN,scholar.google.pt
+DOMAIN,scholar.google.ro
+DOMAIN,scholar.google.ru
+DOMAIN,scholar.google.se
+DOMAIN,scholar.google.si
+DOMAIN,scholar.google.sk
+DOMAIN,scholar.googleusercontent.com
+DOMAIN,scholar.l.google.com
 #end include:google-scholar
 #include:ieee
-DOMAIN-SUFFIX,ieee.org,PROXY
-DOMAIN-SUFFIX,ieee.tv,PROXY
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieee.tv
 
 # Co-sponsored
-DOMAIN-SUFFIX,tryengineering.org,PROXY
+DOMAIN-SUFFIX,tryengineering.org
 
 # Conference & Event
-DOMAIN-SUFFIX,ieee-ccnc.org,PROXY
-DOMAIN-SUFFIX,ieee-ecce.org,PROXY
-DOMAIN-SUFFIX,ieeemce.org,PROXY
+DOMAIN-SUFFIX,ieee-ccnc.org
+DOMAIN-SUFFIX,ieee-ecce.org
+DOMAIN-SUFFIX,ieeemce.org
 
 # Education and career
-DOMAIN-SUFFIX,standardsuniversity.org,PROXY
+DOMAIN-SUFFIX,standardsuniversity.org
 
 # Geographic Activities
-DOMAIN-SUFFIX,ieee-region6.org,PROXY
-DOMAIN-SUFFIX,ieee.ca,PROXY
-DOMAIN-SUFFIX,ieeer10.org,PROXY
-DOMAIN-SUFFIX,ieeer5.org,PROXY
-DOMAIN-SUFFIX,ieeer8.org,PROXY
-DOMAIN-SUFFIX,ieeeusa.org,PROXY
+DOMAIN-SUFFIX,ieee-region6.org
+DOMAIN-SUFFIX,ieee.ca
+DOMAIN-SUFFIX,ieeer10.org
+DOMAIN-SUFFIX,ieeer5.org
+DOMAIN-SUFFIX,ieeer8.org
+DOMAIN-SUFFIX,ieeeusa.org
 
 # Humanitarian Program
-DOMAIN-SUFFIX,ieeefoundation.org,PROXY
+DOMAIN-SUFFIX,ieeefoundation.org
 
 # Other
-DOMAIN-SUFFIX,ieee-into-focus.org,PROXY
-DOMAIN-SUFFIX,ieee-vics.org,PROXY
-DOMAIN-SUFFIX,ieeeday.org,PROXY
+DOMAIN-SUFFIX,ieee-into-focus.org
+DOMAIN-SUFFIX,ieee-vics.org
+DOMAIN-SUFFIX,ieeeday.org
 
 # Publications, Products, & Services
-DOMAIN-SUFFIX,datasheets360.com,PROXY
-DOMAIN-SUFFIX,globalspec.com,PROXY
-DOMAIN-SUFFIX,ieee-isto.org,PROXY
-DOMAIN-SUFFIX,techstreet.com,PROXY
+DOMAIN-SUFFIX,datasheets360.com
+DOMAIN-SUFFIX,globalspec.com
+DOMAIN-SUFFIX,ieee-isto.org
+DOMAIN-SUFFIX,techstreet.com
 
 # Society & Council
-DOMAIN-SUFFIX,computer.org,PROXY
-DOMAIN-SUFFIX,comsoc.org,PROXY
-DOMAIN-SUFFIX,embs.org,PROXY
-DOMAIN-SUFFIX,emcs.org,PROXY
-DOMAIN-SUFFIX,grss-ieee.org,PROXY
-DOMAIN-SUFFIX,ieee-aess.org,PROXY
-DOMAIN-SUFFIX,ieee-cas.org,PROXY
-DOMAIN-SUFFIX,ieee-ceda.org,PROXY
-DOMAIN-SUFFIX,ieee-edusociety.org,PROXY
-DOMAIN-SUFFIX,ieee-ies.org,PROXY
-DOMAIN-SUFFIX,ieee-ims.org,PROXY
-DOMAIN-SUFFIX,ieee-npss.org,PROXY
-DOMAIN-SUFFIX,ieee-pels.org,PROXY
-DOMAIN-SUFFIX,ieee-pes.org,PROXY
-DOMAIN-SUFFIX,ieee-ras.org,PROXY
-DOMAIN-SUFFIX,ieee-sensors.org,PROXY
-DOMAIN-SUFFIX,ieee-tems.org,PROXY
-DOMAIN-SUFFIX,ieee-uffc.org,PROXY
-DOMAIN-SUFFIX,ieeeaps.org,PROXY
-DOMAIN-SUFFIX,ieeecsc.org,PROXY
-DOMAIN-SUFFIX,ieeecss.org,PROXY
-DOMAIN-SUFFIX,ieeedeis.org,PROXY
-DOMAIN-SUFFIX,ieeemagnetics.org,PROXY
-DOMAIN-SUFFIX,ieeenano.org,PROXY
-DOMAIN-SUFFIX,ieeeoes.org,PROXY
-DOMAIN-SUFFIX,ieeesmc.org,PROXY
-DOMAIN-SUFFIX,ieeesystemscouncil.org,PROXY
-DOMAIN-SUFFIX,itsoc.org,PROXY
-DOMAIN-SUFFIX,mtt.org,PROXY
-DOMAIN-SUFFIX,photonicssociety.org,PROXY
-DOMAIN-SUFFIX,signalprocessingsociety.org,PROXY
-DOMAIN-SUFFIX,technologyandsociety.org,PROXY
-DOMAIN-SUFFIX,vtsociety.org,PROXY
+DOMAIN-SUFFIX,computer.org
+DOMAIN-SUFFIX,comsoc.org
+DOMAIN-SUFFIX,embs.org
+DOMAIN-SUFFIX,emcs.org
+DOMAIN-SUFFIX,grss-ieee.org
+DOMAIN-SUFFIX,ieee-aess.org
+DOMAIN-SUFFIX,ieee-cas.org
+DOMAIN-SUFFIX,ieee-ceda.org
+DOMAIN-SUFFIX,ieee-edusociety.org
+DOMAIN-SUFFIX,ieee-ies.org
+DOMAIN-SUFFIX,ieee-ims.org
+DOMAIN-SUFFIX,ieee-npss.org
+DOMAIN-SUFFIX,ieee-pels.org
+DOMAIN-SUFFIX,ieee-pes.org
+DOMAIN-SUFFIX,ieee-ras.org
+DOMAIN-SUFFIX,ieee-sensors.org
+DOMAIN-SUFFIX,ieee-tems.org
+DOMAIN-SUFFIX,ieee-uffc.org
+DOMAIN-SUFFIX,ieeeaps.org
+DOMAIN-SUFFIX,ieeecsc.org
+DOMAIN-SUFFIX,ieeecss.org
+DOMAIN-SUFFIX,ieeedeis.org
+DOMAIN-SUFFIX,ieeemagnetics.org
+DOMAIN-SUFFIX,ieeenano.org
+DOMAIN-SUFFIX,ieeeoes.org
+DOMAIN-SUFFIX,ieeesmc.org
+DOMAIN-SUFFIX,ieeesystemscouncil.org
+DOMAIN-SUFFIX,itsoc.org
+DOMAIN-SUFFIX,mtt.org
+DOMAIN-SUFFIX,photonicssociety.org
+DOMAIN-SUFFIX,signalprocessingsociety.org
+DOMAIN-SUFFIX,technologyandsociety.org
+DOMAIN-SUFFIX,vtsociety.org
 #end include:ieee
 #include:knovel
-DOMAIN-SUFFIX,knovel.com,PROXY
+DOMAIN-SUFFIX,knovel.com
 #end include:knovel
 #include:mit
 # All .mit domains
-DOMAIN-SUFFIX,mit,PROXY
+DOMAIN-SUFFIX,mit
 
-DOMAIN-SUFFIX,mit.edu,PROXY
-DOMAIN-SUFFIX,mit.net,PROXY
-DOMAIN-SUFFIX,mitpressjournals.org,PROXY
+DOMAIN-SUFFIX,mit.edu
+DOMAIN-SUFFIX,mit.net
+DOMAIN-SUFFIX,mitpressjournals.org
 #end include:mit
 #include:proquest
-DOMAIN-SUFFIX,serialssolutions.com,PROXY
-DOMAIN-SUFFIX,proquest.com,PROXY
+DOMAIN-SUFFIX,serialssolutions.com
+DOMAIN-SUFFIX,proquest.com
 #end include:proquest
 #include:sci-hub
 # Official site
-DOMAIN-SUFFIX,sci-hub.se,PROXY
+DOMAIN-SUFFIX,sci-hub.se
 
 # Mirrors from the official site
-DOMAIN-SUFFIX,sci-hub.ee,PROXY
-DOMAIN-SUFFIX,sci-hub.it.nf,PROXY
-DOMAIN-SUFFIX,sci-hub.mksa.top,PROXY
-DOMAIN-SUFFIX,sci-hub.st,PROXY
-DOMAIN-SUFFIX,sci.hubg.org,PROXY
+DOMAIN-SUFFIX,sci-hub.ee
+DOMAIN-SUFFIX,sci-hub.it.nf
+DOMAIN-SUFFIX,sci-hub.mksa.top
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci.hubg.org
 #end include:sci-hub
 #include:sciencedirect
-DOMAIN-SUFFIX,sciencedirect.com,PROXY
-DOMAIN-SUFFIX,sciencedirectassets.com,PROXY
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,sciencedirectassets.com
 #end include:sciencedirect
 #include:springer
-DOMAIN-SUFFIX,apress.com,PROXY
-DOMAIN-SUFFIX,springer.com,PROXY
-DOMAIN-SUFFIX,springerlink.com,PROXY
-DOMAIN-SUFFIX,springernature.com,PROXY
-DOMAIN-SUFFIX,wkap.nl,PROXY
+DOMAIN-SUFFIX,apress.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,wkap.nl
 #end include:springer
 #include:taylorfrancis
-DOMAIN-SUFFIX,tandf.co.uk,PROXY
-DOMAIN-SUFFIX,tandfonline.com,PROXY
-DOMAIN-SUFFIX,taylorandfrancis.com,PROXY
-DOMAIN-SUFFIX,taylorfrancis.com,PROXY
+DOMAIN-SUFFIX,tandf.co.uk
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,taylorandfrancis.com
+DOMAIN-SUFFIX,taylorfrancis.com
 #end include:taylorfrancis
 #include:z-library
-DOMAIN-SUFFIX,1lib.cloud,PROXY
-DOMAIN-SUFFIX,1lib.cz,PROXY
-DOMAIN-SUFFIX,1lib.domains,PROXY
-DOMAIN-SUFFIX,1lib.education,PROXY
-DOMAIN-SUFFIX,1lib.eu,PROXY
-DOMAIN-SUFFIX,1lib.limited,PROXY
-DOMAIN-SUFFIX,1lib.pl,PROXY
-DOMAIN-SUFFIX,1lib.sk,PROXY
-DOMAIN-SUFFIX,1lib.to,PROXY
-DOMAIN-SUFFIX,1lib.tw,PROXY
-DOMAIN-SUFFIX,2lib.org,PROXY
-DOMAIN-SUFFIX,3lib.net,PROXY
-DOMAIN-SUFFIX,art1lib.com,PROXY
-DOMAIN-SUFFIX,b-ok.africa,PROXY
-DOMAIN-SUFFIX,b-ok.asia,PROXY
-DOMAIN-SUFFIX,b-ok.cc,PROXY
-DOMAIN-SUFFIX,b-ok.global,PROXY
-DOMAIN-SUFFIX,b-ok.org,PROXY
-DOMAIN-SUFFIX,book4you.org,PROXY
-DOMAIN-SUFFIX,bookfi.net,PROXY
-DOMAIN-SUFFIX,booksc.eu,PROXY
-DOMAIN-SUFFIX,booksc.me,PROXY
-DOMAIN-SUFFIX,booksc.org,PROXY
-DOMAIN-SUFFIX,booksc.xyz,PROXY
-DOMAIN-SUFFIX,bookshome.info,PROXY
-DOMAIN-SUFFIX,bookshome.net,PROXY
-DOMAIN-SUFFIX,bookshome.world,PROXY
-DOMAIN-SUFFIX,de1lib.org,PROXY
-DOMAIN-SUFFIX,dln1.ncdn.ec,PROXY
-DOMAIN-SUFFIX,hk1lib.org,PROXY
-DOMAIN-SUFFIX,libsolutions.app,PROXY
-DOMAIN-SUFFIX,libsolutions.domains,PROXY
-DOMAIN-SUFFIX,libsolutions.net,PROXY
-DOMAIN-SUFFIX,ma1lib.org,PROXY
-DOMAIN-SUFFIX,sg1lib.org,PROXY
-DOMAIN-SUFFIX,singlelogin.app,PROXY
-DOMAIN-SUFFIX,singlelogin.me,PROXY
-DOMAIN-SUFFIX,singlelogin.re,PROXY
-DOMAIN-SUFFIX,singlelogin.site,PROXY
-DOMAIN-SUFFIX,z-lib.fm,PROXY
-DOMAIN-SUFFIX,z-lib.gd,PROXY
-DOMAIN-SUFFIX,z-lib.gl,PROXY
-DOMAIN-SUFFIX,z-lib.org,PROXY
-DOMAIN-SUFFIX,z-library.sk,PROXY
-DOMAIN-SUFFIX,z-library.se,PROXY
-DOMAIN-SUFFIX,zlib.life,PROXY
-DOMAIN-SUFFIX,zlibcdn.com,PROXY
-DOMAIN-SUFFIX,zlibcdn2.com,PROXY
+DOMAIN-SUFFIX,1lib.cloud
+DOMAIN-SUFFIX,1lib.cz
+DOMAIN-SUFFIX,1lib.domains
+DOMAIN-SUFFIX,1lib.education
+DOMAIN-SUFFIX,1lib.eu
+DOMAIN-SUFFIX,1lib.limited
+DOMAIN-SUFFIX,1lib.pl
+DOMAIN-SUFFIX,1lib.sk
+DOMAIN-SUFFIX,1lib.to
+DOMAIN-SUFFIX,1lib.tw
+DOMAIN-SUFFIX,2lib.org
+DOMAIN-SUFFIX,3lib.net
+DOMAIN-SUFFIX,art1lib.com
+DOMAIN-SUFFIX,b-ok.africa
+DOMAIN-SUFFIX,b-ok.asia
+DOMAIN-SUFFIX,b-ok.cc
+DOMAIN-SUFFIX,b-ok.global
+DOMAIN-SUFFIX,b-ok.org
+DOMAIN-SUFFIX,book4you.org
+DOMAIN-SUFFIX,bookfi.net
+DOMAIN-SUFFIX,booksc.eu
+DOMAIN-SUFFIX,booksc.me
+DOMAIN-SUFFIX,booksc.org
+DOMAIN-SUFFIX,booksc.xyz
+DOMAIN-SUFFIX,bookshome.info
+DOMAIN-SUFFIX,bookshome.net
+DOMAIN-SUFFIX,bookshome.world
+DOMAIN-SUFFIX,de1lib.org
+DOMAIN-SUFFIX,dln1.ncdn.ec
+DOMAIN-SUFFIX,hk1lib.org
+DOMAIN-SUFFIX,libsolutions.app
+DOMAIN-SUFFIX,libsolutions.domains
+DOMAIN-SUFFIX,libsolutions.net
+DOMAIN-SUFFIX,ma1lib.org
+DOMAIN-SUFFIX,sg1lib.org
+DOMAIN-SUFFIX,singlelogin.app
+DOMAIN-SUFFIX,singlelogin.me
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,singlelogin.site
+DOMAIN-SUFFIX,z-lib.fm
+DOMAIN-SUFFIX,z-lib.gd
+DOMAIN-SUFFIX,z-lib.gl
+DOMAIN-SUFFIX,z-lib.org
+DOMAIN-SUFFIX,z-library.sk
+DOMAIN-SUFFIX,z-library.se
+DOMAIN-SUFFIX,zlib.life
+DOMAIN-SUFFIX,zlibcdn.com
+DOMAIN-SUFFIX,zlibcdn2.com
 #end include:z-library
 
-DOMAIN-SUFFIX,aacrjournals.org,PROXY    #AACR 美国癌症研究学会
-DOMAIN-SUFFIX,academic.eb.com,PROXY    #Britannica Academic
-DOMAIN-SUFFIX,acaric.co.jp,PROXY    #株式会社アカリク
-DOMAIN-SUFFIX,aclweb.org,PROXY
-DOMAIN-SUFFIX,acm.org,PROXY
-DOMAIN-SUFFIX,acs.org,PROXY
-DOMAIN-SUFFIX,agu.org,PROXY    #American Geophysical Union
-DOMAIN-SUFFIX,aiaa.org,PROXY    #AIAA 美国航空航天学会
-DOMAIN-SUFFIX,aimsciences.org,PROXY    #AIMS 美国科学数学协会期刊库
+DOMAIN-SUFFIX,aacrjournals.org    #AACR 美国癌症研究学会
+DOMAIN-SUFFIX,academic.eb.com    #Britannica Academic
+DOMAIN-SUFFIX,acaric.co.jp    #株式会社アカリク
+DOMAIN-SUFFIX,aclweb.org
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,agu.org    #American Geophysical Union
+DOMAIN-SUFFIX,aiaa.org    #AIAA 美国航空航天学会
+DOMAIN-SUFFIX,aimsciences.org    #AIMS 美国科学数学协会期刊库
 
 # 華藝學術
-DOMAIN-SUFFIX,airiti.com,PROXY
-DOMAIN-SUFFIX,airitilibrary.com,PROXY
+DOMAIN-SUFFIX,airiti.com
+DOMAIN-SUFFIX,airitilibrary.com
 
-DOMAIN-SUFFIX,alexanderstreet.com,PROXY    #Alexander Street
-DOMAIN-SUFFIX,alphaxiv.org,PROXY    #alphaXiv
-DOMAIN-SUFFIX,altmetric.com,PROXY
-DOMAIN-SUFFIX,amdigital.co.uk,PROXY    #Adam Matthew Digital 历史与文化珍稀史料数据库集成
-DOMAIN-SUFFIX,ams.org,PROXY    #美国数学学会
-DOMAIN-SUFFIX,analytictech.com,PROXY
-DOMAIN-SUFFIX,anatomy.tv,PROXY    #digital human anatomy and physiology content
-DOMAIN-SUFFIX,annualreviews.org,PROXY
-DOMAIN-SUFFIX,aps.org,PROXY    #American Physical Society Sites
-DOMAIN-SUFFIX,arabidopsis.org,PROXY
-DOMAIN-SUFFIX,artstor.org,PROXY    #ARTstor Digital Library 艺术图像数据库
-DOMAIN-SUFFIX,arxiv.org,PROXY
-DOMAIN-SUFFIX,ascelibrary.org,PROXY    #American Society of Civil Engineers 美国土木工程师学会
-DOMAIN-SUFFIX,asha.org,PROXY
-DOMAIN-SUFFIX,asm.org,PROXY    #The American Society for Microbiology 美国微生物学会
-DOMAIN-SUFFIX,asme.org,PROXY    #American Society of Mechanical Engineers 美国机械工程师学会
-DOMAIN-SUFFIX,asminternational.org,PROXY    #ASM 材料信息协会
-DOMAIN-SUFFIX,asn-online.org,PROXY    #ASN 美国肾脏病学会期刊
-DOMAIN-SUFFIX,aspbjournals.org,PROXY    #ASPB 美国植物生物学家学会全文期刊库
-DOMAIN-SUFFIX,aspenpublishing.com,PROXY    #ASPEN Digital Library 法律
-DOMAIN-SUFFIX,astm.org,PROXY    #ASTM 美国材料与试验协会
-DOMAIN-SUFFIX,berkeley.edu,PROXY
-DOMAIN-SUFFIX,biologists.com,PROXY    #COB期刊
-DOMAIN-SUFFIX,biomedcentral.com,PROXY    #BMC
-DOMAIN-SUFFIX,bioone.org,PROXY    #BioOne
-DOMAIN-SUFFIX,biorxiv.org,PROXY
-DOMAIN-SUFFIX,bloomsburycollections.com,PROXY    #Bloomsbury Publishing
-DOMAIN-SUFFIX,bloomsburydesignlibrary.com,PROXY    #BLOOMSBURY Design Library 工业设计图书馆
-DOMAIN-SUFFIX,bmj.com,PROXY    #BMJ 英国医学会期刊
-DOMAIN-SUFFIX,booksinprint.com,PROXY    #Global Books In Print
-DOMAIN-SUFFIX,brepolis.net,PROXY    #Brepolis系列数据库
-DOMAIN-SUFFIX,brill.com,PROXY
-DOMAIN-SUFFIX,bvdinfo.com,PROXY    #BvD系列数据库（Bank Focus、Osiris、ORBIS、Orbis Intellectual Property、Zephyr、EIU Countrydata）
-DOMAIN-SUFFIX,cairn.info,PROXY    #Cairn 法语数据库
-DOMAIN-SUFFIX,capitaliq.com,PROXY    #Capital IQ
-DOMAIN-SUFFIX,cas.org,PROXY    #American Chemical Society
-DOMAIN-SUFFIX,ceicdata.com,PROXY    #CEIC 经济数据库
-DOMAIN-SUFFIX,chemnetbase.com,PROXY    #CRC Handbook of Chemistry and Physics
-DOMAIN-SUFFIX,choicereviews.org,PROXY
-DOMAIN-SUFFIX,cios.org,PROXY
-DOMAIN-SUFFIX,cmu.edu,PROXY
-DOMAIN-SUFFIX,cochranelibrary.com,PROXY
-DOMAIN-SUFFIX,computingreviews.com,PROXY
-DOMAIN-SUFFIX,csrankings.org,PROXY
-DOMAIN-SUFFIX,degruyter.com,PROXY
-DOMAIN-SUFFIX,dentalhypotheses.com,PROXY
-DOMAIN-SUFFIX,ebsco.com,PROXY    #EBSCO 检索平台
-DOMAIN-SUFFIX,ebscohost.com,PROXY
-DOMAIN-SUFFIX,electrochem.org,PROXY
-DOMAIN-SUFFIX,elgaronline.com,PROXY
-DOMAIN-SUFFIX,elifesciences.org,PROXY
-DOMAIN-SUFFIX,embase.com,PROXY
-DOMAIN-SUFFIX,emerald.com,PROXY    #Emerald 管理学期刊库、工程学期刊库、电子书
-DOMAIN-SUFFIX,ems-ph.org,PROXY    #European Mathematical Society Publishing House
-DOMAIN-SUFFIX,eurekaselect.com,PROXY    #Bentham Science期刊库
-DOMAIN-SUFFIX,europepmc.org,PROXY
-DOMAIN-SUFFIX,facultyopinions.com,PROXY    #Faculty Opinions
-DOMAIN-SUFFIX,frontiersin.org,PROXY
-DOMAIN-SUFFIX,gale.com,PROXY    #Gale 平台
-DOMAIN-SUFFIX,galegroup.com,PROXY    #Gale 平台
-DOMAIN-SUFFIX,geolytics.com,PROXY    #Time Series Research Package（美国人口普查数据库）
-DOMAIN-SUFFIX,ggsrv.com,PROXY    #Gale 平台
-DOMAIN-SUFFIX,global-sci.org,PROXY    #Global Science Press GSP电子期刊
-DOMAIN-SUFFIX,heinonline.org,PROXY    #HeinOnline 法律全文数据库
-DOMAIN-SUFFIX,highwirepress.com,PROXY    #HighWire Press 电子期刊
-DOMAIN-SUFFIX,hindawi.com,PROXY
-DOMAIN-SUFFIX,hotcrp.com,PROXY    #HotCRP Conference Management Software
-DOMAIN-SUFFIX,icevirtuallibrary.com,PROXY    #英国土木工程师学会 ICE Virtual Library
-DOMAIN-SUFFIX,icsd.fiz-karlsruhe.de,PROXY    #Inorganic Crystal Structure Database
-DOMAIN-SUFFIX,igi-global.com,PROXY    #IGI Global 平台
-DOMAIN-SUFFIX,igpublish.com,PROXY    #iG Publishing电子图书
+DOMAIN-SUFFIX,alexanderstreet.com    #Alexander Street
+DOMAIN-SUFFIX,alphaxiv.org    #alphaXiv
+DOMAIN-SUFFIX,altmetric.com
+DOMAIN-SUFFIX,amdigital.co.uk    #Adam Matthew Digital 历史与文化珍稀史料数据库集成
+DOMAIN-SUFFIX,ams.org    #美国数学学会
+DOMAIN-SUFFIX,analytictech.com
+DOMAIN-SUFFIX,anatomy.tv    #digital human anatomy and physiology content
+DOMAIN-SUFFIX,annualreviews.org
+DOMAIN-SUFFIX,aps.org    #American Physical Society Sites
+DOMAIN-SUFFIX,arabidopsis.org
+DOMAIN-SUFFIX,artstor.org    #ARTstor Digital Library 艺术图像数据库
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,ascelibrary.org    #American Society of Civil Engineers 美国土木工程师学会
+DOMAIN-SUFFIX,asha.org
+DOMAIN-SUFFIX,asm.org    #The American Society for Microbiology 美国微生物学会
+DOMAIN-SUFFIX,asme.org    #American Society of Mechanical Engineers 美国机械工程师学会
+DOMAIN-SUFFIX,asminternational.org    #ASM 材料信息协会
+DOMAIN-SUFFIX,asn-online.org    #ASN 美国肾脏病学会期刊
+DOMAIN-SUFFIX,aspbjournals.org    #ASPB 美国植物生物学家学会全文期刊库
+DOMAIN-SUFFIX,aspenpublishing.com    #ASPEN Digital Library 法律
+DOMAIN-SUFFIX,astm.org    #ASTM 美国材料与试验协会
+DOMAIN-SUFFIX,berkeley.edu
+DOMAIN-SUFFIX,biologists.com    #COB期刊
+DOMAIN-SUFFIX,biomedcentral.com    #BMC
+DOMAIN-SUFFIX,bioone.org    #BioOne
+DOMAIN-SUFFIX,biorxiv.org
+DOMAIN-SUFFIX,bloomsburycollections.com    #Bloomsbury Publishing
+DOMAIN-SUFFIX,bloomsburydesignlibrary.com    #BLOOMSBURY Design Library 工业设计图书馆
+DOMAIN-SUFFIX,bmj.com    #BMJ 英国医学会期刊
+DOMAIN-SUFFIX,booksinprint.com    #Global Books In Print
+DOMAIN-SUFFIX,brepolis.net    #Brepolis系列数据库
+DOMAIN-SUFFIX,brill.com
+DOMAIN-SUFFIX,bvdinfo.com    #BvD系列数据库（Bank Focus、Osiris、ORBIS、Orbis Intellectual Property、Zephyr、EIU Countrydata）
+DOMAIN-SUFFIX,cairn.info    #Cairn 法语数据库
+DOMAIN-SUFFIX,capitaliq.com    #Capital IQ
+DOMAIN-SUFFIX,cas.org    #American Chemical Society
+DOMAIN-SUFFIX,ceicdata.com    #CEIC 经济数据库
+DOMAIN-SUFFIX,chemnetbase.com    #CRC Handbook of Chemistry and Physics
+DOMAIN-SUFFIX,choicereviews.org
+DOMAIN-SUFFIX,cios.org
+DOMAIN-SUFFIX,cmu.edu
+DOMAIN-SUFFIX,cochranelibrary.com
+DOMAIN-SUFFIX,computingreviews.com
+DOMAIN-SUFFIX,csrankings.org
+DOMAIN-SUFFIX,degruyter.com
+DOMAIN-SUFFIX,dentalhypotheses.com
+DOMAIN-SUFFIX,ebsco.com    #EBSCO 检索平台
+DOMAIN-SUFFIX,ebscohost.com
+DOMAIN-SUFFIX,electrochem.org
+DOMAIN-SUFFIX,elgaronline.com
+DOMAIN-SUFFIX,elifesciences.org
+DOMAIN-SUFFIX,embase.com
+DOMAIN-SUFFIX,emerald.com    #Emerald 管理学期刊库、工程学期刊库、电子书
+DOMAIN-SUFFIX,ems-ph.org    #European Mathematical Society Publishing House
+DOMAIN-SUFFIX,eurekaselect.com    #Bentham Science期刊库
+DOMAIN-SUFFIX,europepmc.org
+DOMAIN-SUFFIX,facultyopinions.com    #Faculty Opinions
+DOMAIN-SUFFIX,frontiersin.org
+DOMAIN-SUFFIX,gale.com    #Gale 平台
+DOMAIN-SUFFIX,galegroup.com    #Gale 平台
+DOMAIN-SUFFIX,geolytics.com    #Time Series Research Package（美国人口普查数据库）
+DOMAIN-SUFFIX,ggsrv.com    #Gale 平台
+DOMAIN-SUFFIX,global-sci.org    #Global Science Press GSP电子期刊
+DOMAIN-SUFFIX,heinonline.org    #HeinOnline 法律全文数据库
+DOMAIN-SUFFIX,highwirepress.com    #HighWire Press 电子期刊
+DOMAIN-SUFFIX,hindawi.com
+DOMAIN-SUFFIX,hotcrp.com    #HotCRP Conference Management Software
+DOMAIN-SUFFIX,icevirtuallibrary.com    #英国土木工程师学会 ICE Virtual Library
+DOMAIN-SUFFIX,icsd.fiz-karlsruhe.de    #Inorganic Crystal Structure Database
+DOMAIN-SUFFIX,igi-global.com    #IGI Global 平台
+DOMAIN-SUFFIX,igpublish.com    #iG Publishing电子图书
 
 #  漢珍數字圖書股份有限公司
-DOMAIN-SUFFIX,hanzhen.xmulib.org,PROXY    #厦门大学汉珍数位
-DOMAIN-SUFFIX,infolinker.com.tw,PROXY
+DOMAIN-SUFFIX,hanzhen.xmulib.org    #厦门大学汉珍数位
+DOMAIN-SUFFIX,infolinker.com.tw
 
-DOMAIN-SUFFIX,informs.org,PROXY
-DOMAIN-SUFFIX,ioinformatics.org,PROXY
-DOMAIN-SUFFIX,iop.org,PROXY
-DOMAIN-SUFFIX,isca-speech.org,PROXY
-DOMAIN-SUFFIX,iwaponline.com,PROXY    #IWA(国际水协会) 电子期刊
-DOMAIN-SUFFIX,jamanetwork.com,PROXY
-DOMAIN-SUFFIX,japanknowledge.com,PROXY    #Japan Knowledge Lib（日本知识库）数据库
-DOMAIN-SUFFIX,jbe-platform.com,PROXY    #e-content platform of John Benjamins Publishing Company
-DOMAIN-SUFFIX,jmlr.org,PROXY
-DOMAIN-SUFFIX,jneurosci.org,PROXY
-DOMAIN-SUFFIX,jove.com,PROXY
-DOMAIN-SUFFIX,jstage.jst.go.jp,PROXY    #Japan Science and Technology Information Aggregator, Electronic, J-STAGE (日本Free Access学术期刊)
-DOMAIN-SUFFIX,jstor.org,PROXY
-DOMAIN-SUFFIX,karger.com,PROXY
-DOMAIN-SUFFIX,kuke.com,PROXY    #KUKE数字音乐图书馆
-DOMAIN-SUFFIX,lawdata.com.tw,PROXY    #台湾月旦知识库
-DOMAIN-SUFFIX,lexisnexis.com,PROXY    #Lexis 法律全文数据库
-DOMAIN-SUFFIX,literatumonline.com,PROXY    #Wiley Online Library@https://pericles.pericles-prod.literatumonline.com/
-DOMAIN-SUFFIX,mdpi.com,PROXY
-DOMAIN-SUFFIX,medrxiv.org,PROXY
-DOMAIN-SUFFIX,morganclaypool.com,PROXY
-DOMAIN-SUFFIX,nature.com,PROXY
-DOMAIN-SUFFIX,naturemag.org,PROXY
-DOMAIN-SUFFIX,ncl.edu.tw,PROXY
-DOMAIN-SUFFIX,nejm.org,PROXY
-DOMAIN-SUFFIX,neurology.org,PROXY
-DOMAIN-SUFFIX,nii.ac.jp,PROXY    #CiNii学术信息导航
-DOMAIN-SUFFIX,oecd-ilibrary.org,PROXY    #Organisation for Economic Co-operation and Development
-DOMAIN-SUFFIX,openreview.net,PROXY    #OpenReview
-DOMAIN-SUFFIX,optica.org,PROXY    #OSA 美国光学学会全文数据库
-DOMAIN-SUFFIX,osapublishing.org,PROXY    #OSA
-DOMAIN-SUFFIX,ovid.com,PROXY
-DOMAIN-SUFFIX,peerj.com,PROXY
-DOMAIN-SUFFIX,physiology.org,PROXY
-DOMAIN-SUFFIX,plos.org,PROXY
-DOMAIN-SUFFIX,pnas.org,PROXY    #Proceedings of the National Academy of Sciences of the United States of America 美国科学院报
-DOMAIN-SUFFIX,princeton.edu,PROXY
-DOMAIN-SUFFIX,projecteuclid.org,PROXY    #Project Euclid Mathematics and Statistics Online
-DOMAIN-SUFFIX,researchgate.net,PROXY
-DOMAIN-SUFFIX,routledgehandbooks.com,PROXY
-DOMAIN-SUFFIX,royalsocietypublishing.org,PROXY
-DOMAIN-SUFFIX,rsc.org,PROXY
-DOMAIN-SUFFIX,rupress.org,PROXY
-DOMAIN-SUFFIX,sae.org,PROXY
-DOMAIN-SUFFIX,sagepub.com,PROXY
-DOMAIN-SUFFIX,scholarpedia.org,PROXY
+DOMAIN-SUFFIX,informs.org
+DOMAIN-SUFFIX,ioinformatics.org
+DOMAIN-SUFFIX,iop.org
+DOMAIN-SUFFIX,isca-speech.org
+DOMAIN-SUFFIX,iwaponline.com    #IWA(国际水协会) 电子期刊
+DOMAIN-SUFFIX,jamanetwork.com
+DOMAIN-SUFFIX,japanknowledge.com    #Japan Knowledge Lib（日本知识库）数据库
+DOMAIN-SUFFIX,jbe-platform.com    #e-content platform of John Benjamins Publishing Company
+DOMAIN-SUFFIX,jmlr.org
+DOMAIN-SUFFIX,jneurosci.org
+DOMAIN-SUFFIX,jove.com
+DOMAIN-SUFFIX,jstage.jst.go.jp    #Japan Science and Technology Information Aggregator, Electronic, J-STAGE (日本Free Access学术期刊)
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,karger.com
+DOMAIN-SUFFIX,kuke.com    #KUKE数字音乐图书馆
+DOMAIN-SUFFIX,lawdata.com.tw    #台湾月旦知识库
+DOMAIN-SUFFIX,lexisnexis.com    #Lexis 法律全文数据库
+DOMAIN-SUFFIX,literatumonline.com    #Wiley Online Library@https://pericles.pericles-prod.literatumonline.com/
+DOMAIN-SUFFIX,mdpi.com
+DOMAIN-SUFFIX,medrxiv.org
+DOMAIN-SUFFIX,morganclaypool.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,naturemag.org
+DOMAIN-SUFFIX,ncl.edu.tw
+DOMAIN-SUFFIX,nejm.org
+DOMAIN-SUFFIX,neurology.org
+DOMAIN-SUFFIX,nii.ac.jp    #CiNii学术信息导航
+DOMAIN-SUFFIX,oecd-ilibrary.org    #Organisation for Economic Co-operation and Development
+DOMAIN-SUFFIX,openreview.net    #OpenReview
+DOMAIN-SUFFIX,optica.org    #OSA 美国光学学会全文数据库
+DOMAIN-SUFFIX,osapublishing.org    #OSA
+DOMAIN-SUFFIX,ovid.com
+DOMAIN-SUFFIX,peerj.com
+DOMAIN-SUFFIX,physiology.org
+DOMAIN-SUFFIX,plos.org
+DOMAIN-SUFFIX,pnas.org    #Proceedings of the National Academy of Sciences of the United States of America 美国科学院报
+DOMAIN-SUFFIX,princeton.edu
+DOMAIN-SUFFIX,projecteuclid.org    #Project Euclid Mathematics and Statistics Online
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,routledgehandbooks.com
+DOMAIN-SUFFIX,royalsocietypublishing.org
+DOMAIN-SUFFIX,rsc.org
+DOMAIN-SUFFIX,rupress.org
+DOMAIN-SUFFIX,sae.org
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,scholarpedia.org
 
 # Science Online From AAAS
-DOMAIN-SUFFIX,science.com,PROXY
-DOMAIN-SUFFIX,science.org,PROXY
-DOMAIN-SUFFIX,sciencemag.org,PROXY
-DOMAIN-SUFFIX,scienceonline.org,PROXY
+DOMAIN-SUFFIX,science.com
+DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,scienceonline.org
 
-DOMAIN-SUFFIX,scientificamerican.com,PROXY
-DOMAIN-SUFFIX,scitation.org,PROXY
-DOMAIN-SUFFIX,semanticscholar.org,PROXY
-DOMAIN-SUFFIX,siam.org,PROXY    #Society for Industry and Applied Mathematics 美国工业和应用数学学会
-DOMAIN-SUFFIX,sigcomm.org,PROXY    #the Association for Computing Machinery's Special Interest Group on Data Communications
-DOMAIN-SUFFIX,sigops.org,PROXY    #the Association for Computing Machinery's Special Interest Group on Operating Systems
-DOMAIN-SUFFIX,silverchair-cdn.com,PROXY    #https://global.oup.com/academic/news/silverchair-announcement
-DOMAIN-SUFFIX,spiedigitallibrary.org,PROXY
-DOMAIN-SUFFIX,statsmakemecry.com,PROXY
-DOMAIN-SUFFIX,thelancet.com,PROXY
-DOMAIN-SUFFIX,tickdata.com,PROXY    #Tick Data-Futures and Indices Historical Data
+DOMAIN-SUFFIX,scientificamerican.com
+DOMAIN-SUFFIX,scitation.org
+DOMAIN-SUFFIX,semanticscholar.org
+DOMAIN-SUFFIX,siam.org    #Society for Industry and Applied Mathematics 美国工业和应用数学学会
+DOMAIN-SUFFIX,sigcomm.org    #the Association for Computing Machinery's Special Interest Group on Data Communications
+DOMAIN-SUFFIX,sigops.org    #the Association for Computing Machinery's Special Interest Group on Operating Systems
+DOMAIN-SUFFIX,silverchair-cdn.com    #https://global.oup.com/academic/news/silverchair-announcement
+DOMAIN-SUFFIX,spiedigitallibrary.org
+DOMAIN-SUFFIX,statsmakemecry.com
+DOMAIN-SUFFIX,thelancet.com
+DOMAIN-SUFFIX,tickdata.com    #Tick Data-Futures and Indices Historical Data
 
 # Thieme Gruppe
-DOMAIN-SUFFIX,thieme.de,PROXY
-DOMAIN-SUFFIX,thieme-connect.com,PROXY
-DOMAIN-SUFFIX,thieme-connect.de,PROXY
-DOMAIN,medone-education.thieme.com,PROXY
+DOMAIN-SUFFIX,thieme.de
+DOMAIN-SUFFIX,thieme-connect.com
+DOMAIN-SUFFIX,thieme-connect.de
+DOMAIN,medone-education.thieme.com
 
-DOMAIN-SUFFIX,totalmateria.com,PROXY    #Total Materia
-DOMAIN-SUFFIX,uchicago.edu,PROXY
-DOMAIN-SUFFIX,ucla.edu,PROXY
-DOMAIN-SUFFIX,umass.edu,PROXY
-DOMAIN-SUFFIX,usaco.org,PROXY
-DOMAIN-SUFFIX,usenix.org,PROXY    #USENIX: The Advanced Computing Systems Association
-DOMAIN-SUFFIX,westlaw.com,PROXY
-DOMAIN-SUFFIX,wiley.com,PROXY
-DOMAIN-SUFFIX,wolterskluwer.com,PROXY
-DOMAIN-SUFFIX,worldscientific.com,PROXY
-DOMAIN-SUFFIX,yale.edu,PROXY
-DOMAIN-SUFFIX,zenodo.org,PROXY
+DOMAIN-SUFFIX,totalmateria.com    #Total Materia
+DOMAIN-SUFFIX,uchicago.edu
+DOMAIN-SUFFIX,ucla.edu
+DOMAIN-SUFFIX,umass.edu
+DOMAIN-SUFFIX,usaco.org
+DOMAIN-SUFFIX,usenix.org    #USENIX: The Advanced Computing Systems Association
+DOMAIN-SUFFIX,westlaw.com
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,wolterskluwer.com
+DOMAIN-SUFFIX,worldscientific.com
+DOMAIN-SUFFIX,yale.edu
+DOMAIN-SUFFIX,zenodo.org
 
-DOMAIN,angle.com.tw,PROXY    #元照出版
-DOMAIN,beck-online.beck.de,PROXY    #Beck-Online数据库
-DOMAIN,databank.worldbank.org,PROXY    #World DataBank 世界经济学数据库
-DOMAIN,database.asahi.com,PROXY    #朝日新闻数据库（闻藏II Visual）
-DOMAIN,dl.begellhouse.com,PROXY    #Begell Digital Library
-DOMAIN,elib.maruzen.co.jp,PROXY    #Maruzen e-Book Library（MEL）
-DOMAIN,firstsearch.oclc.org,PROXY    #OCLC FirstSearch
-DOMAIN,muse.jhu.edu,PROXY    #Project MUSE
+DOMAIN,angle.com.tw    #元照出版
+DOMAIN,beck-online.beck.de    #Beck-Online数据库
+DOMAIN,databank.worldbank.org    #World DataBank 世界经济学数据库
+DOMAIN,database.asahi.com    #朝日新闻数据库（闻藏II Visual）
+DOMAIN,dl.begellhouse.com    #Begell Digital Library
+DOMAIN,elib.maruzen.co.jp    #Maruzen e-Book Library（MEL）
+DOMAIN,firstsearch.oclc.org    #OCLC FirstSearch
+DOMAIN,muse.jhu.edu    #Project MUSE
 
 # 日经TELECOM数据库
-DOMAIN,t21.nikkei.co.jp,PROXY
-DOMAIN,t21ipau.nikkei.co.jp,PROXY
+DOMAIN,t21.nikkei.co.jp
+DOMAIN,t21ipau.nikkei.co.jp
 
-DOMAIN,ulrichsweb.serialssolutions.com,PROXY
-DOMAIN,wrds-www.wharton.upenn.edu,PROXY    #Compustat 财务与价格数据库
+DOMAIN,ulrichsweb.serialssolutions.com
+DOMAIN,wrds-www.wharton.upenn.edu    #Compustat 财务与价格数据库

@@ -1,5 +1,5 @@
 # Iranian forums and community websites
 
 # Quera
-DOMAIN-SUFFIX,quera.ir,PROXY
-DOMAIN-SUFFIX,quera.org,PROXY
+DOMAIN-SUFFIX,quera.ir
+DOMAIN-SUFFIX,quera.org

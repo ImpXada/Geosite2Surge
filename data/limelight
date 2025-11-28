@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,delvenetworks.com,PROXY
-DOMAIN-SUFFIX,limelight.com,PROXY
-DOMAIN-SUFFIX,lldns.net,PROXY
-DOMAIN-SUFFIX,llnw-trials.com,PROXY
-DOMAIN-SUFFIX,llnw.com,PROXY
-DOMAIN-SUFFIX,llnw.net,PROXY
-DOMAIN-SUFFIX,llnwd.net,PROXY
-DOMAIN-SUFFIX,llnwi.net,PROXY
+DOMAIN-SUFFIX,delvenetworks.com
+DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,llnw-trials.com
+DOMAIN-SUFFIX,llnw.com
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnwi.net

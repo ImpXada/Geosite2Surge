@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,myshopify.com,PROXY
-DOMAIN-SUFFIX,shop.app,PROXY
-DOMAIN-SUFFIX,shopify.com,PROXY
-DOMAIN-SUFFIX,shopify.dev,PROXY
-DOMAIN-SUFFIX,shopifycdn.com,PROXY
-DOMAIN-SUFFIX,shopifycloud.com,PROXY
-DOMAIN-SUFFIX,shopifystatus.com,PROXY
-DOMAIN-SUFFIX,shopifysvc.com,PROXY
+DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shop.app
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,shopifystatus.com
+DOMAIN-SUFFIX,shopifysvc.com

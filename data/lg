@@ -1,11 +1,11 @@
-DOMAIN-SUFFIX,lg.com,PROXY
-DOMAIN-SUFFIX,lgappstv.com,PROXY
-DOMAIN-SUFFIX,lge.co.kr,PROXY
-DOMAIN-SUFFIX,lge.com,PROXY
-DOMAIN-SUFFIX,lgecareers.com,PROXY
-DOMAIN-SUFFIX,lghvac.com,PROXY
-DOMAIN-SUFFIX,lghvacstory.com,PROXY
-DOMAIN-SUFFIX,lgrecyclingprogram.com,PROXY
-DOMAIN-SUFFIX,lgsalesportal.com,PROXY
+DOMAIN-SUFFIX,lg.com
+DOMAIN-SUFFIX,lgappstv.com
+DOMAIN-SUFFIX,lge.co.kr
+DOMAIN-SUFFIX,lge.com
+DOMAIN-SUFFIX,lgecareers.com
+DOMAIN-SUFFIX,lghvac.com
+DOMAIN-SUFFIX,lghvacstory.com
+DOMAIN-SUFFIX,lgrecyclingprogram.com
+DOMAIN-SUFFIX,lgsalesportal.com
 
-DOMAIN,lgelectronics.122.2o7.net,PROXY
+DOMAIN,lgelectronics.122.2o7.net

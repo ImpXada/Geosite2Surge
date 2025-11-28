@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,fontbook.com,PROXY
-DOMAIN-SUFFIX,fontshop.com,PROXY
-DOMAIN-SUFFIX,fstopimages.com,PROXY
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com
 
-DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com,PROXY
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com

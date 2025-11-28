@@ -1,88 +1,88 @@
 # 雷神加速器 鄂ICP备19027593号-2
-DOMAIN-SUFFIX,leigod.com,PROXY
+DOMAIN-SUFFIX,leigod.com
 
 # TM 加速器 蜀ICP备17036496号-7
-DOMAIN-SUFFIX,tmjiasuqi.com,PROXY
+DOMAIN-SUFFIX,tmjiasuqi.com
 
 # 网易 UU 加速器 粤B2-20090191-18
-DOMAIN-SUFFIX,uu.163.com,PROXY
+DOMAIN-SUFFIX,uu.163.com
 
 # 迅游加速器 蜀ICP备07504248号-4
-DOMAIN-SUFFIX,xunyou.com,PROXY
+DOMAIN-SUFFIX,xunyou.com
 
 # 薄荷加速器
-DOMAIN-SUFFIX,bohejiasuqi.com,PROXY
-DOMAIN-SUFFIX,jiasu.bohe.com,PROXY    #鄂ICP备18023477号-1
+DOMAIN-SUFFIX,bohejiasuqi.com
+DOMAIN-SUFFIX,jiasu.bohe.com    #鄂ICP备18023477号-1
 
 # GoLink 加速器 苏ICP备18014251号-2
-DOMAIN-SUFFIX,golink.com,PROXY
-DOMAIN-SUFFIX,golinkapi.com,PROXY
-DOMAIN-SUFFIX,golinkcn.com,PROXY
+DOMAIN-SUFFIX,golink.com
+DOMAIN-SUFFIX,golinkapi.com
+DOMAIN-SUFFIX,golinkcn.com
 
 # Watt Toolkit 苏ICP备2023005487号-1
-DOMAIN-SUFFIX,steampp.net,PROXY
-DOMAIN-SUFFIX,rmbgame.net,PROXY
+DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,rmbgame.net
 
 # Steamcommunity 302
-DOMAIN-SUFFIX,steam302.xyz,PROXY
+DOMAIN-SUFFIX,steam302.xyz
 
 # 奔富加速器 皖ICP备2023025306号-4
-DOMAIN-SUFFIX,benfuip.com,PROXY
+DOMAIN-SUFFIX,benfuip.com
 
 # 帆游加速器 闽ICP备 2022009478号-3
-DOMAIN-SUFFIX,funjsq.com,PROXY
+DOMAIN-SUFFIX,funjsq.com
 
 # biubiu 加速器 粤ICP备16043020号
-DOMAIN-SUFFIX,biubiu001.com,PROXY
+DOMAIN-SUFFIX,biubiu001.com
 
 # 奇游加速器 蜀ICP备18018251号
-DOMAIN-SUFFIX,qiyou.cn,PROXY
+DOMAIN-SUFFIX,qiyou.cn
 
 # 海豚加速器 蜀ICP备2020025877号-6
-DOMAIN-SUFFIX,htjsq.com,PROXY
-DOMAIN-SUFFIX,htjsq.mobi,PROXY
+DOMAIN-SUFFIX,htjsq.com
+DOMAIN-SUFFIX,htjsq.mobi
 
 # 凤凰加速器 浙ICP备12018679号-9
-DOMAIN-SUFFIX,fhyx.com,PROXY
+DOMAIN-SUFFIX,fhyx.com
 
 # AK 加速器 蜀ICP备2021022647号
-DOMAIN-SUFFIX,akspeedy.com,PROXY
+DOMAIN-SUFFIX,akspeedy.com
 
 # 野豹游戏加速器 蜀ICP备2021006045号
-DOMAIN-SUFFIX,yebaojiasu.com,PROXY
+DOMAIN-SUFFIX,yebaojiasu.com
 
 # 流星免费加速器 苏ICP备18022598号-8
-DOMAIN-SUFFIX,liuxing.com,PROXY
-DOMAIN-SUFFIX,lxjiasu.com,PROXY
+DOMAIN-SUFFIX,liuxing.com
+DOMAIN-SUFFIX,lxjiasu.com
 
 # 古怪加速器 蜀ICP备2023020301号-1
-DOMAIN-SUFFIX,ggkuai.com,PROXY
+DOMAIN-SUFFIX,ggkuai.com
 
 # CC 加速器 闽ICP备19007929号-2
-DOMAIN-SUFFIX,ccspeed.cn,PROXY
+DOMAIN-SUFFIX,ccspeed.cn
 
 # 月轮加速器 闽ICP备14006637号
-DOMAIN-SUFFIX,yuelun.com,PROXY
+DOMAIN-SUFFIX,yuelun.com
 
 # GI 加速器 滇ICP备2021000937号-4
-DOMAIN-SUFFIX,gijsq.com,PROXY
+DOMAIN-SUFFIX,gijsq.com
 
 # KK 加速器 苏ICP备18051860号-14
-DOMAIN-SUFFIX,kk1.vip,PROXY
+DOMAIN-SUFFIX,kk1.vip
 
 # 3DM 网游加速器 粤ICP备17015496号
-DOMAIN-SUFFIX,3dmjiasu.com,PROXY
+DOMAIN-SUFFIX,3dmjiasu.com
 
 # 斧牛加速器 豫ICP备20019239号-6
-DOMAIN-SUFFIX,fnjiasu.com,PROXY
-DOMAIN-SUFFIX,lorhf.com,PROXY
+DOMAIN-SUFFIX,fnjiasu.com
+DOMAIN-SUFFIX,lorhf.com
 
 # OO 加速器 鄂ICP备2022019723号-2
-DOMAIN-SUFFIX,oojsq.com,PROXY
+DOMAIN-SUFFIX,oojsq.com
 
 # 外星人加速器 沪ICP备2023020020号-1
-DOMAIN-SUFFIX,et001.com,PROXY
-DOMAIN-SUFFIX,et-api.com,PROXY
+DOMAIN-SUFFIX,et001.com
+DOMAIN-SUFFIX,et-api.com
 
 # 怪库加速器 闽ICP备2023006037号-2
-DOMAIN-SUFFIX,guaiku.com,PROXY
+DOMAIN-SUFFIX,guaiku.com

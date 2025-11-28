@@ -2,488 +2,488 @@
 # Hence, it is recommended to utilize direct connection for this category.
 
 # Iran TLDs
-DOMAIN-SUFFIX,ir,PROXY
-DOMAIN-SUFFIX,xn--mgba3a4f16a,PROXY    #.ایران
-DOMAIN-SUFFIX,xn--mgba3a4fra,PROXY    #.ايران
+DOMAIN-SUFFIX,ir
+DOMAIN-SUFFIX,xn--mgba3a4f16a    #.ایران
+DOMAIN-SUFFIX,xn--mgba3a4fra    #.ايران
 
 #include:category-ads-ir
 # Iranian Advertising websites
 
-DOMAIN-SUFFIX,adivery.com,PROXY
-DOMAIN-SUFFIX,adivery.ir,PROXY
-DOMAIN-SUFFIX,kaprila.com,PROXY
-DOMAIN-SUFFIX,najva.com,PROXY
-DOMAIN-SUFFIX,sabavision.com,PROXY
-DOMAIN-SUFFIX,tapsell.ir,PROXY
-DOMAIN-SUFFIX,yektanet.com,PROXY
+DOMAIN-SUFFIX,adivery.com
+DOMAIN-SUFFIX,adivery.ir
+DOMAIN-SUFFIX,kaprila.com
+DOMAIN-SUFFIX,najva.com
+DOMAIN-SUFFIX,sabavision.com
+DOMAIN-SUFFIX,tapsell.ir
+DOMAIN-SUFFIX,yektanet.com
 #end include:category-ads-ir
 #include:category-bank-ir
 # Iranian bank websites
 
-DOMAIN-SUFFIX,agri-bank.com,PROXY
-DOMAIN-SUFFIX,ansarbank.com,PROXY
-DOMAIN-SUFFIX,bank-maskan.ir,PROXY
-DOMAIN-SUFFIX,bankmellat.ir,PROXY
-DOMAIN-SUFFIX,banksepah.ir,PROXY
-DOMAIN-SUFFIX,bim.ir,PROXY
-DOMAIN-SUFFIX,blubank.com,PROXY
-DOMAIN-SUFFIX,bmi.ir,PROXY
-DOMAIN-SUFFIX,bpi.ir,PROXY
-DOMAIN-SUFFIX,bsi.ir,PROXY
-DOMAIN-SUFFIX,cbi.ir,PROXY
-DOMAIN-SUFFIX,day24.ir,PROXY
-DOMAIN-SUFFIX,edbi.ir,PROXY
-DOMAIN-SUFFIX,enbank.ir,PROXY
-DOMAIN-SUFFIX,ghbi.ir,PROXY
-DOMAIN-SUFFIX,hibank24.com,PROXY
-DOMAIN-SUFFIX,izbank.ir,PROXY
-DOMAIN-SUFFIX,karafarinbank.ir,PROXY
-DOMAIN-SUFFIX,mebank.ir,PROXY
-DOMAIN-SUFFIX,mresalat.ir,PROXY
-DOMAIN-SUFFIX,parsian-bank.com,PROXY
-DOMAIN-SUFFIX,postbank.ir,PROXY
-DOMAIN-SUFFIX,qmb.ir,PROXY
-DOMAIN-SUFFIX,rb24.ir,PROXY
-DOMAIN-SUFFIX,refah-bank.ir,PROXY
-DOMAIN-SUFFIX,rqbank.ir,PROXY
-DOMAIN-SUFFIX,sb24.com,PROXY
-DOMAIN-SUFFIX,sbank.ir,PROXY
-DOMAIN-SUFFIX,shahr-bank.ir,PROXY
-DOMAIN-SUFFIX,shaparak.ir,PROXY
-DOMAIN-SUFFIX,sinabank.ir,PROXY
-DOMAIN-SUFFIX,tejaratbank.ir,PROXY
+DOMAIN-SUFFIX,agri-bank.com
+DOMAIN-SUFFIX,ansarbank.com
+DOMAIN-SUFFIX,bank-maskan.ir
+DOMAIN-SUFFIX,bankmellat.ir
+DOMAIN-SUFFIX,banksepah.ir
+DOMAIN-SUFFIX,bim.ir
+DOMAIN-SUFFIX,blubank.com
+DOMAIN-SUFFIX,bmi.ir
+DOMAIN-SUFFIX,bpi.ir
+DOMAIN-SUFFIX,bsi.ir
+DOMAIN-SUFFIX,cbi.ir
+DOMAIN-SUFFIX,day24.ir
+DOMAIN-SUFFIX,edbi.ir
+DOMAIN-SUFFIX,enbank.ir
+DOMAIN-SUFFIX,ghbi.ir
+DOMAIN-SUFFIX,hibank24.com
+DOMAIN-SUFFIX,izbank.ir
+DOMAIN-SUFFIX,karafarinbank.ir
+DOMAIN-SUFFIX,mebank.ir
+DOMAIN-SUFFIX,mresalat.ir
+DOMAIN-SUFFIX,parsian-bank.com
+DOMAIN-SUFFIX,postbank.ir
+DOMAIN-SUFFIX,qmb.ir
+DOMAIN-SUFFIX,rb24.ir
+DOMAIN-SUFFIX,refah-bank.ir
+DOMAIN-SUFFIX,rqbank.ir
+DOMAIN-SUFFIX,sb24.com
+DOMAIN-SUFFIX,sbank.ir
+DOMAIN-SUFFIX,shahr-bank.ir
+DOMAIN-SUFFIX,shaparak.ir
+DOMAIN-SUFFIX,sinabank.ir
+DOMAIN-SUFFIX,tejaratbank.ir
 #end include:category-bank-ir
 #include:category-bourse-ir
 # Iranian stock exchange websites
 
 # Bourse
-DOMAIN-SUFFIX,arman-ati.com,PROXY
-DOMAIN-SUFFIX,bourseiness.com,PROXY
-DOMAIN-SUFFIX,codal.ir,PROXY
-DOMAIN-SUFFIX,farasahm.ir,PROXY
-DOMAIN-SUFFIX,ifb.ir,PROXY
-DOMAIN-SUFFIX,ime.co.ir,PROXY
-DOMAIN-SUFFIX,irenex.ir,PROXY
-DOMAIN-SUFFIX,sukuk.ir,PROXY
-DOMAIN-SUFFIX,talarebourse.com,PROXY
-DOMAIN-SUFFIX,tse.ir,PROXY
-DOMAIN-SUFFIX,tsetmc.ir,PROXY
+DOMAIN-SUFFIX,arman-ati.com
+DOMAIN-SUFFIX,bourseiness.com
+DOMAIN-SUFFIX,codal.ir
+DOMAIN-SUFFIX,farasahm.ir
+DOMAIN-SUFFIX,ifb.ir
+DOMAIN-SUFFIX,ime.co.ir
+DOMAIN-SUFFIX,irenex.ir
+DOMAIN-SUFFIX,sukuk.ir
+DOMAIN-SUFFIX,talarebourse.com
+DOMAIN-SUFFIX,tse.ir
+DOMAIN-SUFFIX,tsetmc.ir
 
 # Brokers
-DOMAIN-SUFFIX,abanbroker.com,PROXY
-DOMAIN-SUFFIX,bahmanbroker.com,PROXY
-DOMAIN-SUFFIX,bkisecurities.com,PROXY
-DOMAIN-SUFFIX,bmibourse.com,PROXY
-DOMAIN-SUFFIX,bt-broker.com,PROXY
-DOMAIN-SUFFIX,danabroker.com,PROXY
-DOMAIN-SUFFIX,emofid.com,PROXY
-DOMAIN-SUFFIX,mofidonline.com,PROXY
-DOMAIN-SUFFIX,etminansahm.com,PROXY
-DOMAIN-SUFFIX,hafezbourse.com,PROXY
-DOMAIN-SUFFIX,irfarabi.com,PROXY
-DOMAIN-SUFFIX,kmsco.ir,PROXY
-DOMAIN-SUFFIX,maskanbourse.com,PROXY
-DOMAIN-SUFFIX,mellatbroker.com,PROXY
-DOMAIN-SUFFIX,novinbourse.com,PROXY
-DOMAIN-SUFFIX,oibroker.com,PROXY
-DOMAIN-SUFFIX,omidsahm.com,PROXY
-DOMAIN-SUFFIX,rbc.ir,PROXY
-DOMAIN-SUFFIX,saderatbourse.com,PROXY
-DOMAIN-SUFFIX,sahandbroker.com,PROXY
-DOMAIN-SUFFIX,samanbourse.com,PROXY
-DOMAIN-SUFFIX,sdbhouse.com,PROXY
-DOMAIN-SUFFIX,sepahbourse.com,PROXY
-DOMAIN-SUFFIX,tadbirgar.com,PROXY
+DOMAIN-SUFFIX,abanbroker.com
+DOMAIN-SUFFIX,bahmanbroker.com
+DOMAIN-SUFFIX,bkisecurities.com
+DOMAIN-SUFFIX,bmibourse.com
+DOMAIN-SUFFIX,bt-broker.com
+DOMAIN-SUFFIX,danabroker.com
+DOMAIN-SUFFIX,emofid.com
+DOMAIN-SUFFIX,mofidonline.com
+DOMAIN-SUFFIX,etminansahm.com
+DOMAIN-SUFFIX,hafezbourse.com
+DOMAIN-SUFFIX,irfarabi.com
+DOMAIN-SUFFIX,kmsco.ir
+DOMAIN-SUFFIX,maskanbourse.com
+DOMAIN-SUFFIX,mellatbroker.com
+DOMAIN-SUFFIX,novinbourse.com
+DOMAIN-SUFFIX,oibroker.com
+DOMAIN-SUFFIX,omidsahm.com
+DOMAIN-SUFFIX,rbc.ir
+DOMAIN-SUFFIX,saderatbourse.com
+DOMAIN-SUFFIX,sahandbroker.com
+DOMAIN-SUFFIX,samanbourse.com
+DOMAIN-SUFFIX,sdbhouse.com
+DOMAIN-SUFFIX,sepahbourse.com
+DOMAIN-SUFFIX,tadbirgar.com
 
 # Exchanges
-DOMAIN-SUFFIX,abantether.com,PROXY
-DOMAIN-SUFFIX,bit24.cash,PROXY
-DOMAIN-SUFFIX,bitpin.ir,PROXY
-DOMAIN-SUFFIX,exir.io,PROXY
-DOMAIN-SUFFIX,farhad-exchange.com,PROXY
-DOMAIN-SUFFIX,jibitex.com,PROXY
-DOMAIN-SUFFIX,nobitex.ir,PROXY
-DOMAIN-SUFFIX,ok-ex.io,PROXY
-DOMAIN-SUFFIX,ompfinex.com,PROXY
-DOMAIN-SUFFIX,ramzinex.com,PROXY
-DOMAIN-SUFFIX,tabdeal.org,PROXY
-DOMAIN-SUFFIX,tetherland.com,PROXY
-DOMAIN-SUFFIX,wallex.ir,PROXY
+DOMAIN-SUFFIX,abantether.com
+DOMAIN-SUFFIX,bit24.cash
+DOMAIN-SUFFIX,bitpin.ir
+DOMAIN-SUFFIX,exir.io
+DOMAIN-SUFFIX,farhad-exchange.com
+DOMAIN-SUFFIX,jibitex.com
+DOMAIN-SUFFIX,nobitex.ir
+DOMAIN-SUFFIX,ok-ex.io
+DOMAIN-SUFFIX,ompfinex.com
+DOMAIN-SUFFIX,ramzinex.com
+DOMAIN-SUFFIX,tabdeal.org
+DOMAIN-SUFFIX,tetherland.com
+DOMAIN-SUFFIX,wallex.ir
 #end include:category-bourse-ir
 #include:category-education-ir
 # Iranian education and learning websites
 
 # Course
-DOMAIN-SUFFIX,faradars.org,PROXY
-DOMAIN-SUFFIX,git.ir,PROXY
-DOMAIN-SUFFIX,learnby.ir,PROXY
-DOMAIN-SUFFIX,toplearn.com,PROXY
+DOMAIN-SUFFIX,faradars.org
+DOMAIN-SUFFIX,git.ir
+DOMAIN-SUFFIX,learnby.ir
+DOMAIN-SUFFIX,toplearn.com
 
 # Webinar
-DOMAIN-SUFFIX,done.ir,PROXY
-DOMAIN-SUFFIX,iranlms.org,PROXY
-DOMAIN-SUFFIX,webinarplus.online,PROXY
+DOMAIN-SUFFIX,done.ir
+DOMAIN-SUFFIX,iranlms.org
+DOMAIN-SUFFIX,webinarplus.online
 #end include:category-education-ir
 #include:category-forums-ir
 # Iranian forums and community websites
 
 # Quera
-DOMAIN-SUFFIX,quera.ir,PROXY
-DOMAIN-SUFFIX,quera.org,PROXY
+DOMAIN-SUFFIX,quera.ir
+DOMAIN-SUFFIX,quera.org
 #end include:category-forums-ir
 #include:category-gov-ir
 # Iranian governmental websites
 
-DOMAIN-SUFFIX,adliran.ir,PROXY
-DOMAIN-SUFFIX,agrieng.org,PROXY
-DOMAIN-SUFFIX,bazresi.ir,PROXY
-DOMAIN-SUFFIX,bia-judiciary.ir,PROXY
-DOMAIN-SUFFIX,budget.imo.org.ir,PROXY
-DOMAIN-SUFFIX,dadiran.ir,PROXY
-DOMAIN-SUFFIX,dadsara.ir,PROXY
-DOMAIN-SUFFIX,dadsetani.ir,PROXY
-DOMAIN-SUFFIX,divan-edalat.ir,PROXY
-DOMAIN-SUFFIX,dmk.ir,PROXY
-DOMAIN-SUFFIX,doe.ir,PROXY
-DOMAIN-SUFFIX,dolat.ir,PROXY
-DOMAIN-SUFFIX,eadl.ir,PROXY
-DOMAIN-SUFFIX,enamad.ir,PROXY
-DOMAIN-SUFFIX,gov.ir,PROXY
-DOMAIN-SUFFIX,hadafmandi.ir,PROXY
-DOMAIN-SUFFIX,intamedia.ir,PROXY
-DOMAIN-SUFFIX,irimo.ir,PROXY
-DOMAIN-SUFFIX,moi.ir,PROXY
-DOMAIN-SUFFIX,mporg.ir,PROXY
-DOMAIN-SUFFIX,parliran.ir,PROXY
-DOMAIN-SUFFIX,post.ir,PROXY
-DOMAIN-SUFFIX,president.ir,PROXY
-DOMAIN-SUFFIX,refahi.ir,PROXY
-DOMAIN-SUFFIX,sahamedalat.ir,PROXY
-DOMAIN-SUFFIX,samandehi.ir,PROXY
-DOMAIN-SUFFIX,samanese.ir,PROXY
-DOMAIN-SUFFIX,sccr.ir,PROXY
-DOMAIN-SUFFIX,shora-gc.ir,PROXY
+DOMAIN-SUFFIX,adliran.ir
+DOMAIN-SUFFIX,agrieng.org
+DOMAIN-SUFFIX,bazresi.ir
+DOMAIN-SUFFIX,bia-judiciary.ir
+DOMAIN-SUFFIX,budget.imo.org.ir
+DOMAIN-SUFFIX,dadiran.ir
+DOMAIN-SUFFIX,dadsara.ir
+DOMAIN-SUFFIX,dadsetani.ir
+DOMAIN-SUFFIX,divan-edalat.ir
+DOMAIN-SUFFIX,dmk.ir
+DOMAIN-SUFFIX,doe.ir
+DOMAIN-SUFFIX,dolat.ir
+DOMAIN-SUFFIX,eadl.ir
+DOMAIN-SUFFIX,enamad.ir
+DOMAIN-SUFFIX,gov.ir
+DOMAIN-SUFFIX,hadafmandi.ir
+DOMAIN-SUFFIX,intamedia.ir
+DOMAIN-SUFFIX,irimo.ir
+DOMAIN-SUFFIX,moi.ir
+DOMAIN-SUFFIX,mporg.ir
+DOMAIN-SUFFIX,parliran.ir
+DOMAIN-SUFFIX,post.ir
+DOMAIN-SUFFIX,president.ir
+DOMAIN-SUFFIX,refahi.ir
+DOMAIN-SUFFIX,sahamedalat.ir
+DOMAIN-SUFFIX,samandehi.ir
+DOMAIN-SUFFIX,samanese.ir
+DOMAIN-SUFFIX,sccr.ir
+DOMAIN-SUFFIX,shora-gc.ir
 
 #end include:category-gov-ir
 #include:category-insurance-ir
 # Iranian insurance websites
 
-DOMAIN-SUFFIX,alborzinsurance.ir,PROXY
-DOMAIN-SUFFIX,bimeh.com,PROXY
-DOMAIN-SUFFIX,bimehasia.com,PROXY
-DOMAIN-SUFFIX,bimeonline.com,PROXY
-DOMAIN-SUFFIX,dana-insurance.com,PROXY
-DOMAIN-SUFFIX,dayins.com,PROXY
-DOMAIN-SUFFIX,hafezinsurance.ir,PROXY
-DOMAIN-SUFFIX,ihio.gov.ir,PROXY
-DOMAIN-SUFFIX,iraninsurance.ir,PROXY
-DOMAIN-SUFFIX,karafarin-insurance.ir,PROXY
-DOMAIN-SUFFIX,mellatinsurance.com,PROXY
-DOMAIN-SUFFIX,novininsurance.com,PROXY
-DOMAIN-SUFFIX,omid-insurance.ir,PROXY
-DOMAIN-SUFFIX,parsianinsurance.ir,PROXY
-DOMAIN-SUFFIX,razi-insurance.ir,PROXY
-DOMAIN-SUFFIX,risc.ir,PROXY
-DOMAIN-SUFFIX,sinainsurance.com,PROXY
-DOMAIN-SUFFIX,tamin.ir,PROXY
-DOMAIN-SUFFIX,tins.ir,PROXY
+DOMAIN-SUFFIX,alborzinsurance.ir
+DOMAIN-SUFFIX,bimeh.com
+DOMAIN-SUFFIX,bimehasia.com
+DOMAIN-SUFFIX,bimeonline.com
+DOMAIN-SUFFIX,dana-insurance.com
+DOMAIN-SUFFIX,dayins.com
+DOMAIN-SUFFIX,hafezinsurance.ir
+DOMAIN-SUFFIX,ihio.gov.ir
+DOMAIN-SUFFIX,iraninsurance.ir
+DOMAIN-SUFFIX,karafarin-insurance.ir
+DOMAIN-SUFFIX,mellatinsurance.com
+DOMAIN-SUFFIX,novininsurance.com
+DOMAIN-SUFFIX,omid-insurance.ir
+DOMAIN-SUFFIX,parsianinsurance.ir
+DOMAIN-SUFFIX,razi-insurance.ir
+DOMAIN-SUFFIX,risc.ir
+DOMAIN-SUFFIX,sinainsurance.com
+DOMAIN-SUFFIX,tamin.ir
+DOMAIN-SUFFIX,tins.ir
 #end include:category-insurance-ir
 #include:category-media-ir
 # Iranian media websites
 #include:aparat
-DOMAIN-SUFFIX,aparat.com,PROXY
-DOMAIN-SUFFIX,aparatkids.com,PROXY
-DOMAIN-SUFFIX,aparatsport.com,PROXY
+DOMAIN-SUFFIX,aparat.com
+DOMAIN-SUFFIX,aparatkids.com
+DOMAIN-SUFFIX,aparatsport.com
 #end include:aparat
 #include:filimo
-DOMAIN-SUFFIX,filimo.com,PROXY
-DOMAIN-SUFFIX,filimo.school,PROXY
+DOMAIN-SUFFIX,filimo.com
+DOMAIN-SUFFIX,filimo.school
 #end include:filimo
 
-DOMAIN-SUFFIX,cinematicket.org,PROXY
-DOMAIN-SUFFIX,filmnet.ir,PROXY
-DOMAIN-SUFFIX,irib.ir,PROXY
-DOMAIN-SUFFIX,iribtv.ir,PROXY
-DOMAIN-SUFFIX,irinn.ir,PROXY
-DOMAIN-SUFFIX,jjtvn.ir,PROXY
-DOMAIN-SUFFIX,namava.ir,PROXY
-DOMAIN-SUFFIX,qurantv.ir,PROXY
-DOMAIN-SUFFIX,radio.ir,PROXY
-DOMAIN-SUFFIX,radioiran.ir,PROXY
-DOMAIN-SUFFIX,radiojavan.ir,PROXY
-DOMAIN-SUFFIX,radiomaaref.ir,PROXY
-DOMAIN-SUFFIX,radiopayam.ir,PROXY
-DOMAIN-SUFFIX,radioquran.ir,PROXY
-DOMAIN-SUFFIX,radiotehran.ir,PROXY
-DOMAIN-SUFFIX,radiovarzesh.ir,PROXY
-DOMAIN-SUFFIX,telewebion.com,PROXY
-DOMAIN-SUFFIX,tmk.ir,PROXY
-DOMAIN-SUFFIX,tv3.ir,PROXY
-DOMAIN-SUFFIX,tv5.ir,PROXY
-DOMAIN-SUFFIX,tv7.ir,PROXY
+DOMAIN-SUFFIX,cinematicket.org
+DOMAIN-SUFFIX,filmnet.ir
+DOMAIN-SUFFIX,irib.ir
+DOMAIN-SUFFIX,iribtv.ir
+DOMAIN-SUFFIX,irinn.ir
+DOMAIN-SUFFIX,jjtvn.ir
+DOMAIN-SUFFIX,namava.ir
+DOMAIN-SUFFIX,qurantv.ir
+DOMAIN-SUFFIX,radio.ir
+DOMAIN-SUFFIX,radioiran.ir
+DOMAIN-SUFFIX,radiojavan.ir
+DOMAIN-SUFFIX,radiomaaref.ir
+DOMAIN-SUFFIX,radiopayam.ir
+DOMAIN-SUFFIX,radioquran.ir
+DOMAIN-SUFFIX,radiotehran.ir
+DOMAIN-SUFFIX,radiovarzesh.ir
+DOMAIN-SUFFIX,telewebion.com
+DOMAIN-SUFFIX,tmk.ir
+DOMAIN-SUFFIX,tv3.ir
+DOMAIN-SUFFIX,tv5.ir
+DOMAIN-SUFFIX,tv7.ir
 #end include:category-media-ir
 #include:category-news-ir
 # Iranian news websites
 
 # News
-DOMAIN-SUFFIX,aftabnews.ir,PROXY
-DOMAIN-SUFFIX,alef.ir,PROXY
-DOMAIN-SUFFIX,asriran.com,PROXY
-DOMAIN-SUFFIX,bornanews.ir,PROXY
-DOMAIN-SUFFIX,ecobourse.ir,PROXY
-DOMAIN-SUFFIX,eghtesadnews.com,PROXY
-DOMAIN-SUFFIX,entekhab.ir,PROXY
-DOMAIN-SUFFIX,fararu.com,PROXY
-DOMAIN-SUFFIX,farsnews.ir,PROXY
-DOMAIN-SUFFIX,hawzahnews.com,PROXY
-DOMAIN-SUFFIX,ibena.ir,PROXY
-DOMAIN-SUFFIX,ibna.ir,PROXY
-DOMAIN-SUFFIX,ilna.ir,PROXY
-DOMAIN-SUFFIX,imna.ir,PROXY
-DOMAIN-SUFFIX,ipna.ir,PROXY
-DOMAIN-SUFFIX,iqna.ir,PROXY
-DOMAIN-SUFFIX,iraneconomist.com,PROXY
-DOMAIN-SUFFIX,irdiplomacy.ir,PROXY
-DOMAIN-SUFFIX,irib.ir,PROXY
-DOMAIN-SUFFIX,irna.ir,PROXY
-DOMAIN-SUFFIX,isna.ir,PROXY
-DOMAIN-SUFFIX,khabaronline.ir,PROXY
-DOMAIN-SUFFIX,mashreghnews.ir,PROXY
-DOMAIN-SUFFIX,mehrnews.com,PROXY
-DOMAIN-SUFFIX,pana.ir,PROXY
-DOMAIN-SUFFIX,parsine.com,PROXY
-DOMAIN-SUFFIX,qodsna.com,PROXY
-DOMAIN-SUFFIX,saat24.com,PROXY
-DOMAIN-SUFFIX,shabestan.ir,PROXY
-DOMAIN-SUFFIX,shana.ir,PROXY
-DOMAIN-SUFFIX,snn.ir,PROXY
-DOMAIN-SUFFIX,sobhanehonline.com,PROXY
-DOMAIN-SUFFIX,tabnak.ir,PROXY
-DOMAIN-SUFFIX,tasnimnews.com,PROXY
-DOMAIN-SUFFIX,tejaratnews.com,PROXY
-DOMAIN-SUFFIX,yjc.ir,PROXY
+DOMAIN-SUFFIX,aftabnews.ir
+DOMAIN-SUFFIX,alef.ir
+DOMAIN-SUFFIX,asriran.com
+DOMAIN-SUFFIX,bornanews.ir
+DOMAIN-SUFFIX,ecobourse.ir
+DOMAIN-SUFFIX,eghtesadnews.com
+DOMAIN-SUFFIX,entekhab.ir
+DOMAIN-SUFFIX,fararu.com
+DOMAIN-SUFFIX,farsnews.ir
+DOMAIN-SUFFIX,hawzahnews.com
+DOMAIN-SUFFIX,ibena.ir
+DOMAIN-SUFFIX,ibna.ir
+DOMAIN-SUFFIX,ilna.ir
+DOMAIN-SUFFIX,imna.ir
+DOMAIN-SUFFIX,ipna.ir
+DOMAIN-SUFFIX,iqna.ir
+DOMAIN-SUFFIX,iraneconomist.com
+DOMAIN-SUFFIX,irdiplomacy.ir
+DOMAIN-SUFFIX,irib.ir
+DOMAIN-SUFFIX,irna.ir
+DOMAIN-SUFFIX,isna.ir
+DOMAIN-SUFFIX,khabaronline.ir
+DOMAIN-SUFFIX,mashreghnews.ir
+DOMAIN-SUFFIX,mehrnews.com
+DOMAIN-SUFFIX,pana.ir
+DOMAIN-SUFFIX,parsine.com
+DOMAIN-SUFFIX,qodsna.com
+DOMAIN-SUFFIX,saat24.com
+DOMAIN-SUFFIX,shabestan.ir
+DOMAIN-SUFFIX,shana.ir
+DOMAIN-SUFFIX,snn.ir
+DOMAIN-SUFFIX,sobhanehonline.com
+DOMAIN-SUFFIX,tabnak.ir
+DOMAIN-SUFFIX,tasnimnews.com
+DOMAIN-SUFFIX,tejaratnews.com
+DOMAIN-SUFFIX,yjc.ir
 
 # Newspapers
-DOMAIN-SUFFIX,7sobh.com,PROXY
-DOMAIN-SUFFIX,abrarnews.com,PROXY
-DOMAIN-SUFFIX,aftabeyazd.ir,PROXY
-DOMAIN-SUFFIX,asianews.ir,PROXY
-DOMAIN-SUFFIX,donya-e-eqtesad.com,PROXY
-DOMAIN-SUFFIX,ebtekarnews.com,PROXY
-DOMAIN-SUFFIX,ettelaat.com,PROXY
-DOMAIN-SUFFIX,financialtribune.com,PROXY
-DOMAIN-SUFFIX,hamshahrionline.ir,PROXY
-DOMAIN-SUFFIX,iran-newspaper.com,PROXY
-DOMAIN-SUFFIX,jamejamonline.ir,PROXY
-DOMAIN-SUFFIX,kayhan.ir,PROXY
-DOMAIN-SUFFIX,khabarvarzeshi.com,PROXY
-DOMAIN-SUFFIX,khorasannews.com,PROXY
-DOMAIN-SUFFIX,mardomsalari.ir,PROXY
-DOMAIN-SUFFIX,newspaper.fdn.ir,PROXY
-DOMAIN-SUFFIX,resalat-news.com,PROXY
-DOMAIN-SUFFIX,sharghdaily.ir,PROXY
-DOMAIN-SUFFIX,tehrantimes.com,PROXY
+DOMAIN-SUFFIX,7sobh.com
+DOMAIN-SUFFIX,abrarnews.com
+DOMAIN-SUFFIX,aftabeyazd.ir
+DOMAIN-SUFFIX,asianews.ir
+DOMAIN-SUFFIX,donya-e-eqtesad.com
+DOMAIN-SUFFIX,ebtekarnews.com
+DOMAIN-SUFFIX,ettelaat.com
+DOMAIN-SUFFIX,financialtribune.com
+DOMAIN-SUFFIX,hamshahrionline.ir
+DOMAIN-SUFFIX,iran-newspaper.com
+DOMAIN-SUFFIX,jamejamonline.ir
+DOMAIN-SUFFIX,kayhan.ir
+DOMAIN-SUFFIX,khabarvarzeshi.com
+DOMAIN-SUFFIX,khorasannews.com
+DOMAIN-SUFFIX,mardomsalari.ir
+DOMAIN-SUFFIX,newspaper.fdn.ir
+DOMAIN-SUFFIX,resalat-news.com
+DOMAIN-SUFFIX,sharghdaily.ir
+DOMAIN-SUFFIX,tehrantimes.com
 #end include:category-news-ir
 #include:category-payment-ir
 # Iranian payment (IPG) websites
 
-DOMAIN-SUFFIX,asanpardakht.com,PROXY
-DOMAIN-SUFFIX,asanpardakht.net,PROXY
-DOMAIN-SUFFIX,behpardakht.com,PROXY
-DOMAIN-SUFFIX,bitbarg.me,PROXY
-DOMAIN-SUFFIX,iranicard.ir,PROXY
-DOMAIN-SUFFIX,mydigipay.com,PROXY
-DOMAIN-SUFFIX,pay.ir,PROXY
-DOMAIN-SUFFIX,payping.ir,PROXY
-DOMAIN-SUFFIX,pec.ir,PROXY
-DOMAIN-SUFFIX,pep.co.ir,PROXY
-DOMAIN-SUFFIX,sadadpsp.ir,PROXY
-DOMAIN-SUFFIX,sep.ir,PROXY
-DOMAIN-SUFFIX,shaparak.ir,PROXY
-DOMAIN-SUFFIX,vandar.app,PROXY
-DOMAIN-SUFFIX,vandar.io,PROXY
-DOMAIN-SUFFIX,weswap.digital,PROXY
-DOMAIN-SUFFIX,zarinpal.com,PROXY
+DOMAIN-SUFFIX,asanpardakht.com
+DOMAIN-SUFFIX,asanpardakht.net
+DOMAIN-SUFFIX,behpardakht.com
+DOMAIN-SUFFIX,bitbarg.me
+DOMAIN-SUFFIX,iranicard.ir
+DOMAIN-SUFFIX,mydigipay.com
+DOMAIN-SUFFIX,pay.ir
+DOMAIN-SUFFIX,payping.ir
+DOMAIN-SUFFIX,pec.ir
+DOMAIN-SUFFIX,pep.co.ir
+DOMAIN-SUFFIX,sadadpsp.ir
+DOMAIN-SUFFIX,sep.ir
+DOMAIN-SUFFIX,shaparak.ir
+DOMAIN-SUFFIX,vandar.app
+DOMAIN-SUFFIX,vandar.io
+DOMAIN-SUFFIX,weswap.digital
+DOMAIN-SUFFIX,zarinpal.com
 #end include:category-payment-ir
 #include:category-scholar-ir
 # Iranian scholar websites
 
-DOMAIN-SUFFIX,ac.ir,PROXY
-DOMAIN-SUFFIX,edu.ir,PROXY
-DOMAIN-SUFFIX,iau.ac.ir,PROXY
-DOMAIN-SUFFIX,iranlms.ir,PROXY
-DOMAIN-SUFFIX,jtt.ir,PROXY
-DOMAIN-SUFFIX,sanjesh.org,PROXY
-DOMAIN-SUFFIX,sharif.edu,PROXY
-DOMAIN-SUFFIX,sharif.ir,PROXY
-DOMAIN-SUFFIX,srttu.edu,PROXY
+DOMAIN-SUFFIX,ac.ir
+DOMAIN-SUFFIX,edu.ir
+DOMAIN-SUFFIX,iau.ac.ir
+DOMAIN-SUFFIX,iranlms.ir
+DOMAIN-SUFFIX,jtt.ir
+DOMAIN-SUFFIX,sanjesh.org
+DOMAIN-SUFFIX,sharif.edu
+DOMAIN-SUFFIX,sharif.ir
+DOMAIN-SUFFIX,srttu.edu
 #end include:category-scholar-ir
 #include:category-shopping-ir
 # Iranian shopping websites
 #include:divar
-DOMAIN-SUFFIX,divar.cloud,PROXY
-DOMAIN-SUFFIX,divar.ir,PROXY
-DOMAIN-SUFFIX,divarcdn.com,PROXY
+DOMAIN-SUFFIX,divar.cloud
+DOMAIN-SUFFIX,divar.ir
+DOMAIN-SUFFIX,divarcdn.com
 #end include:divar
 
-DOMAIN-SUFFIX,digi-kala.com,PROXY
-DOMAIN-SUFFIX,emalls.ir,PROXY
-DOMAIN-SUFFIX,esam.ir,PROXY
-DOMAIN-SUFFIX,janebi.com,PROXY
-DOMAIN-SUFFIX,janebi.ir,PROXY
-DOMAIN-SUFFIX,sheypoor.com,PROXY
-DOMAIN-SUFFIX,torob.com,PROXY
-DOMAIN-SUFFIX,zanbil.ir,PROXY
+DOMAIN-SUFFIX,digi-kala.com
+DOMAIN-SUFFIX,emalls.ir
+DOMAIN-SUFFIX,esam.ir
+DOMAIN-SUFFIX,janebi.com
+DOMAIN-SUFFIX,janebi.ir
+DOMAIN-SUFFIX,sheypoor.com
+DOMAIN-SUFFIX,torob.com
+DOMAIN-SUFFIX,zanbil.ir
 
 # Digikala
-DOMAIN-SUFFIX,digikala.com,PROXY
-DOMAIN-SUFFIX,digikalabusiness.com,PROXY
-DOMAIN-SUFFIX,digikalajet.com,PROXY
-DOMAIN-SUFFIX,digistyle.com,PROXY
+DOMAIN-SUFFIX,digikala.com
+DOMAIN-SUFFIX,digikalabusiness.com
+DOMAIN-SUFFIX,digikalajet.com
+DOMAIN-SUFFIX,digistyle.com
 #end include:category-shopping-ir
 #include:category-social-media-ir
 # This list contains social media platforms inside Iran.
 
-DOMAIN-SUFFIX,bale.ai,PROXY
-DOMAIN-SUFFIX,eitaa.com,PROXY
-DOMAIN-SUFFIX,eitaa.ir,PROXY
-DOMAIN-SUFFIX,gap.im,PROXY
-DOMAIN-SUFFIX,gaplication.com,PROXY
-DOMAIN-SUFFIX,mizito.ir,PROXY
-DOMAIN-SUFFIX,niniban.com,PROXY
-DOMAIN-SUFFIX,ninisite.com,PROXY
-DOMAIN-SUFFIX,rubika.ir,PROXY
-DOMAIN-SUFFIX,splus.ir,PROXY
-DOMAIN-SUFFIX,virasty.com,PROXY
+DOMAIN-SUFFIX,bale.ai
+DOMAIN-SUFFIX,eitaa.com
+DOMAIN-SUFFIX,eitaa.ir
+DOMAIN-SUFFIX,gap.im
+DOMAIN-SUFFIX,gaplication.com
+DOMAIN-SUFFIX,mizito.ir
+DOMAIN-SUFFIX,niniban.com
+DOMAIN-SUFFIX,ninisite.com
+DOMAIN-SUFFIX,rubika.ir
+DOMAIN-SUFFIX,splus.ir
+DOMAIN-SUFFIX,virasty.com
 
 #end include:category-social-media-ir
 #include:category-tech-ir
 # Iranian technology websites
 
-DOMAIN-SUFFIX,abrha.net,PROXY
-DOMAIN-SUFFIX,afranet.com,PROXY
-DOMAIN-SUFFIX,arvancloud.com,PROXY
-DOMAIN-SUFFIX,arvancloud.ir,PROXY
-DOMAIN-SUFFIX,arzex.io,PROXY
-DOMAIN-SUFFIX,asiatech.ir,PROXY
-DOMAIN-SUFFIX,cafebazaar.ir,PROXY
-DOMAIN-SUFFIX,cafebazaar.org,PROXY
-DOMAIN-SUFFIX,datisnetwork.com,PROXY
-DOMAIN-SUFFIX,download.ir,PROXY
-DOMAIN-SUFFIX,downloadly.ir,PROXY
-DOMAIN-SUFFIX,farsroid.com,PROXY
-DOMAIN-SUFFIX,hiweb.ir,PROXY
-DOMAIN-SUFFIX,ipnumberia.com,PROXY
-DOMAIN-SUFFIX,irancell.ir,PROXY
-DOMAIN-SUFFIX,iranmobile.org,PROXY
-DOMAIN-SUFFIX,iranserver.com,PROXY
-DOMAIN-SUFFIX,mci.ir,PROXY
-DOMAIN-SUFFIX,mihanwebhost.com,PROXY
-DOMAIN-SUFFIX,mobinnet.ir,PROXY
-DOMAIN-SUFFIX,myket.ir,PROXY
-DOMAIN-SUFFIX,neshanmap.ir,PROXY
-DOMAIN-SUFFIX,p30download.com,PROXY
-DOMAIN-SUFFIX,p30download.ir,PROXY
-DOMAIN-SUFFIX,parsonline.com,PROXY
-DOMAIN-SUFFIX,parspack.com,PROXY
-DOMAIN-SUFFIX,picofile.com,PROXY
-DOMAIN-SUFFIX,pishgaman.net,PROXY
-DOMAIN-SUFFIX,rightel.ir,PROXY
-DOMAIN-SUFFIX,sarmayex.com,PROXY
-DOMAIN-SUFFIX,sarzamindownload.com,PROXY
-DOMAIN-SUFFIX,shatel.ir,PROXY
-DOMAIN-SUFFIX,skyroom.online,PROXY
-DOMAIN-SUFFIX,smshooshmand.com,PROXY
-DOMAIN-SUFFIX,soft98.ir,PROXY
-DOMAIN-SUFFIX,softgozar.com,PROXY
-DOMAIN-SUFFIX,sotoon.ir,PROXY
-DOMAIN-SUFFIX,taliya.ir,PROXY
-DOMAIN-SUFFIX,tci.ir,PROXY
-DOMAIN-SUFFIX,uplod.ir,PROXY
-DOMAIN-SUFFIX,uupload.ir,PROXY
-DOMAIN-SUFFIX,yasdl.com,PROXY
-DOMAIN-SUFFIX,zhaket.com,PROXY
-DOMAIN-SUFFIX,zoomit.ir,PROXY
+DOMAIN-SUFFIX,abrha.net
+DOMAIN-SUFFIX,afranet.com
+DOMAIN-SUFFIX,arvancloud.com
+DOMAIN-SUFFIX,arvancloud.ir
+DOMAIN-SUFFIX,arzex.io
+DOMAIN-SUFFIX,asiatech.ir
+DOMAIN-SUFFIX,cafebazaar.ir
+DOMAIN-SUFFIX,cafebazaar.org
+DOMAIN-SUFFIX,datisnetwork.com
+DOMAIN-SUFFIX,download.ir
+DOMAIN-SUFFIX,downloadly.ir
+DOMAIN-SUFFIX,farsroid.com
+DOMAIN-SUFFIX,hiweb.ir
+DOMAIN-SUFFIX,ipnumberia.com
+DOMAIN-SUFFIX,irancell.ir
+DOMAIN-SUFFIX,iranmobile.org
+DOMAIN-SUFFIX,iranserver.com
+DOMAIN-SUFFIX,mci.ir
+DOMAIN-SUFFIX,mihanwebhost.com
+DOMAIN-SUFFIX,mobinnet.ir
+DOMAIN-SUFFIX,myket.ir
+DOMAIN-SUFFIX,neshanmap.ir
+DOMAIN-SUFFIX,p30download.com
+DOMAIN-SUFFIX,p30download.ir
+DOMAIN-SUFFIX,parsonline.com
+DOMAIN-SUFFIX,parspack.com
+DOMAIN-SUFFIX,picofile.com
+DOMAIN-SUFFIX,pishgaman.net
+DOMAIN-SUFFIX,rightel.ir
+DOMAIN-SUFFIX,sarmayex.com
+DOMAIN-SUFFIX,sarzamindownload.com
+DOMAIN-SUFFIX,shatel.ir
+DOMAIN-SUFFIX,skyroom.online
+DOMAIN-SUFFIX,smshooshmand.com
+DOMAIN-SUFFIX,soft98.ir
+DOMAIN-SUFFIX,softgozar.com
+DOMAIN-SUFFIX,sotoon.ir
+DOMAIN-SUFFIX,taliya.ir
+DOMAIN-SUFFIX,tci.ir
+DOMAIN-SUFFIX,uplod.ir
+DOMAIN-SUFFIX,uupload.ir
+DOMAIN-SUFFIX,yasdl.com
+DOMAIN-SUFFIX,zhaket.com
+DOMAIN-SUFFIX,zoomit.ir
 #end include:category-tech-ir
 #include:category-travel-ir
 # Iranian travel/trip websites
 
-DOMAIN-SUFFIX,alibaba.ir,PROXY
-DOMAIN-SUFFIX,flightio.com,PROXY
-DOMAIN-SUFFIX,mrbilit.com,PROXY
-DOMAIN-SUFFIX,tap30.services,PROXY
-DOMAIN-SUFFIX,tap33.me,PROXY
-DOMAIN-SUFFIX,tapsi.cab,PROXY
-DOMAIN-SUFFIX,tapsi.ir,PROXY
+DOMAIN-SUFFIX,alibaba.ir
+DOMAIN-SUFFIX,flightio.com
+DOMAIN-SUFFIX,mrbilit.com
+DOMAIN-SUFFIX,tap30.services
+DOMAIN-SUFFIX,tap33.me
+DOMAIN-SUFFIX,tapsi.cab
+DOMAIN-SUFFIX,tapsi.ir
 #end include:category-travel-ir
 
 # Conglomerate company
 #include:snapp
-DOMAIN-SUFFIX,cdnsnapptrip.com,PROXY
-DOMAIN-SUFFIX,snapp-box.com,PROXY
-DOMAIN-SUFFIX,snapp.cab,PROXY
-DOMAIN-SUFFIX,snapp.doctor,PROXY
-DOMAIN-SUFFIX,snapp.express,PROXY
-DOMAIN-SUFFIX,snapp.ir,PROXY
-DOMAIN-SUFFIX,snapp.ninja,PROXY
-DOMAIN-SUFFIX,snapp.site,PROXY
-DOMAIN-SUFFIX,snapp.supply,PROXY
-DOMAIN-SUFFIX,snapp.taxi,PROXY
-DOMAIN-SUFFIX,snapp.tech,PROXY
-DOMAIN-SUFFIX,snappcloud.io,PROXY
-DOMAIN-SUFFIX,snappfood.dev,PROXY
-DOMAIN-SUFFIX,snappfood.ir,PROXY
-DOMAIN-SUFFIX,snappmaps.ir,PROXY
-DOMAIN-SUFFIX,snapproom.com,PROXY
-DOMAIN-SUFFIX,snappshop.ir,PROXY
-DOMAIN-SUFFIX,snapptrip.com,PROXY
+DOMAIN-SUFFIX,cdnsnapptrip.com
+DOMAIN-SUFFIX,snapp-box.com
+DOMAIN-SUFFIX,snapp.cab
+DOMAIN-SUFFIX,snapp.doctor
+DOMAIN-SUFFIX,snapp.express
+DOMAIN-SUFFIX,snapp.ir
+DOMAIN-SUFFIX,snapp.ninja
+DOMAIN-SUFFIX,snapp.site
+DOMAIN-SUFFIX,snapp.supply
+DOMAIN-SUFFIX,snapp.taxi
+DOMAIN-SUFFIX,snapp.tech
+DOMAIN-SUFFIX,snappcloud.io
+DOMAIN-SUFFIX,snappfood.dev
+DOMAIN-SUFFIX,snappfood.ir
+DOMAIN-SUFFIX,snappmaps.ir
+DOMAIN-SUFFIX,snapproom.com
+DOMAIN-SUFFIX,snappshop.ir
+DOMAIN-SUFFIX,snapptrip.com
 #end include:snapp
 
 # Blog
-DOMAIN-SUFFIX,blogfa.com,PROXY
-DOMAIN-SUFFIX,blogsky.com,PROXY
-DOMAIN-SUFFIX,loxblog.com,PROXY
-DOMAIN-SUFFIX,niniweblog.com,PROXY
-DOMAIN-SUFFIX,rozblog.com,PROXY
+DOMAIN-SUFFIX,blogfa.com
+DOMAIN-SUFFIX,blogsky.com
+DOMAIN-SUFFIX,loxblog.com
+DOMAIN-SUFFIX,niniweblog.com
+DOMAIN-SUFFIX,rozblog.com
 
 # Maps
-DOMAIN-SUFFIX,balad.ir,PROXY
-DOMAIN-SUFFIX,neshan.org,PROXY
-DOMAIN-SUFFIX,raah.ir,PROXY
+DOMAIN-SUFFIX,balad.ir
+DOMAIN-SUFFIX,neshan.org
+DOMAIN-SUFFIX,raah.ir
 
 # Sport
-DOMAIN-SUFFIX,varzesh3.com,PROXY
+DOMAIN-SUFFIX,varzesh3.com
 
 # Financial
-DOMAIN-SUFFIX,isignal.ir,PROXY
-DOMAIN-SUFFIX,signalpardazgroup.com,PROXY
-DOMAIN-SUFFIX,tgju.org,PROXY
+DOMAIN-SUFFIX,isignal.ir
+DOMAIN-SUFFIX,signalpardazgroup.com
+DOMAIN-SUFFIX,tgju.org
 
 # Cars
-DOMAIN-SUFFIX,bama.ir,PROXY
-DOMAIN-SUFFIX,car.ir,PROXY
-DOMAIN-SUFFIX,ikco.ir,PROXY
-DOMAIN-SUFFIX,karnameh.com,PROXY
-DOMAIN-SUFFIX,khodro45.com,PROXY
-DOMAIN-SUFFIX,saipacorp.com,PROXY
+DOMAIN-SUFFIX,bama.ir
+DOMAIN-SUFFIX,car.ir
+DOMAIN-SUFFIX,ikco.ir
+DOMAIN-SUFFIX,karnameh.com
+DOMAIN-SUFFIX,khodro45.com
+DOMAIN-SUFFIX,saipacorp.com
 
 # Misc
-DOMAIN-SUFFIX,porsline.ir,PROXY
-DOMAIN-SUFFIX,time.ir,PROXY
+DOMAIN-SUFFIX,porsline.ir
+DOMAIN-SUFFIX,time.ir
 
 # Jobs
-DOMAIN-SUFFIX,jobinja.com,PROXY
-DOMAIN-SUFFIX,jobinja.ir,PROXY
-DOMAIN-SUFFIX,jobinjacdn.com,PROXY
+DOMAIN-SUFFIX,jobinja.com
+DOMAIN-SUFFIX,jobinja.ir
+DOMAIN-SUFFIX,jobinjacdn.com
 
-DOMAIN-SUFFIX,beytoote.com,PROXY
-DOMAIN-SUFFIX,setare.com,PROXY
-DOMAIN-SUFFIX,tebyan.net,PROXY
+DOMAIN-SUFFIX,beytoote.com
+DOMAIN-SUFFIX,setare.com
+DOMAIN-SUFFIX,tebyan.net
 
 # Courier Services
-DOMAIN-SUFFIX,dekapost.com,PROXY
-DOMAIN-SUFFIX,mahex.com,PROXY
-DOMAIN-SUFFIX,miare.ir,PROXY
-DOMAIN-SUFFIX,podro.com,PROXY
-DOMAIN-SUFFIX,tipax.ir,PROXY
-DOMAIN-SUFFIX,tipaxco.com,PROXY
+DOMAIN-SUFFIX,dekapost.com
+DOMAIN-SUFFIX,mahex.com
+DOMAIN-SUFFIX,miare.ir
+DOMAIN-SUFFIX,podro.com
+DOMAIN-SUFFIX,tipax.ir
+DOMAIN-SUFFIX,tipaxco.com

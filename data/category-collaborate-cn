@@ -1,36 +1,36 @@
 # Remote Desktop
 ## Oray
-DOMAIN-SUFFIX,oray.com,PROXY
-DOMAIN-SUFFIX,oray.net,PROXY
-DOMAIN-SUFFIX,orayer.com,PROXY
-DOMAIN-SUFFIX,orayimg.com,PROXY
-DOMAIN-SUFFIX,sunlogin.net,PROXY
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,orayer.com
+DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,sunlogin.net
 
 ## ToDesk
-DOMAIN-SUFFIX,todesk.com,PROXY
+DOMAIN-SUFFIX,todesk.com
 
 ## 连连控
-DOMAIN-SUFFIX,asklink.com,PROXY
+DOMAIN-SUFFIX,asklink.com
 
 ## 叮当猫脚本管理系统 懒人精灵远程调试
-DOMAIN-SUFFIX,privateapi.xyz,PROXY
+DOMAIN-SUFFIX,privateapi.xyz
 
 # Tower 团队协作
-DOMAIN-SUFFIX,tower.im,PROXY
+DOMAIN-SUFFIX,tower.im
 
 # 秀米编辑器
-DOMAIN-SUFFIX,tritoninfo.net,PROXY
-DOMAIN-SUFFIX,xiumi.us,PROXY
-DOMAIN-SUFFIX,xiumius.com,PROXY
+DOMAIN-SUFFIX,tritoninfo.net
+DOMAIN-SUFFIX,xiumi.us
+DOMAIN-SUFFIX,xiumius.com
 
 # 石墨文档
-DOMAIN-SUFFIX,shimo.im,PROXY
-DOMAIN-SUFFIX,shimonote.com,PROXY
-DOMAIN-SUFFIX,smgv.cn,PROXY
+DOMAIN-SUFFIX,shimo.im
+DOMAIN-SUFFIX,shimonote.com
+DOMAIN-SUFFIX,smgv.cn
 
 # 语雀
-DOMAIN-SUFFIX,nlark.com,PROXY
-DOMAIN-SUFFIX,yuque.com,PROXY
+DOMAIN-SUFFIX,nlark.com
+DOMAIN-SUFFIX,yuque.com
 
 # 吾道
-DOMAIN-SUFFIX,woodo.cn,PROXY
+DOMAIN-SUFFIX,woodo.cn

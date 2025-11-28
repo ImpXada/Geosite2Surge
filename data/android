@@ -1,7 +1,7 @@
 # All .android domains
-DOMAIN-SUFFIX,android,PROXY
+DOMAIN-SUFFIX,android
 
-DOMAIN-SUFFIX,android.com,PROXY
-DOMAIN-SUFFIX,androidify.com,PROXY
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,androidify.com
 
-DOMAIN,android.googlesource.com,PROXY
+DOMAIN,android.googlesource.com

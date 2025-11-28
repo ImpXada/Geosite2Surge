@@ -1,20 +1,20 @@
 #include:aiqicha
-DOMAIN-SUFFIX,aiqicha.baidu.com,PROXY
-DOMAIN-SUFFIX,aiqicha.cn,PROXY
-DOMAIN-SUFFIX,aiqicha.com,PROXY
+DOMAIN-SUFFIX,aiqicha.baidu.com
+DOMAIN-SUFFIX,aiqicha.cn
+DOMAIN-SUFFIX,aiqicha.com
 #end include:aiqicha
 #include:qcc
-DOMAIN-SUFFIX,qcc.com,PROXY
-DOMAIN-SUFFIX,qichacha.com,PROXY
+DOMAIN-SUFFIX,qcc.com
+DOMAIN-SUFFIX,qichacha.com
 #end include:qcc
 #include:qixin
-DOMAIN-SUFFIX,qixin.com,PROXY
+DOMAIN-SUFFIX,qixin.com
 #end include:qixin
 #include:tianyancha
-DOMAIN-SUFFIX,jindidata.com,PROXY
-DOMAIN-SUFFIX,tianyancha.com,PROXY
+DOMAIN-SUFFIX,jindidata.com
+DOMAIN-SUFFIX,tianyancha.com
 #end include:tianyancha
 
-DOMAIN-SUFFIX,qichamao.com,PROXY
-DOMAIN-SUFFIX,qyyjt.cn,PROXY
-DOMAIN-SUFFIX,x315.com,PROXY
+DOMAIN-SUFFIX,qichamao.com
+DOMAIN-SUFFIX,qyyjt.cn
+DOMAIN-SUFFIX,x315.com

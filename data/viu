@@ -1,10 +1,10 @@
 # viu.tv
-DOMAIN-SUFFIX,viu.tv,PROXY
-DOMAIN,api.viu.now.com,PROXY
-DOMAIN-WILDCARD,ewcdn*.nowe.com,PROXY
+DOMAIN-SUFFIX,viu.tv
+DOMAIN,api.viu.now.com
+DOMAIN-WILDCARD,ewcdn*.nowe.com
 
 # viu.com
-DOMAIN-SUFFIX,viu.com,PROXY
-DOMAIN,dfp6rglgjqszk.cloudfront.net,PROXY
-DOMAIN,d1k2us671qcoau.cloudfront.net,PROXY
-DOMAIN,d2anahhhmp1ffz.cloudfront.net,PROXY
+DOMAIN-SUFFIX,viu.com
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net

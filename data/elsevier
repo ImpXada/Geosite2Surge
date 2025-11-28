@@ -1,16 +1,16 @@
 # Elsevier's website,  One of the largest academic publishing companies
 
-DOMAIN-SUFFIX,cell.com,PROXY
-DOMAIN-SUFFIX,clinicalkey.com,PROXY
-DOMAIN-SUFFIX,els-cdn.com,PROXY
-DOMAIN-SUFFIX,elsevier-ae.com,PROXY
-DOMAIN-SUFFIX,elsevier.com,PROXY
-DOMAIN-SUFFIX,elsevier.io,PROXY
-DOMAIN-SUFFIX,engineeringvillage.com,PROXY
-DOMAIN-SUFFIX,evise.com,PROXY
-DOMAIN-SUFFIX,fundinginstitutional.com,PROXY
-DOMAIN-SUFFIX,knovel.com,PROXY
-DOMAIN-SUFFIX,mendeley.com,PROXY
-DOMAIN-SUFFIX,reaxys.com,PROXY
-DOMAIN-SUFFIX,scival.com,PROXY
-DOMAIN-SUFFIX,scopus.com,PROXY
+DOMAIN-SUFFIX,cell.com
+DOMAIN-SUFFIX,clinicalkey.com
+DOMAIN-SUFFIX,els-cdn.com
+DOMAIN-SUFFIX,elsevier-ae.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,elsevier.io
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,evise.com
+DOMAIN-SUFFIX,fundinginstitutional.com
+DOMAIN-SUFFIX,knovel.com
+DOMAIN-SUFFIX,mendeley.com
+DOMAIN-SUFFIX,reaxys.com
+DOMAIN-SUFFIX,scival.com
+DOMAIN-SUFFIX,scopus.com

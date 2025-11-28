@@ -1,23 +1,23 @@
-DOMAIN-SUFFIX,adguardaccount.com,PROXY
-DOMAIN-SUFFIX,adguard.app,PROXY
-DOMAIN-SUFFIX,adguard.com,PROXY
-DOMAIN-SUFFIX,adguard.info,PROXY
-DOMAIN-SUFFIX,adguard.io,PROXY
-DOMAIN-SUFFIX,adguard.org,PROXY
-DOMAIN-SUFFIX,adtidy.net,PROXY
-DOMAIN-SUFFIX,adtidy.org,PROXY
-DOMAIN-SUFFIX,agrd.eu,PROXY
-DOMAIN-SUFFIX,agrd.io,PROXY
+DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguard.app
+DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,adguard.info
+DOMAIN-SUFFIX,adguard.io
+DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,adtidy.net
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,agrd.eu
+DOMAIN-SUFFIX,agrd.io
 
 # adguard dns
-DOMAIN-SUFFIX,adguard-dns.com,PROXY
-DOMAIN-SUFFIX,adguard-dns.io,PROXY
+DOMAIN-SUFFIX,adguard-dns.com
+DOMAIN-SUFFIX,adguard-dns.io
 
 # adguard mail
-DOMAIN-SUFFIX,adguard-mail.com,PROXY
-DOMAIN-SUFFIX,mask.me,PROXY
+DOMAIN-SUFFIX,adguard-mail.com
+DOMAIN-SUFFIX,mask.me
 
 # adguard vpn
-DOMAIN-SUFFIX,adguardvpn.com,PROXY
-DOMAIN-SUFFIX,adguard-vpn.com,PROXY
-DOMAIN-SUFFIX,adguard-vpn.online,PROXY
+DOMAIN-SUFFIX,adguardvpn.com
+DOMAIN-SUFFIX,adguard-vpn.com
+DOMAIN-SUFFIX,adguard-vpn.online

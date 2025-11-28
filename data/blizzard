@@ -1,40 +1,40 @@
-DOMAIN-SUFFIX,blizzard.com,PROXY
-DOMAIN-SUFFIX,blizzardgearstore.com,PROXY
-DOMAIN-SUFFIX,blz-contentstack.com,PROXY
+DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,blizzardgearstore.com
+DOMAIN-SUFFIX,blz-contentstack.com
 
 # Battle.Net
-DOMAIN-SUFFIX,battle.net,PROXY
-DOMAIN,blizzard.nefficient.co.kr,PROXY
-DOMAIN,blzddist1-a.akamaihd.net,PROXY
-DOMAIN,blzddistkr1-a.akamaihd.net,PROXY
-DOMAIN,bnetcmsus-a.akamaihd.net,PROXY
-DOMAIN,bnetproduct-a.akamaihd.net,PROXY
-DOMAIN,bnetshopus.akamaized.net,PROXY
+DOMAIN-SUFFIX,battle.net
+DOMAIN,blizzard.nefficient.co.kr
+DOMAIN,blzddist1-a.akamaihd.net
+DOMAIN,blzddistkr1-a.akamaihd.net
+DOMAIN,bnetcmsus-a.akamaihd.net
+DOMAIN,bnetproduct-a.akamaihd.net
+DOMAIN,bnetshopus.akamaized.net
 
 # Diablo
-DOMAIN-SUFFIX,diablo3.com,PROXY
-DOMAIN-SUFFIX,diabloimmortal.com,PROXY
+DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diabloimmortal.com
 
 # Hearthstone
-DOMAIN-SUFFIX,firesidegatherings.com,PROXY
-DOMAIN-SUFFIX,playhearthstone.com,PROXY
+DOMAIN-SUFFIX,firesidegatherings.com
+DOMAIN-SUFFIX,playhearthstone.com
 
 # Hero of the Storm
-DOMAIN-SUFFIX,heroesofthestorm.com,PROXY
+DOMAIN-SUFFIX,heroesofthestorm.com
 
 # Overwatch
-DOMAIN-SUFFIX,playoverwatch.com,PROXY
+DOMAIN-SUFFIX,playoverwatch.com
 
 # Starcraft
-DOMAIN-SUFFIX,starcraft.com,PROXY
-DOMAIN-SUFFIX,starcraft2.com,PROXY
+DOMAIN-SUFFIX,starcraft.com
+DOMAIN-SUFFIX,starcraft2.com
 
 # Warcraft
-DOMAIN-SUFFIX,playwarcraft3.com,PROXY
+DOMAIN-SUFFIX,playwarcraft3.com
 
 # World of Warcraft
-DOMAIN-SUFFIX,worldofwarcraft.com,PROXY
+DOMAIN-SUFFIX,worldofwarcraft.com
 
-DOMAIN,blizzcon-a.akamaihd.net,PROXY
-DOMAIN,blzmedia-a.akamaihd.net,PROXY
-DOMAIN,blznav.akamaized.net,PROXY
+DOMAIN,blizzcon-a.akamaihd.net
+DOMAIN,blzmedia-a.akamaihd.net
+DOMAIN,blznav.akamaized.net

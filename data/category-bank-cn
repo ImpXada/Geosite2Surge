@@ -1,234 +1,234 @@
 #include:boc
-DOMAIN-SUFFIX,boc.cn,PROXY
+DOMAIN-SUFFIX,boc.cn
 
 # BOC International
-DOMAIN-SUFFIX,bank-of-china.com,PROXY
-DOMAIN-SUFFIX,bankofchina.com,PROXY
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,bankofchina.com
 
 # BOC Fullerton Community Bank
-DOMAIN-SUFFIX,bocfullertonbank.com,PROXY
+DOMAIN-SUFFIX,bocfullertonbank.com
 
 # Comprehensive management
-DOMAIN-SUFFIX,bocamchina.com,PROXY
-DOMAIN-SUFFIX,bocaviation.com,PROXY
-DOMAIN-SUFFIX,boccfc.cc,PROXY
-DOMAIN-SUFFIX,boccfc.cn,PROXY
-DOMAIN-SUFFIX,bocgi.com,PROXY
-DOMAIN-SUFFIX,bocgins.com,PROXY
-DOMAIN-SUFFIX,bochk.com,PROXY
-DOMAIN-SUFFIX,bocichina.cn,PROXY
-DOMAIN-SUFFIX,bocichina.com,PROXY
-DOMAIN-SUFFIX,bocichina.com.cn,PROXY
-DOMAIN-SUFFIX,bocifunds.cn,PROXY
-DOMAIN-SUFFIX,bocifunds.com,PROXY
-DOMAIN-SUFFIX,bocifunds.com.cn,PROXY
-DOMAIN-SUFFIX,bocigroup.com,PROXY
-DOMAIN-SUFFIX,bocim.com,PROXY
-DOMAIN-SUFFIX,bocservices.com.cn,PROXY
+DOMAIN-SUFFIX,bocamchina.com
+DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
+DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,bocgins.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bocichina.cn
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocichina.com.cn
+DOMAIN-SUFFIX,bocifunds.cn
+DOMAIN-SUFFIX,bocifunds.com
+DOMAIN-SUFFIX,bocifunds.com.cn
+DOMAIN-SUFFIX,bocigroup.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocservices.com.cn
 #end include:boc
 #include:ccb
-DOMAIN-SUFFIX,ccb-life.com.cn,PROXY
-DOMAIN-SUFFIX,ccb.cn,PROXY
-DOMAIN-SUFFIX,ccb.com,PROXY
-DOMAIN-SUFFIX,ccb.com.cn,PROXY
-DOMAIN-SUFFIX,ccbcos.com,PROXY
-DOMAIN-SUFFIX,ccbfund.cn,PROXY
-DOMAIN-SUFFIX,ccbfund.com,PROXY
-DOMAIN-SUFFIX,ccbfund.com.cn,PROXY
-DOMAIN-SUFFIX,ccbfutures.cn,PROXY
-DOMAIN-SUFFIX,ccbfutures.com,PROXY
-DOMAIN-SUFFIX,ccbintl.com.hk,PROXY
-DOMAIN-SUFFIX,ccbleasing.com,PROXY
-DOMAIN-SUFFIX,ccblife-test.com.cn,PROXY
-DOMAIN-SUFFIX,ccbseoul.com,PROXY
-DOMAIN-SUFFIX,ccbtrust.com.cn,PROXY
-DOMAIN-SUFFIX,ccbxt.com,PROXY
+DOMAIN-SUFFIX,ccb-life.com.cn
+DOMAIN-SUFFIX,ccb.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,ccb.com.cn
+DOMAIN-SUFFIX,ccbcos.com
+DOMAIN-SUFFIX,ccbfund.cn
+DOMAIN-SUFFIX,ccbfund.com
+DOMAIN-SUFFIX,ccbfund.com.cn
+DOMAIN-SUFFIX,ccbfutures.cn
+DOMAIN-SUFFIX,ccbfutures.com
+DOMAIN-SUFFIX,ccbintl.com.hk
+DOMAIN-SUFFIX,ccbleasing.com
+DOMAIN-SUFFIX,ccblife-test.com.cn
+DOMAIN-SUFFIX,ccbseoul.com
+DOMAIN-SUFFIX,ccbtrust.com.cn
+DOMAIN-SUFFIX,ccbxt.com
 #end include:ccb
 #include:citic
 # All .citic domains
-DOMAIN-SUFFIX,citic,PROXY
+DOMAIN-SUFFIX,citic
 
 # All .中信 domains
-DOMAIN-SUFFIX,xn--fiq64b,PROXY
+DOMAIN-SUFFIX,xn--fiq64b
 
-DOMAIN-SUFFIX,chinaamc.com,PROXY
-DOMAIN-SUFFIX,citic-prudential.com.cn,PROXY
-DOMAIN-SUFFIX,citicbank.com,PROXY
-DOMAIN-SUFFIX,citiccapital.com,PROXY
-DOMAIN-SUFFIX,citiciam.com,PROXY
-DOMAIN-SUFFIX,citicifh.com,PROXY
-DOMAIN-SUFFIX,citicprufunds.com.cn,PROXY
-DOMAIN-SUFFIX,citics.com.hk,PROXY
-DOMAIN-SUFFIX,citicsf.com,PROXY
-DOMAIN-SUFFIX,clsa.com,PROXY
-DOMAIN-SUFFIX,cncbinternational.com,PROXY
-DOMAIN-SUFFIX,csc108.com,PROXY
-DOMAIN-SUFFIX,csci.hk,PROXY
-DOMAIN-SUFFIX,ecitic.com,PROXY
+DOMAIN-SUFFIX,chinaamc.com
+DOMAIN-SUFFIX,citic-prudential.com.cn
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citiccapital.com
+DOMAIN-SUFFIX,citiciam.com
+DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,citicprufunds.com.cn
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,citicsf.com
+DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,csci.hk
+DOMAIN-SUFFIX,ecitic.com
 #end include:citic
 #include:cmb
-DOMAIN-SUFFIX,8008205555.cn,PROXY
-DOMAIN-SUFFIX,8008205555.com,PROXY
-DOMAIN-SUFFIX,cignacmb-ipmi.com,PROXY
-DOMAIN-SUFFIX,cignacmb.com,PROXY
-DOMAIN-SUFFIX,cignacmbamc.com,PROXY
-DOMAIN-SUFFIX,cmb-leasing.com,PROXY
-DOMAIN-SUFFIX,cmbchina.biz,PROXY
-DOMAIN-SUFFIX,cmbchina.cn,PROXY
-DOMAIN-SUFFIX,cmbchina.com,PROXY
-DOMAIN-SUFFIX,cmbi.com.hk,PROXY
-DOMAIN-SUFFIX,cmbimg.cn,PROXY
-DOMAIN-SUFFIX,cmbimg.com,PROXY
-DOMAIN-SUFFIX,cmbt.cn,PROXY
-DOMAIN-SUFFIX,cmbuat.com,PROXY
-DOMAIN-SUFFIX,cmburl.cn,PROXY
-DOMAIN-SUFFIX,cmbwinglungbank.com,PROXY
-DOMAIN-SUFFIX,cmf.biz,PROXY
-DOMAIN-SUFFIX,cmf.ltd,PROXY
-DOMAIN-SUFFIX,cmfchina.com,PROXY
-DOMAIN-SUFFIX,cmfunds.cn,PROXY
-DOMAIN-SUFFIX,test-cignacmb.com,PROXY
+DOMAIN-SUFFIX,8008205555.cn
+DOMAIN-SUFFIX,8008205555.com
+DOMAIN-SUFFIX,cignacmb-ipmi.com
+DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cignacmbamc.com
+DOMAIN-SUFFIX,cmb-leasing.com
+DOMAIN-SUFFIX,cmbchina.biz
+DOMAIN-SUFFIX,cmbchina.cn
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbimg.cn
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,cmbt.cn
+DOMAIN-SUFFIX,cmbuat.com
+DOMAIN-SUFFIX,cmburl.cn
+DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,cmf.biz
+DOMAIN-SUFFIX,cmf.ltd
+DOMAIN-SUFFIX,cmfchina.com
+DOMAIN-SUFFIX,cmfunds.cn
+DOMAIN-SUFFIX,test-cignacmb.com
 
 # 招赢&玖盈
-DOMAIN-SUFFIX,joying.com,PROXY
+DOMAIN-SUFFIX,joying.com
 #end include:cmb
 #include:hsbc-cn
-DOMAIN-SUFFIX,hsbc.com.cn,PROXY
-DOMAIN-SUFFIX,hsbcqh.com.cn,PROXY
-DOMAIN-SUFFIX,hsbcinsurance.com.cn,PROXY
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbcqh.com.cn
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
 #end include:hsbc-cn
 #include:icbc
 # All .icbc domains
-DOMAIN-SUFFIX,icbc,PROXY
+DOMAIN-SUFFIX,icbc
 
-DOMAIN-SUFFIX,95588.com,PROXY
-DOMAIN-SUFFIX,95588.com.cn,PROXY
-DOMAIN-SUFFIX,dccnet.com.cn,PROXY
-DOMAIN-SUFFIX,icbc-at.com,PROXY
-DOMAIN-SUFFIX,icbc-cz.com,PROXY
-DOMAIN-SUFFIX,icbc-ltd.com,PROXY
-DOMAIN-SUFFIX,icbc-uk.com,PROXY
-DOMAIN-SUFFIX,icbc-us.com,PROXY
-DOMAIN-SUFFIX,icbc.ae,PROXY
-DOMAIN-SUFFIX,icbc.be,PROXY
-DOMAIN-SUFFIX,icbc.co.id,PROXY
-DOMAIN-SUFFIX,icbc.co.jp,PROXY
-DOMAIN-SUFFIX,icbc.co.kr,PROXY
-DOMAIN-SUFFIX,icbc.co.nl,PROXY
-DOMAIN-SUFFIX,icbc.com.au,PROXY
-DOMAIN-SUFFIX,icbc.com.cn,PROXY
-DOMAIN-SUFFIX,icbc.com.es,PROXY
-DOMAIN-SUFFIX,icbc.com.kh,PROXY
-DOMAIN-SUFFIX,icbc.com.kw,PROXY
-DOMAIN-SUFFIX,icbc.com.la,PROXY
-DOMAIN-SUFFIX,icbc.com.mm,PROXY
-DOMAIN-SUFFIX,icbc.com.mo,PROXY
-DOMAIN-SUFFIX,icbc.com.mx,PROXY
-DOMAIN-SUFFIX,icbc.com.pe,PROXY
-DOMAIN-SUFFIX,icbc.com.pk,PROXY
-DOMAIN-SUFFIX,icbc.com.qa,PROXY
-DOMAIN-SUFFIX,icbc.com.sg,PROXY
-DOMAIN-SUFFIX,icbc.com.vn,PROXY
-DOMAIN-SUFFIX,icbc.de,PROXY
-DOMAIN-SUFFIX,icbc.eu,PROXY
-DOMAIN-SUFFIX,icbc.lu,PROXY
-DOMAIN-SUFFIX,icbcalmaty.kz,PROXY
-DOMAIN-SUFFIX,icbcasia.com,PROXY
-DOMAIN-SUFFIX,icbcbr.com.br,PROXY
-DOMAIN-SUFFIX,icbccs.com.cn,PROXY
-DOMAIN-SUFFIX,icbccstz.com.cn,PROXY
-DOMAIN-SUFFIX,icbci.com.hk,PROXY
-DOMAIN-SUFFIX,icbcina.com,PROXY
-DOMAIN-SUFFIX,icbcindia.com,PROXY
-DOMAIN-SUFFIX,icbcit.com,PROXY
-DOMAIN-SUFFIX,icbclondon.com,PROXY
-DOMAIN-SUFFIX,icbcmanila.com.cn,PROXY
-DOMAIN-SUFFIX,icbcme.ae,PROXY
-DOMAIN-SUFFIX,icbcmoscow.ru,PROXY
-DOMAIN-SUFFIX,icbcmy.com,PROXY
-DOMAIN-SUFFIX,icbcnz.com,PROXY
-DOMAIN-SUFFIX,icbcpanama.com,PROXY
-DOMAIN-SUFFIX,icbcparis.fr,PROXY
-DOMAIN-SUFFIX,icbcpl.com,PROXY
-DOMAIN-SUFFIX,icbcstandard.com,PROXY
-DOMAIN-SUFFIX,icbcstandardbank.com,PROXY
-DOMAIN-SUFFIX,icbcstandardresources.com,PROXY
-DOMAIN-SUFFIX,icbcstandardsecurities.com,PROXY
-DOMAIN-SUFFIX,icbcswiss.com,PROXY
-DOMAIN-SUFFIX,icbcthai.com,PROXY
-DOMAIN-SUFFIX,icbkfs.com,PROXY
-DOMAIN-SUFFIX,icbkus.com,PROXY
+DOMAIN-SUFFIX,95588.com
+DOMAIN-SUFFIX,95588.com.cn
+DOMAIN-SUFFIX,dccnet.com.cn
+DOMAIN-SUFFIX,icbc-at.com
+DOMAIN-SUFFIX,icbc-cz.com
+DOMAIN-SUFFIX,icbc-ltd.com
+DOMAIN-SUFFIX,icbc-uk.com
+DOMAIN-SUFFIX,icbc-us.com
+DOMAIN-SUFFIX,icbc.ae
+DOMAIN-SUFFIX,icbc.be
+DOMAIN-SUFFIX,icbc.co.id
+DOMAIN-SUFFIX,icbc.co.jp
+DOMAIN-SUFFIX,icbc.co.kr
+DOMAIN-SUFFIX,icbc.co.nl
+DOMAIN-SUFFIX,icbc.com.au
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,icbc.com.es
+DOMAIN-SUFFIX,icbc.com.kh
+DOMAIN-SUFFIX,icbc.com.kw
+DOMAIN-SUFFIX,icbc.com.la
+DOMAIN-SUFFIX,icbc.com.mm
+DOMAIN-SUFFIX,icbc.com.mo
+DOMAIN-SUFFIX,icbc.com.mx
+DOMAIN-SUFFIX,icbc.com.pe
+DOMAIN-SUFFIX,icbc.com.pk
+DOMAIN-SUFFIX,icbc.com.qa
+DOMAIN-SUFFIX,icbc.com.sg
+DOMAIN-SUFFIX,icbc.com.vn
+DOMAIN-SUFFIX,icbc.de
+DOMAIN-SUFFIX,icbc.eu
+DOMAIN-SUFFIX,icbc.lu
+DOMAIN-SUFFIX,icbcalmaty.kz
+DOMAIN-SUFFIX,icbcasia.com
+DOMAIN-SUFFIX,icbcbr.com.br
+DOMAIN-SUFFIX,icbccs.com.cn
+DOMAIN-SUFFIX,icbccstz.com.cn
+DOMAIN-SUFFIX,icbci.com.hk
+DOMAIN-SUFFIX,icbcina.com
+DOMAIN-SUFFIX,icbcindia.com
+DOMAIN-SUFFIX,icbcit.com
+DOMAIN-SUFFIX,icbclondon.com
+DOMAIN-SUFFIX,icbcmanila.com.cn
+DOMAIN-SUFFIX,icbcme.ae
+DOMAIN-SUFFIX,icbcmoscow.ru
+DOMAIN-SUFFIX,icbcmy.com
+DOMAIN-SUFFIX,icbcnz.com
+DOMAIN-SUFFIX,icbcpanama.com
+DOMAIN-SUFFIX,icbcparis.fr
+DOMAIN-SUFFIX,icbcpl.com
+DOMAIN-SUFFIX,icbcstandard.com
+DOMAIN-SUFFIX,icbcstandardbank.com
+DOMAIN-SUFFIX,icbcstandardresources.com
+DOMAIN-SUFFIX,icbcstandardsecurities.com
+DOMAIN-SUFFIX,icbcswiss.com
+DOMAIN-SUFFIX,icbcthai.com
+DOMAIN-SUFFIX,icbkfs.com
+DOMAIN-SUFFIX,icbkus.com
 #end include:icbc
 #include:unionpay
-DOMAIN-SUFFIX,95516.com,PROXY
-DOMAIN-SUFFIX,95516.net,PROXY
-DOMAIN-SUFFIX,chinaunionpay.com,PROXY
-DOMAIN-SUFFIX,chinaunionpay.com.cn,PROXY
-DOMAIN-SUFFIX,chinaunionpay.net,PROXY
-DOMAIN-SUFFIX,cup.com.cn,PROXY
-DOMAIN-SUFFIX,cup62.cn,PROXY
-DOMAIN-SUFFIX,unionpay.com,PROXY
-DOMAIN-SUFFIX,unionpay.net,PROXY
-DOMAIN-SUFFIX,unionpaysecure.com,PROXY
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,95516.net
+DOMAIN-SUFFIX,chinaunionpay.com
+DOMAIN-SUFFIX,chinaunionpay.com.cn
+DOMAIN-SUFFIX,chinaunionpay.net
+DOMAIN-SUFFIX,cup.com.cn
+DOMAIN-SUFFIX,cup62.cn
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,unionpay.net
+DOMAIN-SUFFIX,unionpaysecure.com
 
 # UnionPay International
-DOMAIN-SUFFIX,unionpayintl.cn,PROXY
-DOMAIN-SUFFIX,unionpayintl.com,PROXY
+DOMAIN-SUFFIX,unionpayintl.cn
+DOMAIN-SUFFIX,unionpayintl.com
 #end include:unionpay
 
-DOMAIN-SUFFIX,abchina.com,PROXY
-DOMAIN-SUFFIX,bankcomm.com,PROXY
-DOMAIN-SUFFIX,bankofbeijing.com.cn,PROXY
-DOMAIN-SUFFIX,bosc.cn,PROXY
-DOMAIN-SUFFIX,bsb.com.cn,PROXY
-DOMAIN-SUFFIX,cebbank.com,PROXY
-DOMAIN-SUFFIX,cgbchina.com.cn,PROXY
-DOMAIN-SUFFIX,cib.com.cn,PROXY
-DOMAIN-SUFFIX,citibank.com.cn,PROXY
-DOMAIN-SUFFIX,cmbc.com.cn,PROXY
-DOMAIN-SUFFIX,hxb.com.cn,PROXY
-DOMAIN-SUFFIX,njcb.com.cn,PROXY
-DOMAIN-SUFFIX,psbc.com,PROXY
-DOMAIN-SUFFIX,spdb.com.cn,PROXY
-DOMAIN-SUFFIX,whccb.com,PROXY
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,bankofbeijing.com.cn
+DOMAIN-SUFFIX,bosc.cn
+DOMAIN-SUFFIX,bsb.com.cn
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,citibank.com.cn
+DOMAIN-SUFFIX,cmbc.com.cn
+DOMAIN-SUFFIX,hxb.com.cn
+DOMAIN-SUFFIX,njcb.com.cn
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,whccb.com
 
 # 中国19家民营银行
 # 天津金城银行股份有限公司 Kincheng Bank of Tianjin Co., Ltd.
-DOMAIN-SUFFIX,kcbebank.com,PROXY
+DOMAIN-SUFFIX,kcbebank.com
 # 上海华瑞银行股份有限公司 Shanghai HuaRui Bank Co., LTD.
-DOMAIN-SUFFIX,shrbank.com,PROXY
+DOMAIN-SUFFIX,shrbank.com
 # 浙江网商银行股份有限公司 ZHEJIANG E-COMMERCE BANK CO.,LTD
-DOMAIN-SUFFIX,mybank.cn,PROXY
+DOMAIN-SUFFIX,mybank.cn
 # 温州民商银行股份有限公司 WENZHOU MINSHANG BANK CO.,LTD
-DOMAIN-SUFFIX,ms-bank.cn,PROXY
+DOMAIN-SUFFIX,ms-bank.cn
 # 深圳前海微众银行股份有限公司 WeBank Co.,Ltd
-DOMAIN-SUFFIX,webank.com,PROXY
-DOMAIN-SUFFIX,webankcdn.net,PROXY
+DOMAIN-SUFFIX,webank.com
+DOMAIN-SUFFIX,webankcdn.net
 # 湖南三湘银行股份有限公司 BANK OF SANXIANG
-DOMAIN-SUFFIX,csxbank.com,PROXY
+DOMAIN-SUFFIX,csxbank.com
 # 重庆富民银行股份有限公司 Chongqing Fumin Bank Co.,Ltd.
-DOMAIN-SUFFIX,fbank.com,PROXY
+DOMAIN-SUFFIX,fbank.com
 # 四川新网银行股份有限公司 SICHUAN XW BANK CORP.,LTD.
-DOMAIN-SUFFIX,xwbank.com,PROXY
+DOMAIN-SUFFIX,xwbank.com
 # 北京中关村银行股份有限公司 Beijing Zhongguancun Bank Corporation Limited
-DOMAIN-SUFFIX,zgcbank.com,PROXY
+DOMAIN-SUFFIX,zgcbank.com
 # 吉林亿联银行股份有限公司 JILIN YILLION BANK CO.，LTD.
-DOMAIN-SUFFIX,yillionbank.com,PROXY
+DOMAIN-SUFFIX,yillionbank.com
 # 武汉众邦银行股份有限公司 WUHANZBANK CO.,LTD.
-DOMAIN-SUFFIX,z-bank.com,PROXY
+DOMAIN-SUFFIX,z-bank.com
 # 福建华通银行股份有限公司 Fujian OneBank Company Limited
-DOMAIN-SUFFIX,onebank.com.cn,PROXY
+DOMAIN-SUFFIX,onebank.com.cn
 # 威海蓝海银行股份有限公司 WEIHAI BLUE OCEAN BANK CO.,LTD.
-DOMAIN-SUFFIX,wegobank.cn,PROXY
+DOMAIN-SUFFIX,wegobank.cn
 # 江苏苏宁银行股份有限公司 JIANGSU SUNING BANK CO.,LTD.
-DOMAIN-SUFFIX,suningbank.com,PROXY
+DOMAIN-SUFFIX,suningbank.com
 # 梅州客商银行股份有限公司 MEIZHOU HAKKA BANK CO., LTD.
-DOMAIN-SUFFIX,kshbank.cn,PROXY
+DOMAIN-SUFFIX,kshbank.cn
 # 安徽新安银行股份有限公司 Anhui xin’an bank Co.,Ltd.
-DOMAIN-SUFFIX,xa-bank.com,PROXY
+DOMAIN-SUFFIX,xa-bank.com
 # 辽宁振兴银行股份有限公司 NewUp Bank of Liaoning Co.,Ltd.
-DOMAIN-SUFFIX,newupbank.com,PROXY
+DOMAIN-SUFFIX,newupbank.com
 # 江西裕民银行股份有限公司 JIANGXI YUMIN BANK CO., LTD.
-DOMAIN-SUFFIX,ymbank.com,PROXY
+DOMAIN-SUFFIX,ymbank.com
 # 无锡锡商银行股份有限公司 WUXI XISHANG BANK CO.，LTD.
-DOMAIN-SUFFIX,wxsbank.com,PROXY
+DOMAIN-SUFFIX,wxsbank.com

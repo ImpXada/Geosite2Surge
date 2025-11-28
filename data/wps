@@ -1,28 +1,28 @@
-DOMAIN-SUFFIX,wps.cn,PROXY
-DOMAIN-SUFFIX,wps.com,PROXY
-DOMAIN-SUFFIX,wpscdn.cn,PROXY
-DOMAIN-SUFFIX,wpscdn.com,PROXY
+DOMAIN-SUFFIX,wps.cn
+DOMAIN-SUFFIX,wps.com
+DOMAIN-SUFFIX,wpscdn.cn
+DOMAIN-SUFFIX,wpscdn.com
 
 # Big Data Platform
-DOMAIN-SUFFIX,kscord.com,PROXY
+DOMAIN-SUFFIX,kscord.com
 
 # Dazitong
-DOMAIN-SUFFIX,51dzt.com,PROXY
+DOMAIN-SUFFIX,51dzt.com
 
 # Dictionary
-DOMAIN-SUFFIX,iciba.com,PROXY
+DOMAIN-SUFFIX,iciba.com
 
 # Docer
-DOMAIN-SUFFIX,docer.com,PROXY
+DOMAIN-SUFFIX,docer.com
 
 # Documents
-DOMAIN-SUFFIX,kdocs.cn,PROXY
+DOMAIN-SUFFIX,kdocs.cn
 
 # Mail
-DOMAIN-SUFFIX,wpsmail.net,PROXY
+DOMAIN-SUFFIX,wpsmail.net
 
 # PAPocket
-DOMAIN-SUFFIX,papocket.com,PROXY
+DOMAIN-SUFFIX,papocket.com
 
 # PDF
-DOMAIN-SUFFIX,wpspdf.cn,PROXY
+DOMAIN-SUFFIX,wpspdf.cn

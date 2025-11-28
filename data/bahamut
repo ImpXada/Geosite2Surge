@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,bahamut.akamaized.net,PROXY
-DOMAIN-SUFFIX,bahamut.com.tw,PROXY
-DOMAIN-SUFFIX,gamer.com.tw,PROXY
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
 
-DOMAIN,gamer2-cds.cdn.hinet.net,PROXY
-DOMAIN,gamer-cds.cdn.hinet.net,PROXY
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,gamer-cds.cdn.hinet.net

@@ -1,18 +1,18 @@
 # Hewlett Packard Enterprise Development, L. P.
-DOMAIN-SUFFIX,greenlakeaas.com,PROXY
-DOMAIN-SUFFIX,greenlakehybridcloud.com,PROXY
-DOMAIN-SUFFIX,hewlett-packard.asia,PROXY
-DOMAIN-SUFFIX,hewlett-packard.ch,PROXY
-DOMAIN-SUFFIX,hewlett-packard.co.il,PROXY
-DOMAIN-SUFFIX,hewlett-packard.co.uk,PROXY
-DOMAIN-SUFFIX,hewlett-packard.co,PROXY
-DOMAIN-SUFFIX,hewlett-packard.com.cn,PROXY
-DOMAIN-SUFFIX,hewlett-packard.com.mx,PROXY
-DOMAIN-SUFFIX,hewlett-packard.com.sg,PROXY
-DOMAIN-SUFFIX,hewlett-packard.jp,PROXY
-DOMAIN-SUFFIX,hewlett-packard.mobi,PROXY
-DOMAIN-SUFFIX,hewlettpackard.enterprises,PROXY
-DOMAIN-SUFFIX,hpe.com,PROXY
-DOMAIN-SUFFIX,hpecyber.com,PROXY
+DOMAIN-SUFFIX,greenlakeaas.com
+DOMAIN-SUFFIX,greenlakehybridcloud.com
+DOMAIN-SUFFIX,hewlett-packard.asia
+DOMAIN-SUFFIX,hewlett-packard.ch
+DOMAIN-SUFFIX,hewlett-packard.co.il
+DOMAIN-SUFFIX,hewlett-packard.co.uk
+DOMAIN-SUFFIX,hewlett-packard.co
+DOMAIN-SUFFIX,hewlett-packard.com.cn
+DOMAIN-SUFFIX,hewlett-packard.com.mx
+DOMAIN-SUFFIX,hewlett-packard.com.sg
+DOMAIN-SUFFIX,hewlett-packard.jp
+DOMAIN-SUFFIX,hewlett-packard.mobi
+DOMAIN-SUFFIX,hewlettpackard.enterprises
+DOMAIN-SUFFIX,hpe.com
+DOMAIN-SUFFIX,hpecyber.com
 
-DOMAIN,hpefonts.s3.amazonaws.com,PROXY
+DOMAIN,hpefonts.s3.amazonaws.com

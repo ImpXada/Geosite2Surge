@@ -1,166 +1,166 @@
 # Aliyun
 # regexp:^ntp([1-7])?\.aliyun\.com$ @cn
-DOMAIN,ntp.aliyun.com,PROXY
-DOMAIN,ntp1.aliyun.com,PROXY
-DOMAIN,ntp2.aliyun.com,PROXY
-DOMAIN,ntp3.aliyun.com,PROXY
-DOMAIN,ntp4.aliyun.com,PROXY
-DOMAIN,ntp5.aliyun.com,PROXY
-DOMAIN,ntp6.aliyun.com,PROXY
-DOMAIN,ntp7.aliyun.com,PROXY
+DOMAIN,ntp.aliyun.com
+DOMAIN,ntp1.aliyun.com
+DOMAIN,ntp2.aliyun.com
+DOMAIN,ntp3.aliyun.com
+DOMAIN,ntp4.aliyun.com
+DOMAIN,ntp5.aliyun.com
+DOMAIN,ntp6.aliyun.com
+DOMAIN,ntp7.aliyun.com
 
 # AWS
-DOMAIN,time.amazonaws.cn,PROXY
+DOMAIN,time.amazonaws.cn
 
 # Qualcomm
-DOMAIN,time.izatcloud.net,PROXY
-DOMAIN,time.xtracloud.net,PROXY
+DOMAIN,time.izatcloud.net
+DOMAIN,time.xtracloud.net
 
 # Tencent
 # regexp:^ntp([1-5])?\.tencent\.com$ @cn
-DOMAIN,ntp.tencent.com,PROXY
-DOMAIN,ntp1.tencent.com,PROXY
-DOMAIN,ntp2.tencent.com,PROXY
-DOMAIN,ntp3.tencent.com,PROXY
-DOMAIN,ntp4.tencent.com,PROXY
-DOMAIN,ntp5.tencent.com,PROXY
+DOMAIN,ntp.tencent.com
+DOMAIN,ntp1.tencent.com
+DOMAIN,ntp2.tencent.com
+DOMAIN,ntp3.tencent.com
+DOMAIN,ntp4.tencent.com
+DOMAIN,ntp5.tencent.com
 
-DOMAIN-SUFFIX,cn.pool.ntp.org,PROXY
-DOMAIN-SUFFIX,ntp.neu.edu.cn,PROXY
-DOMAIN-SUFFIX,ntp.ntsc.ac.cn,PROXY
-DOMAIN-SUFFIX,ntp.org.cn,PROXY
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,ntp.neu.edu.cn
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-SUFFIX,ntp.org.cn
 #end include:category-ntp-cn
 # アマノセキュアジャパン(e-timing): https://www.e-timing.ne.jp/product/timestamp/open-server/
-DOMAIN-SUFFIX,ats1.e-timing.ne.jp,PROXY
+DOMAIN-SUFFIX,ats1.e-timing.ne.jp
 
 # INTERNET MULTIFEED: https://www.mfeed.ad.jp/ntp/detail.html
-DOMAIN-SUFFIX,ntp.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp1.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp2.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp1.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp2.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp
 
 # 国立天文台水沢 https://www.miz.nao.ac.jp/vlbi/ntp.html
-DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp,PROXY
+DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp
 
 # 情報通信研究機構(NICT): https://jjy.nict.go.jp/tsp/PubNtp/index.html
-DOMAIN-SUFFIX,ntp.nict.jp,PROXY
+DOMAIN-SUFFIX,ntp.nict.jp
 
 # OCN: https://www.ntt.com/business/services/network/internet-connect/ocn-business/ocn/customer/set_up/tech_1.html
-DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp
+DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp
+DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp
 
 # plala: https://mainte.plala.or.jp/support/manual/internet/setup/
-DOMAIN-SUFFIX,ntp1.plala.or.jp,PROXY
-DOMAIN-SUFFIX,ntp2.plala.or.jp,PROXY
+DOMAIN-SUFFIX,ntp1.plala.or.jp
+DOMAIN-SUFFIX,ntp2.plala.or.jp
 
 # Ring Server Project: http://www.ring.gr.jp/ring/ntp.html.ja
-DOMAIN-SUFFIX,ntp.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp0.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp1.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp2.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp.t.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp.dnsbalance.ring.gr.jp,PROXY
+DOMAIN-SUFFIX,ntp.ring.gr.jp
+DOMAIN-SUFFIX,ntp0.ring.gr.jp
+DOMAIN-SUFFIX,ntp1.ring.gr.jp
+DOMAIN-SUFFIX,ntp2.ring.gr.jp
+DOMAIN-SUFFIX,ntp.t.ring.gr.jp
+DOMAIN-SUFFIX,ntp.dnsbalance.ring.gr.jp
 
 # 東京大学(The University of Tokyo)
-DOMAIN-SUFFIX,ntp.nc.u-tokyo.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.nc.u-tokyo.ac.jp
 
 # 東北大学(TOHOKU UNIVERSITY): https://www.tains.tohoku.ac.jp/contents/information/server-info.html
-DOMAIN-SUFFIX,ntp.tohoku.ac.jp,PROXY
-DOMAIN-SUFFIX,ntp1.tohoku.ac.jp,PROXY
-DOMAIN-SUFFIX,ntp2.tohoku.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp1.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp2.tohoku.ac.jp
 
 # 豊橋技術科学大学(Toyohashi University of Technology): https://imc.tut.ac.jp/misc/
-DOMAIN-SUFFIX,ntp.tut.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.tut.ac.jp
 
 # WAKWAK: https://www.wakwak.com/prl/support/g_internet/server_wakwak.html
-DOMAIN-SUFFIX,ntp1.wakwak.com,PROXY
-DOMAIN-SUFFIX,ntp2.wakwak.com,PROXY
+DOMAIN-SUFFIX,ntp1.wakwak.com
+DOMAIN-SUFFIX,ntp2.wakwak.com
 #end include:category-ntp-jp
 
 # Apple
 # regexp:^time(.euro)?.apple.com$
-DOMAIN,time.apple.com,PROXY
-DOMAIN,time.asia.apple.com,PROXY
-DOMAIN,time.euro.apple.com,PROXY
+DOMAIN,time.apple.com
+DOMAIN,time.asia.apple.com
+DOMAIN,time.euro.apple.com
 
 # AWS
-DOMAIN,time.aws.com,PROXY
+DOMAIN,time.aws.com
 
 # Cloudflare
-DOMAIN,time.cloudflare.com,PROXY
+DOMAIN,time.cloudflare.com
 
 # Facebook
 # regexp:^time([1-5])?\.facebook\.com$
-DOMAIN,time.facebook.com,PROXY
-DOMAIN,time1.facebook.com,PROXY
-DOMAIN,time2.facebook.com,PROXY
-DOMAIN,time3.facebook.com,PROXY
-DOMAIN,time4.facebook.com,PROXY
-DOMAIN,time5.facebook.com,PROXY
+DOMAIN,time.facebook.com
+DOMAIN,time1.facebook.com
+DOMAIN,time2.facebook.com
+DOMAIN,time3.facebook.com
+DOMAIN,time4.facebook.com
+DOMAIN,time5.facebook.com
 
 # Google
 # regexp:^time([1-4])?.google.com$
-DOMAIN,time.google.com,PROXY
-DOMAIN,time1.google.com,PROXY
-DOMAIN,time2.google.com,PROXY
-DOMAIN,time3.google.com,PROXY
-DOMAIN,time4.google.com,PROXY
+DOMAIN,time.google.com
+DOMAIN,time1.google.com
+DOMAIN,time2.google.com
+DOMAIN,time3.google.com
+DOMAIN,time4.google.com
 
 # Ubuntu
-DOMAIN,ntp.ubuntu.com,PROXY
+DOMAIN,ntp.ubuntu.com
 
 # Windows
-DOMAIN,time.windows.com,PROXY
+DOMAIN,time.windows.com
 
 # NIST: https://tf.nist.gov/tf-cgi/servers.cgi
 # regexp:^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
-DOMAIN,ut1-wwv.nist.gov,PROXY
-DOMAIN,ntp-b.nist.gov,PROXY
-DOMAIN,ntp-d.nist.gov,PROXY
-DOMAIN,ntp-wwv.nist.gov,PROXY
-DOMAIN,time.nist.gov,PROXY
-DOMAIN,time-a-g.nist.gov,PROXY
-DOMAIN,time-b-g.nist.gov,PROXY
-DOMAIN,time-c-g.nist.gov,PROXY
-DOMAIN,time-d-g.nist.gov,PROXY
-DOMAIN,time-e-g.nist.gov,PROXY
-DOMAIN,time-a-b.nist.gov,PROXY
-DOMAIN,time-b-b.nist.gov,PROXY
-DOMAIN,time-c-b.nist.gov,PROXY
-DOMAIN,time-d-b.nist.gov,PROXY
-DOMAIN,time-e-b.nist.gov,PROXY
-DOMAIN,time-a-wwv.nist.gov,PROXY
-DOMAIN,time-b-wwv.nist.gov,PROXY
-DOMAIN,time-c-wwv.nist.gov,PROXY
-DOMAIN,time-d-wwv.nist.gov,PROXY
-DOMAIN,time-e-wwv.nist.gov,PROXY
-DOMAIN,ntp-c.colorado.edu,PROXY
-DOMAIN,ut1-time.colorado.edu,PROXY
-DOMAIN,utcnist.colorado.edu,PROXY
-DOMAIN,utcnist2.colorado.edu,PROXY
-DOMAIN,utcnist3.colorado.edu,PROXY
+DOMAIN,ut1-wwv.nist.gov
+DOMAIN,ntp-b.nist.gov
+DOMAIN,ntp-d.nist.gov
+DOMAIN,ntp-wwv.nist.gov
+DOMAIN,time.nist.gov
+DOMAIN,time-a-g.nist.gov
+DOMAIN,time-b-g.nist.gov
+DOMAIN,time-c-g.nist.gov
+DOMAIN,time-d-g.nist.gov
+DOMAIN,time-e-g.nist.gov
+DOMAIN,time-a-b.nist.gov
+DOMAIN,time-b-b.nist.gov
+DOMAIN,time-c-b.nist.gov
+DOMAIN,time-d-b.nist.gov
+DOMAIN,time-e-b.nist.gov
+DOMAIN,time-a-wwv.nist.gov
+DOMAIN,time-b-wwv.nist.gov
+DOMAIN,time-c-wwv.nist.gov
+DOMAIN,time-d-wwv.nist.gov
+DOMAIN,time-e-wwv.nist.gov
+DOMAIN,ntp-c.colorado.edu
+DOMAIN,ut1-time.colorado.edu
+DOMAIN,utcnist.colorado.edu
+DOMAIN,utcnist2.colorado.edu
+DOMAIN,utcnist3.colorado.edu
 
 # NTP-servers: https://ntp-servers.net/servers.html
 # regexp:^ntp[0-7]\.ntp-servers\.net$
-DOMAIN,ntp0.ntp-servers.net,PROXY
-DOMAIN,ntp1.ntp-servers.net,PROXY
-DOMAIN,ntp2.ntp-servers.net,PROXY
-DOMAIN,ntp3.ntp-servers.net,PROXY
-DOMAIN,ntp4.ntp-servers.net,PROXY
-DOMAIN,ntp5.ntp-servers.net,PROXY
-DOMAIN,ntp6.ntp-servers.net,PROXY
-DOMAIN,ntp7.ntp-servers.net,PROXY
+DOMAIN,ntp0.ntp-servers.net
+DOMAIN,ntp1.ntp-servers.net
+DOMAIN,ntp2.ntp-servers.net
+DOMAIN,ntp3.ntp-servers.net
+DOMAIN,ntp4.ntp-servers.net
+DOMAIN,ntp5.ntp-servers.net
+DOMAIN,ntp6.ntp-servers.net
+DOMAIN,ntp7.ntp-servers.net
 
-DOMAIN-SUFFIX,clock.isc.org,PROXY
-DOMAIN-SUFFIX,ntp.fiord.ru,PROXY
-DOMAIN-SUFFIX,ntp.nat.ms,PROXY
-DOMAIN-SUFFIX,ntp.nic.cz,PROXY
-DOMAIN-SUFFIX,ntp.ripe.net,PROXY
-DOMAIN-SUFFIX,ntp.se,PROXY
-DOMAIN-SUFFIX,ntp.ufe.cz,PROXY
-DOMAIN-SUFFIX,pool.ntp.org,PROXY
-DOMAIN-SUFFIX,time.nrc.ca,PROXY
+DOMAIN-SUFFIX,clock.isc.org
+DOMAIN-SUFFIX,ntp.fiord.ru
+DOMAIN-SUFFIX,ntp.nat.ms
+DOMAIN-SUFFIX,ntp.nic.cz
+DOMAIN-SUFFIX,ntp.ripe.net
+DOMAIN-SUFFIX,ntp.se
+DOMAIN-SUFFIX,ntp.ufe.cz
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,time.nrc.ca

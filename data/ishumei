@@ -1,11 +1,11 @@
 # 北京数美时代科技有限公司 京ICP备15044177号
-DOMAIN-SUFFIX,ishumei.com,PROXY
-DOMAIN-SUFFIX,fengkongbao.com,PROXY
-DOMAIN-SUFFIX,fengkongcloud.com,PROXY
-DOMAIN-SUFFIX,fengkongcloud.cn,PROXY
-DOMAIN-SUFFIX,portal101.cn,PROXY
-DOMAIN-SUFFIX,portal102.cn,PROXY
-DOMAIN-SUFFIX,portal201.cn,PROXY
-DOMAIN-SUFFIX,portal301.cn,PROXY
-DOMAIN-SUFFIX,tebiefuza.cloud,PROXY
-DOMAIN-SUFFIX,tebiefuza.cn,PROXY
+DOMAIN-SUFFIX,ishumei.com
+DOMAIN-SUFFIX,fengkongbao.com
+DOMAIN-SUFFIX,fengkongcloud.com
+DOMAIN-SUFFIX,fengkongcloud.cn
+DOMAIN-SUFFIX,portal101.cn
+DOMAIN-SUFFIX,portal102.cn
+DOMAIN-SUFFIX,portal201.cn
+DOMAIN-SUFFIX,portal301.cn
+DOMAIN-SUFFIX,tebiefuza.cloud
+DOMAIN-SUFFIX,tebiefuza.cn

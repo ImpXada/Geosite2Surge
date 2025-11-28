@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,dazn-api.com,PROXY
-DOMAIN-SUFFIX,dazn.com,PROXY
-DOMAIN-SUFFIX,dazndn.com,PROXY
-DOMAIN-SUFFIX,indazn.com,PROXY
-DOMAIN-SUFFIX,indaznlab.com,PROXY
+DOMAIN-SUFFIX,dazn-api.com
+DOMAIN-SUFFIX,dazn.com
+DOMAIN-SUFFIX,dazndn.com
+DOMAIN-SUFFIX,indazn.com
+DOMAIN-SUFFIX,indaznlab.com

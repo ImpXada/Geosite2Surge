@@ -1,8 +1,8 @@
 # 珠海格力
-DOMAIN-SUFFIX,gree.cn,PROXY
-DOMAIN-SUFFIX,gree.com,PROXY
-DOMAIN-SUFFIX,gree.com.cn,PROXY
-DOMAIN-SUFFIX,greeyun.com,PROXY
-DOMAIN-SUFFIX,kinghomechina.com,PROXY
-DOMAIN-SUFFIX,tosot.com.cn,PROXY
-DOMAIN-SUFFIX,zhlyen.com,PROXY
+DOMAIN-SUFFIX,gree.cn
+DOMAIN-SUFFIX,gree.com
+DOMAIN-SUFFIX,gree.com.cn
+DOMAIN-SUFFIX,greeyun.com
+DOMAIN-SUFFIX,kinghomechina.com
+DOMAIN-SUFFIX,tosot.com.cn
+DOMAIN-SUFFIX,zhlyen.com

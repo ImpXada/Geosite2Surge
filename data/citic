@@ -1,20 +1,20 @@
 # All .citic domains
-DOMAIN-SUFFIX,citic,PROXY
+DOMAIN-SUFFIX,citic
 
 # All .中信 domains
-DOMAIN-SUFFIX,xn--fiq64b,PROXY
+DOMAIN-SUFFIX,xn--fiq64b
 
-DOMAIN-SUFFIX,chinaamc.com,PROXY
-DOMAIN-SUFFIX,citic-prudential.com.cn,PROXY
-DOMAIN-SUFFIX,citicbank.com,PROXY
-DOMAIN-SUFFIX,citiccapital.com,PROXY
-DOMAIN-SUFFIX,citiciam.com,PROXY
-DOMAIN-SUFFIX,citicifh.com,PROXY
-DOMAIN-SUFFIX,citicprufunds.com.cn,PROXY
-DOMAIN-SUFFIX,citics.com.hk,PROXY
-DOMAIN-SUFFIX,citicsf.com,PROXY
-DOMAIN-SUFFIX,clsa.com,PROXY
-DOMAIN-SUFFIX,cncbinternational.com,PROXY
-DOMAIN-SUFFIX,csc108.com,PROXY
-DOMAIN-SUFFIX,csci.hk,PROXY
-DOMAIN-SUFFIX,ecitic.com,PROXY
+DOMAIN-SUFFIX,chinaamc.com
+DOMAIN-SUFFIX,citic-prudential.com.cn
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citiccapital.com
+DOMAIN-SUFFIX,citiciam.com
+DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,citicprufunds.com.cn
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,citicsf.com
+DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,csci.hk
+DOMAIN-SUFFIX,ecitic.com

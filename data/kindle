@@ -1,23 +1,23 @@
 # All .kindle domains
-DOMAIN-SUFFIX,kindle,PROXY
+DOMAIN-SUFFIX,kindle
 
 # Kindle
-DOMAIN-SUFFIX,kindle.cn,PROXY
-DOMAIN-SUFFIX,kindle.co.jp,PROXY
-DOMAIN-SUFFIX,kindle.co.uk,PROXY
-DOMAIN-SUFFIX,kindle.com,PROXY
-DOMAIN-SUFFIX,kindle.de,PROXY
-DOMAIN-SUFFIX,kindle.es,PROXY
-DOMAIN-SUFFIX,kindle.fr,PROXY
-DOMAIN-SUFFIX,kindle.in,PROXY
-DOMAIN-SUFFIX,kindle.it,PROXY
-DOMAIN-SUFFIX,kindle.jp,PROXY
-DOMAIN-SUFFIX,kindleoasis.cn,PROXY
-DOMAIN-SUFFIX,kindleoasis.com,PROXY
-DOMAIN-SUFFIX,kindleoasis.com.cn,PROXY
-DOMAIN-SUFFIX,kindleoasis.info,PROXY
-DOMAIN-SUFFIX,kindleoasis.jp,PROXY
-DOMAIN-SUFFIX,kindleoasis.org,PROXY
-DOMAIN-SUFFIX,kindleoasis.us,PROXY
-DOMAIN-SUFFIX,kindleoasisnews.com,PROXY
-DOMAIN-SUFFIX,kindleproject.com,PROXY
+DOMAIN-SUFFIX,kindle.cn
+DOMAIN-SUFFIX,kindle.co.jp
+DOMAIN-SUFFIX,kindle.co.uk
+DOMAIN-SUFFIX,kindle.com
+DOMAIN-SUFFIX,kindle.de
+DOMAIN-SUFFIX,kindle.es
+DOMAIN-SUFFIX,kindle.fr
+DOMAIN-SUFFIX,kindle.in
+DOMAIN-SUFFIX,kindle.it
+DOMAIN-SUFFIX,kindle.jp
+DOMAIN-SUFFIX,kindleoasis.cn
+DOMAIN-SUFFIX,kindleoasis.com
+DOMAIN-SUFFIX,kindleoasis.com.cn
+DOMAIN-SUFFIX,kindleoasis.info
+DOMAIN-SUFFIX,kindleoasis.jp
+DOMAIN-SUFFIX,kindleoasis.org
+DOMAIN-SUFFIX,kindleoasis.us
+DOMAIN-SUFFIX,kindleoasisnews.com
+DOMAIN-SUFFIX,kindleproject.com

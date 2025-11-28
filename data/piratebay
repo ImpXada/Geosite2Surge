@@ -1,11 +1,11 @@
 # Piratebay forum
-DOMAIN-SUFFIX,pirates-forum.org,PROXY
+DOMAIN-SUFFIX,pirates-forum.org
 
 # Piratebay image hosting site
-DOMAIN-SUFFIX,torrindex.net,PROXY
+DOMAIN-SUFFIX,torrindex.net
 
 # Piratebay official site
-DOMAIN-SUFFIX,thepiratebay.org,PROXY
+DOMAIN-SUFFIX,thepiratebay.org
 
 # Piratebay related site
-DOMAIN-SUFFIX,apibay.org,PROXY
+DOMAIN-SUFFIX,apibay.org

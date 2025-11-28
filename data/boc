@@ -1,26 +1,26 @@
-DOMAIN-SUFFIX,boc.cn,PROXY
+DOMAIN-SUFFIX,boc.cn
 
 # BOC International
-DOMAIN-SUFFIX,bank-of-china.com,PROXY
-DOMAIN-SUFFIX,bankofchina.com,PROXY
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,bankofchina.com
 
 # BOC Fullerton Community Bank
-DOMAIN-SUFFIX,bocfullertonbank.com,PROXY
+DOMAIN-SUFFIX,bocfullertonbank.com
 
 # Comprehensive management
-DOMAIN-SUFFIX,bocamchina.com,PROXY
-DOMAIN-SUFFIX,bocaviation.com,PROXY
-DOMAIN-SUFFIX,boccfc.cc,PROXY
-DOMAIN-SUFFIX,boccfc.cn,PROXY
-DOMAIN-SUFFIX,bocgi.com,PROXY
-DOMAIN-SUFFIX,bocgins.com,PROXY
-DOMAIN-SUFFIX,bochk.com,PROXY
-DOMAIN-SUFFIX,bocichina.cn,PROXY
-DOMAIN-SUFFIX,bocichina.com,PROXY
-DOMAIN-SUFFIX,bocichina.com.cn,PROXY
-DOMAIN-SUFFIX,bocifunds.cn,PROXY
-DOMAIN-SUFFIX,bocifunds.com,PROXY
-DOMAIN-SUFFIX,bocifunds.com.cn,PROXY
-DOMAIN-SUFFIX,bocigroup.com,PROXY
-DOMAIN-SUFFIX,bocim.com,PROXY
-DOMAIN-SUFFIX,bocservices.com.cn,PROXY
+DOMAIN-SUFFIX,bocamchina.com
+DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
+DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,bocgins.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,bocichina.cn
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocichina.com.cn
+DOMAIN-SUFFIX,bocifunds.cn
+DOMAIN-SUFFIX,bocifunds.com
+DOMAIN-SUFFIX,bocifunds.com.cn
+DOMAIN-SUFFIX,bocigroup.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocservices.com.cn

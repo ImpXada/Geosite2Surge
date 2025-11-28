@@ -1,49 +1,49 @@
 # アマノセキュアジャパン(e-timing): https://www.e-timing.ne.jp/product/timestamp/open-server/
-DOMAIN-SUFFIX,ats1.e-timing.ne.jp,PROXY
+DOMAIN-SUFFIX,ats1.e-timing.ne.jp
 
 # INTERNET MULTIFEED: https://www.mfeed.ad.jp/ntp/detail.html
-DOMAIN-SUFFIX,ntp.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp1.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp2.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp1.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp2.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp
 
 # 国立天文台水沢 https://www.miz.nao.ac.jp/vlbi/ntp.html
-DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp,PROXY
+DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp
 
 # 情報通信研究機構(NICT): https://jjy.nict.go.jp/tsp/PubNtp/index.html
-DOMAIN-SUFFIX,ntp.nict.jp,PROXY
+DOMAIN-SUFFIX,ntp.nict.jp
 
 # OCN: https://www.ntt.com/business/services/network/internet-connect/ocn-business/ocn/customer/set_up/tech_1.html
-DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp
+DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp
+DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp
 
 # plala: https://mainte.plala.or.jp/support/manual/internet/setup/
-DOMAIN-SUFFIX,ntp1.plala.or.jp,PROXY
-DOMAIN-SUFFIX,ntp2.plala.or.jp,PROXY
+DOMAIN-SUFFIX,ntp1.plala.or.jp
+DOMAIN-SUFFIX,ntp2.plala.or.jp
 
 # Ring Server Project: http://www.ring.gr.jp/ring/ntp.html.ja
-DOMAIN-SUFFIX,ntp.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp0.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp1.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp2.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp.t.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp.dnsbalance.ring.gr.jp,PROXY
+DOMAIN-SUFFIX,ntp.ring.gr.jp
+DOMAIN-SUFFIX,ntp0.ring.gr.jp
+DOMAIN-SUFFIX,ntp1.ring.gr.jp
+DOMAIN-SUFFIX,ntp2.ring.gr.jp
+DOMAIN-SUFFIX,ntp.t.ring.gr.jp
+DOMAIN-SUFFIX,ntp.dnsbalance.ring.gr.jp
 
 # 東京大学(The University of Tokyo)
-DOMAIN-SUFFIX,ntp.nc.u-tokyo.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.nc.u-tokyo.ac.jp
 
 # 東北大学(TOHOKU UNIVERSITY): https://www.tains.tohoku.ac.jp/contents/information/server-info.html
-DOMAIN-SUFFIX,ntp.tohoku.ac.jp,PROXY
-DOMAIN-SUFFIX,ntp1.tohoku.ac.jp,PROXY
-DOMAIN-SUFFIX,ntp2.tohoku.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp1.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp2.tohoku.ac.jp
 
 # 豊橋技術科学大学(Toyohashi University of Technology): https://imc.tut.ac.jp/misc/
-DOMAIN-SUFFIX,ntp.tut.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.tut.ac.jp
 
 # WAKWAK: https://www.wakwak.com/prl/support/g_internet/server_wakwak.html
-DOMAIN-SUFFIX,ntp1.wakwak.com,PROXY
-DOMAIN-SUFFIX,ntp2.wakwak.com,PROXY
+DOMAIN-SUFFIX,ntp1.wakwak.com
+DOMAIN-SUFFIX,ntp2.wakwak.com

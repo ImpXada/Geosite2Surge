@@ -1,30 +1,30 @@
 #include:fontexplorer
-DOMAIN-SUFFIX,fontexplorerx.com,PROXY
+DOMAIN-SUFFIX,fontexplorerx.com
 #end include:fontexplorer
 #include:fonts
-DOMAIN-SUFFIX,fonts.com,PROXY
-DOMAIN-SUFFIX,fonts.net,PROXY
+DOMAIN-SUFFIX,fonts.com
+DOMAIN-SUFFIX,fonts.net
 #end include:fonts
 #include:fontshop
-DOMAIN-SUFFIX,fontbook.com,PROXY
-DOMAIN-SUFFIX,fontshop.com,PROXY
-DOMAIN-SUFFIX,fstopimages.com,PROXY
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com
 
-DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com,PROXY
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
 #end include:fontshop
 #include:linotype
-DOMAIN-SUFFIX,linotype.com,PROXY
+DOMAIN-SUFFIX,linotype.com
 #end include:linotype
 #include:myfonts
-DOMAIN-SUFFIX,myfonts.com,PROXY
-DOMAIN-SUFFIX,myfonts.net,PROXY
+DOMAIN-SUFFIX,myfonts.com
+DOMAIN-SUFFIX,myfonts.net
 #end include:myfonts
 
-DOMAIN-SUFFIX,monotype.com,PROXY
-DOMAIN-SUFFIX,monotypeimaging.com,PROXY
+DOMAIN-SUFFIX,monotype.com
+DOMAIN-SUFFIX,monotypeimaging.com
 
 # Bitstream
-DOMAIN-SUFFIX,bitstream.com,PROXY
+DOMAIN-SUFFIX,bitstream.com
 
 # International Typeface Corporation
-DOMAIN-SUFFIX,itcfonts.com,PROXY
+DOMAIN-SUFFIX,itcfonts.com

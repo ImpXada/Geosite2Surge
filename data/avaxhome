@@ -1,10 +1,10 @@
 # AvaxHome main site:
-DOMAIN-SUFFIX,avxhm.se,PROXY
+DOMAIN-SUFFIX,avxhm.se
 
 # AvaxHome mirror sites:
-DOMAIN-SUFFIX,avh.world,PROXY
-DOMAIN-SUFFIX,avxde.org,PROXY
-DOMAIN-SUFFIX,avxhm.is,PROXY
-DOMAIN-SUFFIX,avxlive.icu,PROXY
-DOMAIN-SUFFIX,xsava.xyz,PROXY
-DOMAIN-SUFFIX,zavat.pw,PROXY
+DOMAIN-SUFFIX,avh.world
+DOMAIN-SUFFIX,avxde.org
+DOMAIN-SUFFIX,avxhm.is
+DOMAIN-SUFFIX,avxlive.icu
+DOMAIN-SUFFIX,xsava.xyz
+DOMAIN-SUFFIX,zavat.pw

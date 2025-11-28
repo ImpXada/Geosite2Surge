@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,dianping.com,PROXY
-DOMAIN-SUFFIX,maoyan.com,PROXY
-DOMAIN-SUFFIX,meituan.com,PROXY
-DOMAIN-SUFFIX,meituan.net,PROXY
-DOMAIN-SUFFIX,mtyun.com,PROXY
-DOMAIN-SUFFIX,neixin.cn,PROXY
-DOMAIN-SUFFIX,sankuai.com,PROXY
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,maoyan.com
+DOMAIN-SUFFIX,meituan.com
+DOMAIN-SUFFIX,meituan.net
+DOMAIN-SUFFIX,mtyun.com
+DOMAIN-SUFFIX,neixin.cn
+DOMAIN-SUFFIX,sankuai.com

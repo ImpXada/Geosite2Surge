@@ -1,7 +1,7 @@
 # 深蓝互动
 #include:bluepoch-games
 # From reverse 1999
-DOMAIN-SUFFIX,sl916.com,PROXY
+DOMAIN-SUFFIX,sl916.com
 #end include:bluepoch-games
 
-DOMAIN-SUFFIX,bluepoch.com,PROXY
+DOMAIN-SUFFIX,bluepoch.com

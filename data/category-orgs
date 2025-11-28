@@ -2,175 +2,175 @@
 
 #include:archive
 #include:4plebs
-DOMAIN-SUFFIX,4pcdn.org,PROXY
-DOMAIN-SUFFIX,4plebs.org,PROXY
+DOMAIN-SUFFIX,4pcdn.org
+DOMAIN-SUFFIX,4plebs.org
 #end include:4plebs
 
-DOMAIN-SUFFIX,archive-it.org,PROXY
-DOMAIN-SUFFIX,archive.md,PROXY
-DOMAIN-SUFFIX,archive.org,PROXY
-DOMAIN-SUFFIX,archive.ph,PROXY
-DOMAIN-SUFFIX,archive.today,PROXY
-DOMAIN-SUFFIX,openlibrary.org,PROXY
+DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.md
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.today
+DOMAIN-SUFFIX,openlibrary.org
 #end include:archive
 #include:creativecommons
-DOMAIN-SUFFIX,ccstatic.org,PROXY
-DOMAIN-SUFFIX,creativecommons.org,PROXY
-DOMAIN-SUFFIX,creativecommons.engineering,PROXY
-DOMAIN-SUFFIX,licensebuttons.net,PROXY
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,licensebuttons.net
 #end include:creativecommons
 #include:csis
-DOMAIN-SUFFIX,csis.org,PROXY
+DOMAIN-SUFFIX,csis.org
 
-DOMAIN,csis-prod.s3.amazonaws.com,PROXY
+DOMAIN,csis-prod.s3.amazonaws.com
 #end include:csis
 #include:emojipedia
-DOMAIN-SUFFIX,emojipedia.org,PROXY
-DOMAIN-SUFFIX,worldemojiawards.com,PROXY
-DOMAIN-SUFFIX,worldemojiday.com,PROXY
-DOMAIN-SUFFIX,xn--yt8h.la,PROXY    #📙.la
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,xn--yt8h.la    #📙.la
 #end include:emojipedia
 #include:f-droid
-DOMAIN-SUFFIX,f-dro1d.org,PROXY
-DOMAIN-SUFFIX,f-droid.com,PROXY
-DOMAIN-SUFFIX,f-droid.org,PROXY
-DOMAIN-SUFFIX,fdroid.org,PROXY
+DOMAIN-SUFFIX,f-dro1d.org
+DOMAIN-SUFFIX,f-droid.com
+DOMAIN-SUFFIX,f-droid.org
+DOMAIN-SUFFIX,fdroid.org
 #end include:f-droid
 #include:ieee
-DOMAIN-SUFFIX,ieee.org,PROXY
-DOMAIN-SUFFIX,ieee.tv,PROXY
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieee.tv
 
 # Co-sponsored
-DOMAIN-SUFFIX,tryengineering.org,PROXY
+DOMAIN-SUFFIX,tryengineering.org
 
 # Conference & Event
-DOMAIN-SUFFIX,ieee-ccnc.org,PROXY
-DOMAIN-SUFFIX,ieee-ecce.org,PROXY
-DOMAIN-SUFFIX,ieeemce.org,PROXY
+DOMAIN-SUFFIX,ieee-ccnc.org
+DOMAIN-SUFFIX,ieee-ecce.org
+DOMAIN-SUFFIX,ieeemce.org
 
 # Education and career
-DOMAIN-SUFFIX,standardsuniversity.org,PROXY
+DOMAIN-SUFFIX,standardsuniversity.org
 
 # Geographic Activities
-DOMAIN-SUFFIX,ieee-region6.org,PROXY
-DOMAIN-SUFFIX,ieee.ca,PROXY
-DOMAIN-SUFFIX,ieeer10.org,PROXY
-DOMAIN-SUFFIX,ieeer5.org,PROXY
-DOMAIN-SUFFIX,ieeer8.org,PROXY
-DOMAIN-SUFFIX,ieeeusa.org,PROXY
+DOMAIN-SUFFIX,ieee-region6.org
+DOMAIN-SUFFIX,ieee.ca
+DOMAIN-SUFFIX,ieeer10.org
+DOMAIN-SUFFIX,ieeer5.org
+DOMAIN-SUFFIX,ieeer8.org
+DOMAIN-SUFFIX,ieeeusa.org
 
 # Humanitarian Program
-DOMAIN-SUFFIX,ieeefoundation.org,PROXY
+DOMAIN-SUFFIX,ieeefoundation.org
 
 # Other
-DOMAIN-SUFFIX,ieee-into-focus.org,PROXY
-DOMAIN-SUFFIX,ieee-vics.org,PROXY
-DOMAIN-SUFFIX,ieeeday.org,PROXY
+DOMAIN-SUFFIX,ieee-into-focus.org
+DOMAIN-SUFFIX,ieee-vics.org
+DOMAIN-SUFFIX,ieeeday.org
 
 # Publications, Products, & Services
-DOMAIN-SUFFIX,datasheets360.com,PROXY
-DOMAIN-SUFFIX,globalspec.com,PROXY
-DOMAIN-SUFFIX,ieee-isto.org,PROXY
-DOMAIN-SUFFIX,techstreet.com,PROXY
+DOMAIN-SUFFIX,datasheets360.com
+DOMAIN-SUFFIX,globalspec.com
+DOMAIN-SUFFIX,ieee-isto.org
+DOMAIN-SUFFIX,techstreet.com
 
 # Society & Council
-DOMAIN-SUFFIX,computer.org,PROXY
-DOMAIN-SUFFIX,comsoc.org,PROXY
-DOMAIN-SUFFIX,embs.org,PROXY
-DOMAIN-SUFFIX,emcs.org,PROXY
-DOMAIN-SUFFIX,grss-ieee.org,PROXY
-DOMAIN-SUFFIX,ieee-aess.org,PROXY
-DOMAIN-SUFFIX,ieee-cas.org,PROXY
-DOMAIN-SUFFIX,ieee-ceda.org,PROXY
-DOMAIN-SUFFIX,ieee-edusociety.org,PROXY
-DOMAIN-SUFFIX,ieee-ies.org,PROXY
-DOMAIN-SUFFIX,ieee-ims.org,PROXY
-DOMAIN-SUFFIX,ieee-npss.org,PROXY
-DOMAIN-SUFFIX,ieee-pels.org,PROXY
-DOMAIN-SUFFIX,ieee-pes.org,PROXY
-DOMAIN-SUFFIX,ieee-ras.org,PROXY
-DOMAIN-SUFFIX,ieee-sensors.org,PROXY
-DOMAIN-SUFFIX,ieee-tems.org,PROXY
-DOMAIN-SUFFIX,ieee-uffc.org,PROXY
-DOMAIN-SUFFIX,ieeeaps.org,PROXY
-DOMAIN-SUFFIX,ieeecsc.org,PROXY
-DOMAIN-SUFFIX,ieeecss.org,PROXY
-DOMAIN-SUFFIX,ieeedeis.org,PROXY
-DOMAIN-SUFFIX,ieeemagnetics.org,PROXY
-DOMAIN-SUFFIX,ieeenano.org,PROXY
-DOMAIN-SUFFIX,ieeeoes.org,PROXY
-DOMAIN-SUFFIX,ieeesmc.org,PROXY
-DOMAIN-SUFFIX,ieeesystemscouncil.org,PROXY
-DOMAIN-SUFFIX,itsoc.org,PROXY
-DOMAIN-SUFFIX,mtt.org,PROXY
-DOMAIN-SUFFIX,photonicssociety.org,PROXY
-DOMAIN-SUFFIX,signalprocessingsociety.org,PROXY
-DOMAIN-SUFFIX,technologyandsociety.org,PROXY
-DOMAIN-SUFFIX,vtsociety.org,PROXY
+DOMAIN-SUFFIX,computer.org
+DOMAIN-SUFFIX,comsoc.org
+DOMAIN-SUFFIX,embs.org
+DOMAIN-SUFFIX,emcs.org
+DOMAIN-SUFFIX,grss-ieee.org
+DOMAIN-SUFFIX,ieee-aess.org
+DOMAIN-SUFFIX,ieee-cas.org
+DOMAIN-SUFFIX,ieee-ceda.org
+DOMAIN-SUFFIX,ieee-edusociety.org
+DOMAIN-SUFFIX,ieee-ies.org
+DOMAIN-SUFFIX,ieee-ims.org
+DOMAIN-SUFFIX,ieee-npss.org
+DOMAIN-SUFFIX,ieee-pels.org
+DOMAIN-SUFFIX,ieee-pes.org
+DOMAIN-SUFFIX,ieee-ras.org
+DOMAIN-SUFFIX,ieee-sensors.org
+DOMAIN-SUFFIX,ieee-tems.org
+DOMAIN-SUFFIX,ieee-uffc.org
+DOMAIN-SUFFIX,ieeeaps.org
+DOMAIN-SUFFIX,ieeecsc.org
+DOMAIN-SUFFIX,ieeecss.org
+DOMAIN-SUFFIX,ieeedeis.org
+DOMAIN-SUFFIX,ieeemagnetics.org
+DOMAIN-SUFFIX,ieeenano.org
+DOMAIN-SUFFIX,ieeeoes.org
+DOMAIN-SUFFIX,ieeesmc.org
+DOMAIN-SUFFIX,ieeesystemscouncil.org
+DOMAIN-SUFFIX,itsoc.org
+DOMAIN-SUFFIX,mtt.org
+DOMAIN-SUFFIX,photonicssociety.org
+DOMAIN-SUFFIX,signalprocessingsociety.org
+DOMAIN-SUFFIX,technologyandsociety.org
+DOMAIN-SUFFIX,vtsociety.org
 #end include:ieee
 #include:metabrainz
-DOMAIN-SUFFIX,acousticbrainz.org,PROXY
-DOMAIN-SUFFIX,bookbrainz.org,PROXY
-DOMAIN-SUFFIX,coverartarchive.org,PROXY
-DOMAIN-SUFFIX,critiquebrainz.org,PROXY
-DOMAIN-SUFFIX,listenbrainz.org,PROXY
-DOMAIN-SUFFIX,messybrainz.org,PROXY
-DOMAIN-SUFFIX,metabrainz.org,PROXY
-DOMAIN-SUFFIX,musicbrainz.org,PROXY
+DOMAIN-SUFFIX,acousticbrainz.org
+DOMAIN-SUFFIX,bookbrainz.org
+DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,listenbrainz.org
+DOMAIN-SUFFIX,messybrainz.org
+DOMAIN-SUFFIX,metabrainz.org
+DOMAIN-SUFFIX,musicbrainz.org
 #end include:metabrainz
 #include:nist
-DOMAIN-SUFFIX,nist.gov,PROXY
-DOMAIN-SUFFIX,time.gov,PROXY
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
 #end include:nist
 #include:openstreetmap
-DOMAIN-SUFFIX,openmaps.org,PROXY
-DOMAIN-SUFFIX,openstreetmap.com,PROXY
-DOMAIN-SUFFIX,openstreetmap.net,PROXY
-DOMAIN-SUFFIX,openstreetmap.org,PROXY
-DOMAIN-SUFFIX,openstreetmaps.org,PROXY
-DOMAIN-SUFFIX,osm.org,PROXY
-DOMAIN-SUFFIX,osmfoundation.org,PROXY
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
 
 # State of the Map
-DOMAIN-SUFFIX,stateofthemap.com,PROXY
-DOMAIN-SUFFIX,stateofthemap.org,PROXY
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org
 #end include:openstreetmap
 #include:paskoocheh
-DOMAIN-SUFFIX,paskoocheh.com,PROXY
+DOMAIN-SUFFIX,paskoocheh.com
 #end include:paskoocheh
 #include:peppy
 #include:osu
 # osu
-DOMAIN,a.ppy.sh,PROXY
-DOMAIN,assets.ppy.sh,PROXY
-DOMAIN,c.ppy.sh,PROXY
-DOMAIN,osu.ppy.sh,PROXY
-DOMAIN,m1.ppy.sh,PROXY
+DOMAIN,a.ppy.sh
+DOMAIN,assets.ppy.sh
+DOMAIN,c.ppy.sh
+DOMAIN,osu.ppy.sh
+DOMAIN,m1.ppy.sh
 # osu lazer
-DOMAIN,lazer.ppy.sh,PROXY
-DOMAIN,notify.ppy.sh,PROXY
-DOMAIN,sentry.ppy.sh,PROXY
-DOMAIN,spectator.ppy.sh,PROXY
+DOMAIN,lazer.ppy.sh
+DOMAIN,notify.ppy.sh
+DOMAIN,sentry.ppy.sh
+DOMAIN,spectator.ppy.sh
 #end include:osu
 
-DOMAIN-SUFFIX,ppy.sh,PROXY
+DOMAIN-SUFFIX,ppy.sh
 #end include:peppy
 #include:ruleoflaw
-DOMAIN-SUFFIX,rolfoundation.org,PROXY
-DOMAIN-SUFFIX,rolsociety.org,PROXY
+DOMAIN-SUFFIX,rolfoundation.org
+DOMAIN-SUFFIX,rolsociety.org
 #end include:ruleoflaw
 
-DOMAIN-SUFFIX,aomedia.org,PROXY
-DOMAIN-SUFFIX,atypi.org,PROXY
-DOMAIN-SUFFIX,change.org,PROXY
-DOMAIN-SUFFIX,globalsecurity.org,PROXY
-DOMAIN-SUFFIX,iana.org,PROXY
-DOMAIN-SUFFIX,ietf.org,PROXY
-DOMAIN-SUFFIX,itu.int,PROXY
-DOMAIN-SUFFIX,opte.org,PROXY
-DOMAIN-SUFFIX,smpte.org,PROXY
-DOMAIN-SUFFIX,un.org,PROXY
-DOMAIN-SUFFIX,w3.org,PROXY
-DOMAIN-SUFFIX,who.int,PROXY
-DOMAIN-SUFFIX,wi-fi.org,PROXY
-DOMAIN-SUFFIX,wto.org,PROXY
+DOMAIN-SUFFIX,aomedia.org
+DOMAIN-SUFFIX,atypi.org
+DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,globalsecurity.org
+DOMAIN-SUFFIX,iana.org
+DOMAIN-SUFFIX,ietf.org
+DOMAIN-SUFFIX,itu.int
+DOMAIN-SUFFIX,opte.org
+DOMAIN-SUFFIX,smpte.org
+DOMAIN-SUFFIX,un.org
+DOMAIN-SUFFIX,w3.org
+DOMAIN-SUFFIX,who.int
+DOMAIN-SUFFIX,wi-fi.org
+DOMAIN-SUFFIX,wto.org

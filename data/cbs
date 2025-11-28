@@ -4,36 +4,36 @@
 # https://www.iana.org/domains/root/db/showtime.html
 # showtime (Revoked)
 
-DOMAIN-SUFFIX,cbs.com,PROXY
-DOMAIN-SUFFIX,cbscorporation.com,PROXY
-DOMAIN-SUFFIX,cbsi.com,PROXY
-DOMAIN-SUFFIX,cbsi.video,PROXY
-DOMAIN-SUFFIX,cbsiam.com,PROXY
-DOMAIN-SUFFIX,cbsig.net,PROXY
-DOMAIN-SUFFIX,cbsimg.net,PROXY
-DOMAIN-SUFFIX,cbsinteractive.com,PROXY
-DOMAIN-SUFFIX,cbsistatic.com,PROXY
-DOMAIN-SUFFIX,cbsivideo.com,PROXY
-DOMAIN-SUFFIX,cbsnews.com,PROXY
-DOMAIN-SUFFIX,cbspressexpress.com,PROXY
-DOMAIN-SUFFIX,cbssports.com,PROXY
-DOMAIN-SUFFIX,cbsstatic.com,PROXY
-DOMAIN-SUFFIX,cbssvideo.com,PROXY
-DOMAIN-SUFFIX,viacbs.com,PROXY
-DOMAIN-SUFFIX,viacom.com,PROXY
-DOMAIN-SUFFIX,viacomcbs.com,PROXY
-DOMAIN-SUFFIX,viacomcbspressexpress.com,PROXY
+DOMAIN-SUFFIX,cbs.com
+DOMAIN-SUFFIX,cbscorporation.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,cbsi.video
+DOMAIN-SUFFIX,cbsiam.com
+DOMAIN-SUFFIX,cbsig.net
+DOMAIN-SUFFIX,cbsimg.net
+DOMAIN-SUFFIX,cbsinteractive.com
+DOMAIN-SUFFIX,cbsistatic.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,cbsnews.com
+DOMAIN-SUFFIX,cbspressexpress.com
+DOMAIN-SUFFIX,cbssports.com
+DOMAIN-SUFFIX,cbsstatic.com
+DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,viacbs.com
+DOMAIN-SUFFIX,viacom.com
+DOMAIN-SUFFIX,viacomcbs.com
+DOMAIN-SUFFIX,viacomcbspressexpress.com
 
 # Paramount
-DOMAIN-SUFFIX,paramount.com,PROXY
+DOMAIN-SUFFIX,paramount.com
 
 # Paramount Plus
-DOMAIN-SUFFIX,amlg.io,PROXY
-DOMAIN-SUFFIX,cbsaavideo.com,PROXY
-DOMAIN-SUFFIX,mtvnservices.com,PROXY
-DOMAIN-SUFFIX,paramountplus.com,PROXY
-DOMAIN-SUFFIX,pplusstatic.com,PROXY
-DOMAIN,cbsi.live.ott.irdeto.com,PROXY
-DOMAIN,cbsplaylistserver.aws.syncbak.com,PROXY
-DOMAIN,cbsservice.aws.syncbak.com,PROXY
-DOMAIN,link.theplatform.com,PROXY
+DOMAIN-SUFFIX,amlg.io
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,mtvnservices.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
+DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,cbsplaylistserver.aws.syncbak.com
+DOMAIN,cbsservice.aws.syncbak.com
+DOMAIN,link.theplatform.com

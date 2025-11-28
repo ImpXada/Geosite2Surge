@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,jfrog.com,PROXY
-DOMAIN-SUFFIX,jfrog.org,PROXY
-DOMAIN-SUFFIX,bintray.com,PROXY
+DOMAIN-SUFFIX,jfrog.com
+DOMAIN-SUFFIX,jfrog.org
+DOMAIN-SUFFIX,bintray.com
 
-DOMAIN,d29vzk4ow07wi7.cloudfront.net,PROXY
+DOMAIN,d29vzk4ow07wi7.cloudfront.net

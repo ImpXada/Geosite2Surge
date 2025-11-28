@@ -1,20 +1,20 @@
-DOMAIN-SUFFIX,fgo.wiki,PROXY
-DOMAIN-SUFFIX,jikipedia.com,PROXY
-DOMAIN-SUFFIX,mbalib.com,PROXY
-DOMAIN-SUFFIX,sec-wiki.com,PROXY
-DOMAIN-SUFFIX,shidianbaike.com,PROXY
+DOMAIN-SUFFIX,fgo.wiki
+DOMAIN-SUFFIX,jikipedia.com
+DOMAIN-SUFFIX,mbalib.com
+DOMAIN-SUFFIX,sec-wiki.com
+DOMAIN-SUFFIX,shidianbaike.com
 
 # huijiwiki
-DOMAIN-SUFFIX,huijistatic.com,PROXY
-DOMAIN-SUFFIX,huijiwiki.com,PROXY
+DOMAIN-SUFFIX,huijistatic.com
+DOMAIN-SUFFIX,huijiwiki.com
 
 # moegirl
-DOMAIN-SUFFIX,moegirl.org,PROXY
-DOMAIN-SUFFIX,moegirl.org.cn,PROXY
+DOMAIN-SUFFIX,moegirl.org
+DOMAIN-SUFFIX,moegirl.org.cn
 
 # MC百科
-DOMAIN-SUFFIX,mcmod.cn,PROXY
+DOMAIN-SUFFIX,mcmod.cn
 
 # 求闻百科
-DOMAIN-SUFFIX,qiuwenbaike.cn,PROXY
-DOMAIN-SUFFIX,qiuwen.wiki,PROXY
+DOMAIN-SUFFIX,qiuwenbaike.cn
+DOMAIN-SUFFIX,qiuwen.wiki

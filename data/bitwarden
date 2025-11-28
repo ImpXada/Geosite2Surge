@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,bitwarden.com,PROXY
-DOMAIN-SUFFIX,bitwarden.eu,PROXY
-DOMAIN-SUFFIX,bitwarden.net,PROXY
-DOMAIN-SUFFIX,btwrdn.co,PROXY
-DOMAIN-SUFFIX,btwrdn.com,PROXY
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.eu
+DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,btwrdn.co
+DOMAIN-SUFFIX,btwrdn.com

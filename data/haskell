@@ -1,3 +1,3 @@
-DOMAIN-SUFFIX,haskell.org,PROXY
-DOMAIN-SUFFIX,haskellstack.org,PROXY
-DOMAIN-SUFFIX,stackage.org,PROXY
+DOMAIN-SUFFIX,haskell.org
+DOMAIN-SUFFIX,haskellstack.org
+DOMAIN-SUFFIX,stackage.org

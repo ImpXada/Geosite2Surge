@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,mxlogin.com,PROXY
-DOMAIN-SUFFIX,mxroute.com,PROXY
-DOMAIN-SUFFIX,mxroutedocs.com,PROXY
-DOMAIN-SUFFIX,mxroutehelp.com,PROXY
-DOMAIN-SUFFIX,mxrouting.net,PROXY
+DOMAIN-SUFFIX,mxlogin.com
+DOMAIN-SUFFIX,mxroute.com
+DOMAIN-SUFFIX,mxroutedocs.com
+DOMAIN-SUFFIX,mxroutehelp.com
+DOMAIN-SUFFIX,mxrouting.net

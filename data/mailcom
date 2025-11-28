@@ -1,5 +1,5 @@
 # 1&1 Mail & Media GmbH
-DOMAIN-SUFFIX,mail.com,PROXY
-DOMAIN-SUFFIX,ui-portal.de,PROXY
-DOMAIN-SUFFIX,uicdn.com,PROXY
-DOMAIN-SUFFIX,uimserv.net,PROXY
+DOMAIN-SUFFIX,mail.com
+DOMAIN-SUFFIX,ui-portal.de
+DOMAIN-SUFFIX,uicdn.com
+DOMAIN-SUFFIX,uimserv.net

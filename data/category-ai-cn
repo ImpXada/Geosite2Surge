@@ -1,96 +1,96 @@
 # DeepSeek
 # Main domain
-DOMAIN-SUFFIX,deepseek.com,PROXY
+DOMAIN-SUFFIX,deepseek.com
 #end include:deepseek
 
 # RWKV
-DOMAIN-SUFFIX,rwkv.cn,PROXY
-DOMAIN-SUFFIX,rwkv.com,PROXY
+DOMAIN-SUFFIX,rwkv.cn
+DOMAIN-SUFFIX,rwkv.com
 
 # 通义千问
-DOMAIN-SUFFIX,qianwen.aliyun.com,PROXY
-DOMAIN-SUFFIX,qianwen.com,PROXY
-DOMAIN-SUFFIX,qwen.ai,PROXY
-DOMAIN-SUFFIX,qwenlm.ai,PROXY
-DOMAIN-SUFFIX,tongyi.aliyun.com,PROXY
-DOMAIN-SUFFIX,tongyi.com,PROXY
+DOMAIN-SUFFIX,qianwen.aliyun.com
+DOMAIN-SUFFIX,qianwen.com
+DOMAIN-SUFFIX,qwen.ai
+DOMAIN-SUFFIX,qwenlm.ai
+DOMAIN-SUFFIX,tongyi.aliyun.com
+DOMAIN-SUFFIX,tongyi.com
 
 # 文心一言
-DOMAIN-SUFFIX,yiyan.baidu.com,PROXY
+DOMAIN-SUFFIX,yiyan.baidu.com
 
 # 天工AI
-DOMAIN-SUFFIX,tiangong.cn,PROXY
+DOMAIN-SUFFIX,tiangong.cn
 
 # 字节跳动：豆包、Trae(MarsCode)
 # 北京春田知韵科技有限公司 京ICP备2023020373号
 # non-cn domains is added to bytedance-ai-!cn
-DOMAIN-SUFFIX,butterfly-static.cn,PROXY
-DOMAIN-SUFFIX,butterflyai.cn,PROXY
-DOMAIN-SUFFIX,coze.cn,PROXY
-DOMAIN-SUFFIX,coze.site,PROXY
-DOMAIN-SUFFIX,cozebaas.cn,PROXY
-DOMAIN-SUFFIX,cozefn.cn,PROXY
-DOMAIN-SUFFIX,cozeide.cn,PROXY
-DOMAIN-SUFFIX,doubao.com,PROXY
-DOMAIN-SUFFIX,doubaocdn.com,PROXY
-DOMAIN-SUFFIX,hi-butterfly.cn,PROXY
-DOMAIN-SUFFIX,maoxiangai.com,PROXY
-DOMAIN-SUFFIX,myparallelstory.com,PROXY
-DOMAIN-SUFFIX,picpic-ai.cn,PROXY
-DOMAIN-SUFFIX,pixeldance.com,PROXY
+DOMAIN-SUFFIX,butterfly-static.cn
+DOMAIN-SUFFIX,butterflyai.cn
+DOMAIN-SUFFIX,coze.cn
+DOMAIN-SUFFIX,coze.site
+DOMAIN-SUFFIX,cozebaas.cn
+DOMAIN-SUFFIX,cozefn.cn
+DOMAIN-SUFFIX,cozeide.cn
+DOMAIN-SUFFIX,doubao.com
+DOMAIN-SUFFIX,doubaocdn.com
+DOMAIN-SUFFIX,hi-butterfly.cn
+DOMAIN-SUFFIX,maoxiangai.com
+DOMAIN-SUFFIX,myparallelstory.com
+DOMAIN-SUFFIX,picpic-ai.cn
+DOMAIN-SUFFIX,pixeldance.com
 #end include:doubao
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
 # non-cn domains is added to bytedance-ai-!cn
-DOMAIN-SUFFIX,doudou.com,PROXY
-DOMAIN-SUFFIX,marscode.cn,PROXY
-DOMAIN-SUFFIX,marscode.com.cn,PROXY
-DOMAIN-SUFFIX,mcbaas.work,PROXY
-DOMAIN-SUFFIX,mcdemo.show,PROXY
-DOMAIN-SUFFIX,mchost.guru,PROXY
-DOMAIN-SUFFIX,mcprev.cn,PROXY
-DOMAIN-SUFFIX,tcwqqdy.guru,PROXY
-DOMAIN-SUFFIX,trae.cn,PROXY
-DOMAIN-SUFFIX,trae.com.cn,PROXY
-DOMAIN-SUFFIX,trae.guru,PROXY
-DOMAIN-SUFFIX,yoma.cn,PROXY
+DOMAIN-SUFFIX,doudou.com
+DOMAIN-SUFFIX,marscode.cn
+DOMAIN-SUFFIX,marscode.com.cn
+DOMAIN-SUFFIX,mcbaas.work
+DOMAIN-SUFFIX,mcdemo.show
+DOMAIN-SUFFIX,mchost.guru
+DOMAIN-SUFFIX,mcprev.cn
+DOMAIN-SUFFIX,tcwqqdy.guru
+DOMAIN-SUFFIX,trae.cn
+DOMAIN-SUFFIX,trae.com.cn
+DOMAIN-SUFFIX,trae.guru
+DOMAIN-SUFFIX,yoma.cn
 #end include:trae
 
 # 智谱清言
-DOMAIN-SUFFIX,bigmodel.cn,PROXY
-DOMAIN-SUFFIX,chatglm.cn,PROXY
-DOMAIN-SUFFIX,zhipuai.cn,PROXY
+DOMAIN-SUFFIX,bigmodel.cn
+DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,zhipuai.cn
 
 # 月之暗面
-DOMAIN-SUFFIX,moonshot.cn,PROXY
+DOMAIN-SUFFIX,moonshot.cn
 
 # 讯飞星火
-DOMAIN-SUFFIX,xinghuo.xfyun.cn,PROXY
+DOMAIN-SUFFIX,xinghuo.xfyun.cn
 
 # MiniMax
-DOMAIN-SUFFIX,hailuoai.com,PROXY
-DOMAIN-SUFFIX,minimaxi.com,PROXY
-DOMAIN-SUFFIX,xingyeai.com,PROXY
+DOMAIN-SUFFIX,hailuoai.com
+DOMAIN-SUFFIX,minimaxi.com
+DOMAIN-SUFFIX,xingyeai.com
 
 # 腾讯混元
-DOMAIN-SUFFIX,hunyuan.tencent.com,PROXY
+DOMAIN-SUFFIX,hunyuan.tencent.com
 
 # 百川智能
-DOMAIN-SUFFIX,baichuan-ai.com,PROXY
+DOMAIN-SUFFIX,baichuan-ai.com
 
-DOMAIN-SUFFIX,botvip.cn,PROXY
-DOMAIN-SUFFIX,liblib.art,PROXY
+DOMAIN-SUFFIX,botvip.cn
+DOMAIN-SUFFIX,liblib.art
 
 # 夸克 CueMe
-DOMAIN-SUFFIX,cueme.cn,PROXY
-DOMAIN,cueme-api.quark.cn,PROXY
+DOMAIN-SUFFIX,cueme.cn
+DOMAIN,cueme-api.quark.cn
 
 # 360 纳米AI搜索
-DOMAIN-SUFFIX,n.cn,PROXY
-DOMAIN-SUFFIX,namiso.com,PROXY
-DOMAIN,ai.zhaomi.cn,PROXY
+DOMAIN-SUFFIX,n.cn
+DOMAIN-SUFFIX,namiso.com
+DOMAIN,ai.zhaomi.cn
 
 # 妙言AI 冀ICP备20012219号-3
-DOMAIN-SUFFIX,miaoyanai.com,PROXY
+DOMAIN-SUFFIX,miaoyanai.com
 
 # 法行宝 (百度)
-DOMAIN-SUFFIX,faxingbao.com,PROXY
+DOMAIN-SUFFIX,faxingbao.com

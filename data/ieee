@@ -1,70 +1,70 @@
-DOMAIN-SUFFIX,ieee.org,PROXY
-DOMAIN-SUFFIX,ieee.tv,PROXY
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieee.tv
 
 # Co-sponsored
-DOMAIN-SUFFIX,tryengineering.org,PROXY
+DOMAIN-SUFFIX,tryengineering.org
 
 # Conference & Event
-DOMAIN-SUFFIX,ieee-ccnc.org,PROXY
-DOMAIN-SUFFIX,ieee-ecce.org,PROXY
-DOMAIN-SUFFIX,ieeemce.org,PROXY
+DOMAIN-SUFFIX,ieee-ccnc.org
+DOMAIN-SUFFIX,ieee-ecce.org
+DOMAIN-SUFFIX,ieeemce.org
 
 # Education and career
-DOMAIN-SUFFIX,standardsuniversity.org,PROXY
+DOMAIN-SUFFIX,standardsuniversity.org
 
 # Geographic Activities
-DOMAIN-SUFFIX,ieee-region6.org,PROXY
-DOMAIN-SUFFIX,ieee.ca,PROXY
-DOMAIN-SUFFIX,ieeer10.org,PROXY
-DOMAIN-SUFFIX,ieeer5.org,PROXY
-DOMAIN-SUFFIX,ieeer8.org,PROXY
-DOMAIN-SUFFIX,ieeeusa.org,PROXY
+DOMAIN-SUFFIX,ieee-region6.org
+DOMAIN-SUFFIX,ieee.ca
+DOMAIN-SUFFIX,ieeer10.org
+DOMAIN-SUFFIX,ieeer5.org
+DOMAIN-SUFFIX,ieeer8.org
+DOMAIN-SUFFIX,ieeeusa.org
 
 # Humanitarian Program
-DOMAIN-SUFFIX,ieeefoundation.org,PROXY
+DOMAIN-SUFFIX,ieeefoundation.org
 
 # Other
-DOMAIN-SUFFIX,ieee-into-focus.org,PROXY
-DOMAIN-SUFFIX,ieee-vics.org,PROXY
-DOMAIN-SUFFIX,ieeeday.org,PROXY
+DOMAIN-SUFFIX,ieee-into-focus.org
+DOMAIN-SUFFIX,ieee-vics.org
+DOMAIN-SUFFIX,ieeeday.org
 
 # Publications, Products, & Services
-DOMAIN-SUFFIX,datasheets360.com,PROXY
-DOMAIN-SUFFIX,globalspec.com,PROXY
-DOMAIN-SUFFIX,ieee-isto.org,PROXY
-DOMAIN-SUFFIX,techstreet.com,PROXY
+DOMAIN-SUFFIX,datasheets360.com
+DOMAIN-SUFFIX,globalspec.com
+DOMAIN-SUFFIX,ieee-isto.org
+DOMAIN-SUFFIX,techstreet.com
 
 # Society & Council
-DOMAIN-SUFFIX,computer.org,PROXY
-DOMAIN-SUFFIX,comsoc.org,PROXY
-DOMAIN-SUFFIX,embs.org,PROXY
-DOMAIN-SUFFIX,emcs.org,PROXY
-DOMAIN-SUFFIX,grss-ieee.org,PROXY
-DOMAIN-SUFFIX,ieee-aess.org,PROXY
-DOMAIN-SUFFIX,ieee-cas.org,PROXY
-DOMAIN-SUFFIX,ieee-ceda.org,PROXY
-DOMAIN-SUFFIX,ieee-edusociety.org,PROXY
-DOMAIN-SUFFIX,ieee-ies.org,PROXY
-DOMAIN-SUFFIX,ieee-ims.org,PROXY
-DOMAIN-SUFFIX,ieee-npss.org,PROXY
-DOMAIN-SUFFIX,ieee-pels.org,PROXY
-DOMAIN-SUFFIX,ieee-pes.org,PROXY
-DOMAIN-SUFFIX,ieee-ras.org,PROXY
-DOMAIN-SUFFIX,ieee-sensors.org,PROXY
-DOMAIN-SUFFIX,ieee-tems.org,PROXY
-DOMAIN-SUFFIX,ieee-uffc.org,PROXY
-DOMAIN-SUFFIX,ieeeaps.org,PROXY
-DOMAIN-SUFFIX,ieeecsc.org,PROXY
-DOMAIN-SUFFIX,ieeecss.org,PROXY
-DOMAIN-SUFFIX,ieeedeis.org,PROXY
-DOMAIN-SUFFIX,ieeemagnetics.org,PROXY
-DOMAIN-SUFFIX,ieeenano.org,PROXY
-DOMAIN-SUFFIX,ieeeoes.org,PROXY
-DOMAIN-SUFFIX,ieeesmc.org,PROXY
-DOMAIN-SUFFIX,ieeesystemscouncil.org,PROXY
-DOMAIN-SUFFIX,itsoc.org,PROXY
-DOMAIN-SUFFIX,mtt.org,PROXY
-DOMAIN-SUFFIX,photonicssociety.org,PROXY
-DOMAIN-SUFFIX,signalprocessingsociety.org,PROXY
-DOMAIN-SUFFIX,technologyandsociety.org,PROXY
-DOMAIN-SUFFIX,vtsociety.org,PROXY
+DOMAIN-SUFFIX,computer.org
+DOMAIN-SUFFIX,comsoc.org
+DOMAIN-SUFFIX,embs.org
+DOMAIN-SUFFIX,emcs.org
+DOMAIN-SUFFIX,grss-ieee.org
+DOMAIN-SUFFIX,ieee-aess.org
+DOMAIN-SUFFIX,ieee-cas.org
+DOMAIN-SUFFIX,ieee-ceda.org
+DOMAIN-SUFFIX,ieee-edusociety.org
+DOMAIN-SUFFIX,ieee-ies.org
+DOMAIN-SUFFIX,ieee-ims.org
+DOMAIN-SUFFIX,ieee-npss.org
+DOMAIN-SUFFIX,ieee-pels.org
+DOMAIN-SUFFIX,ieee-pes.org
+DOMAIN-SUFFIX,ieee-ras.org
+DOMAIN-SUFFIX,ieee-sensors.org
+DOMAIN-SUFFIX,ieee-tems.org
+DOMAIN-SUFFIX,ieee-uffc.org
+DOMAIN-SUFFIX,ieeeaps.org
+DOMAIN-SUFFIX,ieeecsc.org
+DOMAIN-SUFFIX,ieeecss.org
+DOMAIN-SUFFIX,ieeedeis.org
+DOMAIN-SUFFIX,ieeemagnetics.org
+DOMAIN-SUFFIX,ieeenano.org
+DOMAIN-SUFFIX,ieeeoes.org
+DOMAIN-SUFFIX,ieeesmc.org
+DOMAIN-SUFFIX,ieeesystemscouncil.org
+DOMAIN-SUFFIX,itsoc.org
+DOMAIN-SUFFIX,mtt.org
+DOMAIN-SUFFIX,photonicssociety.org
+DOMAIN-SUFFIX,signalprocessingsociety.org
+DOMAIN-SUFFIX,technologyandsociety.org
+DOMAIN-SUFFIX,vtsociety.org

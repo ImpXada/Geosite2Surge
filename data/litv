@@ -1,2 +1,7 @@
-DOMAIN-SUFFIX,litv.tv,PROXY
-DOMAIN-SUFFIX,litvfreepc.akamaized.net,PROXY
+# TGC Taiwan Inc.
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,litvfreepc.akamaized.net
+
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
+DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net

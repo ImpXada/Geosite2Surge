@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,pycon.org,PROXY
-DOMAIN-SUFFIX,pypa.io,PROXY
-DOMAIN-SUFFIX,pypi.io,PROXY
-DOMAIN-SUFFIX,pypi.org,PROXY
-DOMAIN-SUFFIX,python.org,PROXY
-DOMAIN-SUFFIX,pythonhosted.org,PROXY
+DOMAIN-SUFFIX,pycon.org
+DOMAIN-SUFFIX,pypa.io
+DOMAIN-SUFFIX,pypi.io
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pythonhosted.org

@@ -1,6 +1,6 @@
 # 共青团北京市委员会信息中心 (京ICP备14030447号-3)
 
-DOMAIN-SUFFIX,bjyouth.gov.cn,PROXY
-DOMAIN-SUFFIX,bjyouth.net,PROXY
-DOMAIN-SUFFIX,sqqnh.cn,PROXY
-DOMAIN-SUFFIX,sqqnh.org,PROXY
+DOMAIN-SUFFIX,bjyouth.gov.cn
+DOMAIN-SUFFIX,bjyouth.net
+DOMAIN-SUFFIX,sqqnh.cn
+DOMAIN-SUFFIX,sqqnh.org

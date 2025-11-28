@@ -1,4 +1,4 @@
 # This file contains domains of pirate chinese online novel sites that are blocked by GFW
-DOMAIN-SUFFIX,ptzwx.com,PROXY
-DOMAIN-SUFFIX,quanben-xiaoshuo.com,PROXY
-DOMAIN-SUFFIX,quanben.io,PROXY
+DOMAIN-SUFFIX,ptzwx.com
+DOMAIN-SUFFIX,quanben-xiaoshuo.com
+DOMAIN-SUFFIX,quanben.io

@@ -1,32 +1,32 @@
 # 9amine
-DOMAIN-SUFFIX,9anime.cz,PROXY
-DOMAIN-SUFFIX,9anime.id,PROXY
-DOMAIN-SUFFIX,9anime.to,PROXY
-DOMAIN-SUFFIX,9anime.ws,PROXY
+DOMAIN-SUFFIX,9anime.cz
+DOMAIN-SUFFIX,9anime.id
+DOMAIN-SUFFIX,9anime.to
+DOMAIN-SUFFIX,9anime.ws
 
 # agefans: https://github.com/agefanscom/website
-DOMAIN-SUFFIX,age.tv,PROXY
-DOMAIN-SUFFIX,agedm.org,PROXY
-DOMAIN-SUFFIX,agedm.tv,PROXY
-DOMAIN-SUFFIX,agefans.com,PROXY
-DOMAIN-SUFFIX,agemys.org,PROXY
-DOMAIN-SUFFIX,agedm.app,PROXY    #app
+DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agedm.tv
+DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,agemys.org
+DOMAIN-SUFFIX,agedm.app    #app
 
 # animedao
-DOMAIN-SUFFIX,animedao-tv.com,PROXY
+DOMAIN-SUFFIX,animedao-tv.com
 
 # Crunchyroll
-DOMAIN-SUFFIX,crunchyroll.com,PROXY
-DOMAIN-SUFFIX,funimation.com,PROXY    #funimation
-DOMAIN-SUFFIX,vrv.co,PROXY    #vrv
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,funimation.com    #funimation
+DOMAIN-SUFFIX,vrv.co    #vrv
 
 # Gogoanime
-DOMAIN-SUFFIX,gogoanime.vc,PROXY
-DOMAIN-SUFFIX,gogoanime.wiki,PROXY
-DOMAIN-SUFFIX,gogoanime3.co,PROXY
-DOMAIN-SUFFIX,gogotaku.info,PROXY
-DOMAIN-SUFFIX,gogo-load.com,PROXY
-DOMAIN-SUFFIX,gogocdn.net,PROXY    #image hosting site
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogoanime.wiki
+DOMAIN-SUFFIX,gogoanime3.co
+DOMAIN-SUFFIX,gogotaku.info
+DOMAIN-SUFFIX,gogo-load.com
+DOMAIN-SUFFIX,gogocdn.net    #image hosting site
 
 # hidive
-DOMAIN-SUFFIX,hidive.com,PROXY
+DOMAIN-SUFFIX,hidive.com

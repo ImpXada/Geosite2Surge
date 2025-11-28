@@ -5,1344 +5,1344 @@
 # Anime, Comics & Games
 #include:category-acg
 # Game
-DOMAIN-SUFFIX,colorfulstage.com,PROXY
+DOMAIN-SUFFIX,colorfulstage.com
 
 # Idol
-DOMAIN-SUFFIX,crypton.co.jp,PROXY
-DOMAIN-SUFFIX,lapriere.jp,PROXY
-DOMAIN-SUFFIX,magicalmirai.com,PROXY
-DOMAIN-SUFFIX,mikuexpo.com,PROXY
-DOMAIN-SUFFIX,piapro.net,PROXY
-DOMAIN-SUFFIX,snowmiku.com,PROXY
+DOMAIN-SUFFIX,crypton.co.jp
+DOMAIN-SUFFIX,lapriere.jp
+DOMAIN-SUFFIX,magicalmirai.com
+DOMAIN-SUFFIX,mikuexpo.com
+DOMAIN-SUFFIX,piapro.net
+DOMAIN-SUFFIX,snowmiku.com
 
 # Resource sharing
-DOMAIN-SUFFIX,bowlroll.net,PROXY
+DOMAIN-SUFFIX,bowlroll.net
 #end include:category-acg
 
 # Advertisment & Analytics
 #include:pubmatic
 # Programmatic Digital Advertising Technology & Solutions | PubMatic
 
-DOMAIN-SUFFIX,pubmatic.com,PROXY
-DOMAIN-SUFFIX,pubmatic.co.jp,PROXY
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,pubmatic.co.jp
 
-DOMAIN-SUFFIX,ads.pubmatic.com,PROXY
+DOMAIN-SUFFIX,ads.pubmatic.com
 #end include:pubmatic-ads
 #end include:pubmatic
 #include:taboola
 # Taboola uses this single domain for both official website and ads serving.
 # Blocking the following domain will prevent taboola ads from displaying,
 # but also cut the connection to Taboola website.
-DOMAIN-SUFFIX,taboola.com,PROXY
+DOMAIN-SUFFIX,taboola.com
 #end include:taboola
 
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
 
 # Art & Design & Photography
 #include:artstation
-DOMAIN-SUFFIX,artstation.com,PROXY
-DOMAIN-SUFFIX,artstationmedia.com,PROXY
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com
 #end include:artstation
 #include:dribbble
-DOMAIN-SUFFIX,drbl.in,PROXY
-DOMAIN-SUFFIX,dribbble.com,PROXY
+DOMAIN-SUFFIX,drbl.in
+DOMAIN-SUFFIX,dribbble.com
 #end include:dribbble
 #include:dyna
-DOMAIN-SUFFIX,dynacw.co.jp,PROXY
-DOMAIN-SUFFIX,dynacw.com,PROXY
-DOMAIN-SUFFIX,dynacw.com.cn,PROXY
-DOMAIN-SUFFIX,dynacw.com.hk,PROXY
-DOMAIN-SUFFIX,dynacw.com.tw,PROXY
+DOMAIN-SUFFIX,dynacw.co.jp
+DOMAIN-SUFFIX,dynacw.com
+DOMAIN-SUFFIX,dynacw.com.cn
+DOMAIN-SUFFIX,dynacw.com.hk
+DOMAIN-SUFFIX,dynacw.com.tw
 #end include:dyna
 #include:flickr
 # All .flickr domains
-DOMAIN-SUFFIX,flickr,PROXY
+DOMAIN-SUFFIX,flickr
 
-DOMAIN-SUFFIX,flic.kr,PROXY
-DOMAIN-SUFFIX,flickr.com,PROXY
-DOMAIN-SUFFIX,flickr.net,PROXY
-DOMAIN-SUFFIX,staticflickr.com,PROXY
+DOMAIN-SUFFIX,flic.kr
+DOMAIN-SUFFIX,flickr.com
+DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,staticflickr.com
 #end include:flickr
 #include:fonts
-DOMAIN-SUFFIX,fonts.com,PROXY
-DOMAIN-SUFFIX,fonts.net,PROXY
+DOMAIN-SUFFIX,fonts.com
+DOMAIN-SUFFIX,fonts.net
 #end include:fonts
 #include:fontsinuse
-DOMAIN-SUFFIX,fontsinuse.com,PROXY
+DOMAIN-SUFFIX,fontsinuse.com
 #end include:fontsinuse
 #include:gettyimages
-DOMAIN-SUFFIX,gettyimages.ae,PROXY
-DOMAIN-SUFFIX,gettyimages.at,PROXY
-DOMAIN-SUFFIX,gettyimages.be,PROXY
-DOMAIN-SUFFIX,gettyimages.ca,PROXY
-DOMAIN-SUFFIX,gettyimages.ch,PROXY
-DOMAIN-SUFFIX,gettyimages.co.jp,PROXY
-DOMAIN-SUFFIX,gettyimages.co.nz,PROXY
-DOMAIN-SUFFIX,gettyimages.co.uk,PROXY
-DOMAIN-SUFFIX,gettyimages.com,PROXY
-DOMAIN-SUFFIX,gettyimages.com.au,PROXY
-DOMAIN-SUFFIX,gettyimages.com.br,PROXY
-DOMAIN-SUFFIX,gettyimages.com.mx,PROXY
-DOMAIN-SUFFIX,gettyimages.de,PROXY
-DOMAIN-SUFFIX,gettyimages.dk,PROXY
-DOMAIN-SUFFIX,gettyimages.es,PROXY
-DOMAIN-SUFFIX,gettyimages.fi,PROXY
-DOMAIN-SUFFIX,gettyimages.fr,PROXY
-DOMAIN-SUFFIX,gettyimages.hk,PROXY
-DOMAIN-SUFFIX,gettyimages.ie,PROXY
-DOMAIN-SUFFIX,gettyimages.in,PROXY
-DOMAIN-SUFFIX,gettyimages.it,PROXY
-DOMAIN-SUFFIX,gettyimages.nl,PROXY
-DOMAIN-SUFFIX,gettyimages.no,PROXY
-DOMAIN-SUFFIX,gettyimages.pt,PROXY
-DOMAIN-SUFFIX,gettyimages.se,PROXY
+DOMAIN-SUFFIX,gettyimages.ae
+DOMAIN-SUFFIX,gettyimages.at
+DOMAIN-SUFFIX,gettyimages.be
+DOMAIN-SUFFIX,gettyimages.ca
+DOMAIN-SUFFIX,gettyimages.ch
+DOMAIN-SUFFIX,gettyimages.co.jp
+DOMAIN-SUFFIX,gettyimages.co.nz
+DOMAIN-SUFFIX,gettyimages.co.uk
+DOMAIN-SUFFIX,gettyimages.com
+DOMAIN-SUFFIX,gettyimages.com.au
+DOMAIN-SUFFIX,gettyimages.com.br
+DOMAIN-SUFFIX,gettyimages.com.mx
+DOMAIN-SUFFIX,gettyimages.de
+DOMAIN-SUFFIX,gettyimages.dk
+DOMAIN-SUFFIX,gettyimages.es
+DOMAIN-SUFFIX,gettyimages.fi
+DOMAIN-SUFFIX,gettyimages.fr
+DOMAIN-SUFFIX,gettyimages.hk
+DOMAIN-SUFFIX,gettyimages.ie
+DOMAIN-SUFFIX,gettyimages.in
+DOMAIN-SUFFIX,gettyimages.it
+DOMAIN-SUFFIX,gettyimages.nl
+DOMAIN-SUFFIX,gettyimages.no
+DOMAIN-SUFFIX,gettyimages.pt
+DOMAIN-SUFFIX,gettyimages.se
 #end include:gettyimages
 #include:glyphs
-DOMAIN-SUFFIX,glyphsapp.com,PROXY
+DOMAIN-SUFFIX,glyphsapp.com
 #end include:glyphs
 #include:jiyukobo
-DOMAIN-SUFFIX,jiyu-kobo.co.jp,PROXY
+DOMAIN-SUFFIX,jiyu-kobo.co.jp
 #end include:jiyukobo
 #include:morisawa
-DOMAIN-SUFFIX,morisawa.co.jp,PROXY
+DOMAIN-SUFFIX,morisawa.co.jp
 
 # TypeSquare
-DOMAIN-SUFFIX,typesquare.com,PROXY
+DOMAIN-SUFFIX,typesquare.com
 #end include:morisawa
 #include:pinterest
-DOMAIN-SUFFIX,pin.it,PROXY
-DOMAIN-SUFFIX,pinimg.com,PROXY
-DOMAIN-SUFFIX,pinterest.at,PROXY
-DOMAIN-SUFFIX,pinterest.be,PROXY
-DOMAIN-SUFFIX,pinterest.ca,PROXY
-DOMAIN-SUFFIX,pinterest.ch,PROXY
-DOMAIN-SUFFIX,pinterest.cl,PROXY
-DOMAIN-SUFFIX,pinterest.co,PROXY
-DOMAIN-SUFFIX,pinterest.co.at,PROXY
-DOMAIN-SUFFIX,pinterest.co.in,PROXY
-DOMAIN-SUFFIX,pinterest.co.kr,PROXY
-DOMAIN-SUFFIX,pinterest.co.nz,PROXY
-DOMAIN-SUFFIX,pinterest.co.uk,PROXY
-DOMAIN-SUFFIX,pinterest.com,PROXY
-DOMAIN-SUFFIX,pinterest.com.au,PROXY
-DOMAIN-SUFFIX,pinterest.com.bo,PROXY
-DOMAIN-SUFFIX,pinterest.com.ec,PROXY
-DOMAIN-SUFFIX,pinterest.com.mx,PROXY
-DOMAIN-SUFFIX,pinterest.com.pe,PROXY
-DOMAIN-SUFFIX,pinterest.com.py,PROXY
-DOMAIN-SUFFIX,pinterest.com.uy,PROXY
-DOMAIN-SUFFIX,pinterest.com.vn,PROXY
-DOMAIN-SUFFIX,pinterest.de,PROXY
-DOMAIN-SUFFIX,pinterest.dk,PROXY
-DOMAIN-SUFFIX,pinterest.ec,PROXY
-DOMAIN-SUFFIX,pinterest.engineering,PROXY
-DOMAIN-SUFFIX,pinterest.es,PROXY
-DOMAIN-SUFFIX,pinterest.fr,PROXY
-DOMAIN-SUFFIX,pinterest.hu,PROXY
-DOMAIN-SUFFIX,pinterest.id,PROXY
-DOMAIN-SUFFIX,pinterest.ie,PROXY
-DOMAIN-SUFFIX,pinterest.in,PROXY
-DOMAIN-SUFFIX,pinterest.info,PROXY
-DOMAIN-SUFFIX,pinterest.it,PROXY
-DOMAIN-SUFFIX,pinterest.jp,PROXY
-DOMAIN-SUFFIX,pinterest.kr,PROXY
-DOMAIN-SUFFIX,pinterest.mx,PROXY
-DOMAIN-SUFFIX,pinterest.net,PROXY
-DOMAIN-SUFFIX,pinterest.nl,PROXY
-DOMAIN-SUFFIX,pinterest.nz,PROXY
-DOMAIN-SUFFIX,pinterest.pe,PROXY
-DOMAIN-SUFFIX,pinterest.ph,PROXY
-DOMAIN-SUFFIX,pinterest.pt,PROXY
-DOMAIN-SUFFIX,pinterest.ru,PROXY
-DOMAIN-SUFFIX,pinterest.se,PROXY
-DOMAIN-SUFFIX,pinterest.th,PROXY
-DOMAIN-SUFFIX,pinterest.tw,PROXY
-DOMAIN-SUFFIX,pinterest.uk,PROXY
-DOMAIN-SUFFIX,pinterest.vn,PROXY
-DOMAIN-SUFFIX,pinterestmail.com,PROXY
+DOMAIN-SUFFIX,pin.it
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.at
+DOMAIN-SUFFIX,pinterest.be
+DOMAIN-SUFFIX,pinterest.ca
+DOMAIN-SUFFIX,pinterest.ch
+DOMAIN-SUFFIX,pinterest.cl
+DOMAIN-SUFFIX,pinterest.co
+DOMAIN-SUFFIX,pinterest.co.at
+DOMAIN-SUFFIX,pinterest.co.in
+DOMAIN-SUFFIX,pinterest.co.kr
+DOMAIN-SUFFIX,pinterest.co.nz
+DOMAIN-SUFFIX,pinterest.co.uk
+DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pinterest.com.au
+DOMAIN-SUFFIX,pinterest.com.bo
+DOMAIN-SUFFIX,pinterest.com.ec
+DOMAIN-SUFFIX,pinterest.com.mx
+DOMAIN-SUFFIX,pinterest.com.pe
+DOMAIN-SUFFIX,pinterest.com.py
+DOMAIN-SUFFIX,pinterest.com.uy
+DOMAIN-SUFFIX,pinterest.com.vn
+DOMAIN-SUFFIX,pinterest.de
+DOMAIN-SUFFIX,pinterest.dk
+DOMAIN-SUFFIX,pinterest.ec
+DOMAIN-SUFFIX,pinterest.engineering
+DOMAIN-SUFFIX,pinterest.es
+DOMAIN-SUFFIX,pinterest.fr
+DOMAIN-SUFFIX,pinterest.hu
+DOMAIN-SUFFIX,pinterest.id
+DOMAIN-SUFFIX,pinterest.ie
+DOMAIN-SUFFIX,pinterest.in
+DOMAIN-SUFFIX,pinterest.info
+DOMAIN-SUFFIX,pinterest.it
+DOMAIN-SUFFIX,pinterest.jp
+DOMAIN-SUFFIX,pinterest.kr
+DOMAIN-SUFFIX,pinterest.mx
+DOMAIN-SUFFIX,pinterest.net
+DOMAIN-SUFFIX,pinterest.nl
+DOMAIN-SUFFIX,pinterest.nz
+DOMAIN-SUFFIX,pinterest.pe
+DOMAIN-SUFFIX,pinterest.ph
+DOMAIN-SUFFIX,pinterest.pt
+DOMAIN-SUFFIX,pinterest.ru
+DOMAIN-SUFFIX,pinterest.se
+DOMAIN-SUFFIX,pinterest.th
+DOMAIN-SUFFIX,pinterest.tw
+DOMAIN-SUFFIX,pinterest.uk
+DOMAIN-SUFFIX,pinterest.vn
+DOMAIN-SUFFIX,pinterestmail.com
 
 #CDN
-DOMAIN-SUFFIX,pinimg.com.cdn.cloudflare.net,PROXY
-DOMAIN-SUFFIX,pinterest.map.fastly.net,PROXY
+DOMAIN-SUFFIX,pinimg.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,pinterest.map.fastly.net
 #end include:pinterest
 #include:realtype
-DOMAIN-SUFFIX,realtype.co.jp,PROXY
-DOMAIN-SUFFIX,realtype.jp,PROXY
+DOMAIN-SUFFIX,realtype.co.jp
+DOMAIN-SUFFIX,realtype.jp
 #end include:realtype
 #include:typenetwork
-DOMAIN-SUFFIX,typenetwork.com,PROXY
+DOMAIN-SUFFIX,typenetwork.com
 #end include:typenetwork
 #include:typography
-DOMAIN-SUFFIX,typography.com,PROXY
+DOMAIN-SUFFIX,typography.com
 #end include:typography
 #include:webtype
-DOMAIN-SUFFIX,webtype.com,PROXY
+DOMAIN-SUFFIX,webtype.com
 #end include:webtype
 
 # Automobile
 #include:bridgestone
 # All .bridgestone domains
-DOMAIN-SUFFIX,bridgestone,PROXY
+DOMAIN-SUFFIX,bridgestone
 
-DOMAIN-SUFFIX,bandag.cc,PROXY
-DOMAIN-SUFFIX,bandag.com,PROXY
-DOMAIN-SUFFIX,blizzak-juken.jp,PROXY
-DOMAIN-SUFFIX,bookmybridgestonetyre.com,PROXY
-DOMAIN-SUFFIX,bridgestone-asiapacific.com,PROXY
-DOMAIN-SUFFIX,bridgestone-bandag.com,PROXY
-DOMAIN-SUFFIX,bridgestone-brand.com,PROXY
-DOMAIN-SUFFIX,bridgestone-business-service.jp,PROXY
-DOMAIN-SUFFIX,bridgestone-korea.co.kr,PROXY
-DOMAIN-SUFFIX,bridgestone-plt-eng.com,PROXY
-DOMAIN-SUFFIX,bridgestone-tac-oman.com,PROXY
-DOMAIN-SUFFIX,bridgestone.cl,PROXY
-DOMAIN-SUFFIX,bridgestone.cn,PROXY
-DOMAIN-SUFFIX,bridgestone.co.cr,PROXY
-DOMAIN-SUFFIX,bridgestone.co.id,PROXY
-DOMAIN-SUFFIX,bridgestone.co.in,PROXY
-DOMAIN-SUFFIX,bridgestone.co.jp,PROXY
-DOMAIN-SUFFIX,bridgestone.co.th,PROXY
-DOMAIN-SUFFIX,bridgestone.com,PROXY
-DOMAIN-SUFFIX,bridgestone.com.ar,PROXY
-DOMAIN-SUFFIX,bridgestone.com.br,PROXY
-DOMAIN-SUFFIX,bridgestone.com.cn,PROXY
-DOMAIN-SUFFIX,bridgestone.com.co,PROXY
-DOMAIN-SUFFIX,bridgestone.com.mx,PROXY
-DOMAIN-SUFFIX,bridgestone.com.sg,PROXY
-DOMAIN-SUFFIX,bridgestone.com.tw,PROXY
-DOMAIN-SUFFIX,bridgestone.com.vn,PROXY
-DOMAIN-SUFFIX,bridgestoneamericas.com,PROXY
-DOMAIN-SUFFIX,bridgestonearena.com,PROXY
-DOMAIN-SUFFIX,bridgestonecntc.com,PROXY
-DOMAIN-SUFFIX,bridgestonecomercial.cl,PROXY
-DOMAIN-SUFFIX,bridgestonecomercial.co.cr,PROXY
-DOMAIN-SUFFIX,bridgestonecomercial.com.ar,PROXY
-DOMAIN-SUFFIX,bridgestonecomercial.com.br,PROXY
-DOMAIN-SUFFIX,bridgestonecomercial.com.co,PROXY
-DOMAIN-SUFFIX,bridgestonecomercial.com.mx,PROXY
-DOMAIN-SUFFIX,bridgestonegolf.com,PROXY
-DOMAIN-SUFFIX,bridgestonegz.com,PROXY
-DOMAIN-SUFFIX,bridgestonela.com,PROXY
-DOMAIN-SUFFIX,bridgestonemarketing.com,PROXY
-DOMAIN-SUFFIX,bridgestonemerchandise.com,PROXY
-DOMAIN-SUFFIX,bridgestonenationalfleet.com,PROXY
-DOMAIN-SUFFIX,bridgestoneperformance.com,PROXY
-DOMAIN-SUFFIX,bridgestoneperformancemedia.net,PROXY
-DOMAIN-SUFFIX,bridgestonerapiddelivery.com,PROXY
-DOMAIN-SUFFIX,bridgestonerewards.com,PROXY
-DOMAIN-SUFFIX,bridgestonesyb.com,PROXY
-DOMAIN-SUFFIX,bridgestonetire.ca,PROXY
-DOMAIN-SUFFIX,bridgestonetire.com,PROXY
-DOMAIN-SUFFIX,bridgestonetyre.com.my,PROXY
-DOMAIN-SUFFIX,bridgestonevan.com,PROXY
-DOMAIN-SUFFIX,bridgestonewx.com,PROXY
-DOMAIN-SUFFIX,bs-adreview.com,PROXY
-DOMAIN-SUFFIX,bs-awh.ne.jp,PROXY
-DOMAIN-SUFFIX,bsw.co.jp,PROXY
-DOMAIN-SUFFIX,bsw.jp,PROXY
-DOMAIN-SUFFIX,carcare-and-tireshop.jp,PROXY
-DOMAIN-SUFFIX,daytontrucktires.com,PROXY
-DOMAIN-SUFFIX,ecoforme.jp,PROXY
-DOMAIN-SUFFIX,gcrtires.com,PROXY
-DOMAIN-SUFFIX,jsbridgestone.com,PROXY
-DOMAIN-SUFFIX,menshin-channel.com,PROXY
-DOMAIN-SUFFIX,monitrix.net,PROXY
-DOMAIN-SUFFIX,mr-tireman.jp,PROXY
-DOMAIN-SUFFIX,mybridgestoneeducation.com,PROXY
-DOMAIN-SUFFIX,playz.jp,PROXY
-DOMAIN-SUFFIX,potenza.jp,PROXY
-DOMAIN-SUFFIX,prodrive-japan.com,PROXY
-DOMAIN-SUFFIX,store-bridgestonesports.com,PROXY
-DOMAIN-SUFFIX,thetread.com,PROXY
-DOMAIN-SUFFIX,tiresplus.com,PROXY
+DOMAIN-SUFFIX,bandag.cc
+DOMAIN-SUFFIX,bandag.com
+DOMAIN-SUFFIX,blizzak-juken.jp
+DOMAIN-SUFFIX,bookmybridgestonetyre.com
+DOMAIN-SUFFIX,bridgestone-asiapacific.com
+DOMAIN-SUFFIX,bridgestone-bandag.com
+DOMAIN-SUFFIX,bridgestone-brand.com
+DOMAIN-SUFFIX,bridgestone-business-service.jp
+DOMAIN-SUFFIX,bridgestone-korea.co.kr
+DOMAIN-SUFFIX,bridgestone-plt-eng.com
+DOMAIN-SUFFIX,bridgestone-tac-oman.com
+DOMAIN-SUFFIX,bridgestone.cl
+DOMAIN-SUFFIX,bridgestone.cn
+DOMAIN-SUFFIX,bridgestone.co.cr
+DOMAIN-SUFFIX,bridgestone.co.id
+DOMAIN-SUFFIX,bridgestone.co.in
+DOMAIN-SUFFIX,bridgestone.co.jp
+DOMAIN-SUFFIX,bridgestone.co.th
+DOMAIN-SUFFIX,bridgestone.com
+DOMAIN-SUFFIX,bridgestone.com.ar
+DOMAIN-SUFFIX,bridgestone.com.br
+DOMAIN-SUFFIX,bridgestone.com.cn
+DOMAIN-SUFFIX,bridgestone.com.co
+DOMAIN-SUFFIX,bridgestone.com.mx
+DOMAIN-SUFFIX,bridgestone.com.sg
+DOMAIN-SUFFIX,bridgestone.com.tw
+DOMAIN-SUFFIX,bridgestone.com.vn
+DOMAIN-SUFFIX,bridgestoneamericas.com
+DOMAIN-SUFFIX,bridgestonearena.com
+DOMAIN-SUFFIX,bridgestonecntc.com
+DOMAIN-SUFFIX,bridgestonecomercial.cl
+DOMAIN-SUFFIX,bridgestonecomercial.co.cr
+DOMAIN-SUFFIX,bridgestonecomercial.com.ar
+DOMAIN-SUFFIX,bridgestonecomercial.com.br
+DOMAIN-SUFFIX,bridgestonecomercial.com.co
+DOMAIN-SUFFIX,bridgestonecomercial.com.mx
+DOMAIN-SUFFIX,bridgestonegolf.com
+DOMAIN-SUFFIX,bridgestonegz.com
+DOMAIN-SUFFIX,bridgestonela.com
+DOMAIN-SUFFIX,bridgestonemarketing.com
+DOMAIN-SUFFIX,bridgestonemerchandise.com
+DOMAIN-SUFFIX,bridgestonenationalfleet.com
+DOMAIN-SUFFIX,bridgestoneperformance.com
+DOMAIN-SUFFIX,bridgestoneperformancemedia.net
+DOMAIN-SUFFIX,bridgestonerapiddelivery.com
+DOMAIN-SUFFIX,bridgestonerewards.com
+DOMAIN-SUFFIX,bridgestonesyb.com
+DOMAIN-SUFFIX,bridgestonetire.ca
+DOMAIN-SUFFIX,bridgestonetire.com
+DOMAIN-SUFFIX,bridgestonetyre.com.my
+DOMAIN-SUFFIX,bridgestonevan.com
+DOMAIN-SUFFIX,bridgestonewx.com
+DOMAIN-SUFFIX,bs-adreview.com
+DOMAIN-SUFFIX,bs-awh.ne.jp
+DOMAIN-SUFFIX,bsw.co.jp
+DOMAIN-SUFFIX,bsw.jp
+DOMAIN-SUFFIX,carcare-and-tireshop.jp
+DOMAIN-SUFFIX,daytontrucktires.com
+DOMAIN-SUFFIX,ecoforme.jp
+DOMAIN-SUFFIX,gcrtires.com
+DOMAIN-SUFFIX,jsbridgestone.com
+DOMAIN-SUFFIX,menshin-channel.com
+DOMAIN-SUFFIX,monitrix.net
+DOMAIN-SUFFIX,mr-tireman.jp
+DOMAIN-SUFFIX,mybridgestoneeducation.com
+DOMAIN-SUFFIX,playz.jp
+DOMAIN-SUFFIX,potenza.jp
+DOMAIN-SUFFIX,prodrive-japan.com
+DOMAIN-SUFFIX,store-bridgestonesports.com
+DOMAIN-SUFFIX,thetread.com
+DOMAIN-SUFFIX,tiresplus.com
 
 # Credit First National Association
-DOMAIN-SUFFIX,cfna.com,PROXY
+DOMAIN-SUFFIX,cfna.com
 
 # Firestone
-DOMAIN-SUFFIX,bastropfirestone.com,PROXY
-DOMAIN-SUFFIX,crossfitfirestone.com,PROXY
-DOMAIN-SUFFIX,firestone.cl,PROXY
-DOMAIN-SUFFIX,firestone.co.cr,PROXY
-DOMAIN-SUFFIX,firestone.com.ar,PROXY
-DOMAIN-SUFFIX,firestone.com.br,PROXY
-DOMAIN-SUFFIX,firestone.com.co,PROXY
-DOMAIN-SUFFIX,firestone.com.mx,PROXY
-DOMAIN-SUFFIX,firestonebpco.com,PROXY
-DOMAIN-SUFFIX,firestonecomercial.cl,PROXY
-DOMAIN-SUFFIX,firestonecomercial.co.cr,PROXY
-DOMAIN-SUFFIX,firestonecomercial.com.ar,PROXY
-DOMAIN-SUFFIX,firestonecomercial.com.br,PROXY
-DOMAIN-SUFFIX,firestonecomercial.com.co,PROXY
-DOMAIN-SUFFIX,firestonecomercial.com.mx,PROXY
-DOMAIN-SUFFIX,firestonecompleteautocare.com,PROXY
-DOMAIN-SUFFIX,firestonedrivestore.com,PROXY
-DOMAIN-SUFFIX,firestoneip.com,PROXY
-DOMAIN-SUFFIX,firestonerewards.com,PROXY
-DOMAIN-SUFFIX,firestonetire.ca,PROXY
-DOMAIN-SUFFIX,firestonetire.com,PROXY
-DOMAIN-SUFFIX,hibdontire.com,PROXY
-DOMAIN-SUFFIX,wheelworks.net,PROXY
+DOMAIN-SUFFIX,bastropfirestone.com
+DOMAIN-SUFFIX,crossfitfirestone.com
+DOMAIN-SUFFIX,firestone.cl
+DOMAIN-SUFFIX,firestone.co.cr
+DOMAIN-SUFFIX,firestone.com.ar
+DOMAIN-SUFFIX,firestone.com.br
+DOMAIN-SUFFIX,firestone.com.co
+DOMAIN-SUFFIX,firestone.com.mx
+DOMAIN-SUFFIX,firestonebpco.com
+DOMAIN-SUFFIX,firestonecomercial.cl
+DOMAIN-SUFFIX,firestonecomercial.co.cr
+DOMAIN-SUFFIX,firestonecomercial.com.ar
+DOMAIN-SUFFIX,firestonecomercial.com.br
+DOMAIN-SUFFIX,firestonecomercial.com.co
+DOMAIN-SUFFIX,firestonecomercial.com.mx
+DOMAIN-SUFFIX,firestonecompleteautocare.com
+DOMAIN-SUFFIX,firestonedrivestore.com
+DOMAIN-SUFFIX,firestoneip.com
+DOMAIN-SUFFIX,firestonerewards.com
+DOMAIN-SUFFIX,firestonetire.ca
+DOMAIN-SUFFIX,firestonetire.com
+DOMAIN-SUFFIX,hibdontire.com
+DOMAIN-SUFFIX,wheelworks.net
 
 # Nokian Tyres
-DOMAIN-SUFFIX,nokiantyres.cn,PROXY
-DOMAIN-SUFFIX,nokiantyres.com,PROXY
+DOMAIN-SUFFIX,nokiantyres.cn
+DOMAIN-SUFFIX,nokiantyres.com
 #end include:bridgestone
 #include:tesla
-DOMAIN-SUFFIX,solarcity.com,PROXY
-DOMAIN-SUFFIX,tesla.cn,PROXY
-DOMAIN-SUFFIX,tesla.com,PROXY
-DOMAIN-SUFFIX,tesla.com.cn,PROXY
-DOMAIN-SUFFIX,tesla.services,PROXY
-DOMAIN-SUFFIX,teslaenergy.services,PROXY
-DOMAIN-SUFFIX,teslamotors.cn,PROXY
-DOMAIN-SUFFIX,teslamotors.com,PROXY
-DOMAIN-SUFFIX,teslamotors.com.cn,PROXY
-DOMAIN-SUFFIX,teslazta.net,PROXY
-DOMAIN-SUFFIX,ts.la,PROXY
+DOMAIN-SUFFIX,solarcity.com
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,tesla.com
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,tesla.services
+DOMAIN-SUFFIX,teslaenergy.services
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com
+DOMAIN-SUFFIX,teslamotors.com.cn
+DOMAIN-SUFFIX,teslazta.net
+DOMAIN-SUFFIX,ts.la
 
-DOMAIN,tesla-cdn.thron.cn,PROXY
-DOMAIN,tesla-cdn.thron.com,PROXY
+DOMAIN,tesla-cdn.thron.cn
+DOMAIN,tesla-cdn.thron.com
 #end include:tesla
 #include:volvo
 # All .volvo domains
-DOMAIN-SUFFIX,volvo,PROXY
+DOMAIN-SUFFIX,volvo
 
-DOMAIN-SUFFIX,dynafleetonline.com,PROXY
-DOMAIN-SUFFIX,escandinavia-arg.com,PROXY
-DOMAIN-SUFFIX,independentoperatorcn.com,PROXY
-DOMAIN-SUFFIX,road-crew.com,PROXY
-DOMAIN-SUFFIX,udfs.com,PROXY
-DOMAIN-SUFFIX,vfsco.at,PROXY
-DOMAIN-SUFFIX,vfsco.be,PROXY
-DOMAIN-SUFFIX,vfsco.bg,PROXY
-DOMAIN-SUFFIX,vfsco.ca,PROXY
-DOMAIN-SUFFIX,vfsco.ch,PROXY
-DOMAIN-SUFFIX,vfsco.cl,PROXY
-DOMAIN-SUFFIX,vfsco.co.uk,PROXY
-DOMAIN-SUFFIX,vfsco.co.za,PROXY
-DOMAIN-SUFFIX,vfsco.com,PROXY
-DOMAIN-SUFFIX,vfsco.com.au,PROXY
-DOMAIN-SUFFIX,vfsco.com.br,PROXY
-DOMAIN-SUFFIX,vfsco.com.cn,PROXY
-DOMAIN-SUFFIX,vfsco.com.tr,PROXY
-DOMAIN-SUFFIX,vfsco.cz,PROXY
-DOMAIN-SUFFIX,vfsco.de,PROXY
-DOMAIN-SUFFIX,vfsco.dk,PROXY
-DOMAIN-SUFFIX,vfsco.ee,PROXY
-DOMAIN-SUFFIX,vfsco.es,PROXY
-DOMAIN-SUFFIX,vfsco.fi,PROXY
-DOMAIN-SUFFIX,vfsco.fr,PROXY
-DOMAIN-SUFFIX,vfsco.hu,PROXY
-DOMAIN-SUFFIX,vfsco.ie,PROXY
-DOMAIN-SUFFIX,vfsco.in,PROXY
-DOMAIN-SUFFIX,vfsco.it,PROXY
-DOMAIN-SUFFIX,vfsco.jp,PROXY
-DOMAIN-SUFFIX,vfsco.kr,PROXY
-DOMAIN-SUFFIX,vfsco.lt,PROXY
-DOMAIN-SUFFIX,vfsco.lv,PROXY
-DOMAIN-SUFFIX,vfsco.mx,PROXY
-DOMAIN-SUFFIX,vfsco.nl,PROXY
-DOMAIN-SUFFIX,vfsco.no,PROXY
-DOMAIN-SUFFIX,vfsco.pe,PROXY
-DOMAIN-SUFFIX,vfsco.pl,PROXY
-DOMAIN-SUFFIX,vfsco.ro,PROXY
-DOMAIN-SUFFIX,vfsco.ru,PROXY
-DOMAIN-SUFFIX,vfsco.se,PROXY
-DOMAIN-SUFFIX,vfsco.sk,PROXY
-DOMAIN-SUFFIX,vfsco.us,PROXY
-DOMAIN-SUFFIX,vgcareers.net,PROXY
-DOMAIN-SUFFIX,volvo-truck.nl,PROXY
-DOMAIN-SUFFIX,volvo.ca,PROXY
-DOMAIN-SUFFIX,volvo.cn,PROXY
-DOMAIN-SUFFIX,volvo.com,PROXY
-DOMAIN-SUFFIX,volvo.com.cn,PROXY
-DOMAIN-SUFFIX,volvo.se,PROXY
-DOMAIN-SUFFIX,volvobrandshop.com,PROXY
-DOMAIN-SUFFIX,volvobuses.at,PROXY
-DOMAIN-SUFFIX,volvobuses.be,PROXY
-DOMAIN-SUFFIX,volvobuses.ca,PROXY
-DOMAIN-SUFFIX,volvobuses.ch,PROXY
-DOMAIN-SUFFIX,volvobuses.co,PROXY
-DOMAIN-SUFFIX,volvobuses.co.nz,PROXY
-DOMAIN-SUFFIX,volvobuses.co.uk,PROXY
-DOMAIN-SUFFIX,volvobuses.co.za,PROXY
-DOMAIN-SUFFIX,volvobuses.com,PROXY
-DOMAIN-SUFFIX,volvobuses.com.ar,PROXY
-DOMAIN-SUFFIX,volvobuses.com.au,PROXY
-DOMAIN-SUFFIX,volvobuses.com.br,PROXY
-DOMAIN-SUFFIX,volvobuses.com.kw,PROXY
-DOMAIN-SUFFIX,volvobuses.com.pt,PROXY
-DOMAIN-SUFFIX,volvobuses.com.tw,PROXY
-DOMAIN-SUFFIX,volvobuses.de,PROXY
-DOMAIN-SUFFIX,volvobuses.dk,PROXY
-DOMAIN-SUFFIX,volvobuses.es,PROXY
-DOMAIN-SUFFIX,volvobuses.fi,PROXY
-DOMAIN-SUFFIX,volvobuses.fr,PROXY
-DOMAIN-SUFFIX,volvobuses.hk,PROXY
-DOMAIN-SUFFIX,volvobuses.hu,PROXY
-DOMAIN-SUFFIX,volvobuses.in,PROXY
-DOMAIN-SUFFIX,volvobuses.it,PROXY
-DOMAIN-SUFFIX,volvobuses.jo,PROXY
-DOMAIN-SUFFIX,volvobuses.kr,PROXY
-DOMAIN-SUFFIX,volvobuses.ma,PROXY
-DOMAIN-SUFFIX,volvobuses.mx,PROXY
-DOMAIN-SUFFIX,volvobuses.my,PROXY
-DOMAIN-SUFFIX,volvobuses.no,PROXY
-DOMAIN-SUFFIX,volvobuses.om,PROXY
-DOMAIN-SUFFIX,volvobuses.ph,PROXY
-DOMAIN-SUFFIX,volvobuses.pk,PROXY
-DOMAIN-SUFFIX,volvobuses.pl,PROXY
-DOMAIN-SUFFIX,volvobuses.ru,PROXY
-DOMAIN-SUFFIX,volvobuses.se,PROXY
-DOMAIN-SUFFIX,volvobuses.sg,PROXY
-DOMAIN-SUFFIX,volvobuses.tn,PROXY
-DOMAIN-SUFFIX,volvobuses.us,PROXY
-DOMAIN-SUFFIX,volvoce.com,PROXY
-DOMAIN-SUFFIX,volvodefense.com,PROXY
-DOMAIN-SUFFIX,volvogroup.be,PROXY
-DOMAIN-SUFFIX,volvogroup.cn,PROXY
-DOMAIN-SUFFIX,volvogroup.com,PROXY
-DOMAIN-SUFFIX,volvogroup.com.br,PROXY
-DOMAIN-SUFFIX,volvogroup.com.cn,PROXY
-DOMAIN-SUFFIX,volvogroup.de,PROXY
-DOMAIN-SUFFIX,volvogroup.fr,PROXY
-DOMAIN-SUFFIX,volvogroup.jp,PROXY
-DOMAIN-SUFFIX,volvogroup.kr,PROXY
-DOMAIN-SUFFIX,volvogroup.mx,PROXY
-DOMAIN-SUFFIX,volvogroup.nl,PROXY
-DOMAIN-SUFFIX,volvogroup.pe,PROXY
-DOMAIN-SUFFIX,volvogroup.pl,PROXY
-DOMAIN-SUFFIX,volvogroup.ru,PROXY
-DOMAIN-SUFFIX,volvogroup.se,PROXY
-DOMAIN-SUFFIX,volvogrouptruckcenter.nl,PROXY
-DOMAIN-SUFFIX,volvomerchandise.com,PROXY
-DOMAIN-SUFFIX,volvopenta.com,PROXY
-DOMAIN-SUFFIX,volvopenta.com.br,PROXY
-DOMAIN-SUFFIX,volvopenta.de,PROXY
-DOMAIN-SUFFIX,volvopenta.es,PROXY
-DOMAIN-SUFFIX,volvopenta.fr,PROXY
-DOMAIN-SUFFIX,volvopenta.it,PROXY
-DOMAIN-SUFFIX,volvopenta.nl,PROXY
-DOMAIN-SUFFIX,volvopenta.se,PROXY
-DOMAIN-SUFFIX,volvopenta.us,PROXY
-DOMAIN-SUFFIX,volvosaatio.fi,PROXY
-DOMAIN-SUFFIX,volvospares.com,PROXY
-DOMAIN-SUFFIX,volvotrucks.ae,PROXY
-DOMAIN-SUFFIX,volvotrucks.al,PROXY
-DOMAIN-SUFFIX,volvotrucks.am,PROXY
-DOMAIN-SUFFIX,volvotrucks.at,PROXY
-DOMAIN-SUFFIX,volvotrucks.az,PROXY
-DOMAIN-SUFFIX,volvotrucks.ba,PROXY
-DOMAIN-SUFFIX,volvotrucks.be,PROXY
-DOMAIN-SUFFIX,volvotrucks.bg,PROXY
-DOMAIN-SUFFIX,volvotrucks.by,PROXY
-DOMAIN-SUFFIX,volvotrucks.ch,PROXY
-DOMAIN-SUFFIX,volvotrucks.cl,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.ao,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.bw,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.il,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.mz,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.na,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.uk,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.nz,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.za,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.zm,PROXY
-DOMAIN-SUFFIX,volvotrucks.co.zw,PROXY
-DOMAIN-SUFFIX,volvotrucks.com,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.ar,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.au,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.bn,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.br,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.cn,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.co,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.kw,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.pt,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.tr,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.tw,PROXY
-DOMAIN-SUFFIX,volvotrucks.com.ua,PROXY
-DOMAIN-SUFFIX,volvotrucks.cz,PROXY
-DOMAIN-SUFFIX,volvotrucks.de,PROXY
-DOMAIN-SUFFIX,volvotrucks.dk,PROXY
-DOMAIN-SUFFIX,volvotrucks.ee,PROXY
-DOMAIN-SUFFIX,volvotrucks.es,PROXY
-DOMAIN-SUFFIX,volvotrucks.fi,PROXY
-DOMAIN-SUFFIX,volvotrucks.fr,PROXY
-DOMAIN-SUFFIX,volvotrucks.ge,PROXY
-DOMAIN-SUFFIX,volvotrucks.gr,PROXY
-DOMAIN-SUFFIX,volvotrucks.hk,PROXY
-DOMAIN-SUFFIX,volvotrucks.hr,PROXY
-DOMAIN-SUFFIX,volvotrucks.hu,PROXY
-DOMAIN-SUFFIX,volvotrucks.id,PROXY
-DOMAIN-SUFFIX,volvotrucks.in,PROXY
-DOMAIN-SUFFIX,volvotrucks.it,PROXY
-DOMAIN-SUFFIX,volvotrucks.jp,PROXY
-DOMAIN-SUFFIX,volvotrucks.kg,PROXY
-DOMAIN-SUFFIX,volvotrucks.kr,PROXY
-DOMAIN-SUFFIX,volvotrucks.kz,PROXY
-DOMAIN-SUFFIX,volvotrucks.lt,PROXY
-DOMAIN-SUFFIX,volvotrucks.lv,PROXY
-DOMAIN-SUFFIX,volvotrucks.ma,PROXY
-DOMAIN-SUFFIX,volvotrucks.md,PROXY
-DOMAIN-SUFFIX,volvotrucks.mk,PROXY
-DOMAIN-SUFFIX,volvotrucks.mn,PROXY
-DOMAIN-SUFFIX,volvotrucks.my,PROXY
-DOMAIN-SUFFIX,volvotrucks.net,PROXY
-DOMAIN-SUFFIX,volvotrucks.nl,PROXY
-DOMAIN-SUFFIX,volvotrucks.no,PROXY
-DOMAIN-SUFFIX,volvotrucks.pe,PROXY
-DOMAIN-SUFFIX,volvotrucks.ph,PROXY
-DOMAIN-SUFFIX,volvotrucks.pk,PROXY
-DOMAIN-SUFFIX,volvotrucks.pl,PROXY
-DOMAIN-SUFFIX,volvotrucks.ps,PROXY
-DOMAIN-SUFFIX,volvotrucks.qa,PROXY
-DOMAIN-SUFFIX,volvotrucks.ro,PROXY
-DOMAIN-SUFFIX,volvotrucks.rs,PROXY
-DOMAIN-SUFFIX,volvotrucks.ru,PROXY
-DOMAIN-SUFFIX,volvotrucks.se,PROXY
-DOMAIN-SUFFIX,volvotrucks.sg,PROXY
-DOMAIN-SUFFIX,volvotrucks.si,PROXY
-DOMAIN-SUFFIX,volvotrucks.sk,PROXY
-DOMAIN-SUFFIX,volvotrucks.tm,PROXY
-DOMAIN-SUFFIX,volvotrucks.tn,PROXY
-DOMAIN-SUFFIX,volvotrucks.uy,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.be,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.dk,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.es,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.fi,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.it,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.kr,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.kz,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.nl,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.no,PROXY
-DOMAIN-SUFFIX,volvotruckcenter.se,PROXY
-DOMAIN-SUFFIX,volvotruckrental.be,PROXY
+DOMAIN-SUFFIX,dynafleetonline.com
+DOMAIN-SUFFIX,escandinavia-arg.com
+DOMAIN-SUFFIX,independentoperatorcn.com
+DOMAIN-SUFFIX,road-crew.com
+DOMAIN-SUFFIX,udfs.com
+DOMAIN-SUFFIX,vfsco.at
+DOMAIN-SUFFIX,vfsco.be
+DOMAIN-SUFFIX,vfsco.bg
+DOMAIN-SUFFIX,vfsco.ca
+DOMAIN-SUFFIX,vfsco.ch
+DOMAIN-SUFFIX,vfsco.cl
+DOMAIN-SUFFIX,vfsco.co.uk
+DOMAIN-SUFFIX,vfsco.co.za
+DOMAIN-SUFFIX,vfsco.com
+DOMAIN-SUFFIX,vfsco.com.au
+DOMAIN-SUFFIX,vfsco.com.br
+DOMAIN-SUFFIX,vfsco.com.cn
+DOMAIN-SUFFIX,vfsco.com.tr
+DOMAIN-SUFFIX,vfsco.cz
+DOMAIN-SUFFIX,vfsco.de
+DOMAIN-SUFFIX,vfsco.dk
+DOMAIN-SUFFIX,vfsco.ee
+DOMAIN-SUFFIX,vfsco.es
+DOMAIN-SUFFIX,vfsco.fi
+DOMAIN-SUFFIX,vfsco.fr
+DOMAIN-SUFFIX,vfsco.hu
+DOMAIN-SUFFIX,vfsco.ie
+DOMAIN-SUFFIX,vfsco.in
+DOMAIN-SUFFIX,vfsco.it
+DOMAIN-SUFFIX,vfsco.jp
+DOMAIN-SUFFIX,vfsco.kr
+DOMAIN-SUFFIX,vfsco.lt
+DOMAIN-SUFFIX,vfsco.lv
+DOMAIN-SUFFIX,vfsco.mx
+DOMAIN-SUFFIX,vfsco.nl
+DOMAIN-SUFFIX,vfsco.no
+DOMAIN-SUFFIX,vfsco.pe
+DOMAIN-SUFFIX,vfsco.pl
+DOMAIN-SUFFIX,vfsco.ro
+DOMAIN-SUFFIX,vfsco.ru
+DOMAIN-SUFFIX,vfsco.se
+DOMAIN-SUFFIX,vfsco.sk
+DOMAIN-SUFFIX,vfsco.us
+DOMAIN-SUFFIX,vgcareers.net
+DOMAIN-SUFFIX,volvo-truck.nl
+DOMAIN-SUFFIX,volvo.ca
+DOMAIN-SUFFIX,volvo.cn
+DOMAIN-SUFFIX,volvo.com
+DOMAIN-SUFFIX,volvo.com.cn
+DOMAIN-SUFFIX,volvo.se
+DOMAIN-SUFFIX,volvobrandshop.com
+DOMAIN-SUFFIX,volvobuses.at
+DOMAIN-SUFFIX,volvobuses.be
+DOMAIN-SUFFIX,volvobuses.ca
+DOMAIN-SUFFIX,volvobuses.ch
+DOMAIN-SUFFIX,volvobuses.co
+DOMAIN-SUFFIX,volvobuses.co.nz
+DOMAIN-SUFFIX,volvobuses.co.uk
+DOMAIN-SUFFIX,volvobuses.co.za
+DOMAIN-SUFFIX,volvobuses.com
+DOMAIN-SUFFIX,volvobuses.com.ar
+DOMAIN-SUFFIX,volvobuses.com.au
+DOMAIN-SUFFIX,volvobuses.com.br
+DOMAIN-SUFFIX,volvobuses.com.kw
+DOMAIN-SUFFIX,volvobuses.com.pt
+DOMAIN-SUFFIX,volvobuses.com.tw
+DOMAIN-SUFFIX,volvobuses.de
+DOMAIN-SUFFIX,volvobuses.dk
+DOMAIN-SUFFIX,volvobuses.es
+DOMAIN-SUFFIX,volvobuses.fi
+DOMAIN-SUFFIX,volvobuses.fr
+DOMAIN-SUFFIX,volvobuses.hk
+DOMAIN-SUFFIX,volvobuses.hu
+DOMAIN-SUFFIX,volvobuses.in
+DOMAIN-SUFFIX,volvobuses.it
+DOMAIN-SUFFIX,volvobuses.jo
+DOMAIN-SUFFIX,volvobuses.kr
+DOMAIN-SUFFIX,volvobuses.ma
+DOMAIN-SUFFIX,volvobuses.mx
+DOMAIN-SUFFIX,volvobuses.my
+DOMAIN-SUFFIX,volvobuses.no
+DOMAIN-SUFFIX,volvobuses.om
+DOMAIN-SUFFIX,volvobuses.ph
+DOMAIN-SUFFIX,volvobuses.pk
+DOMAIN-SUFFIX,volvobuses.pl
+DOMAIN-SUFFIX,volvobuses.ru
+DOMAIN-SUFFIX,volvobuses.se
+DOMAIN-SUFFIX,volvobuses.sg
+DOMAIN-SUFFIX,volvobuses.tn
+DOMAIN-SUFFIX,volvobuses.us
+DOMAIN-SUFFIX,volvoce.com
+DOMAIN-SUFFIX,volvodefense.com
+DOMAIN-SUFFIX,volvogroup.be
+DOMAIN-SUFFIX,volvogroup.cn
+DOMAIN-SUFFIX,volvogroup.com
+DOMAIN-SUFFIX,volvogroup.com.br
+DOMAIN-SUFFIX,volvogroup.com.cn
+DOMAIN-SUFFIX,volvogroup.de
+DOMAIN-SUFFIX,volvogroup.fr
+DOMAIN-SUFFIX,volvogroup.jp
+DOMAIN-SUFFIX,volvogroup.kr
+DOMAIN-SUFFIX,volvogroup.mx
+DOMAIN-SUFFIX,volvogroup.nl
+DOMAIN-SUFFIX,volvogroup.pe
+DOMAIN-SUFFIX,volvogroup.pl
+DOMAIN-SUFFIX,volvogroup.ru
+DOMAIN-SUFFIX,volvogroup.se
+DOMAIN-SUFFIX,volvogrouptruckcenter.nl
+DOMAIN-SUFFIX,volvomerchandise.com
+DOMAIN-SUFFIX,volvopenta.com
+DOMAIN-SUFFIX,volvopenta.com.br
+DOMAIN-SUFFIX,volvopenta.de
+DOMAIN-SUFFIX,volvopenta.es
+DOMAIN-SUFFIX,volvopenta.fr
+DOMAIN-SUFFIX,volvopenta.it
+DOMAIN-SUFFIX,volvopenta.nl
+DOMAIN-SUFFIX,volvopenta.se
+DOMAIN-SUFFIX,volvopenta.us
+DOMAIN-SUFFIX,volvosaatio.fi
+DOMAIN-SUFFIX,volvospares.com
+DOMAIN-SUFFIX,volvotrucks.ae
+DOMAIN-SUFFIX,volvotrucks.al
+DOMAIN-SUFFIX,volvotrucks.am
+DOMAIN-SUFFIX,volvotrucks.at
+DOMAIN-SUFFIX,volvotrucks.az
+DOMAIN-SUFFIX,volvotrucks.ba
+DOMAIN-SUFFIX,volvotrucks.be
+DOMAIN-SUFFIX,volvotrucks.bg
+DOMAIN-SUFFIX,volvotrucks.by
+DOMAIN-SUFFIX,volvotrucks.ch
+DOMAIN-SUFFIX,volvotrucks.cl
+DOMAIN-SUFFIX,volvotrucks.co.ao
+DOMAIN-SUFFIX,volvotrucks.co.bw
+DOMAIN-SUFFIX,volvotrucks.co.il
+DOMAIN-SUFFIX,volvotrucks.co.mz
+DOMAIN-SUFFIX,volvotrucks.co.na
+DOMAIN-SUFFIX,volvotrucks.co.uk
+DOMAIN-SUFFIX,volvotrucks.co.nz
+DOMAIN-SUFFIX,volvotrucks.co.za
+DOMAIN-SUFFIX,volvotrucks.co.zm
+DOMAIN-SUFFIX,volvotrucks.co.zw
+DOMAIN-SUFFIX,volvotrucks.com
+DOMAIN-SUFFIX,volvotrucks.com.ar
+DOMAIN-SUFFIX,volvotrucks.com.au
+DOMAIN-SUFFIX,volvotrucks.com.bn
+DOMAIN-SUFFIX,volvotrucks.com.br
+DOMAIN-SUFFIX,volvotrucks.com.cn
+DOMAIN-SUFFIX,volvotrucks.com.co
+DOMAIN-SUFFIX,volvotrucks.com.kw
+DOMAIN-SUFFIX,volvotrucks.com.pt
+DOMAIN-SUFFIX,volvotrucks.com.tr
+DOMAIN-SUFFIX,volvotrucks.com.tw
+DOMAIN-SUFFIX,volvotrucks.com.ua
+DOMAIN-SUFFIX,volvotrucks.cz
+DOMAIN-SUFFIX,volvotrucks.de
+DOMAIN-SUFFIX,volvotrucks.dk
+DOMAIN-SUFFIX,volvotrucks.ee
+DOMAIN-SUFFIX,volvotrucks.es
+DOMAIN-SUFFIX,volvotrucks.fi
+DOMAIN-SUFFIX,volvotrucks.fr
+DOMAIN-SUFFIX,volvotrucks.ge
+DOMAIN-SUFFIX,volvotrucks.gr
+DOMAIN-SUFFIX,volvotrucks.hk
+DOMAIN-SUFFIX,volvotrucks.hr
+DOMAIN-SUFFIX,volvotrucks.hu
+DOMAIN-SUFFIX,volvotrucks.id
+DOMAIN-SUFFIX,volvotrucks.in
+DOMAIN-SUFFIX,volvotrucks.it
+DOMAIN-SUFFIX,volvotrucks.jp
+DOMAIN-SUFFIX,volvotrucks.kg
+DOMAIN-SUFFIX,volvotrucks.kr
+DOMAIN-SUFFIX,volvotrucks.kz
+DOMAIN-SUFFIX,volvotrucks.lt
+DOMAIN-SUFFIX,volvotrucks.lv
+DOMAIN-SUFFIX,volvotrucks.ma
+DOMAIN-SUFFIX,volvotrucks.md
+DOMAIN-SUFFIX,volvotrucks.mk
+DOMAIN-SUFFIX,volvotrucks.mn
+DOMAIN-SUFFIX,volvotrucks.my
+DOMAIN-SUFFIX,volvotrucks.net
+DOMAIN-SUFFIX,volvotrucks.nl
+DOMAIN-SUFFIX,volvotrucks.no
+DOMAIN-SUFFIX,volvotrucks.pe
+DOMAIN-SUFFIX,volvotrucks.ph
+DOMAIN-SUFFIX,volvotrucks.pk
+DOMAIN-SUFFIX,volvotrucks.pl
+DOMAIN-SUFFIX,volvotrucks.ps
+DOMAIN-SUFFIX,volvotrucks.qa
+DOMAIN-SUFFIX,volvotrucks.ro
+DOMAIN-SUFFIX,volvotrucks.rs
+DOMAIN-SUFFIX,volvotrucks.ru
+DOMAIN-SUFFIX,volvotrucks.se
+DOMAIN-SUFFIX,volvotrucks.sg
+DOMAIN-SUFFIX,volvotrucks.si
+DOMAIN-SUFFIX,volvotrucks.sk
+DOMAIN-SUFFIX,volvotrucks.tm
+DOMAIN-SUFFIX,volvotrucks.tn
+DOMAIN-SUFFIX,volvotrucks.uy
+DOMAIN-SUFFIX,volvotruckcenter.be
+DOMAIN-SUFFIX,volvotruckcenter.dk
+DOMAIN-SUFFIX,volvotruckcenter.es
+DOMAIN-SUFFIX,volvotruckcenter.fi
+DOMAIN-SUFFIX,volvotruckcenter.it
+DOMAIN-SUFFIX,volvotruckcenter.kr
+DOMAIN-SUFFIX,volvotruckcenter.kz
+DOMAIN-SUFFIX,volvotruckcenter.nl
+DOMAIN-SUFFIX,volvotruckcenter.no
+DOMAIN-SUFFIX,volvotruckcenter.se
+DOMAIN-SUFFIX,volvotruckrental.be
 
 # UD Trucks
-DOMAIN-SUFFIX,udtrucksmeena.com,PROXY
+DOMAIN-SUFFIX,udtrucksmeena.com
 #end include:volvo
 
 # Bank & Finance
 #include:dowjones
-DOMAIN-SUFFIX,djreprints.com,PROXY
-DOMAIN-SUFFIX,dowjones.com,PROXY
-DOMAIN-SUFFIX,dowjones.io,PROXY
-DOMAIN-SUFFIX,dowjoneson.com,PROXY
+DOMAIN-SUFFIX,djreprints.com
+DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dowjones.io
+DOMAIN-SUFFIX,dowjoneson.com
 #end include:dowjones
 #include:mastercard
-DOMAIN-SUFFIX,mastercard.ae,PROXY
-DOMAIN-SUFFIX,mastercard.at,PROXY
-DOMAIN-SUFFIX,mastercard.az,PROXY
-DOMAIN-SUFFIX,mastercard.ba,PROXY
-DOMAIN-SUFFIX,mastercard.be,PROXY
-DOMAIN-SUFFIX,mastercard.bg,PROXY
-DOMAIN-SUFFIX,mastercard.by,PROXY
-DOMAIN-SUFFIX,mastercard.ca,PROXY
-DOMAIN-SUFFIX,mastercard.ch,PROXY
-DOMAIN-SUFFIX,mastercard.cl,PROXY
-DOMAIN-SUFFIX,mastercard.cn,PROXY
-DOMAIN-SUFFIX,mastercard.co.id,PROXY
-DOMAIN-SUFFIX,mastercard.co.il,PROXY
-DOMAIN-SUFFIX,mastercard.co.in,PROXY
-DOMAIN-SUFFIX,mastercard.co.jp,PROXY
-DOMAIN-SUFFIX,mastercard.co.ke,PROXY
-DOMAIN-SUFFIX,mastercard.co.kr,PROXY
-DOMAIN-SUFFIX,mastercard.co.nz,PROXY
-DOMAIN-SUFFIX,mastercard.co.th,PROXY
-DOMAIN-SUFFIX,mastercard.co.uk,PROXY
-DOMAIN-SUFFIX,mastercard.co.ve,PROXY
-DOMAIN-SUFFIX,mastercard.co.za,PROXY
-DOMAIN-SUFFIX,mastercard.com,PROXY
-DOMAIN-SUFFIX,mastercard.com.ar,PROXY
-DOMAIN-SUFFIX,mastercard.com.au,PROXY
-DOMAIN-SUFFIX,mastercard.com.bh,PROXY
-DOMAIN-SUFFIX,mastercard.com.br,PROXY
-DOMAIN-SUFFIX,mastercard.com.bz,PROXY
-DOMAIN-SUFFIX,mastercard.com.cn,PROXY
-DOMAIN-SUFFIX,mastercard.com.co,PROXY
-DOMAIN-SUFFIX,mastercard.com.cy,PROXY
-DOMAIN-SUFFIX,mastercard.com.eg,PROXY
-DOMAIN-SUFFIX,mastercard.com.ge,PROXY
-DOMAIN-SUFFIX,mastercard.com.gt,PROXY
-DOMAIN-SUFFIX,mastercard.com.hk,PROXY
-DOMAIN-SUFFIX,mastercard.com.kw,PROXY
-DOMAIN-SUFFIX,mastercard.com.lb,PROXY
-DOMAIN-SUFFIX,mastercard.com.mx,PROXY
-DOMAIN-SUFFIX,mastercard.com.my,PROXY
-DOMAIN-SUFFIX,mastercard.com.ng,PROXY
-DOMAIN-SUFFIX,mastercard.com.pe,PROXY
-DOMAIN-SUFFIX,mastercard.com.ph,PROXY
-DOMAIN-SUFFIX,mastercard.com.sa,PROXY
-DOMAIN-SUFFIX,mastercard.com.sg,PROXY
-DOMAIN-SUFFIX,mastercard.com.tr,PROXY
-DOMAIN-SUFFIX,mastercard.com.tw,PROXY
-DOMAIN-SUFFIX,mastercard.com.ve,PROXY
-DOMAIN-SUFFIX,mastercard.com.vn,PROXY
-DOMAIN-SUFFIX,mastercard.cz,PROXY
-DOMAIN-SUFFIX,mastercard.de,PROXY
-DOMAIN-SUFFIX,mastercard.dk,PROXY
-DOMAIN-SUFFIX,mastercard.es,PROXY
-DOMAIN-SUFFIX,mastercard.eu,PROXY
-DOMAIN-SUFFIX,mastercard.fi,PROXY
-DOMAIN-SUFFIX,mastercard.fr,PROXY
-DOMAIN-SUFFIX,mastercard.gr,PROXY
-DOMAIN-SUFFIX,mastercard.hr,PROXY
-DOMAIN-SUFFIX,mastercard.hu,PROXY
-DOMAIN-SUFFIX,mastercard.ie,PROXY
-DOMAIN-SUFFIX,mastercard.inc,PROXY
-DOMAIN-SUFFIX,mastercard.it,PROXY
-DOMAIN-SUFFIX,mastercard.jo,PROXY
-DOMAIN-SUFFIX,mastercard.ke,PROXY
-DOMAIN-SUFFIX,mastercard.kz,PROXY
-DOMAIN-SUFFIX,mastercard.lu,PROXY
-DOMAIN-SUFFIX,mastercard.md,PROXY
-DOMAIN-SUFFIX,mastercard.my,PROXY
-DOMAIN-SUFFIX,mastercard.nl,PROXY
-DOMAIN-SUFFIX,mastercard.no,PROXY
-DOMAIN-SUFFIX,mastercard.om,PROXY
-DOMAIN-SUFFIX,mastercard.pl,PROXY
-DOMAIN-SUFFIX,mastercard.pt,PROXY
-DOMAIN-SUFFIX,mastercard.qa,PROXY
-DOMAIN-SUFFIX,mastercard.ro,PROXY
-DOMAIN-SUFFIX,mastercard.rs,PROXY
-DOMAIN-SUFFIX,mastercard.ru,PROXY
-DOMAIN-SUFFIX,mastercard.se,PROXY
-DOMAIN-SUFFIX,mastercard.si,PROXY
-DOMAIN-SUFFIX,mastercard.sk,PROXY
-DOMAIN-SUFFIX,mastercard.ua,PROXY
-DOMAIN-SUFFIX,mastercard.us,PROXY
+DOMAIN-SUFFIX,mastercard.ae
+DOMAIN-SUFFIX,mastercard.at
+DOMAIN-SUFFIX,mastercard.az
+DOMAIN-SUFFIX,mastercard.ba
+DOMAIN-SUFFIX,mastercard.be
+DOMAIN-SUFFIX,mastercard.bg
+DOMAIN-SUFFIX,mastercard.by
+DOMAIN-SUFFIX,mastercard.ca
+DOMAIN-SUFFIX,mastercard.ch
+DOMAIN-SUFFIX,mastercard.cl
+DOMAIN-SUFFIX,mastercard.cn
+DOMAIN-SUFFIX,mastercard.co.id
+DOMAIN-SUFFIX,mastercard.co.il
+DOMAIN-SUFFIX,mastercard.co.in
+DOMAIN-SUFFIX,mastercard.co.jp
+DOMAIN-SUFFIX,mastercard.co.ke
+DOMAIN-SUFFIX,mastercard.co.kr
+DOMAIN-SUFFIX,mastercard.co.nz
+DOMAIN-SUFFIX,mastercard.co.th
+DOMAIN-SUFFIX,mastercard.co.uk
+DOMAIN-SUFFIX,mastercard.co.ve
+DOMAIN-SUFFIX,mastercard.co.za
+DOMAIN-SUFFIX,mastercard.com
+DOMAIN-SUFFIX,mastercard.com.ar
+DOMAIN-SUFFIX,mastercard.com.au
+DOMAIN-SUFFIX,mastercard.com.bh
+DOMAIN-SUFFIX,mastercard.com.br
+DOMAIN-SUFFIX,mastercard.com.bz
+DOMAIN-SUFFIX,mastercard.com.cn
+DOMAIN-SUFFIX,mastercard.com.co
+DOMAIN-SUFFIX,mastercard.com.cy
+DOMAIN-SUFFIX,mastercard.com.eg
+DOMAIN-SUFFIX,mastercard.com.ge
+DOMAIN-SUFFIX,mastercard.com.gt
+DOMAIN-SUFFIX,mastercard.com.hk
+DOMAIN-SUFFIX,mastercard.com.kw
+DOMAIN-SUFFIX,mastercard.com.lb
+DOMAIN-SUFFIX,mastercard.com.mx
+DOMAIN-SUFFIX,mastercard.com.my
+DOMAIN-SUFFIX,mastercard.com.ng
+DOMAIN-SUFFIX,mastercard.com.pe
+DOMAIN-SUFFIX,mastercard.com.ph
+DOMAIN-SUFFIX,mastercard.com.sa
+DOMAIN-SUFFIX,mastercard.com.sg
+DOMAIN-SUFFIX,mastercard.com.tr
+DOMAIN-SUFFIX,mastercard.com.tw
+DOMAIN-SUFFIX,mastercard.com.ve
+DOMAIN-SUFFIX,mastercard.com.vn
+DOMAIN-SUFFIX,mastercard.cz
+DOMAIN-SUFFIX,mastercard.de
+DOMAIN-SUFFIX,mastercard.dk
+DOMAIN-SUFFIX,mastercard.es
+DOMAIN-SUFFIX,mastercard.eu
+DOMAIN-SUFFIX,mastercard.fi
+DOMAIN-SUFFIX,mastercard.fr
+DOMAIN-SUFFIX,mastercard.gr
+DOMAIN-SUFFIX,mastercard.hr
+DOMAIN-SUFFIX,mastercard.hu
+DOMAIN-SUFFIX,mastercard.ie
+DOMAIN-SUFFIX,mastercard.inc
+DOMAIN-SUFFIX,mastercard.it
+DOMAIN-SUFFIX,mastercard.jo
+DOMAIN-SUFFIX,mastercard.ke
+DOMAIN-SUFFIX,mastercard.kz
+DOMAIN-SUFFIX,mastercard.lu
+DOMAIN-SUFFIX,mastercard.md
+DOMAIN-SUFFIX,mastercard.my
+DOMAIN-SUFFIX,mastercard.nl
+DOMAIN-SUFFIX,mastercard.no
+DOMAIN-SUFFIX,mastercard.om
+DOMAIN-SUFFIX,mastercard.pl
+DOMAIN-SUFFIX,mastercard.pt
+DOMAIN-SUFFIX,mastercard.qa
+DOMAIN-SUFFIX,mastercard.ro
+DOMAIN-SUFFIX,mastercard.rs
+DOMAIN-SUFFIX,mastercard.ru
+DOMAIN-SUFFIX,mastercard.se
+DOMAIN-SUFFIX,mastercard.si
+DOMAIN-SUFFIX,mastercard.sk
+DOMAIN-SUFFIX,mastercard.ua
+DOMAIN-SUFFIX,mastercard.us
 
 # Other
-DOMAIN-SUFFIX,areyoucreditwise.com,PROXY
-DOMAIN-SUFFIX,borderlessprepaid.com,PROXY
-DOMAIN-SUFFIX,branchportal.com,PROXY
-DOMAIN-SUFFIX,idservice.inc,PROXY
-DOMAIN-SUFFIX,inclusivegrowthscore.com,PROXY
-DOMAIN-SUFFIX,findacard.com,PROXY
-DOMAIN-SUFFIX,mastercad.com,PROXY
-DOMAIN-SUFFIX,mastercard-email.com,PROXY
-DOMAIN-SUFFIX,mastercardacademy.com,PROXY
-DOMAIN-SUFFIX,mastercardadvisors.com,PROXY
-DOMAIN-SUFFIX,mastercardcenter.com,PROXY
-DOMAIN-SUFFIX,mastercardcenter.org,PROXY
-DOMAIN-SUFFIX,mastercardcenterforinclusivegrowth.org,PROXY
-DOMAIN-SUFFIX,mastercardconnect.com,PROXY
-DOMAIN-SUFFIX,mastercardezsavings.com,PROXY
-DOMAIN-SUFFIX,mastercardidtheftalerts.com,PROXY
-DOMAIN-SUFFIX,mastercardrestaurant.com,PROXY
-DOMAIN-SUFFIX,mastercardservices.com,PROXY
-DOMAIN-SUFFIX,mastercardworldwide.com,PROXY
-DOMAIN-SUFFIX,masterpassteststore.com,PROXY
-DOMAIN-SUFFIX,masterintelligence.com,PROXY
-DOMAIN-SUFFIX,mcpeaceofmind.com,PROXY
-DOMAIN-SUFFIX,myaccountglobalcash.com,PROXY
-DOMAIN-SUFFIX,mycardbenefits.com,PROXY
-DOMAIN-SUFFIX,onedinesfree.com,PROXY
-DOMAIN-SUFFIX,paypass.net,PROXY
-DOMAIN-SUFFIX,pieceofplastic.com,PROXY
-DOMAIN-SUFFIX,predictivetechnologies.com,PROXY
-DOMAIN-SUFFIX,priceless.com,PROXY
-DOMAIN-SUFFIX,pricelessmarketingengine.com,PROXY
-DOMAIN-SUFFIX,sbitravelcard.com,PROXY
-DOMAIN-SUFFIX,shoppercentre.com,PROXY
-DOMAIN-SUFFIX,smartcommunitiescoalition.com,PROXY
-DOMAIN-SUFFIX,smartcommunitiescoalition.org,PROXY
-DOMAIN-SUFFIX,startpath.com,PROXY
-DOMAIN-SUFFIX,taptotokyo.com,PROXY
-DOMAIN-SUFFIX,tasteofpremium.jp,PROXY
-DOMAIN-SUFFIX,travelcontroller.com,PROXY
-DOMAIN-SUFFIX,wwwpaypass.com,PROXY
+DOMAIN-SUFFIX,areyoucreditwise.com
+DOMAIN-SUFFIX,borderlessprepaid.com
+DOMAIN-SUFFIX,branchportal.com
+DOMAIN-SUFFIX,idservice.inc
+DOMAIN-SUFFIX,inclusivegrowthscore.com
+DOMAIN-SUFFIX,findacard.com
+DOMAIN-SUFFIX,mastercad.com
+DOMAIN-SUFFIX,mastercard-email.com
+DOMAIN-SUFFIX,mastercardacademy.com
+DOMAIN-SUFFIX,mastercardadvisors.com
+DOMAIN-SUFFIX,mastercardcenter.com
+DOMAIN-SUFFIX,mastercardcenter.org
+DOMAIN-SUFFIX,mastercardcenterforinclusivegrowth.org
+DOMAIN-SUFFIX,mastercardconnect.com
+DOMAIN-SUFFIX,mastercardezsavings.com
+DOMAIN-SUFFIX,mastercardidtheftalerts.com
+DOMAIN-SUFFIX,mastercardrestaurant.com
+DOMAIN-SUFFIX,mastercardservices.com
+DOMAIN-SUFFIX,mastercardworldwide.com
+DOMAIN-SUFFIX,masterpassteststore.com
+DOMAIN-SUFFIX,masterintelligence.com
+DOMAIN-SUFFIX,mcpeaceofmind.com
+DOMAIN-SUFFIX,myaccountglobalcash.com
+DOMAIN-SUFFIX,mycardbenefits.com
+DOMAIN-SUFFIX,onedinesfree.com
+DOMAIN-SUFFIX,paypass.net
+DOMAIN-SUFFIX,pieceofplastic.com
+DOMAIN-SUFFIX,predictivetechnologies.com
+DOMAIN-SUFFIX,priceless.com
+DOMAIN-SUFFIX,pricelessmarketingengine.com
+DOMAIN-SUFFIX,sbitravelcard.com
+DOMAIN-SUFFIX,shoppercentre.com
+DOMAIN-SUFFIX,smartcommunitiescoalition.com
+DOMAIN-SUFFIX,smartcommunitiescoalition.org
+DOMAIN-SUFFIX,startpath.com
+DOMAIN-SUFFIX,taptotokyo.com
+DOMAIN-SUFFIX,tasteofpremium.jp
+DOMAIN-SUFFIX,travelcontroller.com
+DOMAIN-SUFFIX,wwwpaypass.com
 
 # Become
-DOMAIN-SUFFIX,becomeindex.com,PROXY
+DOMAIN-SUFFIX,becomeindex.com
 
 # Cash Passport
-DOMAIN-SUFFIX,cashpassport.ca,PROXY
-DOMAIN-SUFFIX,cashpassport.co.za,PROXY
-DOMAIN-SUFFIX,cashpassport.com,PROXY
-DOMAIN-SUFFIX,cashpassport.com.br,PROXY
-DOMAIN-SUFFIX,cashpassport.net,PROXY
-DOMAIN-SUFFIX,corporatecashpassport.com,PROXY
-DOMAIN-SUFFIX,icashpassport.com.mx,PROXY
-DOMAIN-SUFFIX,intercamcashpassport.com.mx,PROXY
-DOMAIN-SUFFIX,multicurrencycashpassport.com,PROXY
-DOMAIN-SUFFIX,shinhangmc.com,PROXY
+DOMAIN-SUFFIX,cashpassport.ca
+DOMAIN-SUFFIX,cashpassport.co.za
+DOMAIN-SUFFIX,cashpassport.com
+DOMAIN-SUFFIX,cashpassport.com.br
+DOMAIN-SUFFIX,cashpassport.net
+DOMAIN-SUFFIX,corporatecashpassport.com
+DOMAIN-SUFFIX,icashpassport.com.mx
+DOMAIN-SUFFIX,intercamcashpassport.com.mx
+DOMAIN-SUFFIX,multicurrencycashpassport.com
+DOMAIN-SUFFIX,shinhangmc.com
 
 # Mastercard Biz Blog
-DOMAIN-SUFFIX,mastercardbiz.ca,PROXY
-DOMAIN-SUFFIX,mastercardbiz.com,PROXY
-DOMAIN-SUFFIX,mastercardbusinessnetwork.com,PROXY
+DOMAIN-SUFFIX,mastercardbiz.ca
+DOMAIN-SUFFIX,mastercardbiz.com
+DOMAIN-SUFFIX,mastercardbusinessnetwork.com
 
 # NAB Traveller Card
-DOMAIN-SUFFIX,nab.com.au,PROXY
-DOMAIN-SUFFIX,nabtravellercard.com.au,PROXY
+DOMAIN-SUFFIX,nab.com.au
+DOMAIN-SUFFIX,nabtravellercard.com.au
 
 # Priceless City
-DOMAIN-SUFFIX,53world.com,PROXY
-DOMAIN-SUFFIX,53worldsweeps.com,PROXY
-DOMAIN-SUFFIX,lovethiscity.com,PROXY
-DOMAIN-SUFFIX,mastercardmoments.com,PROXY
-DOMAIN-SUFFIX,pahabicilemezsurprizler.com,PROXY
-DOMAIN-SUFFIX,priceless.com,PROXY
-DOMAIN-SUFFIX,priceless.com.cn,PROXY
-DOMAIN-SUFFIX,priceless.org,PROXY
-DOMAIN-SUFFIX,pricelessafrica.com,PROXY
-DOMAIN-SUFFIX,pricelessarabia.com,PROXY
-DOMAIN-SUFFIX,pricelessaruba.com,PROXY
-DOMAIN-SUFFIX,pricelessbeijing.cn,PROXY
-DOMAIN-SUFFIX,pricelessbeijing.com,PROXY
-DOMAIN-SUFFIX,pricelessbeijing.com.cn,PROXY
-DOMAIN-SUFFIX,pricelesshongkong.com,PROXY
-DOMAIN-SUFFIX,pricelesshonolulu.com,PROXY
-DOMAIN-SUFFIX,pricelesspick.com,PROXY
-DOMAIN-SUFFIX,pricelesssantiago.com,PROXY
-DOMAIN-SUFFIX,pricelesssydney.com,PROXY
-DOMAIN-SUFFIX,pricelesssurprises.com,PROXY
-DOMAIN-SUFFIX,pricelesstoronto.ca,PROXY
-DOMAIN-SUFFIX,pricelesstv.com,PROXY
+DOMAIN-SUFFIX,53world.com
+DOMAIN-SUFFIX,53worldsweeps.com
+DOMAIN-SUFFIX,lovethiscity.com
+DOMAIN-SUFFIX,mastercardmoments.com
+DOMAIN-SUFFIX,pahabicilemezsurprizler.com
+DOMAIN-SUFFIX,priceless.com
+DOMAIN-SUFFIX,priceless.com.cn
+DOMAIN-SUFFIX,priceless.org
+DOMAIN-SUFFIX,pricelessafrica.com
+DOMAIN-SUFFIX,pricelessarabia.com
+DOMAIN-SUFFIX,pricelessaruba.com
+DOMAIN-SUFFIX,pricelessbeijing.cn
+DOMAIN-SUFFIX,pricelessbeijing.com
+DOMAIN-SUFFIX,pricelessbeijing.com.cn
+DOMAIN-SUFFIX,pricelesshongkong.com
+DOMAIN-SUFFIX,pricelesshonolulu.com
+DOMAIN-SUFFIX,pricelesspick.com
+DOMAIN-SUFFIX,pricelesssantiago.com
+DOMAIN-SUFFIX,pricelesssydney.com
+DOMAIN-SUFFIX,pricelesssurprises.com
+DOMAIN-SUFFIX,pricelesstoronto.ca
+DOMAIN-SUFFIX,pricelesstv.com
 
 # Simplify Commerce
-DOMAIN-SUFFIX,simplify.com,PROXY
-DOMAIN-SUFFIX,simplifycommerce.com,PROXY
+DOMAIN-SUFFIX,simplify.com
+DOMAIN-SUFFIX,simplifycommerce.com
 
 # Travelex
-DOMAIN-SUFFIX,cashpassportglobe.com,PROXY
-DOMAIN-SUFFIX,gwktravelex.nl,PROXY
-DOMAIN-SUFFIX,travelex.be,PROXY
-DOMAIN-SUFFIX,travelex.bh,PROXY
-DOMAIN-SUFFIX,travelex.ca,PROXY
-DOMAIN-SUFFIX,travelex.co.in,PROXY
-DOMAIN-SUFFIX,travelex.co.jp,PROXY
-DOMAIN-SUFFIX,travelex.co.nz,PROXY
-DOMAIN-SUFFIX,travelex.co.uk,PROXY
-DOMAIN-SUFFIX,travelex.com,PROXY
-DOMAIN-SUFFIX,travelex.com.au,PROXY
-DOMAIN-SUFFIX,travelex.com.cn,PROXY
-DOMAIN-SUFFIX,travelex.com.hk,PROXY
-DOMAIN-SUFFIX,travelex.com.my,PROXY
-DOMAIN-SUFFIX,travelex.com.om,PROXY
-DOMAIN-SUFFIX,travelex.com.tr,PROXY
-DOMAIN-SUFFIX,travelex.de,PROXY
-DOMAIN-SUFFIX,travelex.fr,PROXY
-DOMAIN-SUFFIX,travelex.it,PROXY
-DOMAIN-SUFFIX,travelex.qa,PROXY
-DOMAIN-SUFFIX,travelexae.com,PROXY
-DOMAIN-SUFFIX,travelexch.com,PROXY
-DOMAIN-SUFFIX,travelexmoneycard.com,PROXY
+DOMAIN-SUFFIX,cashpassportglobe.com
+DOMAIN-SUFFIX,gwktravelex.nl
+DOMAIN-SUFFIX,travelex.be
+DOMAIN-SUFFIX,travelex.bh
+DOMAIN-SUFFIX,travelex.ca
+DOMAIN-SUFFIX,travelex.co.in
+DOMAIN-SUFFIX,travelex.co.jp
+DOMAIN-SUFFIX,travelex.co.nz
+DOMAIN-SUFFIX,travelex.co.uk
+DOMAIN-SUFFIX,travelex.com
+DOMAIN-SUFFIX,travelex.com.au
+DOMAIN-SUFFIX,travelex.com.cn
+DOMAIN-SUFFIX,travelex.com.hk
+DOMAIN-SUFFIX,travelex.com.my
+DOMAIN-SUFFIX,travelex.com.om
+DOMAIN-SUFFIX,travelex.com.tr
+DOMAIN-SUFFIX,travelex.de
+DOMAIN-SUFFIX,travelex.fr
+DOMAIN-SUFFIX,travelex.it
+DOMAIN-SUFFIX,travelex.qa
+DOMAIN-SUFFIX,travelexae.com
+DOMAIN-SUFFIX,travelexch.com
+DOMAIN-SUFFIX,travelexmoneycard.com
 
 # World Currency Card
-DOMAIN-SUFFIX,bidvestbank.co.za,PROXY
-DOMAIN-SUFFIX,worldcurrencycard.co.za,PROXY
+DOMAIN-SUFFIX,bidvestbank.co.za
+DOMAIN-SUFFIX,worldcurrencycard.co.za
 
-DOMAIN,nab.demdex.net,PROXY
-DOMAIN,nationalaustraliaban.tt.omtrdc.net,PROXY
+DOMAIN,nab.demdex.net
+DOMAIN,nationalaustraliaban.tt.omtrdc.net
 #end include:mastercard
 #include:paypal
-DOMAIN-SUFFIX,account-paypal.info,PROXY
-DOMAIN-SUFFIX,account-paypal.net,PROXY
-DOMAIN-SUFFIX,account-paypal.org,PROXY
-DOMAIN-SUFFIX,accountpaypal.com,PROXY
-DOMAIN-SUFFIX,accountpaypal.net,PROXY
-DOMAIN-SUFFIX,accountpaypal.org,PROXY
-DOMAIN-SUFFIX,anfutong.cn,PROXY
-DOMAIN-SUFFIX,anfutong.com,PROXY
-DOMAIN-SUFFIX,anfutong.com.cn,PROXY
-DOMAIN-SUFFIX,beibao.cn,PROXY
-DOMAIN-SUFFIX,beibao.com,PROXY
-DOMAIN-SUFFIX,beibao.com.cn,PROXY
-DOMAIN-SUFFIX,bill-safe.com,PROXY
-DOMAIN-SUFFIX,billmelater.com,PROXY
-DOMAIN-SUFFIX,billmelater.info,PROXY
-DOMAIN-SUFFIX,billmelater.net,PROXY
-DOMAIN-SUFFIX,bml.info,PROXY
-DOMAIN-SUFFIX,buyfast-paysmart.net,PROXY
-DOMAIN-SUFFIX,cashify.com,PROXY
-DOMAIN-SUFFIX,devtools-paypal.com,PROXY
-DOMAIN-SUFFIX,experiencebillmelater.com,PROXY
-DOMAIN-SUFFIX,fundpaypal.com,PROXY
-DOMAIN-SUFFIX,gmoney.org,PROXY
-DOMAIN-SUFFIX,i-o-u.info,PROXY
-DOMAIN-SUFFIX,login-paypal.com,PROXY
-DOMAIN-SUFFIX,login-paypal.info,PROXY
-DOMAIN-SUFFIX,mywaytopay.info,PROXY
-DOMAIN-SUFFIX,mywaytopay.net,PROXY
-DOMAIN-SUFFIX,pa9pal.com,PROXY
-DOMAIN-SUFFIX,paaypal.com,PROXY
-DOMAIN-SUFFIX,paily.net,PROXY
-DOMAIN-SUFFIX,paily.org,PROXY
-DOMAIN-SUFFIX,paipal.com,PROXY
-DOMAIN-SUFFIX,pavpal.com,PROXY
-DOMAIN-SUFFIX,paydiant.com,PROXY
-DOMAIN-SUFFIX,paylike.com,PROXY
-DOMAIN-SUFFIX,paypa1.com,PROXY
-DOMAIN-SUFFIX,paypa1.org,PROXY
-DOMAIN-SUFFIX,paypaal.com,PROXY
-DOMAIN-SUFFIX,paypal-activate.com,PROXY
-DOMAIN-SUFFIX,paypal-activate.info,PROXY
-DOMAIN-SUFFIX,paypal-activate.org,PROXY
-DOMAIN-SUFFIX,paypal-apac.com,PROXY
-DOMAIN-SUFFIX,paypal-apps.com,PROXY
-DOMAIN-SUFFIX,paypal-biz.com,PROXY
-DOMAIN-SUFFIX,paypal-brandcentral.com,PROXY
-DOMAIN-SUFFIX,paypal-business.com,PROXY
-DOMAIN-SUFFIX,paypal-business.net,PROXY
-DOMAIN-SUFFIX,paypal-business.org,PROXY
-DOMAIN-SUFFIX,paypal-cardcash.com,PROXY
-DOMAIN-SUFFIX,paypal-cash.com,PROXY
-DOMAIN-SUFFIX,paypal-center.com,PROXY
-DOMAIN-SUFFIX,paypal-center.info,PROXY
-DOMAIN-SUFFIX,paypal-center.net,PROXY
-DOMAIN-SUFFIX,paypal-center.org,PROXY
-DOMAIN-SUFFIX,paypal-communication.com,PROXY
-DOMAIN-SUFFIX,paypal-communications.com,PROXY
-DOMAIN-SUFFIX,paypal-communications.net,PROXY
-DOMAIN-SUFFIX,paypal-community.com,PROXY
-DOMAIN-SUFFIX,paypal-community.net,PROXY
-DOMAIN-SUFFIX,paypal-comunidad.com,PROXY
-DOMAIN-SUFFIX,paypal-corp.com,PROXY
-DOMAIN-SUFFIX,paypal-database.com,PROXY
-DOMAIN-SUFFIX,paypal-database.us,PROXY
-DOMAIN-SUFFIX,paypal-donations.com,PROXY
-DOMAIN-SUFFIX,paypal-dynamic.com,PROXY
-DOMAIN-SUFFIX,paypal-engineering.com,PROXY
-DOMAIN-SUFFIX,paypal-europe.com,PROXY
-DOMAIN-SUFFIX,paypal-excelinvoicing.com,PROXY
-DOMAIN-SUFFIX,paypal-exchanges.com,PROXY
-DOMAIN-SUFFIX,paypal-forward.com,PROXY
-DOMAIN-SUFFIX,paypal-galactic.com,PROXY
-DOMAIN-SUFFIX,paypal-gift.com,PROXY
-DOMAIN-SUFFIX,paypal-gifts.com,PROXY
-DOMAIN-SUFFIX,paypal-gpplus.com,PROXY
-DOMAIN-SUFFIX,paypal-here.com,PROXY
-DOMAIN-SUFFIX,paypal-hrsystem.com,PROXY
-DOMAIN-SUFFIX,paypal-innovationlab.com,PROXY
-DOMAIN-SUFFIX,paypal-integration.com,PROXY
-DOMAIN-SUFFIX,paypal-japan.com,PROXY
-DOMAIN-SUFFIX,paypal-knowledge.com,PROXY
-DOMAIN-SUFFIX,paypal-labs.com,PROXY
-DOMAIN-SUFFIX,paypal-latam.com,PROXY
-DOMAIN-SUFFIX,paypal-learning.com,PROXY
-DOMAIN-SUFFIX,paypal-login.com,PROXY
-DOMAIN-SUFFIX,paypal-login.info,PROXY
-DOMAIN-SUFFIX,paypal-login.org,PROXY
-DOMAIN-SUFFIX,paypal-login.us,PROXY
-DOMAIN-SUFFIX,paypal-luxury.com,PROXY
-DOMAIN-SUFFIX,paypal-mainstreet.net,PROXY
-DOMAIN-SUFFIX,paypal-marketing.com,PROXY
-DOMAIN-SUFFIX,paypal-media.com,PROXY
-DOMAIN-SUFFIX,paypal-merchantloyalty.com,PROXY
-DOMAIN-SUFFIX,paypal-mobilemoney.com,PROXY
-DOMAIN-SUFFIX,paypal-network.org,PROXY
-DOMAIN-SUFFIX,paypal-notice.com,PROXY
-DOMAIN-SUFFIX,paypal-notify.com,PROXY
-DOMAIN-SUFFIX,paypal-online.info,PROXY
-DOMAIN-SUFFIX,paypal-online.net,PROXY
-DOMAIN-SUFFIX,paypal-online.org,PROXY
-DOMAIN-SUFFIX,paypal-optimizer.com,PROXY
-DOMAIN-SUFFIX,paypal-pages.com,PROXY
-DOMAIN-SUFFIX,paypal-photocard.com,PROXY
-DOMAIN-SUFFIX,paypal-plaza.com,PROXY
-DOMAIN-SUFFIX,paypal-portal.com,PROXY
-DOMAIN-SUFFIX,paypal-prepagata.com,PROXY
-DOMAIN-SUFFIX,paypal-prepagata.net,PROXY
-DOMAIN-SUFFIX,paypal-prepaid.com,PROXY
-DOMAIN-SUFFIX,paypal-profile.com,PROXY
-DOMAIN-SUFFIX,paypal-proserv.com,PROXY
-DOMAIN-SUFFIX,paypal-qrshopping.org,PROXY
-DOMAIN-SUFFIX,paypal-recargacelular.com,PROXY
-DOMAIN-SUFFIX,paypal-redeem.com,PROXY
-DOMAIN-SUFFIX,paypal-referral.com,PROXY
-DOMAIN-SUFFIX,paypal-retail.com,PROXY
-DOMAIN-SUFFIX,paypal-scoop.com,PROXY
-DOMAIN-SUFFIX,paypal-search.com,PROXY
-DOMAIN-SUFFIX,paypal-secure.net,PROXY
-DOMAIN-SUFFIX,paypal-secure.org,PROXY
-DOMAIN-SUFFIX,paypal-security.net,PROXY
-DOMAIN-SUFFIX,paypal-security.org,PROXY
-DOMAIN-SUFFIX,paypal-service.org,PROXY
-DOMAIN-SUFFIX,paypal-signin.com,PROXY
-DOMAIN-SUFFIX,paypal-signin.us,PROXY
-DOMAIN-SUFFIX,paypal-special.com,PROXY
-DOMAIN-SUFFIX,paypal-specialoffers.com,PROXY
-DOMAIN-SUFFIX,paypal-sptam.com,PROXY
-DOMAIN-SUFFIX,paypal-support.com,PROXY
-DOMAIN-SUFFIX,paypal-survey.com,PROXY
-DOMAIN-SUFFIX,paypal-survey.org,PROXY
-DOMAIN-SUFFIX,paypal-status.com,PROXY
-DOMAIN-SUFFIX,paypal-team.com,PROXY
-DOMAIN-SUFFIX,paypal-viewpoints.net,PROXY
-DOMAIN-SUFFIX,paypal.ca,PROXY
-DOMAIN-SUFFIX,paypal.com,PROXY
-DOMAIN-SUFFIX,paypal.com.cn,PROXY
-DOMAIN-SUFFIX,paypal.com.hk,PROXY
-DOMAIN-SUFFIX,paypal.com.sg,PROXY
-DOMAIN-SUFFIX,paypal.hk,PROXY
-DOMAIN-SUFFIX,paypal.info,PROXY
-DOMAIN-SUFFIX,paypal.jp,PROXY
-DOMAIN-SUFFIX,paypal.me,PROXY
-DOMAIN-SUFFIX,paypal.net.cn,PROXY
-DOMAIN-SUFFIX,paypal.org.cn,PROXY
-DOMAIN-SUFFIX,paypal.so,PROXY
-DOMAIN-SUFFIX,paypal.us,PROXY
-DOMAIN-SUFFIX,paypalbeacon.com,PROXY
-DOMAIN-SUFFIX,paypalbenefits.com,PROXY
-DOMAIN-SUFFIX,paypalbrasil.com,PROXY
-DOMAIN-SUFFIX,paypalcommunity.cn,PROXY
-DOMAIN-SUFFIX,paypalcommunity.com,PROXY
-DOMAIN-SUFFIX,paypalcommunity.net,PROXY
-DOMAIN-SUFFIX,paypalcommunity.org,PROXY
-DOMAIN-SUFFIX,paypalcorp.com,PROXY
-DOMAIN-SUFFIX,paypalcredit.com,PROXY
-DOMAIN-SUFFIX,paypalcreditcard.com,PROXY
-DOMAIN-SUFFIX,paypalgivingfund.org,PROXY
-DOMAIN-SUFFIX,paypalhere.cn,PROXY
-DOMAIN-SUFFIX,paypalhere.com,PROXY
-DOMAIN-SUFFIX,paypalhere.com.cn,PROXY
-DOMAIN-SUFFIX,paypalhere.info,PROXY
-DOMAIN-SUFFIX,paypalhere.net,PROXY
-DOMAIN-SUFFIX,paypalhere.org,PROXY
-DOMAIN-SUFFIX,paypalhere.tv,PROXY
-DOMAIN-SUFFIX,paypali.net,PROXY
-DOMAIN-SUFFIX,paypalinc.com,PROXY
-DOMAIN-SUFFIX,paypalindia.com,PROXY
-DOMAIN-SUFFIX,paypalinsuranceservices.org,PROXY
-DOMAIN-SUFFIX,paypall.com,PROXY
-DOMAIN-SUFFIX,paypallabs.com,PROXY
-DOMAIN-SUFFIX,paypalme.com,PROXY
-DOMAIN-SUFFIX,paypalnet.net,PROXY
-DOMAIN-SUFFIX,paypalnet.org,PROXY
-DOMAIN-SUFFIX,paypalnetwork.info,PROXY
-DOMAIN-SUFFIX,paypalnetwork.net,PROXY
-DOMAIN-SUFFIX,paypalnetwork.org,PROXY
-DOMAIN-SUFFIX,paypalobjects.com,PROXY
-DOMAIN-SUFFIX,paypalonline.net,PROXY
-DOMAIN-SUFFIX,paypalonline.org,PROXY
-DOMAIN-SUFFIX,paypalprepagata.com,PROXY
-DOMAIN-SUFFIX,paypalprepagata.net,PROXY
-DOMAIN-SUFFIX,paypalservice.com,PROXY
-DOMAIN-SUFFIX,paypalshopping.com,PROXY
-DOMAIN-SUFFIX,paypalshopping.net,PROXY
-DOMAIN-SUFFIX,paypalsurvey.com,PROXY
-DOMAIN-SUFFIX,paypalx.com,PROXY
-DOMAIN-SUFFIX,paypaly.com,PROXY
-DOMAIN-SUFFIX,payppal.com,PROXY
-DOMAIN-SUFFIX,payypal.com,PROXY
-DOMAIN-SUFFIX,pdncommunity.com,PROXY
-DOMAIN-SUFFIX,pp-soc.com,PROXY
-DOMAIN-SUFFIX,ppaypal.com,PROXY
-DOMAIN-SUFFIX,pppds.com,PROXY
-DOMAIN-SUFFIX,pypl.com,PROXY
-DOMAIN-SUFFIX,pypl.info,PROXY
-DOMAIN-SUFFIX,pypl.net,PROXY
-DOMAIN-SUFFIX,pypl.tv,PROXY
-DOMAIN-SUFFIX,secure-paypal.info,PROXY
-DOMAIN-SUFFIX,securepaypal.info,PROXY
-DOMAIN-SUFFIX,sslpaypal.org,PROXY
-DOMAIN-SUFFIX,thepaypalshop.com,PROXY
-DOMAIN-SUFFIX,theshoppingexpresslane.net,PROXY
-DOMAIN-SUFFIX,www-paypal.info,PROXY
-DOMAIN-SUFFIX,www-paypal.us,PROXY
-DOMAIN-SUFFIX,xn--bnq297cix3a.cn,PROXY    #易付通.cn
+DOMAIN-SUFFIX,account-paypal.info
+DOMAIN-SUFFIX,account-paypal.net
+DOMAIN-SUFFIX,account-paypal.org
+DOMAIN-SUFFIX,accountpaypal.com
+DOMAIN-SUFFIX,accountpaypal.net
+DOMAIN-SUFFIX,accountpaypal.org
+DOMAIN-SUFFIX,anfutong.cn
+DOMAIN-SUFFIX,anfutong.com
+DOMAIN-SUFFIX,anfutong.com.cn
+DOMAIN-SUFFIX,beibao.cn
+DOMAIN-SUFFIX,beibao.com
+DOMAIN-SUFFIX,beibao.com.cn
+DOMAIN-SUFFIX,bill-safe.com
+DOMAIN-SUFFIX,billmelater.com
+DOMAIN-SUFFIX,billmelater.info
+DOMAIN-SUFFIX,billmelater.net
+DOMAIN-SUFFIX,bml.info
+DOMAIN-SUFFIX,buyfast-paysmart.net
+DOMAIN-SUFFIX,cashify.com
+DOMAIN-SUFFIX,devtools-paypal.com
+DOMAIN-SUFFIX,experiencebillmelater.com
+DOMAIN-SUFFIX,fundpaypal.com
+DOMAIN-SUFFIX,gmoney.org
+DOMAIN-SUFFIX,i-o-u.info
+DOMAIN-SUFFIX,login-paypal.com
+DOMAIN-SUFFIX,login-paypal.info
+DOMAIN-SUFFIX,mywaytopay.info
+DOMAIN-SUFFIX,mywaytopay.net
+DOMAIN-SUFFIX,pa9pal.com
+DOMAIN-SUFFIX,paaypal.com
+DOMAIN-SUFFIX,paily.net
+DOMAIN-SUFFIX,paily.org
+DOMAIN-SUFFIX,paipal.com
+DOMAIN-SUFFIX,pavpal.com
+DOMAIN-SUFFIX,paydiant.com
+DOMAIN-SUFFIX,paylike.com
+DOMAIN-SUFFIX,paypa1.com
+DOMAIN-SUFFIX,paypa1.org
+DOMAIN-SUFFIX,paypaal.com
+DOMAIN-SUFFIX,paypal-activate.com
+DOMAIN-SUFFIX,paypal-activate.info
+DOMAIN-SUFFIX,paypal-activate.org
+DOMAIN-SUFFIX,paypal-apac.com
+DOMAIN-SUFFIX,paypal-apps.com
+DOMAIN-SUFFIX,paypal-biz.com
+DOMAIN-SUFFIX,paypal-brandcentral.com
+DOMAIN-SUFFIX,paypal-business.com
+DOMAIN-SUFFIX,paypal-business.net
+DOMAIN-SUFFIX,paypal-business.org
+DOMAIN-SUFFIX,paypal-cardcash.com
+DOMAIN-SUFFIX,paypal-cash.com
+DOMAIN-SUFFIX,paypal-center.com
+DOMAIN-SUFFIX,paypal-center.info
+DOMAIN-SUFFIX,paypal-center.net
+DOMAIN-SUFFIX,paypal-center.org
+DOMAIN-SUFFIX,paypal-communication.com
+DOMAIN-SUFFIX,paypal-communications.com
+DOMAIN-SUFFIX,paypal-communications.net
+DOMAIN-SUFFIX,paypal-community.com
+DOMAIN-SUFFIX,paypal-community.net
+DOMAIN-SUFFIX,paypal-comunidad.com
+DOMAIN-SUFFIX,paypal-corp.com
+DOMAIN-SUFFIX,paypal-database.com
+DOMAIN-SUFFIX,paypal-database.us
+DOMAIN-SUFFIX,paypal-donations.com
+DOMAIN-SUFFIX,paypal-dynamic.com
+DOMAIN-SUFFIX,paypal-engineering.com
+DOMAIN-SUFFIX,paypal-europe.com
+DOMAIN-SUFFIX,paypal-excelinvoicing.com
+DOMAIN-SUFFIX,paypal-exchanges.com
+DOMAIN-SUFFIX,paypal-forward.com
+DOMAIN-SUFFIX,paypal-galactic.com
+DOMAIN-SUFFIX,paypal-gift.com
+DOMAIN-SUFFIX,paypal-gifts.com
+DOMAIN-SUFFIX,paypal-gpplus.com
+DOMAIN-SUFFIX,paypal-here.com
+DOMAIN-SUFFIX,paypal-hrsystem.com
+DOMAIN-SUFFIX,paypal-innovationlab.com
+DOMAIN-SUFFIX,paypal-integration.com
+DOMAIN-SUFFIX,paypal-japan.com
+DOMAIN-SUFFIX,paypal-knowledge.com
+DOMAIN-SUFFIX,paypal-labs.com
+DOMAIN-SUFFIX,paypal-latam.com
+DOMAIN-SUFFIX,paypal-learning.com
+DOMAIN-SUFFIX,paypal-login.com
+DOMAIN-SUFFIX,paypal-login.info
+DOMAIN-SUFFIX,paypal-login.org
+DOMAIN-SUFFIX,paypal-login.us
+DOMAIN-SUFFIX,paypal-luxury.com
+DOMAIN-SUFFIX,paypal-mainstreet.net
+DOMAIN-SUFFIX,paypal-marketing.com
+DOMAIN-SUFFIX,paypal-media.com
+DOMAIN-SUFFIX,paypal-merchantloyalty.com
+DOMAIN-SUFFIX,paypal-mobilemoney.com
+DOMAIN-SUFFIX,paypal-network.org
+DOMAIN-SUFFIX,paypal-notice.com
+DOMAIN-SUFFIX,paypal-notify.com
+DOMAIN-SUFFIX,paypal-online.info
+DOMAIN-SUFFIX,paypal-online.net
+DOMAIN-SUFFIX,paypal-online.org
+DOMAIN-SUFFIX,paypal-optimizer.com
+DOMAIN-SUFFIX,paypal-pages.com
+DOMAIN-SUFFIX,paypal-photocard.com
+DOMAIN-SUFFIX,paypal-plaza.com
+DOMAIN-SUFFIX,paypal-portal.com
+DOMAIN-SUFFIX,paypal-prepagata.com
+DOMAIN-SUFFIX,paypal-prepagata.net
+DOMAIN-SUFFIX,paypal-prepaid.com
+DOMAIN-SUFFIX,paypal-profile.com
+DOMAIN-SUFFIX,paypal-proserv.com
+DOMAIN-SUFFIX,paypal-qrshopping.org
+DOMAIN-SUFFIX,paypal-recargacelular.com
+DOMAIN-SUFFIX,paypal-redeem.com
+DOMAIN-SUFFIX,paypal-referral.com
+DOMAIN-SUFFIX,paypal-retail.com
+DOMAIN-SUFFIX,paypal-scoop.com
+DOMAIN-SUFFIX,paypal-search.com
+DOMAIN-SUFFIX,paypal-secure.net
+DOMAIN-SUFFIX,paypal-secure.org
+DOMAIN-SUFFIX,paypal-security.net
+DOMAIN-SUFFIX,paypal-security.org
+DOMAIN-SUFFIX,paypal-service.org
+DOMAIN-SUFFIX,paypal-signin.com
+DOMAIN-SUFFIX,paypal-signin.us
+DOMAIN-SUFFIX,paypal-special.com
+DOMAIN-SUFFIX,paypal-specialoffers.com
+DOMAIN-SUFFIX,paypal-sptam.com
+DOMAIN-SUFFIX,paypal-support.com
+DOMAIN-SUFFIX,paypal-survey.com
+DOMAIN-SUFFIX,paypal-survey.org
+DOMAIN-SUFFIX,paypal-status.com
+DOMAIN-SUFFIX,paypal-team.com
+DOMAIN-SUFFIX,paypal-viewpoints.net
+DOMAIN-SUFFIX,paypal.ca
+DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,paypal.com.cn
+DOMAIN-SUFFIX,paypal.com.hk
+DOMAIN-SUFFIX,paypal.com.sg
+DOMAIN-SUFFIX,paypal.hk
+DOMAIN-SUFFIX,paypal.info
+DOMAIN-SUFFIX,paypal.jp
+DOMAIN-SUFFIX,paypal.me
+DOMAIN-SUFFIX,paypal.net.cn
+DOMAIN-SUFFIX,paypal.org.cn
+DOMAIN-SUFFIX,paypal.so
+DOMAIN-SUFFIX,paypal.us
+DOMAIN-SUFFIX,paypalbeacon.com
+DOMAIN-SUFFIX,paypalbenefits.com
+DOMAIN-SUFFIX,paypalbrasil.com
+DOMAIN-SUFFIX,paypalcommunity.cn
+DOMAIN-SUFFIX,paypalcommunity.com
+DOMAIN-SUFFIX,paypalcommunity.net
+DOMAIN-SUFFIX,paypalcommunity.org
+DOMAIN-SUFFIX,paypalcorp.com
+DOMAIN-SUFFIX,paypalcredit.com
+DOMAIN-SUFFIX,paypalcreditcard.com
+DOMAIN-SUFFIX,paypalgivingfund.org
+DOMAIN-SUFFIX,paypalhere.cn
+DOMAIN-SUFFIX,paypalhere.com
+DOMAIN-SUFFIX,paypalhere.com.cn
+DOMAIN-SUFFIX,paypalhere.info
+DOMAIN-SUFFIX,paypalhere.net
+DOMAIN-SUFFIX,paypalhere.org
+DOMAIN-SUFFIX,paypalhere.tv
+DOMAIN-SUFFIX,paypali.net
+DOMAIN-SUFFIX,paypalinc.com
+DOMAIN-SUFFIX,paypalindia.com
+DOMAIN-SUFFIX,paypalinsuranceservices.org
+DOMAIN-SUFFIX,paypall.com
+DOMAIN-SUFFIX,paypallabs.com
+DOMAIN-SUFFIX,paypalme.com
+DOMAIN-SUFFIX,paypalnet.net
+DOMAIN-SUFFIX,paypalnet.org
+DOMAIN-SUFFIX,paypalnetwork.info
+DOMAIN-SUFFIX,paypalnetwork.net
+DOMAIN-SUFFIX,paypalnetwork.org
+DOMAIN-SUFFIX,paypalobjects.com
+DOMAIN-SUFFIX,paypalonline.net
+DOMAIN-SUFFIX,paypalonline.org
+DOMAIN-SUFFIX,paypalprepagata.com
+DOMAIN-SUFFIX,paypalprepagata.net
+DOMAIN-SUFFIX,paypalservice.com
+DOMAIN-SUFFIX,paypalshopping.com
+DOMAIN-SUFFIX,paypalshopping.net
+DOMAIN-SUFFIX,paypalsurvey.com
+DOMAIN-SUFFIX,paypalx.com
+DOMAIN-SUFFIX,paypaly.com
+DOMAIN-SUFFIX,payppal.com
+DOMAIN-SUFFIX,payypal.com
+DOMAIN-SUFFIX,pdncommunity.com
+DOMAIN-SUFFIX,pp-soc.com
+DOMAIN-SUFFIX,ppaypal.com
+DOMAIN-SUFFIX,pppds.com
+DOMAIN-SUFFIX,pypl.com
+DOMAIN-SUFFIX,pypl.info
+DOMAIN-SUFFIX,pypl.net
+DOMAIN-SUFFIX,pypl.tv
+DOMAIN-SUFFIX,secure-paypal.info
+DOMAIN-SUFFIX,securepaypal.info
+DOMAIN-SUFFIX,sslpaypal.org
+DOMAIN-SUFFIX,thepaypalshop.com
+DOMAIN-SUFFIX,theshoppingexpresslane.net
+DOMAIN-SUFFIX,www-paypal.info
+DOMAIN-SUFFIX,www-paypal.us
+DOMAIN-SUFFIX,xn--bnq297cix3a.cn    #易付通.cn
 
 # Braintree
-DOMAIN-SUFFIX,braintreegateway.com,PROXY
-DOMAIN-SUFFIX,braintreegateway.tv,PROXY
-DOMAIN-SUFFIX,braintreepayments.com,PROXY
-DOMAIN-SUFFIX,braintreepayments.info,PROXY
-DOMAIN-SUFFIX,braintreepayments.org,PROXY
-DOMAIN-SUFFIX,braintreepayments.tv,PROXY
-DOMAIN-SUFFIX,braintreepaymentsolutions.com,PROXY
-DOMAIN-SUFFIX,braintreeps.com,PROXY
-DOMAIN-SUFFIX,briantreepayments.net,PROXY
-DOMAIN-SUFFIX,briantreepayments.tv,PROXY
-DOMAIN-SUFFIX,card.io,PROXY
-DOMAIN-SUFFIX,getbraintree.com,PROXY
+DOMAIN-SUFFIX,braintreegateway.com
+DOMAIN-SUFFIX,braintreegateway.tv
+DOMAIN-SUFFIX,braintreepayments.com
+DOMAIN-SUFFIX,braintreepayments.info
+DOMAIN-SUFFIX,braintreepayments.org
+DOMAIN-SUFFIX,braintreepayments.tv
+DOMAIN-SUFFIX,braintreepaymentsolutions.com
+DOMAIN-SUFFIX,braintreeps.com
+DOMAIN-SUFFIX,briantreepayments.net
+DOMAIN-SUFFIX,briantreepayments.tv
+DOMAIN-SUFFIX,card.io
+DOMAIN-SUFFIX,getbraintree.com
 
 # krakenjs
-DOMAIN-SUFFIX,krakenjs.com,PROXY
+DOMAIN-SUFFIX,krakenjs.com
 
 # LoanBuilder
-DOMAIN-SUFFIX,loanbuilder.com,PROXY
-DOMAIN-SUFFIX,swiftcapital.com,PROXY
+DOMAIN-SUFFIX,loanbuilder.com
+DOMAIN-SUFFIX,swiftcapital.com
 
 # Simility
-DOMAIN-SUFFIX,simility.com,PROXY
+DOMAIN-SUFFIX,simility.com
 
 # Swift Financial
-DOMAIN-SUFFIX,cashify.net,PROXY
-DOMAIN-SUFFIX,swiftbank.info,PROXY
-DOMAIN-SUFFIX,swiftbank.us,PROXY
-DOMAIN-SUFFIX,swiftfinancial.com,PROXY
-DOMAIN-SUFFIX,swiftfinancial.info,PROXY
-DOMAIN-SUFFIX,swiftfinancial.net,PROXY
+DOMAIN-SUFFIX,cashify.net
+DOMAIN-SUFFIX,swiftbank.info
+DOMAIN-SUFFIX,swiftbank.us
+DOMAIN-SUFFIX,swiftfinancial.com
+DOMAIN-SUFFIX,swiftfinancial.info
+DOMAIN-SUFFIX,swiftfinancial.net
 
 # Venmo
-DOMAIN-SUFFIX,venmo-touch.com,PROXY
-DOMAIN-SUFFIX,venmo.com,PROXY
-DOMAIN-SUFFIX,venmo.info,PROXY
-DOMAIN-SUFFIX,venmo.net,PROXY
-DOMAIN-SUFFIX,venmo.org,PROXY
+DOMAIN-SUFFIX,venmo-touch.com
+DOMAIN-SUFFIX,venmo.com
+DOMAIN-SUFFIX,venmo.info
+DOMAIN-SUFFIX,venmo.net
+DOMAIN-SUFFIX,venmo.org
 
 # Xoom
-DOMAIN-SUFFIX,cash2.com,PROXY
-DOMAIN-SUFFIX,filipino-music.net,PROXY
-DOMAIN-SUFFIX,s-xoom.com,PROXY
-DOMAIN-SUFFIX,webmoneyinfo.com,PROXY
-DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com,PROXY
-DOMAIN-SUFFIX,wwwxoom.com,PROXY
-DOMAIN-SUFFIX,xoom-experience.com,PROXY
-DOMAIN-SUFFIX,xoom.com,PROXY
-DOMAIN-SUFFIX,xoom.io,PROXY
-DOMAIN-SUFFIX,xoom.net.cn,PROXY
-DOMAIN-SUFFIX,xoom.us,PROXY
-DOMAIN-SUFFIX,xoomcom.com,PROXY
+DOMAIN-SUFFIX,cash2.com
+DOMAIN-SUFFIX,filipino-music.net
+DOMAIN-SUFFIX,s-xoom.com
+DOMAIN-SUFFIX,webmoneyinfo.com
+DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
+DOMAIN-SUFFIX,wwwxoom.com
+DOMAIN-SUFFIX,xoom-experience.com
+DOMAIN-SUFFIX,xoom.com
+DOMAIN-SUFFIX,xoom.io
+DOMAIN-SUFFIX,xoom.net.cn
+DOMAIN-SUFFIX,xoom.us
+DOMAIN-SUFFIX,xoomcom.com
 
-DOMAIN,venmo.s3.amazonaws.com,PROXY
+DOMAIN,venmo.s3.amazonaws.com
 #end include:paypal
 #include:softbank
 # All .softbank domains
-DOMAIN-SUFFIX,softbank,PROXY
+DOMAIN-SUFFIX,softbank
 
-DOMAIN-SUFFIX,sb-mobile.jp,PROXY
-DOMAIN-SUFFIX,sb-telecom.net,PROXY
-DOMAIN-SUFFIX,softbank-ipo.com,PROXY
-DOMAIN-SUFFIX,softbank-jp.com,PROXY
-DOMAIN-SUFFIX,softbank-robotics.com,PROXY
-DOMAIN-SUFFIX,softbank-telecom.com,PROXY
-DOMAIN-SUFFIX,softbank-telecom.net,PROXY
-DOMAIN-SUFFIX,softbank.jp,PROXY
-DOMAIN-SUFFIX,softbank.tv,PROXY
-DOMAIN-SUFFIX,softbankbb.com,PROXY
-DOMAIN-SUFFIX,softbankbb.net,PROXY
-DOMAIN-SUFFIX,softbankci.com,PROXY
-DOMAIN-SUFFIX,softbankhawksstore.jp,PROXY
-DOMAIN-SUFFIX,softbankmobile.net,PROXY
-DOMAIN-SUFFIX,softbankrobotics.com,PROXY
-DOMAIN-SUFFIX,softbanktelecom.com,PROXY
-DOMAIN-SUFFIX,softbankusa.net,PROXY
-DOMAIN-SUFFIX,softbankventuresasia.com,PROXY
-DOMAIN-SUFFIX,softbankworld.com,PROXY
+DOMAIN-SUFFIX,sb-mobile.jp
+DOMAIN-SUFFIX,sb-telecom.net
+DOMAIN-SUFFIX,softbank-ipo.com
+DOMAIN-SUFFIX,softbank-jp.com
+DOMAIN-SUFFIX,softbank-robotics.com
+DOMAIN-SUFFIX,softbank-telecom.com
+DOMAIN-SUFFIX,softbank-telecom.net
+DOMAIN-SUFFIX,softbank.jp
+DOMAIN-SUFFIX,softbank.tv
+DOMAIN-SUFFIX,softbankbb.com
+DOMAIN-SUFFIX,softbankbb.net
+DOMAIN-SUFFIX,softbankci.com
+DOMAIN-SUFFIX,softbankhawksstore.jp
+DOMAIN-SUFFIX,softbankmobile.net
+DOMAIN-SUFFIX,softbankrobotics.com
+DOMAIN-SUFFIX,softbanktelecom.com
+DOMAIN-SUFFIX,softbankusa.net
+DOMAIN-SUFFIX,softbankventuresasia.com
+DOMAIN-SUFFIX,softbankworld.com
 #end include:softbank
 #include:stripe
-DOMAIN-SUFFIX,link.com,PROXY
-DOMAIN-SUFFIX,stripe-terminal-local-reader.net,PROXY
-DOMAIN-SUFFIX,stripe.com,PROXY
-DOMAIN-SUFFIX,stripe.network,PROXY
-DOMAIN-SUFFIX,stripecdn.com,PROXY
+DOMAIN-SUFFIX,link.com
+DOMAIN-SUFFIX,stripe-terminal-local-reader.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com
 #end include:stripe
 #include:visa
-DOMAIN-SUFFIX,visa.be,PROXY
-DOMAIN-SUFFIX,visa.ca,PROXY
-DOMAIN-SUFFIX,visa.cl,PROXY
-DOMAIN-SUFFIX,visa.cn,PROXY
-DOMAIN-SUFFIX,visa.co.ao,PROXY
-DOMAIN-SUFFIX,visa.co.cr,PROXY
-DOMAIN-SUFFIX,visa.co.id,PROXY
-DOMAIN-SUFFIX,visa.co.il,PROXY
-DOMAIN-SUFFIX,visa.co.in,PROXY
-DOMAIN-SUFFIX,visa.co.jp,PROXY
-DOMAIN-SUFFIX,visa.co.ke,PROXY
-DOMAIN-SUFFIX,visa.co.ni,PROXY
-DOMAIN-SUFFIX,visa.co.nz,PROXY
-DOMAIN-SUFFIX,visa.co.th,PROXY
-DOMAIN-SUFFIX,visa.co.uk,PROXY
-DOMAIN-SUFFIX,visa.co.ve,PROXY
-DOMAIN-SUFFIX,visa.co.za,PROXY
-DOMAIN-SUFFIX,visa.com,PROXY
-DOMAIN-SUFFIX,visa.com.ag,PROXY
-DOMAIN-SUFFIX,visa.com.ai,PROXY
-DOMAIN-SUFFIX,visa.com.ar,PROXY
-DOMAIN-SUFFIX,visa.com.au,PROXY
-DOMAIN-SUFFIX,visa.com.az,PROXY
-DOMAIN-SUFFIX,visa.com.bo,PROXY
-DOMAIN-SUFFIX,visa.com.br,PROXY
-DOMAIN-SUFFIX,visa.com.bs,PROXY
-DOMAIN-SUFFIX,visa.com.bz,PROXY
-DOMAIN-SUFFIX,visa.com.cn,PROXY
-DOMAIN-SUFFIX,visa.com.co,PROXY
-DOMAIN-SUFFIX,visa.com.cy,PROXY
-DOMAIN-SUFFIX,visa.com.dm,PROXY
-DOMAIN-SUFFIX,visa.com.do,PROXY
-DOMAIN-SUFFIX,visa.com.ec,PROXY
-DOMAIN-SUFFIX,visa.com.ge,PROXY
-DOMAIN-SUFFIX,visa.com.gt,PROXY
-DOMAIN-SUFFIX,visa.com.gy,PROXY
-DOMAIN-SUFFIX,visa.com.hk,PROXY
-DOMAIN-SUFFIX,visa.com.hn,PROXY
-DOMAIN-SUFFIX,visa.com.hr,PROXY
-DOMAIN-SUFFIX,visa.com.jm,PROXY
-DOMAIN-SUFFIX,visa.com.kh,PROXY
-DOMAIN-SUFFIX,visa.com.kn,PROXY
-DOMAIN-SUFFIX,visa.com.kz,PROXY
-DOMAIN-SUFFIX,visa.com.lc,PROXY
-DOMAIN-SUFFIX,visa.com.lk,PROXY
-DOMAIN-SUFFIX,visa.com.ms,PROXY
-DOMAIN-SUFFIX,visa.com.mx,PROXY
-DOMAIN-SUFFIX,visa.com.my,PROXY
-DOMAIN-SUFFIX,visa.com.ng,PROXY
-DOMAIN-SUFFIX,visa.com.pa,PROXY
-DOMAIN-SUFFIX,visa.com.pe,PROXY
-DOMAIN-SUFFIX,visa.com.ph,PROXY
-DOMAIN-SUFFIX,visa.com.pr,PROXY
-DOMAIN-SUFFIX,visa.com.py,PROXY
-DOMAIN-SUFFIX,visa.com.ru,PROXY
-DOMAIN-SUFFIX,visa.com.sg,PROXY
-DOMAIN-SUFFIX,visa.com.sv,PROXY
-DOMAIN-SUFFIX,visa.com.tr,PROXY
-DOMAIN-SUFFIX,visa.com.tt,PROXY
-DOMAIN-SUFFIX,visa.com.tw,PROXY
-DOMAIN-SUFFIX,visa.com.ua,PROXY
-DOMAIN-SUFFIX,visa.com.uy,PROXY
-DOMAIN-SUFFIX,visa.com.vc,PROXY
-DOMAIN-SUFFIX,visa.com.vi,PROXY
-DOMAIN-SUFFIX,visa.com.vn,PROXY
-DOMAIN-SUFFIX,visa.cz,PROXY
-DOMAIN-SUFFIX,visa.de,PROXY
-DOMAIN-SUFFIX,visa.dk,PROXY
-DOMAIN-SUFFIX,visa.es,PROXY
-DOMAIN-SUFFIX,visa.fi,PROXY
-DOMAIN-SUFFIX,visa.fr,PROXY
-DOMAIN-SUFFIX,visa.gd,PROXY
-DOMAIN-SUFFIX,visa.gp,PROXY
-DOMAIN-SUFFIX,visa.gr,PROXY
-DOMAIN-SUFFIX,visa.hk,PROXY
-DOMAIN-SUFFIX,visa.hu,PROXY
-DOMAIN-SUFFIX,visa.ie,PROXY
-DOMAIN-SUFFIX,visa.is,PROXY
-DOMAIN-SUFFIX,visa.ky,PROXY
-DOMAIN-SUFFIX,visa.lt,PROXY
-DOMAIN-SUFFIX,visa.lv,PROXY
-DOMAIN-SUFFIX,visa.mn,PROXY
-DOMAIN-SUFFIX,visa.mq,PROXY
-DOMAIN-SUFFIX,visa.nl,PROXY
-DOMAIN-SUFFIX,visa.no,PROXY
-DOMAIN-SUFFIX,visa.pl,PROXY
-DOMAIN-SUFFIX,visa.pt,PROXY
-DOMAIN-SUFFIX,visa.ro,PROXY
-DOMAIN-SUFFIX,visa.se,PROXY
-DOMAIN-SUFFIX,visa.sk,PROXY
-DOMAIN-SUFFIX,visa.so,PROXY
-DOMAIN-SUFFIX,visa.sx,PROXY
-DOMAIN-SUFFIX,visa.tc,PROXY
-DOMAIN-SUFFIX,visabg.com,PROXY
-DOMAIN-SUFFIX,visaeurope.at,PROXY
-DOMAIN-SUFFIX,visaeurope.ch,PROXY
-DOMAIN-SUFFIX,visaeurope.lu,PROXY
-DOMAIN-SUFFIX,visaeurope.si,PROXY
-DOMAIN-SUFFIX,visaitalia.com,PROXY
-DOMAIN-SUFFIX,visakorea.com,PROXY
-DOMAIN-SUFFIX,visamiddleeast.com,PROXY
-DOMAIN-SUFFIX,visasoutheasteurope.com,PROXY
+DOMAIN-SUFFIX,visa.be
+DOMAIN-SUFFIX,visa.ca
+DOMAIN-SUFFIX,visa.cl
+DOMAIN-SUFFIX,visa.cn
+DOMAIN-SUFFIX,visa.co.ao
+DOMAIN-SUFFIX,visa.co.cr
+DOMAIN-SUFFIX,visa.co.id
+DOMAIN-SUFFIX,visa.co.il
+DOMAIN-SUFFIX,visa.co.in
+DOMAIN-SUFFIX,visa.co.jp
+DOMAIN-SUFFIX,visa.co.ke
+DOMAIN-SUFFIX,visa.co.ni
+DOMAIN-SUFFIX,visa.co.nz
+DOMAIN-SUFFIX,visa.co.th
+DOMAIN-SUFFIX,visa.co.uk
+DOMAIN-SUFFIX,visa.co.ve
+DOMAIN-SUFFIX,visa.co.za
+DOMAIN-SUFFIX,visa.com
+DOMAIN-SUFFIX,visa.com.ag
+DOMAIN-SUFFIX,visa.com.ai
+DOMAIN-SUFFIX,visa.com.ar
+DOMAIN-SUFFIX,visa.com.au
+DOMAIN-SUFFIX,visa.com.az
+DOMAIN-SUFFIX,visa.com.bo
+DOMAIN-SUFFIX,visa.com.br
+DOMAIN-SUFFIX,visa.com.bs
+DOMAIN-SUFFIX,visa.com.bz
+DOMAIN-SUFFIX,visa.com.cn
+DOMAIN-SUFFIX,visa.com.co
+DOMAIN-SUFFIX,visa.com.cy
+DOMAIN-SUFFIX,visa.com.dm
+DOMAIN-SUFFIX,visa.com.do
+DOMAIN-SUFFIX,visa.com.ec
+DOMAIN-SUFFIX,visa.com.ge
+DOMAIN-SUFFIX,visa.com.gt
+DOMAIN-SUFFIX,visa.com.gy
+DOMAIN-SUFFIX,visa.com.hk
+DOMAIN-SUFFIX,visa.com.hn
+DOMAIN-SUFFIX,visa.com.hr
+DOMAIN-SUFFIX,visa.com.jm
+DOMAIN-SUFFIX,visa.com.kh
+DOMAIN-SUFFIX,visa.com.kn
+DOMAIN-SUFFIX,visa.com.kz
+DOMAIN-SUFFIX,visa.com.lc
+DOMAIN-SUFFIX,visa.com.lk
+DOMAIN-SUFFIX,visa.com.ms
+DOMAIN-SUFFIX,visa.com.mx
+DOMAIN-SUFFIX,visa.com.my
+DOMAIN-SUFFIX,visa.com.ng
+DOMAIN-SUFFIX,visa.com.pa
+DOMAIN-SUFFIX,visa.com.pe
+DOMAIN-SUFFIX,visa.com.ph
+DOMAIN-SUFFIX,visa.com.pr
+DOMAIN-SUFFIX,visa.com.py
+DOMAIN-SUFFIX,visa.com.ru
+DOMAIN-SUFFIX,visa.com.sg
+DOMAIN-SUFFIX,visa.com.sv
+DOMAIN-SUFFIX,visa.com.tr
+DOMAIN-SUFFIX,visa.com.tt
+DOMAIN-SUFFIX,visa.com.tw
+DOMAIN-SUFFIX,visa.com.ua
+DOMAIN-SUFFIX,visa.com.uy
+DOMAIN-SUFFIX,visa.com.vc
+DOMAIN-SUFFIX,visa.com.vi
+DOMAIN-SUFFIX,visa.com.vn
+DOMAIN-SUFFIX,visa.cz
+DOMAIN-SUFFIX,visa.de
+DOMAIN-SUFFIX,visa.dk
+DOMAIN-SUFFIX,visa.es
+DOMAIN-SUFFIX,visa.fi
+DOMAIN-SUFFIX,visa.fr
+DOMAIN-SUFFIX,visa.gd
+DOMAIN-SUFFIX,visa.gp
+DOMAIN-SUFFIX,visa.gr
+DOMAIN-SUFFIX,visa.hk
+DOMAIN-SUFFIX,visa.hu
+DOMAIN-SUFFIX,visa.ie
+DOMAIN-SUFFIX,visa.is
+DOMAIN-SUFFIX,visa.ky
+DOMAIN-SUFFIX,visa.lt
+DOMAIN-SUFFIX,visa.lv
+DOMAIN-SUFFIX,visa.mn
+DOMAIN-SUFFIX,visa.mq
+DOMAIN-SUFFIX,visa.nl
+DOMAIN-SUFFIX,visa.no
+DOMAIN-SUFFIX,visa.pl
+DOMAIN-SUFFIX,visa.pt
+DOMAIN-SUFFIX,visa.ro
+DOMAIN-SUFFIX,visa.se
+DOMAIN-SUFFIX,visa.sk
+DOMAIN-SUFFIX,visa.so
+DOMAIN-SUFFIX,visa.sx
+DOMAIN-SUFFIX,visa.tc
+DOMAIN-SUFFIX,visabg.com
+DOMAIN-SUFFIX,visaeurope.at
+DOMAIN-SUFFIX,visaeurope.ch
+DOMAIN-SUFFIX,visaeurope.lu
+DOMAIN-SUFFIX,visaeurope.si
+DOMAIN-SUFFIX,visaitalia.com
+DOMAIN-SUFFIX,visakorea.com
+DOMAIN-SUFFIX,visamiddleeast.com
+DOMAIN-SUFFIX,visasoutheasteurope.com
 
 # Financial Literacy Submmit
-DOMAIN-SUFFIX,finlitsummit.org,PROXY
+DOMAIN-SUFFIX,finlitsummit.org
 
 # Visa Infinite Luxury Hotel Collection
-DOMAIN-SUFFIX,myvisaluxuryhotels.com,PROXY
-DOMAIN-SUFFIX,visainfinite.ca,PROXY
-DOMAIN-SUFFIX,visainfiniteluxuryhotels.ca,PROXY
-DOMAIN-SUFFIX,visaluxuryhotelcollection.com,PROXY
-DOMAIN-SUFFIX,visaluxuryhotelcollection.com.br,PROXY
-DOMAIN-SUFFIX,visaluxuryhotelcollection.com.mx,PROXY
-DOMAIN-SUFFIX,visaluxuryhotels.com,PROXY
-DOMAIN-SUFFIX,visaluxuryhotels.com.ar,PROXY
-DOMAIN-SUFFIX,visasignaturehotels.com,PROXY
+DOMAIN-SUFFIX,myvisaluxuryhotels.com
+DOMAIN-SUFFIX,visainfinite.ca
+DOMAIN-SUFFIX,visainfiniteluxuryhotels.ca
+DOMAIN-SUFFIX,visaluxuryhotelcollection.com
+DOMAIN-SUFFIX,visaluxuryhotelcollection.com.br
+DOMAIN-SUFFIX,visaluxuryhotelcollection.com.mx
+DOMAIN-SUFFIX,visaluxuryhotels.com
+DOMAIN-SUFFIX,visaluxuryhotels.com.ar
+DOMAIN-SUFFIX,visasignaturehotels.com
 
 # Other
-DOMAIN-SUFFIX,connaissancesfinancierespratiques.ca,PROXY
-DOMAIN-SUFFIX,dnsvisa.com,PROXY
-DOMAIN-SUFFIX,eubluecardvisa.com,PROXY
-DOMAIN-SUFFIX,financialsoccer.ca,PROXY
-DOMAIN-SUFFIX,financialsoccer.com.cn,PROXY
-DOMAIN-SUFFIX,lightbridge.com,PROXY
-DOMAIN-SUFFIX,miamifintechfestival.com,PROXY
-DOMAIN-SUFFIX,mhshosting.com,PROXY
-DOMAIN-SUFFIX,practicalbusinessskills.com,PROXY
-DOMAIN-SUFFIX,practicalmoneyskills.ca,PROXY
-DOMAIN-SUFFIX,practicalmoneyskills.cn,PROXY
-DOMAIN-SUFFIX,practicalmoneyskills.com.cn,PROXY
-DOMAIN-SUFFIX,practicalmoneyskills.jp,PROXY
-DOMAIN-SUFFIX,soccerfinancier.ca,PROXY
-DOMAIN-SUFFIX,torcidadeouro.com,PROXY
-DOMAIN-SUFFIX,vaultify.com,PROXY
-DOMAIN-SUFFIX,vaultify.info,PROXY
-DOMAIN-SUFFIX,vaultify.net,PROXY
-DOMAIN-SUFFIX,visa-atm.com,PROXY
-DOMAIN-SUFFIX,visa-news.jp,PROXY
-DOMAIN-SUFFIX,visabank.org,PROXY
-DOMAIN-SUFFIX,visabusinessinsights.com,PROXY
-DOMAIN-SUFFIX,visaca.com,PROXY
-DOMAIN-SUFFIX,visacarddesignlab.com,PROXY
-DOMAIN-SUFFIX,visacards.com,PROXY
-DOMAIN-SUFFIX,visacheckout.net,PROXY
-DOMAIN-SUFFIX,visacheckout.org,PROXY
-DOMAIN-SUFFIX,visaconciergelac.com,PROXY
-DOMAIN-SUFFIX,visadigital.com,PROXY
-DOMAIN-SUFFIX,visadigitalconcierge.com,PROXY
-DOMAIN-SUFFIX,visadns.com,PROXY
-DOMAIN-SUFFIX,visadpsonline.us,PROXY
-DOMAIN-SUFFIX,visaeverywhereshop.com,PROXY
-DOMAIN-SUFFIX,visafintechfasttrack.com,PROXY
-DOMAIN-SUFFIX,visafulfillment.com,PROXY
-DOMAIN-SUFFIX,visagiftcard.us,PROXY
-DOMAIN-SUFFIX,visaglobalfinance.com,PROXY
-DOMAIN-SUFFIX,visaicsdirect.com,PROXY
-DOMAIN-SUFFIX,visainfinite.ca,PROXY
-DOMAIN-SUFFIX,visainfinite.cn,PROXY
-DOMAIN-SUFFIX,visanet.net,PROXY
-DOMAIN-SUFFIX,visapay.cn,PROXY
-DOMAIN-SUFFIX,visapcsdirect.com,PROXY
-DOMAIN-SUFFIX,visaplatinum.cn,PROXY
-DOMAIN-SUFFIX,visaplatinum.com.cn,PROXY
-DOMAIN-SUFFIX,visaplus.com,PROXY
-DOMAIN-SUFFIX,visasavingsedge.ca,PROXY
-DOMAIN-SUFFIX,visasignature.co.kr,PROXY
-DOMAIN-SUFFIX,visb.org,PROXY
+DOMAIN-SUFFIX,connaissancesfinancierespratiques.ca
+DOMAIN-SUFFIX,dnsvisa.com
+DOMAIN-SUFFIX,eubluecardvisa.com
+DOMAIN-SUFFIX,financialsoccer.ca
+DOMAIN-SUFFIX,financialsoccer.com.cn
+DOMAIN-SUFFIX,lightbridge.com
+DOMAIN-SUFFIX,miamifintechfestival.com
+DOMAIN-SUFFIX,mhshosting.com
+DOMAIN-SUFFIX,practicalbusinessskills.com
+DOMAIN-SUFFIX,practicalmoneyskills.ca
+DOMAIN-SUFFIX,practicalmoneyskills.cn
+DOMAIN-SUFFIX,practicalmoneyskills.com.cn
+DOMAIN-SUFFIX,practicalmoneyskills.jp
+DOMAIN-SUFFIX,soccerfinancier.ca
+DOMAIN-SUFFIX,torcidadeouro.com
+DOMAIN-SUFFIX,vaultify.com
+DOMAIN-SUFFIX,vaultify.info
+DOMAIN-SUFFIX,vaultify.net
+DOMAIN-SUFFIX,visa-atm.com
+DOMAIN-SUFFIX,visa-news.jp
+DOMAIN-SUFFIX,visabank.org
+DOMAIN-SUFFIX,visabusinessinsights.com
+DOMAIN-SUFFIX,visaca.com
+DOMAIN-SUFFIX,visacarddesignlab.com
+DOMAIN-SUFFIX,visacards.com
+DOMAIN-SUFFIX,visacheckout.net
+DOMAIN-SUFFIX,visacheckout.org
+DOMAIN-SUFFIX,visaconciergelac.com
+DOMAIN-SUFFIX,visadigital.com
+DOMAIN-SUFFIX,visadigitalconcierge.com
+DOMAIN-SUFFIX,visadns.com
+DOMAIN-SUFFIX,visadpsonline.us
+DOMAIN-SUFFIX,visaeverywhereshop.com
+DOMAIN-SUFFIX,visafintechfasttrack.com
+DOMAIN-SUFFIX,visafulfillment.com
+DOMAIN-SUFFIX,visagiftcard.us
+DOMAIN-SUFFIX,visaglobalfinance.com
+DOMAIN-SUFFIX,visaicsdirect.com
+DOMAIN-SUFFIX,visainfinite.ca
+DOMAIN-SUFFIX,visainfinite.cn
+DOMAIN-SUFFIX,visanet.net
+DOMAIN-SUFFIX,visapay.cn
+DOMAIN-SUFFIX,visapcsdirect.com
+DOMAIN-SUFFIX,visaplatinum.cn
+DOMAIN-SUFFIX,visaplatinum.com.cn
+DOMAIN-SUFFIX,visaplus.com
+DOMAIN-SUFFIX,visasavingsedge.ca
+DOMAIN-SUFFIX,visasignature.co.kr
+DOMAIN-SUFFIX,visb.org
 #end include:visa
 
 # CDN companies & Services
 #include:akamai
-DOMAIN-SUFFIX,accdn.com.cn,PROXY
-DOMAIN-SUFFIX,ak1.net,PROXY
-DOMAIN-SUFFIX,aka-ai.com,PROXY
-DOMAIN-SUFFIX,aka-ai.net,PROXY
-DOMAIN-SUFFIX,akacrypto.net,PROXY
-DOMAIN-SUFFIX,akadeem.net,PROXY
-DOMAIN-SUFFIX,akadns.com,PROXY
-DOMAIN-SUFFIX,akadns.net,PROXY
-DOMAIN-SUFFIX,akadns6.net,PROXY
-DOMAIN-SUFFIX,akadns88.net,PROXY
-DOMAIN-SUFFIX,akadns99.net,PROXY
-DOMAIN-SUFFIX,akaeai.com,PROXY
-DOMAIN-SUFFIX,akafms.net,PROXY
-DOMAIN-SUFFIX,akagtm.org,PROXY
-DOMAIN-SUFFIX,akahost.net,PROXY
-DOMAIN-SUFFIX,akaint.net,PROXY
-DOMAIN-SUFFIX,akam.net,PROXY
-DOMAIN-SUFFIX,akamaa.com,PROXY
-DOMAIN-SUFFIX,akamah.com,PROXY
-DOMAIN-SUFFIX,akamak.com,PROXY
-DOMAIN-SUFFIX,akamam.com,PROXY
-DOMAIN-SUFFIX,akamai-access.com,PROXY
-DOMAIN-SUFFIX,akamai-access.net,PROXY
-DOMAIN-SUFFIX,akamai-cdn.com,PROXY
-DOMAIN-SUFFIX,akamai-platform-internal.net,PROXY
-DOMAIN-SUFFIX,akamai-platform-staging.com,PROXY
-DOMAIN-SUFFIX,akamai-platform.net,PROXY
-DOMAIN-SUFFIX,akamai-regression.net,PROXY
-DOMAIN-SUFFIX,akamai-staging.net,PROXY
-DOMAIN-SUFFIX,akamai-sucks.net,PROXY
-DOMAIN-SUFFIX,akamai-thailand.com,PROXY
-DOMAIN-SUFFIX,akamai-thailand.net,PROXY
-DOMAIN-SUFFIX,akamai-trials.com,PROXY
-DOMAIN-SUFFIX,akamai.co.kr,PROXY
-DOMAIN-SUFFIX,akamai.com,PROXY
-DOMAIN-SUFFIX,akamai.net,PROXY
-DOMAIN-SUFFIX,akamaiedge.net,PROXY
-DOMAIN-SUFFIX,akamaientrypoint.net,PROXY
-DOMAIN-SUFFIX,akamaietpcnctest.com,PROXY
-DOMAIN-SUFFIX,akamaietpcompromisedcnctest.com,PROXY
-DOMAIN-SUFFIX,akamaietpcompromisedmalwaretest.com,PROXY
-DOMAIN-SUFFIX,akamaietpmalwaretest.com,PROXY
-DOMAIN-SUFFIX,akamaietpphishingtest.com,PROXY
-DOMAIN-SUFFIX,akamaihd-staging.net,PROXY
-DOMAIN-SUFFIX,akamaihd.com,PROXY
-DOMAIN-SUFFIX,akamaihd.net,PROXY
-DOMAIN-SUFFIX,akamaimagicmath.net,PROXY
-DOMAIN-SUFFIX,akamainewzealand.com,PROXY
-DOMAIN-SUFFIX,akamaiphillipines.com,PROXY
-DOMAIN-SUFFIX,akamaiphillipines.net,PROXY
-DOMAIN-SUFFIX,akamaitech.com,PROXY
-DOMAIN-SUFFIX,akamaitech.net,PROXY
-DOMAIN-SUFFIX,akamaitechnologies.com,PROXY
-DOMAIN-SUFFIX,akamaitechnologies.net,PROXY
-DOMAIN-SUFFIX,akamaisingapore.net,PROXY
-DOMAIN-SUFFIX,akamaistream.net,PROXY
-DOMAIN-SUFFIX,akamaized-staging.net,PROXY
-DOMAIN-SUFFIX,akamaized.net,PROXY
-DOMAIN-SUFFIX,akamaizercentral.com,PROXY
-DOMAIN-SUFFIX,akamci.com,PROXY
-DOMAIN-SUFFIX,akami.com,PROXY
-DOMAIN-SUFFIX,akami.net,PROXY
-DOMAIN-SUFFIX,akamii.com,PROXY
-DOMAIN-SUFFIX,akamqi.com,PROXY
-DOMAIN-SUFFIX,akastream.com,PROXY
-DOMAIN-SUFFIX,akastream.net,PROXY
-DOMAIN-SUFFIX,akatns.net,PROXY
-DOMAIN-SUFFIX,akcdn.com.cn,PROXY
-DOMAIN-SUFFIX,akstat.io,PROXY
-DOMAIN-SUFFIX,aptdn.net,PROXY
-DOMAIN-SUFFIX,edgekey.net,PROXY
-DOMAIN-SUFFIX,edgekey88.net,PROXY
-DOMAIN-SUFFIX,edgesuite.net,PROXY
-DOMAIN-SUFFIX,iamakamai.com,PROXY
-DOMAIN-SUFFIX,iamakamai.net,PROXY
-DOMAIN-SUFFIX,janrain.biz,PROXY
-DOMAIN-SUFFIX,janrainservices.com,PROXY
-DOMAIN-SUFFIX,skycdn.com.cn,PROXY
-DOMAIN-SUFFIX,soasta-dswb.com,PROXY
-DOMAIN-SUFFIX,srtcdn.net,PROXY
+DOMAIN-SUFFIX,accdn.com.cn
+DOMAIN-SUFFIX,ak1.net
+DOMAIN-SUFFIX,aka-ai.com
+DOMAIN-SUFFIX,aka-ai.net
+DOMAIN-SUFFIX,akacrypto.net
+DOMAIN-SUFFIX,akadeem.net
+DOMAIN-SUFFIX,akadns.com
+DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akadns6.net
+DOMAIN-SUFFIX,akadns88.net
+DOMAIN-SUFFIX,akadns99.net
+DOMAIN-SUFFIX,akaeai.com
+DOMAIN-SUFFIX,akafms.net
+DOMAIN-SUFFIX,akagtm.org
+DOMAIN-SUFFIX,akahost.net
+DOMAIN-SUFFIX,akaint.net
+DOMAIN-SUFFIX,akam.net
+DOMAIN-SUFFIX,akamaa.com
+DOMAIN-SUFFIX,akamah.com
+DOMAIN-SUFFIX,akamak.com
+DOMAIN-SUFFIX,akamam.com
+DOMAIN-SUFFIX,akamai-access.com
+DOMAIN-SUFFIX,akamai-access.net
+DOMAIN-SUFFIX,akamai-cdn.com
+DOMAIN-SUFFIX,akamai-platform-internal.net
+DOMAIN-SUFFIX,akamai-platform-staging.com
+DOMAIN-SUFFIX,akamai-platform.net
+DOMAIN-SUFFIX,akamai-regression.net
+DOMAIN-SUFFIX,akamai-staging.net
+DOMAIN-SUFFIX,akamai-sucks.net
+DOMAIN-SUFFIX,akamai-thailand.com
+DOMAIN-SUFFIX,akamai-thailand.net
+DOMAIN-SUFFIX,akamai-trials.com
+DOMAIN-SUFFIX,akamai.co.kr
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,akamai.net
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,akamaientrypoint.net
+DOMAIN-SUFFIX,akamaietpcnctest.com
+DOMAIN-SUFFIX,akamaietpcompromisedcnctest.com
+DOMAIN-SUFFIX,akamaietpcompromisedmalwaretest.com
+DOMAIN-SUFFIX,akamaietpmalwaretest.com
+DOMAIN-SUFFIX,akamaietpphishingtest.com
+DOMAIN-SUFFIX,akamaihd-staging.net
+DOMAIN-SUFFIX,akamaihd.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaimagicmath.net
+DOMAIN-SUFFIX,akamainewzealand.com
+DOMAIN-SUFFIX,akamaiphillipines.com
+DOMAIN-SUFFIX,akamaiphillipines.net
+DOMAIN-SUFFIX,akamaitech.com
+DOMAIN-SUFFIX,akamaitech.net
+DOMAIN-SUFFIX,akamaitechnologies.com
+DOMAIN-SUFFIX,akamaitechnologies.net
+DOMAIN-SUFFIX,akamaisingapore.net
+DOMAIN-SUFFIX,akamaistream.net
+DOMAIN-SUFFIX,akamaized-staging.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaizercentral.com
+DOMAIN-SUFFIX,akamci.com
+DOMAIN-SUFFIX,akami.com
+DOMAIN-SUFFIX,akami.net
+DOMAIN-SUFFIX,akamii.com
+DOMAIN-SUFFIX,akamqi.com
+DOMAIN-SUFFIX,akastream.com
+DOMAIN-SUFFIX,akastream.net
+DOMAIN-SUFFIX,akatns.net
+DOMAIN-SUFFIX,akcdn.com.cn
+DOMAIN-SUFFIX,akstat.io
+DOMAIN-SUFFIX,aptdn.net
+DOMAIN-SUFFIX,edgekey.net
+DOMAIN-SUFFIX,edgekey88.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,iamakamai.com
+DOMAIN-SUFFIX,iamakamai.net
+DOMAIN-SUFFIX,janrain.biz
+DOMAIN-SUFFIX,janrainservices.com
+DOMAIN-SUFFIX,skycdn.com.cn
+DOMAIN-SUFFIX,soasta-dswb.com
+DOMAIN-SUFFIX,srtcdn.net
 #end include:akamai
 #include:awempire
-DOMAIN-SUFFIX,awempire.com,PROXY
+DOMAIN-SUFFIX,awempire.com
 
 # CDN
-DOMAIN-SUFFIX,dditsadn.com,PROXY
-DOMAIN-SUFFIX,dditscdn.com,PROXY
-DOMAIN-SUFFIX,docleradn.com,PROXY
-DOMAIN-SUFFIX,doclercdn.com,PROXY
+DOMAIN-SUFFIX,dditsadn.com
+DOMAIN-SUFFIX,dditscdn.com
+DOMAIN-SUFFIX,docleradn.com
+DOMAIN-SUFFIX,doclercdn.com
 #end include:awempire
 #include:cdn77
-DOMAIN-SUFFIX,cdn77.com,PROXY
-DOMAIN-SUFFIX,cdn77.org,PROXY
+DOMAIN-SUFFIX,cdn77.com
+DOMAIN-SUFFIX,cdn77.org
 #end include:cdn77
 #include:fastly
-DOMAIN-SUFFIX,fastly-edge.com,PROXY
-DOMAIN-SUFFIX,fastly-terrarium.com,PROXY
-DOMAIN-SUFFIX,fastly.com,PROXY
-DOMAIN-SUFFIX,fastly.io,PROXY
-DOMAIN-SUFFIX,fastly.net,PROXY
-DOMAIN-SUFFIX,fastlylabs.com,PROXY
-DOMAIN-SUFFIX,fastlylb.net,PROXY
+DOMAIN-SUFFIX,fastly-edge.com
+DOMAIN-SUFFIX,fastly-terrarium.com
+DOMAIN-SUFFIX,fastly.com
+DOMAIN-SUFFIX,fastly.io
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylabs.com
+DOMAIN-SUFFIX,fastlylb.net
 
 # Video.js CDN
-DOMAIN-SUFFIX,zencdn.net,PROXY
+DOMAIN-SUFFIX,zencdn.net
 #end include:fastly
 #include:imgix
-DOMAIN-SUFFIX,imgix.com,PROXY
-DOMAIN-SUFFIX,imgix.net,PROXY
+DOMAIN-SUFFIX,imgix.com
+DOMAIN-SUFFIX,imgix.net
 #end include:imgix
 #include:limelight
-DOMAIN-SUFFIX,delvenetworks.com,PROXY
-DOMAIN-SUFFIX,limelight.com,PROXY
-DOMAIN-SUFFIX,lldns.net,PROXY
-DOMAIN-SUFFIX,llnw-trials.com,PROXY
-DOMAIN-SUFFIX,llnw.com,PROXY
-DOMAIN-SUFFIX,llnw.net,PROXY
-DOMAIN-SUFFIX,llnwd.net,PROXY
-DOMAIN-SUFFIX,llnwi.net,PROXY
+DOMAIN-SUFFIX,delvenetworks.com
+DOMAIN-SUFFIX,limelight.com
+DOMAIN-SUFFIX,lldns.net
+DOMAIN-SUFFIX,llnw-trials.com
+DOMAIN-SUFFIX,llnw.com
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnwi.net
 #end include:limelight
 #include:pagecdn
-DOMAIN-SUFFIX,pagecdn.com,PROXY
-DOMAIN-SUFFIX,pagecdn.io,PROXY
+DOMAIN-SUFFIX,pagecdn.com
+DOMAIN-SUFFIX,pagecdn.io
 #end include:pagecdn
 #include:quantil
-DOMAIN-SUFFIX,quantil.com,PROXY
+DOMAIN-SUFFIX,quantil.com
 #end include:quantil
 #include:scaleflex
-DOMAIN-SUFFIX,scaleflex.com,PROXY
-DOMAIN-SUFFIX,cloudimage.io,PROXY
-DOMAIN-SUFFIX,cloudimg.io,PROXY
+DOMAIN-SUFFIX,scaleflex.com
+DOMAIN-SUFFIX,cloudimage.io
+DOMAIN-SUFFIX,cloudimg.io
 #end include:scaleflex
 #include:stackpath
-DOMAIN-SUFFIX,stackpath.com,PROXY
-DOMAIN-SUFFIX,stackpath.dev,PROXY
+DOMAIN-SUFFIX,stackpath.com
+DOMAIN-SUFFIX,stackpath.dev
 #end include:stackpath
 #include:wistia
 # https://support.wistia.com/en/articles/8233530-firewall-and-network-allowlist-settings
-DOMAIN-SUFFIX,embedwistia-a.akamaihd.net,PROXY
-DOMAIN-SUFFIX,wistia.com,PROXY
-DOMAIN-SUFFIX,wistia.net,PROXY
+DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
+DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,wistia.net
 #end include:wistia
 
 # Certificate authorities
@@ -1355,338 +1355,338 @@ DOMAIN-SUFFIX,wistia.net,PROXY
 
 # E-learning & Knowledge & Press & Scholar & Science & Technology
 #include:anandtech
-DOMAIN-SUFFIX,anandtech.com,PROXY
+DOMAIN-SUFFIX,anandtech.com
 #end include:anandtech
 #include:betterexplained
-DOMAIN-SUFFIX,betterexplained.com,PROXY
+DOMAIN-SUFFIX,betterexplained.com
 #end include:betterexplained
 #include:brilliant
-DOMAIN-SUFFIX,brilliant.org,PROXY
+DOMAIN-SUFFIX,brilliant.org
 #end include:brilliant
 #include:cern
 # All .cern domains
-DOMAIN-SUFFIX,cern,PROXY
+DOMAIN-SUFFIX,cern
 
-DOMAIN-SUFFIX,ams02.space,PROXY
-DOMAIN-SUFFIX,cern.ch,PROXY
-DOMAIN-SUFFIX,cixp.net,PROXY
-DOMAIN-SUFFIX,dotcernpilot.info,PROXY
-DOMAIN-SUFFIX,ippog.org,PROXY
-DOMAIN-SUFFIX,linearcollider.org,PROXY
+DOMAIN-SUFFIX,ams02.space
+DOMAIN-SUFFIX,cern.ch
+DOMAIN-SUFFIX,cixp.net
+DOMAIN-SUFFIX,dotcernpilot.info
+DOMAIN-SUFFIX,ippog.org
+DOMAIN-SUFFIX,linearcollider.org
 #end include:cern
 #include:chinapower
-DOMAIN,chinapower.csis.org,PROXY
+DOMAIN,chinapower.csis.org
 #end include:chinapower
 #include:cnet
-DOMAIN-SUFFIX,cnet.co.kr,PROXY
-DOMAIN-SUFFIX,cnet.com,PROXY
-DOMAIN-SUFFIX,cnet.de,PROXY
-DOMAIN-SUFFIX,cnetfrance.fr,PROXY
+DOMAIN-SUFFIX,cnet.co.kr
+DOMAIN-SUFFIX,cnet.com
+DOMAIN-SUFFIX,cnet.de
+DOMAIN-SUFFIX,cnetfrance.fr
 
 # CNET Download
-DOMAIN-SUFFIX,download.com,PROXY
+DOMAIN-SUFFIX,download.com
 #end include:cnet
 #include:code
-DOMAIN-SUFFIX,code.org,PROXY
+DOMAIN-SUFFIX,code.org
 #end include:code
 #include:codecademy
-DOMAIN-SUFFIX,codecademy.com,PROXY
+DOMAIN-SUFFIX,codecademy.com
 #end include:codecademy
 #include:codeforces
-DOMAIN-SUFFIX,codeforces.com,PROXY
+DOMAIN-SUFFIX,codeforces.com
 #end include:codeforces
 #include:coursera
-DOMAIN-SUFFIX,coursera-for-business.org,PROXY
-DOMAIN-SUFFIX,coursera.community,PROXY
-DOMAIN-SUFFIX,coursera.help,PROXY
-DOMAIN-SUFFIX,coursera.org,PROXY
+DOMAIN-SUFFIX,coursera-for-business.org
+DOMAIN-SUFFIX,coursera.community
+DOMAIN-SUFFIX,coursera.help
+DOMAIN-SUFFIX,coursera.org
 #end include:coursera
 #include:edx
-DOMAIN-SUFFIX,edx.org,PROXY
-DOMAIN-SUFFIX,edx-cdn.org,PROXY
+DOMAIN-SUFFIX,edx.org
+DOMAIN-SUFFIX,edx-cdn.org
 #end include:edx
 #include:egghead
-DOMAIN-SUFFIX,egghead.io,PROXY
+DOMAIN-SUFFIX,egghead.io
 #end include:egghead
 #include:embl
-DOMAIN-SUFFIX,ebi.ac.uk,PROXY
-DOMAIN-SUFFIX,embl-hamburg.de,PROXY
-DOMAIN-SUFFIX,embl.de,PROXY
-DOMAIN-SUFFIX,embl.fr,PROXY
-DOMAIN-SUFFIX,embl.it,PROXY
-DOMAIN-SUFFIX,embl.org,PROXY
-DOMAIN-SUFFIX,emblstatic.net,PROXY
+DOMAIN-SUFFIX,ebi.ac.uk
+DOMAIN-SUFFIX,embl-hamburg.de
+DOMAIN-SUFFIX,embl.de
+DOMAIN-SUFFIX,embl.fr
+DOMAIN-SUFFIX,embl.it
+DOMAIN-SUFFIX,embl.org
+DOMAIN-SUFFIX,emblstatic.net
 #end include:embl
 #include:freecodecamp
-DOMAIN-SUFFIX,freecodecamp.org,PROXY
+DOMAIN-SUFFIX,freecodecamp.org
 #end include:freecodecamp
 #include:kaggle
-DOMAIN-SUFFIX,kaggle.com,PROXY
-DOMAIN-SUFFIX,kaggle.io,PROXY
-DOMAIN-SUFFIX,kaggle.net,PROXY
-DOMAIN-SUFFIX,kaggleusercontent.com,PROXY
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,kaggle.net
+DOMAIN-SUFFIX,kaggleusercontent.com
 #end include:kaggle
 #include:khanacademy
-DOMAIN-SUFFIX,khanacademy.org,PROXY
-DOMAIN-SUFFIX,kastatic.org,PROXY
+DOMAIN-SUFFIX,khanacademy.org
+DOMAIN-SUFFIX,kastatic.org
 #end include:khanacademy
 #include:knovel
-DOMAIN-SUFFIX,knovel.com,PROXY
+DOMAIN-SUFFIX,knovel.com
 #end include:knovel
 #include:laracasts
-DOMAIN-SUFFIX,laracasts.com,PROXY
+DOMAIN-SUFFIX,laracasts.com
 #end include:laracasts
 #include:libgen
 # Forum
-DOMAIN-SUFFIX,libgen.life,PROXY
+DOMAIN-SUFFIX,libgen.life
 
 # Official site
-DOMAIN-SUFFIX,libgen.fun,PROXY
-DOMAIN-SUFFIX,library.lol,PROXY
+DOMAIN-SUFFIX,libgen.fun
+DOMAIN-SUFFIX,library.lol
 
 # Unofficial sites (forked from the official site)
-DOMAIN-SUFFIX,gen.lib.rus.ec,PROXY
-DOMAIN-SUFFIX,libgen.is,PROXY
-DOMAIN-SUFFIX,libgen.me,PROXY
-DOMAIN-SUFFIX,libgen.rs,PROXY
-DOMAIN-SUFFIX,libgen.st,PROXY
+DOMAIN-SUFFIX,gen.lib.rus.ec
+DOMAIN-SUFFIX,libgen.is
+DOMAIN-SUFFIX,libgen.me
+DOMAIN-SUFFIX,libgen.rs
+DOMAIN-SUFFIX,libgen.st
 #end include:libgen
 #include:lifewire
-DOMAIN-SUFFIX,lifewire.com,PROXY
+DOMAIN-SUFFIX,lifewire.com
 #end include:lifewire
 #include:masterclass
-DOMAIN-SUFFIX,masterclass.com,PROXY
+DOMAIN-SUFFIX,masterclass.com
 #end include:masterclass
 #include:mzed
-DOMAIN-SUFFIX,mzed.com,PROXY
+DOMAIN-SUFFIX,mzed.com
 #end include:mzed
 #include:oreilly
-DOMAIN-SUFFIX,oreil.ly,PROXY
-DOMAIN-SUFFIX,oreilly.com,PROXY
-DOMAIN-SUFFIX,oreilly.com.cn,PROXY
-DOMAIN-SUFFIX,oreilly.review,PROXY
-DOMAIN-SUFFIX,oreillystatic.com,PROXY
-DOMAIN-SUFFIX,orl.ly,PROXY
+DOMAIN-SUFFIX,oreil.ly
+DOMAIN-SUFFIX,oreilly.com
+DOMAIN-SUFFIX,oreilly.com.cn
+DOMAIN-SUFFIX,oreilly.review
+DOMAIN-SUFFIX,oreillystatic.com
+DOMAIN-SUFFIX,orl.ly
 #end include:oreilly
 #include:pearson
-DOMAIN-SUFFIX,activelearnprimary.co.uk,PROXY
-DOMAIN-SUFFIX,activelearnprimary.com.au,PROXY
-DOMAIN-SUFFIX,activeteachonline.com,PROXY
-DOMAIN-SUFFIX,addison-wesley.ch,PROXY
-DOMAIN-SUFFIX,adobepress.ch,PROXY
-DOMAIN-SUFFIX,btec.co.uk,PROXY
-DOMAIN-SUFFIX,ciscopress.ch,PROXY
-DOMAIN-SUFFIX,connectionsacademy.com,PROXY
-DOMAIN-SUFFIX,connectionseducation.com,PROXY
-DOMAIN-SUFFIX,connectionslearning.com,PROXY
-DOMAIN-SUFFIX,dombosco.com.br,PROXY
-DOMAIN-SUFFIX,ecpa.fr,PROXY
-DOMAIN-SUFFIX,escapestudios.co.uk,PROXY
-DOMAIN-SUFFIX,ilongman.com,PROXY
-DOMAIN-SUFFIX,integral7.com,PROXY
-DOMAIN-SUFFIX,internationalconnectionsacademy.com,PROXY
-DOMAIN-SUFFIX,longman.ch,PROXY
-DOMAIN-SUFFIX,mut.ch,PROXY
-DOMAIN-SUFFIX,myhelpinglab.com,PROXY
-DOMAIN-SUFFIX,mylogiclab.com,PROXY
-DOMAIN-SUFFIX,mypearson.com,PROXY
-DOMAIN-SUFFIX,mypearsonenglish.ch,PROXY
-DOMAIN-SUFFIX,mypearsonshop.com.mx,PROXY
-DOMAIN-SUFFIX,mypearsonshop.mx,PROXY
-DOMAIN-SUFFIX,mysocialworklab.com,PROXY
-DOMAIN-SUFFIX,netname.com.br,PROXY
-DOMAIN-SUFFIX,pearson-anaya.com,PROXY
-DOMAIN-SUFFIX,pearson-intl.com,PROXY
-DOMAIN-SUFFIX,pearson-schule.ch,PROXY
-DOMAIN-SUFFIX,pearson-studium.ch,PROXY
-DOMAIN-SUFFIX,pearson.ch,PROXY
-DOMAIN-SUFFIX,pearson.cl,PROXY
-DOMAIN-SUFFIX,pearson.co.in,PROXY
-DOMAIN-SUFFIX,pearson.co.jp,PROXY
-DOMAIN-SUFFIX,pearson.com,PROXY
-DOMAIN-SUFFIX,pearson.com.ar,PROXY
-DOMAIN-SUFFIX,pearson.com.au,PROXY
-DOMAIN-SUFFIX,pearson.com.cn,PROXY
-DOMAIN-SUFFIX,pearson.com.hk,PROXY
-DOMAIN-SUFFIX,pearson.com.uy,PROXY
-DOMAIN-SUFFIX,pearson.es,PROXY
-DOMAIN-SUFFIX,pearson.fr,PROXY
-DOMAIN-SUFFIX,pearson.pl,PROXY
-DOMAIN-SUFFIX,pearsonactivelearn.com,PROXY
-DOMAIN-SUFFIX,pearsonassessment.be,PROXY
-DOMAIN-SUFFIX,pearsonassessment.de,PROXY
-DOMAIN-SUFFIX,pearsonassessment.dk,PROXY
-DOMAIN-SUFFIX,pearsonassessment.fr,PROXY
-DOMAIN-SUFFIX,pearsonassessment.nl,PROXY
-DOMAIN-SUFFIX,pearsonassessment.no,PROXY
-DOMAIN-SUFFIX,pearsonassessment.se,PROXY
-DOMAIN-SUFFIX,pearsonassessments.com,PROXY
-DOMAIN-SUFFIX,pearsoncanada.ca,PROXY
-DOMAIN-SUFFIX,pearsonclinical.be,PROXY
-DOMAIN-SUFFIX,pearsonclinical.ca,PROXY
-DOMAIN-SUFFIX,pearsonclinical.co.uk,PROXY
-DOMAIN-SUFFIX,pearsonclinical.com.au,PROXY
-DOMAIN-SUFFIX,pearsonclinical.com.br,PROXY
-DOMAIN-SUFFIX,pearsonclinical.de,PROXY
-DOMAIN-SUFFIX,pearsonclinical.dk,PROXY
-DOMAIN-SUFFIX,pearsonclinical.es,PROXY
-DOMAIN-SUFFIX,pearsonclinical.eu,PROXY
-DOMAIN-SUFFIX,pearsonclinical.fr,PROXY
-DOMAIN-SUFFIX,pearsonclinical.in,PROXY
-DOMAIN-SUFFIX,pearsonclinical.nl,PROXY
-DOMAIN-SUFFIX,pearsonclinical.no,PROXY
-DOMAIN-SUFFIX,pearsonclinical.se,PROXY
-DOMAIN-SUFFIX,pearsoncmg.com,PROXY
-DOMAIN-SUFFIX,pearsoncred.com,PROXY
-DOMAIN-SUFFIX,pearsoned.co.nz,PROXY
-DOMAIN-SUFFIX,pearsoned.com,PROXY
-DOMAIN-SUFFIX,pearsoneducacion.net,PROXY
-DOMAIN-SUFFIX,pearsoneducationbooks.com,PROXY
-DOMAIN-SUFFIX,pearsonelt.ch,PROXY
-DOMAIN-SUFFIX,pearsonelt.com,PROXY
-DOMAIN-SUFFIX,pearsonenespanol.com,PROXY
-DOMAIN-SUFFIX,pearsonhighered.com,PROXY
-DOMAIN-SUFFIX,pearsoninstitute.ac.za,PROXY
-DOMAIN-SUFFIX,pearsonlongman.ch,PROXY
-DOMAIN-SUFFIX,pearsononlineacademy.com,PROXY
-DOMAIN-SUFFIX,pearsonperu.pe,PROXY
-DOMAIN-SUFFIX,pearsonplaces.com.au,PROXY
-DOMAIN-SUFFIX,pearsonschoolsandfecolleges.co.uk,PROXY
-DOMAIN-SUFFIX,pearsonvue.com,PROXY
-DOMAIN-SUFFIX,pearsonvue.net,PROXY
-DOMAIN-SUFFIX,pobl-content.com,PROXY
-DOMAIN-SUFFIX,pvue1.com,PROXY
-DOMAIN-SUFFIX,pvue2.com,PROXY
-DOMAIN-SUFFIX,quatrum.com.br,PROXY
-DOMAIN-SUFFIX,stark-verlag.ch,PROXY
-DOMAIN-SUFFIX,talentlens.com,PROXY
-DOMAIN-SUFFIX,themathsfactor.com,PROXY
-DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com,PROXY    #pearsonenespañol.com
+DOMAIN-SUFFIX,activelearnprimary.co.uk
+DOMAIN-SUFFIX,activelearnprimary.com.au
+DOMAIN-SUFFIX,activeteachonline.com
+DOMAIN-SUFFIX,addison-wesley.ch
+DOMAIN-SUFFIX,adobepress.ch
+DOMAIN-SUFFIX,btec.co.uk
+DOMAIN-SUFFIX,ciscopress.ch
+DOMAIN-SUFFIX,connectionsacademy.com
+DOMAIN-SUFFIX,connectionseducation.com
+DOMAIN-SUFFIX,connectionslearning.com
+DOMAIN-SUFFIX,dombosco.com.br
+DOMAIN-SUFFIX,ecpa.fr
+DOMAIN-SUFFIX,escapestudios.co.uk
+DOMAIN-SUFFIX,ilongman.com
+DOMAIN-SUFFIX,integral7.com
+DOMAIN-SUFFIX,internationalconnectionsacademy.com
+DOMAIN-SUFFIX,longman.ch
+DOMAIN-SUFFIX,mut.ch
+DOMAIN-SUFFIX,myhelpinglab.com
+DOMAIN-SUFFIX,mylogiclab.com
+DOMAIN-SUFFIX,mypearson.com
+DOMAIN-SUFFIX,mypearsonenglish.ch
+DOMAIN-SUFFIX,mypearsonshop.com.mx
+DOMAIN-SUFFIX,mypearsonshop.mx
+DOMAIN-SUFFIX,mysocialworklab.com
+DOMAIN-SUFFIX,netname.com.br
+DOMAIN-SUFFIX,pearson-anaya.com
+DOMAIN-SUFFIX,pearson-intl.com
+DOMAIN-SUFFIX,pearson-schule.ch
+DOMAIN-SUFFIX,pearson-studium.ch
+DOMAIN-SUFFIX,pearson.ch
+DOMAIN-SUFFIX,pearson.cl
+DOMAIN-SUFFIX,pearson.co.in
+DOMAIN-SUFFIX,pearson.co.jp
+DOMAIN-SUFFIX,pearson.com
+DOMAIN-SUFFIX,pearson.com.ar
+DOMAIN-SUFFIX,pearson.com.au
+DOMAIN-SUFFIX,pearson.com.cn
+DOMAIN-SUFFIX,pearson.com.hk
+DOMAIN-SUFFIX,pearson.com.uy
+DOMAIN-SUFFIX,pearson.es
+DOMAIN-SUFFIX,pearson.fr
+DOMAIN-SUFFIX,pearson.pl
+DOMAIN-SUFFIX,pearsonactivelearn.com
+DOMAIN-SUFFIX,pearsonassessment.be
+DOMAIN-SUFFIX,pearsonassessment.de
+DOMAIN-SUFFIX,pearsonassessment.dk
+DOMAIN-SUFFIX,pearsonassessment.fr
+DOMAIN-SUFFIX,pearsonassessment.nl
+DOMAIN-SUFFIX,pearsonassessment.no
+DOMAIN-SUFFIX,pearsonassessment.se
+DOMAIN-SUFFIX,pearsonassessments.com
+DOMAIN-SUFFIX,pearsoncanada.ca
+DOMAIN-SUFFIX,pearsonclinical.be
+DOMAIN-SUFFIX,pearsonclinical.ca
+DOMAIN-SUFFIX,pearsonclinical.co.uk
+DOMAIN-SUFFIX,pearsonclinical.com.au
+DOMAIN-SUFFIX,pearsonclinical.com.br
+DOMAIN-SUFFIX,pearsonclinical.de
+DOMAIN-SUFFIX,pearsonclinical.dk
+DOMAIN-SUFFIX,pearsonclinical.es
+DOMAIN-SUFFIX,pearsonclinical.eu
+DOMAIN-SUFFIX,pearsonclinical.fr
+DOMAIN-SUFFIX,pearsonclinical.in
+DOMAIN-SUFFIX,pearsonclinical.nl
+DOMAIN-SUFFIX,pearsonclinical.no
+DOMAIN-SUFFIX,pearsonclinical.se
+DOMAIN-SUFFIX,pearsoncmg.com
+DOMAIN-SUFFIX,pearsoncred.com
+DOMAIN-SUFFIX,pearsoned.co.nz
+DOMAIN-SUFFIX,pearsoned.com
+DOMAIN-SUFFIX,pearsoneducacion.net
+DOMAIN-SUFFIX,pearsoneducationbooks.com
+DOMAIN-SUFFIX,pearsonelt.ch
+DOMAIN-SUFFIX,pearsonelt.com
+DOMAIN-SUFFIX,pearsonenespanol.com
+DOMAIN-SUFFIX,pearsonhighered.com
+DOMAIN-SUFFIX,pearsoninstitute.ac.za
+DOMAIN-SUFFIX,pearsonlongman.ch
+DOMAIN-SUFFIX,pearsononlineacademy.com
+DOMAIN-SUFFIX,pearsonperu.pe
+DOMAIN-SUFFIX,pearsonplaces.com.au
+DOMAIN-SUFFIX,pearsonschoolsandfecolleges.co.uk
+DOMAIN-SUFFIX,pearsonvue.com
+DOMAIN-SUFFIX,pearsonvue.net
+DOMAIN-SUFFIX,pobl-content.com
+DOMAIN-SUFFIX,pvue1.com
+DOMAIN-SUFFIX,pvue2.com
+DOMAIN-SUFFIX,quatrum.com.br
+DOMAIN-SUFFIX,stark-verlag.ch
+DOMAIN-SUFFIX,talentlens.com
+DOMAIN-SUFFIX,themathsfactor.com
+DOMAIN-SUFFIX,xn--pearsonenespaol-brb.com    #pearsonenespañol.com
 #end include:pearson
 #include:sitepoint
-DOMAIN-SUFFIX,sitepoint.com,PROXY
+DOMAIN-SUFFIX,sitepoint.com
 #end include:sitepoint
 #include:skillshare
-DOMAIN-SUFFIX,skillshare.com,PROXY
+DOMAIN-SUFFIX,skillshare.com
 #end include:skillshare
 #include:spiceworks
-DOMAIN-SUFFIX,spiceworks.com,PROXY
-DOMAIN-SUFFIX,spiceworksstatic.com,PROXY
+DOMAIN-SUFFIX,spiceworks.com
+DOMAIN-SUFFIX,spiceworksstatic.com
 #end include:spiceworks
 #include:techtimes
-DOMAIN-SUFFIX,techtimes.com,PROXY
+DOMAIN-SUFFIX,techtimes.com
 #end include:techtimes
 #include:ted
-DOMAIN-SUFFIX,ted.com,PROXY
-DOMAIN-SUFFIX,tedcdn.com,PROXY
+DOMAIN-SUFFIX,ted.com
+DOMAIN-SUFFIX,tedcdn.com
 #end include:ted
 #include:udacity
-DOMAIN-SUFFIX,udacity.com,PROXY
+DOMAIN-SUFFIX,udacity.com
 #end include:udacity
 #include:udemy
-DOMAIN-SUFFIX,udemy.com,PROXY
-DOMAIN-SUFFIX,udemycdn.com,PROXY
+DOMAIN-SUFFIX,udemy.com
+DOMAIN-SUFFIX,udemycdn.com
 #end include:udemy
 #include:w3schools
-DOMAIN-SUFFIX,w3schools.com,PROXY
+DOMAIN-SUFFIX,w3schools.com
 #end include:w3schools
 
-DOMAIN-SUFFIX,chemequations.com,PROXY    #线上化学方程式！
+DOMAIN-SUFFIX,chemequations.com    #线上化学方程式！
 
 # Entertainment & Games & Music & Podcasts & Videos
 
 # File & Image & Video hosting
 #include:0x0
-DOMAIN-SUFFIX,0x0.st,PROXY
+DOMAIN-SUFFIX,0x0.st
 #end include:0x0
 #include:casimages
-DOMAIN-SUFFIX,casimages.com,PROXY
+DOMAIN-SUFFIX,casimages.com
 #end include:casimages
 #include:cloudinary
-DOMAIN-SUFFIX,cloudinary.com,PROXY
-DOMAIN-SUFFIX,cloudinary.net,PROXY
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net
 #end include:cloudinary
 #include:dropbox
 # List of all domains being operated by Dorpbox Inc.
 # Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
-DOMAIN-SUFFIX,db.tt,PROXY
-DOMAIN-SUFFIX,dropbox-dns.com,PROXY
-DOMAIN-SUFFIX,dropbox.com,PROXY
-DOMAIN-SUFFIX,dropbox.tech,PROXY
-DOMAIN-SUFFIX,dropboxapi.com,PROXY
-DOMAIN-SUFFIX,dropboxbusiness.com,PROXY
-DOMAIN-SUFFIX,dropboxcaptcha.com,PROXY
-DOMAIN-SUFFIX,dropboxforum.com,PROXY
-DOMAIN-SUFFIX,dropboxforums.com,PROXY
-DOMAIN-SUFFIX,dropboxinsiders.com,PROXY
-DOMAIN-SUFFIX,dropboxmail.com,PROXY
-DOMAIN-SUFFIX,dropboxpartners.com,PROXY
-DOMAIN-SUFFIX,dropboxstatic.com,PROXY
-DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
-DOMAIN-SUFFIX,getdropbox.com,PROXY
+DOMAIN-SUFFIX,db.tt
+DOMAIN-SUFFIX,dropbox-dns.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropbox.tech
+DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropboxbusiness.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxpartners.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,getdropbox.com
 
-DOMAIN,paper-attachments.s3.amazonaws.com,PROXY
+DOMAIN,paper-attachments.s3.amazonaws.com
 #end include:dropbox
 #include:gfycat
-DOMAIN-SUFFIX,gfycat.com,PROXY
+DOMAIN-SUFFIX,gfycat.com
 #end include:gfycat
 #include:imagebam
-DOMAIN-SUFFIX,imagebam.com,PROXY
+DOMAIN-SUFFIX,imagebam.com
 #end include:imagebam
 #include:imagecurl
-DOMAIN-SUFFIX,imagecurl.com,PROXY
-DOMAIN-SUFFIX,imagecurl.org,PROXY
-DOMAIN-SUFFIX,imgcrl.org,PROXY
+DOMAIN-SUFFIX,imagecurl.com
+DOMAIN-SUFFIX,imagecurl.org
+DOMAIN-SUFFIX,imgcrl.org
 #end include:imagecurl
 #include:imageshack
-DOMAIN-SUFFIX,imageshack.com,PROXY
-DOMAIN-SUFFIX,imageshack.us,PROXY
+DOMAIN-SUFFIX,imageshack.com
+DOMAIN-SUFFIX,imageshack.us
 #end include:imageshack
 #include:imagetwist
-DOMAIN-SUFFIX,imagetwist.com,PROXY
+DOMAIN-SUFFIX,imagetwist.com
 #end include:imagetwist
 #include:imgbb
-DOMAIN-SUFFIX,ibb.co,PROXY
-DOMAIN-SUFFIX,imgbb.com,PROXY
-DOMAIN-SUFFIX,simgbb.com,PROXY
+DOMAIN-SUFFIX,ibb.co
+DOMAIN-SUFFIX,imgbb.com
+DOMAIN-SUFFIX,simgbb.com
 #end include:imgbb
 #include:imgur
-DOMAIN-SUFFIX,imgur.com,PROXY
-DOMAIN-SUFFIX,imgur.io,PROXY
-DOMAIN-SUFFIX,imgurinc.com,PROXY
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgur.io
+DOMAIN-SUFFIX,imgurinc.com
 #end include:imgur
 #include:pikpak
-DOMAIN-SUFFIX,mypikpak.com,PROXY
-DOMAIN-SUFFIX,mypikpak.net,PROXY
-DOMAIN-SUFFIX,pickpackapp.com,PROXY
-DOMAIN-SUFFIX,pikpak.io,PROXY
-DOMAIN-SUFFIX,pikpak.me,PROXY
-DOMAIN-SUFFIX,pikpakdrive.com,PROXY
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,pickpackapp.com
+DOMAIN-SUFFIX,pikpak.io
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,pikpakdrive.com
 
 # tracking
-DOMAIN,o4504926511693824.ingest.sentry.io,PROXY
+DOMAIN,o4504926511693824.ingest.sentry.io
 #end include:pikpak
 #include:pixhost
-DOMAIN-SUFFIX,pixhost.to,PROXY
+DOMAIN-SUFFIX,pixhost.to
 #end include:pixhost
 #include:postimages
-DOMAIN-SUFFIX,postimages.org,PROXY
-DOMAIN-SUFFIX,postimg.cc,PROXY
+DOMAIN-SUFFIX,postimages.org
+DOMAIN-SUFFIX,postimg.cc
 #end include:postimages
 #include:pstorage
-DOMAIN-SUFFIX,pstorage.space,PROXY
+DOMAIN-SUFFIX,pstorage.space
 #end include:pstorage
 #include:rumble
-DOMAIN-SUFFIX,rmbl.ws,PROXY
-DOMAIN-SUFFIX,rumble.com,PROXY
+DOMAIN-SUFFIX,rmbl.ws
+DOMAIN-SUFFIX,rumble.com
 #end include:rumble
 #include:streamable
-DOMAIN-SUFFIX,embed-cdn.com,PROXY
-DOMAIN-SUFFIX,streamable.com,PROXY
+DOMAIN-SUFFIX,embed-cdn.com
+DOMAIN-SUFFIX,streamable.com
 #end include:streamable
 #include:terabox
-DOMAIN-SUFFIX,terabox.com,PROXY
-DOMAIN-SUFFIX,teraboxcdn.com,PROXY
+DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,teraboxcdn.com
 #end include:terabox
 
 # Forums & Social network
@@ -1695,9 +1695,9 @@ DOMAIN-SUFFIX,teraboxcdn.com,PROXY
 
 # Media & News & Press
 #include:pugpig
-DOMAIN-SUFFIX,pugpig-dev.com,PROXY
-DOMAIN-SUFFIX,pugpig-stage.com,PROXY
-DOMAIN-SUFFIX,pugpig.com,PROXY
+DOMAIN-SUFFIX,pugpig-dev.com
+DOMAIN-SUFFIX,pugpig-stage.com
+DOMAIN-SUFFIX,pugpig.com
 #end include:pugpig
 
 # Organizations
@@ -1708,787 +1708,787 @@ DOMAIN-SUFFIX,pugpig.com,PROXY
 
 # Services & Softwares
 #include:category-android-app-download
-DOMAIN-SUFFIX,apkcombo.com,PROXY
+DOMAIN-SUFFIX,apkcombo.com
 #end include:apkcombo
-DOMAIN-SUFFIX,apkmirror.com,PROXY
+DOMAIN-SUFFIX,apkmirror.com
 #end include:apkmirror
-DOMAIN-SUFFIX,apkpure.com,PROXY
-DOMAIN-SUFFIX,apkpure.net,PROXY
-DOMAIN-SUFFIX,cdnpure.com,PROXY
-DOMAIN-SUFFIX,pureapk.com,PROXY
-DOMAIN-SUFFIX,winudf.com,PROXY
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com
 #end include:apkpure
 #end include:category-android-app-download
 #include:category-ntp
 # Aliyun
 # regexp:^ntp([1-7])?\.aliyun\.com$ @cn
-DOMAIN,ntp.aliyun.com,PROXY
-DOMAIN,ntp1.aliyun.com,PROXY
-DOMAIN,ntp2.aliyun.com,PROXY
-DOMAIN,ntp3.aliyun.com,PROXY
-DOMAIN,ntp4.aliyun.com,PROXY
-DOMAIN,ntp5.aliyun.com,PROXY
-DOMAIN,ntp6.aliyun.com,PROXY
-DOMAIN,ntp7.aliyun.com,PROXY
+DOMAIN,ntp.aliyun.com
+DOMAIN,ntp1.aliyun.com
+DOMAIN,ntp2.aliyun.com
+DOMAIN,ntp3.aliyun.com
+DOMAIN,ntp4.aliyun.com
+DOMAIN,ntp5.aliyun.com
+DOMAIN,ntp6.aliyun.com
+DOMAIN,ntp7.aliyun.com
 
 # AWS
-DOMAIN,time.amazonaws.cn,PROXY
+DOMAIN,time.amazonaws.cn
 
 # Qualcomm
-DOMAIN,time.izatcloud.net,PROXY
-DOMAIN,time.xtracloud.net,PROXY
+DOMAIN,time.izatcloud.net
+DOMAIN,time.xtracloud.net
 
 # Tencent
 # regexp:^ntp([1-5])?\.tencent\.com$ @cn
-DOMAIN,ntp.tencent.com,PROXY
-DOMAIN,ntp1.tencent.com,PROXY
-DOMAIN,ntp2.tencent.com,PROXY
-DOMAIN,ntp3.tencent.com,PROXY
-DOMAIN,ntp4.tencent.com,PROXY
-DOMAIN,ntp5.tencent.com,PROXY
+DOMAIN,ntp.tencent.com
+DOMAIN,ntp1.tencent.com
+DOMAIN,ntp2.tencent.com
+DOMAIN,ntp3.tencent.com
+DOMAIN,ntp4.tencent.com
+DOMAIN,ntp5.tencent.com
 
-DOMAIN-SUFFIX,cn.pool.ntp.org,PROXY
-DOMAIN-SUFFIX,ntp.neu.edu.cn,PROXY
-DOMAIN-SUFFIX,ntp.ntsc.ac.cn,PROXY
-DOMAIN-SUFFIX,ntp.org.cn,PROXY
+DOMAIN-SUFFIX,cn.pool.ntp.org
+DOMAIN-SUFFIX,ntp.neu.edu.cn
+DOMAIN-SUFFIX,ntp.ntsc.ac.cn
+DOMAIN-SUFFIX,ntp.org.cn
 #end include:category-ntp-cn
 # アマノセキュアジャパン(e-timing): https://www.e-timing.ne.jp/product/timestamp/open-server/
-DOMAIN-SUFFIX,ats1.e-timing.ne.jp,PROXY
+DOMAIN-SUFFIX,ats1.e-timing.ne.jp
 
 # INTERNET MULTIFEED: https://www.mfeed.ad.jp/ntp/detail.html
-DOMAIN-SUFFIX,ntp.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp1.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp2.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp1.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp2.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp3.jst.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp1.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp2.v6.mfeed.ad.jp
+DOMAIN-SUFFIX,ntp3.v6.mfeed.ad.jp
 
 # 国立天文台水沢 https://www.miz.nao.ac.jp/vlbi/ntp.html
-DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp,PROXY
+DOMAIN-SUFFIX,s2csntp.miz.nao.ac.jp
 
 # 情報通信研究機構(NICT): https://jjy.nict.go.jp/tsp/PubNtp/index.html
-DOMAIN-SUFFIX,ntp.nict.jp,PROXY
+DOMAIN-SUFFIX,ntp.nict.jp
 
 # OCN: https://www.ntt.com/business/services/network/internet-connect/ocn-business/ocn/customer/set_up/tech_1.html
-DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp,PROXY
-DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp,PROXY
+DOMAIN-SUFFIX,ntp-tk01.ocn.ad.jp
+DOMAIN-SUFFIX,ntp-tk02.ocn.ad.jp
+DOMAIN-SUFFIX,ntp-os01.ocn.ad.jp
 
 # plala: https://mainte.plala.or.jp/support/manual/internet/setup/
-DOMAIN-SUFFIX,ntp1.plala.or.jp,PROXY
-DOMAIN-SUFFIX,ntp2.plala.or.jp,PROXY
+DOMAIN-SUFFIX,ntp1.plala.or.jp
+DOMAIN-SUFFIX,ntp2.plala.or.jp
 
 # Ring Server Project: http://www.ring.gr.jp/ring/ntp.html.ja
-DOMAIN-SUFFIX,ntp.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp0.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp1.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp2.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp.t.ring.gr.jp,PROXY
-DOMAIN-SUFFIX,ntp.dnsbalance.ring.gr.jp,PROXY
+DOMAIN-SUFFIX,ntp.ring.gr.jp
+DOMAIN-SUFFIX,ntp0.ring.gr.jp
+DOMAIN-SUFFIX,ntp1.ring.gr.jp
+DOMAIN-SUFFIX,ntp2.ring.gr.jp
+DOMAIN-SUFFIX,ntp.t.ring.gr.jp
+DOMAIN-SUFFIX,ntp.dnsbalance.ring.gr.jp
 
 # 東京大学(The University of Tokyo)
-DOMAIN-SUFFIX,ntp.nc.u-tokyo.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.nc.u-tokyo.ac.jp
 
 # 東北大学(TOHOKU UNIVERSITY): https://www.tains.tohoku.ac.jp/contents/information/server-info.html
-DOMAIN-SUFFIX,ntp.tohoku.ac.jp,PROXY
-DOMAIN-SUFFIX,ntp1.tohoku.ac.jp,PROXY
-DOMAIN-SUFFIX,ntp2.tohoku.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp1.tohoku.ac.jp
+DOMAIN-SUFFIX,ntp2.tohoku.ac.jp
 
 # 豊橋技術科学大学(Toyohashi University of Technology): https://imc.tut.ac.jp/misc/
-DOMAIN-SUFFIX,ntp.tut.ac.jp,PROXY
+DOMAIN-SUFFIX,ntp.tut.ac.jp
 
 # WAKWAK: https://www.wakwak.com/prl/support/g_internet/server_wakwak.html
-DOMAIN-SUFFIX,ntp1.wakwak.com,PROXY
-DOMAIN-SUFFIX,ntp2.wakwak.com,PROXY
+DOMAIN-SUFFIX,ntp1.wakwak.com
+DOMAIN-SUFFIX,ntp2.wakwak.com
 #end include:category-ntp-jp
 
 # Apple
 # regexp:^time(.euro)?.apple.com$
-DOMAIN,time.apple.com,PROXY
-DOMAIN,time.asia.apple.com,PROXY
-DOMAIN,time.euro.apple.com,PROXY
+DOMAIN,time.apple.com
+DOMAIN,time.asia.apple.com
+DOMAIN,time.euro.apple.com
 
 # AWS
-DOMAIN,time.aws.com,PROXY
+DOMAIN,time.aws.com
 
 # Cloudflare
-DOMAIN,time.cloudflare.com,PROXY
+DOMAIN,time.cloudflare.com
 
 # Facebook
 # regexp:^time([1-5])?\.facebook\.com$
-DOMAIN,time.facebook.com,PROXY
-DOMAIN,time1.facebook.com,PROXY
-DOMAIN,time2.facebook.com,PROXY
-DOMAIN,time3.facebook.com,PROXY
-DOMAIN,time4.facebook.com,PROXY
-DOMAIN,time5.facebook.com,PROXY
+DOMAIN,time.facebook.com
+DOMAIN,time1.facebook.com
+DOMAIN,time2.facebook.com
+DOMAIN,time3.facebook.com
+DOMAIN,time4.facebook.com
+DOMAIN,time5.facebook.com
 
 # Google
 # regexp:^time([1-4])?.google.com$
-DOMAIN,time.google.com,PROXY
-DOMAIN,time1.google.com,PROXY
-DOMAIN,time2.google.com,PROXY
-DOMAIN,time3.google.com,PROXY
-DOMAIN,time4.google.com,PROXY
+DOMAIN,time.google.com
+DOMAIN,time1.google.com
+DOMAIN,time2.google.com
+DOMAIN,time3.google.com
+DOMAIN,time4.google.com
 
 # Ubuntu
-DOMAIN,ntp.ubuntu.com,PROXY
+DOMAIN,ntp.ubuntu.com
 
 # Windows
-DOMAIN,time.windows.com,PROXY
+DOMAIN,time.windows.com
 
 # NIST: https://tf.nist.gov/tf-cgi/servers.cgi
 # regexp:^((((ut1-wwv)|(ntp\-(b|d|wwv))|(time(\-(([a-e]\-(g|b))|([a-e]\-wwv)))?))\.nist\.gov)|((ntp-c|ut1-time)|(utcnist(2|3)?))\.colorado\.edu)$
-DOMAIN,ut1-wwv.nist.gov,PROXY
-DOMAIN,ntp-b.nist.gov,PROXY
-DOMAIN,ntp-d.nist.gov,PROXY
-DOMAIN,ntp-wwv.nist.gov,PROXY
-DOMAIN,time.nist.gov,PROXY
-DOMAIN,time-a-g.nist.gov,PROXY
-DOMAIN,time-b-g.nist.gov,PROXY
-DOMAIN,time-c-g.nist.gov,PROXY
-DOMAIN,time-d-g.nist.gov,PROXY
-DOMAIN,time-e-g.nist.gov,PROXY
-DOMAIN,time-a-b.nist.gov,PROXY
-DOMAIN,time-b-b.nist.gov,PROXY
-DOMAIN,time-c-b.nist.gov,PROXY
-DOMAIN,time-d-b.nist.gov,PROXY
-DOMAIN,time-e-b.nist.gov,PROXY
-DOMAIN,time-a-wwv.nist.gov,PROXY
-DOMAIN,time-b-wwv.nist.gov,PROXY
-DOMAIN,time-c-wwv.nist.gov,PROXY
-DOMAIN,time-d-wwv.nist.gov,PROXY
-DOMAIN,time-e-wwv.nist.gov,PROXY
-DOMAIN,ntp-c.colorado.edu,PROXY
-DOMAIN,ut1-time.colorado.edu,PROXY
-DOMAIN,utcnist.colorado.edu,PROXY
-DOMAIN,utcnist2.colorado.edu,PROXY
-DOMAIN,utcnist3.colorado.edu,PROXY
+DOMAIN,ut1-wwv.nist.gov
+DOMAIN,ntp-b.nist.gov
+DOMAIN,ntp-d.nist.gov
+DOMAIN,ntp-wwv.nist.gov
+DOMAIN,time.nist.gov
+DOMAIN,time-a-g.nist.gov
+DOMAIN,time-b-g.nist.gov
+DOMAIN,time-c-g.nist.gov
+DOMAIN,time-d-g.nist.gov
+DOMAIN,time-e-g.nist.gov
+DOMAIN,time-a-b.nist.gov
+DOMAIN,time-b-b.nist.gov
+DOMAIN,time-c-b.nist.gov
+DOMAIN,time-d-b.nist.gov
+DOMAIN,time-e-b.nist.gov
+DOMAIN,time-a-wwv.nist.gov
+DOMAIN,time-b-wwv.nist.gov
+DOMAIN,time-c-wwv.nist.gov
+DOMAIN,time-d-wwv.nist.gov
+DOMAIN,time-e-wwv.nist.gov
+DOMAIN,ntp-c.colorado.edu
+DOMAIN,ut1-time.colorado.edu
+DOMAIN,utcnist.colorado.edu
+DOMAIN,utcnist2.colorado.edu
+DOMAIN,utcnist3.colorado.edu
 
 # NTP-servers: https://ntp-servers.net/servers.html
 # regexp:^ntp[0-7]\.ntp-servers\.net$
-DOMAIN,ntp0.ntp-servers.net,PROXY
-DOMAIN,ntp1.ntp-servers.net,PROXY
-DOMAIN,ntp2.ntp-servers.net,PROXY
-DOMAIN,ntp3.ntp-servers.net,PROXY
-DOMAIN,ntp4.ntp-servers.net,PROXY
-DOMAIN,ntp5.ntp-servers.net,PROXY
-DOMAIN,ntp6.ntp-servers.net,PROXY
-DOMAIN,ntp7.ntp-servers.net,PROXY
+DOMAIN,ntp0.ntp-servers.net
+DOMAIN,ntp1.ntp-servers.net
+DOMAIN,ntp2.ntp-servers.net
+DOMAIN,ntp3.ntp-servers.net
+DOMAIN,ntp4.ntp-servers.net
+DOMAIN,ntp5.ntp-servers.net
+DOMAIN,ntp6.ntp-servers.net
+DOMAIN,ntp7.ntp-servers.net
 
-DOMAIN-SUFFIX,clock.isc.org,PROXY
-DOMAIN-SUFFIX,ntp.fiord.ru,PROXY
-DOMAIN-SUFFIX,ntp.nat.ms,PROXY
-DOMAIN-SUFFIX,ntp.nic.cz,PROXY
-DOMAIN-SUFFIX,ntp.ripe.net,PROXY
-DOMAIN-SUFFIX,ntp.se,PROXY
-DOMAIN-SUFFIX,ntp.ufe.cz,PROXY
-DOMAIN-SUFFIX,pool.ntp.org,PROXY
-DOMAIN-SUFFIX,time.nrc.ca,PROXY
+DOMAIN-SUFFIX,clock.isc.org
+DOMAIN-SUFFIX,ntp.fiord.ru
+DOMAIN-SUFFIX,ntp.nat.ms
+DOMAIN-SUFFIX,ntp.nic.cz
+DOMAIN-SUFFIX,ntp.ripe.net
+DOMAIN-SUFFIX,ntp.se
+DOMAIN-SUFFIX,ntp.ufe.cz
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,time.nrc.ca
 #end include:category-ntp
 
 #include:rsshub
-DOMAIN-SUFFIX,rsshub.app,PROXY
+DOMAIN-SUFFIX,rsshub.app
 #end include:rsshub
 #include:rsshub-3rd
-DOMAIN,holoxx.f5.si,PROXY
-DOMAIN,hub.slarker.me,PROXY
-DOMAIN,rss.4040940.xyz,PROXY
-DOMAIN,rss.datuan.dev,PROXY
-DOMAIN,rss.littlebaby.life,PROXY
-DOMAIN,rss.owo.nz,PROXY
-DOMAIN,rss.wudifeixue.com,PROXY
-DOMAIN,rsshub.asailor.org,PROXY
-DOMAIN,rsshub.email-once.com,PROXY
-DOMAIN,rsshub.henry.wang,PROXY
-DOMAIN,rsshub.isrss.com,PROXY
-DOMAIN,rsshub.ktachibana.party,PROXY
-DOMAIN,rsshub.pseudoyu.com,PROXY
-DOMAIN,rsshub.rss.tips,PROXY
-DOMAIN,rsshub.rssforever.com,PROXY
-DOMAIN,rsshub.umzzz.com,PROXY
-DOMAIN,rsshub.woodland.cafe,PROXY
-DOMAIN,rsshub2.asailor.org,PROXY
-DOMAIN,yangzhi.app,PROXY
+DOMAIN,holoxx.f5.si
+DOMAIN,hub.slarker.me
+DOMAIN,rss.4040940.xyz
+DOMAIN,rss.datuan.dev
+DOMAIN,rss.littlebaby.life
+DOMAIN,rss.owo.nz
+DOMAIN,rss.wudifeixue.com
+DOMAIN,rsshub.asailor.org
+DOMAIN,rsshub.email-once.com
+DOMAIN,rsshub.henry.wang
+DOMAIN,rsshub.isrss.com
+DOMAIN,rsshub.ktachibana.party
+DOMAIN,rsshub.pseudoyu.com
+DOMAIN,rsshub.rss.tips
+DOMAIN,rsshub.rssforever.com
+DOMAIN,rsshub.umzzz.com
+DOMAIN,rsshub.woodland.cafe
+DOMAIN,rsshub2.asailor.org
+DOMAIN,yangzhi.app
 #end include:rsshub-3rd
 
 #include:accuweather
-DOMAIN-SUFFIX,accuweather.com,PROXY
-DOMAIN-SUFFIX,awxcdn.com,PROXY
+DOMAIN-SUFFIX,accuweather.com
+DOMAIN-SUFFIX,awxcdn.com
 #end include:accuweather
 #include:adblock
-DOMAIN-SUFFIX,adblockcdn.com,PROXY
-DOMAIN-SUFFIX,getadblock.com,PROXY
+DOMAIN-SUFFIX,adblockcdn.com
+DOMAIN-SUFFIX,getadblock.com
 #end include:adblock
 #include:adblockplus
-DOMAIN-SUFFIX,adblockplus.org,PROXY
+DOMAIN-SUFFIX,adblockplus.org
 #end include:adblockplus
 #include:addthis
-DOMAIN-SUFFIX,addthis.com,PROXY
-DOMAIN-SUFFIX,addthiscdn.com,PROXY
-DOMAIN-SUFFIX,addthisedge.com,PROXY
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,addthisedge.com
 #end include:addthis
 #include:addtoany
-DOMAIN-SUFFIX,addtoany.com,PROXY
+DOMAIN-SUFFIX,addtoany.com
 #end include:addtoany
 #include:adguard
-DOMAIN-SUFFIX,adguardaccount.com,PROXY
-DOMAIN-SUFFIX,adguard.app,PROXY
-DOMAIN-SUFFIX,adguard.com,PROXY
-DOMAIN-SUFFIX,adguard.info,PROXY
-DOMAIN-SUFFIX,adguard.io,PROXY
-DOMAIN-SUFFIX,adguard.org,PROXY
-DOMAIN-SUFFIX,adtidy.net,PROXY
-DOMAIN-SUFFIX,adtidy.org,PROXY
-DOMAIN-SUFFIX,agrd.eu,PROXY
-DOMAIN-SUFFIX,agrd.io,PROXY
+DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguard.app
+DOMAIN-SUFFIX,adguard.com
+DOMAIN-SUFFIX,adguard.info
+DOMAIN-SUFFIX,adguard.io
+DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,adtidy.net
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,agrd.eu
+DOMAIN-SUFFIX,agrd.io
 
 # adguard dns
-DOMAIN-SUFFIX,adguard-dns.com,PROXY
-DOMAIN-SUFFIX,adguard-dns.io,PROXY
+DOMAIN-SUFFIX,adguard-dns.com
+DOMAIN-SUFFIX,adguard-dns.io
 
 # adguard mail
-DOMAIN-SUFFIX,adguard-mail.com,PROXY
-DOMAIN-SUFFIX,mask.me,PROXY
+DOMAIN-SUFFIX,adguard-mail.com
+DOMAIN-SUFFIX,mask.me
 
 # adguard vpn
-DOMAIN-SUFFIX,adguardvpn.com,PROXY
-DOMAIN-SUFFIX,adguard-vpn.com,PROXY
-DOMAIN-SUFFIX,adguard-vpn.online,PROXY
+DOMAIN-SUFFIX,adguardvpn.com
+DOMAIN-SUFFIX,adguard-vpn.com
+DOMAIN-SUFFIX,adguard-vpn.online
 #end include:adguard
 #include:aptoide
-DOMAIN-SUFFIX,aptoide.com,PROXY
+DOMAIN-SUFFIX,aptoide.com
 #end include:aptoide
 #include:arphic
-DOMAIN-SUFFIX,arphic.com,PROXY
-DOMAIN-SUFFIX,arphic.com.cn,PROXY
-DOMAIN-SUFFIX,arphic.com.tw,PROXY
+DOMAIN-SUFFIX,arphic.com
+DOMAIN-SUFFIX,arphic.com.cn
+DOMAIN-SUFFIX,arphic.com.tw
 
 # iFontCloud
-DOMAIN-SUFFIX,ifontcloud.com,PROXY
+DOMAIN-SUFFIX,ifontcloud.com
 #end include:arphic
 #include:bitly
-DOMAIN-SUFFIX,bit.ly,PROXY
-DOMAIN-SUFFIX,bitly.com,PROXY
-DOMAIN-SUFFIX,bitly.is,PROXY
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is
 #end include:bitly
 #include:blender
-DOMAIN-SUFFIX,bigbuckbunny.org,PROXY
-DOMAIN-SUFFIX,blender.org,PROXY
-DOMAIN-SUFFIX,elephantsdream.org,PROXY
+DOMAIN-SUFFIX,bigbuckbunny.org
+DOMAIN-SUFFIX,blender.org
+DOMAIN-SUFFIX,elephantsdream.org
 #end include:blender
 #include:brightcove
-DOMAIN-SUFFIX,bcove.video,PROXY
-DOMAIN-SUFFIX,bcovlive.io,PROXY
-DOMAIN-SUFFIX,bcvp0rtal.com,PROXY
-DOMAIN-SUFFIX,boltdns.net,PROXY
-DOMAIN-SUFFIX,brightcove.com,PROXY
-DOMAIN-SUFFIX,brightcove.net,PROXY
-DOMAIN-SUFFIX,brightcove.services,PROXY
-DOMAIN-SUFFIX,brightcovecdn.com,PROXY
-DOMAIN-SUFFIX,videojs.com,PROXY
-DOMAIN-SUFFIX,zencdn.net,PROXY
-DOMAIN-SUFFIX,zencoder.com,PROXY
+DOMAIN-SUFFIX,bcove.video
+DOMAIN-SUFFIX,bcovlive.io
+DOMAIN-SUFFIX,bcvp0rtal.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,brightcove.net
+DOMAIN-SUFFIX,brightcove.services
+DOMAIN-SUFFIX,brightcovecdn.com
+DOMAIN-SUFFIX,videojs.com
+DOMAIN-SUFFIX,zencdn.net
+DOMAIN-SUFFIX,zencoder.com
 
-DOMAIN,bcovlive-a.akamaihd.net,PROXY
-DOMAIN,bcsecure01-a.akamaihd.net,PROXY
-DOMAIN,brightcove.imgix.net,PROXY
+DOMAIN,bcovlive-a.akamaihd.net
+DOMAIN,bcsecure01-a.akamaihd.net
+DOMAIN,brightcove.imgix.net
 #end include:brightcove
 #include:buymeacoffee
-DOMAIN-SUFFIX,buymeacoff.ee,PROXY
-DOMAIN-SUFFIX,buymeacoffee.com,PROXY
+DOMAIN-SUFFIX,buymeacoff.ee
+DOMAIN-SUFFIX,buymeacoffee.com
 #end include:buymeacoffee
 #include:chatango
-DOMAIN-SUFFIX,chatango.com,PROXY
+DOMAIN-SUFFIX,chatango.com
 #end include:chatango
 #include:cloudconvert
-DOMAIN-SUFFIX,cloudconvert.com,PROXY
+DOMAIN-SUFFIX,cloudconvert.com
 #end include:cloudconvert
 #include:contentful
-DOMAIN-SUFFIX,contentful.com,PROXY
-DOMAIN-SUFFIX,ctfassets.net,PROXY
+DOMAIN-SUFFIX,contentful.com
+DOMAIN-SUFFIX,ctfassets.net
 #end include:contentful
 #include:cuttly
-DOMAIN-SUFFIX,cutt.ly,PROXY
+DOMAIN-SUFFIX,cutt.ly
 #end include:cuttly
 #include:digitalocean
-DOMAIN-SUFFIX,digitalocean.com,PROXY
-DOMAIN-SUFFIX,digitaloceanspaces.com,PROXY
-DOMAIN-SUFFIX,do.co,PROXY
-DOMAIN-SUFFIX,nginxconfig.io,PROXY
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,do.co
+DOMAIN-SUFFIX,nginxconfig.io
 #end include:digitalocean
 #include:disqus
 # Disqus, Inc.
 # Disqus offers the best add-on tools for websites to increase engagement.
 
-DOMAIN-SUFFIX,disqus.com,PROXY
-DOMAIN-SUFFIX,disquscdn.com,PROXY
-DOMAIN-SUFFIX,disqusservice.com,PROXY
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,disqusservice.com
 #end include:disqus
 #include:duckduckgo
-DOMAIN-SUFFIX,cispaletter.com,PROXY
-DOMAIN-SUFFIX,cispaletter.org,PROXY
-DOMAIN-SUFFIX,cometotheduckside.com,PROXY
-DOMAIN-SUFFIX,ddg.co,PROXY
-DOMAIN-SUFFIX,ddg.gg,PROXY
-DOMAIN-SUFFIX,ddh.gg,PROXY
-DOMAIN-SUFFIX,dgg.gg,PROXY
-DOMAIN-SUFFIX,dontbubble.us,PROXY
-DOMAIN-SUFFIX,donttrack.us,PROXY
-DOMAIN-SUFFIX,duck.co,PROXY
-DOMAIN-SUFFIX,duck.com,PROXY
-DOMAIN-SUFFIX,duckduckco.com,PROXY
-DOMAIN-SUFFIX,duckduckco.de,PROXY
-DOMAIN-SUFFIX,duckduckgo.ca,PROXY
-DOMAIN-SUFFIX,duckduckgo.co,PROXY
-DOMAIN-SUFFIX,duckduckgo.co.uk,PROXY
-DOMAIN-SUFFIX,duckduckgo.com,PROXY
-DOMAIN-SUFFIX,duckduckgo.com.mx,PROXY
-DOMAIN-SUFFIX,duckduckgo.com.tw,PROXY
-DOMAIN-SUFFIX,duckduckgo.de,PROXY
-DOMAIN-SUFFIX,duckduckgo.dk,PROXY
-DOMAIN-SUFFIX,duckduckgo.in,PROXY
-DOMAIN-SUFFIX,duckduckgo.jp,PROXY
-DOMAIN-SUFFIX,duckduckgo.ke,PROXY
-DOMAIN-SUFFIX,duckduckgo.mx,PROXY
-DOMAIN-SUFFIX,duckduckgo.nl,PROXY
-DOMAIN-SUFFIX,duckduckgo.org,PROXY
-DOMAIN-SUFFIX,duckduckgo.pl,PROXY
-DOMAIN-SUFFIX,duckduckgo.sg,PROXY
-DOMAIN-SUFFIX,duckduckgo.uk,PROXY
-DOMAIN-SUFFIX,duckduckhack.com,PROXY
-DOMAIN-SUFFIX,duckgo.com,PROXY
-DOMAIN-SUFFIX,ducksear.ch,PROXY
-DOMAIN-SUFFIX,duckside.com,PROXY
-DOMAIN-SUFFIX,dukgo.com,PROXY
-DOMAIN-SUFFIX,enteentegeh.de,PROXY
-DOMAIN-SUFFIX,fixtracking.com,PROXY
-DOMAIN-SUFFIX,goduckgo.com,PROXY
-DOMAIN-SUFFIX,hacksear.ch,PROXY
-DOMAIN-SUFFIX,justduckit.com,PROXY
-DOMAIN-SUFFIX,privacysimplified.com,PROXY
-DOMAIN-SUFFIX,privatebrowsingmyths.com,PROXY
-DOMAIN-SUFFIX,spreadprivacy.com,PROXY
+DOMAIN-SUFFIX,cispaletter.com
+DOMAIN-SUFFIX,cispaletter.org
+DOMAIN-SUFFIX,cometotheduckside.com
+DOMAIN-SUFFIX,ddg.co
+DOMAIN-SUFFIX,ddg.gg
+DOMAIN-SUFFIX,ddh.gg
+DOMAIN-SUFFIX,dgg.gg
+DOMAIN-SUFFIX,dontbubble.us
+DOMAIN-SUFFIX,donttrack.us
+DOMAIN-SUFFIX,duck.co
+DOMAIN-SUFFIX,duck.com
+DOMAIN-SUFFIX,duckduckco.com
+DOMAIN-SUFFIX,duckduckco.de
+DOMAIN-SUFFIX,duckduckgo.ca
+DOMAIN-SUFFIX,duckduckgo.co
+DOMAIN-SUFFIX,duckduckgo.co.uk
+DOMAIN-SUFFIX,duckduckgo.com
+DOMAIN-SUFFIX,duckduckgo.com.mx
+DOMAIN-SUFFIX,duckduckgo.com.tw
+DOMAIN-SUFFIX,duckduckgo.de
+DOMAIN-SUFFIX,duckduckgo.dk
+DOMAIN-SUFFIX,duckduckgo.in
+DOMAIN-SUFFIX,duckduckgo.jp
+DOMAIN-SUFFIX,duckduckgo.ke
+DOMAIN-SUFFIX,duckduckgo.mx
+DOMAIN-SUFFIX,duckduckgo.nl
+DOMAIN-SUFFIX,duckduckgo.org
+DOMAIN-SUFFIX,duckduckgo.pl
+DOMAIN-SUFFIX,duckduckgo.sg
+DOMAIN-SUFFIX,duckduckgo.uk
+DOMAIN-SUFFIX,duckduckhack.com
+DOMAIN-SUFFIX,duckgo.com
+DOMAIN-SUFFIX,ducksear.ch
+DOMAIN-SUFFIX,duckside.com
+DOMAIN-SUFFIX,dukgo.com
+DOMAIN-SUFFIX,enteentegeh.de
+DOMAIN-SUFFIX,fixtracking.com
+DOMAIN-SUFFIX,goduckgo.com
+DOMAIN-SUFFIX,hacksear.ch
+DOMAIN-SUFFIX,justduckit.com
+DOMAIN-SUFFIX,privacysimplified.com
+DOMAIN-SUFFIX,privatebrowsingmyths.com
+DOMAIN-SUFFIX,spreadprivacy.com
 #end include:duckduckgo
 #include:easylist
-DOMAIN-SUFFIX,easylist.to,PROXY
-DOMAIN-SUFFIX,lanik.us,PROXY
+DOMAIN-SUFFIX,easylist.to
+DOMAIN-SUFFIX,lanik.us
 #end include:easylist
 #include:entermediadb
-DOMAIN-SUFFIX,entermediadb.net,PROXY
-DOMAIN-SUFFIX,entermediadb.org,PROXY
+DOMAIN-SUFFIX,entermediadb.net
+DOMAIN-SUFFIX,entermediadb.org
 #end include:entermediadb
 #include:esri
-DOMAIN-SUFFIX,arcgis.com,PROXY
-DOMAIN-SUFFIX,arcgisonline.com,PROXY
-DOMAIN-SUFFIX,esri.com,PROXY
+DOMAIN-SUFFIX,arcgis.com
+DOMAIN-SUFFIX,arcgisonline.com
+DOMAIN-SUFFIX,esri.com
 #end include:esri
 #include:evernote
-DOMAIN-SUFFIX,evernote.com,PROXY
+DOMAIN-SUFFIX,evernote.com
 #end include:evernote
 #include:faststone
-DOMAIN-SUFFIX,faststone.org,PROXY
+DOMAIN-SUFFIX,faststone.org
 #end include:faststone
 #include:feedly
-DOMAIN-SUFFIX,feedly.com,PROXY
+DOMAIN-SUFFIX,feedly.com
 #end include:feedly
 #include:figma
-DOMAIN-SUFFIX,figma.com,PROXY
+DOMAIN-SUFFIX,figma.com
 #end include:figma
 #include:gofundme
-DOMAIN-SUFFIX,gofundme.com,PROXY
+DOMAIN-SUFFIX,gofundme.com
 #end include:gofundme
 #include:gravatar
-DOMAIN-SUFFIX,gravatar.com,PROXY
+DOMAIN-SUFFIX,gravatar.com
 #end include:gravatar
 #include:hcaptcha
-DOMAIN-SUFFIX,botstop.com,PROXY
-DOMAIN-SUFFIX,hcaptcha.com,PROXY
-DOMAIN-SUFFIX,hcaptchastatus.com,PROXY
+DOMAIN-SUFFIX,botstop.com
+DOMAIN-SUFFIX,hcaptcha.com
+DOMAIN-SUFFIX,hcaptchastatus.com
 #end include:hcaptcha
 #include:heroku
-DOMAIN-SUFFIX,heroku.co,PROXY
-DOMAIN-SUFFIX,heroku.com,PROXY
-DOMAIN-SUFFIX,heroku.me,PROXY
-DOMAIN-SUFFIX,herokuapp.com,PROXY
-DOMAIN-SUFFIX,herokucdn.com,PROXY
-DOMAIN-SUFFIX,herokucharge.com,PROXY
-DOMAIN-SUFFIX,herokussl.com,PROXY
-DOMAIN-SUFFIX,heroku-app.com,PROXY
-DOMAIN-SUFFIX,heroku-charge.com,PROXY
-DOMAIN-SUFFIX,codei.sh,PROXY
-DOMAIN-SUFFIX,codeish.co,PROXY
-DOMAIN-SUFFIX,codeish.io,PROXY
+DOMAIN-SUFFIX,heroku.co
+DOMAIN-SUFFIX,heroku.com
+DOMAIN-SUFFIX,heroku.me
+DOMAIN-SUFFIX,herokuapp.com
+DOMAIN-SUFFIX,herokucdn.com
+DOMAIN-SUFFIX,herokucharge.com
+DOMAIN-SUFFIX,herokussl.com
+DOMAIN-SUFFIX,heroku-app.com
+DOMAIN-SUFFIX,heroku-charge.com
+DOMAIN-SUFFIX,codei.sh
+DOMAIN-SUFFIX,codeish.co
+DOMAIN-SUFFIX,codeish.io
 #end include:heroku
 #include:hurricaneelectric
-DOMAIN-SUFFIX,he.net,PROXY
+DOMAIN-SUFFIX,he.net
 #end include:hurricaneelectric
 #include:iina
-DOMAIN-SUFFIX,iina.io,PROXY
+DOMAIN-SUFFIX,iina.io
 #end include:iina
 #include:infrapedia
-DOMAIN-SUFFIX,infrapedia.com,PROXY
+DOMAIN-SUFFIX,infrapedia.com
 #end include:infrapedia
 #include:inoreader
-DOMAIN-SUFFIX,inoreader.com,PROXY
+DOMAIN-SUFFIX,inoreader.com
 #end include:inoreader
 #include:isgd
-DOMAIN-SUFFIX,is.gd,PROXY
-DOMAIN-SUFFIX,v.gd,PROXY
+DOMAIN-SUFFIX,is.gd
+DOMAIN-SUFFIX,v.gd
 #end include:isgd
 #include:jwplayer
-DOMAIN-SUFFIX,jwpcdn.com,PROXY
-DOMAIN-SUFFIX,jwplatform.com,PROXY
-DOMAIN-SUFFIX,jwplayer.com,PROXY
-DOMAIN-SUFFIX,jwpltx.com,PROXY
-DOMAIN-SUFFIX,jwpsrv.com,PROXY
-DOMAIN-SUFFIX,longtailvideo.com,PROXY
+DOMAIN-SUFFIX,jwpcdn.com
+DOMAIN-SUFFIX,jwplatform.com
+DOMAIN-SUFFIX,jwplayer.com
+DOMAIN-SUFFIX,jwpltx.com
+DOMAIN-SUFFIX,jwpsrv.com
+DOMAIN-SUFFIX,longtailvideo.com
 #end include:jwplayer
 #include:kindle4rss
-DOMAIN-SUFFIX,kindle4rss.com,PROXY
+DOMAIN-SUFFIX,kindle4rss.com
 #end include:kindle4rss
 #include:kodi
-DOMAIN-SUFFIX,kodi.tv,PROXY
-DOMAIN-SUFFIX,kodi.wiki,PROXY
+DOMAIN-SUFFIX,kodi.tv
+DOMAIN-SUFFIX,kodi.wiki
 #end include:kodi
 #include:liberapay
-DOMAIN-SUFFIX,liberapay.com,PROXY
-DOMAIN-SUFFIX,liberapay.org,PROXY
+DOMAIN-SUFFIX,liberapay.com
+DOMAIN-SUFFIX,liberapay.org
 #end include:liberapay
 #include:linguee
-DOMAIN-SUFFIX,linguee.com,PROXY
-DOMAIN-SUFFIX,deepl.com,PROXY
+DOMAIN-SUFFIX,linguee.com
+DOMAIN-SUFFIX,deepl.com
 #end include:linguee
 #include:localizejs
-DOMAIN-SUFFIX,localizecdn.com,PROXY
-DOMAIN-SUFFIX,localizejs.com,PROXY
-DOMAIN-SUFFIX,localizestatus.com,PROXY
+DOMAIN-SUFFIX,localizecdn.com
+DOMAIN-SUFFIX,localizejs.com
+DOMAIN-SUFFIX,localizestatus.com
 #end include:localizejs
 #include:madshi
-DOMAIN-SUFFIX,madshi.net,PROXY
-DOMAIN-SUFFIX,madvr.com,PROXY
-DOMAIN-SUFFIX,madvr.net,PROXY
-DOMAIN-SUFFIX,madvrlabs.llc,PROXY
+DOMAIN-SUFFIX,madshi.net
+DOMAIN-SUFFIX,madvr.com
+DOMAIN-SUFFIX,madvr.net
+DOMAIN-SUFFIX,madvrlabs.llc
 #end include:madshi
 #include:mapbox
-DOMAIN-SUFFIX,mapbox.cn,PROXY
-DOMAIN-SUFFIX,mapbox.com,PROXY
+DOMAIN-SUFFIX,mapbox.cn
+DOMAIN-SUFFIX,mapbox.com
 #end include:mapbox
 #include:mega
-DOMAIN-SUFFIX,mega.co.nz,PROXY
-DOMAIN-SUFFIX,mega.io,PROXY
-DOMAIN-SUFFIX,mega.nz,PROXY
+DOMAIN-SUFFIX,mega.co.nz
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,mega.nz
 #end include:mega
 #include:netlify
-DOMAIN-SUFFIX,bitballoon.com,PROXY
-DOMAIN-SUFFIX,netlify.app,PROXY
-DOMAIN-SUFFIX,netlify.com,PROXY
-DOMAIN-SUFFIX,netlifystatus.com,PROXY
+DOMAIN-SUFFIX,bitballoon.com
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,netlify.com
+DOMAIN-SUFFIX,netlifystatus.com
 
-DOMAIN,d33wubrfki0l68.cloudfront.net,PROXY
+DOMAIN,d33wubrfki0l68.cloudfront.net
 #end include:netlify
 #include:notion
-DOMAIN-SUFFIX,api.notion.com,PROXY
-DOMAIN-SUFFIX,img.notionusercontent.com,PROXY
-DOMAIN-SUFFIX,notion-static.com,PROXY
-DOMAIN-SUFFIX,notion.com,PROXY
-DOMAIN-SUFFIX,notion.new,PROXY
-DOMAIN-SUFFIX,notion.site,PROXY
-DOMAIN-SUFFIX,notion.so,PROXY
-DOMAIN-SUFFIX,notionusercontent.com,PROXY
+DOMAIN-SUFFIX,api.notion.com
+DOMAIN-SUFFIX,img.notionusercontent.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notionusercontent.com
 #end include:notion
 #include:ok
-DOMAIN-SUFFIX,ok.ru,PROXY
+DOMAIN-SUFFIX,ok.ru
 #end include:ok
 #include:okaapps
-DOMAIN-SUFFIX,domain:okaapps.com,PROXY
+DOMAIN-SUFFIX,domain:okaapps.com
 
 # CN part of okaapps
-DOMAIN-WILDCARD,*zh.okaapps.com,PROXY
+DOMAIN-WILDCARD,*zh.okaapps.com
 #end include:okaapps
 #include:opencollective
-DOMAIN-SUFFIX,opencollective.com,PROXY
+DOMAIN-SUFFIX,opencollective.com
 #end include:opencollective
 #include:organicmaps
-DOMAIN-SUFFIX,omaps.app,PROXY
-DOMAIN-SUFFIX,organicmaps.app,PROXY
+DOMAIN-SUFFIX,omaps.app
+DOMAIN-SUFFIX,organicmaps.app
 #end include:organicmaps
 #include:pastebin
-DOMAIN-SUFFIX,pastebin.com,PROXY
+DOMAIN-SUFFIX,pastebin.com
 #end include:pastebin
 #include:patreon
-DOMAIN-SUFFIX,patreon.com,PROXY
-DOMAIN-SUFFIX,patreoncommunity.com,PROXY
-DOMAIN-SUFFIX,patreonusercontent.com,PROXY
+DOMAIN-SUFFIX,patreon.com
+DOMAIN-SUFFIX,patreoncommunity.com
+DOMAIN-SUFFIX,patreonusercontent.com
 
-DOMAIN,live-patreon-marketing.pantheonsite.io,PROXY
+DOMAIN,live-patreon-marketing.pantheonsite.io
 #end include:patreon
 #include:picsee
-DOMAIN-SUFFIX,pics.ee,PROXY
-DOMAIN-SUFFIX,picsee.co,PROXY
-DOMAIN-SUFFIX,picsee.pro,PROXY
-DOMAIN-SUFFIX,pise.pw,PROXY
-DOMAIN-SUFFIX,pros.ee,PROXY
-DOMAIN-SUFFIX,pse.is,PROXY
+DOMAIN-SUFFIX,pics.ee
+DOMAIN-SUFFIX,picsee.co
+DOMAIN-SUFFIX,picsee.pro
+DOMAIN-SUFFIX,pise.pw
+DOMAIN-SUFFIX,pros.ee
+DOMAIN-SUFFIX,pse.is
 #end include:picsee
 #include:pingpe
-DOMAIN-SUFFIX,ping.pe,PROXY
+DOMAIN-SUFFIX,ping.pe
 #end include:pingpe
 #include:pingsx
-DOMAIN-SUFFIX,ping.sx,PROXY
-DOMAIN,public-us-pingsx.api.clonoth.com,PROXY
+DOMAIN-SUFFIX,ping.sx
+DOMAIN,public-us-pingsx.api.clonoth.com
 #end include:pingsx
 #include:playcover
-DOMAIN-SUFFIX,playcover.io,PROXY
-DOMAIN-SUFFIX,playcover.workers.dev,PROXY
+DOMAIN-SUFFIX,playcover.io
+DOMAIN-SUFFIX,playcover.workers.dev
 #end include:playcover
 #include:quip
-DOMAIN-SUFFIX,quip-cdn.com,PROXY
-DOMAIN-SUFFIX,quip.com,PROXY
-DOMAIN-SUFFIX,quipelements.com,PROXY
+DOMAIN-SUFFIX,quip-cdn.com
+DOMAIN-SUFFIX,quip.com
+DOMAIN-SUFFIX,quipelements.com
 #end include:quip
 #include:reabble
-DOMAIN-SUFFIX,reabble.cn,PROXY
-DOMAIN-SUFFIX,reabble.com,PROXY
+DOMAIN-SUFFIX,reabble.cn
+DOMAIN-SUFFIX,reabble.com
 #end include:reabble
 #include:rebrandly
-DOMAIN-SUFFIX,rb.gy,PROXY
-DOMAIN-SUFFIX,rebrandly.com,PROXY
+DOMAIN-SUFFIX,rb.gy
+DOMAIN-SUFFIX,rebrandly.com
 #end include:rebrandly
 #include:reurl
-DOMAIN-SUFFIX,reurl.cc,PROXY
+DOMAIN-SUFFIX,reurl.cc
 #end include:reurl
 #include:sb
-DOMAIN-SUFFIX,dns.sb,PROXY
-DOMAIN-SUFFIX,ip.gs,PROXY
-DOMAIN-SUFFIX,ip.sb,PROXY
-DOMAIN-SUFFIX,loli.net,PROXY
-DOMAIN-SUFFIX,sb.sb,PROXY
-DOMAIN-SUFFIX,sm.ms,PROXY
-DOMAIN-SUFFIX,u.nu,PROXY
-DOMAIN-SUFFIX,www.sb,PROXY
+DOMAIN-SUFFIX,dns.sb
+DOMAIN-SUFFIX,ip.gs
+DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,sb.sb
+DOMAIN-SUFFIX,sm.ms
+DOMAIN-SUFFIX,u.nu
+DOMAIN-SUFFIX,www.sb
 #end include:sb
 #include:setapp
-DOMAIN-SUFFIX,setapp.com,PROXY
+DOMAIN-SUFFIX,setapp.com
 #end include:setapp
 #include:sharethis
-DOMAIN-SUFFIX,sharethis.com,PROXY
+DOMAIN-SUFFIX,sharethis.com
 #end include:sharethis
 #include:shopify
-DOMAIN-SUFFIX,myshopify.com,PROXY
-DOMAIN-SUFFIX,shop.app,PROXY
-DOMAIN-SUFFIX,shopify.com,PROXY
-DOMAIN-SUFFIX,shopify.dev,PROXY
-DOMAIN-SUFFIX,shopifycdn.com,PROXY
-DOMAIN-SUFFIX,shopifycloud.com,PROXY
-DOMAIN-SUFFIX,shopifystatus.com,PROXY
-DOMAIN-SUFFIX,shopifysvc.com,PROXY
+DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shop.app
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,shopifystatus.com
+DOMAIN-SUFFIX,shopifysvc.com
 #end include:shopify
 #include:shorturl
-DOMAIN-SUFFIX,shorturl.at,PROXY
+DOMAIN-SUFFIX,shorturl.at
 #end include:shorturl
 #include:slideshare
-DOMAIN-SUFFIX,slideshare.com,PROXY
-DOMAIN-SUFFIX,slideshare.net,PROXY
-DOMAIN-SUFFIX,slidesharecdn.com,PROXY
+DOMAIN-SUFFIX,slideshare.com
+DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,slidesharecdn.com
 #end include:slideshare
 #include:sourceforge
-DOMAIN-SUFFIX,sourceforge.com,PROXY
-DOMAIN-SUFFIX,sourceforge.net,PROXY
-DOMAIN-SUFFIX,sf.net,PROXY
-DOMAIN-SUFFIX,fsdn.com,PROXY
+DOMAIN-SUFFIX,sourceforge.com
+DOMAIN-SUFFIX,sourceforge.net
+DOMAIN-SUFFIX,sf.net
+DOMAIN-SUFFIX,fsdn.com
 #end include:sourceforge
 #include:squareup
-DOMAIN-SUFFIX,cash.app,PROXY
-DOMAIN-SUFFIX,cashbycashapp.com,PROXY
-DOMAIN-SUFFIX,gosq.co,PROXY
-DOMAIN-SUFFIX,gosq.com,PROXY
-DOMAIN-SUFFIX,issquaredown.com,PROXY
-DOMAIN-SUFFIX,issquareup.com,PROXY
-DOMAIN-SUFFIX,mkt.com,PROXY
-DOMAIN-SUFFIX,sellercommunity.com,PROXY
-DOMAIN-SUFFIX,squarecapital.com,PROXY
-DOMAIN-SUFFIX,squarecdn.com,PROXY
-DOMAIN-SUFFIX,squarecloudservices.com,PROXY
-DOMAIN-SUFFIX,squareup.com,PROXY
+DOMAIN-SUFFIX,cash.app
+DOMAIN-SUFFIX,cashbycashapp.com
+DOMAIN-SUFFIX,gosq.co
+DOMAIN-SUFFIX,gosq.com
+DOMAIN-SUFFIX,issquaredown.com
+DOMAIN-SUFFIX,issquareup.com
+DOMAIN-SUFFIX,mkt.com
+DOMAIN-SUFFIX,sellercommunity.com
+DOMAIN-SUFFIX,squarecapital.com
+DOMAIN-SUFFIX,squarecdn.com
+DOMAIN-SUFFIX,squarecloudservices.com
+DOMAIN-SUFFIX,squareup.com
 #end include:squareup
 #include:startpage
-DOMAIN-SUFFIX,startpage.com,PROXY
-DOMAIN-SUFFIX,ixquick.com,PROXY
+DOMAIN-SUFFIX,startpage.com
+DOMAIN-SUFFIX,ixquick.com
 #end include:startpage
 #include:steemit
-DOMAIN-SUFFIX,steemit.com,PROXY
+DOMAIN-SUFFIX,steemit.com
 #end include:steemit
 #include:svp
-DOMAIN-SUFFIX,svp-team.com,PROXY
+DOMAIN-SUFFIX,svp-team.com
 #end include:svp
 #include:test-ipv6
-DOMAIN-SUFFIX,ams2.test-ipv6.com,PROXY
-DOMAIN-SUFFIX,fra.test-ipv6.com,PROXY
-DOMAIN-SUFFIX,sixte.st,PROXY
-DOMAIN-SUFFIX,test-ipv6.alpinedc.ch,PROXY
-DOMAIN-SUFFIX,test-ipv6.arauc.br,PROXY
-DOMAIN-SUFFIX,test-ipv6.belwue.net,PROXY
-DOMAIN-SUFFIX,test-ipv6.carnet.hr,PROXY
-DOMAIN-SUFFIX,test-ipv6.cl,PROXY
-DOMAIN-SUFFIX,test-ipv6.com,PROXY
-DOMAIN-SUFFIX,test-ipv6.cs.umd.edu,PROXY
-DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca,PROXY
-DOMAIN-SUFFIX,test-ipv6.cz,PROXY
-DOMAIN-SUFFIX,test-ipv6.epic.network,PROXY
-DOMAIN-SUFFIX,test-ipv6.fratec.net,PROXY
-DOMAIN-SUFFIX,test-ipv6.freerangecloud.com,PROXY
-DOMAIN-SUFFIX,test-ipv6.go6.si,PROXY
-DOMAIN-SUFFIX,test-ipv6.hu,PROXY
-DOMAIN-SUFFIX,test-ipv6.is,PROXY
-DOMAIN-SUFFIX,test-ipv6.iu13.net,PROXY
-DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net,PROXY
-DOMAIN-SUFFIX,test-ipv6.noroutetohost.net,PROXY
-DOMAIN-SUFFIX,test-ipv6.roedu.net,PROXY
-DOMAIN-SUFFIX,test-ipv6.se,PROXY
-DOMAIN-SUFFIX,test-ipv6.sin.vr.org,PROXY
-DOMAIN-SUFFIX,test-ipv6.ttk.ru,PROXY
-DOMAIN-SUFFIX,testipv6.de,PROXY
+DOMAIN-SUFFIX,ams2.test-ipv6.com
+DOMAIN-SUFFIX,fra.test-ipv6.com
+DOMAIN-SUFFIX,sixte.st
+DOMAIN-SUFFIX,test-ipv6.alpinedc.ch
+DOMAIN-SUFFIX,test-ipv6.arauc.br
+DOMAIN-SUFFIX,test-ipv6.belwue.net
+DOMAIN-SUFFIX,test-ipv6.carnet.hr
+DOMAIN-SUFFIX,test-ipv6.cl
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,test-ipv6.cs.umd.edu
+DOMAIN-SUFFIX,test-ipv6.csclub.uwaterloo.ca
+DOMAIN-SUFFIX,test-ipv6.cz
+DOMAIN-SUFFIX,test-ipv6.epic.network
+DOMAIN-SUFFIX,test-ipv6.fratec.net
+DOMAIN-SUFFIX,test-ipv6.freerangecloud.com
+DOMAIN-SUFFIX,test-ipv6.go6.si
+DOMAIN-SUFFIX,test-ipv6.hu
+DOMAIN-SUFFIX,test-ipv6.is
+DOMAIN-SUFFIX,test-ipv6.iu13.net
+DOMAIN-SUFFIX,test-ipv6.ke.liquidtelecom.net
+DOMAIN-SUFFIX,test-ipv6.noroutetohost.net
+DOMAIN-SUFFIX,test-ipv6.roedu.net
+DOMAIN-SUFFIX,test-ipv6.se
+DOMAIN-SUFFIX,test-ipv6.sin.vr.org
+DOMAIN-SUFFIX,test-ipv6.ttk.ru
+DOMAIN-SUFFIX,testipv6.de
 
 # 豫ICP备20004384号
-DOMAIN-SUFFIX,testipv6.cn,PROXY
+DOMAIN-SUFFIX,testipv6.cn
 #end include:test-ipv6
 #include:tex
 # Comprehensive TeX Archive Network
-DOMAIN-SUFFIX,ctan.org,PROXY
+DOMAIN-SUFFIX,ctan.org
 
 # LaTeX
-DOMAIN-SUFFIX,latex-project.org,PROXY
+DOMAIN-SUFFIX,latex-project.org
 
 # MiKTeX
-DOMAIN-SUFFIX,miktex.org,PROXY
+DOMAIN-SUFFIX,miktex.org
 
 # TeX Users Group
-DOMAIN-SUFFIX,tug.org,PROXY
+DOMAIN-SUFFIX,tug.org
 #end include:tex
 #include:tidelift
-DOMAIN-SUFFIX,tidelift.com,PROXY
+DOMAIN-SUFFIX,tidelift.com
 #end include:tidelift
 #include:tinyurl
-DOMAIN-SUFFIX,tinyurl.com,PROXY
+DOMAIN-SUFFIX,tinyurl.com
 #end include:tinyurl
 #include:trello
-DOMAIN-SUFFIX,trello.com,PROXY
-DOMAIN-SUFFIX,trellocdn.com,PROXY
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,trellocdn.com
 #end include:trello
 #include:tumblr
-DOMAIN-SUFFIX,tumblr.com,PROXY
+DOMAIN-SUFFIX,tumblr.com
 #end include:tumblr
 #include:tutanota
-DOMAIN-SUFFIX,keemail.me,PROXY
-DOMAIN-SUFFIX,tuta.com,PROXY
-DOMAIN-SUFFIX,tuta.io,PROXY
-DOMAIN-SUFFIX,tutamail.com,PROXY
-DOMAIN-SUFFIX,tutanota.com,PROXY
-DOMAIN-SUFFIX,tutanota.de,PROXY
+DOMAIN-SUFFIX,keemail.me
+DOMAIN-SUFFIX,tuta.com
+DOMAIN-SUFFIX,tuta.io
+DOMAIN-SUFFIX,tutamail.com
+DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,tutanota.de
 #end include:tutanota
 #include:vercel
-DOMAIN-SUFFIX,ai-sdk.dev,PROXY
-DOMAIN-SUFFIX,err.sh,PROXY
-DOMAIN-SUFFIX,hyper.is,PROXY
-DOMAIN-SUFFIX,nextjs.org,PROXY
-DOMAIN-SUFFIX,now.sh,PROXY
-DOMAIN-SUFFIX,static.fun,PROXY
-DOMAIN-SUFFIX,title.sh,PROXY
-DOMAIN-SUFFIX,turborepo.org,PROXY
-DOMAIN-SUFFIX,vercel-dns.com,PROXY
-DOMAIN-SUFFIX,vercel-status.com,PROXY
-DOMAIN-SUFFIX,vercel.app,PROXY
-DOMAIN-SUFFIX,vercel.blog,PROXY
-DOMAIN-SUFFIX,vercel.com,PROXY
-DOMAIN-SUFFIX,vercel.dev,PROXY
-DOMAIN-SUFFIX,vercel.events,PROXY
-DOMAIN-SUFFIX,vercel.live,PROXY
-DOMAIN-SUFFIX,vercel.pub,PROXY
-DOMAIN-SUFFIX,vercel.sh,PROXY
-DOMAIN-SUFFIX,vercel.store,PROXY
-DOMAIN-SUFFIX,zeit-world.co.uk,PROXY
-DOMAIN-SUFFIX,zeit-world.com,PROXY
-DOMAIN-SUFFIX,zeit-world.net,PROXY
-DOMAIN-SUFFIX,zeit-world.org,PROXY
-DOMAIN-SUFFIX,zeit.co,PROXY
-DOMAIN-SUFFIX,zeit.sh,PROXY
-DOMAIN-SUFFIX,zeitworld.com,PROXY
+DOMAIN-SUFFIX,ai-sdk.dev
+DOMAIN-SUFFIX,err.sh
+DOMAIN-SUFFIX,hyper.is
+DOMAIN-SUFFIX,nextjs.org
+DOMAIN-SUFFIX,now.sh
+DOMAIN-SUFFIX,static.fun
+DOMAIN-SUFFIX,title.sh
+DOMAIN-SUFFIX,turborepo.org
+DOMAIN-SUFFIX,vercel-dns.com
+DOMAIN-SUFFIX,vercel-status.com
+DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,vercel.blog
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,vercel.dev
+DOMAIN-SUFFIX,vercel.events
+DOMAIN-SUFFIX,vercel.live
+DOMAIN-SUFFIX,vercel.pub
+DOMAIN-SUFFIX,vercel.sh
+DOMAIN-SUFFIX,vercel.store
+DOMAIN-SUFFIX,zeit-world.co.uk
+DOMAIN-SUFFIX,zeit-world.com
+DOMAIN-SUFFIX,zeit-world.net
+DOMAIN-SUFFIX,zeit-world.org
+DOMAIN-SUFFIX,zeit.co
+DOMAIN-SUFFIX,zeit.sh
+DOMAIN-SUFFIX,zeitworld.com
 #end include:vercel
 #include:webflow
-DOMAIN-SUFFIX,webflow.com,PROXY
+DOMAIN-SUFFIX,webflow.com
 #end include:webflow
 #include:wix
-DOMAIN-SUFFIX,editorx.com,PROXY
-DOMAIN-SUFFIX,parastorage.com,PROXY
-DOMAIN-SUFFIX,wix-code.com,PROXY
-DOMAIN-SUFFIX,wix.com,PROXY
-DOMAIN-SUFFIX,wixanswers.com,PROXY
-DOMAIN-SUFFIX,wixapps.net,PROXY
-DOMAIN-SUFFIX,wixmp.com,PROXY
-DOMAIN-SUFFIX,wixsite.com,PROXY
-DOMAIN-SUFFIX,wixstatic.com,PROXY
+DOMAIN-SUFFIX,editorx.com
+DOMAIN-SUFFIX,parastorage.com
+DOMAIN-SUFFIX,wix-code.com
+DOMAIN-SUFFIX,wix.com
+DOMAIN-SUFFIX,wixanswers.com
+DOMAIN-SUFFIX,wixapps.net
+DOMAIN-SUFFIX,wixmp.com
+DOMAIN-SUFFIX,wixsite.com
+DOMAIN-SUFFIX,wixstatic.com
 #end include:wix
 #include:wordpress
-DOMAIN-SUFFIX,videopress.com,PROXY
-DOMAIN-SUFFIX,w.org,PROXY
-DOMAIN-SUFFIX,wordpress.com,PROXY
-DOMAIN-SUFFIX,wordpress.org,PROXY
-DOMAIN-SUFFIX,wordpress.tv,PROXY
-DOMAIN-SUFFIX,wp-themes.com,PROXY
-DOMAIN-SUFFIX,wp.com,PROXY
-DOMAIN-SUFFIX,wpvip.com,PROXY
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wpvip.com
 #end include:wordpress
 #include:zendesk
-DOMAIN-SUFFIX,outbound.io,PROXY
-DOMAIN-SUFFIX,zdassets.com,PROXY
-DOMAIN-SUFFIX,zdusercontent.com,PROXY
-DOMAIN-SUFFIX,zendesk.com,PROXY
-DOMAIN-SUFFIX,zndsk.com,PROXY
-DOMAIN-SUFFIX,zopim.com,PROXY
+DOMAIN-SUFFIX,outbound.io
+DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdusercontent.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zndsk.com
+DOMAIN-SUFFIX,zopim.com
 #end include:zendesk
 #include:zeplin
-DOMAIN-SUFFIX,zeplin.dev,PROXY
-DOMAIN-SUFFIX,zeplin.io,PROXY
+DOMAIN-SUFFIX,zeplin.dev
+DOMAIN-SUFFIX,zeplin.io
 #end include:zeplin
 #include:zoho
-DOMAIN-SUFFIX,zoho.com,PROXY
-DOMAIN-SUFFIX,zoho.com.au,PROXY
-DOMAIN-SUFFIX,zoho.eu,PROXY
-DOMAIN-SUFFIX,zoho.in,PROXY
-DOMAIN-SUFFIX,zohocdn.com,PROXY
-DOMAIN-SUFFIX,zohomeetups.com,PROXY
-DOMAIN-SUFFIX,zohomerchandise.com,PROXY
-DOMAIN-SUFFIX,zohopublic.com,PROXY
-DOMAIN-SUFFIX,zohoschools.com,PROXY
-DOMAIN-SUFFIX,zohostatic.com,PROXY
-DOMAIN-SUFFIX,zohostatic.in,PROXY
-DOMAIN-SUFFIX,zohouniversity.com,PROXY
-DOMAIN-SUFFIX,zohowebstatic.com,PROXY
+DOMAIN-SUFFIX,zoho.com
+DOMAIN-SUFFIX,zoho.com.au
+DOMAIN-SUFFIX,zoho.eu
+DOMAIN-SUFFIX,zoho.in
+DOMAIN-SUFFIX,zohocdn.com
+DOMAIN-SUFFIX,zohomeetups.com
+DOMAIN-SUFFIX,zohomerchandise.com
+DOMAIN-SUFFIX,zohopublic.com
+DOMAIN-SUFFIX,zohoschools.com
+DOMAIN-SUFFIX,zohostatic.com
+DOMAIN-SUFFIX,zohostatic.in
+DOMAIN-SUFFIX,zohouniversity.com
+DOMAIN-SUFFIX,zohowebstatic.com
 #end include:zoho
 #include:zoom
-DOMAIN-SUFFIX,zoom.com,PROXY
-DOMAIN-SUFFIX,zoom.com.cn,PROXY
-DOMAIN-SUFFIX,zoom.us,PROXY
+DOMAIN-SUFFIX,zoom.com
+DOMAIN-SUFFIX,zoom.com.cn
+DOMAIN-SUFFIX,zoom.us
 #end include:zoom
 
-DOMAIN-SUFFIX,biliplus.com,PROXY    #BiliPlus
+DOMAIN-SUFFIX,biliplus.com    #BiliPlus
 
 # Graphing for Science and Engineering
-DOMAIN-SUFFIX,originlab.com,PROXY
+DOMAIN-SUFFIX,originlab.com
 
 # Online LaTeX Editor
-DOMAIN-SUFFIX,cloudlatex.io,PROXY
-DOMAIN-SUFFIX,overleaf.com,PROXY
+DOMAIN-SUFFIX,cloudlatex.io
+DOMAIN-SUFFIX,overleaf.com
 
 # Aurora Open Source Software (https://gitlab.com/AuroraOSS)
-DOMAIN-SUFFIX,auroraoss.com,PROXY
+DOMAIN-SUFFIX,auroraoss.com
 
 # CookiePro, provides cookies and tracking
-DOMAIN-SUFFIX,cookiepro.com,PROXY
-DOMAIN-SUFFIX,cookielaw.org,PROXY
-DOMAIN-SUFFIX,onetrust.com,PROXY
+DOMAIN-SUFFIX,cookiepro.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,onetrust.com
 
 # Software development
 
@@ -2497,199 +2497,199 @@ DOMAIN-SUFFIX,onetrust.com,PROXY
 # Torrent websites
 #include:1337x
 # Main domain
-DOMAIN-SUFFIX,1337x.to,PROXY
+DOMAIN-SUFFIX,1337x.to
 
 # Mirror domains
 # Reference: https://1337x.to/about
-DOMAIN-SUFFIX,1337x.gd,PROXY
-DOMAIN-SUFFIX,1337x.is,PROXY
-DOMAIN-SUFFIX,1337x.st,PROXY
-DOMAIN-SUFFIX,1337x.tw,PROXY
-DOMAIN-SUFFIX,1337xto.to,PROXY
-DOMAIN-SUFFIX,1337xx.to,PROXY
-DOMAIN-SUFFIX,x1337x.eu,PROXY
-DOMAIN-SUFFIX,x1337x.se,PROXY
-DOMAIN-SUFFIX,x1337x.ws,PROXY
+DOMAIN-SUFFIX,1337x.gd
+DOMAIN-SUFFIX,1337x.is
+DOMAIN-SUFFIX,1337x.st
+DOMAIN-SUFFIX,1337x.tw
+DOMAIN-SUFFIX,1337xto.to
+DOMAIN-SUFFIX,1337xx.to
+DOMAIN-SUFFIX,x1337x.eu
+DOMAIN-SUFFIX,x1337x.se
+DOMAIN-SUFFIX,x1337x.ws
 #end include:1337x
 #include:btdig
-DOMAIN-SUFFIX,btdig.com,PROXY
+DOMAIN-SUFFIX,btdig.com
 #end include:btdig
 #include:demonoid
-DOMAIN-SUFFIX,demonoid.is,PROXY
+DOMAIN-SUFFIX,demonoid.is
 #end include:demonoid
 #include:nyaa
-DOMAIN-SUFFIX,nyaa.net,PROXY
-DOMAIN-SUFFIX,nyaa.si,PROXY
+DOMAIN-SUFFIX,nyaa.net
+DOMAIN-SUFFIX,nyaa.si
 #end include:nyaa
 #include:piratebay
 # Piratebay forum
-DOMAIN-SUFFIX,pirates-forum.org,PROXY
+DOMAIN-SUFFIX,pirates-forum.org
 
 # Piratebay image hosting site
-DOMAIN-SUFFIX,torrindex.net,PROXY
+DOMAIN-SUFFIX,torrindex.net
 
 # Piratebay official site
-DOMAIN-SUFFIX,thepiratebay.org,PROXY
+DOMAIN-SUFFIX,thepiratebay.org
 
 # Piratebay related site
-DOMAIN-SUFFIX,apibay.org,PROXY
+DOMAIN-SUFFIX,apibay.org
 #end include:piratebay
 #include:rarbg
 # RARBG image hosting site
-DOMAIN-SUFFIX,dyncdn.me,PROXY
+DOMAIN-SUFFIX,dyncdn.me
 
 # RARBG official site
-DOMAIN-SUFFIX,rarbg.me,PROXY
-DOMAIN-SUFFIX,rarbg.to,PROXY
+DOMAIN-SUFFIX,rarbg.me
+DOMAIN-SUFFIX,rarbg.to
 
 # RARBG proxy sites
-DOMAIN-SUFFIX,proxyrarbg.org,PROXY
-DOMAIN-SUFFIX,rarbg.is,PROXY
-DOMAIN-SUFFIX,rarbgaccess.org,PROXY
-DOMAIN-SUFFIX,rarbgaccessed.org,PROXY
-DOMAIN-SUFFIX,rarbgget.org,PROXY
-DOMAIN-SUFFIX,rarbggo.org,PROXY
-DOMAIN-SUFFIX,rarbgmirror.com,PROXY
-DOMAIN-SUFFIX,rarbgmirror.org,PROXY
-DOMAIN-SUFFIX,rarbgproxy.org,PROXY
-DOMAIN-SUFFIX,rarbgprx.org,PROXY
-DOMAIN-SUFFIX,rarbgto.org,PROXY
-DOMAIN-SUFFIX,rarbgunblock.com,PROXY
-DOMAIN-SUFFIX,rarbgunblock.org,PROXY
-DOMAIN-SUFFIX,rarbgunblocked.org,PROXY
-DOMAIN-SUFFIX,rarbgway.org,PROXY
+DOMAIN-SUFFIX,proxyrarbg.org
+DOMAIN-SUFFIX,rarbg.is
+DOMAIN-SUFFIX,rarbgaccess.org
+DOMAIN-SUFFIX,rarbgaccessed.org
+DOMAIN-SUFFIX,rarbgget.org
+DOMAIN-SUFFIX,rarbggo.org
+DOMAIN-SUFFIX,rarbgmirror.com
+DOMAIN-SUFFIX,rarbgmirror.org
+DOMAIN-SUFFIX,rarbgproxy.org
+DOMAIN-SUFFIX,rarbgprx.org
+DOMAIN-SUFFIX,rarbgto.org
+DOMAIN-SUFFIX,rarbgunblock.com
+DOMAIN-SUFFIX,rarbgunblock.org
+DOMAIN-SUFFIX,rarbgunblocked.org
+DOMAIN-SUFFIX,rarbgway.org
 #end include:rarbg
 
 # User scripts
-DOMAIN-SUFFIX,greasyfork.org,PROXY
+DOMAIN-SUFFIX,greasyfork.org
 
 # VPN services
 
 # Wiki
 #include:fandom
-DOMAIN-SUFFIX,cursecdn.com,PROXY
-DOMAIN-SUFFIX,fandom.com,PROXY
-DOMAIN-SUFFIX,wikia.com,PROXY
-DOMAIN-SUFFIX,wikia.org,PROXY
+DOMAIN-SUFFIX,cursecdn.com
+DOMAIN-SUFFIX,fandom.com
+DOMAIN-SUFFIX,wikia.com
+DOMAIN-SUFFIX,wikia.org
 
 # D&D Beyond
-DOMAIN-SUFFIX,dndbeyond.com,PROXY
+DOMAIN-SUFFIX,dndbeyond.com
 
 # Futhead
-DOMAIN-SUFFIX,futhead.com,PROXY
+DOMAIN-SUFFIX,futhead.com
 
 # Gamepedia
-DOMAIN-SUFFIX,gamepedia.com,PROXY
+DOMAIN-SUFFIX,gamepedia.com
 
 # Muthead
-DOMAIN-SUFFIX,muthead.com,PROXY
+DOMAIN-SUFFIX,muthead.com
 
 # Cortex RPG
-DOMAIN-SUFFIX,cortexrpg.com,PROXY
+DOMAIN-SUFFIX,cortexrpg.com
 
 # Fanatical
-DOMAIN-SUFFIX,fanatical.com,PROXY
+DOMAIN-SUFFIX,fanatical.com
 
-DOMAIN-SUFFIX,wikia.nocookie.net,PROXY
-DOMAIN,fandom.zendesk.com,PROXY
+DOMAIN-SUFFIX,wikia.nocookie.net
+DOMAIN,fandom.zendesk.com
 #end include:fandom
 #include:miraheze
-DOMAIN-SUFFIX,miraheze.org,PROXY
+DOMAIN-SUFFIX,miraheze.org
 #end include:miraheze
 #include:scp
-DOMAIN-SUFFIX,scp-wiki.net,PROXY
-DOMAIN-SUFFIX,scpdb.org,PROXY
-DOMAIN-SUFFIX,scpwiki.com,PROXY
+DOMAIN-SUFFIX,scp-wiki.net
+DOMAIN-SUFFIX,scpdb.org
+DOMAIN-SUFFIX,scpwiki.com
 #end include:scp
 #include:translatewiki
-DOMAIN-SUFFIX,translatewiki.net,PROXY
-DOMAIN-SUFFIX,translatewiki.org,PROXY
+DOMAIN-SUFFIX,translatewiki.net
+DOMAIN-SUFFIX,translatewiki.org
 #end include:translatewiki
 #include:wikidot
-DOMAIN-SUFFIX,wdfiles.com,PROXY
-DOMAIN-SUFFIX,wikidot.com,PROXY
+DOMAIN-SUFFIX,wdfiles.com
+DOMAIN-SUFFIX,wikidot.com
 #end include:wikidot
 #include:wikihow
-DOMAIN-SUFFIX,wikihow.com,PROXY
+DOMAIN-SUFFIX,wikihow.com
 #end include:wikihow
 #include:wikimedia
-DOMAIN-SUFFIX,mediawiki.org,PROXY
-DOMAIN-SUFFIX,wikibooks.org,PROXY
-DOMAIN-SUFFIX,wikidata.org,PROXY
-DOMAIN-SUFFIX,wikimediafoundation.org,PROXY
-DOMAIN-SUFFIX,wikimedia.org,PROXY
-DOMAIN-SUFFIX,wikinews.org,PROXY
-DOMAIN-SUFFIX,wikipedia.org,PROXY
-DOMAIN-SUFFIX,wikiquote.org,PROXY
-DOMAIN-SUFFIX,wikisource.org,PROXY
-DOMAIN-SUFFIX,wikiversity.org,PROXY
-DOMAIN-SUFFIX,wikivoyage.org,PROXY
-DOMAIN-SUFFIX,wiktionary.org,PROXY
-DOMAIN-SUFFIX,wmfusercontent.org,PROXY
-DOMAIN-SUFFIX,w.wiki,PROXY
+DOMAIN-SUFFIX,mediawiki.org
+DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikidata.org
+DOMAIN-SUFFIX,wikimediafoundation.org
+DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikinews.org
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,wikiquote.org
+DOMAIN-SUFFIX,wikisource.org
+DOMAIN-SUFFIX,wikiversity.org
+DOMAIN-SUFFIX,wikivoyage.org
+DOMAIN-SUFFIX,wiktionary.org
+DOMAIN-SUFFIX,wmfusercontent.org
+DOMAIN-SUFFIX,w.wiki
 
 # Wikimedia Cloud Services
-DOMAIN-SUFFIX,toolforge.org,PROXY
-DOMAIN-SUFFIX,wikimediacloud.org,PROXY
-DOMAIN-SUFFIX,wmcloud.org,PROXY
-DOMAIN-SUFFIX,wmflabs.org,PROXY
+DOMAIN-SUFFIX,toolforge.org
+DOMAIN-SUFFIX,wikimediacloud.org
+DOMAIN-SUFFIX,wmcloud.org
+DOMAIN-SUFFIX,wmflabs.org
 #end include:wikimedia
 
-DOMAIN-SUFFIX,atwiki.jp,PROXY
-DOMAIN-SUFFIX,touhouwiki.net,PROXY
+DOMAIN-SUFFIX,atwiki.jp
+DOMAIN-SUFFIX,touhouwiki.net
 
 # Others
 #include:avaxhome
 # AvaxHome main site:
-DOMAIN-SUFFIX,avxhm.se,PROXY
+DOMAIN-SUFFIX,avxhm.se
 
 # AvaxHome mirror sites:
-DOMAIN-SUFFIX,avh.world,PROXY
-DOMAIN-SUFFIX,avxde.org,PROXY
-DOMAIN-SUFFIX,avxhm.is,PROXY
-DOMAIN-SUFFIX,avxlive.icu,PROXY
-DOMAIN-SUFFIX,xsava.xyz,PROXY
-DOMAIN-SUFFIX,zavat.pw,PROXY
+DOMAIN-SUFFIX,avh.world
+DOMAIN-SUFFIX,avxde.org
+DOMAIN-SUFFIX,avxhm.is
+DOMAIN-SUFFIX,avxlive.icu
+DOMAIN-SUFFIX,xsava.xyz
+DOMAIN-SUFFIX,zavat.pw
 #end include:avaxhome
 #include:dlsite
-DOMAIN-SUFFIX,chobit.cc,PROXY
-DOMAIN-SUFFIX,ci-en.jp,PROXY
-DOMAIN-SUFFIX,ci-en.net,PROXY
-DOMAIN-SUFFIX,dlsite.com,PROXY
-DOMAIN-SUFFIX,dlsite.com.tw,PROXY
-DOMAIN-SUFFIX,dlsite.jp,PROXY
-DOMAIN-SUFFIX,dlsitestudio.com,PROXY
-DOMAIN-SUFFIX,nijiyome.jp,PROXY
-DOMAIN-SUFFIX,triokini.com,PROXY
+DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,ci-en.jp
+DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dlsite.com.tw
+DOMAIN-SUFFIX,dlsite.jp
+DOMAIN-SUFFIX,dlsitestudio.com
+DOMAIN-SUFFIX,nijiyome.jp
+DOMAIN-SUFFIX,triokini.com
 #end include:dlsite
 #include:espressif
-DOMAIN-SUFFIX,espressif.com,PROXY
-DOMAIN-SUFFIX,esp32.com,PROXY
-DOMAIN-SUFFIX,esp8266.com,PROXY
+DOMAIN-SUFFIX,espressif.com
+DOMAIN-SUFFIX,esp32.com
+DOMAIN-SUFFIX,esp8266.com
 #end include:espressif
 #include:familymart
-DOMAIN-SUFFIX,famifun.com.tw,PROXY
-DOMAIN-SUFFIX,family.co.jp,PROXY
-DOMAIN-SUFFIX,family.com.tw,PROXY
-DOMAIN-SUFFIX,familymart.com.cn,PROXY
-DOMAIN-SUFFIX,familymart.com.my,PROXY
-DOMAIN-SUFFIX,familymart.com.ph,PROXY
-DOMAIN-SUFFIX,famima.vn,PROXY
+DOMAIN-SUFFIX,famifun.com.tw
+DOMAIN-SUFFIX,family.co.jp
+DOMAIN-SUFFIX,family.com.tw
+DOMAIN-SUFFIX,familymart.com.cn
+DOMAIN-SUFFIX,familymart.com.my
+DOMAIN-SUFFIX,familymart.com.ph
+DOMAIN-SUFFIX,famima.vn
 #end include:familymart
 #include:fzdm
-DOMAIN-SUFFIX,fzdm.com,PROXY
-DOMAIN-SUFFIX,fffdm.com,PROXY
+DOMAIN-SUFFIX,fzdm.com
+DOMAIN-SUFFIX,fffdm.com
 #end include:fzdm
 #include:hkedcity
-DOMAIN-SUFFIX,edcity.hk,PROXY
-DOMAIN-SUFFIX,hkedcity.net,PROXY
-DOMAIN-SUFFIX,hkreadingcity.net,PROXY
+DOMAIN-SUFFIX,edcity.hk
+DOMAIN-SUFFIX,hkedcity.net
+DOMAIN-SUFFIX,hkreadingcity.net
 #end include:hkedcity
 #include:huanghuagang
-DOMAIN-SUFFIX,huanghuagang.org,PROXY
+DOMAIN-SUFFIX,huanghuagang.org
 #end include:huanghuagang
 #include:lavteam
-DOMAIN-SUFFIX,lavteam.org,PROXY
+DOMAIN-SUFFIX,lavteam.org
 #end include:lavteam
 #include:mcdonalds
 # https://www.iana.org/domains/root/db/mcd.html
@@ -2699,184 +2699,184 @@ DOMAIN-SUFFIX,lavteam.org,PROXY
 # mcdonalds (Revoked)
 
 # McDonald's Australia
-DOMAIN-SUFFIX,happymeal.com.au,PROXY
-DOMAIN-SUFFIX,mcdelivery.com.au,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.au,PROXY
+DOMAIN-SUFFIX,happymeal.com.au
+DOMAIN-SUFFIX,mcdelivery.com.au
+DOMAIN-SUFFIX,mcdonalds.com.au
 
 # McDonald's China
-DOMAIN-SUFFIX,4008-517-517.cn,PROXY
-DOMAIN-SUFFIX,mcd.cn,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.cn,PROXY
+DOMAIN-SUFFIX,4008-517-517.cn
+DOMAIN-SUFFIX,mcd.cn
+DOMAIN-SUFFIX,mcdonalds.com.cn
 
 # McDonald's Hong Kong
-DOMAIN-SUFFIX,mcdonalds.hk,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.hk,PROXY
+DOMAIN-SUFFIX,mcdonalds.hk
+DOMAIN-SUFFIX,mcdonalds.com.hk
 
 # McDonald's India
-DOMAIN-SUFFIX,mcdelivery.co.in,PROXY
-DOMAIN-SUFFIX,mcdindia.com,PROXY
+DOMAIN-SUFFIX,mcdelivery.co.in
+DOMAIN-SUFFIX,mcdindia.com
 
 # McDonald's Indonesia
-DOMAIN-SUFFIX,mcdelivery.co.id,PROXY
-DOMAIN-SUFFIX,mcdindonesia.com,PROXY
-DOMAIN-SUFFIX,mcdonalds.co.id,PROXY
+DOMAIN-SUFFIX,mcdelivery.co.id
+DOMAIN-SUFFIX,mcdindonesia.com
+DOMAIN-SUFFIX,mcdonalds.co.id
 
 # McDonald's Japan
-DOMAIN-SUFFIX,mcdonalds.co.jp,PROXY
-DOMAIN-SUFFIX,mcdonalds-online.com,PROXY
-DOMAIN-SUFFIX,mcd-holdings.co.jp,PROXY
+DOMAIN-SUFFIX,mcdonalds.co.jp
+DOMAIN-SUFFIX,mcdonalds-online.com
+DOMAIN-SUFFIX,mcd-holdings.co.jp
 
 # McDonald's Korea
-DOMAIN-SUFFIX,mcdelivery.co.kr,PROXY
-DOMAIN-SUFFIX,mcdonalds.co.kr,PROXY
+DOMAIN-SUFFIX,mcdelivery.co.kr
+DOMAIN-SUFFIX,mcdonalds.co.kr
 
 # McDonald's Taiwan
-DOMAIN-SUFFIX,mcdelivery.com.tw,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.tw,PROXY
+DOMAIN-SUFFIX,mcdelivery.com.tw
+DOMAIN-SUFFIX,mcdonalds.com.tw
 
-DOMAIN-SUFFIX,aboutmcdonalds.com,PROXY
-DOMAIN-SUFFIX,happymeal.co.nz,PROXY
-DOMAIN-SUFFIX,happymeal.com,PROXY
-DOMAIN-SUFFIX,happymealdigital.com,PROXY
-DOMAIN-SUFFIX,mcd.com,PROXY
-DOMAIN-SUFFIX,mcdelivery.com.my,PROXY
-DOMAIN-SUFFIX,mcdelivery.com.ph,PROXY
-DOMAIN-SUFFIX,mcdelivery.com.sg,PROXY
-DOMAIN-SUFFIX,mcdonalds.be,PROXY
-DOMAIN-SUFFIX,mcdonalds.ca,PROXY
-DOMAIN-SUFFIX,mcdonalds.it,PROXY
-DOMAIN-SUFFIX,mcdonalds.no,PROXY
-DOMAIN-SUFFIX,mcdonalds.se,PROXY
-DOMAIN-SUFFIX,mcdonalds.co.nz,PROXY
-DOMAIN-SUFFIX,mcdonalds.co.uk,PROXY
-DOMAIN-SUFFIX,mcdonalds.com,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.lb,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.my,PROXY
-DOMAIN-SUFFIX,mcdonalds.com.ph,PROXY
-DOMAIN-SUFFIX,mcdonaldsapps.com,PROXY
-DOMAIN-SUFFIX,mcdonaldsarabia.com,PROXY
-DOMAIN-SUFFIX,mcdonaldsparties.co.nz,PROXY
+DOMAIN-SUFFIX,aboutmcdonalds.com
+DOMAIN-SUFFIX,happymeal.co.nz
+DOMAIN-SUFFIX,happymeal.com
+DOMAIN-SUFFIX,happymealdigital.com
+DOMAIN-SUFFIX,mcd.com
+DOMAIN-SUFFIX,mcdelivery.com.my
+DOMAIN-SUFFIX,mcdelivery.com.ph
+DOMAIN-SUFFIX,mcdelivery.com.sg
+DOMAIN-SUFFIX,mcdonalds.be
+DOMAIN-SUFFIX,mcdonalds.ca
+DOMAIN-SUFFIX,mcdonalds.it
+DOMAIN-SUFFIX,mcdonalds.no
+DOMAIN-SUFFIX,mcdonalds.se
+DOMAIN-SUFFIX,mcdonalds.co.nz
+DOMAIN-SUFFIX,mcdonalds.co.uk
+DOMAIN-SUFFIX,mcdonalds.com
+DOMAIN-SUFFIX,mcdonalds.com.lb
+DOMAIN-SUFFIX,mcdonalds.com.my
+DOMAIN-SUFFIX,mcdonalds.com.ph
+DOMAIN-SUFFIX,mcdonaldsapps.com
+DOMAIN-SUFFIX,mcdonaldsarabia.com
+DOMAIN-SUFFIX,mcdonaldsparties.co.nz
 #end include:mcdonalds
 #include:reagroup
-DOMAIN-SUFFIX,flatmates.com.au,PROXY
-DOMAIN-SUFFIX,hackday.com.au,PROXY
-DOMAIN-SUFFIX,hometrack.com.au,PROXY
-DOMAIN-SUFFIX,housing.com,PROXY
-DOMAIN-SUFFIX,housingcdn.com,PROXY
-DOMAIN-SUFFIX,inventorship.com.au,PROXY
-DOMAIN-SUFFIX,ippstatic.com,PROXY
-DOMAIN-SUFFIX,iproperty.com,PROXY
-DOMAIN-SUFFIX,iproperty.com.my,PROXY
-DOMAIN-SUFFIX,iproperty.com.sg,PROXY
-DOMAIN-SUFFIX,makaan.com,PROXY
-DOMAIN-SUFFIX,move.com,PROXY
-DOMAIN-SUFFIX,moveaws.com,PROXY
-DOMAIN-SUFFIX,myfun.com,PROXY
-DOMAIN-SUFFIX,property.com.au,PROXY
-DOMAIN-SUFFIX,proptiger.com,PROXY
-DOMAIN-SUFFIX,rea-asia.com,PROXY
-DOMAIN-SUFFIX,rea-group.com,PROXY
-DOMAIN-SUFFIX,rea.design,PROXY
-DOMAIN-SUFFIX,rea.global,PROXY
-DOMAIN-SUFFIX,rea.io,PROXY
-DOMAIN-SUFFIX,rea.tech,PROXY
-DOMAIN-SUFFIX,realcommercial.com.au,PROXY
-DOMAIN-SUFFIX,realestate.com.au,PROXY
-DOMAIN-SUFFIX,realtor.com,PROXY
-DOMAIN-SUFFIX,reastatic.net,PROXY
-DOMAIN-SUFFIX,rumah123.com,PROXY
-DOMAIN-SUFFIX,smartexpos.com,PROXY
-DOMAIN-SUFFIX,smartline.com.au,PROXY
-DOMAIN-SUFFIX,spacely.com.au,PROXY
-DOMAIN-SUFFIX,squarefoot.com.hk,PROXY
-DOMAIN-SUFFIX,thinkofliving.com,PROXY
+DOMAIN-SUFFIX,flatmates.com.au
+DOMAIN-SUFFIX,hackday.com.au
+DOMAIN-SUFFIX,hometrack.com.au
+DOMAIN-SUFFIX,housing.com
+DOMAIN-SUFFIX,housingcdn.com
+DOMAIN-SUFFIX,inventorship.com.au
+DOMAIN-SUFFIX,ippstatic.com
+DOMAIN-SUFFIX,iproperty.com
+DOMAIN-SUFFIX,iproperty.com.my
+DOMAIN-SUFFIX,iproperty.com.sg
+DOMAIN-SUFFIX,makaan.com
+DOMAIN-SUFFIX,move.com
+DOMAIN-SUFFIX,moveaws.com
+DOMAIN-SUFFIX,myfun.com
+DOMAIN-SUFFIX,property.com.au
+DOMAIN-SUFFIX,proptiger.com
+DOMAIN-SUFFIX,rea-asia.com
+DOMAIN-SUFFIX,rea-group.com
+DOMAIN-SUFFIX,rea.design
+DOMAIN-SUFFIX,rea.global
+DOMAIN-SUFFIX,rea.io
+DOMAIN-SUFFIX,rea.tech
+DOMAIN-SUFFIX,realcommercial.com.au
+DOMAIN-SUFFIX,realestate.com.au
+DOMAIN-SUFFIX,realtor.com
+DOMAIN-SUFFIX,reastatic.net
+DOMAIN-SUFFIX,rumah123.com
+DOMAIN-SUFFIX,smartexpos.com
+DOMAIN-SUFFIX,smartline.com.au
+DOMAIN-SUFFIX,spacely.com.au
+DOMAIN-SUFFIX,squarefoot.com.hk
+DOMAIN-SUFFIX,thinkofliving.com
 #end include:reagroup
 #include:scenesource
-DOMAIN-SUFFIX,predb.me,PROXY
-DOMAIN-SUFFIX,scenesource.me,PROXY
-DOMAIN-SUFFIX,scnsrc.me,PROXY
+DOMAIN-SUFFIX,predb.me
+DOMAIN-SUFFIX,scenesource.me
+DOMAIN-SUFFIX,scnsrc.me
 #end include:scenesource
 #include:starbucks
-DOMAIN-SUFFIX,sbux.com.my,PROXY
-DOMAIN-SUFFIX,sbuxcard.com,PROXY
-DOMAIN-SUFFIX,starbucks-stars.com,PROXY
-DOMAIN-SUFFIX,starbucks.ad,PROXY
-DOMAIN-SUFFIX,starbucks.at,PROXY
-DOMAIN-SUFFIX,starbucks.be,PROXY
-DOMAIN-SUFFIX,starbucks.bg,PROXY
-DOMAIN-SUFFIX,starbucks.ca,PROXY
-DOMAIN-SUFFIX,starbucks.ch,PROXY
-DOMAIN-SUFFIX,starbucks.co.id,PROXY
-DOMAIN-SUFFIX,starbucks.co.jp,PROXY
-DOMAIN-SUFFIX,starbucks.co.nz,PROXY
-DOMAIN-SUFFIX,starbucks.co.th,PROXY
-DOMAIN-SUFFIX,starbucks.co.uk,PROXY
-DOMAIN-SUFFIX,starbucks.co.za,PROXY
-DOMAIN-SUFFIX,starbucks.com,PROXY
-DOMAIN-SUFFIX,starbucks.com.ar,PROXY
-DOMAIN-SUFFIX,starbucks.com.bn,PROXY
-DOMAIN-SUFFIX,starbucks.com.cn,PROXY
-DOMAIN-SUFFIX,starbucks.com.co,PROXY
-DOMAIN-SUFFIX,starbucks.com.cy,PROXY
-DOMAIN-SUFFIX,starbucks.com.gr,PROXY
-DOMAIN-SUFFIX,starbucks.com.hk,PROXY
-DOMAIN-SUFFIX,starbucks.com.kh,PROXY
-DOMAIN-SUFFIX,starbucks.com.kz,PROXY
-DOMAIN-SUFFIX,starbucks.com.mx,PROXY
-DOMAIN-SUFFIX,starbucks.com.my,PROXY
-DOMAIN-SUFFIX,starbucks.com.pe,PROXY
-DOMAIN-SUFFIX,starbucks.com.sg,PROXY
-DOMAIN-SUFFIX,starbucks.com.tr,PROXY
-DOMAIN-SUFFIX,starbucks.com.uy,PROXY
-DOMAIN-SUFFIX,starbucks.de,PROXY
-DOMAIN-SUFFIX,starbucks.dk,PROXY
-DOMAIN-SUFFIX,starbucks.es,PROXY
-DOMAIN-SUFFIX,starbucks.fr,PROXY
-DOMAIN-SUFFIX,starbucks.hu,PROXY
-DOMAIN-SUFFIX,starbucks.ie,PROXY
-DOMAIN-SUFFIX,starbucks.in,PROXY
-DOMAIN-SUFFIX,starbucks.it,PROXY
-DOMAIN-SUFFIX,starbucks.nl,PROXY
-DOMAIN-SUFFIX,starbucks.no,PROXY
-DOMAIN-SUFFIX,starbucks.ph,PROXY
-DOMAIN-SUFFIX,starbucks.pl,PROXY
-DOMAIN-SUFFIX,starbucks.pt,PROXY
-DOMAIN-SUFFIX,starbucks.rs,PROXY
-DOMAIN-SUFFIX,starbucks.ru,PROXY
-DOMAIN-SUFFIX,starbucks.se,PROXY
-DOMAIN-SUFFIX,starbucks.tt,PROXY
-DOMAIN-SUFFIX,starbucks.vn,PROXY
-DOMAIN-SUFFIX,starbucksathome.com,PROXY
-DOMAIN-SUFFIX,starbucksavie.ca,PROXY
-DOMAIN-SUFFIX,starbuckscard.ph,PROXY
-DOMAIN-SUFFIX,starbuckscardb2b.com,PROXY
-DOMAIN-SUFFIX,starbuckscoffee.cz,PROXY
-DOMAIN-SUFFIX,starbuckscoffeegear.com,PROXY
-DOMAIN-SUFFIX,starbuckscoffeegearstore.com,PROXY
-DOMAIN-SUFFIX,starbucksforlife.ca,PROXY
-DOMAIN-SUFFIX,starbucksforlife.com,PROXY
-DOMAIN-SUFFIX,starbuckspoq.com,PROXY
-DOMAIN-SUFFIX,starbucksreserve.com,PROXY
-DOMAIN-SUFFIX,starbucksrewardsstarland.ca,PROXY
-DOMAIN-SUFFIX,starbucksrewardsstarland.com,PROXY
-DOMAIN-SUFFIX,starbucksromania.ro,PROXY
-DOMAIN-SUFFIX,starbucksrtd.com,PROXY
-DOMAIN-SUFFIX,starbucksslovakia.sk,PROXY
-DOMAIN-SUFFIX,starbuckssummergame.ca,PROXY
-DOMAIN-SUFFIX,starbuckssummergame.com,PROXY
+DOMAIN-SUFFIX,sbux.com.my
+DOMAIN-SUFFIX,sbuxcard.com
+DOMAIN-SUFFIX,starbucks-stars.com
+DOMAIN-SUFFIX,starbucks.ad
+DOMAIN-SUFFIX,starbucks.at
+DOMAIN-SUFFIX,starbucks.be
+DOMAIN-SUFFIX,starbucks.bg
+DOMAIN-SUFFIX,starbucks.ca
+DOMAIN-SUFFIX,starbucks.ch
+DOMAIN-SUFFIX,starbucks.co.id
+DOMAIN-SUFFIX,starbucks.co.jp
+DOMAIN-SUFFIX,starbucks.co.nz
+DOMAIN-SUFFIX,starbucks.co.th
+DOMAIN-SUFFIX,starbucks.co.uk
+DOMAIN-SUFFIX,starbucks.co.za
+DOMAIN-SUFFIX,starbucks.com
+DOMAIN-SUFFIX,starbucks.com.ar
+DOMAIN-SUFFIX,starbucks.com.bn
+DOMAIN-SUFFIX,starbucks.com.cn
+DOMAIN-SUFFIX,starbucks.com.co
+DOMAIN-SUFFIX,starbucks.com.cy
+DOMAIN-SUFFIX,starbucks.com.gr
+DOMAIN-SUFFIX,starbucks.com.hk
+DOMAIN-SUFFIX,starbucks.com.kh
+DOMAIN-SUFFIX,starbucks.com.kz
+DOMAIN-SUFFIX,starbucks.com.mx
+DOMAIN-SUFFIX,starbucks.com.my
+DOMAIN-SUFFIX,starbucks.com.pe
+DOMAIN-SUFFIX,starbucks.com.sg
+DOMAIN-SUFFIX,starbucks.com.tr
+DOMAIN-SUFFIX,starbucks.com.uy
+DOMAIN-SUFFIX,starbucks.de
+DOMAIN-SUFFIX,starbucks.dk
+DOMAIN-SUFFIX,starbucks.es
+DOMAIN-SUFFIX,starbucks.fr
+DOMAIN-SUFFIX,starbucks.hu
+DOMAIN-SUFFIX,starbucks.ie
+DOMAIN-SUFFIX,starbucks.in
+DOMAIN-SUFFIX,starbucks.it
+DOMAIN-SUFFIX,starbucks.nl
+DOMAIN-SUFFIX,starbucks.no
+DOMAIN-SUFFIX,starbucks.ph
+DOMAIN-SUFFIX,starbucks.pl
+DOMAIN-SUFFIX,starbucks.pt
+DOMAIN-SUFFIX,starbucks.rs
+DOMAIN-SUFFIX,starbucks.ru
+DOMAIN-SUFFIX,starbucks.se
+DOMAIN-SUFFIX,starbucks.tt
+DOMAIN-SUFFIX,starbucks.vn
+DOMAIN-SUFFIX,starbucksathome.com
+DOMAIN-SUFFIX,starbucksavie.ca
+DOMAIN-SUFFIX,starbuckscard.ph
+DOMAIN-SUFFIX,starbuckscardb2b.com
+DOMAIN-SUFFIX,starbuckscoffee.cz
+DOMAIN-SUFFIX,starbuckscoffeegear.com
+DOMAIN-SUFFIX,starbuckscoffeegearstore.com
+DOMAIN-SUFFIX,starbucksforlife.ca
+DOMAIN-SUFFIX,starbucksforlife.com
+DOMAIN-SUFFIX,starbuckspoq.com
+DOMAIN-SUFFIX,starbucksreserve.com
+DOMAIN-SUFFIX,starbucksrewardsstarland.ca
+DOMAIN-SUFFIX,starbucksrewardsstarland.com
+DOMAIN-SUFFIX,starbucksromania.ro
+DOMAIN-SUFFIX,starbucksrtd.com
+DOMAIN-SUFFIX,starbucksslovakia.sk
+DOMAIN-SUFFIX,starbuckssummergame.ca
+DOMAIN-SUFFIX,starbuckssummergame.com
 #end include:starbucks
 #include:tsquare
-DOMAIN-SUFFIX,tsquare.tv,PROXY
+DOMAIN-SUFFIX,tsquare.tv
 #end include:tsquare
 #include:windy
-DOMAIN-SUFFIX,windy.com,PROXY
+DOMAIN-SUFFIX,windy.com
 #end include:windy
 #include:xdty
-DOMAIN-SUFFIX,xdty.org,PROXY
+DOMAIN-SUFFIX,xdty.org
 #end include:xdty
 #include:xingrz
-DOMAIN-SUFFIX,xingrz.me,PROXY
+DOMAIN-SUFFIX,xingrz.me
 #end include:xingrz
 
 # 沉浸式翻译
-DOMAIN-SUFFIX,immersivetranslate.com,PROXY
+DOMAIN-SUFFIX,immersivetranslate.com

@@ -1,20 +1,20 @@
 # 海棠文化線上文學城
 
-DOMAIN-SUFFIX,haitangbook.com,PROXY
-DOMAIN-SUFFIX,haitbook.com,PROXY
-DOMAIN-SUFFIX,htlvbooks.com,PROXY
-DOMAIN-SUFFIX,htnewbooks.com,PROXY
-DOMAIN-SUFFIX,htwhbook.com,PROXY
-DOMAIN-SUFFIX,lmbooks.com,PROXY
-DOMAIN-SUFFIX,lmebooks.com,PROXY
-DOMAIN-SUFFIX,longmabook.com,PROXY
-DOMAIN-SUFFIX,longmabookcn.com,PROXY
-DOMAIN-SUFFIX,lovehtbooks.com,PROXY
-DOMAIN-SUFFIX,lvhtebook.com,PROXY
-DOMAIN-SUFFIX,mybookinlm.com,PROXY
-DOMAIN-SUFFIX,myhtebook.com,PROXY
-DOMAIN-SUFFIX,myhtebooks.com,PROXY
-DOMAIN-SUFFIX,myhtlmebook.com,PROXY
-DOMAIN-SUFFIX,newhtbook.com,PROXY
-DOMAIN-SUFFIX,urhtbooks.com,PROXY
+DOMAIN-SUFFIX,haitangbook.com
+DOMAIN-SUFFIX,haitbook.com
+DOMAIN-SUFFIX,htlvbooks.com
+DOMAIN-SUFFIX,htnewbooks.com
+DOMAIN-SUFFIX,htwhbook.com
+DOMAIN-SUFFIX,lmbooks.com
+DOMAIN-SUFFIX,lmebooks.com
+DOMAIN-SUFFIX,longmabook.com
+DOMAIN-SUFFIX,longmabookcn.com
+DOMAIN-SUFFIX,lovehtbooks.com
+DOMAIN-SUFFIX,lvhtebook.com
+DOMAIN-SUFFIX,mybookinlm.com
+DOMAIN-SUFFIX,myhtebook.com
+DOMAIN-SUFFIX,myhtebooks.com
+DOMAIN-SUFFIX,myhtlmebook.com
+DOMAIN-SUFFIX,newhtbook.com
+DOMAIN-SUFFIX,urhtbooks.com
 

@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,sto-express.cn,PROXY
-DOMAIN-SUFFIX,sto-express.com,PROXY
-DOMAIN-SUFFIX,sto-express.com.cn,PROXY
-DOMAIN-SUFFIX,sto.cn,PROXY
+DOMAIN-SUFFIX,sto-express.cn
+DOMAIN-SUFFIX,sto-express.com
+DOMAIN-SUFFIX,sto-express.com.cn
+DOMAIN-SUFFIX,sto.cn
 
 # 申通国际
-DOMAIN-SUFFIX,stointl.com,PROXY
-DOMAIN-SUFFIX,stosolution.com,PROXY
+DOMAIN-SUFFIX,stointl.com
+DOMAIN-SUFFIX,stosolution.com

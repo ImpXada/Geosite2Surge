@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,outbound.io,PROXY
-DOMAIN-SUFFIX,zdassets.com,PROXY
-DOMAIN-SUFFIX,zdusercontent.com,PROXY
-DOMAIN-SUFFIX,zendesk.com,PROXY
-DOMAIN-SUFFIX,zndsk.com,PROXY
-DOMAIN-SUFFIX,zopim.com,PROXY
+DOMAIN-SUFFIX,outbound.io
+DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdusercontent.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zndsk.com
+DOMAIN-SUFFIX,zopim.com

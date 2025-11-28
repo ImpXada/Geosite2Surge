@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,digitalocean.com,PROXY
-DOMAIN-SUFFIX,digitaloceanspaces.com,PROXY
-DOMAIN-SUFFIX,do.co,PROXY
-DOMAIN-SUFFIX,nginxconfig.io,PROXY
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,digitaloceanspaces.com
+DOMAIN-SUFFIX,do.co
+DOMAIN-SUFFIX,nginxconfig.io

@@ -1,11 +1,11 @@
-DOMAIN-SUFFIX,openmaps.org,PROXY
-DOMAIN-SUFFIX,openstreetmap.com,PROXY
-DOMAIN-SUFFIX,openstreetmap.net,PROXY
-DOMAIN-SUFFIX,openstreetmap.org,PROXY
-DOMAIN-SUFFIX,openstreetmaps.org,PROXY
-DOMAIN-SUFFIX,osm.org,PROXY
-DOMAIN-SUFFIX,osmfoundation.org,PROXY
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
 
 # State of the Map
-DOMAIN-SUFFIX,stateofthemap.com,PROXY
-DOMAIN-SUFFIX,stateofthemap.org,PROXY
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org

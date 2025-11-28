@@ -1,13 +1,13 @@
 #include:facebook-ads
-DOMAIN-SUFFIX,analytics.facebook.com,PROXY
-DOMAIN-SUFFIX,facebookads.com,PROXY
-DOMAIN-SUFFIX,pixel.facebook.com,PROXY
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,pixel.facebook.com
 #end include:facebook-ads
 #include:instagram-ads
-DOMAIN-SUFFIX,graph.instagram.com,PROXY
-DOMAIN-SUFFIX,graph-fallback.instagram.com,PROXY
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
 #end include:instagram-ads
 #include:whatsapp-ads
-DOMAIN-SUFFIX,graph.whatsapp.com,PROXY
-DOMAIN-SUFFIX,graph.whatsapp.net,PROXY
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
 #end include:whatsapp-ads

@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,aiasahi.jp,PROXY
-DOMAIN-SUFFIX,asagaku.com,PROXY
-DOMAIN-SUFFIX,asahi.com,PROXY
-DOMAIN-SUFFIX,asahicom.jp,PROXY
+DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,asagaku.com
+DOMAIN-SUFFIX,asahi.com
+DOMAIN-SUFFIX,asahicom.jp
 
-DOMAIN-SUFFIX,asakonet.co.jp,PROXY
-DOMAIN-SUFFIX,nikkansports.com,PROXY
-DOMAIN,asahishimbun.sc.omtrdc.net,PROXY
+DOMAIN-SUFFIX,asakonet.co.jp
+DOMAIN-SUFFIX,nikkansports.com
+DOMAIN,asahishimbun.sc.omtrdc.net

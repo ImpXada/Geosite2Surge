@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,okex.com,PROXY
-DOMAIN-SUFFIX,okx.com,PROXY
-DOMAIN-SUFFIX,okx-dns.com,PROXY
-DOMAIN-SUFFIX,okx-dns1.com,PROXY
-DOMAIN-SUFFIX,okx-dns2.com,PROXY
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
 
 # OKC Browser
-DOMAIN-SUFFIX,oklink.com,PROXY
+DOMAIN-SUFFIX,oklink.com

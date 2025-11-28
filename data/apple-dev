@@ -1,67 +1,67 @@
 #include:swift
-DOMAIN-SUFFIX,appleswift.com,PROXY
-DOMAIN-SUFFIX,swift.org,PROXY
-DOMAIN-SUFFIX,swiftui.cn,PROXY
-DOMAIN-SUFFIX,swiftui.com.cn,PROXY
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
 #end include:swift
 
 # Calendar and Contact Server
-DOMAIN-SUFFIX,calendarserver.org,PROXY
+DOMAIN-SUFFIX,calendarserver.org
 
 # CloudKit
-DOMAIN-SUFFIX,apple-cloudkit.com,PROXY
+DOMAIN-SUFFIX,apple-cloudkit.com
 
 # CUPS
-DOMAIN-SUFFIX,cups.org,PROXY
+DOMAIN-SUFFIX,cups.org
 
 # Developer
-DOMAIN-SUFFIX,developer.apple.com,PROXY
-DOMAIN-SUFFIX,devimages-cdn.apple.com,PROXY
-DOMAIN-SUFFIX,devstreaming-cdn.apple.com,PROXY
-DOMAIN-SUFFIX,developerservices2.apple.com,PROXY
-DOMAIN-SUFFIX,timestamp.apple.com,PROXY
-DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com,PROXY
-DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com,PROXY
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+DOMAIN-SUFFIX,developerservices2.apple.com
+DOMAIN-SUFFIX,timestamp.apple.com
+DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
+DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
 
 # FoundationDB
-DOMAIN-SUFFIX,foundationdb.org,PROXY
+DOMAIN-SUFFIX,foundationdb.org
 
 # macOS forge
-DOMAIN-SUFFIX,macosforge.org,PROXY
+DOMAIN-SUFFIX,macosforge.org
 
 # MacRuby
-DOMAIN-SUFFIX,macruby.com,PROXY
-DOMAIN-SUFFIX,macruby.net,PROXY
-DOMAIN-SUFFIX,macruby.org,PROXY
+DOMAIN-SUFFIX,macruby.com
+DOMAIN-SUFFIX,macruby.net
+DOMAIN-SUFFIX,macruby.org
 
 # MapKit
-DOMAIN-SUFFIX,apple-mapkit.com,PROXY
+DOMAIN-SUFFIX,apple-mapkit.com
 
 # Playgrounds
-DOMAIN-SUFFIX,playgrounds-cdn.apple.com,PROXY
+DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 
 # Research & Care
-DOMAIN-SUFFIX,carekit.org,PROXY
-DOMAIN-SUFFIX,researchandcare.org,PROXY
-DOMAIN-SUFFIX,researchkit.cn,PROXY
-DOMAIN-SUFFIX,researchkit.com.cn,PROXY
-DOMAIN-SUFFIX,researchkit.hk,PROXY
-DOMAIN-SUFFIX,researchkit.net,PROXY
-DOMAIN-SUFFIX,researchkit.org,PROXY
-DOMAIN-SUFFIX,researchkit.tv,PROXY
+DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,researchandcare.org
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,researchkit.hk
+DOMAIN-SUFFIX,researchkit.net
+DOMAIN-SUFFIX,researchkit.org
+DOMAIN-SUFFIX,researchkit.tv
 
 # ServiceTalk
-DOMAIN-SUFFIX,servicetalk.io,PROXY
+DOMAIN-SUFFIX,servicetalk.io
 
 # WebKit
-DOMAIN-SUFFIX,webkit.org,PROXY
-DOMAIN-SUFFIX,webkitgtk.org,PROXY
-DOMAIN-SUFFIX,wpewebkit.org,PROXY
+DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,webkitgtk.org
+DOMAIN-SUFFIX,wpewebkit.org
 
 # Other
-DOMAIN-SUFFIX,webobjects.com,PROXY
+DOMAIN-SUFFIX,webobjects.com
 
-DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net,PROXY
-DOMAIN,appleworldwidedeveloper.sc.omtrdc.net,PROXY
-DOMAIN,p-events-delivery.akamaized.net,PROXY
+DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
+DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN,p-events-delivery.akamaized.net
 

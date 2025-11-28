@@ -1,16 +1,16 @@
-DOMAIN-SUFFIX,first-ns.de,PROXY
-DOMAIN-SUFFIX,hetzner.cloud,PROXY
-DOMAIN-SUFFIX,hetzner.com,PROXY
-DOMAIN-SUFFIX,hetzner.company,PROXY
-DOMAIN-SUFFIX,hetzner.de,PROXY
-DOMAIN-SUFFIX,hetzner.social,PROXY
-DOMAIN-SUFFIX,htznr.li,PROXY
-DOMAIN-SUFFIX,second-ns.com,PROXY
-DOMAIN-SUFFIX,second-ns.de,PROXY
-DOMAIN-SUFFIX,your-objectstorage.com,PROXY
-DOMAIN-SUFFIX,your-server.de,PROXY
-DOMAIN-SUFFIX,your-storagebox.de,PROXY
-DOMAIN-SUFFIX,your-storageshare.de,PROXY
+DOMAIN-SUFFIX,first-ns.de
+DOMAIN-SUFFIX,hetzner.cloud
+DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hetzner.company
+DOMAIN-SUFFIX,hetzner.de
+DOMAIN-SUFFIX,hetzner.social
+DOMAIN-SUFFIX,htznr.li
+DOMAIN-SUFFIX,second-ns.com
+DOMAIN-SUFFIX,second-ns.de
+DOMAIN-SUFFIX,your-objectstorage.com
+DOMAIN-SUFFIX,your-server.de
+DOMAIN-SUFFIX,your-storagebox.de
+DOMAIN-SUFFIX,your-storageshare.de
 
 # tracking
-DOMAIN,sentry.hetzner.company,PROXY
+DOMAIN,sentry.hetzner.company

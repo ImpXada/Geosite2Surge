@@ -1,5 +1,5 @@
 # American Broadcasting Company
 
-DOMAIN-SUFFIX,abc-studios.com,PROXY
-DOMAIN-SUFFIX,abc.com,PROXY
-DOMAIN-SUFFIX,edgedatg.com,PROXY
+DOMAIN-SUFFIX,abc-studios.com
+DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,edgedatg.com

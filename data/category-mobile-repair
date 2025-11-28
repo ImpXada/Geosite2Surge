@@ -1,14 +1,14 @@
 #include:borneoschematics
-DOMAIN-SUFFIX,borneo.world,PROXY
-DOMAIN-SUFFIX,borneoasia.com,PROXY
-DOMAIN-SUFFIX,borneoschematic.com,PROXY
-DOMAIN-SUFFIX,bosharso.net,PROXY
-DOMAIN-SUFFIX,hostborneo.org,PROXY
+DOMAIN-SUFFIX,borneo.world
+DOMAIN-SUFFIX,borneoasia.com
+DOMAIN-SUFFIX,borneoschematic.com
+DOMAIN-SUFFIX,bosharso.net
+DOMAIN-SUFFIX,hostborneo.org
 #end include:borneoschematics
 #include:z3x-team
-DOMAIN-SUFFIX,easy-jtag.com,PROXY
-DOMAIN-SUFFIX,z3x-team.com,PROXY
+DOMAIN-SUFFIX,easy-jtag.com
+DOMAIN-SUFFIX,z3x-team.com
 #end include:z3x-team
 
-DOMAIN-SUFFIX,androidfilehost.com,PROXY
-DOMAIN-SUFFIX,unlocktool.net,PROXY
+DOMAIN-SUFFIX,androidfilehost.com
+DOMAIN-SUFFIX,unlocktool.net

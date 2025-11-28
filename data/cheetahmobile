@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,cmcm.com,PROXY
-DOMAIN-SUFFIX,cmcmcdn.com,PROXY
-DOMAIN-SUFFIX,liebao.cn,PROXY
+DOMAIN-SUFFIX,cmcm.com
+DOMAIN-SUFFIX,cmcmcdn.com
+DOMAIN-SUFFIX,liebao.cn
 
 # Antivirus
-DOMAIN-SUFFIX,duba.com,PROXY
-DOMAIN-SUFFIX,duba.net,PROXY
-DOMAIN-SUFFIX,ijinshan.com,PROXY
+DOMAIN-SUFFIX,duba.com
+DOMAIN-SUFFIX,duba.net
+DOMAIN-SUFFIX,ijinshan.com

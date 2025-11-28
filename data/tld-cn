@@ -1,42 +1,42 @@
 # Reference: https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
 
-DOMAIN-SUFFIX,cn,PROXY
-DOMAIN-SUFFIX,citic,PROXY
-DOMAIN-SUFFIX,baidu,PROXY
-DOMAIN-SUFFIX,unicom,PROXY
-DOMAIN-SUFFIX,sohu,PROXY
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,baidu
+DOMAIN-SUFFIX,unicom
+DOMAIN-SUFFIX,sohu
 
 # Reference: https://domain.miit.gov.cn
 # .香港 is ignored due to not in China mainland
-DOMAIN-SUFFIX,xn--fiqs8s,PROXY    #.中国
-DOMAIN-SUFFIX,xn--fiqz9s,PROXY    #.中國
-DOMAIN-SUFFIX,xn--zfr164b,PROXY    #.政务
-DOMAIN-SUFFIX,xn--55qw42g,PROXY    #.公益
-DOMAIN-SUFFIX,xn--55qx5d,PROXY    #.公司
-DOMAIN-SUFFIX,xn--io0a7i,PROXY    #.网络
-DOMAIN-SUFFIX,xn--ses554g,PROXY    #.网址
-DOMAIN-SUFFIX,xn--czru2d,PROXY    #.商城
-DOMAIN-SUFFIX,xn--hxt814e,PROXY    #.网店
-DOMAIN-SUFFIX,xn--fiq64b,PROXY    #.中信
-DOMAIN-SUFFIX,xn--czr694b,PROXY    #.商标
-DOMAIN-SUFFIX,xn--xhq521b,PROXY    #.广东
-DOMAIN-SUFFIX,xn--1qqw23a,PROXY    #.佛山
-DOMAIN-SUFFIX,xn--vuq861b,PROXY    #.信息
-DOMAIN-SUFFIX,xn--kput3i,PROXY    #.手机
-DOMAIN-SUFFIX,xn--3ds443g,PROXY    #.在线
-DOMAIN-SUFFIX,xn--fiq228c5hs,PROXY    #.中文网
-DOMAIN-SUFFIX,xn--3bst00m,PROXY    #.集团
-DOMAIN-SUFFIX,xn--6qq986b3xl,PROXY    #.我爱你
-DOMAIN-SUFFIX,xn--czrs0t,PROXY    #.商店
-DOMAIN-SUFFIX,xn--vhquv,PROXY    #.企业
-DOMAIN-SUFFIX,xn--fjq720a,PROXY    #.娱乐
-DOMAIN-SUFFIX,xn--unup4y,PROXY    #.游戏
-DOMAIN-SUFFIX,xn--g2xx48c,PROXY    #.购物
-DOMAIN-SUFFIX,xn--imr513n,PROXY    #.餐厅
-DOMAIN-SUFFIX,xn--otu796d,PROXY    #.招聘
-DOMAIN-SUFFIX,xn--9et52u,PROXY    #.时尚
-DOMAIN-SUFFIX,xn--6frz82g,PROXY    #.移动
-DOMAIN-SUFFIX,xn--5tzm5g,PROXY    #.网站
-DOMAIN-SUFFIX,xn--8y0a063a,PROXY    #.联通
-DOMAIN-SUFFIX,xn--rhqv96g,PROXY    #.世界
-DOMAIN-SUFFIX,xn--nyqy26a,PROXY    #.健康
+DOMAIN-SUFFIX,xn--fiqs8s    #.中国
+DOMAIN-SUFFIX,xn--fiqz9s    #.中國
+DOMAIN-SUFFIX,xn--zfr164b    #.政务
+DOMAIN-SUFFIX,xn--55qw42g    #.公益
+DOMAIN-SUFFIX,xn--55qx5d    #.公司
+DOMAIN-SUFFIX,xn--io0a7i    #.网络
+DOMAIN-SUFFIX,xn--ses554g    #.网址
+DOMAIN-SUFFIX,xn--czru2d    #.商城
+DOMAIN-SUFFIX,xn--hxt814e    #.网店
+DOMAIN-SUFFIX,xn--fiq64b    #.中信
+DOMAIN-SUFFIX,xn--czr694b    #.商标
+DOMAIN-SUFFIX,xn--xhq521b    #.广东
+DOMAIN-SUFFIX,xn--1qqw23a    #.佛山
+DOMAIN-SUFFIX,xn--vuq861b    #.信息
+DOMAIN-SUFFIX,xn--kput3i    #.手机
+DOMAIN-SUFFIX,xn--3ds443g    #.在线
+DOMAIN-SUFFIX,xn--fiq228c5hs    #.中文网
+DOMAIN-SUFFIX,xn--3bst00m    #.集团
+DOMAIN-SUFFIX,xn--6qq986b3xl    #.我爱你
+DOMAIN-SUFFIX,xn--czrs0t    #.商店
+DOMAIN-SUFFIX,xn--vhquv    #.企业
+DOMAIN-SUFFIX,xn--fjq720a    #.娱乐
+DOMAIN-SUFFIX,xn--unup4y    #.游戏
+DOMAIN-SUFFIX,xn--g2xx48c    #.购物
+DOMAIN-SUFFIX,xn--imr513n    #.餐厅
+DOMAIN-SUFFIX,xn--otu796d    #.招聘
+DOMAIN-SUFFIX,xn--9et52u    #.时尚
+DOMAIN-SUFFIX,xn--6frz82g    #.移动
+DOMAIN-SUFFIX,xn--5tzm5g    #.网站
+DOMAIN-SUFFIX,xn--8y0a063a    #.联通
+DOMAIN-SUFFIX,xn--rhqv96g    #.世界
+DOMAIN-SUFFIX,xn--nyqy26a    #.健康

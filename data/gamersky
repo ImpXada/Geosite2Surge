@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,gamersky.com,PROXY
+DOMAIN-SUFFIX,gamersky.com
 
-DOMAIN-SUFFIX,click.gamersky.com,PROXY
-DOMAIN-SUFFIX,ja.gamersky.com,PROXY
-DOMAIN-SUFFIX,ja1.gamersky.com,PROXY
-DOMAIN-SUFFIX,ja2.gamersky.com,PROXY
-DOMAIN-SUFFIX,wmbd.gamersky.com,PROXY
+DOMAIN-SUFFIX,click.gamersky.com
+DOMAIN-SUFFIX,ja.gamersky.com
+DOMAIN-SUFFIX,ja1.gamersky.com
+DOMAIN-SUFFIX,ja2.gamersky.com
+DOMAIN-SUFFIX,wmbd.gamersky.com

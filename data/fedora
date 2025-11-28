@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,getfedora.org,PROXY
-DOMAIN-SUFFIX,fedoraforum.org,PROXY
-DOMAIN-SUFFIX,fedorapeople.org,PROXY
-DOMAIN-SUFFIX,fedoraproject.org,PROXY
-DOMAIN-SUFFIX,fedoramagazine.org,PROXY
+DOMAIN-SUFFIX,getfedora.org
+DOMAIN-SUFFIX,fedoraforum.org
+DOMAIN-SUFFIX,fedorapeople.org
+DOMAIN-SUFFIX,fedoraproject.org
+DOMAIN-SUFFIX,fedoramagazine.org

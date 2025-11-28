@@ -1,23 +1,23 @@
-DOMAIN-SUFFIX,01.org,PROXY
-DOMAIN-SUFFIX,hyperscan.io,PROXY
-DOMAIN-SUFFIX,intellinuxgraphics.com,PROXY
-DOMAIN-SUFFIX,intellinuxgraphics.net,PROXY
-DOMAIN-SUFFIX,oneapi.com,PROXY
-DOMAIN-SUFFIX,oneapi.io,PROXY
-DOMAIN-SUFFIX,opencas.io,PROXY
-DOMAIN-SUFFIX,opendroneid.org,PROXY
-DOMAIN-SUFFIX,openvino.ai,PROXY
-DOMAIN-SUFFIX,openvinotoolkit.org,PROXY
-DOMAIN-SUFFIX,renderingtoolkit.org,PROXY
-DOMAIN-SUFFIX,snap-telemetry.io,PROXY
-DOMAIN-SUFFIX,universalscalablefirmware.org,PROXY
+DOMAIN-SUFFIX,01.org
+DOMAIN-SUFFIX,hyperscan.io
+DOMAIN-SUFFIX,intellinuxgraphics.com
+DOMAIN-SUFFIX,intellinuxgraphics.net
+DOMAIN-SUFFIX,oneapi.com
+DOMAIN-SUFFIX,oneapi.io
+DOMAIN-SUFFIX,opencas.io
+DOMAIN-SUFFIX,opendroneid.org
+DOMAIN-SUFFIX,openvino.ai
+DOMAIN-SUFFIX,openvinotoolkit.org
+DOMAIN-SUFFIX,renderingtoolkit.org
+DOMAIN-SUFFIX,snap-telemetry.io
+DOMAIN-SUFFIX,universalscalablefirmware.org
 
 # ACPI Component Architecture
-DOMAIN-SUFFIX,acpica.com,PROXY
+DOMAIN-SUFFIX,acpica.com
 
 # Clear Linux
-DOMAIN-SUFFIX,clearlinux.org,PROXY
+DOMAIN-SUFFIX,clearlinux.org
 
 # OSPRay
-DOMAIN-SUFFIX,ospray.net,PROXY
-DOMAIN-SUFFIX,ospray.org,PROXY
+DOMAIN-SUFFIX,ospray.net
+DOMAIN-SUFFIX,ospray.org

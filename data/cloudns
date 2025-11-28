@@ -1,5 +1,5 @@
 # cloudns.net
 # https://github.com/alexandrosmagos/dyn-dns-list/blob/master/scripts/data/cloudns.net.json
 
-DOMAIN-SUFFIX,cloudns.nz,PROXY
-DOMAIN-SUFFIX,cloudns.ph,PROXY
+DOMAIN-SUFFIX,cloudns.nz
+DOMAIN-SUFFIX,cloudns.ph

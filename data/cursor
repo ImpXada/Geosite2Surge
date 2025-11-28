@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,cursor-cdn.com,PROXY
-DOMAIN-SUFFIX,cursor.com,PROXY
-DOMAIN-SUFFIX,cursor.sh,PROXY
-DOMAIN-SUFFIX,cursorapi.com,PROXY
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com

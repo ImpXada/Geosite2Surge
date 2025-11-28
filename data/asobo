@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,asobostudio.com,PROXY
-DOMAIN-SUFFIX,flightsimulator.com,PROXY
+DOMAIN-SUFFIX,asobostudio.com
+DOMAIN-SUFFIX,flightsimulator.com
 
-DOMAIN,flightsimulator.azureedge.net,PROXY
+DOMAIN,flightsimulator.azureedge.net

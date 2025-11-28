@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,poe.com,PROXY
-DOMAIN-SUFFIX,poecdn.net,PROXY
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
 #end include:poe
 
-DOMAIN-SUFFIX,qr.ae,PROXY
-DOMAIN-SUFFIX,quora.com,PROXY
-DOMAIN-SUFFIX,quoracdn.net,PROXY
+DOMAIN-SUFFIX,qr.ae
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net

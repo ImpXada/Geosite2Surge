@@ -1,12 +1,12 @@
-DOMAIN-SUFFIX,entrust.cn,PROXY
-DOMAIN-SUFFIX,entrust.com,PROXY
-DOMAIN-SUFFIX,entrust.net,PROXY
-DOMAIN-SUFFIX,entrustdatacard.com,PROXY
-DOMAIN,www.entrust.cn,PROXY
+DOMAIN-SUFFIX,entrust.cn
+DOMAIN-SUFFIX,entrust.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN,www.entrust.cn
 
 # Sub brand
-DOMAIN-SUFFIX,affirmtrust.com,PROXY
-DOMAIN-SUFFIX,atos.net,PROXY
-DOMAIN-SUFFIX,myatos.net,PROXY
-DOMAIN-SUFFIX,certificat2.com,PROXY
-DOMAIN-SUFFIX,trendmicro.com,PROXY
+DOMAIN-SUFFIX,affirmtrust.com
+DOMAIN-SUFFIX,atos.net
+DOMAIN-SUFFIX,myatos.net
+DOMAIN-SUFFIX,certificat2.com
+DOMAIN-SUFFIX,trendmicro.com

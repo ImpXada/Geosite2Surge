@@ -1,9 +1,9 @@
 # 渝ICP备2023013619号
-DOMAIN-SUFFIX,dcarapi.com,PROXY
-DOMAIN-SUFFIX,dcarimg.com,PROXY
-DOMAIN-SUFFIX,dcarlive.com,PROXY
-DOMAIN-SUFFIX,dcarstatic.com,PROXY
-DOMAIN-SUFFIX,dcarvod.com,PROXY
-DOMAIN-SUFFIX,dcdapp.com,PROXY
-DOMAIN-SUFFIX,dongchedi.com,PROXY
-DOMAIN-SUFFIX,dongchediapp.com,PROXY
+DOMAIN-SUFFIX,dcarapi.com
+DOMAIN-SUFFIX,dcarimg.com
+DOMAIN-SUFFIX,dcarlive.com
+DOMAIN-SUFFIX,dcarstatic.com
+DOMAIN-SUFFIX,dcarvod.com
+DOMAIN-SUFFIX,dcdapp.com
+DOMAIN-SUFFIX,dongchedi.com
+DOMAIN-SUFFIX,dongchediapp.com

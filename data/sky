@@ -1,17 +1,17 @@
 # All .sky domains
-DOMAIN-SUFFIX,sky,PROXY
+DOMAIN-SUFFIX,sky
 
-DOMAIN-SUFFIX,sky.com,PROXY
-DOMAIN-SUFFIX,skyassets.com,PROXY
-DOMAIN-SUFFIX,skymansion.net,PROXY
-DOMAIN-SUFFIX,skyoceanrescue.com,PROXY
-DOMAIN-SUFFIX,skyoceanrescue.de,PROXY
-DOMAIN-SUFFIX,skyoceanrescue.it,PROXY
-DOMAIN-SUFFIX,skysports.com,PROXY
-DOMAIN-SUFFIX,skysports.fr,PROXY
-DOMAIN-SUFFIX,skysports.ie,PROXY
-DOMAIN-SUFFIX,skysportsonline.com,PROXY
-DOMAIN-SUFFIX,skysportsracing.com,PROXY
+DOMAIN-SUFFIX,sky.com
+DOMAIN-SUFFIX,skyassets.com
+DOMAIN-SUFFIX,skymansion.net
+DOMAIN-SUFFIX,skyoceanrescue.com
+DOMAIN-SUFFIX,skyoceanrescue.de
+DOMAIN-SUFFIX,skyoceanrescue.it
+DOMAIN-SUFFIX,skysports.com
+DOMAIN-SUFFIX,skysports.fr
+DOMAIN-SUFFIX,skysports.ie
+DOMAIN-SUFFIX,skysportsonline.com
+DOMAIN-SUFFIX,skysportsracing.com
 
 # CDN
-DOMAIN-SUFFIX,cn-cdn1.skymansion.net,PROXY
+DOMAIN-SUFFIX,cn-cdn1.skymansion.net

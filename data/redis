@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,redis.io,PROXY
-DOMAIN-SUFFIX,redislabs.com,PROXY
+DOMAIN-SUFFIX,redis.io
+DOMAIN-SUFFIX,redislabs.com

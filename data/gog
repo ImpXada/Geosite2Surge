@@ -1,16 +1,16 @@
-DOMAIN-SUFFIX,gog.com,PROXY
-DOMAIN-SUFFIX,gog-statics.com,PROXY
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog-statics.com
 
-DOMAIN,gog.qtlglb.com,PROXY
-DOMAIN,gogalaxy.gog-statics.com,PROXY
-DOMAIN,menu-static.gog-statics.com,PROXY
-DOMAIN,productcard.gog-statics.com,PROXY
-DOMAIN,static-login.gog-statics.com,PROXY
-DOMAIN,www4-static.gog-statics.com,PROXY
-DOMAIN-WILDCARD,cdn-akamai-*.gog-services.com,PROXY
-DOMAIN-WILDCARD,gog-cdn-*.footprint.net,PROXY
-DOMAIN-WILDCARD,images*.gog-statics.com,PROXY
+DOMAIN,gog.qtlglb.com
+DOMAIN,gogalaxy.gog-statics.com
+DOMAIN,menu-static.gog-statics.com
+DOMAIN,productcard.gog-statics.com
+DOMAIN,static-login.gog-statics.com
+DOMAIN,www4-static.gog-statics.com
+DOMAIN-WILDCARD,cdn-akamai-*.gog-services.com
+DOMAIN-WILDCARD,gog-cdn-*.footprint.net
+DOMAIN-WILDCARD,images*.gog-statics.com
 
 # CDN available in China mainland
-DOMAIN,gog-cdn-fastly.gog.com,PROXY
-DOMAIN,gog-cdn.akamaized.net,PROXY
+DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn.akamaized.net

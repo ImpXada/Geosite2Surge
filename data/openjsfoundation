@@ -1,26 +1,26 @@
 #include:amp
-DOMAIN-SUFFIX,amp.dev,PROXY
-DOMAIN-SUFFIX,ampproject.com,PROXY
-DOMAIN-SUFFIX,ampproject.net,PROXY
-DOMAIN-SUFFIX,ampproject.org,PROXY
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
 
-DOMAIN,cdn.ampproject.org,PROXY
+DOMAIN,cdn.ampproject.org
 
-DOMAIN,amp.akamaized.net,PROXY
+DOMAIN,amp.akamaized.net
 #end include:amp
 #include:electron
-DOMAIN-SUFFIX,electronjs.org,PROXY
+DOMAIN-SUFFIX,electronjs.org
 #end include:electron
 #include:jquery
-DOMAIN-SUFFIX,jquery.com,PROXY
-DOMAIN-SUFFIX,jquerymobile.com,PROXY
-DOMAIN-SUFFIX,jqueryui.com,PROXY
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com
 #end include:jquery
 #include:mocha
-DOMAIN-SUFFIX,mochajs.org,PROXY
+DOMAIN-SUFFIX,mochajs.org
 #end include:mocha
 #include:nodejs
-DOMAIN-SUFFIX,nodejs.org,PROXY
+DOMAIN-SUFFIX,nodejs.org
 #end include:nodejs
 
-DOMAIN-SUFFIX,openjsf.org,PROXY
+DOMAIN-SUFFIX,openjsf.org

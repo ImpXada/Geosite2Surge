@@ -1,8 +1,8 @@
-DOMAIN,apl-hamivideo.cdn.hinet.net,PROXY
-DOMAIN,hamivideo.hinet.net,PROXY
-DOMAIN,mobilelive-hamivideo.cdn.hinet.net,PROXY
-DOMAIN,pvr-hamivideo.cdn.hinet.net,PROXY
-DOMAIN,scc.ott.hinet.net,PROXY
-DOMAIN,static-hamivideo.cdn.hinet.net,PROXY
-DOMAIN,tvcastlive-hamivideo.cdn.hinet.net,PROXY
-DOMAIN,weblive-hamivideo.cdn.hinet.net,PROXY
+DOMAIN,apl-hamivideo.cdn.hinet.net
+DOMAIN,hamivideo.hinet.net
+DOMAIN,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN,pvr-hamivideo.cdn.hinet.net
+DOMAIN,scc.ott.hinet.net
+DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
+DOMAIN,weblive-hamivideo.cdn.hinet.net

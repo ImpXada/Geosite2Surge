@@ -1,69 +1,69 @@
-DOMAIN-SUFFIX,gcld-line.com,PROXY
-DOMAIN-SUFFIX,lin.ee,PROXY
-DOMAIN-SUFFIX,line-apps-beta.com,PROXY
-DOMAIN-SUFFIX,line-apps-rc.com,PROXY
-DOMAIN-SUFFIX,line-apps.com,PROXY
-DOMAIN-SUFFIX,line-beta.me,PROXY
-DOMAIN-SUFFIX,line-cdn.net,PROXY
-DOMAIN-SUFFIX,line-scdn.net,PROXY
-DOMAIN-SUFFIX,line.biz,PROXY
-DOMAIN-SUFFIX,line.me,PROXY
-DOMAIN-SUFFIX,line.naver.jp,PROXY
-DOMAIN-SUFFIX,linecorp.com,PROXY
-DOMAIN-SUFFIX,linefriends.com,PROXY
-DOMAIN-SUFFIX,linefriends.com.tw,PROXY
-DOMAIN-SUFFIX,linegame.jp,PROXY
-DOMAIN-SUFFIX,linemobile.com,PROXY
-DOMAIN-SUFFIX,linemyshop.com,PROXY
-DOMAIN-SUFFIX,lineshoppingseller.com,PROXY
-DOMAIN-SUFFIX,linetv.tw,PROXY
-DOMAIN-SUFFIX,nhncorp.jp,PROXY
+DOMAIN-SUFFIX,gcld-line.com
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line-apps-beta.com
+DOMAIN-SUFFIX,line-apps-rc.com
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-beta.me
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.biz
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,linecorp.com
+DOMAIN-SUFFIX,linefriends.com
+DOMAIN-SUFFIX,linefriends.com.tw
+DOMAIN-SUFFIX,linegame.jp
+DOMAIN-SUFFIX,linemobile.com
+DOMAIN-SUFFIX,linemyshop.com
+DOMAIN-SUFFIX,lineshoppingseller.com
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,nhncorp.jp
 #end include:line
 
 # Naver Corp.
 
-DOMAIN-SUFFIX,naver.com,PROXY
-DOMAIN-SUFFIX,naver.me,PROXY
-DOMAIN-SUFFIX,naver.net,PROXY
-DOMAIN-SUFFIX,naver.com.akadns.net,PROXY
-DOMAIN-SUFFIX,navercorp.com,PROXY
-DOMAIN-SUFFIX,nheos.com,PROXY
-DOMAIN-SUFFIX,pstatic.net,PROXY
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,naver.me
+DOMAIN-SUFFIX,naver.net
+DOMAIN-SUFFIX,naver.com.akadns.net
+DOMAIN-SUFFIX,navercorp.com
+DOMAIN-SUFFIX,nheos.com
+DOMAIN-SUFFIX,pstatic.net
 
 # Naver Cloud
 
-DOMAIN-SUFFIX,clova.ai,PROXY
-DOMAIN-SUFFIX,navercloudcorp.com,PROXY
-DOMAIN-SUFFIX,naverncp.com,PROXY
-DOMAIN-SUFFIX,ncloud.com,PROXY
-DOMAIN-SUFFIX,worksmobile.com,PROXY
+DOMAIN-SUFFIX,clova.ai
+DOMAIN-SUFFIX,navercloudcorp.com
+DOMAIN-SUFFIX,naverncp.com
+DOMAIN-SUFFIX,ncloud.com
+DOMAIN-SUFFIX,worksmobile.com
 
 # Naver Financial
 
-DOMAIN-SUFFIX,naverfincorp.com,PROXY
+DOMAIN-SUFFIX,naverfincorp.com
 
 # Snow
 
-DOMAIN-SUFFIX,snow.me,PROXY
-DOMAIN-SUFFIX,snowcorp.com,PROXY
-DOMAIN-SUFFIX,vday.io,PROXY
+DOMAIN-SUFFIX,snow.me
+DOMAIN-SUFFIX,snowcorp.com
+DOMAIN-SUFFIX,vday.io
 
 # Webtoons Corp
 
-DOMAIN-SUFFIX,studiolico.com,PROXY
-DOMAIN-SUFFIX,studioncorp.com,PROXY
-DOMAIN-SUFFIX,wattpad.com,PROXY
-DOMAIN-SUFFIX,webtoons.com,PROXY
-DOMAIN-SUFFIX,webtoonscorp.com,PROXY
+DOMAIN-SUFFIX,studiolico.com
+DOMAIN-SUFFIX,studioncorp.com
+DOMAIN-SUFFIX,wattpad.com
+DOMAIN-SUFFIX,webtoons.com
+DOMAIN-SUFFIX,webtoonscorp.com
 
 # Other Services and Subsidiaries
 
-DOMAIN-SUFFIX,band.us,PROXY
-DOMAIN-SUFFIX,grafolio.com,PROXY
-DOMAIN-SUFFIX,modoo.at,PROXY
-DOMAIN-SUFFIX,naver.jp,PROXY
-DOMAIN-SUFFIX,naverads.com,PROXY
-DOMAIN-SUFFIX,naverads.com.akadns.net,PROXY
-DOMAIN-SUFFIX,naverlabs.com,PROXY
-DOMAIN-SUFFIX,plug.game,PROXY
-DOMAIN-SUFFIX,prismlive.com,PROXY
+DOMAIN-SUFFIX,band.us
+DOMAIN-SUFFIX,grafolio.com
+DOMAIN-SUFFIX,modoo.at
+DOMAIN-SUFFIX,naver.jp
+DOMAIN-SUFFIX,naverads.com
+DOMAIN-SUFFIX,naverads.com.akadns.net
+DOMAIN-SUFFIX,naverlabs.com
+DOMAIN-SUFFIX,plug.game
+DOMAIN-SUFFIX,prismlive.com

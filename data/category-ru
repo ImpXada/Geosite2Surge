@@ -1,40 +1,40 @@
 # Russian websites
 
 # Russian TLDs
-DOMAIN-SUFFIX,moscow,PROXY
-DOMAIN-SUFFIX,tatar,PROXY
-DOMAIN-SUFFIX,ru,PROXY
-DOMAIN-SUFFIX,su,PROXY
-DOMAIN-SUFFIX,xn--80adxhks,PROXY
-DOMAIN-SUFFIX,xn--80asehdb,PROXY
-DOMAIN-SUFFIX,xn--80aswg,PROXY
-DOMAIN-SUFFIX,xn--c1avg,PROXY
-DOMAIN-SUFFIX,xn--d1acj3b,PROXY
-DOMAIN-SUFFIX,xn--p1acf,PROXY
-DOMAIN-SUFFIX,xn--p1ai,PROXY
+DOMAIN-SUFFIX,moscow
+DOMAIN-SUFFIX,tatar
+DOMAIN-SUFFIX,ru
+DOMAIN-SUFFIX,su
+DOMAIN-SUFFIX,xn--80adxhks
+DOMAIN-SUFFIX,xn--80asehdb
+DOMAIN-SUFFIX,xn--80aswg
+DOMAIN-SUFFIX,xn--c1avg
+DOMAIN-SUFFIX,xn--d1acj3b
+DOMAIN-SUFFIX,xn--p1acf
+DOMAIN-SUFFIX,xn--p1ai
 
-DOMAIN-SUFFIX,ru.com,PROXY
-DOMAIN-SUFFIX,ru.net,PROXY
+DOMAIN-SUFFIX,ru.com
+DOMAIN-SUFFIX,ru.net
 
 #include:category-gov-ru
 # Federal Gov.
-DOMAIN-SUFFIX,government.ru,PROXY
-DOMAIN-SUFFIX,gov.ru,PROXY
+DOMAIN-SUFFIX,government.ru
+DOMAIN-SUFFIX,gov.ru
 
 # Federal Public Services
-DOMAIN-SUFFIX,gosuslugi.ru,PROXY
-DOMAIN-SUFFIX,gu-st.ru,PROXY
+DOMAIN-SUFFIX,gosuslugi.ru
+DOMAIN-SUFFIX,gu-st.ru
 
 # Federal Healthcare Services
-DOMAIN-SUFFIX,emias.info,PROXY
-DOMAIN-SUFFIX,mgfoms.ru,PROXY
+DOMAIN-SUFFIX,emias.info
+DOMAIN-SUFFIX,mgfoms.ru
 
 # Federal Educational Services
-DOMAIN-SUFFIX,edu.ru,PROXY
+DOMAIN-SUFFIX,edu.ru
 
 # Other Federal Resources
-DOMAIN-SUFFIX,cbr.ru,PROXY    #Central Bank of Russia
-DOMAIN-SUFFIX,nalog.ru,PROXY    #Federal Tax Service
+DOMAIN-SUFFIX,cbr.ru    #Central Bank of Russia
+DOMAIN-SUFFIX,nalog.ru    #Federal Tax Service
 
 #
 # Regional sites and Public Services
@@ -50,274 +50,274 @@ DOMAIN-SUFFIX,nalog.ru,PROXY    #Federal Tax Service
 #
 
 # Federal Cities (Cities of Federal Importance)
-DOMAIN-SUFFIX,mos.ru,PROXY    #Moscow
-DOMAIN-SUFFIX,mosreg.ru,PROXY    #Moscow Region
-DOMAIN-SUFFIX,spb.ru,PROXY    #St. Petersburg
-DOMAIN-SUFFIX,sevastopol.ru,PROXY    #Sevastopol
-DOMAIN-SUFFIX,sev.ru,PROXY    #Sevastopol
+DOMAIN-SUFFIX,mos.ru    #Moscow
+DOMAIN-SUFFIX,mosreg.ru    #Moscow Region
+DOMAIN-SUFFIX,spb.ru    #St. Petersburg
+DOMAIN-SUFFIX,sevastopol.ru    #Sevastopol
+DOMAIN-SUFFIX,sev.ru    #Sevastopol
 
 # Republics
-DOMAIN-SUFFIX,adygeya.ru,PROXY    #Republic of Adygea
-DOMAIN-SUFFIX,bashkiria.ru,PROXY    #Republic of Bashkortostan
-DOMAIN-SUFFIX,buryatia.ru,PROXY    #Republic of Buryatia
-DOMAIN-SUFFIX,chuvashia.ru,PROXY    #Chuvash Republic
-DOMAIN-SUFFIX,crimea.ru,PROXY    #Republic of Crimea
-DOMAIN-SUFFIX,dagestan.ru,PROXY    #Republic of Dagestan
-DOMAIN-SUFFIX,grozny.ru,PROXY    #Grozny City, Chechen Republic
-DOMAIN-SUFFIX,i-ola.ru,PROXY    #Yoshkar-Ola City, Republic of Mari El
-DOMAIN-SUFFIX,izhevsk.ru,PROXY    #Izhevsk City, Republic of Udmurtia
-DOMAIN-SUFFIX,kalmykia.ru,PROXY    #Republic of Kalmykia
-DOMAIN-SUFFIX,karelia.ru,PROXY    #Republic of Karelia
-DOMAIN-SUFFIX,kazan.ru,PROXY    #Kazan City, Republic of Tatarstan
-DOMAIN-SUFFIX,kchr.ru,PROXY    #Karachay-Cherkessia
-DOMAIN-SUFFIX,khakassia.ru,PROXY    #Republic of Khakassia
-DOMAIN-SUFFIX,mari-el.ru,PROXY    #Republic of Mari El
-DOMAIN-SUFFIX,mari.ru,PROXY    #Republic of Mari El
-DOMAIN-SUFFIX,mordovia.ru,PROXY    #Republic of Mordovi
-DOMAIN-SUFFIX,nalchik.ru,PROXY    #Nalchik City, Kabardino-Balkarian Republic
-DOMAIN-SUFFIX,ptz.ru,PROXY    #Petrozavodsk City, Republic of Karelia
-DOMAIN-SUFFIX,rkomi.ru,PROXY    #Republic of Komi
-DOMAIN-SUFFIX,tatarstan.ru,PROXY    #Republic of Tatarstan
-DOMAIN-SUFFIX,tuva.ru,PROXY    #Republic of Tuva
-DOMAIN-SUFFIX,udm.ru,PROXY    #Republic of Udmurtia
-DOMAIN-SUFFIX,udmurtia.ru,PROXY    #Republic of Udmurtia
-DOMAIN-SUFFIX,ulan-ude.ru,PROXY    #Ulan-Ude City, Republic of Buryatia
-DOMAIN-SUFFIX,vladikavkaz.ru,PROXY    #Vladikavkaz City, Republic of North Ossetia-Alania
-DOMAIN-SUFFIX,yakutia.ru,PROXY    #Republic of Yakutia
+DOMAIN-SUFFIX,adygeya.ru    #Republic of Adygea
+DOMAIN-SUFFIX,bashkiria.ru    #Republic of Bashkortostan
+DOMAIN-SUFFIX,buryatia.ru    #Republic of Buryatia
+DOMAIN-SUFFIX,chuvashia.ru    #Chuvash Republic
+DOMAIN-SUFFIX,crimea.ru    #Republic of Crimea
+DOMAIN-SUFFIX,dagestan.ru    #Republic of Dagestan
+DOMAIN-SUFFIX,grozny.ru    #Grozny City, Chechen Republic
+DOMAIN-SUFFIX,i-ola.ru    #Yoshkar-Ola City, Republic of Mari El
+DOMAIN-SUFFIX,izhevsk.ru    #Izhevsk City, Republic of Udmurtia
+DOMAIN-SUFFIX,kalmykia.ru    #Republic of Kalmykia
+DOMAIN-SUFFIX,karelia.ru    #Republic of Karelia
+DOMAIN-SUFFIX,kazan.ru    #Kazan City, Republic of Tatarstan
+DOMAIN-SUFFIX,kchr.ru    #Karachay-Cherkessia
+DOMAIN-SUFFIX,khakassia.ru    #Republic of Khakassia
+DOMAIN-SUFFIX,mari-el.ru    #Republic of Mari El
+DOMAIN-SUFFIX,mari.ru    #Republic of Mari El
+DOMAIN-SUFFIX,mordovia.ru    #Republic of Mordovi
+DOMAIN-SUFFIX,nalchik.ru    #Nalchik City, Kabardino-Balkarian Republic
+DOMAIN-SUFFIX,ptz.ru    #Petrozavodsk City, Republic of Karelia
+DOMAIN-SUFFIX,rkomi.ru    #Republic of Komi
+DOMAIN-SUFFIX,tatarstan.ru    #Republic of Tatarstan
+DOMAIN-SUFFIX,tuva.ru    #Republic of Tuva
+DOMAIN-SUFFIX,udm.ru    #Republic of Udmurtia
+DOMAIN-SUFFIX,udmurtia.ru    #Republic of Udmurtia
+DOMAIN-SUFFIX,ulan-ude.ru    #Ulan-Ude City, Republic of Buryatia
+DOMAIN-SUFFIX,vladikavkaz.ru    #Vladikavkaz City, Republic of North Ossetia-Alania
+DOMAIN-SUFFIX,yakutia.ru    #Republic of Yakutia
 
 # Territories (Krai)
-DOMAIN-SUFFIX,altai.ru,PROXY    #Altai Territory
-DOMAIN-SUFFIX,chita.ru,PROXY    #Chita City, Zabaykalsky Territory
-DOMAIN-SUFFIX,kamchatka.ru,PROXY    #Kamchatka Territory
-DOMAIN-SUFFIX,khabarovsk.ru,PROXY    #Khabarovsk Territory
-DOMAIN-SUFFIX,khv.ru,PROXY    #Khabarovsk Territory
-DOMAIN-SUFFIX,krasnodar.su,PROXY    #Krasnodar Territory / Kuban
-DOMAIN-SUFFIX,krasnoyarsk.ru,PROXY    #Krasnoyarsk Territory
-DOMAIN-SUFFIX,kuban.ru,PROXY    #Krasnodar Territory / Kuban
-DOMAIN-SUFFIX,marine.ru,PROXY    #Primorye Territory
-DOMAIN-SUFFIX,perm.ru,PROXY    #Perm Territory
-DOMAIN-SUFFIX,stavropol.ru,PROXY    #Stavropol Territory
-DOMAIN-SUFFIX,stv.ru,PROXY    #Stavropol Territory
-DOMAIN-SUFFIX,vl.ru,PROXY    #Vladivostok City, Primorye Territory
-DOMAIN-SUFFIX,vladivostok.ru,PROXY    #Vladivostok City, Primorye Territory
+DOMAIN-SUFFIX,altai.ru    #Altai Territory
+DOMAIN-SUFFIX,chita.ru    #Chita City, Zabaykalsky Territory
+DOMAIN-SUFFIX,kamchatka.ru    #Kamchatka Territory
+DOMAIN-SUFFIX,khabarovsk.ru    #Khabarovsk Territory
+DOMAIN-SUFFIX,khv.ru    #Khabarovsk Territory
+DOMAIN-SUFFIX,krasnodar.su    #Krasnodar Territory / Kuban
+DOMAIN-SUFFIX,krasnoyarsk.ru    #Krasnoyarsk Territory
+DOMAIN-SUFFIX,kuban.ru    #Krasnodar Territory / Kuban
+DOMAIN-SUFFIX,marine.ru    #Primorye Territory
+DOMAIN-SUFFIX,perm.ru    #Perm Territory
+DOMAIN-SUFFIX,stavropol.ru    #Stavropol Territory
+DOMAIN-SUFFIX,stv.ru    #Stavropol Territory
+DOMAIN-SUFFIX,vl.ru    #Vladivostok City, Primorye Territory
+DOMAIN-SUFFIX,vladivostok.ru    #Vladivostok City, Primorye Territory
 
 # Regions / Provinces (Oblast)
-DOMAIN-SUFFIX,amur.ru,PROXY    #Amur Region
-DOMAIN-SUFFIX,arkhangelsk.ru,PROXY    #Arkhangelsk Region
-DOMAIN-SUFFIX,astrakhan.ru,PROXY    #Astrakhan Region
-DOMAIN-SUFFIX,belgorod.ru,PROXY    #Belgorod Region
-DOMAIN-SUFFIX,bir.ru,PROXY    #Birobidzhan City, Jewish Autonomous Region
-DOMAIN-SUFFIX,bryansk.ru,PROXY    #Bryansk Region
-DOMAIN-SUFFIX,cbg.ru,PROXY    #Voronezh Region
-DOMAIN-SUFFIX,chel.ru,PROXY    #Chelyabinsk Region
-DOMAIN-SUFFIX,chelyabinsk.ru,PROXY    #Chelyabinsk Region
-DOMAIN-SUFFIX,ekburg.ru,PROXY    #Ekaterinburg City, Sverdlovsk Region
-DOMAIN-SUFFIX,xn--80acgfbsl1azdqr.xn--p1ai,PROXY    #екатеринбург.рф / Ekaterinburg City, Sverdlovsk Region
-DOMAIN-SUFFIX,irk.ru,PROXY    #Irkutsk Region
-DOMAIN-SUFFIX,irkutsk.ru,PROXY    #Irkutsk Region
-DOMAIN-SUFFIX,ivanovo.ru,PROXY    #Ivanovo Region
-DOMAIN-SUFFIX,jar.ru,PROXY    #Birobidzhan City, Jewish Autonomous Region
-DOMAIN-SUFFIX,kaluga.ru,PROXY    #Kaluga Region
-DOMAIN-SUFFIX,kemerovo.ru,PROXY    #Kemerovo Region
-DOMAIN-SUFFIX,kirov.ru,PROXY    #Kirov Region
-DOMAIN-SUFFIX,koenig.ru,PROXY    #Kaliningrad Region
-DOMAIN-SUFFIX,kostroma.ru,PROXY    #Kostroma Region
-DOMAIN-SUFFIX,kurgan.ru,PROXY    #Kurgan Region
-DOMAIN-SUFFIX,kursk.ru,PROXY    #Kursk Region
-DOMAIN-SUFFIX,lipetsk.ru,PROXY    #Lipetsk Region
-DOMAIN-SUFFIX,magadan.ru,PROXY    #Magadan Region
-DOMAIN-SUFFIX,murmansk.ru,PROXY    #Murmansk Region
-DOMAIN-SUFFIX,nn.ru,PROXY    #Nizhny Novgorod Region
-DOMAIN-SUFFIX,nov.ru,PROXY    #Novgorod Region
-DOMAIN-SUFFIX,novosibirsk.ru,PROXY    #Novosibirsk Region
-DOMAIN-SUFFIX,nsk.ru,PROXY    #Novosibirsk Region
-DOMAIN-SUFFIX,omsk.ru,PROXY    #Omsk Region
-DOMAIN-SUFFIX,orb.ru,PROXY    #Orenburg Region
-DOMAIN-SUFFIX,oryol.ru,PROXY    #Orel Region
-DOMAIN-SUFFIX,penza.ru,PROXY    #Penza Region
-DOMAIN-SUFFIX,psk,PROXY    #Pskov's local TLD
-DOMAIN-SUFFIX,psk.ru,PROXY    #Pskov Region
-DOMAIN-SUFFIX,pskov.ru,PROXY    #Pskov Region
-DOMAIN-SUFFIX,rnd.ru,PROXY    #Rostov-on-Don City, Rostov Region
-DOMAIN-SUFFIX,ryazan.ru,PROXY    #Ryazan Region
-DOMAIN-SUFFIX,sakhalin.ru,PROXY    #Sakhalin Region
-DOMAIN-SUFFIX,samara.ru,PROXY    #Samara Region
-DOMAIN-SUFFIX,saratov.ru,PROXY    #Saratov Region
-DOMAIN-SUFFIX,simbirsk.ru,PROXY    #Ulyanovsk Region
-DOMAIN-SUFFIX,smolensk.ru,PROXY    #Smolensk Region
-DOMAIN-SUFFIX,tambov.ru,PROXY    #Tambov Region
-DOMAIN-SUFFIX,tom.ru,PROXY    #Tomsk Region
-DOMAIN-SUFFIX,tomsk.ru,PROXY    #Tomsk Region
-DOMAIN-SUFFIX,tsaritsyn.ru,PROXY    #Volgograd Region
-DOMAIN-SUFFIX,tsk.ru,PROXY    #Tomsk Region
-DOMAIN-SUFFIX,tula.ru,PROXY    #Tula Region
-DOMAIN-SUFFIX,tver.ru,PROXY    #Tver Region
-DOMAIN-SUFFIX,tyumen.ru,PROXY    #Tyumen Region
-DOMAIN-SUFFIX,vladimir.ru,PROXY    #Vladimir Region
-DOMAIN-SUFFIX,vlg.ru,PROXY    #Volgograd Region
-DOMAIN-SUFFIX,volgograd.ru,PROXY    #Volgograd Region
-DOMAIN-SUFFIX,vologda.ru,PROXY    #Vologda Region
-DOMAIN-SUFFIX,voronezh.ru,PROXY    #Voronezh Region
-DOMAIN-SUFFIX,vrn.ru,PROXY    #Voronezh Region
-DOMAIN-SUFFIX,vyatka.ru,PROXY    #Kirov Region
-DOMAIN-SUFFIX,yaroslavl.ru,PROXY    #Yaroslavl Region
-DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru,PROXY    #Yuzhno-Sakhalinsk City, Sakhalin Region
+DOMAIN-SUFFIX,amur.ru    #Amur Region
+DOMAIN-SUFFIX,arkhangelsk.ru    #Arkhangelsk Region
+DOMAIN-SUFFIX,astrakhan.ru    #Astrakhan Region
+DOMAIN-SUFFIX,belgorod.ru    #Belgorod Region
+DOMAIN-SUFFIX,bir.ru    #Birobidzhan City, Jewish Autonomous Region
+DOMAIN-SUFFIX,bryansk.ru    #Bryansk Region
+DOMAIN-SUFFIX,cbg.ru    #Voronezh Region
+DOMAIN-SUFFIX,chel.ru    #Chelyabinsk Region
+DOMAIN-SUFFIX,chelyabinsk.ru    #Chelyabinsk Region
+DOMAIN-SUFFIX,ekburg.ru    #Ekaterinburg City, Sverdlovsk Region
+DOMAIN-SUFFIX,xn--80acgfbsl1azdqr.xn--p1ai    #екатеринбург.рф / Ekaterinburg City, Sverdlovsk Region
+DOMAIN-SUFFIX,irk.ru    #Irkutsk Region
+DOMAIN-SUFFIX,irkutsk.ru    #Irkutsk Region
+DOMAIN-SUFFIX,ivanovo.ru    #Ivanovo Region
+DOMAIN-SUFFIX,jar.ru    #Birobidzhan City, Jewish Autonomous Region
+DOMAIN-SUFFIX,kaluga.ru    #Kaluga Region
+DOMAIN-SUFFIX,kemerovo.ru    #Kemerovo Region
+DOMAIN-SUFFIX,kirov.ru    #Kirov Region
+DOMAIN-SUFFIX,koenig.ru    #Kaliningrad Region
+DOMAIN-SUFFIX,kostroma.ru    #Kostroma Region
+DOMAIN-SUFFIX,kurgan.ru    #Kurgan Region
+DOMAIN-SUFFIX,kursk.ru    #Kursk Region
+DOMAIN-SUFFIX,lipetsk.ru    #Lipetsk Region
+DOMAIN-SUFFIX,magadan.ru    #Magadan Region
+DOMAIN-SUFFIX,murmansk.ru    #Murmansk Region
+DOMAIN-SUFFIX,nn.ru    #Nizhny Novgorod Region
+DOMAIN-SUFFIX,nov.ru    #Novgorod Region
+DOMAIN-SUFFIX,novosibirsk.ru    #Novosibirsk Region
+DOMAIN-SUFFIX,nsk.ru    #Novosibirsk Region
+DOMAIN-SUFFIX,omsk.ru    #Omsk Region
+DOMAIN-SUFFIX,orb.ru    #Orenburg Region
+DOMAIN-SUFFIX,oryol.ru    #Orel Region
+DOMAIN-SUFFIX,penza.ru    #Penza Region
+DOMAIN-SUFFIX,psk    #Pskov's local TLD
+DOMAIN-SUFFIX,psk.ru    #Pskov Region
+DOMAIN-SUFFIX,pskov.ru    #Pskov Region
+DOMAIN-SUFFIX,rnd.ru    #Rostov-on-Don City, Rostov Region
+DOMAIN-SUFFIX,ryazan.ru    #Ryazan Region
+DOMAIN-SUFFIX,sakhalin.ru    #Sakhalin Region
+DOMAIN-SUFFIX,samara.ru    #Samara Region
+DOMAIN-SUFFIX,saratov.ru    #Saratov Region
+DOMAIN-SUFFIX,simbirsk.ru    #Ulyanovsk Region
+DOMAIN-SUFFIX,smolensk.ru    #Smolensk Region
+DOMAIN-SUFFIX,tambov.ru    #Tambov Region
+DOMAIN-SUFFIX,tom.ru    #Tomsk Region
+DOMAIN-SUFFIX,tomsk.ru    #Tomsk Region
+DOMAIN-SUFFIX,tsaritsyn.ru    #Volgograd Region
+DOMAIN-SUFFIX,tsk.ru    #Tomsk Region
+DOMAIN-SUFFIX,tula.ru    #Tula Region
+DOMAIN-SUFFIX,tver.ru    #Tver Region
+DOMAIN-SUFFIX,tyumen.ru    #Tyumen Region
+DOMAIN-SUFFIX,vladimir.ru    #Vladimir Region
+DOMAIN-SUFFIX,vlg.ru    #Volgograd Region
+DOMAIN-SUFFIX,volgograd.ru    #Volgograd Region
+DOMAIN-SUFFIX,vologda.ru    #Vologda Region
+DOMAIN-SUFFIX,voronezh.ru    #Voronezh Region
+DOMAIN-SUFFIX,vrn.ru    #Voronezh Region
+DOMAIN-SUFFIX,vyatka.ru    #Kirov Region
+DOMAIN-SUFFIX,yaroslavl.ru    #Yaroslavl Region
+DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru    #Yuzhno-Sakhalinsk City, Sakhalin Region
 
 # Autonomous areas
-DOMAIN-SUFFIX,chukotka.ru,PROXY    #Chukotka Autonomous Area
-DOMAIN-SUFFIX,jamal.ru,PROXY    #Yamal-Nenets Autonomous Area
-DOMAIN-SUFFIX,surgut.ru,PROXY    #Khanty-Mansi Autonomous Area – Yugra
-DOMAIN-SUFFIX,yamal.ru,PROXY    #Yamal-Nenets Autonomous Area
+DOMAIN-SUFFIX,chukotka.ru    #Chukotka Autonomous Area
+DOMAIN-SUFFIX,jamal.ru    #Yamal-Nenets Autonomous Area
+DOMAIN-SUFFIX,surgut.ru    #Khanty-Mansi Autonomous Area – Yugra
+DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
 #end include:category-gov-ru
 
 #include:mailru
-DOMAIN-SUFFIX,boosty.to,PROXY
-DOMAIN-SUFFIX,donationalerts.com,PROXY
-DOMAIN-SUFFIX,imgsmail.ru,PROXY
-DOMAIN-SUFFIX,mail.ru,PROXY
-DOMAIN-SUFFIX,memealerts.com,PROXY
-DOMAIN-SUFFIX,mycdn.me,PROXY
-DOMAIN-SUFFIX,okcdn.ru,PROXY
+DOMAIN-SUFFIX,boosty.to
+DOMAIN-SUFFIX,donationalerts.com
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,memealerts.com
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,okcdn.ru
 #end include:mailru
 #include:ok
-DOMAIN-SUFFIX,ok.ru,PROXY
+DOMAIN-SUFFIX,ok.ru
 #end include:ok
 #include:ozon
-DOMAIN-SUFFIX,ozon.ru,PROXY
-DOMAIN-SUFFIX,ozone.ru,PROXY
-DOMAIN-SUFFIX,ozonusercontent.com,PROXY
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonusercontent.com
 #end include:ozon
 #include:vk
-DOMAIN-SUFFIX,cdn-vk.ru,PROXY
-DOMAIN-SUFFIX,mradx.net,PROXY
-DOMAIN-SUFFIX,mvk.com,PROXY
-DOMAIN-SUFFIX,userapi.com,PROXY
-DOMAIN-SUFFIX,vk-analytics.ru,PROXY
-DOMAIN-SUFFIX,vk-apps.com,PROXY
-DOMAIN-SUFFIX,vk-apps.ru,PROXY
-DOMAIN-SUFFIX,vk-cdn.me,PROXY
-DOMAIN-SUFFIX,vk-cdn.net,PROXY
-DOMAIN-SUFFIX,vkcloud-static.ru,PROXY
-DOMAIN-SUFFIX,vk-portal.net,PROXY
-DOMAIN-SUFFIX,vk.cc,PROXY
-DOMAIN-SUFFIX,vk.com,PROXY
-DOMAIN-SUFFIX,vk.company,PROXY
-DOMAIN-SUFFIX,vk.design,PROXY
-DOMAIN-SUFFIX,vk.link,PROXY
-DOMAIN-SUFFIX,vk.me,PROXY
-DOMAIN-SUFFIX,vk.ru,PROXY
-DOMAIN-SUFFIX,vk.team,PROXY
-DOMAIN-SUFFIX,vkcache.com,PROXY
-DOMAIN-SUFFIX,vkgo.app,PROXY
-DOMAIN-SUFFIX,vklive.app,PROXY
-DOMAIN-SUFFIX,vkmessenger.app,PROXY
-DOMAIN-SUFFIX,vkmessenger.com,PROXY
-DOMAIN-SUFFIX,vkontakte.ru,PROXY
-DOMAIN-SUFFIX,vkuser.net,PROXY
-DOMAIN-SUFFIX,vkuseraudio.com,PROXY
-DOMAIN-SUFFIX,vkuseraudio.net,PROXY
-DOMAIN-SUFFIX,vkuseraudio.ru,PROXY
-DOMAIN-SUFFIX,vkusercdn.ru,PROXY
-DOMAIN-SUFFIX,vkuserlive.net,PROXY
-DOMAIN-SUFFIX,vkuserphoto.ru,PROXY
-DOMAIN-SUFFIX,vkuservideo.com,PROXY
-DOMAIN-SUFFIX,vkuservideo.net,PROXY
-DOMAIN-SUFFIX,vkuservideo.ru,PROXY
-DOMAIN-SUFFIX,vkvideo.ru,PROXY
+DOMAIN-SUFFIX,cdn-vk.ru
+DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,vk-apps.com
+DOMAIN-SUFFIX,vk-apps.ru
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vkcloud-static.ru
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vk.cc
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,vk.design
+DOMAIN-SUFFIX,vk.link
+DOMAIN-SUFFIX,vk.me
+DOMAIN-SUFFIX,vk.ru
+DOMAIN-SUFFIX,vk.team
+DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkgo.app
+DOMAIN-SUFFIX,vklive.app
+DOMAIN-SUFFIX,vkmessenger.app
+DOMAIN-SUFFIX,vkmessenger.com
+DOMAIN-SUFFIX,vkontakte.ru
+DOMAIN-SUFFIX,vkuser.net
+DOMAIN-SUFFIX,vkuseraudio.com
+DOMAIN-SUFFIX,vkuseraudio.net
+DOMAIN-SUFFIX,vkuseraudio.ru
+DOMAIN-SUFFIX,vkusercdn.ru
+DOMAIN-SUFFIX,vkuserlive.net
+DOMAIN-SUFFIX,vkuserphoto.ru
+DOMAIN-SUFFIX,vkuservideo.com
+DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,vkuservideo.ru
+DOMAIN-SUFFIX,vkvideo.ru
 #end include:vk
 #include:x5
-DOMAIN-SUFFIX,5ka.ru,PROXY
-DOMAIN-SUFFIX,5post.market,PROXY
-DOMAIN-SUFFIX,chizhik.club,PROXY
-DOMAIN-SUFFIX,clubx5.ru,PROXY
-DOMAIN-SUFFIX,dialogx5.ru,PROXY
-DOMAIN-SUFFIX,e5.ru,PROXY
-DOMAIN-SUFFIX,fivepost.ru,PROXY
-DOMAIN-SUFFIX,idx5.ru,PROXY
-DOMAIN-SUFFIX,jx5.ru,PROXY
-DOMAIN-SUFFIX,keyx5.ru,PROXY
-DOMAIN-SUFFIX,mnogolososya.ru,PROXY
-DOMAIN-SUFFIX,myapelsin.ru,PROXY
-DOMAIN-SUFFIX,okolo.app,PROXY
-DOMAIN-SUFFIX,perekrestok.com,PROXY
-DOMAIN-SUFFIX,perekrestok.ru,PROXY
-DOMAIN-SUFFIX,x5.ai,PROXY
-DOMAIN-SUFFIX,x5.com,PROXY
-DOMAIN-SUFFIX,x5.digital,PROXY
-DOMAIN-SUFFIX,x5.group,PROXY
-DOMAIN-SUFFIX,x5.media,PROXY
-DOMAIN-SUFFIX,x5.ru,PROXY
-DOMAIN-SUFFIX,x5.team,PROXY
-DOMAIN-SUFFIX,x5.tech,PROXY
-DOMAIN-SUFFIX,x5club.ru,PROXY
-DOMAIN-SUFFIX,x5id.ru,PROXY
-DOMAIN-SUFFIX,x5l.ru,PROXY
-DOMAIN-SUFFIX,x5paket.ru,PROXY
-DOMAIN-SUFFIX,x5q.ru,PROXY
-DOMAIN-SUFFIX,x5static.net,PROXY
-DOMAIN-SUFFIX,x5w.ru,PROXY
+DOMAIN-SUFFIX,5ka.ru
+DOMAIN-SUFFIX,5post.market
+DOMAIN-SUFFIX,chizhik.club
+DOMAIN-SUFFIX,clubx5.ru
+DOMAIN-SUFFIX,dialogx5.ru
+DOMAIN-SUFFIX,e5.ru
+DOMAIN-SUFFIX,fivepost.ru
+DOMAIN-SUFFIX,idx5.ru
+DOMAIN-SUFFIX,jx5.ru
+DOMAIN-SUFFIX,keyx5.ru
+DOMAIN-SUFFIX,mnogolososya.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,okolo.app
+DOMAIN-SUFFIX,perekrestok.com
+DOMAIN-SUFFIX,perekrestok.ru
+DOMAIN-SUFFIX,x5.ai
+DOMAIN-SUFFIX,x5.com
+DOMAIN-SUFFIX,x5.digital
+DOMAIN-SUFFIX,x5.group
+DOMAIN-SUFFIX,x5.media
+DOMAIN-SUFFIX,x5.ru
+DOMAIN-SUFFIX,x5.team
+DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,x5club.ru
+DOMAIN-SUFFIX,x5id.ru
+DOMAIN-SUFFIX,x5l.ru
+DOMAIN-SUFFIX,x5paket.ru
+DOMAIN-SUFFIX,x5q.ru
+DOMAIN-SUFFIX,x5static.net
+DOMAIN-SUFFIX,x5w.ru
 #end include:x5
 #include:yandex
 # All .yandex domains
-DOMAIN-SUFFIX,yandex,PROXY
+DOMAIN-SUFFIX,yandex
 
 # яндекс.рф
-DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai,PROXY
+DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 
-DOMAIN-SUFFIX,adfox.ru,PROXY
-DOMAIN-SUFFIX,admetrica.ru,PROXY
-DOMAIN-SUFFIX,dzen.ru,PROXY
-DOMAIN-SUFFIX,naydex.net,PROXY
-DOMAIN-SUFFIX,rostaxi.org,PROXY
-DOMAIN-SUFFIX,webvisor.com,PROXY
-DOMAIN-SUFFIX,webvisor.org,PROXY
-DOMAIN-SUFFIX,ya.ru,PROXY
-DOMAIN-SUFFIX,yads.tech,PROXY
-DOMAIN-SUFFIX,yandex-bank.net,PROXY
-DOMAIN-SUFFIX,yandex-images.clstorage.net,PROXY
-DOMAIN-SUFFIX,yandex-team.ru,PROXY
-DOMAIN-SUFFIX,yandex.aero,PROXY
-DOMAIN-SUFFIX,yandex.az,PROXY
-DOMAIN-SUFFIX,yandex.by,PROXY
-DOMAIN-SUFFIX,yandex.cloud,PROXY
-DOMAIN-SUFFIX,yandex.co.il,PROXY
-DOMAIN-SUFFIX,yandex.com,PROXY
-DOMAIN-SUFFIX,yandex.com.am,PROXY
-DOMAIN-SUFFIX,yandex.com.ge,PROXY
-DOMAIN-SUFFIX,yandex.com.ru,PROXY
-DOMAIN-SUFFIX,yandex.com.tr,PROXY
-DOMAIN-SUFFIX,yandex.com.ua,PROXY
-DOMAIN-SUFFIX,yandex.de,PROXY
-DOMAIN-SUFFIX,yandex.ee,PROXY
-DOMAIN-SUFFIX,yandex.eu,PROXY
-DOMAIN-SUFFIX,yandex.fi,PROXY
-DOMAIN-SUFFIX,yandex.fr,PROXY
-DOMAIN-SUFFIX,yandex.jobs,PROXY
-DOMAIN-SUFFIX,yandex.kg,PROXY
-DOMAIN-SUFFIX,yandex.kz,PROXY
-DOMAIN-SUFFIX,yandex.lt,PROXY
-DOMAIN-SUFFIX,yandex.lv,PROXY
-DOMAIN-SUFFIX,yandex.md,PROXY
-DOMAIN-SUFFIX,yandex.net,PROXY
-DOMAIN-SUFFIX,yandex.org,PROXY
-DOMAIN-SUFFIX,yandex.pl,PROXY
-DOMAIN-SUFFIX,yandex.ru,PROXY
-DOMAIN-SUFFIX,yandex.st,PROXY
-DOMAIN-SUFFIX,yandex.sx,PROXY
-DOMAIN-SUFFIX,yandex.tj,PROXY
-DOMAIN-SUFFIX,yandex.tm,PROXY
-DOMAIN-SUFFIX,yandex.tr,PROXY
-DOMAIN-SUFFIX,yandex.ua,PROXY
-DOMAIN-SUFFIX,yandex.uz,PROXY
-DOMAIN-SUFFIX,yandexadexchange.net,PROXY
-DOMAIN-SUFFIX,yandexcloud.net,PROXY
-DOMAIN-SUFFIX,yandexcom.net,PROXY
-DOMAIN-SUFFIX,yandexmetrica.com,PROXY
-DOMAIN-SUFFIX,yandexwebcache.org,PROXY
-DOMAIN-SUFFIX,yastat.net,PROXY
-DOMAIN-SUFFIX,yastatic.net,PROXY
+DOMAIN-SUFFIX,adfox.ru
+DOMAIN-SUFFIX,admetrica.ru
+DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,naydex.net
+DOMAIN-SUFFIX,rostaxi.org
+DOMAIN-SUFFIX,webvisor.com
+DOMAIN-SUFFIX,webvisor.org
+DOMAIN-SUFFIX,ya.ru
+DOMAIN-SUFFIX,yads.tech
+DOMAIN-SUFFIX,yandex-bank.net
+DOMAIN-SUFFIX,yandex-images.clstorage.net
+DOMAIN-SUFFIX,yandex-team.ru
+DOMAIN-SUFFIX,yandex.aero
+DOMAIN-SUFFIX,yandex.az
+DOMAIN-SUFFIX,yandex.by
+DOMAIN-SUFFIX,yandex.cloud
+DOMAIN-SUFFIX,yandex.co.il
+DOMAIN-SUFFIX,yandex.com
+DOMAIN-SUFFIX,yandex.com.am
+DOMAIN-SUFFIX,yandex.com.ge
+DOMAIN-SUFFIX,yandex.com.ru
+DOMAIN-SUFFIX,yandex.com.tr
+DOMAIN-SUFFIX,yandex.com.ua
+DOMAIN-SUFFIX,yandex.de
+DOMAIN-SUFFIX,yandex.ee
+DOMAIN-SUFFIX,yandex.eu
+DOMAIN-SUFFIX,yandex.fi
+DOMAIN-SUFFIX,yandex.fr
+DOMAIN-SUFFIX,yandex.jobs
+DOMAIN-SUFFIX,yandex.kg
+DOMAIN-SUFFIX,yandex.kz
+DOMAIN-SUFFIX,yandex.lt
+DOMAIN-SUFFIX,yandex.lv
+DOMAIN-SUFFIX,yandex.md
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yandex.org
+DOMAIN-SUFFIX,yandex.pl
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,yandex.st
+DOMAIN-SUFFIX,yandex.sx
+DOMAIN-SUFFIX,yandex.tj
+DOMAIN-SUFFIX,yandex.tm
+DOMAIN-SUFFIX,yandex.tr
+DOMAIN-SUFFIX,yandex.ua
+DOMAIN-SUFFIX,yandex.uz
+DOMAIN-SUFFIX,yandexadexchange.net
+DOMAIN-SUFFIX,yandexcloud.net
+DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN-SUFFIX,yandexwebcache.org
+DOMAIN-SUFFIX,yastat.net
+DOMAIN-SUFFIX,yastatic.net
 
 # Watching movies, included in the Yandex subscription
-DOMAIN-SUFFIX,kinopoisk.ru,PROXY
-DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net,PROXY
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 #end include:yandex

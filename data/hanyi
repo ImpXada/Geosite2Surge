@@ -1,11 +1,11 @@
-DOMAIN-SUFFIX,hellofont.cn,PROXY
-DOMAIN-SUFFIX,hellowebfont.com,PROXY
+DOMAIN-SUFFIX,hellofont.cn
+DOMAIN-SUFFIX,hellowebfont.com
 
-DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com,PROXY
-DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com,PROXY
+DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
+DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
 #end include:hellofont
 
-DOMAIN-SUFFIX,hanyi.com.cn,PROXY
+DOMAIN-SUFFIX,hanyi.com.cn
 
 # Font Star
-DOMAIN-SUFFIX,fontstar.com.cn,PROXY
+DOMAIN-SUFFIX,fontstar.com.cn

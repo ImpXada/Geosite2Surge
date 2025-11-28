@@ -1,9 +1,9 @@
 #include:kernel
-DOMAIN-SUFFIX,kernel.org,PROXY
+DOMAIN-SUFFIX,kernel.org
 #end include:kernel
 #include:linux
-DOMAIN-SUFFIX,linux.org,PROXY
+DOMAIN-SUFFIX,linux.org
 #end include:linux
 
-DOMAIN-SUFFIX,lfai.foundation,PROXY
-DOMAIN-SUFFIX,linuxfoundation.org,PROXY
+DOMAIN-SUFFIX,lfai.foundation
+DOMAIN-SUFFIX,linuxfoundation.org

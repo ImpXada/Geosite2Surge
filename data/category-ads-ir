@@ -1,9 +1,9 @@
 # Iranian Advertising websites
 
-DOMAIN-SUFFIX,adivery.com,PROXY
-DOMAIN-SUFFIX,adivery.ir,PROXY
-DOMAIN-SUFFIX,kaprila.com,PROXY
-DOMAIN-SUFFIX,najva.com,PROXY
-DOMAIN-SUFFIX,sabavision.com,PROXY
-DOMAIN-SUFFIX,tapsell.ir,PROXY
-DOMAIN-SUFFIX,yektanet.com,PROXY
+DOMAIN-SUFFIX,adivery.com
+DOMAIN-SUFFIX,adivery.ir
+DOMAIN-SUFFIX,kaprila.com
+DOMAIN-SUFFIX,najva.com
+DOMAIN-SUFFIX,sabavision.com
+DOMAIN-SUFFIX,tapsell.ir
+DOMAIN-SUFFIX,yektanet.com

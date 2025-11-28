@@ -1,14 +1,14 @@
 # 富途证券
-DOMAIN-SUFFIX,futuesop.com,PROXY
-DOMAIN-SUFFIX,futufin.com,PROXY
-DOMAIN-SUFFIX,futuhk.com,PROXY
-DOMAIN-SUFFIX,futuhn.com,PROXY
-DOMAIN-SUFFIX,futuholdings.com,PROXY
-DOMAIN-SUFFIX,futuniuniu.com,PROXY
-DOMAIN-SUFFIX,futunn.com,PROXY
-DOMAIN-SUFFIX,futustatic.com,PROXY
+DOMAIN-SUFFIX,futuesop.com
+DOMAIN-SUFFIX,futufin.com
+DOMAIN-SUFFIX,futuhk.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futuholdings.com
+DOMAIN-SUFFIX,futuniuniu.com
+DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,futustatic.com
 
 # 富途 moomoo 证券
-DOMAIN-SUFFIX,moomoo.com,PROXY
-DOMAIN-SUFFIX,moomooequity.com,PROXY
-DOMAIN-SUFFIX,moomootrustee.com,PROXY
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomooequity.com
+DOMAIN-SUFFIX,moomootrustee.com

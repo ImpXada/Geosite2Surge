@@ -1,16 +1,16 @@
 # 蓝点网
 
 # 浙ICP备14021835号-1
-DOMAIN-SUFFIX,lancdn.com,PROXY
-DOMAIN-SUFFIX,landiannews.com,PROXY
+DOMAIN-SUFFIX,lancdn.com
+DOMAIN-SUFFIX,landiannews.com
 
 # 浙ICP备19001095号-4
-DOMAIN-SUFFIX,landian.vip,PROXY
+DOMAIN-SUFFIX,landian.vip
 
-DOMAIN-SUFFIX,landian.xyz,PROXY
+DOMAIN-SUFFIX,landian.xyz
 
 # 浙ICP备19001095号-10
-DOMAIN-SUFFIX,ourl.co,PROXY
+DOMAIN-SUFFIX,ourl.co
 
 # 浙ICP备19001095号-2
-DOMAIN-SUFFIX,wsoso.com,PROXY
+DOMAIN-SUFFIX,wsoso.com
