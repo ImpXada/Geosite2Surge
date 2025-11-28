@@ -160,11 +160,11 @@ def process_line(line: str):
     
     # Process the line based on its prefix
     if line.startswith("regexp:"):
-        res = f"DOMAIN-WILDCARD,{regex_ast_to_wildcard(line[7:])},PROXY{formatted_comment}"
+        res = f"DOMAIN-WILDCARD,{regex_ast_to_wildcard(line[7:])}{formatted_comment}"
     elif line.startswith("full:"):
-        res = f"DOMAIN,{line[5:]},PROXY{formatted_comment}"
+        res = f"DOMAIN,{line[5:]}{formatted_comment}"
     else:
-        res = f"DOMAIN-SUFFIX,{line},PROXY{formatted_comment}"
+        res = f"DOMAIN-SUFFIX,{line}{formatted_comment}"
     
     # Write to each tag file if tags were found
     if tags:
