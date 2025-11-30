@@ -584,6 +584,11 @@ DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,now-tv.com
 DOMAIN-SUFFIX,now-ashare.com
 #end include:now
+#include:okko
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+#end include:okko
 #include:olevod
 DOMAIN-SUFFIX,haiwaikan.com
 DOMAIN-SUFFIX,iole.tv
@@ -755,6 +760,9 @@ DOMAIN-SUFFIX,tmdb.org
 
 DOMAIN,tmdb-image-prod.b-cdn.net
 #end include:tmdb
+#include:tvdb
+DOMAIN-SUFFIX,thetvdb.com
+#end include:tvdb
 #include:tver
 DOMAIN-SUFFIX,dogatch.jp
 DOMAIN-SUFFIX,gorin.jp
@@ -1070,7 +1078,6 @@ DOMAIN-SUFFIX,omobi.cc
 DOMAIN-SUFFIX,oranum.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,syosetu.com
-DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,weverse.io
 DOMAIN-SUFFIX,yande.re
 

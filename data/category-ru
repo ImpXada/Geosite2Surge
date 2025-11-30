@@ -182,6 +182,11 @@ DOMAIN-SUFFIX,okcdn.ru
 #include:ok
 DOMAIN-SUFFIX,ok.ru
 #end include:ok
+#include:okko
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+#end include:okko
 #include:ozon
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozone.ru
