@@ -26,5 +26,6 @@ DOMAIN-SUFFIX,x.com
 #end include:twitter
 #include:xai
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,x.ai
 #end include:xai

@@ -474,5 +474,6 @@ DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 #end include:threads
 
+DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com

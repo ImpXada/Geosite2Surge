@@ -156,6 +156,11 @@ DOMAIN-SUFFIX,miaoyanai.com
 
 # 法行宝 (百度)
 DOMAIN-SUFFIX,faxingbao.com
+
+# 上海秘塔网络科技
+DOMAIN-SUFFIX,meta.law
+DOMAIN-SUFFIX,metaso.cn
+DOMAIN-SUFFIX,xiezuocat.com
 #end include:category-ai-cn
 
 # Aviation
