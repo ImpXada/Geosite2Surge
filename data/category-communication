@@ -153,6 +153,18 @@ DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,usercontent.dev
 #end include:telegram
+#include:temp-mail
+DOMAIN-SUFFIX,temp-mail.org
+#end include:temp-mail
+#include:viber
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,viber.co
+DOMAIN-SUFFIX,viber.me
+
+DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
+DOMAIN-SUFFIX,vbcdn.com
+DOMAIN-SUFFIX,vbcdn.net
+#end include:viber
 #include:whatsapp
 #include:whatsapp-ads
 DOMAIN-SUFFIX,graph.whatsapp.com

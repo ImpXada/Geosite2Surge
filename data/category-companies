@@ -1007,6 +1007,7 @@ DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
 DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com
 
 DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,canvastatus.com
 #end include:canva
 #include:chegg
 DOMAIN-SUFFIX,chegg.com

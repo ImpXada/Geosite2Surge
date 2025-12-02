@@ -33,6 +33,10 @@ DOMAIN-SUFFIX,broadbandreports.com
 DOMAIN-SUFFIX,dslr.net
 DOMAIN-SUFFIX,dslreports.com
 #end include:dslreports
+#include:habr
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org
+#end include:habr
 #include:hkgolden
 DOMAIN-SUFFIX,hkgolden.com
 DOMAIN-SUFFIX,hkgolden.media

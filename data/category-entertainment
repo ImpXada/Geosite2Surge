@@ -7,6 +7,10 @@ DOMAIN-SUFFIX,quanben-xiaoshuo.com
 DOMAIN-SUFFIX,quanben.io
 #end include:category-novel
 
+#include:7tv
+DOMAIN-SUFFIX,7tv.app
+DOMAIN-SUFFIX,7tv.io
+#end include:7tv
 #include:abema
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,abema.tv
@@ -508,6 +512,9 @@ DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
 #include:manhuagui
 DOMAIN-SUFFIX,manhuagui.com
 #end include:manhuagui
+#include:metacritic
+DOMAIN-SUFFIX,metacritic.com
+#end include:metacritic
 #include:mubi
 DOMAIN-SUFFIX,mubi.com
 DOMAIN-SUFFIX,mubicdn.net
@@ -660,6 +667,11 @@ DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,roku.com
 DOMAIN-SUFFIX,rokutime.com
 #end include:roku
+#include:rutube
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
+#end include:rutube
 #include:showtimeanytime
 DOMAIN-SUFFIX,showtimeanytime.com
 DOMAIN-SUFFIX,showtime.com
