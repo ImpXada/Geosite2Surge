@@ -273,6 +273,10 @@ DOMAIN-SUFFIX,anlaiye.com
 DOMAIN-SUFFIX,anlaiye.com.cn
 DOMAIN-SUFFIX,imcoming.com
 DOMAIN-SUFFIX,imcome.net
+
+# 美餐
+DOMAIN-SUFFIX,meican.com
+DOMAIN-SUFFIX,meicanstatic.com
 #end include:category-food-cn
 
 # 快递物流
@@ -1201,6 +1205,9 @@ DOMAIN-SUFFIX,kfzimg.com
 # 朴朴
 DOMAIN-SUFFIX,pupuapi.com
 DOMAIN-SUFFIX,pupumall.com
+# 穷游
+DOMAIN-SUFFIX,qyer.com
+DOMAIN-SUFFIX,qyerstatic.com
 # 唯品会
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
@@ -1440,7 +1447,8 @@ DOMAIN-SUFFIX,agoraio.cn
 DOMAIN-SUFFIX,agoralab.co
 #end include:agora
 #include:category-collaborate-cn
-# Remote Desktop
+# 远程桌面/远程组网
+
 ## Oray
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
@@ -1457,24 +1465,35 @@ DOMAIN-SUFFIX,asklink.com
 ## 叮当猫脚本管理系统 懒人精灵远程调试
 DOMAIN-SUFFIX,privateapi.xyz
 
-# Tower 团队协作
+# xEdge干将互联
+# xEdge 干将互联
+# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
+DOMAIN-SUFFIX,xedge.cc
+DOMAIN-SUFFIX,glxcc.net
+DOMAIN-SUFFIX,xn0.cc
+DOMAIN-SUFFIX,ganjiangvpn.com
+#end include:xedge
+
+# 文档协作
+
+## Tower 团队协作
 DOMAIN-SUFFIX,tower.im
 
-# 秀米编辑器
+## 秀米编辑器
 DOMAIN-SUFFIX,tritoninfo.net
 DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,xiumius.com
 
-# 石墨文档
+## 石墨文档
 DOMAIN-SUFFIX,shimo.im
 DOMAIN-SUFFIX,shimonote.com
 DOMAIN-SUFFIX,smgv.cn
 
-# 语雀
+## 语雀
 DOMAIN-SUFFIX,nlark.com
 DOMAIN-SUFFIX,yuque.com
 
-# 吾道
+## 吾道
 DOMAIN-SUFFIX,woodo.cn
 #end include:category-collaborate-cn
 #include:category-ntp-cn
@@ -2367,16 +2386,6 @@ DOMAIN-SUFFIX,kookong.com
 DOMAIN-SUFFIX,51togic.com    #泰捷WEBOX
 DOMAIN-SUFFIX,ezpro.pro    #小马路由
 
-# xEdge干将互联 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
-#include:xedge
-# xEdge 干将互联
-# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
-DOMAIN-SUFFIX,xedge.cc
-DOMAIN-SUFFIX,glxcc.net
-DOMAIN-SUFFIX,xn0.cc
-DOMAIN-SUFFIX,ganjiangvpn.com
-#end include:xedge
-
 # Telecommunication
 #include:chinabroadnet
 DOMAIN-SUFFIX,10099.com.cn
@@ -2527,19 +2536,6 @@ DOMAIN-SUFFIX,limestart.cn
 DOMAIN-SUFFIX,moulem.com
 # 轻主页
 DOMAIN-SUFFIX,qzhuye.com
-
-# 街机
-#include:aamgame
-# 广州市艾美娱乐设备有限公司
-# 粤ICP备09210476号
-DOMAIN-SUFFIX,aamgame.net
-DOMAIN-SUFFIX,aamgame.com
-DOMAIN-SUFFIX,aamgame.mobi
-DOMAIN-SUFFIX,aamsmart.com
-
-# 舞推 (E舞成名)
-DOMAIN-SUFFIX,singworld.net
-#end include:aamgame
 
 # Others
 #include:category-enterprise-query-platform-cn
@@ -3330,7 +3326,6 @@ DOMAIN-SUFFIX,qtmojo.com
 DOMAIN-SUFFIX,qudong.com
 DOMAIN-SUFFIX,qugame.com
 DOMAIN-SUFFIX,qunjielong.com    #桂ICP备14006138号-2
-DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,rockyenglish.com
 DOMAIN-SUFFIX,rong360.com
 DOMAIN-SUFFIX,rtbasia.com

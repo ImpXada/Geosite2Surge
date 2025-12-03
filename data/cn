@@ -320,6 +320,10 @@ DOMAIN-SUFFIX,anlaiye.com
 DOMAIN-SUFFIX,anlaiye.com.cn
 DOMAIN-SUFFIX,imcoming.com
 DOMAIN-SUFFIX,imcome.net
+
+# 美餐
+DOMAIN-SUFFIX,meican.com
+DOMAIN-SUFFIX,meicanstatic.com
 #end include:category-food-cn
 
 # 快递物流
@@ -1248,6 +1252,9 @@ DOMAIN-SUFFIX,kfzimg.com
 # 朴朴
 DOMAIN-SUFFIX,pupuapi.com
 DOMAIN-SUFFIX,pupumall.com
+# 穷游
+DOMAIN-SUFFIX,qyer.com
+DOMAIN-SUFFIX,qyerstatic.com
 # 唯品会
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
@@ -1487,7 +1494,8 @@ DOMAIN-SUFFIX,agoraio.cn
 DOMAIN-SUFFIX,agoralab.co
 #end include:agora
 #include:category-collaborate-cn
-# Remote Desktop
+# 远程桌面/远程组网
+
 ## Oray
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
@@ -1504,24 +1512,35 @@ DOMAIN-SUFFIX,asklink.com
 ## 叮当猫脚本管理系统 懒人精灵远程调试
 DOMAIN-SUFFIX,privateapi.xyz
 
-# Tower 团队协作
+# xEdge干将互联
+# xEdge 干将互联
+# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
+DOMAIN-SUFFIX,xedge.cc
+DOMAIN-SUFFIX,glxcc.net
+DOMAIN-SUFFIX,xn0.cc
+DOMAIN-SUFFIX,ganjiangvpn.com
+#end include:xedge
+
+# 文档协作
+
+## Tower 团队协作
 DOMAIN-SUFFIX,tower.im
 
-# 秀米编辑器
+## 秀米编辑器
 DOMAIN-SUFFIX,tritoninfo.net
 DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,xiumius.com
 
-# 石墨文档
+## 石墨文档
 DOMAIN-SUFFIX,shimo.im
 DOMAIN-SUFFIX,shimonote.com
 DOMAIN-SUFFIX,smgv.cn
 
-# 语雀
+## 语雀
 DOMAIN-SUFFIX,nlark.com
 DOMAIN-SUFFIX,yuque.com
 
-# 吾道
+## 吾道
 DOMAIN-SUFFIX,woodo.cn
 #end include:category-collaborate-cn
 #include:category-ntp-cn
@@ -2414,16 +2433,6 @@ DOMAIN-SUFFIX,kookong.com
 DOMAIN-SUFFIX,51togic.com    #泰捷WEBOX
 DOMAIN-SUFFIX,ezpro.pro    #小马路由
 
-# xEdge干将互联 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
-#include:xedge
-# xEdge 干将互联
-# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
-DOMAIN-SUFFIX,xedge.cc
-DOMAIN-SUFFIX,glxcc.net
-DOMAIN-SUFFIX,xn0.cc
-DOMAIN-SUFFIX,ganjiangvpn.com
-#end include:xedge
-
 # Telecommunication
 #include:chinabroadnet
 DOMAIN-SUFFIX,10099.com.cn
@@ -2574,19 +2583,6 @@ DOMAIN-SUFFIX,limestart.cn
 DOMAIN-SUFFIX,moulem.com
 # 轻主页
 DOMAIN-SUFFIX,qzhuye.com
-
-# 街机
-#include:aamgame
-# 广州市艾美娱乐设备有限公司
-# 粤ICP备09210476号
-DOMAIN-SUFFIX,aamgame.net
-DOMAIN-SUFFIX,aamgame.com
-DOMAIN-SUFFIX,aamgame.mobi
-DOMAIN-SUFFIX,aamsmart.com
-
-# 舞推 (E舞成名)
-DOMAIN-SUFFIX,singworld.net
-#end include:aamgame
 
 # Others
 #include:category-enterprise-query-platform-cn
@@ -3377,7 +3373,6 @@ DOMAIN-SUFFIX,qtmojo.com
 DOMAIN-SUFFIX,qudong.com
 DOMAIN-SUFFIX,qugame.com
 DOMAIN-SUFFIX,qunjielong.com    #桂ICP备14006138号-2
-DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,rockyenglish.com
 DOMAIN-SUFFIX,rong360.com
 DOMAIN-SUFFIX,rtbasia.com
@@ -3819,6 +3814,44 @@ DOMAIN-SUFFIX,ao-x.ac.cn
 # 万集科技 京ICP备18036282号-2
 DOMAIN-SUFFIX,wanji.net.cn
 #end include:geolocation-cn
+DOMAIN-SUFFIX,reckittbenckiser.cn
+DOMAIN-SUFFIX,reckittbenckiser.com.cn
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,yahoo.cn
+DOMAIN-SUFFIX,yahoo.com.cn
+DOMAIN-SUFFIX,aboutamazon.cn
+DOMAIN-SUFFIX,alexafund.cn
+DOMAIN-SUFFIX,alexafund.com.cn
+DOMAIN-SUFFIX,amazon.cn
+DOMAIN-SUFFIX,amazonbusiness.cn
+DOMAIN-SUFFIX,amazonbusiness.com.cn
+DOMAIN-SUFFIX,amazonchoice.cn
+DOMAIN-SUFFIX,amazonchoice.com.cn
+DOMAIN-SUFFIX,amazonchoices.cn
+DOMAIN-SUFFIX,amazonchoices.com.cn
+DOMAIN-SUFFIX,amazoninspire.cn
+DOMAIN-SUFFIX,amazoninspire.com.cn
+DOMAIN-SUFFIX,amazonlaunchpad.cn
+DOMAIN-SUFFIX,amazonlaunchpad.com.cn
+DOMAIN-SUFFIX,amazonlending.com.cn
+DOMAIN-SUFFIX,amazonnow.cn
+DOMAIN-SUFFIX,amazonnow.com.cn
+DOMAIN-SUFFIX,assoc-amazon.cn
+DOMAIN-SUFFIX,primeday.cn
+DOMAIN-SUFFIX,primeday.com.cn
+DOMAIN-SUFFIX,yamaxun.cn
+DOMAIN-SUFFIX,z.cn
+DOMAIN,images-cn.ssl-images-amazon.com
+DOMAIN,images-cn-8.ssl-images-amazon.com
+DOMAIN-SUFFIX,ldmnq.com
+DOMAIN-SUFFIX,lsplayer.com
+DOMAIN-SUFFIX,yeshen.com
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,bmw.com.cn
+DOMAIN-SUFFIX,alphabet.com.cn
+DOMAIN-SUFFIX,alphabet.net.cn
+DOMAIN-SUFFIX,adobedc.cn
 DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,apple-store.cn
@@ -4079,199 +4112,4 @@ DOMAIN,weatherkit.apple.com
 DOMAIN,www.apple.com
 DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,xp.apple.com
-DOMAIN-SUFFIX,reckittbenckiser.cn
-DOMAIN-SUFFIX,reckittbenckiser.com.cn
-DOMAIN-SUFFIX,ldmnq.com
-DOMAIN-SUFFIX,lsplayer.com
-DOMAIN-SUFFIX,yeshen.com
-DOMAIN-SUFFIX,heavenlywind.cc
-DOMAIN-SUFFIX,steampp.net
-DOMAIN-SUFFIX,cisco.cn
-DOMAIN-SUFFIX,cisco.com.cn
-DOMAIN-SUFFIX,network-auth.cn
-DOMAIN-SUFFIX,researchkit.cn
-DOMAIN-SUFFIX,researchkit.com.cn
-DOMAIN-SUFFIX,dcocsp.cn
-DOMAIN-SUFFIX,digicert.cn
-DOMAIN-SUFFIX,tvbc.com.cn
-DOMAIN-SUFFIX,yahoo.cn
-DOMAIN-SUFFIX,yahoo.com.cn
-DOMAIN-SUFFIX,aboutamazon.cn
-DOMAIN-SUFFIX,alexafund.cn
-DOMAIN-SUFFIX,alexafund.com.cn
-DOMAIN-SUFFIX,amazon.cn
-DOMAIN-SUFFIX,amazonbusiness.cn
-DOMAIN-SUFFIX,amazonbusiness.com.cn
-DOMAIN-SUFFIX,amazonchoice.cn
-DOMAIN-SUFFIX,amazonchoice.com.cn
-DOMAIN-SUFFIX,amazonchoices.cn
-DOMAIN-SUFFIX,amazonchoices.com.cn
-DOMAIN-SUFFIX,amazoninspire.cn
-DOMAIN-SUFFIX,amazoninspire.com.cn
-DOMAIN-SUFFIX,amazonlaunchpad.cn
-DOMAIN-SUFFIX,amazonlaunchpad.com.cn
-DOMAIN-SUFFIX,amazonlending.com.cn
-DOMAIN-SUFFIX,amazonnow.cn
-DOMAIN-SUFFIX,amazonnow.com.cn
-DOMAIN-SUFFIX,assoc-amazon.cn
-DOMAIN-SUFFIX,primeday.cn
-DOMAIN-SUFFIX,primeday.com.cn
-DOMAIN-SUFFIX,yamaxun.cn
-DOMAIN-SUFFIX,z.cn
-DOMAIN,images-cn.ssl-images-amazon.com
-DOMAIN,images-cn-8.ssl-images-amazon.com
-DOMAIN-SUFFIX,intel.cn
-DOMAIN-SUFFIX,bmw.com.cn
-DOMAIN-SUFFIX,alphabet.com.cn
-DOMAIN-SUFFIX,alphabet.net.cn
-DOMAIN-SUFFIX,adobedc.cn
-DOMAIN-SUFFIX,google.cn
-DOMAIN-SUFFIX,g.cn
-DOMAIN-SUFFIX,gkecnapps.cn
-DOMAIN-SUFFIX,googlecnapps.cn
-DOMAIN-SUFFIX,gstatic.cn
-DOMAIN-SUFFIX,gstaticcnapps.cn
-DOMAIN,www.recaptcha.net
-DOMAIN,safebrowsing-cache.google.com
-DOMAIN,265.com
-DOMAIN,2mdn-cn.net
-DOMAIN,2mdn.net
-DOMAIN,admob-cn.com
-DOMAIN,adservice.google.com
-DOMAIN,app-analytics-services.com
-DOMAIN,app-measurement-cn.com
-DOMAIN,app-measurement.com
-DOMAIN,apps5.oingo.com
-DOMAIN,avail.googleflights.net
-DOMAIN,beacons.gcp.gvt2.com
-DOMAIN,beacons.gvt2.com
-DOMAIN,beacons2.gvt2.com
-DOMAIN,beacons3.gvt2.com
-DOMAIN,c.admob.com
-DOMAIN,c.android.clients.google.com
-DOMAIN,cache-management-prod.google.com
-DOMAIN,cache.pack.google.com
-DOMAIN,checkin.gstatic.com
-DOMAIN,clickserve.cc-dt.com
-DOMAIN,clickserve.dartsearch.net
-DOMAIN,clickserver.googleads.com
-DOMAIN,clientservices.googleapis.com
-DOMAIN,cn.widevine.com
-DOMAIN,cnappinstall.googleadapis.com
-DOMAIN,connectivitycheck.gstatic.com
-DOMAIN,content.googleadapis.com
-DOMAIN,crashlyticsreports-pa.googleapis.com
-DOMAIN,crl.pki.goog
-DOMAIN,csi.gstatic.com
-DOMAIN,dartsearch-cn.net
-DOMAIN,dg-meta.video.google.com
-DOMAIN,dl.google.com
-DOMAIN,dl.l.google.com
-DOMAIN,doubleclick-cn.net
-DOMAIN,doubleclick.net
-DOMAIN,download.mlcc.google.com
-DOMAIN,download.qatp1.net
-DOMAIN,download.tensorflow.google.com
-DOMAIN,emmapplecodevice.googleapis.com
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,fontfiles.googleapis.com
-DOMAIN,fonts.googleapis.com
-DOMAIN,fonts.gstatic.com
-DOMAIN,g0.gstatic.com
-DOMAIN,g1.gstatic.com
-DOMAIN,g2.gstatic.com
-DOMAIN,g3.gstatic.com
-DOMAIN,go.corp.google.com
-DOMAIN,gonglchuangl.net
-DOMAIN,gongyichuangyi.net
-DOMAIN,google-analytics-cn.com
-DOMAIN,google-analytics.com
-DOMAIN,googleadservices-cn.com
-DOMAIN,googleadservices.com
-DOMAIN,googleanalytics.com
-DOMAIN,googleapis-cn.com
-DOMAIN,googleapps-cn.com
-DOMAIN,googleflights-cn.net
-DOMAIN,googleoptimize-cn.com
-DOMAIN,googleoptimize.com
-DOMAIN,googlesyndication-cn.com
-DOMAIN,googlesyndication.com
-DOMAIN,googletagmanager-cn.com
-DOMAIN,googletagmanager.com
-DOMAIN,googletagservices-cn.com
-DOMAIN,googletagservices.com
-DOMAIN,googletraveladservices-cn.com
-DOMAIN,googletraveladservices.com
-DOMAIN,googlevads-cn.com
-DOMAIN,gstatic-cn.com
-DOMAIN,gstaticadssl.l.google.com
-DOMAIN,gtm.oasisfeng.com
-DOMAIN,imasdk.googleapis.com
-DOMAIN,l2-uberproxy.corp.google.com
-DOMAIN,logger-dev.corp.google.com
-DOMAIN,logger.corp.google.com
-DOMAIN,login.corp.google.com
-DOMAIN,monitoring.qpdp1.net
-DOMAIN,ocsp.pki.goog
-DOMAIN,pagead-googlehosted.l.google.com
-DOMAIN,performanceparameters.googleapis.com
-DOMAIN,pki-goog.l.google.com
-DOMAIN,prod-controlbe.floonet.goog
-DOMAIN,prod-databe.floonet.goog
-DOMAIN,prod.databe.floonet.goog
-DOMAIN,proxyconfig.corp.google.com
-DOMAIN,qagpublic.qatp1.net
-DOMAIN,qgadmin.qcpp1.net
-DOMAIN,qiao-cn.com
-DOMAIN,qpx.googleflights.net
-DOMAIN,qualysapi.qatp1.net
-DOMAIN,qualysguard.qpdp1.net
-DOMAIN,r.cert.corp.google.com
-DOMAIN,rapture-prod.corp.google.com
-DOMAIN,recaptcha-cn.net
-DOMAIN,recaptcha.net
-DOMAIN,redirector.bdn.dev
-DOMAIN,redirector.c.chat.google.com
-DOMAIN,redirector.c.mail.google.com
-DOMAIN,redirector.c.pack.google.com
-DOMAIN,redirector.c.play.google.com
-DOMAIN,redirector.c.youtubeeducation.com
-DOMAIN,redirector.gcpcdn.gvt1.com
-DOMAIN,redirector.gvt1.com
-DOMAIN,redirector.offline-maps.gvt1.com
-DOMAIN,redirector.snap.gvt1.com
-DOMAIN,redirector.xn--ngstr-lra8j.com
-DOMAIN,safebrowsing-cache.google.com
-DOMAIN,safebrowsing.googleapis.com
-DOMAIN,scanservice1.qcpp1.net
-DOMAIN,service.urchin.com
-DOMAIN,ssl-google-analytics.l.google.com
-DOMAIN,ssl.gstatic.com
-DOMAIN,sslredirect.corp.google.com
-DOMAIN,staging-controlbe.floonet.goog
-DOMAIN,staging-databe.floonet.goog
-DOMAIN,staging.databe.floonet.goog
-DOMAIN,streaming-uberproxy-rotation.corp.google.com
-DOMAIN,streaming-uberproxy.corp.google.com
-DOMAIN,sup-ssh-relay.corp.google.com
-DOMAIN,sup-ssh-relay2.corp.google.com
-DOMAIN,sup.corp.google.com
-DOMAIN,sup.l.google.com
-DOMAIN,tac.googleapis.com
-DOMAIN,test.gbugs-qa.chromium.org
-DOMAIN,tools.google.com
-DOMAIN,tools.l.google.com
-DOMAIN,uberproxy-debug4.corp.google.com
-DOMAIN,uberproxy.corp.google.com
-DOMAIN,uberproxy6.corp.google.com
-DOMAIN,update.crashlytics.com
-DOMAIN,update.googleapis.com
-DOMAIN,wear.googleapis.com
-DOMAIN,www-google-analytics.l.google.com
-DOMAIN,www-googletagmanager.l.google.com
-DOMAIN,www.destinationurl.com
-DOMAIN,www.gstatic.com
-DOMAIN,www.pxcc.com
-DOMAIN,xn--flw351e.com
-DOMAIN-SUFFIX,gvt1-cn.com
-DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN-SUFFIX,duolingo.cn

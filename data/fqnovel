@@ -1,3 +1,21 @@
+#include:fqnovel-ads
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads3-normal.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,ads5-normal.zijieapi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
+#end include:fqnovel-ads
+
 DOMAIN-SUFFIX,activity-zhendingtech.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,fanqienovel.com
@@ -9,9 +27,9 @@ DOMAIN-SUFFIX,fanqiesdk.com
 DOMAIN-SUFFIX,fanqiesdkpic.com
 DOMAIN-SUFFIX,fanqiesdkstatic.com
 DOMAIN-SUFFIX,fanqiesdkvod.com
+DOMAIN-SUFFIX,fqnovel-op.com
 DOMAIN-SUFFIX,fqnovel.com
 DOMAIN-SUFFIX,fqnovelim.com
-DOMAIN-SUFFIX,fqnovel-op.com
 DOMAIN-SUFFIX,fqnovelop.com
 DOMAIN-SUFFIX,fqnovelpic.com
 DOMAIN-SUFFIX,fqnovelstatic.com
@@ -29,13 +47,3 @@ DOMAIN-SUFFIX,qznovelvod.com
 
 DOMAIN,p3-novel.byteimg.com
 DOMAIN,p6-novel.byteimg.com
-
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
