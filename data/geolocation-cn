@@ -1348,12 +1348,14 @@ DOMAIN-SUFFIX,kanxue.com    #看雪
 DOMAIN-SUFFIX,kdslife.com    #宽带山
 DOMAIN-SUFFIX,jandan.net    #煎蛋
 DOMAIN-SUFFIX,klpbbs.com    #苦力怕论坛
+DOMAIN-SUFFIX,mala.cn    #麻辣社区
 DOMAIN-SUFFIX,mcbbs.net    #MCBBS论坛
 DOMAIN-SUFFIX,pcbeta.com    #远景论坛
 DOMAIN-SUFFIX,right.com.cn    #恩山论坛
 DOMAIN-SUFFIX,txrjy.com    #通信人家园
 DOMAIN-SUFFIX,uiwow.com    #魔兽有爱论坛
 DOMAIN-SUFFIX,wuyou.net    #无忧启动论坛
+DOMAIN-SUFFIX,x-station.cn    #X电站
 
 DOMAIN-SUFFIX,423down.com    #423Down
 DOMAIN-SUFFIX,acwifi.net    #路由器技术分享
@@ -2359,12 +2361,9 @@ DOMAIN-SUFFIX,nubia.cn
 DOMAIN-SUFFIX,nubia.com
 DOMAIN-SUFFIX,redmagic.com
 DOMAIN-SUFFIX,zte.com.cn
+DOMAIN-SUFFIX,ztedevices.com
 DOMAIN-SUFFIX,ztemall.com
 DOMAIN-SUFFIX,ztems.com
-
-DOMAIN,bbs.ztedevices.com
-DOMAIN,www.ztedevices.com
-DOMAIN,ztedevices.com
 #end include:zte
 
 DOMAIN-SUFFIX,antutu.com    #安兔兔
@@ -2372,12 +2371,16 @@ DOMAIN-SUFFIX,avlyun.com    #安天移动安全
 DOMAIN-SUFFIX,dida365.com    #滴答清单
 DOMAIN-SUFFIX,huolala.cn    #货拉拉
 DOMAIN-SUFFIX,huorong.cn    #火绒
-DOMAIN-SUFFIX,quickapp.cn    #快应用
+DOMAIN-SUFFIX,jamcz.com    #晨钟网络科技
 DOMAIN-SUFFIX,roborock.com    #石头科技
 DOMAIN-SUFFIX,socpk.com    #极客湾移动芯片排行
 DOMAIN-SUFFIX,udesk.cn    #沃丰科技
 DOMAIN-SUFFIX,viayoo.com    #Via 浏览器
 DOMAIN-SUFFIX,yinxiang.com    #印象笔记
+
+# 快应用
+DOMAIN-SUFFIX,quickapp.cn
+DOMAIN-SUFFIX,hapjs.org
 
 # 酷控
 DOMAIN-SUFFIX,deepepg.com
@@ -2836,6 +2839,7 @@ DOMAIN-SUFFIX,chaojituzi.net
 DOMAIN-SUFFIX,chashebao.com
 DOMAIN-SUFFIX,chaz.fun    #粤ICP备2022001828号-2
 DOMAIN-SUFFIX,chazhengla.com
+DOMAIN-SUFFIX,chazidian.com
 DOMAIN-SUFFIX,che168.com
 DOMAIN-SUFFIX,chememall.com    #津ICP备2021007710号-1
 DOMAIN-SUFFIX,china-chair.com
@@ -2968,7 +2972,6 @@ DOMAIN-SUFFIX,eolink.com
 DOMAIN-SUFFIX,excelhome.net
 DOMAIN-SUFFIX,extfans.com
 DOMAIN-SUFFIX,f.cx
-DOMAIN-SUFFIX,faloo.com
 DOMAIN-SUFFIX,famulei.com
 DOMAIN-SUFFIX,fanli.com
 DOMAIN-SUFFIX,fangxiaoer.com
@@ -3626,12 +3629,12 @@ DOMAIN-SUFFIX,zimuzu.io
 DOMAIN-SUFFIX,zixiaomao.com
 DOMAIN-SUFFIX,zixuntop.com
 DOMAIN-SUFFIX,zmengzhu.com
-DOMAIN-SUFFIX,zongheng.com
 DOMAIN-SUFFIX,zpb365.com
 DOMAIN-SUFFIX,zrblog.net
 DOMAIN-SUFFIX,zsxq.com
 DOMAIN-SUFFIX,zuhaowan.com
 DOMAIN-SUFFIX,zuidaima.com
+DOMAIN-SUFFIX,zuowen.com
 DOMAIN-SUFFIX,zuowen8.com
 DOMAIN-SUFFIX,zuowenwang.net
 DOMAIN-SUFFIX,zztfly.com

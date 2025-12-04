@@ -404,85 +404,6 @@ DOMAIN-SUFFIX,workplaceusecases.com
 
 DOMAIN,fbcdn-a.akamaihd.net
 #end include:facebook
-#include:instagram
-#include:instagram-ads
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-#end include:instagram-ads
-
-DOMAIN-SUFFIX,achat-followers-instagram.com
-DOMAIN-SUFFIX,acheter-followers-instagram.com
-DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
-DOMAIN-SUFFIX,acheterfollowersinstagram.com
-DOMAIN-SUFFIX,bookstagram.com
-DOMAIN-SUFFIX,carstagram.com
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,chickstagram.com
-DOMAIN-SUFFIX,ig.me
-DOMAIN-SUFFIX,igcdn.com
-DOMAIN-SUFFIX,igsonar.com
-DOMAIN-SUFFIX,igtv.com
-DOMAIN-SUFFIX,imstagram.com
-DOMAIN-SUFFIX,imtagram.com
-DOMAIN-SUFFIX,instaadder.com
-DOMAIN-SUFFIX,instachecker.com
-DOMAIN-SUFFIX,instafallow.com
-DOMAIN-SUFFIX,instafollower.com
-DOMAIN-SUFFIX,instagainer.com
-DOMAIN-SUFFIX,instagda.com
-DOMAIN-SUFFIX,instagify.com
-DOMAIN-SUFFIX,instagmania.com
-DOMAIN-SUFFIX,instagor.com
-DOMAIN-SUFFIX,instagram-brand.com
-DOMAIN-SUFFIX,instagram-engineering.com
-DOMAIN-SUFFIX,instagram-help.com
-DOMAIN-SUFFIX,instagram-press.com
-DOMAIN-SUFFIX,instagram-press.net
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instagramci.com
-DOMAIN-SUFFIX,instagramcn.com
-DOMAIN-SUFFIX,instagramdi.com
-DOMAIN-SUFFIX,instagramhashtags.net
-DOMAIN-SUFFIX,instagramhilecim.com
-DOMAIN-SUFFIX,instagramhilesi.org
-DOMAIN-SUFFIX,instagramium.com
-DOMAIN-SUFFIX,instagramizlenme.com
-DOMAIN-SUFFIX,instagramkusu.com
-DOMAIN-SUFFIX,instagramlogin.com
-DOMAIN-SUFFIX,instagramm.com
-DOMAIN-SUFFIX,instagramn.com
-DOMAIN-SUFFIX,instagrampartners.com
-DOMAIN-SUFFIX,instagramphoto.com
-DOMAIN-SUFFIX,instagramq.com
-DOMAIN-SUFFIX,instagramsepeti.com
-DOMAIN-SUFFIX,instagramtakipcisatinal.net
-DOMAIN-SUFFIX,instagramtakiphilesi.com
-DOMAIN-SUFFIX,instagramtips.com
-DOMAIN-SUFFIX,instagramtr.com
-DOMAIN-SUFFIX,instagran.com
-DOMAIN-SUFFIX,instagranm.com
-DOMAIN-SUFFIX,instagrem.com
-DOMAIN-SUFFIX,instagrm.com
-DOMAIN-SUFFIX,instagtram.com
-DOMAIN-SUFFIX,instagy.com
-DOMAIN-SUFFIX,instamgram.com
-DOMAIN-SUFFIX,instangram.com
-DOMAIN-SUFFIX,instanttelegram.com
-DOMAIN-SUFFIX,instaplayer.net
-DOMAIN-SUFFIX,instastyle.tv
-DOMAIN-SUFFIX,instgram.com
-DOMAIN-SUFFIX,intagram.com
-DOMAIN-SUFFIX,intagrm.com
-DOMAIN-SUFFIX,intgram.com
-DOMAIN-SUFFIX,kingstagram.com
-DOMAIN-SUFFIX,lnstagram-help.com
-DOMAIN-SUFFIX,theinstagramhack.com
-DOMAIN-SUFFIX,oninstagram.com
-DOMAIN-SUFFIX,online-instagram.com
-DOMAIN-SUFFIX,onlineinstagram.com
-DOMAIN-SUFFIX,web-instagram.net
-DOMAIN-SUFFIX,wwwinstagram.com
-#end include:instagram
 #include:linkedin
 DOMAIN-SUFFIX,bizographics.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
@@ -500,6 +421,10 @@ DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
 #end include:linkedin
+#include:mailru
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+#end include:mailru
 #include:misskey
 DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,misskeyusercontent.jp
@@ -543,6 +468,11 @@ DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,trpger.us
 #end include:misskey-universe
 #end include:misskey
+#include:ok
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,mycdn.me
+#end include:ok
 #include:threads
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net

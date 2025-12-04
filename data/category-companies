@@ -1922,15 +1922,6 @@ DOMAIN-SUFFIX,logitechg.fr
 DOMAIN-SUFFIX,logitechio.com.cn
 DOMAIN-SUFFIX,worldsfastestgamer.net
 #end include:logitech
-#include:mailru
-DOMAIN-SUFFIX,boosty.to
-DOMAIN-SUFFIX,donationalerts.com
-DOMAIN-SUFFIX,imgsmail.ru
-DOMAIN-SUFFIX,mail.ru
-DOMAIN-SUFFIX,memealerts.com
-DOMAIN-SUFFIX,mycdn.me
-DOMAIN-SUFFIX,okcdn.ru
-#end include:mailru
 #include:mikrotik
 DOMAIN-SUFFIX,mikrotik.com
 DOMAIN-SUFFIX,mt.lv
@@ -2631,7 +2622,6 @@ DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,admetrica.ru
-DOMAIN-SUFFIX,dzen.ru
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,turbopages.org

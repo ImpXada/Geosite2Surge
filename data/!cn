@@ -1,4 +1,3 @@
-DOMAIN,ztedevices.com
 DOMAIN-SUFFIX,deepin.io
 DOMAIN-SUFFIX,deepin.org
 DOMAIN-SUFFIX,huaweicloud-dns.net
@@ -275,11 +274,6 @@ DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN,bytedance.map.fastly.net
-DOMAIN-SUFFIX,tencent.co.id
-DOMAIN-SUFFIX,tencent.com.hk
-DOMAIN-SUFFIX,wetv.vip
-DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,hk.weibo.com
 DOMAIN-SUFFIX,my.weibo.com
 DOMAIN-SUFFIX,overseas.weibo.com
@@ -295,5 +289,10 @@ DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipaymo.com
 DOMAIN-SUFFIX,tmall.ru
 DOMAIN-SUFFIX,fliggy.hk
+DOMAIN-SUFFIX,tencent.co.id
+DOMAIN-SUFFIX,tencent.com.hk
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,chinatelecomglobal.com
 DOMAIN-SUFFIX,chinatelecomhk.com

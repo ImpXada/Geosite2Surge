@@ -2198,9 +2198,6 @@ DOMAIN-SUFFIX,notion.site
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,notionusercontent.com
 #end include:notion
-#include:ok
-DOMAIN-SUFFIX,ok.ru
-#end include:ok
 #include:okaapps
 DOMAIN-SUFFIX,domain:okaapps.com
 
