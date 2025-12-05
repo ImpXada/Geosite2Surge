@@ -236,6 +236,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | category-dev | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-dev |
 | category-dev-cn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-dev-cn |
 | category-documents-cn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-documents-cn |
+| category-doh | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-doh |
 | category-ecommerce | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-ecommerce |
 | category-education-cn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-education-cn |
 | category-education-ir | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-education-ir |

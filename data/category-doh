@@ -1,0 +1,359 @@
+# This is not related with `category-httpdns-cn`
+
+# **Public anycast resolvers**
+
+# AdGuard DNS
+
+## Default
+DOMAIN,dns.adguard.com
+DOMAIN,dns.adguard-dns.com
+
+## Family Protection
+DOMAIN,family.adguard-dns.com
+
+## Non-filtering
+DOMAIN,unfiltered.adguard-dns.com
+
+# Ali DNS
+DOMAIN,dns.alidns.com
+
+# Apple DNS
+DOMAIN,doh.dns.apple.com
+
+# Caliph DNS
+DOMAIN,dns.caliph.dev
+
+# BebasDNS by BebasID
+
+## Unfiltered
+DOMAIN,dns.bebasid.com
+
+## Security
+DOMAIN,antivirus.bebasid.com
+
+## Family
+DOMAIN,internetsehat.bebasid.com
+
+# CFIEC Public DNS
+DOMAIN,dns.cfiec.net
+
+# Cisco OpenDNS
+
+## Standard
+DOMAIN,doh.opendns.com
+
+## FamilyShield
+DOMAIN,doh.familyshield.opendns.com
+
+## Sandbox
+DOMAIN,doh.sandbox.opendns.com
+
+# CleanBrowsing
+DOMAIN,doh.cleanbrowsing.org
+
+# Cloudflare DNS
+
+## Standard
+DOMAIN,one.one.one.one
+DOMAIN,dns.cloudflare.com
+DOMAIN,cloudflare-dns.com
+
+## Malware blocking only
+DOMAIN,security.cloudflare-dns.com
+
+## Malware and adult content blocking
+DOMAIN,family.cloudflare-dns.com
+
+# ControlD
+DOMAIN,freedns.controld.com
+
+# DeCloudUs DNS
+DOMAIN,dns.decloudus.com
+
+# FutureDNS
+DOMAIN,futuredns.eu.org
+
+## Germany
+DOMAIN,dns.de.futuredns.eu.org
+
+## United States
+DOMAIN,dns.us.futuredns.eu.org
+
+# DNS.SB (xTom)
+
+## Global CDN
+DOMAIN,doh.dns.sb
+DOMAIN,doh.sb
+DOMAIN,dns.sb
+
+## Unicast PoPs
+DOMAIN,de-dus.doh.sb
+DOMAIN,de-fra.doh.sb
+DOMAIN,nl-ams.doh.sb
+DOMAIN,uk-lon.doh.sb
+DOMAIN,ee-tll.doh.sb
+DOMAIN,jp-kix.doh.sb
+DOMAIN,jp-nrt.doh.sb
+DOMAIN,hk-hkg.doh.sb
+DOMAIN,au-syd.doh.sb
+DOMAIN,us-chi.doh.sb
+DOMAIN,us-nyc.doh.sb
+DOMAIN,us-sjc.doh.sb
+DOMAIN,in-blr.doh.sb
+DOMAIN,sg-sin.doh.sb
+DOMAIN,kr-sel.doh.sb
+DOMAIN,ru-mow.doh.sb
+DOMAIN,ca-yyz.doh.sb
+DOMAIN,de-ber.doh.sb
+
+# DNSPod Public DNS+
+DOMAIN,doh.pub
+DOMAIN,dns.pub
+DOMAIN,sm2.doh.pub
+
+# dns0.eu
+DOMAIN,zero.dns0.eu
+
+# Google DNS
+DOMAIN,dns.google
+
+# Hurricane Electric Public Recursor
+DOMAIN,ordns.he.net
+
+# Mullvad
+
+## Non-filtering
+DOMAIN,dns.mullvad.net
+
+## Ad blocking
+DOMAIN,adblock.dns.mullvad.net
+
+## Ad + malware blocking
+DOMAIN,base.dns.mullvad.net
+
+## Ad + malware + social media blocking
+DOMAIN,extended.dns.mullvad.net
+
+## Ad + malware + adult + gambling blocking
+DOMAIN,family.dns.mullvad.net
+
+## Ad + malware + adult + gambling + social media blocking
+DOMAIN,all.dns.mullvad.net
+
+# NextDNS
+
+## Ultra-low latency
+DOMAIN,dns.nextdns.io
+
+## Anycast
+DOMAIN,anycast.dns.nextdns.io
+
+# OpenBLD.net DNS
+
+## Adaptive Filtering (ADA)
+DOMAIN,ada.openbld.net
+
+## Strict Filtering (RIC)
+DOMAIN,ric.openbld.net
+
+# Quad9 DNS
+
+## Standard
+DOMAIN,dns.quad9.net
+
+## Unsecured
+DOMAIN,dns10.quad9.net
+DOMAIN,dns11.quad9.net
+
+# Quadrant Security
+DOMAIN,doh.qis.io
+
+# Rabbit DNS
+
+## Non-filtering
+DOMAIN,dns.rabbitdns.org
+
+## Security-filtering
+DOMAIN,security.rabbitdns.org
+
+## Family-filtering
+DOMAIN,family.rabbitdns.org
+
+# RethinkDNS
+
+## Non-filtering
+DOMAIN,basic.rethinkdns.com
+
+# 360 Secure DNS
+DOMAIN,doh.360.cn
+
+# Surfshark DNS
+DOMAIN,dns.surfsharkdns.com
+
+# v.recipes DNS (former 0ms.dev)
+DOMAIN,v.recipes
+
+# Wikimedia DNS
+DOMAIN,wikimedia-dns.org
+
+# **Regional resolvers**
+
+# Applied Privacy DNS
+DOMAIN,doh.applied-privacy.net
+
+# CIRA Canadian Shield DNS
+
+## Private
+DOMAIN,private.canadianshield.cira.ca
+
+## Protected
+DOMAIN,protected.canadianshield.cira.ca
+
+## Family
+DOMAIN,family.canadianshield.cira.ca
+
+## Geo-blocking bypass
+DOMAIN,dns.comss.one
+
+## Geo-blocking bypass with ad filtering
+DOMAIN,router.comss.one
+
+# CZ.NIC ODVR
+DOMAIN,odvr.nic.cz
+
+# Digitale Gesellschaft DNS
+DOMAIN,dns.digitale-gesellschaft.ch
+
+# DNS for Family
+DOMAIN,dns-doh.dnsforfamily.com
+
+## Protective resolution
+DOMAIN,protective.joindns4.eu
+
+## Protective resolution with child protection
+DOMAIN,child.joindns4.eu
+
+## Protective resolution with ad blocking
+DOMAIN,noads.joindns4.eu
+
+## Protective resolution with child protection and ad blocking
+DOMAIN,child-noads.joindns4.eu
+
+## Unfiltered resolution
+DOMAIN,unfiltered.joindns4.eu
+
+# Fondation Restena DNS
+DOMAIN,kaitain.restena.lu
+
+# IIJ.JP DNS
+DOMAIN,public.dns.iij.jp
+
+# JupitrDNS
+DOMAIN,dns.jupitrdns.com
+
+# LibreDNS
+DOMAIN,doh.libredns.gr
+
+## Pure Edition
+DOMAIN,doh-pure.onedns.net
+
+## Block Edition
+DOMAIN,doh.onedns.net
+
+# SWITCH DNS
+DOMAIN,dns.switch.ch
+
+# Taiwan NIC
+DOMAIN,dns.twnic.tw
+
+# UK DNS Privacy Project
+DOMAIN,resolver.dnsprivacy.org.uk
+
+# Xstl DNS
+
+## SK Broadband
+DOMAIN,dns.seia.io
+
+## Oracle Cloud South Korea
+DOMAIN,secondary.dns.seia.io
+
+# Yandex DNS
+
+## Basic
+DOMAIN,common.dot.dns.yandex.net
+
+## Safe
+DOMAIN,safe.dot.dns.yandex.net
+
+## Family
+DOMAIN,family.dot.dns.yandex.net
+
+# **Small personal resolvers**
+
+# AhaDNS
+
+## Netherlands
+DOMAIN,doh.nl.ahadns.net
+
+## Los Angeles
+DOMAIN,doh.la.ahadns.net
+
+# Arapurayil
+DOMAIN,dns.arapurayil.com
+
+# Dandelion Sprout’s Official DNS Server
+DOMAIN,dandelionsprout.asuscomm.com
+
+# DNS Forge
+DOMAIN,dnsforge.de
+
+# dnswarden
+DOMAIN,dns.dnswarden.com
+
+# FFMUC DNS
+DOMAIN,doh.ffmuc.net
+
+# ibksturm DNS
+DOMAIN,ibksturm.synology.me
+
+# Lelux DNS
+DOMAIN,resolver-eu.lelux.fi
+
+# Marbled Fennec
+DOMAIN,dns.marbledfennec.net
+
+# OSZX DNS
+DOMAIN,dns.oszx.co
+
+## PumpleX
+DOMAIN,dns.pumplex.com
+
+# Privacy-First DNS
+
+## Singapore DNS Server
+DOMAIN,doh.tiarap.org
+DOMAIN,doh.tiar.app
+
+## Japan DNS Server
+DOMAIN,jp.tiarap.org
+DOMAIN,jp.tiar.app
+
+# BlackMagicc DNS
+DOMAIN,rx.techomespace.com
+
+# NWPS.fi DNS
+
+## Standard
+DOMAIN,public.ns.nwps.fi
+
+## Kids
+DOMAIN,kids.ns.nwps.fi
+
+# ASTRACAT DNS
+DOMAIN,frd4wvnobp.cloudflare-gateway.com
+
+# DNSGuard
+DOMAIN,dnsguard.pub
+
+# 18Bit DNS
+DOMAIN,doh.18bit.cn
