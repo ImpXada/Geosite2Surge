@@ -1590,6 +1590,9 @@ DOMAIN-SUFFIX,udemycdn.com
 #include:w3schools
 DOMAIN-SUFFIX,w3schools.com
 #end include:w3schools
+#include:zotero
+DOMAIN-SUFFIX,zotero.org
+#end include:zotero
 
 DOMAIN-SUFFIX,chemequations.com    #线上化学方程式！
 

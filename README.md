@@ -1426,6 +1426,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | ziroom | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ziroom |
 | zoho | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zoho |
 | zoom | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zoom |
+| zotero | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zotero |
 | zte | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zte |
 | zto-express | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zto-express |
 | zuoyebang | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zuoyebang |
