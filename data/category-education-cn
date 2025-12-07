@@ -67,6 +67,24 @@ DOMAIN-SUFFIX,fenbilantian.cn
 DOMAIN-SUFFIX,fenbilantian.com
 #end include:yuanfudao
 
+# 雨课堂
+#include:yuketang
+DOMAIN-SUFFIX,rainclassroom.com
+DOMAIN-SUFFIX,yuketang.cn
+#end include:yuketang
+## 雨豆课堂
+DOMAIN-SUFFIX,yudou.cn
+## 雨实验
+DOMAIN-SUFFIX,yushiyan.net
+## 学堂在线
+DOMAIN-SUFFIX,xuetangx.com
+
+DOMAIN-SUFFIX,edu.cn
+
+# 国家智慧教育公共服务平台
+DOMAIN-SUFFIX,cbern.com.cn
+DOMAIN-SUFFIX,smartedu.cn
+
 # 教育部学生服务与素质发展中心
 # 京ICP备19004913号
 DOMAIN-SUFFIX,cedf.cn
@@ -96,112 +114,70 @@ DOMAIN-SUFFIX,qgzb.net
 DOMAIN-SUFFIX,zbbm.gov.cn
 DOMAIN-SUFFIX,zbbm.net
 
-# 国家智慧教育公共服务平台
-DOMAIN-SUFFIX,cbern.com.cn
-DOMAIN-SUFFIX,smartedu.cn
-
-# 中国地质大学 继续教育学院
-DOMAIN-SUFFIX,cugbonline.cn
-
-# 智慧树
-DOMAIN-SUFFIX,zhihuishu.com
-
-# 日语测试
-DOMAIN-SUFFIX,j-test.com
-DOMAIN-SUFFIX,nattest-china.com
-
-# 雨课堂
-#include:yuketang
-DOMAIN-SUFFIX,rainclassroom.com
-DOMAIN-SUFFIX,yuketang.cn
-#end include:yuketang
-
-## 雨豆课堂
-DOMAIN-SUFFIX,yudou.cn
-
-## 雨实验
-DOMAIN-SUFFIX,yushiyan.net
-
-## 学堂在线
-DOMAIN-SUFFIX,xuetangx.com
-
-# 时代行云
-DOMAIN-SUFFIX,x-cloud.cc
-
-# 学科网
-DOMAIN-SUFFIX,xkw.com
-DOMAIN-SUFFIX,zxxk.com
-
-# 第二教育网
-DOMAIN-SUFFIX,dearedu.com
-
-# 快对作业
-DOMAIN-SUFFIX,kuaiduizuoye.com
-
-# 流利说
-DOMAIN-SUFFIX,liulishuo.com
-DOMAIN-SUFFIX,llsapp.com
-DOMAIN-SUFFIX,llscdn.com
-DOMAIN-SUFFIX,llsserver.com
-
-# 百词斩
-DOMAIN-SUFFIX,baicizhan.com
-DOMAIN-SUFFIX,baicizhan.org
-DOMAIN-SUFFIX,bczcdn.com
-DOMAIN-SUFFIX,bczeducation.cn
-
-# 小站教育
-DOMAIN-SUFFIX,zhan.com
-
-# Burning Vocabulary
-DOMAIN-SUFFIX,burningvocabulary.cn
-DOMAIN-SUFFIX,burningvocabulary.com
-
-# 莞教通
-DOMAIN-SUFFIX,dgjy.net
-
 # 云校
 DOMAIN-SUFFIX,91yunxiao.com
-
 # 爱云校/好分数
 DOMAIN-SUFFIX,aiyunxiao.com
 DOMAIN-SUFFIX,haofenshu.com
 DOMAIN-SUFFIX,iyunxiao.com
 DOMAIN-SUFFIX,yunxiao.com
-
-# 课播云校
-DOMAIN-SUFFIX,keboyunxiao.com
-
-# 课堂派
-DOMAIN-SUFFIX,ketangpai.com
-
-# 批改网
-DOMAIN-SUFFIX,pigai.org
-
-# 未来云校
-DOMAIN-SUFFIX,weilaiyunxiao.com
-
-# 马哥教育
-DOMAIN-SUFFIX,magedu.com
-
-# 老男孩教育
-DOMAIN-SUFFIX,oldboyedu.com
-
+# 百词斩
+DOMAIN-SUFFIX,baicizhan.com
+DOMAIN-SUFFIX,baicizhan.org
+DOMAIN-SUFFIX,bczcdn.com
+DOMAIN-SUFFIX,bczeducation.cn
+# Burning Vocabulary
+DOMAIN-SUFFIX,burningvocabulary.cn
+DOMAIN-SUFFIX,burningvocabulary.com
+# 世纪外语网
+DOMAIN-SUFFIX,centuryenglish.com
+# 中国地质大学 继续教育学院
+DOMAIN-SUFFIX,cugbonline.cn
+# 第二教育网
+DOMAIN-SUFFIX,dearedu.com
+# 莞教通
+DOMAIN-SUFFIX,dgjy.net
 # 在职研究生教育信息网
 DOMAIN-SUFFIX,eduei.com
-
-DOMAIN-SUFFIX,edu.cn
-
-# “叶圣陶杯”全国中学生新作文大赛
-DOMAIN-SUFFIX,ystbds.com
-
+# 日语测试
+DOMAIN-SUFFIX,j-test.com
+DOMAIN-SUFFIX,nattest-china.com
+# 课播云校
+DOMAIN-SUFFIX,keboyunxiao.com
+# 课堂派
+DOMAIN-SUFFIX,ketangpai.com
+# 快对作业
+DOMAIN-SUFFIX,kuaiduizuoye.com
+# 流利说
+DOMAIN-SUFFIX,liulishuo.com
+DOMAIN-SUFFIX,llsapp.com
+DOMAIN-SUFFIX,llscdn.com
+DOMAIN-SUFFIX,llsserver.com
+# 马哥教育
+DOMAIN-SUFFIX,magedu.com
 # CIS NanoMasters
-# 粤ICP备2022138914号
 DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,neoschool.com
-
-# 北京嘉瑞新创教育咨询有限公司 京ICP备2020046790号-3
-DOMAIN-SUFFIX,winyoungreading.com
-
-# 公考知识库 黔ICP备2024035854号
+# 老男孩教育
+DOMAIN-SUFFIX,oldboyedu.com
+# 批改网
+DOMAIN-SUFFIX,pigai.org
+# 公考知识库
 DOMAIN-SUFFIX,saduck.top
+# 未来云校
+DOMAIN-SUFFIX,weilaiyunxiao.com
+# 北京嘉瑞新创教育咨询有限公司
+DOMAIN-SUFFIX,winyoungreading.com
+# 时代行云
+DOMAIN-SUFFIX,x-cloud.cc
+# 学科网
+DOMAIN-SUFFIX,xkw.com
+DOMAIN-SUFFIX,zxxk.com
+# 云助学
+DOMAIN-SUFFIX,yunzhuxue.com
+# “叶圣陶杯”全国中学生新作文大赛
+DOMAIN-SUFFIX,ystbds.com
+# 小站教育
+DOMAIN-SUFFIX,zhan.com
+# 智慧树
+DOMAIN-SUFFIX,zhihuishu.com

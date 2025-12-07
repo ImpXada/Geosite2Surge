@@ -1,10 +1,15 @@
 # Reference: https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
 
-DOMAIN-SUFFIX,cn
-DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,alibaba
+DOMAIN-SUFFIX,alipay
 DOMAIN-SUFFIX,baidu
-DOMAIN-SUFFIX,unicom
+DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,sohu
+DOMAIN-SUFFIX,taobao
+DOMAIN-SUFFIX,tmall
+DOMAIN-SUFFIX,unicom
 
 # Reference: https://domain.miit.gov.cn
 # .香港 is ignored due to not in China mainland

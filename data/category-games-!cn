@@ -63,6 +63,12 @@ DOMAIN-SUFFIX,worldflipper.jp
 DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,umamusume.akamaized.net
 #end include:cygames
+#include:embark
+DOMAIN-SUFFIX,arcraiders.com
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
+DOMAIN-SUFFIX,reachthefinals.com
+#end include:embark
 #include:epicgames
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
@@ -102,6 +108,10 @@ DOMAIN-SUFFIX,tarkov.com
 DOMAIN-SUFFIX,eft-store.com
 DOMAIN-SUFFIX,escapefromtarkov.com
 #end include:escapefromtarkov
+#include:faceit
+DOMAIN-SUFFIX,faceit.com
+DOMAIN-SUFFIX,faceit-cdn.net
+#end include:faceit
 #include:garena
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,cdngarenanow-a.akamaihd.net
