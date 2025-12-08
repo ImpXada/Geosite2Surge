@@ -235,6 +235,8 @@ DOMAIN-SUFFIX,kankanews.com
 DOMAIN-SUFFIX,kankannews.com
 DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,statickksmg.com
+# 晚点
+DOMAIN-SUFFIX,latepost.com
 # 南岳新闻网
 DOMAIN-SUFFIX,nanyuenews.com
 # 每日经济新闻报社
@@ -243,6 +245,8 @@ DOMAIN-SUFFIX,nbd.com.cn
 DOMAIN-SUFFIX,news.cn
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xinhuaxmt.com
+# 维科网
+DOMAIN-SUFFIX,ofweek.com
 # PConline 太平洋科技
 DOMAIN-SUFFIX,3conline.com
 DOMAIN-SUFFIX,pconline.com.cn
