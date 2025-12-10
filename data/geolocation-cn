@@ -104,21 +104,6 @@ DOMAIN-SUFFIX,imcome.net
 DOMAIN-SUFFIX,meican.com
 DOMAIN-SUFFIX,meicanstatic.com
 #end include:category-food-cn
-# Hospitals
-#include:category-hospital-cn
-DOMAIN-SUFFIX,fuwai.com
-DOMAIN-SUFFIX,pkuh6.cn
-DOMAIN-SUFFIX,puh3.net.cn
-
-DOMAIN,hospital.pku.edu.cn
-DOMAIN,ss.bjmu.edu.cn
-
-# 运城同德医院 晋ICP备15008538号-1
-DOMAIN-SUFFIX,yctdyy.com
-
-# 南方医科大学深圳医院
-DOMAIN-SUFFIX,smuszh.com
-#end include:category-hospital-cn
 # 快递物流
 #include:category-logistics-cn
 #include:800best
@@ -520,34 +505,6 @@ DOMAIN-SUFFIX,httpdns.zybang.com
 # 号码认证
 # include:category-number-verification-cn
 
-# Aviation
-
-DOMAIN-SUFFIX,caac.gov.cn    #中国民航局
-DOMAIN-SUFFIX,ceair.com    #中国东方航空
-DOMAIN-SUFFIX,chinaexpressair.com    #华夏航空
-DOMAIN-SUFFIX,csair.com    #中国南方航空
-DOMAIN-SUFFIX,flycua.com    #中国联合航空
-DOMAIN-SUFFIX,hbhk.com.cn    #河北航空
-DOMAIN-SUFFIX,jdair.net    #首都航空
-DOMAIN-SUFFIX,juneyaoair.com    #吉祥航空
-DOMAIN-SUFFIX,luckyair.net    #祥鹏航空
-DOMAIN-SUFFIX,sichuanair.com    #四川航空
-DOMAIN-SUFFIX,tibetairlines.com.cn    #西藏航空
-DOMAIN-SUFFIX,travelskymobile.cn    #信天游（航空电子客票验真）
-DOMAIN-SUFFIX,variflight.com    #飞常准
-DOMAIN-SUFFIX,xiamenair.com    #厦门航空
-
-# 航旅纵横
-DOMAIN-SUFFIX,umetrip.com
-DOMAIN-SUFFIX,umetrip.com.cn
-DOMAIN-SUFFIX,umetrip.net.cn
-DOMAIN-SUFFIX,ume-trip.cn
-
-# Railway
-DOMAIN-SUFFIX,12306.cn
-DOMAIN-SUFFIX,95306.cn
-DOMAIN-SUFFIX,ccrgt.com
-
 # Bank & Finance & Insurance & Securities
 #include:eastmoney
 DOMAIN-SUFFIX,1234567.com.cn
@@ -797,27 +754,30 @@ DOMAIN-SUFFIX,yfscdn.net
 DOMAIN-SUFFIX,yunfancdn.com
 #end include:yunfanjiasu
 
-# 百家云
+## 百家云
 DOMAIN-SUFFIX,baijiayun.com
-
-# 明源云
+## 123 云盘 CDN
+DOMAIN-SUFFIX,cjjd19.com
+## 明源云
 DOMAIN-SUFFIX,fdcyun.com
 DOMAIN-SUFFIX,mingyuanyun.com
 DOMAIN-SUFFIX,mypaas.com
 DOMAIN-SUFFIX,mypaas.com.cn
 DOMAIN-SUFFIX,myypark.com
-
-# 开普云
+## FUNCDN
+DOMAIN-SUFFIX,funcdn.com
+## 即刻雾联（北京）
+## https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
+DOMAIN-SUFFIX,jikeiot.cloud
+## 开普云
 DOMAIN-SUFFIX,kaipuyun.cn
 DOMAIN-SUFFIX,kaipuyun.com
 DOMAIN-SUFFIX,kaipuyun.com.cn
 DOMAIN-SUFFIX,kaipuyun.net
-
-# 江西节点技术服务有限公司
+## 北龙中网
+DOMAIN-SUFFIX,knet.cn
+## 江西节点技术服务有限公司
 DOMAIN-SUFFIX,pkoplink.com
-
-DOMAIN-SUFFIX,funcdn.com
-DOMAIN-SUFFIX,knet.cn    #北龙中网
 
 # E-commerce
 #include:ctrip
@@ -1249,26 +1209,38 @@ DOMAIN-SUFFIX,ziroom.com
 DOMAIN-SUFFIX,ziroomapartment.com
 #end include:ziroom
 
-# 多点新鲜
-DOMAIN-SUFFIX,dmall.com
-DOMAIN-SUFFIX,dmallcdn.com
-# 孔夫子旧书网
-DOMAIN-SUFFIX,kongfz.com
-DOMAIN-SUFFIX,kfzimg.com
-# 朴朴
-DOMAIN-SUFFIX,pupuapi.com
-DOMAIN-SUFFIX,pupumall.com
-# 穷游
-DOMAIN-SUFFIX,qyer.com
-DOMAIN-SUFFIX,qyerstatic.com
-# 唯品会
+## 无忧易售
+DOMAIN-SUFFIX,51selling.com
+## 唯品会
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vipstatic.com
-# 慢慢买
+## 多点新鲜
+DOMAIN-SUFFIX,dmall.com
+DOMAIN-SUFFIX,dmallcdn.com
+## 微店
+DOMAIN-SUFFIX,geilicdn.com
+DOMAIN-SUFFIX,weidian.com
+## 孔夫子旧书网
+DOMAIN-SUFFIX,kongfz.com
+DOMAIN-SUFFIX,kfzimg.com
+## 慢慢买
 DOMAIN-SUFFIX,manmanbuy.com
-# 瞎买
+## 美物清单
+DOMAIN-SUFFIX,maxonesoft.com
+DOMAIN-SUFFIX,meiwulist.com
+## OZONBIGSELL分析产品系统
+DOMAIN-SUFFIX,ozonbigsell.com
+## 朴朴
+DOMAIN-SUFFIX,pupuapi.com
+DOMAIN-SUFFIX,pupumall.com
+## 穷游
+DOMAIN-SUFFIX,qyer.com
+DOMAIN-SUFFIX,qyerstatic.com
+## Ru-seer 俄罗斯卖家助手
+DOMAIN-SUFFIX,ruseer.com
+## 瞎买
 DOMAIN-SUFFIX,xiamai.net
 
 # Forums
@@ -1329,6 +1301,61 @@ DOMAIN-SUFFIX,moyubuluo.com    #墨鱼部落格 鲁ICP备16022801号-9
 DOMAIN-SUFFIX,upe.net    #优启通官网（IT天空）
 DOMAIN-SUFFIX,winos.me    #WINOS 精简社区
 
+# Healthcare
+#include:category-hospital-cn
+DOMAIN-SUFFIX,fuwai.com
+DOMAIN-SUFFIX,pkuh6.cn
+DOMAIN-SUFFIX,puh3.net.cn
+
+DOMAIN,hospital.pku.edu.cn
+DOMAIN,ss.bjmu.edu.cn
+
+# 运城同德医院 晋ICP备15008538号-1
+DOMAIN-SUFFIX,yctdyy.com
+
+# 南方医科大学深圳医院
+DOMAIN-SUFFIX,smuszh.com
+#end include:category-hospital-cn
+## 丁香园
+DOMAIN-SUFFIX,biomart.cn
+DOMAIN-SUFFIX,dxy.com
+DOMAIN-SUFFIX,dxy.cn
+DOMAIN-SUFFIX,dxycdn.com
+## 江苏健康通
+DOMAIN-SUFFIX,jsehealth.com
+## 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
+DOMAIN-SUFFIX,mingxuan.store
+
+# Public transportation
+
+DOMAIN-SUFFIX,caac.gov.cn    #中国民航局
+DOMAIN-SUFFIX,ceair.com    #中国东方航空
+DOMAIN-SUFFIX,chinaexpressair.com    #华夏航空
+DOMAIN-SUFFIX,csair.com    #中国南方航空
+DOMAIN-SUFFIX,flycua.com    #中国联合航空
+DOMAIN-SUFFIX,hbhk.com.cn    #河北航空
+DOMAIN-SUFFIX,jdair.net    #首都航空
+DOMAIN-SUFFIX,juneyaoair.com    #吉祥航空
+DOMAIN-SUFFIX,luckyair.net    #祥鹏航空
+DOMAIN-SUFFIX,sichuanair.com    #四川航空
+DOMAIN-SUFFIX,tibetairlines.com.cn    #西藏航空
+DOMAIN-SUFFIX,travelskymobile.cn    #信天游（航空电子客票验真）
+DOMAIN-SUFFIX,variflight.com    #飞常准
+DOMAIN-SUFFIX,xiamenair.com    #厦门航空
+## Railway
+DOMAIN-SUFFIX,12306.cn
+DOMAIN-SUFFIX,95306.cn
+DOMAIN-SUFFIX,ccrgt.com
+## 跨境巴士
+DOMAIN-SUFFIX,kuajing84.com
+## 宁停车
+DOMAIN-SUFFIX,ningtingche.com
+## 航旅纵横
+DOMAIN-SUFFIX,umetrip.com
+DOMAIN-SUFFIX,umetrip.com.cn
+DOMAIN-SUFFIX,umetrip.net.cn
+DOMAIN-SUFFIX,ume-trip.cn
+
 # Science & Technology & Knowledge & Scholar & Press & E-learning & Education
 #include:category-olympiad-in-informatics
 # LeetCode 中国站
@@ -1381,6 +1408,28 @@ DOMAIN-SUFFIX,guokr.net
 DOMAIN-SUFFIX,ihuman.com
 DOMAIN-SUFFIX,hongen.com
 #end include:ihuman
+
+## 青春北京
+### 共青团北京市委员会信息中心
+#include:bjyouth
+# 共青团北京市委员会信息中心 (京ICP备14030447号-3)
+
+DOMAIN-SUFFIX,bjyouth.gov.cn
+DOMAIN-SUFFIX,bjyouth.net
+DOMAIN-SUFFIX,sqqnh.cn
+DOMAIN-SUFFIX,sqqnh.org
+#end include:bjyouth
+### 知藏（北京）数据技术有限公司
+DOMAIN-SUFFIX,zzdtec.com
+## 青年大学习
+### 北京中青在线网络信息技术有限公司
+DOMAIN-SUFFIX,cyol.com
+### 北京天润基业科技发展股份有限公司
+DOMAIN-SUFFIX,webterren.com
+## 志愿汇
+DOMAIN-SUFFIX,zyh365.com
+## 温州市图书馆
+DOMAIN-SUFFIX,wzlib.cn
 
 # Services & Softwares
 #include:category-ai-cn
@@ -1731,17 +1780,18 @@ DOMAIN-SUFFIX,geetest.com
 DOMAIN,geetest.datasink.sensorsdata.cn
 #end include:geetest
 #include:hanyi
+DOMAIN-SUFFIX,hanyi.com
+DOMAIN-SUFFIX,hanyi.com.cn
+
+# Font Star
+DOMAIN-SUFFIX,fontstar.com.cn
+
+# 字由HelloFont
 DOMAIN-SUFFIX,hellofont.cn
 DOMAIN-SUFFIX,hellowebfont.com
 
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
-#end include:hellofont
-
-DOMAIN-SUFFIX,hanyi.com.cn
-
-# Font Star
-DOMAIN-SUFFIX,fontstar.com.cn
 #end include:hanyi
 #include:intsig
 DOMAIN-SUFFIX,intsig.com
@@ -1888,12 +1938,18 @@ DOMAIN-SUFFIX,zbjimg.com
 DOMAIN-SUFFIX,zhubajie.com
 #end include:zhubajie
 
+## 容联七陌 客服 营销
+DOMAIN-SUFFIX,7moor-fs1.com
+DOMAIN-SUFFIX,7moor.com
 ## 安兔兔
 DOMAIN-SUFFIX,antutu.com
+## 拓竹科技
+DOMAIN-SUFFIX,bambulab.com
+DOMAIN-SUFFIX,bblmw.com
 ## BOSS 直聘
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,zhipin.com
-# 当贝
+## 当贝
 DOMAIN-SUFFIX,dangbei.com
 DOMAIN-SUFFIX,dangbei.net
 ## 酷控
@@ -1913,6 +1969,13 @@ DOMAIN-SUFFIX,i8tq.com
 DOMAIN-SUFFIX,tq121.com.cn
 DOMAIN-SUFFIX,weather.com.cn
 DOMAIN-SUFFIX,weatherdt.com
+## 掌阅
+DOMAIN-SUFFIX,ireader.com
+DOMAIN-SUFFIX,zhangyue.com
+DOMAIN-SUFFIX,zhangyue01.com
+DOMAIN-SUFFIX,zhangyuecdn.com
+## 小能智慧云客服
+DOMAIN-SUFFIX,ntalker.com
 ## 重庆阅品科技
 DOMAIN-SUFFIX,tianqi.com
 DOMAIN-SUFFIX,tianqistatic.com
@@ -1920,6 +1983,9 @@ DOMAIN-SUFFIX,tianqistatic.com
 DOMAIN-SUFFIX,foundertype.com
 ## 仟寻招聘
 DOMAIN-SUFFIX,moseeker.com
+## 智齿客服
+DOMAIN-SUFFIX,sobot.com
+DOMAIN-SUFFIX,soboten.com
 ## TaCool SSL 酷证书
 DOMAIN-SUFFIX,tacool.com
 ## Via 浏览器
@@ -2233,13 +2299,6 @@ DOMAIN-SUFFIX,shopoppo.cn
 DOMAIN-SUFFIX,shopoppo.com.cn
 #end include:oppo
 #include:qihoo360
-#include:75team
-DOMAIN-SUFFIX,75.team
-DOMAIN-SUFFIX,75team.com
-
-# 75CDN
-DOMAIN-SUFFIX,baomitu.com
-#end include:75team
 #include:qihoo360-ads
 DOMAIN-SUFFIX,fenxi.com
 DOMAIN-SUFFIX,lianmeng.360.cn
@@ -2309,6 +2368,7 @@ DOMAIN-SUFFIX,360webcache.com
 DOMAIN-SUFFIX,360zqaq.com
 DOMAIN-SUFFIX,anquanke.com
 DOMAIN-SUFFIX,appjiagu.com
+DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,dhsvc.cn
 DOMAIN-SUFFIX,haoso.com
 DOMAIN-SUFFIX,haosou.com
@@ -2485,10 +2545,23 @@ DOMAIN-SUFFIX,ztems.com
 
 DOMAIN-SUFFIX,51togic.com    #泰捷WEBOX
 DOMAIN-SUFFIX,avlyun.com    #安天移动安全
+DOMAIN-SUFFIX,hisensehitachi.com    #海信日立官网
 DOMAIN-SUFFIX,jamcz.com    #晨钟网络科技
 DOMAIN-SUFFIX,roborock.com    #石头科技
 DOMAIN-SUFFIX,socpk.com    #极客湾移动芯片排行
+DOMAIN-SUFFIX,suzuki-china.com    #铃木中国官网
 DOMAIN-SUFFIX,udesk.cn    #沃丰科技
+
+# 稿定（厦门）信息服务有限公司
+## 花瓣网 闽ICP备2021013850号
+DOMAIN-SUFFIX,huaban.com
+DOMAIN-SUFFIX,huabanimg.com
+## 闽ICP备12002004号
+DOMAIN-SUFFIX,dancf.com
+DOMAIN-SUFFIX,hlgdata.com
+DOMAIN-SUFFIX,huanleguang.com
+DOMAIN-SUFFIX,ttxsapp.com.cn
+DOMAIN-SUFFIX,xsbapp.cn
 
 # Telecommunication
 #include:chinabroadnet
@@ -2537,6 +2610,14 @@ DOMAIN-SUFFIX,fetionpic.com
 DOMAIN-SUFFIX,mmarket.com
 DOMAIN-SUFFIX,mmarket6.com
 #end include:chinamobile
+#include:chinatower
+# 中国铁塔股份有限公司 京ICP备14039488
+DOMAIN-SUFFIX,chinatowercom.cn
+DOMAIN-SUFFIX,china-tower.com
+DOMAIN-SUFFIX,tower.com.cn
+DOMAIN-SUFFIX,tower0788.com
+DOMAIN-SUFFIX,tower0788.cn
+#end include:chinatower
 #include:chinaunicom
 # All .unicom domains
 DOMAIN-SUFFIX,unicom
@@ -2559,16 +2640,6 @@ DOMAIN-SUFFIX,wo.cn
 DOMAIN-SUFFIX,wo.com.cn
 DOMAIN-SUFFIX,wo116114.com
 #end include:chinaunicom
-
-# 中国铁塔
-#include:chinatower
-# 中国铁塔股份有限公司 京ICP备14039488
-DOMAIN-SUFFIX,chinatowercom.cn
-DOMAIN-SUFFIX,china-tower.com
-DOMAIN-SUFFIX,tower.com.cn
-DOMAIN-SUFFIX,tower0788.com
-DOMAIN-SUFFIX,tower0788.cn
-#end include:chinatower
 
 # 在线工具
 DOMAIN-SUFFIX,itdog.cn    #itdog网站工具箱
@@ -2646,38 +2717,12 @@ DOMAIN-SUFFIX,sinopecsales.com
 DOMAIN-SUFFIX,chugou360.com
 DOMAIN-SUFFIX,ycrx360.com
 
-# 即刻雾联（北京）
-# Refer: https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
-DOMAIN-SUFFIX,jikeiot.cloud
-
-DOMAIN-SUFFIX,zyh365.com    #志愿汇
-
 # 中国气象局政府门户网站
 DOMAIN-SUFFIX,cma.gov.cn
 # 中国气象局
 DOMAIN-SUFFIX,cma.cn
 # 中央气象台
 DOMAIN-SUFFIX,nmc.cn
-
-# 青年大学习
-## 北京中青在线网络信息技术有限公司 (京ICP备16062000号)
-DOMAIN-SUFFIX,cyol.com
-## 北京天润基业科技发展股份有限公司 (京ICP备19052875号-1)
-DOMAIN-SUFFIX,webterren.com
-
-# 青春北京
-## 共青团北京市委员会信息中心 (京ICP备14030447号-3)
-#include:bjyouth
-# 共青团北京市委员会信息中心 (京ICP备14030447号-3)
-
-DOMAIN-SUFFIX,bjyouth.gov.cn
-DOMAIN-SUFFIX,bjyouth.net
-DOMAIN-SUFFIX,sqqnh.cn
-DOMAIN-SUFFIX,sqqnh.org
-#end include:bjyouth
-## 知藏（北京）数据技术有限公司 (京ICP备19038827号)
-DOMAIN-SUFFIX,zzdtec.com
-
 
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
@@ -2787,7 +2832,6 @@ DOMAIN-SUFFIX,7230.com
 DOMAIN-SUFFIX,72byte.com
 DOMAIN-SUFFIX,7down.com
 DOMAIN-SUFFIX,7k7k.com
-DOMAIN-SUFFIX,7moor.com
 DOMAIN-SUFFIX,7po.com
 DOMAIN-SUFFIX,7x24cc.com
 DOMAIN-SUFFIX,7xdown.com
@@ -3003,7 +3047,6 @@ DOMAIN-SUFFIX,duomai.com
 DOMAIN-SUFFIX,duoshuo.com
 DOMAIN-SUFFIX,duote.com
 DOMAIN-SUFFIX,dxpmedia.com
-DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dyhjw.com
 DOMAIN-SUFFIX,dzdvip.com
 DOMAIN-SUFFIX,dzsc.com
@@ -3054,7 +3097,6 @@ DOMAIN-SUFFIX,gdjdxy.com
 DOMAIN-SUFFIX,gdliontech.com
 DOMAIN-SUFFIX,gdrc.com
 DOMAIN-SUFFIX,geektool.top    #极客Tool 蜀ICP备2024086015号-2
-DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,gezida.com
 DOMAIN-SUFFIX,gfan.com
 DOMAIN-SUFFIX,giocdn.com
@@ -3318,7 +3360,6 @@ DOMAIN-SUFFIX,newyx.net
 DOMAIN-SUFFIX,noknok.cn
 DOMAIN-SUFFIX,nowscore.com
 DOMAIN-SUFFIX,nruan.com
-DOMAIN-SUFFIX,ntalker.com
 DOMAIN-SUFFIX,nvsheng.com
 DOMAIN-SUFFIX,nx-sc.com
 DOMAIN-SUFFIX,nxog.top    #湘ICP备2022006601号-1
@@ -3434,7 +3475,6 @@ DOMAIN-SUFFIX,skimit.net
 DOMAIN-SUFFIX,skycn.com
 DOMAIN-SUFFIX,sllssrq.com
 DOMAIN-SUFFIX,snimay.com
-DOMAIN-SUFFIX,sobot.com
 DOMAIN-SUFFIX,sofreight.com
 DOMAIN-SUFFIX,softwhy.com
 DOMAIN-SUFFIX,sojson.com
@@ -3525,7 +3565,6 @@ DOMAIN-SUFFIX,wdzj.com
 DOMAIN-SUFFIX,weand.com
 DOMAIN-SUFFIX,weavatar.com
 DOMAIN-SUFFIX,weicaifu.com
-DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,weilaicaijing.com
 DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,weixing.com
@@ -3701,27 +3740,8 @@ DOMAIN-SUFFIX,vzuu.com
 DOMAIN-SUFFIX,zoom3g.com
 DOMAIN-SUFFIX,zoomyou.cn
 
-# 沪ICP备2021017807号-4
-DOMAIN-SUFFIX,ecombdapi.com
-
-# 稿定（厦门）信息服务有限公司
-## 花瓣网 闽ICP备2021013850号
-DOMAIN-SUFFIX,huaban.com
-DOMAIN-SUFFIX,huabanimg.com
-## 闽ICP备12002004号
-DOMAIN-SUFFIX,dancf.com
-DOMAIN-SUFFIX,hlgdata.com
-DOMAIN-SUFFIX,huanleguang.com
-DOMAIN-SUFFIX,ttxsapp.com.cn
-DOMAIN-SUFFIX,xsbapp.cn
-
 # 酷家乐 杭州群核信息技术有限公司 浙ICP备12022366号-6
 DOMAIN-SUFFIX,kujiale.com
-
-# 海信日立官网
-DOMAIN-SUFFIX,hisensehitachi.com
-# 铃木中国官网
-DOMAIN-SUFFIX,suzuki-china.com
 
 # 建始网 鄂ICP备05004864号-1
 DOMAIN-SUFFIX,jsw118.com
@@ -3740,9 +3760,6 @@ DOMAIN-SUFFIX,educoder.net
 DOMAIN-SUFFIX,tokcoder.com
 DOMAIN-SUFFIX,trustie.net
 
-# 温州市图书馆 浙ICP备11032910号-3
-DOMAIN-SUFFIX,wzlib.cn
-
 # 浙江御鹿电子科技有限公司 麦瑞克健身设备 & 超燃脂APP 浙ICP备2021003090号-2
 DOMAIN-SUFFIX,merach.com
 
@@ -3750,22 +3767,8 @@ DOMAIN-SUFFIX,merach.com
 DOMAIN-SUFFIX,taichuan.com
 DOMAIN-SUFFIX,taichuan.net
 
-# 江苏健康通
-DOMAIN-SUFFIX,jsehealth.com
-
-# 拓竹科技
-DOMAIN-SUFFIX,bambulab.com
-DOMAIN-SUFFIX,bblmw.com
-
 # 中国石油支付宝小程序
 DOMAIN-SUFFIX,95504test.com
-
-# 123 云盘 CDN
-DOMAIN-SUFFIX,cjjd19.com
-
-# 美物清单
-DOMAIN-SUFFIX,maxonesoft.com
-DOMAIN-SUFFIX,meiwulist.com
 
 # 北京鸿合智能系统股份有限公司
 DOMAIN-SUFFIX,hitevision-solutions.com
@@ -3776,24 +3779,12 @@ DOMAIN-SUFFIX,jslife.net
 # 南海控股有限公司
 DOMAIN-SUFFIX,nanhaicorp.com
 
-# 跨境巴士 粤ICP备18102556号
-DOMAIN-SUFFIX,kuajing84.com
-
-# ozonbigsell 闽ICP备2023012501号-1
-DOMAIN-SUFFIX,ozonbigsell.com
-
 # 深圳市金易桥科技有限公司 粤ICP备2023069807号
 DOMAIN-SUFFIX,ozonabc.com
 
 # 青萍科技（北京）有限公司深圳分公司 粤ICP备19156805号-1
 DOMAIN-SUFFIX,qingping.co
 DOMAIN-SUFFIX,cleargrass.com
-
-# 无忧易售 粤ICP备18054020号
-DOMAIN-SUFFIX,51selling.com
-
-# Ru-seer 俄罗斯卖家助手 粤ICP备2023020424号
-DOMAIN-SUFFIX,ruseer.com
 
 # 布丁猫(岩池科技)
 # 黑ICP备2024018807号
@@ -3802,12 +3793,6 @@ DOMAIN-SUFFIX,bdmyandex.com
 # 黑ICP备2022002729号
 DOMAIN-SUFFIX,bdcat.top
 DOMAIN-SUFFIX,puddingcat.top
-
-# 宁停车
-DOMAIN-SUFFIX,ningtingche.com
-
-# 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
-DOMAIN-SUFFIX,mingxuan.store
 
 # 海南东勤网络科技有限公司 琼ICP备18003843号
 DOMAIN-SUFFIX,qunliao.info

@@ -1,11 +1,12 @@
+DOMAIN-SUFFIX,hanyi.com
+DOMAIN-SUFFIX,hanyi.com.cn
+
+# Font Star
+DOMAIN-SUFFIX,fontstar.com.cn
+
+# 字由HelloFont
 DOMAIN-SUFFIX,hellofont.cn
 DOMAIN-SUFFIX,hellowebfont.com
 
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
-#end include:hellofont
-
-DOMAIN-SUFFIX,hanyi.com.cn
-
-# Font Star
-DOMAIN-SUFFIX,fontstar.com.cn
