@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,adslvfile.qq.com
 DOMAIN-SUFFIX,adslvseed.qq.com
 DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com
 DOMAIN-SUFFIX,adsqqclick.qq.com
+DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,adstestview.qq.com
 DOMAIN-SUFFIX,adsview.qq.com
 DOMAIN-SUFFIX,adsview2.qq.com
@@ -26,14 +27,17 @@ DOMAIN-SUFFIX,bugly.qq.com
 DOMAIN-SUFFIX,e.qq.com
 DOMAIN-SUFFIX,gdt.qq.com
 DOMAIN-SUFFIX,hq-tracking.qq.com
+DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,mpush.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,pingjs.qq.com
 DOMAIN-SUFFIX,push.qq.com
+DOMAIN-SUFFIX,report.qqweb.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
 DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tajs.qq.com
