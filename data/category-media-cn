@@ -177,6 +177,8 @@ DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,cqsjb.com
 # 中证网
 DOMAIN-SUFFIX,cs.com.cn
+# 创业邦
+DOMAIN-SUFFIX,cyzone.cn
 # 浙江广播电视集团/浙江卫视/新蓝网
 DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztvcdn.com
@@ -190,6 +192,9 @@ DOMAIN-SUFFIX,yundzh.com
 DOMAIN-SUFFIX,dgtle.com
 # DoNews
 DOMAIN-SUFFIX,donews.com
+# 大众日报
+DOMAIN-SUFFIX,dzng.com
+DOMAIN-SUFFIX,dzwww.com
 # 超能网
 DOMAIN-SUFFIX,expreview.com
 # FreeBuf 网络安全行业门户
@@ -220,6 +225,8 @@ DOMAIN-SUFFIX,iresearch.cn
 DOMAIN-SUFFIX,jianyuweb.com
 DOMAIN-SUFFIX,wallstcn.com
 DOMAIN-SUFFIX,wallstreetcn.com
+# 机器之心
+DOMAIN-SUFFIX,jiqizhixin.com
 # 金融界
 DOMAIN-SUFFIX,jrj.com.cn
 DOMAIN-SUFFIX,jrjimg.cn
@@ -257,10 +264,15 @@ DOMAIN-SUFFIX,people.com.cn
 DOMAIN-SUFFIX,pingwest.com
 # 量子位
 DOMAIN-SUFFIX,qbitai.com
+# 齐鲁壹点
+DOMAIN-SUFFIX,qiluyidian.net
+DOMAIN-SUFFIX,ql1d.com
 # 青岛新闻
 DOMAIN-SUFFIX,qingdaonews.com
 # 前瞻网
 DOMAIN-SUFFIX,qianzhan.com
+# 四川手机报
+DOMAIN-SUFFIX,scsjb.cn
 # 安全内参
 DOMAIN-SUFFIX,secrss.com
 # 南方财经网

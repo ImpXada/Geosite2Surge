@@ -1280,6 +1280,7 @@ DOMAIN-SUFFIX,janrainservices.com
 DOMAIN-SUFFIX,skycdn.com.cn
 DOMAIN-SUFFIX,soasta-dswb.com
 DOMAIN-SUFFIX,srtcdn.net
+DOMAIN-SUFFIX,tl88.net
 #end include:akamai
 #include:awempire
 DOMAIN-SUFFIX,awempire.com

@@ -128,10 +128,12 @@ DOMAIN,p8-juejin.byteimg.com
 DOMAIN,p9-juejin.byteimg.com
 #end include:juejin
 #include:tiktok
+DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok-minis.com
 DOMAIN-SUFFIX,tiktok-row.net
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokcdn-eu.com
@@ -153,6 +155,10 @@ DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
 
 DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN,roovza-launches.appsflyersdk.com
+DOMAIN,roovza.inapps.appsflyersdk.com
+DOMAIN,roovza.launches.appsflyersdk.com
+DOMAIN,roovza.skadsdk.appsflyersdk.com
 #end include:tiktok
 #include:trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
@@ -397,7 +403,6 @@ DOMAIN-SUFFIX,bytedance.com
 DOMAIN-SUFFIX,bytedance.net
 DOMAIN-SUFFIX,bytedance.org
 DOMAIN-SUFFIX,bytedanceapi.com
-DOMAIN-SUFFIX,bytedapm.com
 DOMAIN-SUFFIX,bytedcdn.com
 DOMAIN-SUFFIX,bytedeliver.com
 DOMAIN-SUFFIX,bytedgames.com

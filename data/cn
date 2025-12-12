@@ -598,7 +598,14 @@ DOMAIN-SUFFIX,taikangzhijia.com
 DOMAIN-SUFFIX,tkhealthcare.com
 #end include:taikang
 
-DOMAIN-SUFFIX,hsqh.net    #徽商期货有限责任公司
+## 航财通·校园付
+DOMAIN-SUFFIX,cc-pay.cn
+## 徽商期货有限责任公司
+DOMAIN-SUFFIX,hsqh.net
+## 上海陆金所
+DOMAIN-SUFFIX,lu.com
+DOMAIN-SUFFIX,lufax.com
+DOMAIN-SUFFIX,lufaxcdn.com
 
 # CDN or SDWAN
 #include:aws-cn
@@ -808,6 +815,9 @@ DOMAIN-SUFFIX,yunfancdn.com
 
 ## 百家云
 DOMAIN-SUFFIX,baijiayun.com
+## 创世云
+DOMAIN-SUFFIX,chuangcache.com
+DOMAIN-SUFFIX,chuangcdn.com
 ## 123 云盘 CDN
 DOMAIN-SUFFIX,cjjd19.com
 ## 明源云
@@ -818,6 +828,10 @@ DOMAIN-SUFFIX,mypaas.com.cn
 DOMAIN-SUFFIX,myypark.com
 ## FUNCDN
 DOMAIN-SUFFIX,funcdn.com
+## 北京知道创宇信息技术股份有限公司
+DOMAIN-SUFFIX,jiashule.com
+DOMAIN-SUFFIX,jiasule.com
+DOMAIN-SUFFIX,yunaq.com
 ## 即刻雾联（北京）
 ## https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
 DOMAIN-SUFFIX,jikeiot.cloud
@@ -1274,6 +1288,9 @@ DOMAIN-SUFFIX,dmallcdn.com
 ## 微店
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,weidian.com
+## 聚美优品
+DOMAIN-SUFFIX,jmstatic.com
+DOMAIN-SUFFIX,jumei.com
 ## 孔夫子旧书网
 DOMAIN-SUFFIX,kongfz.com
 DOMAIN-SUFFIX,kfzimg.com
@@ -1478,6 +1495,9 @@ DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,cyol.com
 ### 北京天润基业科技发展股份有限公司
 DOMAIN-SUFFIX,webterren.com
+## 国学大师网
+DOMAIN-SUFFIX,guoxuedashi.com
+DOMAIN-SUFFIX,guoxuemi.com
 ## 志愿汇
 DOMAIN-SUFFIX,zyh365.com
 ## 温州市图书馆
@@ -2028,6 +2048,9 @@ DOMAIN-SUFFIX,zhangyue01.com
 DOMAIN-SUFFIX,zhangyuecdn.com
 ## 小能智慧云客服
 DOMAIN-SUFFIX,ntalker.com
+## 心知天气
+DOMAIN-SUFFIX,sencdn.com
+DOMAIN-SUFFIX,seniverse.com
 ## 重庆阅品科技
 DOMAIN-SUFFIX,tianqi.com
 DOMAIN-SUFFIX,tianqistatic.com
@@ -2035,6 +2058,8 @@ DOMAIN-SUFFIX,tianqistatic.com
 DOMAIN-SUFFIX,foundertype.com
 ## 仟寻招聘
 DOMAIN-SUFFIX,moseeker.com
+## OneDNS 微步在线
+DOMAIN-SUFFIX,onedns.net
 ## 智齿客服
 DOMAIN-SUFFIX,sobot.com
 DOMAIN-SUFFIX,soboten.com
@@ -2302,6 +2327,7 @@ DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,youdao.com
+DOMAIN-SUFFIX,yunxinfw.com
 DOMAIN-SUFFIX,zhuanzfx.com
 #end include:netease
 #include:oppo
@@ -2352,6 +2378,7 @@ DOMAIN-SUFFIX,shopoppo.com.cn
 #end include:oppo
 #include:qihoo360
 #include:qihoo360-ads
+DOMAIN-SUFFIX,fenxi.360.cn
 DOMAIN-SUFFIX,fenxi.com
 DOMAIN-SUFFIX,lianmeng.360.cn
 DOMAIN-SUFFIX,mediav.com
@@ -2694,34 +2721,19 @@ DOMAIN-SUFFIX,wo116114.com
 #end include:chinaunicom
 
 # 在线工具
-DOMAIN-SUFFIX,itdog.cn    #itdog网站工具箱
-DOMAIN-SUFFIX,webmasterhome.cn    #站长之家
-
-# 在线工具书
-DOMAIN-SUFFIX,guoxuedashi.com
-DOMAIN-SUFFIX,guoxuemi.com
-
-# IPIP ip地理位置数据库
-#include:ipip
-DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,myip.la
-#end include:ipip
-
-# ip138查询网
-DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,ipshudi.com
 
 DOMAIN-SUFFIX,chaziyu.com    #滇ICP备2024035496号
+DOMAIN-SUFFIX,fofa.info    #Fofa网站测绘（华顺信安）
 DOMAIN-SUFFIX,icplishi.com    #粤ICP备20009057号
+DOMAIN-SUFFIX,ip138.com    #ip138查询网
 DOMAIN-SUFFIX,ipchaxun.com    #滇ICP备2024035496号
 DOMAIN-SUFFIX,ipchaxun.net    #粤ICP备20009057号
-DOMAIN-SUFFIX,rdnsdb.com    #闽ICP备15009794号
-
 DOMAIN-SUFFIX,ipplus360.com    #豫ICP备17017462号-1 埃文科技
 DOMAIN-SUFFIX,ipshu.com    #鄂B2-20110095-1
-
-DOMAIN-SUFFIX,fofa.info    #Fofa网站测绘（华顺信安）
-DOMAIN-SUFFIX,onedns.net    #OneDNS（微步在线）
+DOMAIN-SUFFIX,ipshudi.com    #IP属地查询
+DOMAIN-SUFFIX,itdog.cn    #itdog网站工具箱
+DOMAIN-SUFFIX,rdnsdb.com    #闽ICP备15009794号
+DOMAIN-SUFFIX,webmasterhome.cn    #站长之家
 
 # 主页导航
 ## 氪主页
@@ -2944,7 +2956,6 @@ DOMAIN-SUFFIX,baixing.com
 DOMAIN-SUFFIX,baixing.net
 DOMAIN-SUFFIX,bamenzhushou.com
 DOMAIN-SUFFIX,bangongziyuan.com
-DOMAIN-SUFFIX,baofeng.com
 DOMAIN-SUFFIX,baoxianshichang.com
 DOMAIN-SUFFIX,bearychat.com
 DOMAIN-SUFFIX,beihaidc.com
@@ -3014,7 +3025,6 @@ DOMAIN-SUFFIX,chinaweiyu.com
 DOMAIN-SUFFIX,chinawutong.com
 DOMAIN-SUFFIX,chinazns.com
 DOMAIN-SUFFIX,chouti.com
-DOMAIN-SUFFIX,chuangcdn.com
 DOMAIN-SUFFIX,chuangxin.com
 DOMAIN-SUFFIX,chuansong.me
 DOMAIN-SUFFIX,chuansongme.com
@@ -3103,7 +3113,6 @@ DOMAIN-SUFFIX,dyhjw.com
 DOMAIN-SUFFIX,dzdvip.com
 DOMAIN-SUFFIX,dzsc.com
 DOMAIN-SUFFIX,dzw3.com
-DOMAIN-SUFFIX,dzwww.com
 DOMAIN-SUFFIX,easesale.com
 DOMAIN-SUFFIX,easiu.com
 DOMAIN-SUFFIX,eastday.com
@@ -3261,7 +3270,6 @@ DOMAIN-SUFFIX,jianzhi8.com
 DOMAIN-SUFFIX,jiaodong.net
 DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,jiasuhui.com
-DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,jiathis.com
 DOMAIN-SUFFIX,jiayuan.com
 DOMAIN-SUFFIX,jiazhao.com
@@ -3271,12 +3279,10 @@ DOMAIN-SUFFIX,jinianbi.com
 DOMAIN-SUFFIX,jinrongren.net
 DOMAIN-SUFFIX,jinse.com
 DOMAIN-SUFFIX,jinti.com
-DOMAIN-SUFFIX,jiqizhixin.com
 DOMAIN-SUFFIX,jisuxia.com
 DOMAIN-SUFFIX,jiuzhilan.com
 DOMAIN-SUFFIX,jj20.com
 DOMAIN-SUFFIX,jkbl.com
-DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,job5588.com
 DOMAIN-SUFFIX,job910.com
 DOMAIN-SUFFIX,jobjm.com
@@ -3284,7 +3290,6 @@ DOMAIN-SUFFIX,jsrdgg.com
 DOMAIN-SUFFIX,jsyks.com
 DOMAIN-SUFFIX,juefeng.com
 DOMAIN-SUFFIX,julive.com
-DOMAIN-SUFFIX,jumei.com
 DOMAIN-SUFFIX,juwan.com
 DOMAIN-SUFFIX,juxia.com
 DOMAIN-SUFFIX,jyimg.com
@@ -3349,9 +3354,6 @@ DOMAIN-SUFFIX,longre.com
 DOMAIN-SUFFIX,longzhu.com
 DOMAIN-SUFFIX,lotpc.com
 DOMAIN-SUFFIX,loupan.com
-DOMAIN-SUFFIX,lu.com
-DOMAIN-SUFFIX,lufax.com
-DOMAIN-SUFFIX,lufaxcdn.com
 DOMAIN-SUFFIX,lunwengo.net
 DOMAIN-SUFFIX,luyouqi.com
 DOMAIN-SUFFIX,lvmama.com
@@ -3490,8 +3492,6 @@ DOMAIN-SUFFIX,scdng.com
 DOMAIN-SUFFIX,scoregg.com
 DOMAIN-SUFFIX,sczsxx.com
 DOMAIN-SUFFIX,sdo.com
-DOMAIN-SUFFIX,sencdn.com
-DOMAIN-SUFFIX,seniverse.com
 DOMAIN-SUFFIX,senlinjimore.com    #鲁ICP备20001333号 森林集
 DOMAIN-SUFFIX,sgamer.com
 DOMAIN-SUFFIX,shang360.com
@@ -3732,7 +3732,6 @@ DOMAIN-SUFFIX,yrz.name
 DOMAIN-SUFFIX,yslyhr.com
 DOMAIN-SUFFIX,ysten.com
 DOMAIN-SUFFIX,yuanzhiyijiantong.com
-DOMAIN-SUFFIX,yunaq.com
 DOMAIN-SUFFIX,yunba.io
 DOMAIN-SUFFIX,yundun.com
 DOMAIN-SUFFIX,yunkanpan.com    #京ICP备15036006号-3

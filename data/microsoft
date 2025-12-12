@@ -198,6 +198,10 @@ DOMAIN,bj1.api.bing.com
 DOMAIN,emoi-cncdn.bing.com
 #end include:bing
 #include:github
+#include:github-ads
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+#end include:github-ads
 #include:npmjs
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com

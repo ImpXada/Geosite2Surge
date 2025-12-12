@@ -242,6 +242,10 @@ DOMAIN-SUFFIX,emogi.com
 #include:flurry-ads
 DOMAIN-SUFFIX,data.flurry.com
 #end include:flurry-ads
+#include:github-ads
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+#end include:github-ads
 #include:google-ads
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
@@ -423,6 +427,7 @@ DOMAIN-SUFFIX,oct.pocoiq.cn
 DOMAIN-SUFFIX,ads.pubmatic.com
 #end include:pubmatic-ads
 #include:qihoo360-ads
+DOMAIN-SUFFIX,fenxi.360.cn
 DOMAIN-SUFFIX,fenxi.com
 DOMAIN-SUFFIX,lianmeng.360.cn
 DOMAIN-SUFFIX,mediav.com

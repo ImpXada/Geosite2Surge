@@ -519,21 +519,21 @@ DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,yeshen.com
 
-# https://github.com/supzhang/epg
-# 鲁ICP备18015570号-1
-DOMAIN-SUFFIX,51zmt.top
-
-# B站空降助手 鲁ICP备2024098956号-1
-DOMAIN-SUFFIX,bsbsb.top
-
 # 17K小说
 DOMAIN-SUFFIX,17k.com
 # 3DM游戏网
 DOMAIN-SUFFIX,3dmgame.com
+# https://github.com/supzhang/epg
+DOMAIN-SUFFIX,51zmt.top
 # 游侠网
 DOMAIN-SUFFIX,ali213.net
+# 暴风影音
+DOMAIN-SUFFIX,baofeng.com
+DOMAIN-SUFFIX,baofeng.net
 # 布咕阅读
 DOMAIN-SUFFIX,bgwxc.com
+# B站空降助手
+DOMAIN-SUFFIX,bsbsb.top
 # 动漫之家 #703
 DOMAIN-SUFFIX,dmzj.com
 DOMAIN-SUFFIX,muwai.com
