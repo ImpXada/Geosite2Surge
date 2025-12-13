@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,taobao
 # All .tmall domains
 DOMAIN-SUFFIX,tmall
 
+#include:9game
+DOMAIN-SUFFIX,9game.cn
+#end include:9game
 #include:alibaba-ads
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
@@ -244,7 +247,6 @@ DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,56che.com
 DOMAIN-SUFFIX,95095.com
-DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,ali-health.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba-inc.com

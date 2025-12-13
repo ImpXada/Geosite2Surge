@@ -521,12 +521,8 @@ DOMAIN-SUFFIX,yeshen.com
 
 # 17K小说
 DOMAIN-SUFFIX,17k.com
-# 3DM游戏网
-DOMAIN-SUFFIX,3dmgame.com
 # https://github.com/supzhang/epg
 DOMAIN-SUFFIX,51zmt.top
-# 游侠网
-DOMAIN-SUFFIX,ali213.net
 # 暴风影音
 DOMAIN-SUFFIX,baofeng.com
 DOMAIN-SUFFIX,baofeng.net
@@ -584,3 +580,51 @@ DOMAIN-SUFFIX,zhanqi.tv
 DOMAIN-SUFFIX,zhulang.com
 # 纵横小说
 DOMAIN-SUFFIX,zongheng.com
+
+# 娱乐资讯媒体
+
+#include:tgbus
+DOMAIN-SUFFIX,tgbus.com
+#end include:tgbus
+#include:vgtime
+DOMAIN-SUFFIX,vgtime.com
+#end include:vgtime
+
+## 17173网
+DOMAIN-SUFFIX,17173.com
+## 18183网
+DOMAIN-SUFFIX,18183.com
+## 3DM游戏网
+DOMAIN-SUFFIX,3dmgame.com
+## 游侠网
+DOMAIN-SUFFIX,ali213.net
+## 竞核
+DOMAIN-SUFFIX,cgames.com
+## 触乐
+DOMAIN-SUFFIX,chuapp.com
+## DataEye
+DOMAIN-SUFFIX,dataeye.com
+## GameDiary
+DOMAIN-SUFFIX,gamediary.cn
+## GameLook
+DOMAIN-SUFFIX,gamelook.com.cn
+## GameRes游资网
+DOMAIN-SUFFIX,gameres.com
+## 游戏价值论
+DOMAIN-SUFFIX,gamewower.com
+## 机核
+DOMAIN-SUFFIX,gcores.com
+## IGN中国
+DOMAIN-SUFFIX,ign.com.cn
+## 手游那点事
+DOMAIN-SUFFIX,nadianshi.com
+## 游戏日报
+DOMAIN-SUFFIX,news.yxrb.net
+## 游戏机实用技术
+DOMAIN-SUFFIX,ucg.cn
+## 游戏茶馆
+DOMAIN-SUFFIX,youxichaguan.com
+## 游戏葡萄
+DOMAIN-SUFFIX,youxiputao.com
+## 游研社
+DOMAIN-SUFFIX,yystv.cn

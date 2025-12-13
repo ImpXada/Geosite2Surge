@@ -589,6 +589,11 @@ DOMAIN-SUFFIX,amzndns-cn.net
 DOMAIN-WILDCARD,*.awsdns-cn-??.
 DOMAIN-WILDCARD,*.awsdns-cn-??.cn
 #end include:aws-cn
+#include:baishancloud
+DOMAIN-SUFFIX,bsclink.cn
+DOMAIN-SUFFIX,qingcdn.com
+DOMAIN-SUFFIX,trpcdn.net
+#end include:baishancloud
 #include:bootcdn
 DOMAIN-SUFFIX,bootcdn.cn
 DOMAIN-SUFFIX,bootcdn.net
@@ -1343,9 +1348,16 @@ DOMAIN-SUFFIX,jsehealth.com
 ## 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
 DOMAIN-SUFFIX,mingxuan.store
 
+# Party and government offices & Public units
+DOMAIN-SUFFIX,gov.cn
+## 中国气象局
+DOMAIN-SUFFIX,cma.cn
+## 中央气象台
+DOMAIN-SUFFIX,nmc.cn
+
 # Public transportation
 
-DOMAIN-SUFFIX,caac.gov.cn    #中国民航局
+# 中国民航局 caac.gov.cn
 DOMAIN-SUFFIX,ceair.com    #中国东方航空
 DOMAIN-SUFFIX,chinaexpressair.com    #华夏航空
 DOMAIN-SUFFIX,csair.com    #中国南方航空
@@ -2729,13 +2741,6 @@ DOMAIN-SUFFIX,sinopecsales.com
 DOMAIN-SUFFIX,chugou360.com
 DOMAIN-SUFFIX,ycrx360.com
 
-# 中国气象局政府门户网站
-DOMAIN-SUFFIX,cma.gov.cn
-# 中国气象局
-DOMAIN-SUFFIX,cma.cn
-# 中央气象台
-DOMAIN-SUFFIX,nmc.cn
-
 # The following domains are carried over from geosite:cn.
 # TODO: Decide how to deal with these domains
 
@@ -2757,12 +2762,10 @@ DOMAIN-SUFFIX,123u.com
 DOMAIN-SUFFIX,1637.com
 DOMAIN-SUFFIX,16888.com
 DOMAIN-SUFFIX,16rd.com
-DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,178linux.com
 DOMAIN-SUFFIX,17989.com
 DOMAIN-SUFFIX,17cdn.com
 DOMAIN-SUFFIX,17house.com
-DOMAIN-SUFFIX,18183.com
 DOMAIN-SUFFIX,1905.com
 DOMAIN-SUFFIX,19yxw.com
 DOMAIN-SUFFIX,1nongjing.com
@@ -2843,7 +2846,6 @@ DOMAIN-SUFFIX,714.com
 DOMAIN-SUFFIX,7230.com
 DOMAIN-SUFFIX,72byte.com
 DOMAIN-SUFFIX,7down.com
-DOMAIN-SUFFIX,7k7k.com
 DOMAIN-SUFFIX,7po.com
 DOMAIN-SUFFIX,7x24cc.com
 DOMAIN-SUFFIX,7xdown.com
@@ -3349,7 +3351,6 @@ DOMAIN-SUFFIX,mumayi.com
 DOMAIN-SUFFIX,muomou.com
 DOMAIN-SUFFIX,muzhiwan.com
 DOMAIN-SUFFIX,mydown.com
-DOMAIN-SUFFIX,mydrivers.com
 DOMAIN-SUFFIX,myshow360.net
 DOMAIN-SUFFIX,myyx618.com
 DOMAIN-SUFFIX,myzaker.com

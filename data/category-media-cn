@@ -199,8 +199,6 @@ DOMAIN-SUFFIX,dzwww.com
 DOMAIN-SUFFIX,expreview.com
 # FreeBuf 网络安全行业门户
 DOMAIN-SUFFIX,freebuf.com
-# 机核
-DOMAIN-SUFFIX,gcores.com
 # 极客公园
 DOMAIN-SUFFIX,geekpark.net
 # 光明网
@@ -217,6 +215,8 @@ DOMAIN-SUFFIX,huanqiucdn.cn
 # 虎嗅
 DOMAIN-SUFFIX,huxiu.com
 DOMAIN-SUFFIX,huxiucdn.com
+# 电脑报
+DOMAIN-SUFFIX,icpcw.com
 # 中国IDC圈
 DOMAIN-SUFFIX,idcquan.com
 # 艾瑞咨询
@@ -244,6 +244,8 @@ DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,statickksmg.com
 # 晚点
 DOMAIN-SUFFIX,latepost.com
+# 快科技
+DOMAIN-SUFFIX,mydrivers.com
 # 南岳新闻网
 DOMAIN-SUFFIX,nanyuenews.com
 # 每日经济新闻报社
@@ -303,6 +305,8 @@ DOMAIN-SUFFIX,thsi.cn
 DOMAIN-SUFFIX,ths123.com
 # 人人都是产品经理
 DOMAIN-SUFFIX,woshipm.com
+# 新快报
+DOMAIN-SUFFIX,xkb.com.cn
 # 第一财经
 DOMAIN-SUFFIX,yicai.com
 # ZEALER

@@ -3,7 +3,7 @@ DOMAIN,download.cdp.bethesda.net
 DOMAIN,content.cdp.bethesda.net
 
 # Roti - 游戏更新/下载
-DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,lion.secure.dyn.riotcdn.net
 DOMAIN,lol.secure.dyn.riotcdn.net
 DOMAIN,ks-foundation.secure.dyn.riotcdn.net
 DOMAIN,riot-client.secure.dyn.riotcdn.net
@@ -64,6 +64,7 @@ DOMAIN,blzdist-wow.necdn.leihuo.netease.com
 DOMAIN,blzdist-hs.necdn.leihuo.netease.com
 DOMAIN,blzdist-di.necdn.leihuo.netease.com
 DOMAIN,blzdist-ow.necdn.leihuo.netease.com
+DOMAIN,blzdist-d3.necdn.leihuo.netease.com
 
 # GOG - 客户端更新/游戏下载[Akamai]
 DOMAIN,gog-cdn.akamaized.net
@@ -93,11 +94,18 @@ DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 DOMAIN,uplaypc-s-ubisoft-ww.cdn.ubi.com
 DOMAIN,ubisoftconnect.cdn.ubi.com
 
-# Ubisoft Connect(Uplay) - 游戏下载(中国大陆地区)
+# Ubisoft Connect(Uplay) - 游戏下载-腾讯云(中国大陆地区)
+DOMAIN,ubisoftconnect.eo-edgefunctions7.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+
+# Ubisoft Connect(Uplay) - 游戏下载-AkamaiCN(中国大陆地区)
 DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
 
 # EA Desktop - 游戏下载[akamai-CDN]
 DOMAIN,origin-a.akamaihd.net
+
+# EA Desktop - 游戏下载[Cloudflare-CDN]
+DOMAIN,prod.cloudflare.cdn.ea.com
 
 # Steam - 游戏下载(中国区)[新流云]
 DOMAIN,dl.steam.clngaa.com

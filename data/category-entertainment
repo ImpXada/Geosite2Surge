@@ -1090,6 +1090,7 @@ DOMAIN-SUFFIX,egta.com
 DOMAIN-SUFFIX,fireside.fm
 DOMAIN-SUFFIX,internationalsaimoe.com
 DOMAIN-SUFFIX,joox.com
+DOMAIN-SUFFIX,kpacg.com
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,megaphone.fm
 DOMAIN-SUFFIX,mikanani.me
@@ -1107,3 +1108,71 @@ DOMAIN-SUFFIX,yande.re
 DOMAIN-SUFFIX,amp-api.podcast.apple.com
 DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,bookeeper.itunes.apple.com
+
+# Entertainment oriented media
+## 4Gamer.net
+DOMAIN-SUFFIX,4gamer.net
+## 4Gamers
+DOMAIN-SUFFIX,4gamers.com.tw
+## 秋葉原綜研
+DOMAIN-SUFFIX,akiba-souken.com
+## Appget
+DOMAIN-SUFFIX,appget.com
+## AppMedia
+DOMAIN-SUFFIX,appmedia.jp
+## Automaton
+DOMAIN-SUFFIX,automaton-media.com
+## 电faminicogamer
+DOMAIN-SUFFIX,denfaminicogamer.jp
+## ASCII Media Works
+DOMAIN-SUFFIX,dengekionline.com
+## E-ROAD
+DOMAIN-SUFFIX,eroge-road.com
+## ファミ通
+DOMAIN-SUFFIX,famitsu.com
+## 遊戲基地
+DOMAIN-SUFFIX,gamebase.com.tw
+## gamebiz
+DOMAIN-SUFFIX,gamebiz.jp
+## IID, Inc.
+DOMAIN-SUFFIX,gamebusiness.jp
+DOMAIN-SUFFIX,gamespark.jp
+DOMAIN-SUFFIX,inside-games.jp
+## GameMeca
+DOMAIN-SUFFIX,gamemeca.com
+## Gameover有機網
+DOMAIN-SUFFIX,gameover.com.hk
+## Gamer
+DOMAIN-SUFFIX,gamer.ne.jp
+DOMAIN-SUFFIX,onlinegamer.jp
+## Great Game
+DOMAIN-SUFFIX,greatgame.asia
+## HobbiGame
+DOMAIN-SUFFIX,hobbigame.com
+## IGN
+DOMAIN-SUFFIX,ign.com
+DOMAIN-SUFFIX,ignimg.com
+## Made with Unity
+DOMAIN-SUFFIX,madewithunity.jp
+## Media Clip
+DOMAIN-SUFFIX,mediaclip.jp
+## 電脳世界のひみつ基地
+DOMAIN-SUFFIX,maedahiroyuki.com
+## MANTANWEB
+DOMAIN-SUFFIX,mantan-web.jp
+## Moepedia
+DOMAIN-SUFFIX,moepedia.net
+## QooApp
+DOMAIN-SUFFIX,qoo-app.com
+## Real Sound
+DOMAIN-SUFFIX,realsound.jp
+## Saiga NAK
+DOMAIN-SUFFIX,saiganak.com
+## The Games Daily
+DOMAIN-SUFFIX,tgdaily.co.kr
+## Thisisgame
+DOMAIN-SUFFIX,thisisgame.com
+## Wanuxi
+DOMAIN-SUFFIX,wanuxi.com
+## よろず〜
+DOMAIN-SUFFIX,yorozoonews.jp
