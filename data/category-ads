@@ -17,6 +17,12 @@ DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
 #end include:adobe-ads
 #include:alibaba-ads
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+#end include:amap-ads
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -50,7 +56,6 @@ DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashbc.m.taobao.com
 DOMAIN-SUFFIX,adashbc.ut.taobao.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
-DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
@@ -78,7 +83,6 @@ DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,track.lc.quark.cn
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
@@ -381,6 +385,14 @@ DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
 #end include:whatsapp-ads
 #end include:meta-ads
+#include:microsoft-ads
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,microsoftads.com
+DOMAIN-SUFFIX,msads.net
+DOMAIN-SUFFIX,nelreports.net
+#end include:microsoft-ads
 #include:mopub-ads
 DOMAIN-SUFFIX,mopub.com
 #end include:mopub-ads
@@ -553,6 +565,7 @@ DOMAIN-SUFFIX,adsview.qq.com
 DOMAIN-SUFFIX,adsview2.qq.com
 DOMAIN-SUFFIX,adv.app.qq.com
 DOMAIN-SUFFIX,adver.qq.com
+DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,beacon.cdn.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,beaconcdn.qq.com
@@ -586,8 +599,10 @@ DOMAIN-SUFFIX,wit.qq.com
 DOMAIN-SUFFIX,uberads.com
 #end include:uberads-ads
 #include:umeng-ads
+DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,utoken.umeng.com
 
 # CNZZ
 DOMAIN-SUFFIX,w.cnzz.com
@@ -631,29 +646,10 @@ DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
 #end include:yahoo-ads
-#include:youku-ads
-DOMAIN-SUFFIX,ad.api.3g.youku.com
-DOMAIN-SUFFIX,ad.api.mobile.youku.com
-DOMAIN-SUFFIX,ad.mobile.youku.com
-DOMAIN-SUFFIX,adashx.ut.youku.com
-DOMAIN-SUFFIX,atm.youku.com
-DOMAIN-SUFFIX,e.stat.ykimg.com
-DOMAIN-SUFFIX,ems.youku.com
-DOMAIN-SUFFIX,guanggaoad.youku.com
-DOMAIN-SUFFIX,h-adashx.ut.youku.com
-DOMAIN-SUFFIX,lstat.youku.com
-DOMAIN-SUFFIX,mobilemsg.youku.com
-DOMAIN-SUFFIX,msg.youku.com
-DOMAIN-SUFFIX,p-log.ykimg.com
-DOMAIN-SUFFIX,passport-log.youku.com
-DOMAIN-SUFFIX,pl.youku.com
-DOMAIN-SUFFIX,s-adashx.ut.youku.com
-DOMAIN-SUFFIX,stat.youku.com
-DOMAIN-SUFFIX,statis.api.3g.youku.com
-DOMAIN-SUFFIX,v6-adashx.ut.youku.com
-DOMAIN-SUFFIX,yk-ssp.ad.youku.com
-DOMAIN-SUFFIX,ykad-data.youku.com
-#end include:youku-ads
+#include:zhihu-ads
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+#end include:zhihu-ads
 
 # Other domains for ads serving
 DOMAIN-SUFFIX,51.la

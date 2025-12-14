@@ -54,3 +54,7 @@ DOMAIN-SUFFIX,juequling.com
 # Akamai
 DOMAIN-WILDCARD,*-mihayo.akamaized.net
 #end include:mihoyo-cn
+
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com
+#end include:mihoyo-ads

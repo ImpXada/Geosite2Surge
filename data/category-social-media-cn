@@ -47,10 +47,6 @@ DOMAIN-SUFFIX,dwstatic.com
 DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,yystatic.com
 #end include:yy
-#include:zhihu
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
-#end include:zhihu
 
 DOMAIN-SUFFIX,tieba.baidu.com
 DOMAIN-SUFFIX,tieba.com

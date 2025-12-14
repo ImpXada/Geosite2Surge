@@ -241,6 +241,14 @@ DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com
 #end include:github
+#include:microsoft-ads
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,microsoftads.com
+DOMAIN-SUFFIX,msads.net
+DOMAIN-SUFFIX,nelreports.net
+#end include:microsoft-ads
 #include:microsoft-dev
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,api-extractor.com
@@ -495,7 +503,6 @@ DOMAIN-SUFFIX,c-msedge.net
 DOMAIN-SUFFIX,centralvalidation.com
 DOMAIN-SUFFIX,ch9.ms
 DOMAIN-SUFFIX,charticulator.com
-DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
 DOMAIN-SUFFIX,cortanaanalytics.com
@@ -559,7 +566,6 @@ DOMAIN-SUFFIX,microsoft-sbs-domains.com
 DOMAIN-SUFFIX,microsoft-smb.cn
 DOMAIN-SUFFIX,microsoft365.com
 DOMAIN-SUFFIX,microsoftaccountguard.com
-DOMAIN-SUFFIX,microsoftads.com
 DOMAIN-SUFFIX,microsoftadvertising.com
 DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
 DOMAIN-SUFFIX,microsoftaffiliates.com
@@ -601,7 +607,6 @@ DOMAIN-SUFFIX,morphcharts.com
 DOMAIN-SUFFIX,mpnevolution.com
 DOMAIN-SUFFIX,ms-studiosmedia.com
 DOMAIN-SUFFIX,ms365surfaceoffer.com
-DOMAIN-SUFFIX,msads.net
 DOMAIN-SUFFIX,msauth.cn
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msauthimages.cn
@@ -628,7 +633,6 @@ DOMAIN-SUFFIX,msra.cn
 DOMAIN-SUFFIX,msturing.org
 DOMAIN-SUFFIX,msudalosti.com
 DOMAIN-SUFFIX,mymicrosoft.com
-DOMAIN-SUFFIX,nelreports.net
 DOMAIN-SUFFIX,nextechafrica.net
 DOMAIN-SUFFIX,nxta.org
 DOMAIN-SUFFIX,o365cn.com

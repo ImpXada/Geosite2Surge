@@ -499,6 +499,17 @@ DOMAIN-SUFFIX,termux.com
 DOMAIN-SUFFIX,termux.dev
 DOMAIN-SUFFIX,termux.org
 #end include:termux
+#include:thelinuxfoundation
+#include:kernel
+DOMAIN-SUFFIX,kernel.org
+#end include:kernel
+#include:linux
+DOMAIN-SUFFIX,linux.org
+#end include:linux
+
+DOMAIN-SUFFIX,lfai.foundation
+DOMAIN-SUFFIX,linuxfoundation.org
+#end include:thelinuxfoundation
 #include:topcoder
 DOMAIN-SUFFIX,topcoder.com
 #end include:topcoder

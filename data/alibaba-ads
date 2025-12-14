@@ -1,3 +1,9 @@
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+#end include:amap-ads
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -31,7 +37,6 @@ DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashbc.m.taobao.com
 DOMAIN-SUFFIX,adashbc.ut.taobao.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
-DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
@@ -59,7 +64,6 @@ DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,track.lc.quark.cn
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com

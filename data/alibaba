@@ -14,6 +14,12 @@ DOMAIN-SUFFIX,tmall
 DOMAIN-SUFFIX,9game.cn
 #end include:9game
 #include:alibaba-ads
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+#end include:amap-ads
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com
 DOMAIN-SUFFIX,ad.mobile.youku.com
@@ -47,7 +53,6 @@ DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,adashbc.m.taobao.com
 DOMAIN-SUFFIX,adashbc.ut.taobao.com
 DOMAIN-SUFFIX,adashx.m.taobao.com
-DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,adashx4ae.ut.taobao.com
 DOMAIN-SUFFIX,adashx4yt.m.taobao.com
@@ -75,7 +80,6 @@ DOMAIN-SUFFIX,retcode.taobao.com
 DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,tns.simba.taobao.com
 DOMAIN-SUFFIX,track.lc.quark.cn
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
@@ -210,8 +214,10 @@ DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uczzd.cn
 #end include:uc
 #include:umeng
+DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,utoken.umeng.com
 
 # CNZZ
 DOMAIN-SUFFIX,w.cnzz.com
@@ -419,6 +425,14 @@ DOMAIN-SUFFIX,iuynfg.com
 
 # 高德地图
 #include:amap
+#include:amap-ads
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+#end include:amap-ads
+
 DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,a-map.link

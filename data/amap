@@ -1,3 +1,11 @@
+#include:amap-ads
+DOMAIN-SUFFIX,adashx.ut.amap.com
+DOMAIN-SUFFIX,dualstack-logs.amap.com
+DOMAIN-SUFFIX,logs.amap.com
+DOMAIN-SUFFIX,optimus-ads.amap.com
+DOMAIN-SUFFIX,v6-adashx.ut.amap.com
+#end include:amap-ads
+
 DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,a-map.link

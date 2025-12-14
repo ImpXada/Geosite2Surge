@@ -276,7 +276,8 @@ DOMAIN-SUFFIX,ca.file.myqcloud.com    #多伦多
 DOMAIN-SUFFIX,ger.file.myqcloud.com    #法兰克福
 DOMAIN-SUFFIX,rumt-sg.com    #新加坡
 DOMAIN-SUFFIX,rumt-us.com    #硅谷
-DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
+DOMAIN-SUFFIX,chinatelecomglobal.com
+DOMAIN-SUFFIX,chinatelecomhk.com
 DOMAIN-SUFFIX,byteglb.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,byteoversea.net
@@ -303,5 +304,4 @@ DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.qq.com
-DOMAIN-SUFFIX,chinatelecomglobal.com
-DOMAIN-SUFFIX,chinatelecomhk.com
+DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
