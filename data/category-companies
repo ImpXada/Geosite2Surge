@@ -4147,7 +4147,8 @@ DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,urchin.com
 
 DOMAIN,analytics.google.com
-DOMAIN,fundingchoicesmessages.google.com
+# https://github.com/AdguardTeam/FiltersRegistry/pull/1154
+# full:fundingchoicesmessages.google.com @ads
 
 DOMAIN-WILDCARD,adservice.google.*
 #end include:google-ads

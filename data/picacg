@@ -1,3 +1,7 @@
+DOMAIN,ad-channel.diwodiwo.xyz
+DOMAIN,ad-display.diwodiwo.xyz
+#end include:picacg-ads
+
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz
 DOMAIN-SUFFIX,bikaios.xyz
@@ -10,6 +14,5 @@ DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,wikawika.xyz
 
 # Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
-DOMAIN-WILDCARD,*?*.diwodiwo.xyz
-DOMAIN-SUFFIX,ad-channel.diwodiwo.xyz
-DOMAIN-SUFFIX,ad-display.diwodiwo.xyz
+DOMAIN-SUFFIX,diwodiwo.xyz
+

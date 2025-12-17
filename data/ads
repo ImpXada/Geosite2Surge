@@ -72,6 +72,8 @@ DOMAIN-SUFFIX,presage.io
 DOMAIN-SUFFIX,ogury.co
 DOMAIN,sentry.hetzner.company
 DOMAIN-SUFFIX,ads.pubmatic.com
+DOMAIN,ad-channel.diwodiwo.xyz
+DOMAIN,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,admusicpic.music.126.net
 DOMAIN-SUFFIX,ads.music.126.net
@@ -112,8 +114,6 @@ DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,unityads.unitychina.cn
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
-DOMAIN-SUFFIX,ad-channel.diwodiwo.xyz
-DOMAIN-SUFFIX,ad-display.diwodiwo.xyz
 DOMAIN-SUFFIX,adashx.ut.amap.com
 DOMAIN-SUFFIX,dualstack-logs.amap.com
 DOMAIN-SUFFIX,logs.amap.com
@@ -267,6 +267,21 @@ DOMAIN-SUFFIX,testads.api.my7v.com
 DOMAIN-SUFFIX,aaid.umeng.com
 DOMAIN-SUFFIX,alog.umeng.com
 DOMAIN-SUFFIX,alog.umengcloud.com
+DOMAIN-SUFFIX,alogs.umeng.com
+DOMAIN-SUFFIX,alogus.umeng.com
+DOMAIN-SUFFIX,ar.umeng.com
+DOMAIN-SUFFIX,aspect-upush.umeng.com
+DOMAIN-SUFFIX,audid.umeng.com
+DOMAIN-SUFFIX,ccs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umeng.com
+DOMAIN-SUFFIX,cnlogs.umengcloud.com
+DOMAIN-SUFFIX,new-aaid.umeng.com
+DOMAIN-SUFFIX,new-aaid.umeng.com.gds.alibabadns.com
+DOMAIN-SUFFIX,oc.umeng.com
+DOMAIN-SUFFIX,plbslog.umeng.com
+DOMAIN-SUFFIX,resolve.umeng.com
+DOMAIN-SUFFIX,ulogs.umeng.com
+DOMAIN-SUFFIX,ulogs.umengcloud.com
 DOMAIN-SUFFIX,utoken.umeng.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
@@ -545,7 +560,6 @@ DOMAIN-SUFFIX,pagead.l.google.com
 DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,urchin.com
 DOMAIN,analytics.google.com
-DOMAIN,fundingchoicesmessages.google.com
 DOMAIN-WILDCARD,adservice.google.*
 DOMAIN,apilog-web.acfun.cn
 DOMAIN-SUFFIX,ads.service.kugou.com

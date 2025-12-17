@@ -189,6 +189,11 @@ DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,rtbcdn.ru
 #end include:rutube
+#include:wink
+DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,wink.ru
+#end include:wink
 #include:x5
 DOMAIN-SUFFIX,5ka.ru
 DOMAIN-SUFFIX,5post.market
