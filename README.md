@@ -1386,6 +1386,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | xiaohongshu | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/xiaohongshu |
 | xiaomi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/xiaomi |
 | xiaomi-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/xiaomi-ads |
+| xiaomi-ai | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/xiaomi-ai |
 | xiaoyuzhou | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/xiaoyuzhou |
 | ximalaya | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ximalaya |
 | ximalaya-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ximalaya-ads |

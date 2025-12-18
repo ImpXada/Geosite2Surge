@@ -205,133 +205,6 @@ DOMAIN-SUFFIX,taboola.com
 #end include:taboola
 
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
-#include:category-anticensorship
-#include:category-ipfs
-# Reference: https://ipfs.github.io/public-gateway-checker/
-
-#include:cloudflare-ipfs
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-#end include:cloudflare-ipfs
-
-DOMAIN-SUFFIX,4everland.io
-DOMAIN-SUFFIX,c4rex.co
-DOMAIN-SUFFIX,crustwebsites.net
-DOMAIN-SUFFIX,dweb.link
-DOMAIN-SUFFIX,gateway.pinata.cloud
-DOMAIN-SUFFIX,ipfs-gateway.cloud
-DOMAIN-SUFFIX,ipfs.anonymize.com
-DOMAIN-SUFFIX,ipfs.best-practice.se
-DOMAIN-SUFFIX,ipfs.eternum.io
-DOMAIN-SUFFIX,ipfs.eth.aragon.network
-DOMAIN-SUFFIX,ipfs.fleek.co
-DOMAIN-SUFFIX,ipfs.io
-DOMAIN-SUFFIX,ipfs.lain.la
-DOMAIN-SUFFIX,ipfs.runfission.com
-DOMAIN-SUFFIX,ipfs.tech
-DOMAIN-SUFFIX,ipns.co
-DOMAIN-SUFFIX,jorropo.net
-DOMAIN-SUFFIX,nftstorage.link
-DOMAIN-SUFFIX,via0.com
-#end include:category-ipfs
-#include:ceno
-DOMAIN-SUFFIX,censorship.no
-#end include:ceno
-#include:citizenlab
-DOMAIN-SUFFIX,citizenlab.ca
-DOMAIN-SUFFIX,citizenlab.org
-#end include:citizenlab
-#include:epicbrowser
-DOMAIN-SUFFIX,epicbrowser.com
-#end include:epicbrowser
-#include:greatfire
-DOMAIN-SUFFIX,applecensorship.com
-DOMAIN-SUFFIX,freebrowser.org
-DOMAIN-SUFFIX,freewechat.com
-DOMAIN-SUFFIX,freeweibo.com
-DOMAIN-SUFFIX,freezhihu.org
-DOMAIN-SUFFIX,googlecensorship.org
-DOMAIN-SUFFIX,greatfire.org
-DOMAIN-SUFFIX,greatfirevpn.com
-DOMAIN-SUFFIX,pao-pao.net
-DOMAIN-SUFFIX,wikiunblocked.org
-#end include:greatfire
-#include:haveibeenpwned
-DOMAIN-SUFFIX,haveibeenpwned.com
-DOMAIN-SUFFIX,pwnedpasswords.com
-#end include:haveibeenpwned
-#include:lantern
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,lantern.io
-#end include:lantern
-#include:paskoocheh
-DOMAIN-SUFFIX,paskoocheh.com
-#end include:paskoocheh
-#include:softether
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
-#end include:softether
-#include:torproject
-DOMAIN-SUFFIX,torproject.org
-#end include:torproject
-#include:v2ray
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,v2fly.org
-#end include:v2ray
-#include:vpngate
-DOMAIN-SUFFIX,opengw.net
-DOMAIN-SUFFIX,vpngate.jp
-DOMAIN-SUFFIX,vpngate.net
-#end include:vpngate
-
-DOMAIN-SUFFIX,ahmia.fi
-DOMAIN-SUFFIX,akasha.world
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,bypasscensorship.org
-DOMAIN-SUFFIX,censorship.ai
-DOMAIN-SUFFIX,dat.foundation
-DOMAIN-SUFFIX,democracy.earth
-DOMAIN-SUFFIX,eff.org
-DOMAIN-SUFFIX,ffprofile.com
-DOMAIN-SUFFIX,freenetproject.org
-DOMAIN-SUFFIX,fteproxy.org
-DOMAIN-SUFFIX,geti2p.net
-DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,gfw.report
-DOMAIN-SUFFIX,guardianproject.info
-DOMAIN-SUFFIX,hiddify.com
-DOMAIN-SUFFIX,jitsi.org
-DOMAIN-SUFFIX,lokinet.org
-DOMAIN-SUFFIX,ntc.party
-DOMAIN-SUFFIX,onionshare.org
-DOMAIN-SUFFIX,ooni.org
-DOMAIN-SUFFIX,openvpn.net
-DOMAIN-SUFFIX,privacytools.io
-DOMAIN-SUFFIX,proxifier.com
-DOMAIN-SUFFIX,psiphon.ca
-DOMAIN-SUFFIX,psiphon3.com
-DOMAIN-SUFFIX,sagernet.org
-DOMAIN-SUFFIX,sing-box.app
-DOMAIN-SUFFIX,shadowsocks.org
-DOMAIN-SUFFIX,sspanel.net
-DOMAIN-SUFFIX,stunnel.org
-DOMAIN-SUFFIX,telex.cc
-DOMAIN-SUFFIX,tribler.org
-DOMAIN-SUFFIX,tunsafe.com
-DOMAIN-SUFFIX,turkeyblocks.org
-DOMAIN-SUFFIX,twister.net.co
-DOMAIN-SUFFIX,uproxy.org
-DOMAIN-SUFFIX,vpnrouter.homes
-DOMAIN-SUFFIX,vuvuzela.io
-DOMAIN-SUFFIX,whonix.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wireguard.com
-DOMAIN-SUFFIX,xtls.github.io
-DOMAIN-SUFFIX,trojan-gfw.github.io
-DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,metacubex.one
-#end include:category-anticensorship
 
 # Art & Design & Photography
 #include:artstation
@@ -6542,6 +6415,85 @@ DOMAIN-SUFFIX,workplaceusecases.com
 
 DOMAIN,fbcdn-a.akamaihd.net
 #end include:facebook
+#include:instagram
+#include:instagram-ads
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+#end include:instagram-ads
+
+DOMAIN-SUFFIX,achat-followers-instagram.com
+DOMAIN-SUFFIX,acheter-followers-instagram.com
+DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
+DOMAIN-SUFFIX,acheterfollowersinstagram.com
+DOMAIN-SUFFIX,bookstagram.com
+DOMAIN-SUFFIX,carstagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,chickstagram.com
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,igsonar.com
+DOMAIN-SUFFIX,igtv.com
+DOMAIN-SUFFIX,imstagram.com
+DOMAIN-SUFFIX,imtagram.com
+DOMAIN-SUFFIX,instaadder.com
+DOMAIN-SUFFIX,instachecker.com
+DOMAIN-SUFFIX,instafallow.com
+DOMAIN-SUFFIX,instafollower.com
+DOMAIN-SUFFIX,instagainer.com
+DOMAIN-SUFFIX,instagda.com
+DOMAIN-SUFFIX,instagify.com
+DOMAIN-SUFFIX,instagmania.com
+DOMAIN-SUFFIX,instagor.com
+DOMAIN-SUFFIX,instagram-brand.com
+DOMAIN-SUFFIX,instagram-engineering.com
+DOMAIN-SUFFIX,instagram-help.com
+DOMAIN-SUFFIX,instagram-press.com
+DOMAIN-SUFFIX,instagram-press.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instagramci.com
+DOMAIN-SUFFIX,instagramcn.com
+DOMAIN-SUFFIX,instagramdi.com
+DOMAIN-SUFFIX,instagramhashtags.net
+DOMAIN-SUFFIX,instagramhilecim.com
+DOMAIN-SUFFIX,instagramhilesi.org
+DOMAIN-SUFFIX,instagramium.com
+DOMAIN-SUFFIX,instagramizlenme.com
+DOMAIN-SUFFIX,instagramkusu.com
+DOMAIN-SUFFIX,instagramlogin.com
+DOMAIN-SUFFIX,instagramm.com
+DOMAIN-SUFFIX,instagramn.com
+DOMAIN-SUFFIX,instagrampartners.com
+DOMAIN-SUFFIX,instagramphoto.com
+DOMAIN-SUFFIX,instagramq.com
+DOMAIN-SUFFIX,instagramsepeti.com
+DOMAIN-SUFFIX,instagramtakipcisatinal.net
+DOMAIN-SUFFIX,instagramtakiphilesi.com
+DOMAIN-SUFFIX,instagramtips.com
+DOMAIN-SUFFIX,instagramtr.com
+DOMAIN-SUFFIX,instagran.com
+DOMAIN-SUFFIX,instagranm.com
+DOMAIN-SUFFIX,instagrem.com
+DOMAIN-SUFFIX,instagrm.com
+DOMAIN-SUFFIX,instagtram.com
+DOMAIN-SUFFIX,instagy.com
+DOMAIN-SUFFIX,instamgram.com
+DOMAIN-SUFFIX,instangram.com
+DOMAIN-SUFFIX,instanttelegram.com
+DOMAIN-SUFFIX,instaplayer.net
+DOMAIN-SUFFIX,instastyle.tv
+DOMAIN-SUFFIX,instgram.com
+DOMAIN-SUFFIX,intagram.com
+DOMAIN-SUFFIX,intagrm.com
+DOMAIN-SUFFIX,intgram.com
+DOMAIN-SUFFIX,kingstagram.com
+DOMAIN-SUFFIX,lnstagram-help.com
+DOMAIN-SUFFIX,theinstagramhack.com
+DOMAIN-SUFFIX,oninstagram.com
+DOMAIN-SUFFIX,online-instagram.com
+DOMAIN-SUFFIX,onlineinstagram.com
+DOMAIN-SUFFIX,web-instagram.net
+DOMAIN-SUFFIX,wwwinstagram.com
+#end include:instagram
 #include:linkedin
 DOMAIN-SUFFIX,bizographics.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
@@ -8024,6 +7976,19 @@ DOMAIN-SUFFIX,pugpig.com
 #include:category-orgs
 # This list contains organizations outside China mainland.
 
+#include:archive
+#include:4plebs
+DOMAIN-SUFFIX,4pcdn.org
+DOMAIN-SUFFIX,4plebs.org
+#end include:4plebs
+
+DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.md
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,archive.ph
+DOMAIN-SUFFIX,archive.today
+DOMAIN-SUFFIX,openlibrary.org
+#end include:archive
 #include:creativecommons
 DOMAIN-SUFFIX,ccstatic.org
 DOMAIN-SUFFIX,creativecommons.org
