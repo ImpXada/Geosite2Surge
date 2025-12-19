@@ -1599,6 +1599,11 @@ DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,moji.com
 DOMAIN-SUFFIX,mojichina.com
 #end include:moji
+#include:moonvy
+# 月维设计管理
+DOMAIN-SUFFIX,moonvy.com
+DOMAIN-SUFFIX,moonvy.cool
+#end include:moonvy
 #include:nowcoder
 DOMAIN-SUFFIX,newcoder.com
 DOMAIN-SUFFIX,nowcoder.com

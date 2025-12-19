@@ -873,6 +873,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | momo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/momo |
 | mongodb | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mongodb |
 | monotype | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/monotype |
+| moonvy | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/moonvy |
 | mopub-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mopub-ads |
 | morisawa | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/morisawa |
 | mortein | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mortein |

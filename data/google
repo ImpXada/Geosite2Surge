@@ -230,6 +230,10 @@ DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
 DOMAIN-SUFFIX,aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
 #end include:google-deepmind
 #include:google-gemini
 # This list is for backward compatibility
@@ -271,6 +275,10 @@ DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
 DOMAIN-SUFFIX,aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
 #end include:google-deepmind
 #end include:google-gemini
 #include:google-play

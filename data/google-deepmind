@@ -35,3 +35,7 @@ DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
 DOMAIN-SUFFIX,aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
