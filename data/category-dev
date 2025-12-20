@@ -13,6 +13,75 @@ DOMAIN-SUFFIX,androidify.com
 
 DOMAIN,android.googlesource.com
 #end include:android
+#include:apple-dev
+#include:swift
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
+#end include:swift
+
+# Calendar and Contact Server
+DOMAIN-SUFFIX,calendarserver.org
+
+# CloudKit
+DOMAIN-SUFFIX,apple-cloudkit.com
+
+# CUPS
+DOMAIN-SUFFIX,cups.org
+
+# Developer
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+DOMAIN-SUFFIX,developerservices2.apple.com
+DOMAIN-SUFFIX,timestamp.apple.com
+DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
+DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
+
+# FoundationDB
+DOMAIN-SUFFIX,foundationdb.org
+
+# macOS forge
+DOMAIN-SUFFIX,macosforge.org
+
+# MacRuby
+DOMAIN-SUFFIX,macruby.com
+DOMAIN-SUFFIX,macruby.net
+DOMAIN-SUFFIX,macruby.org
+
+# MapKit
+DOMAIN-SUFFIX,apple-mapkit.com
+
+# Playgrounds
+DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+
+# Research & Care
+DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,researchandcare.org
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,researchkit.hk
+DOMAIN-SUFFIX,researchkit.net
+DOMAIN-SUFFIX,researchkit.org
+DOMAIN-SUFFIX,researchkit.tv
+
+# ServiceTalk
+DOMAIN-SUFFIX,servicetalk.io
+
+# WebKit
+DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,webkitgtk.org
+DOMAIN-SUFFIX,wpewebkit.org
+
+# Other
+DOMAIN-SUFFIX,webobjects.com
+
+DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
+DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN,p-events-delivery.akamaized.net
+
+#end include:apple-dev
 #include:archlinux
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
@@ -37,6 +106,27 @@ DOMAIN-SUFFIX,forthebadge.com
 # Stock Against Photography
 DOMAIN-SUFFIX,stockagainstphotography.com
 #end include:braveux
+#include:canonical
+#include:launchpad
+DOMAIN-SUFFIX,launchpad.net
+DOMAIN-SUFFIX,launchpadcontent.net
+DOMAIN-SUFFIX,launchpadlibrarian.com
+DOMAIN-SUFFIX,launchpadlibrarian.net
+DOMAIN-SUFFIX,launchpadlibrarian.org
+#end include:launchpad
+#include:snapcraft
+DOMAIN-SUFFIX,snapcraft.io
+DOMAIN-SUFFIX,snapstore.io
+#end include:snapcraft
+#include:ubuntu
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,ubuntu.net
+DOMAIN-SUFFIX,ubuntuforums.org
+DOMAIN-SUFFIX,ubuntu-touch.io
+#end include:ubuntu
+
+DOMAIN-SUFFIX,canonical.com
+#end include:canonical
 #include:category-container
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,docker.io
@@ -190,6 +280,50 @@ DOMAIN-SUFFIX,gemfury.com
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
 #end include:gitbook
+#include:github
+#include:github-ads
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+#end include:github-ads
+#include:npmjs
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+#end include:npmjs
+
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,gh.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.ai
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN-SUFFIX,githubhackathon.com
+DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubuniverse.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,octocaptcha.com
+DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,repo.new
+DOMAIN-SUFFIX,thegithubshop.com
+
+# GitHub Actions Artifacts
+DOMAIN-SUFFIX,blob.core.windows.net
+
+DOMAIN,github-api.arkoselabs.com
+DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com
+#end include:github
 #include:github1s
 DOMAIN-SUFFIX,github1s.com
 DOMAIN-SUFFIX,sourcegraph.com
@@ -499,17 +633,6 @@ DOMAIN-SUFFIX,termux.com
 DOMAIN-SUFFIX,termux.dev
 DOMAIN-SUFFIX,termux.org
 #end include:termux
-#include:thelinuxfoundation
-#include:kernel
-DOMAIN-SUFFIX,kernel.org
-#end include:kernel
-#include:linux
-DOMAIN-SUFFIX,linux.org
-#end include:linux
-
-DOMAIN-SUFFIX,lfai.foundation
-DOMAIN-SUFFIX,linuxfoundation.org
-#end include:thelinuxfoundation
 #include:topcoder
 DOMAIN-SUFFIX,topcoder.com
 #end include:topcoder

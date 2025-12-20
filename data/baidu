@@ -1,4 +1,8 @@
 #include:baidu-ads
+#include:zuoyebang-ads
+DOMAIN-SUFFIX,syh.zybang.com
+#end include:zuoyebang-ads
+
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,afd.baidu.com
@@ -53,6 +57,9 @@ DOMAIN-SUFFIX,wm.baidu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 #end include:baidu-ads
 #include:zuoyebang
+DOMAIN-SUFFIX,syh.zybang.com
+#end include:zuoyebang-ads
+
 DOMAIN-SUFFIX,zuoyebang.cc
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com

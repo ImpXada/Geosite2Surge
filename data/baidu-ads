@@ -1,3 +1,7 @@
+#include:zuoyebang-ads
+DOMAIN-SUFFIX,syh.zybang.com
+#end include:zuoyebang-ads
+
 DOMAIN-SUFFIX,adscdn.baidu.com
 DOMAIN-SUFFIX,adx.xiaodutv.com
 DOMAIN-SUFFIX,afd.baidu.com

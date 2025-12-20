@@ -1444,3 +1444,4 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | zte | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zte |
 | zto-express | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zto-express |
 | zuoyebang | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zuoyebang |
+| zuoyebang-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/zuoyebang-ads |
