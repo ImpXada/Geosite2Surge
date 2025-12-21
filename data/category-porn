@@ -352,6 +352,81 @@ DOMAIN-SUFFIX,metcams.com
 DOMAIN-SUFFIX,naiadsystems.com
 DOMAIN-SUFFIX,nsimg.net
 #end include:metart
+#include:mindgeek-porn
+#include:brazzers
+DOMAIN-SUFFIX,brazzer.com
+DOMAIN-SUFFIX,brazzers.com
+DOMAIN-SUFFIX,brazzers.xxx
+DOMAIN-SUFFIX,brazzersnetwork.com
+
+# Mofos
+DOMAIN-SUFFIX,mofos.com
+#end include:brazzers
+#include:digitalplayground
+DOMAIN-SUFFIX,digitalplayground.com
+DOMAIN-SUFFIX,digitalplaygroundnetwork.com
+#end include:digitalplayground
+#include:mydirtyhobby
+DOMAIN-SUFFIX,mydirtyhobby.com
+
+# CDN
+DOMAIN-SUFFIX,mdhcdn.com
+#end include:mydirtyhobby
+#include:nutaku
+DOMAIN-SUFFIX,nutaku.com
+DOMAIN-SUFFIX,nutaku.net
+#end include:nutaku
+#include:pornhub
+DOMAIN-SUFFIX,gaytube.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,porngub.com
+DOMAIN-SUFFIX,pornhub-deutsch.net
+DOMAIN-SUFFIX,pornhubapparel.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhub.org
+DOMAIN-SUFFIX,pornhubpremium.com
+#end include:pornhub
+#include:realitykings
+DOMAIN-SUFFIX,realitykings.com
+DOMAIN-SUFFIX,rk.com
+#end include:realitykings
+#include:redtube
+DOMAIN-SUFFIX,livehdcams.com
+DOMAIN-SUFFIX,redtube.com
+DOMAIN-SUFFIX,redtube.com.br
+DOMAIN-SUFFIX,redtubepremium.com
+
+# CDN
+DOMAIN-SUFFIX,rdtcdn.com
+#end include:redtube
+#include:tube8
+DOMAIN-SUFFIX,tube8.com
+DOMAIN-SUFFIX,tube8.fr
+#end include:tube8
+#include:youporn
+DOMAIN-SUFFIX,extremetube.com
+DOMAIN-SUFFIX,keezmovies.com
+DOMAIN-SUFFIX,youporn.com
+DOMAIN-SUFFIX,youporngay.com
+DOMAIN-SUFFIX,youpornpremium.com
+DOMAIN-SUFFIX,youpornru.com
+DOMAIN-SUFFIX,yopornshop.com
+
+# CDN
+DOMAIN-SUFFIX,ypncdn.com
+#end include:youporn
+
+DOMAIN-SUFFIX,babes.com
+DOMAIN-SUFFIX,men.com
+DOMAIN-SUFFIX,porniq.com
+DOMAIN-SUFFIX,pornmd.com
+DOMAIN-SUFFIX,seancody.com
+DOMAIN-SUFFIX,thumbzilla.com
+DOMAIN-SUFFIX,twistys.com
+DOMAIN-SUFFIX,webcams.tv
+DOMAIN-SUFFIX,whynotbi.com
+#end include:mindgeek-porn
 #include:missav
 DOMAIN-SUFFIX,missav.ai
 DOMAIN-SUFFIX,missav.com

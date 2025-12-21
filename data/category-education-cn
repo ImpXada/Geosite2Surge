@@ -144,6 +144,11 @@ DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,dgjy.net
 # 在职研究生教育信息网
 DOMAIN-SUFFIX,eduei.com
+# 中科大数据研究院，豫ICP备19023555号
+DOMAIN-SUFFIX,ictbda.cn
+DOMAIN-SUFFIX,ictbda.com
+DOMAIN-SUFFIX,modex.com.cn
+DOMAIN-SUFFIX,xir.cn
 # 日语测试
 DOMAIN-SUFFIX,j-test.com
 DOMAIN-SUFFIX,nattest-china.com

@@ -1287,6 +1287,10 @@ DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-SUFFIX,do.co
 DOMAIN-SUFFIX,nginxconfig.io
 #end include:digitalocean
+#include:dmit
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,dmit.sh
+#end include:dmit
 #include:drweb
 DOMAIN-SUFFIX,drweb.by
 DOMAIN-SUFFIX,drweb.cn

@@ -1,3 +1,8 @@
+#include:askdiandian
+# 点点 Ai
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,diandianlife.top
+#end include:askdiandian
 #include:deepseek
 # Main domain
 DOMAIN-SUFFIX,deepseek.com

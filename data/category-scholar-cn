@@ -59,7 +59,11 @@ DOMAIN-SUFFIX,ancientbooks.cn    #籍合网
 
 DOMAIN-SUFFIX,apabi.com
 DOMAIN-SUFFIX,bjinfobank.com    #高校数据财经库
-DOMAIN-SUFFIX,blyun.com    #百链
+
+# 北京百链网源信息技术有限公司
+DOMAIN-SUFFIX,blyun.com    #百链云图书馆
+DOMAIN-SUFFIX,medalink.cn    #百链学术搜索
+
 DOMAIN-SUFFIX,chinabooktrading.com    #中国历代典籍总目
 DOMAIN-SUFFIX,cidp.com.cn    #CIDP制造业数字资源平台
 DOMAIN-SUFFIX,cnbksy.com    #全国报刊索引

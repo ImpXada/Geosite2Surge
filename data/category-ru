@@ -170,10 +170,10 @@ DOMAIN-SUFFIX,surgut.ru    #Khanty-Mansi Autonomous Area – Yugra
 DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
 #end include:category-gov-ru
 
-#include:habr
-DOMAIN-SUFFIX,habr.com
-DOMAIN-SUFFIX,habrastorage.org
-#end include:habr
+#include:avito
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+#end include:avito
 #include:okko
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
