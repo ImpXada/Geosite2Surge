@@ -654,6 +654,11 @@ DOMAIN,ubisoft-orbit-savegames.s3.amazonaws.com
 DOMAIN,ubistatic3-a.akamaihd.net
 DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
 #end include:ubisoft
+#include:vrchat
+DOMAIN-SUFFIX,vrchat.cloud
+DOMAIN-SUFFIX,vrchat.com
+DOMAIN-SUFFIX,vrchat.net
+#end include:vrchat
 #include:wbgames
 DOMAIN,datarouter.apps.netherrealm.com
 DOMAIN,wb-agora-hydra-file-storage-k1.s3.amazonaws.com

@@ -1339,6 +1339,11 @@ DOMAIN-SUFFIX,cloudimg.io
 DOMAIN-SUFFIX,stackpath.com
 DOMAIN-SUFFIX,stackpath.dev
 #end include:stackpath
+#include:vrcdn
+DOMAIN-SUFFIX,vrcdn.cloud
+DOMAIN-SUFFIX,vrcdn.live
+DOMAIN-SUFFIX,vrcdn.video
+#end include:vrcdn
 #include:wistia
 # https://support.wistia.com/en/articles/8233530-firewall-and-network-allowlist-settings
 DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
