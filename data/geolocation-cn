@@ -1537,6 +1537,9 @@ DOMAIN-SUFFIX,iresearch.cn
 DOMAIN-SUFFIX,jianyuweb.com
 DOMAIN-SUFFIX,wallstcn.com
 DOMAIN-SUFFIX,wallstreetcn.com
+# 上观新闻/解放日报
+DOMAIN-SUFFIX,jfdaily.com
+DOMAIN-SUFFIX,shobserver.com
 # 机器之心
 DOMAIN-SUFFIX,jiqizhixin.com
 # 金融界
@@ -2228,6 +2231,8 @@ DOMAIN-SUFFIX,yunaq.com
 ## 即刻雾联（北京）
 ## https://github.com/v2fly/domain-list-community/pull/1352#issuecomment-1345476790
 DOMAIN-SUFFIX,jikeiot.cloud
+## JSDMirror前端公共资源站
+DOMAIN-SUFFIX,jsdmirror.com
 ## 开普云
 DOMAIN-SUFFIX,kaipuyun.cn
 DOMAIN-SUFFIX,kaipuyun.com
@@ -3021,6 +3026,8 @@ DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,dgjy.net
 # 在职研究生教育信息网
 DOMAIN-SUFFIX,eduei.com
+# 高考100
+DOMAIN-SUFFIX,gk100.com
 # 中科大数据研究院，豫ICP备19023555号
 DOMAIN-SUFFIX,ictbda.cn
 DOMAIN-SUFFIX,ictbda.com
@@ -4427,6 +4434,11 @@ DOMAIN-SUFFIX,ttlivecdn.com
 DOMAIN-SUFFIX,ttoverseaus.net
 DOMAIN-SUFFIX,ttwstatic.com
 
+DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
 DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com

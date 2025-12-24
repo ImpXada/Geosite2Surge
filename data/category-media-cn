@@ -296,6 +296,9 @@ DOMAIN-SUFFIX,iresearch.cn
 DOMAIN-SUFFIX,jianyuweb.com
 DOMAIN-SUFFIX,wallstcn.com
 DOMAIN-SUFFIX,wallstreetcn.com
+# 上观新闻/解放日报
+DOMAIN-SUFFIX,jfdaily.com
+DOMAIN-SUFFIX,shobserver.com
 # 机器之心
 DOMAIN-SUFFIX,jiqizhixin.com
 # 金融界

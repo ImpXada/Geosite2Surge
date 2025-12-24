@@ -2166,10 +2166,6 @@ DOMAIN-SUFFIX,kodi.wiki
 DOMAIN-SUFFIX,liberapay.com
 DOMAIN-SUFFIX,liberapay.org
 #end include:liberapay
-#include:linguee
-DOMAIN-SUFFIX,linguee.com
-DOMAIN-SUFFIX,deepl.com
-#end include:linguee
 #include:localizejs
 DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,localizejs.com
@@ -2423,9 +2419,6 @@ DOMAIN-SUFFIX,zeit.co
 DOMAIN-SUFFIX,zeit.sh
 DOMAIN-SUFFIX,zeitworld.com
 #end include:vercel
-#include:webflow
-DOMAIN-SUFFIX,webflow.com
-#end include:webflow
 #include:wix
 DOMAIN-SUFFIX,editorx.com
 DOMAIN-SUFFIX,parastorage.com
@@ -2488,6 +2481,16 @@ DOMAIN-SUFFIX,originlab.com
 # Online LaTeX Editor
 DOMAIN-SUFFIX,cloudlatex.io
 DOMAIN-SUFFIX,overleaf.com
+
+# Translator & Dictionary
+#include:linguee
+DOMAIN-SUFFIX,linguee.com
+DOMAIN-SUFFIX,deepl.com
+#end include:linguee
+
+DOMAIN-SUFFIX,collinsdictionary.com
+DOMAIN-SUFFIX,ldoceonline.com
+DOMAIN-SUFFIX,immersivetranslate.com    #沉浸式翻译 (国际版)
 
 # Aurora Open Source Software (https://gitlab.com/AuroraOSS)
 DOMAIN-SUFFIX,auroraoss.com
@@ -2884,6 +2887,3 @@ DOMAIN-SUFFIX,xdty.org
 #include:xingrz
 DOMAIN-SUFFIX,xingrz.me
 #end include:xingrz
-
-# 沉浸式翻译 (国际版)
-DOMAIN-SUFFIX,immersivetranslate.com
