@@ -7,23 +7,25 @@ DOMAIN-SUFFIX,36krcnd.com
 #include:cctv
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,cctvlib.cn
+DOMAIN-SUFFIX,cctvlib.com.cn
+DOMAIN-SUFFIX,cctvlibrary.cn
+DOMAIN-SUFFIX,cctvlibrary.com.cn
 DOMAIN-SUFFIX,cctvpic.com
+DOMAIN-SUFFIX,cctvpro.cn
+DOMAIN-SUFFIX,cctvpro.com.cn
 DOMAIN-SUFFIX,chinaepg.cn
 DOMAIN-SUFFIX,chinalive.com
+DOMAIN-SUFFIX,chinaott.com
 DOMAIN-SUFFIX,citv.net.cn
 DOMAIN-SUFFIX,cnms.net.cn
 DOMAIN-SUFFIX,cntv.cn
 DOMAIN-SUFFIX,cntv.com.cn
-DOMAIN-SUFFIX,cctvlib.cn
-DOMAIN-SUFFIX,cctvlibrary.cn
-DOMAIN-SUFFIX,cctvlib.com.cn
-DOMAIN-SUFFIX,cctvlibrary.com.cn
-DOMAIN-SUFFIX,cctvpro.cn
-DOMAIN-SUFFIX,cctvpro.com.cn
 DOMAIN-SUFFIX,cntvwb.cn
 DOMAIN-SUFFIX,gjgbdszt.cn
 DOMAIN-SUFFIX,gjgbdszt.com.cn
 DOMAIN-SUFFIX,gjgbdszt.net.cn
+DOMAIN-SUFFIX,icntvcdn.com
 DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,ipanda.com
 DOMAIN-SUFFIX,ipanda.com.cn
@@ -31,11 +33,12 @@ DOMAIN-SUFFIX,ipanda.net
 DOMAIN-SUFFIX,livechina.cn
 DOMAIN-SUFFIX,livechina.com
 DOMAIN-SUFFIX,olympicchannelchina.cn
+DOMAIN-SUFFIX,ottcn.com
 DOMAIN-SUFFIX,tvcc.cn
 DOMAIN-SUFFIX,tvcc.com.cn
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn    #中国广播电视总台.cn
-DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn    #中央广播电视总台.cn
 DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s    #中国广播电视总台.中国
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn    #中央广播电视总台.cn
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn    #国家广播电视总台.cn
 DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s    #国家广播电视总台.中国
 DOMAIN-SUFFIX,yangshipin.cn
@@ -347,6 +350,8 @@ DOMAIN-SUFFIX,ql1d.com
 DOMAIN-SUFFIX,qingdaonews.com
 # 前瞻网
 DOMAIN-SUFFIX,qianzhan.com
+# 青岛之窗
+DOMAIN-SUFFIX,qingdaochina.org
 # 四川手机报
 DOMAIN-SUFFIX,scsjb.cn
 # 安全内参
@@ -357,6 +362,8 @@ DOMAIN-SUFFIX,sfccn.com
 DOMAIN-SUFFIX,shangyexinzhi.com
 # 奇客资讯网
 DOMAIN-SUFFIX,solidot.org
+# 南方新闻网
+DOMAIN-SUFFIX,southcn.com
 # 少数派
 DOMAIN-SUFFIX,sspai.com
 # 证券之星

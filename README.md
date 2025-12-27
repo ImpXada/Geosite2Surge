@@ -620,6 +620,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | hetzner | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hetzner |
 | heyzo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/heyzo |
 | hiido-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hiido-ads |
+| hikvision | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hikvision |
 | hinet | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hinet |
 | hinet-eca | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hinet-eca |
 | hitun | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hitun |

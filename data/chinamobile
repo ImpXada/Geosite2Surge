@@ -6,9 +6,11 @@ DOMAIN-SUFFIX,speedtest.hk.chinamobile.com
 DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com
 
 # Migu
-DOMAIN-SUFFIX,migucloud.com
-DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,migu.cn
+DOMAIN-SUFFIX,migucloud.com
+DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 
 # 中移互联
