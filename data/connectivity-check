@@ -1,11 +1,8 @@
-# ArchLinux
-DOMAIN-SUFFIX,ping.archlinux.org
-
 # Apple
 DOMAIN-SUFFIX,captive.apple.com
 
-# Android
-DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+# ArchLinux
+DOMAIN-SUFFIX,ping.archlinux.org
 
 # Cloudflare
 DOMAIN-SUFFIX,cp.cloudflare.com
@@ -15,6 +12,9 @@ DOMAIN-SUFFIX,network-test.debian.org
 
 # Firefox
 DOMAIN-SUFFIX,detectportal.firefox.com
+
+# Google
+DOMAIN-SUFFIX,connectivitycheck.gstatic.com
 
 # Honor
 DOMAIN,connectivitycheck.platform.hihonorcloud.com
@@ -27,6 +27,9 @@ DOMAIN-SUFFIX,networkcheck.kde.org
 
 # MIUI
 DOMAIN,connect.rom.miui.com
+
+# Ubuntu
+DOMAIN,connectivity-check.ubuntu.com
 
 # Windows
 DOMAIN-SUFFIX,msftconnecttest.com
