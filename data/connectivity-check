@@ -1,8 +1,9 @@
 # Apple
 DOMAIN-SUFFIX,captive.apple.com
 
-# ArchLinux
-DOMAIN-SUFFIX,ping.archlinux.org
+# Arch Linux
+DOMAIN,ping.archlinux.org
+DOMAIN,redirect.archlinux.org    #Canonical Name of ping.archlinux.org
 
 # Cloudflare
 DOMAIN-SUFFIX,cp.cloudflare.com

@@ -1,2 +1,5 @@
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+
+# Unofficial
+DOMAIN-SUFFIX,archlinuxcn.org
