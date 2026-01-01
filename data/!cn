@@ -288,13 +288,6 @@ DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN,bytedance.map.fastly.net
-DOMAIN-SUFFIX,hk.weibo.com
-DOMAIN-SUFFIX,my.weibo.com
-DOMAIN-SUFFIX,overseas.weibo.com
-DOMAIN-SUFFIX,sg.weibo.com
-DOMAIN-SUFFIX,th.weibo.com
-DOMAIN-SUFFIX,tw.weibo.com
-DOMAIN-SUFFIX,us.weibo.com
 DOMAIN-SUFFIX,alihealth.hk
 DOMAIN-SUFFIX,ae-rus.net
 DOMAIN-SUFFIX,aestatic.net
@@ -305,6 +298,13 @@ DOMAIN-SUFFIX,tmall.ru
 DOMAIN-SUFFIX,fliggy.hk
 DOMAIN-SUFFIX,chinatelecomglobal.com
 DOMAIN-SUFFIX,chinatelecomhk.com
+DOMAIN-SUFFIX,hk.weibo.com
+DOMAIN-SUFFIX,my.weibo.com
+DOMAIN-SUFFIX,overseas.weibo.com
+DOMAIN-SUFFIX,sg.weibo.com
+DOMAIN-SUFFIX,th.weibo.com
+DOMAIN-SUFFIX,tw.weibo.com
+DOMAIN-SUFFIX,us.weibo.com
 DOMAIN-SUFFIX,tencent.co.id
 DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,wetv.vip
