@@ -550,3 +550,7 @@ DOMAIN,steam.ru.qtlglb.com
 
 # Steam - 游戏下载(非中国下载区)[edgecast]
 DOMAIN,edge.steam-dns.top.comcast.net
+
+
+# playstation 下载
+DOMAIN-SUFFIX,domain:dl.playstation.net

@@ -194,6 +194,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | broadcom | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/broadcom |
 | btdig | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/btdig |
 | bttzyw | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bttzyw |
+| bushiroad | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bushiroad |
 | buymeacoffee | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/buymeacoffee |
 | buypass | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/buypass |
 | bybit | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bybit |
