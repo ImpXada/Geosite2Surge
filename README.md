@@ -1369,6 +1369,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | wikidot | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wikidot |
 | wikihow | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wikihow |
 | wikimedia | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wikimedia |
+| wildberries | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wildberries |
 | windy | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/windy |
 | wink | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wink |
 | wise | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wise |
