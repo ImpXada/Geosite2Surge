@@ -2442,6 +2442,7 @@ DOMAIN-SUFFIX,rarbgunblocked.org
 DOMAIN-SUFFIX,rarbgway.org
 #end include:rarbg
 DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,rutor.info
 
 # User scripts
 DOMAIN-SUFFIX,greasyfork.org
