@@ -2516,11 +2516,6 @@ DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,symantec.com
 DOMAIN-SUFFIX,symantecliveupdate.com
 #end include:symantec
-#include:tailscale
-DOMAIN-SUFFIX,tailscale.com
-DOMAIN-SUFFIX,tailscale.io
-DOMAIN-SUFFIX,ts.net
-#end include:tailscale
 #include:theboringcompany
 DOMAIN-SUFFIX,boringcompany.com
 #end include:theboringcompany
