@@ -244,22 +244,6 @@ DOMAIN-SUFFIX,vrzwk.com
 DOMAIN-SUFFIX,vrzwk.net
 DOMAIN-SUFFIX,vrzwk.top
 #end include:vrzwk
-#include:xd
-#include:taptap
-DOMAIN-SUFFIX,tapimg.com
-DOMAIN-SUFFIX,tapimg.net
-DOMAIN-SUFFIX,taptap.cn
-DOMAIN-SUFFIX,taptap.com
-DOMAIN-SUFFIX,taptap.io
-DOMAIN-SUFFIX,taptapdada.com
-#end include:taptap
-
-DOMAIN-SUFFIX,ro.com
-DOMAIN-SUFFIX,xd.cn
-DOMAIN-SUFFIX,xd.com
-DOMAIN-SUFFIX,xdcdn.net
-DOMAIN-SUFFIX,xindong.com
-#end include:xd
 #include:yokaverse
 # 游卡
 DOMAIN-SUFFIX,dobest.com

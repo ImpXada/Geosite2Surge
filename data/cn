@@ -53,63 +53,6 @@ DOMAIN-SUFFIX,xn--nyqy26a    #.健康
 # List of all domains that have access point in China mainland
 
 # Automobiles
-#include:category-automobile-cn
-# 汽车资讯
-## 汽车之家
-DOMAIN-SUFFIX,autohome.com
-DOMAIN-SUFFIX,autohome.com.cn
-DOMAIN-SUFFIX,autohome.tel
-DOMAIN-SUFFIX,autoimg.cn
-DOMAIN-SUFFIX,autoimg.com.cn
-## 易车‌
-#include:bitauto
-DOMAIN-SUFFIX,bitauto.com
-DOMAIN-SUFFIX,bitautoimg.com
-DOMAIN-SUFFIX,cheyisou.com
-DOMAIN-SUFFIX,yiche.com
-DOMAIN-SUFFIX,yccdn.com
-#end include:bitauto
-## 懂车帝
-#include:dongchedi
-# 渝ICP备2023013619号
-DOMAIN-SUFFIX,dcarapi.com
-DOMAIN-SUFFIX,dcarimg.com
-DOMAIN-SUFFIX,dcarlive.com
-DOMAIN-SUFFIX,dcarstatic.com
-DOMAIN-SUFFIX,dcarvod.com
-DOMAIN-SUFFIX,dcdapp.com
-DOMAIN-SUFFIX,dongchedi.com
-DOMAIN-SUFFIX,dongchediapp.com
-#end include:dongchedi
-
-# 汽车品牌
-DOMAIN-SUFFIX,byd.com    #比亚迪
-DOMAIN-SUFFIX,geely.com    #吉利
-DOMAIN-SUFFIX,gwm.com.cn    #长城
-DOMAIN-SUFFIX,lixiang.com    #理想
-DOMAIN-SUFFIX,nio.cn    #蔚来
-DOMAIN-SUFFIX,xiaopeng.com    #小鹏
-DOMAIN-SUFFIX,zeekrlife.com    #极氪
-
-## 瓜子二手车
-DOMAIN-SUFFIX,gzurl.cn
-DOMAIN-SUFFIX,guazi.com
-DOMAIN-SUFFIX,guazistatic.com
-DOMAIN-SUFFIX,guazi.net
-
-# 租车平台
-## 一嗨租车
-DOMAIN-SUFFIX,1hai.cn
-## 首汽租车
-DOMAIN-SUFFIX,izuche.com
-## 租车宝
-DOMAIN-SUFFIX,izuchebao.com
-## 悟空租车
-DOMAIN-SUFFIX,wkzuche.com
-## 神州租车
-DOMAIN-SUFFIX,zuche.com
-DOMAIN-SUFFIX,zuchecdn.com
-#end include:category-automobile-cn
 # Blogs
 #include:category-blog-cn
 # List of all blog domains that have access point in China mainland
@@ -127,312 +70,7 @@ DOMAIN-SUFFIX,fanmingming.com    #范明明's Blog 蒙ICP备18004194号
 DOMAIN-SUFFIX,zway.top    #longjuan's Blog 粤ICP备2020094784号-1
 #end include:category-blog-cn
 # Software development related
-#include:category-dev-cn
-#include:aixcoder
-DOMAIN-SUFFIX,aixcoder.com
-DOMAIN-SUFFIX,nnthink.com
-#end include:aixcoder
-#include:apifox
-DOMAIN-SUFFIX,apifox.cn
-DOMAIN-SUFFIX,apifox.com
-#end include:apifox
-#include:apipost
-DOMAIN-SUFFIX,apipost.cn
-DOMAIN-SUFFIX,apipost.net
-#end include:apipost
-#include:baltamatica
-# 北太天元通用数值计算
-# 北太振寰（重庆）科技有限公司 渝ICP备2022008375号
-DOMAIN-SUFFIX,baltamatica.cn
-DOMAIN-SUFFIX,baltamatica.net
-DOMAIN-SUFFIX,baltamatica.org.cn
-DOMAIN-SUFFIX,baltamatica.com
-#end include:baltamatica
-#include:cnblogs
-DOMAIN-SUFFIX,blogjava.net
-DOMAIN-SUFFIX,cnblogs.com
-DOMAIN-SUFFIX,cnitblog.com
-DOMAIN-SUFFIX,cnweblog.com
-DOMAIN-SUFFIX,cppblog.com
-DOMAIN-SUFFIX,phpweblog.net
-DOMAIN-SUFFIX,teachblog.net
-#end include:cnblogs
-#include:csdn
-DOMAIN-SUFFIX,codechina.net
-DOMAIN-SUFFIX,csdn.com
-DOMAIN-SUFFIX,csdn.net
-DOMAIN-SUFFIX,csdn.net.cn
-DOMAIN-SUFFIX,csdnimg.cn
-DOMAIN-SUFFIX,csto.com
-DOMAIN-SUFFIX,datasea.cn
-DOMAIN-SUFFIX,gitbook.cn
-DOMAIN-SUFFIX,gitchat.cn
-DOMAIN-SUFFIX,gitcode.com
-DOMAIN-SUFFIX,gitcode.net
-DOMAIN-SUFFIX,iteye.com
-DOMAIN-SUFFIX,kaifayun.com
-DOMAIN-SUFFIX,programmer.com.cn
-DOMAIN-SUFFIX,programmer.net.cn
-#end include:csdn
-#include:deepin
-DOMAIN-SUFFIX,deepin.cn
-DOMAIN-SUFFIX,deepin.com
-DOMAIN-SUFFIX,deepin.io
-DOMAIN-SUFFIX,deepin.org
-DOMAIN-SUFFIX,deepin.org.cn
-DOMAIN-SUFFIX,sndu.cn
-
-# 统信
-DOMAIN-SUFFIX,51changxie.com
-DOMAIN-SUFFIX,51jianxie.cn
-DOMAIN-SUFFIX,91changxie.com
-DOMAIN-SUFFIX,changxie.com
-DOMAIN-SUFFIX,chinauos.com
-DOMAIN-SUFFIX,linglong.space
-DOMAIN-SUFFIX,linyaps.org.cn
-DOMAIN-SUFFIX,uniontech.cn
-DOMAIN-SUFFIX,uniontech.com
-#end include:deepin
-#include:gitee
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,gitee.io
-#end include:gitee
-#include:goproxy
-# go mod proxy
-DOMAIN-SUFFIX,goproxy.cn
-DOMAIN-SUFFIX,goproxy.io
-#end include:goproxy
-#include:huawei-dev
-DOMAIN-SUFFIX,bisheng.cn
-DOMAIN-SUFFIX,bishengcompiler.cn
-DOMAIN-SUFFIX,devui.design
-DOMAIN-SUFFIX,gneec.com
-DOMAIN-SUFFIX,gneec.com.cn
-DOMAIN-SUFFIX,gneec3.com
-DOMAIN-SUFFIX,gneec4.com
-DOMAIN-SUFFIX,gneec7.com
-DOMAIN-SUFFIX,harmonyos.com
-DOMAIN-SUFFIX,hiascend.cn
-DOMAIN-SUFFIX,hiascend.com
-DOMAIN-SUFFIX,hiclc.com
-DOMAIN-SUFFIX,hikunpeng.cn
-DOMAIN-SUFFIX,hikunpeng.com
-DOMAIN-SUFFIX,hikunpeng.com.cn
-DOMAIN-SUFFIX,hikunpeng.net
-DOMAIN-SUFFIX,hisilicon.com
-DOMAIN-SUFFIX,hisilicon.com.cn
-DOMAIN-SUFFIX,huaweiapaas.com
-DOMAIN-SUFFIX,mindspore.cn
-DOMAIN-SUFFIX,owsgo.com
-DOMAIN-SUFFIX,teleows.com
-DOMAIN-SUFFIX,saasops.tech
-#end include:huawei-dev
-#include:juejin
-DOMAIN-SUFFIX,juejin.cn
-DOMAIN-SUFFIX,juejin.im
-DOMAIN-SUFFIX,xitu.io
-
-DOMAIN,p1-juejin.byteimg.com
-DOMAIN,p2-juejin.byteimg.com
-DOMAIN,p3-juejin.byteimg.com
-DOMAIN,p4-juejin.byteimg.com
-DOMAIN,p5-juejin.byteimg.com
-DOMAIN,p6-juejin.byteimg.com
-DOMAIN,p7-juejin.byteimg.com
-DOMAIN,p8-juejin.byteimg.com
-DOMAIN,p9-juejin.byteimg.com
-#end include:juejin
-#include:kuaiyikeji
-DOMAIN-SUFFIX,dengguobi.com
-DOMAIN-SUFFIX,houyicaiji.com
-DOMAIN-SUFFIX,jinglingbiaozhu.com
-#end include:kuaiyikeji
-#include:oschina
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,gitee.io
-#end include:gitee
-
-DOMAIN-SUFFIX,oschina.net
-#end include:oschina
-#include:pgyer
-DOMAIN-SUFFIX,pgyer.com
-DOMAIN-SUFFIX,tracup.com
-DOMAIN-SUFFIX,frontjs.com
-#end include:pgyer
-#include:pingcap
-DOMAIN-SUFFIX,asktug.com
-DOMAIN-SUFFIX,pingcap.cn
-DOMAIN-SUFFIX,pingcap.com
-DOMAIN-SUFFIX,tidb.ai
-DOMAIN-SUFFIX,tidb.net
-DOMAIN-SUFFIX,tidbcloud.com
-DOMAIN-SUFFIX,tikv.org
-#end include:pingcap
-#include:rubychina
-DOMAIN-SUFFIX,ruby-china.org
-
-# RubyConf China
-DOMAIN-SUFFIX,rubyconfchina.org
-#end include:rubychina
-#include:segmentfault
-DOMAIN-SUFFIX,segmentfault.com
-DOMAIN-SUFFIX,sifou.com
-#end include:segmentfault
-#include:sxl
-DOMAIN-SUFFIX,mysxl.cn
-DOMAIN-SUFFIX,sxl.cn
-DOMAIN-SUFFIX,sxlcdn.cn
-#end include:sxl
-#include:tencent-dev
-# 腾讯 云原生构建
-DOMAIN-SUFFIX,cnb.cool
-#end include:cnb
-DOMAIN-SUFFIX,coding.me
-DOMAIN-SUFFIX,coding.net
-#end include:coding
-
-DOMAIN-SUFFIX,openmidas.com
-DOMAIN-SUFFIX,qq.design
-DOMAIN-SUFFIX,qqgamedesign.com
-DOMAIN-SUFFIX,tencent-cloud.cn
-DOMAIN-SUFFIX,tencent-cloud.com
-DOMAIN-SUFFIX,tencent.design
-DOMAIN-SUFFIX,tencentcloud.com
-DOMAIN-SUFFIX,tjstats.com
-DOMAIN-SUFFIX,wegamedeveloper.com
-DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weui.io
-#end include:tencent-dev
-#include:ubuntukylin
-DOMAIN-SUFFIX,openkylin.top
-DOMAIN-SUFFIX,ubuntukylin.com
-#end include:ubuntukylin
-
-DOMAIN-SUFFIX,jinrishici.com
-DOMAIN-SUFFIX,openvela.com
-DOMAIN-SUFFIX,tipdm.org
-#end include:category-dev-cn
 # Electronic
-#include:category-electronic-cn
-# Electronic store/company's website with access point in China
-
-# Analog
-DOMAIN-SUFFIX,analog.com
-
-# 艾睿电子
-DOMAIN-SUFFIX,arrow.cn
-
-# 京东方
-DOMAIN-SUFFIX,boe.com
-DOMAIN-SUFFIX,boe.com.cn
-
-# 博流智能
-DOMAIN-SUFFIX,bouffalolab.com
-
-# 长鑫存储
-DOMAIN-SUFFIX,cxmt.com
-
-# 乐鑫信息科技
-DOMAIN-SUFFIX,esp8266.cn
-DOMAIN-SUFFIX,esp8266.com
-DOMAIN-SUFFIX,esp8266.com.cn
-DOMAIN-SUFFIX,espressif.cn
-DOMAIN-SUFFIX,espressif.com
-DOMAIN-SUFFIX,espressif.com.cn
-
-# 华秋电子
-DOMAIN-SUFFIX,eda.cn
-DOMAIN-SUFFIX,elecfans.com
-DOMAIN-SUFFIX,hqchip.com
-DOMAIN-SUFFIX,hqdoc.com
-DOMAIN-SUFFIX,hqpcb.com
-
-# 英飞凌
-DOMAIN-SUFFIX,infineon.cn
-#infineon.com
-
-# 嘉立创集团
-#include:jlc
-# 嘉立创
-DOMAIN-SUFFIX,fa-part.com
-DOMAIN-SUFFIX,forface3d.com
-DOMAIN-SUFFIX,jlc-3dp.cn
-DOMAIN-SUFFIX,jlc-3dp.com
-DOMAIN-SUFFIX,jlc-bbs.com
-DOMAIN-SUFFIX,jlc-cad.com
-DOMAIN-SUFFIX,jlc-cam.com
-DOMAIN-SUFFIX,jlc-cnc.com
-DOMAIN-SUFFIX,jlc-dfm.com
-DOMAIN-SUFFIX,jlc-drm.com
-DOMAIN-SUFFIX,jlc-ecad.com
-DOMAIN-SUFFIX,jlc-erp.com
-DOMAIN-SUFFIX,jlc-fpc.com
-DOMAIN-SUFFIX,jlc-gw.com
-DOMAIN-SUFFIX,jlc-jh.com
-DOMAIN-SUFFIX,jlc-layout.com
-DOMAIN-SUFFIX,jlc-pcb.com
-DOMAIN-SUFFIX,jlc-smt.com
-DOMAIN-SUFFIX,jlc-zh.com
-DOMAIN-SUFFIX,jlc.com
-DOMAIN-SUFFIX,jlc3dp.cn
-DOMAIN-SUFFIX,jlccad.com
-DOMAIN-SUFFIX,jlccam.com
-DOMAIN-SUFFIX,jlccnc.com
-DOMAIN-SUFFIX,jlcdfm.com
-DOMAIN-SUFFIX,jlcecad.com
-DOMAIN-SUFFIX,jlceda.cn
-DOMAIN-SUFFIX,jlceda.com
-DOMAIN-SUFFIX,jlcerp.com
-DOMAIN-SUFFIX,jlcfa.com
-DOMAIN-SUFFIX,jlcgroup.cn
-DOMAIN-SUFFIX,jlcops.com
-DOMAIN-SUFFIX,jlcsj.com
-DOMAIN-SUFFIX,jlcsmt.com
-DOMAIN-SUFFIX,lceda.cn
-DOMAIN-SUFFIX,lckfb.com
-DOMAIN-SUFFIX,oshwhub.com
-DOMAIN-SUFFIX,sanweihou.com
-DOMAIN-SUFFIX,sz-jlc.com
-DOMAIN-SUFFIX,szjlc.cn
-DOMAIN-SUFFIX,szlcsc.com
-DOMAIN-SUFFIX,zs-jlc.com
-DOMAIN-SUFFIX,zxhgroup.com
-#end include:jlc
-
-# 移远通信
-DOMAIN-SUFFIX,quecmall.cn
-DOMAIN-SUFFIX,quectel.com.cn
-DOMAIN-SUFFIX,iotronic.tech
-
-# 瑞芯微电子
-DOMAIN-SUFFIX,rock-chips.com
-
-# 矽递科技
-DOMAIN-SUFFIX,seeed.cn
-DOMAIN-SUFFIX,seeed.cc
-DOMAIN-SUFFIX,seeed.com.cn
-DOMAIN-SUFFIX,seeedstudio.com.cn
-
-# 矽速科技
-DOMAIN-SUFFIX,sipeed.com
-DOMAIN-SUFFIX,maixhub.com
-
-# 德州仪器
-#ti.com
-DOMAIN-SUFFIX,ti.com.cn
-
-# 沁恒微电子
-DOMAIN-SUFFIX,wch.cn
-DOMAIN-SUFFIX,wch-ic.com
-
-# 长江存储
-#include:ymtc
-# 长江存储
-DOMAIN-SUFFIX,ymtc.com
-DOMAIN-SUFFIX,ymtc.com.cn
-DOMAIN-SUFFIX,ymtc.cn
-#end include:ymtc
-#end include:category-electronic-cn
 # Entertainment & Videos & Games & Music & Podcasts
 # 餐饮类
 #include:category-food-cn
@@ -462,201 +100,6 @@ DOMAIN-SUFFIX,meican.com
 DOMAIN-SUFFIX,meicanstatic.com
 #end include:category-food-cn
 # 快递物流
-#include:category-logistics-cn
-#include:800best
-# 百世
-# 浙B2-20070189
-DOMAIN-SUFFIX,56laile.com
-DOMAIN-SUFFIX,800best.cn
-DOMAIN-SUFFIX,800best.com
-DOMAIN-SUFFIX,800best.com.cn
-DOMAIN-SUFFIX,800best.net
-DOMAIN-SUFFIX,800bestapi.cn
-DOMAIN-SUFFIX,800bestapi.com
-DOMAIN-SUFFIX,800bestapp.cn
-DOMAIN-SUFFIX,800bestapp.com
-DOMAIN-SUFFIX,baishinetwork.com
-DOMAIN-SUFFIX,best-inc.com
-DOMAIN-SUFFIX,bestcrossborder.com
-DOMAIN-SUFFIX,bestdataclub.com
-DOMAIN-SUFFIX,bestincapi.cn
-DOMAIN-SUFFIX,bestincapi.com
-DOMAIN-SUFFIX,bestincapp.cn
-DOMAIN-SUFFIX,bestincapp.com
-DOMAIN-SUFFIX,linliyz.com
-DOMAIN-SUFFIX,qiancangwms.com
-DOMAIN-SUFFIX,qianyierp.com
-DOMAIN-SUFFIX,t1tms.com
-DOMAIN-SUFFIX,t8tms.com
-DOMAIN-SUFFIX,t9tms.com
-DOMAIN-SUFFIX,tnettms.com
-DOMAIN-SUFFIX,wangniuwms.com
-DOMAIN-SUFFIX,xinyuanfin.com
-DOMAIN-SUFFIX,youyierp.com
-DOMAIN-SUFFIX,youyitms.com
-DOMAIN-SUFFIX,youyiwms.com
-#end include:800best
-#include:cainiao
-DOMAIN-SUFFIX,cainiao-inc.com
-DOMAIN-SUFFIX,cainiao.com
-DOMAIN-SUFFIX,cainiao.com.cn
-DOMAIN-SUFFIX,cainiaoyizhan.com
-DOMAIN-SUFFIX,guoguo-app.com
-#end include:cainiao
-#include:deppon
-# 德邦
-# 沪ICP备10005645号
-DOMAIN-SUFFIX,deppon.com
-DOMAIN-SUFFIX,deppon.com.cn
-DOMAIN-SUFFIX,dpma.cc
-#end include:deppon
-#include:fcbox
-# 丰巢
-DOMAIN-SUFFIX,fcbox.com
-DOMAIN-SUFFIX,fcboxmall.com
-#end include:fcbox
-#include:jtexpress
-# 极兔
-# 沪ICP备2020025698号
-DOMAIN-SUFFIX,bxexpress.com.cn
-DOMAIN-SUFFIX,jtexpress.cn
-DOMAIN-SUFFIX,jtexpress.com
-DOMAIN-SUFFIX,jtfulfillment.cn
-DOMAIN-SUFFIX,jtfulfillment.com
-DOMAIN-SUFFIX,jtjms-ae.com
-DOMAIN-SUFFIX,jtjms-br.com
-DOMAIN-SUFFIX,jtjms-eg.com
-DOMAIN-SUFFIX,jtjms-mx.com
-DOMAIN-SUFFIX,jtjms-sa.com
-DOMAIN-SUFFIX,upfos.cn
-DOMAIN-SUFFIX,upfos.com
-
-# 粤ICP备18009307号
-DOMAIN-SUFFIX,cr-cts.com
-DOMAIN-SUFFIX,crscm.com
-DOMAIN-SUFFIX,jet-ego.com
-DOMAIN-SUFFIX,jet-logistics.com
-DOMAIN-SUFFIX,jetlogistic.com
-DOMAIN-SUFFIX,jnt-express.com.cn
-DOMAIN-SUFFIX,jtexpress.com.cn
-DOMAIN-SUFFIX,jtexpress.top
-DOMAIN-SUFFIX,jtg2g.com
-DOMAIN-SUFFIX,yl-scm.com
-#end include:jtexpress
-#include:kuaidi100
-DOMAIN-SUFFIX,ckd.im
-DOMAIN-SUFFIX,kd100.com
-DOMAIN-SUFFIX,kuaidi100.com
-DOMAIN-SUFFIX,kuaidilab.com
-#end include:kuaidi100
-#include:sf-express
-DOMAIN-SUFFIX,feng1.com
-DOMAIN-SUFFIX,ibobscs.com
-DOMAIN-SUFFIX,rongechain.com
-DOMAIN-SUFFIX,sf-airlines.com
-DOMAIN-SUFFIX,sf-cityrush.com
-DOMAIN-SUFFIX,sf-express.com
-DOMAIN-SUFFIX,sf-financial.com
-DOMAIN-SUFFIX,sf-international.com
-DOMAIN-SUFFIX,sf-saas.com
-DOMAIN-SUFFIX,sf-tech.com.cn
-DOMAIN-SUFFIX,sf.cn
-DOMAIN-SUFFIX,sfbuy.com
-DOMAIN-SUFFIX,sfcar.hk
-DOMAIN-SUFFIX,sffix.cn
-DOMAIN-SUFFIX,sfgy.org
-#end include:sf-express
-#include:sto-express
-DOMAIN-SUFFIX,sto-express.cn
-DOMAIN-SUFFIX,sto-express.com
-DOMAIN-SUFFIX,sto-express.com.cn
-DOMAIN-SUFFIX,sto.cn
-
-# 申通国际
-DOMAIN-SUFFIX,stointl.com
-DOMAIN-SUFFIX,stosolution.com
-#end include:sto-express
-#include:yto-express
-# 沪ICP备05004632号
-DOMAIN-SUFFIX,gpall.cn
-DOMAIN-SUFFIX,gpall.net
-DOMAIN-SUFFIX,kjwugx.com
-DOMAIN-SUFFIX,mamayz.cn
-DOMAIN-SUFFIX,mamayz.com
-DOMAIN-SUFFIX,mumbuy365.com
-DOMAIN-SUFFIX,nellit.cn
-DOMAIN-SUFFIX,nellit.com.cn
-DOMAIN-SUFFIX,nellit.info
-DOMAIN-SUFFIX,nellit.net
-DOMAIN-SUFFIX,nellit.net.cn
-DOMAIN-SUFFIX,nellit.org.cn
-DOMAIN-SUFFIX,nellit.xyz
-DOMAIN-SUFFIX,sxgou.cn
-DOMAIN-SUFFIX,tianxiajiameng.cn
-DOMAIN-SUFFIX,tianxiajiameng.com
-DOMAIN-SUFFIX,yt0.cc
-DOMAIN-SUFFIX,yto-jsd.com
-DOMAIN-SUFFIX,yto-lgs.com
-DOMAIN-SUFFIX,yto-lgs.net
-DOMAIN-SUFFIX,yto.net.cn
-DOMAIN-SUFFIX,yto.top
-DOMAIN-SUFFIX,yto.vip
-DOMAIN-SUFFIX,yto.xin
-DOMAIN-SUFFIX,yto56.com.cn
-DOMAIN-SUFFIX,yto56.net.cn
-DOMAIN-SUFFIX,yto56test.com
-DOMAIN-SUFFIX,ytocargo.com
-DOMAIN-SUFFIX,ytocargo.com.cn
-DOMAIN-SUFFIX,ytoexpress.com
-DOMAIN-SUFFIX,ytoholding.com
-DOMAIN-SUFFIX,ytojg.com.cn
-DOMAIN-SUFFIX,ytokj.cn
-DOMAIN-SUFFIX,ytokj.com
-DOMAIN-SUFFIX,ytokj.com.cn
-DOMAIN-SUFFIX,ytokj.net
-DOMAIN-SUFFIX,ytokj.net.cn
-DOMAIN-SUFFIX,ytoluohan.cn
-DOMAIN-SUFFIX,ytoluohan.com
-DOMAIN-SUFFIX,ytoluohan.net
-DOMAIN-SUFFIX,ytoluohan.xin
-DOMAIN-SUFFIX,yuantongyizhan.cn
-DOMAIN-SUFFIX,yuantongyizhan.com
-#end include:yto-express
-#include:yundaex
-DOMAIN-SUFFIX,ydsys.cn
-DOMAIN-SUFFIX,yundaex.cn
-DOMAIN-SUFFIX,yundaex.com
-DOMAIN-SUFFIX,yundasys.com
-
-# 韵达快运
-DOMAIN-SUFFIX,yunda56.com
-DOMAIN-SUFFIX,yundalog.com
-DOMAIN-SUFFIX,yundaltl.com
-
-# 韵达国际
-DOMAIN-SUFFIX,udalogistic.com
-DOMAIN-SUFFIX,udalogistic.cn
-#end include:yundaex
-#include:zto-express
-# 沪ICP备13044869号
-DOMAIN-SUFFIX,95311.com
-DOMAIN-SUFFIX,izto.com
-DOMAIN-SUFFIX,izto.com.cn
-DOMAIN-SUFFIX,mlzt.com.cn
-DOMAIN-SUFFIX,tuxi.com
-DOMAIN-SUFFIX,zt-express.com
-DOMAIN-SUFFIX,zto.cn
-DOMAIN-SUFFIX,zto.com
-DOMAIN-SUFFIX,zto.net
-DOMAIN-SUFFIX,ztoapp.com
-DOMAIN-SUFFIX,ztoglobal.com
-DOMAIN-SUFFIX,ztogroup.com
-DOMAIN-SUFFIX,ztoyh.com
-#end include:zto-express
-
-# GUOO国欧物流 粤ICP备2020101377号
-DOMAIN-SUFFIX,guoocang.com
-#end include:category-logistics-cn
 # Media & News & Press
 # Network Security
 #include:category-network-security-cn
@@ -937,110 +380,6 @@ DOMAIN-SUFFIX,lufaxcdn.com
 DOMAIN-SUFFIX,pospal.cn
 
 # CDN or SDWAN
-#include:category-cdn-cn
-#include:baishancloud
-DOMAIN-SUFFIX,bsclink.cn
-DOMAIN-SUFFIX,qingcdn.com
-DOMAIN-SUFFIX,trpcdn.net
-#end include:baishancloud
-#include:bootcdn
-DOMAIN-SUFFIX,bootcdn.cn
-DOMAIN-SUFFIX,bootcdn.net
-
-# BootCSS
-DOMAIN-SUFFIX,bootcss.com
-
-# Packagist / Composer
-DOMAIN-SUFFIX,phpcomposer.com
-
-#end include:bootcdn
-#include:cloudflare-cn
-DOMAIN-SUFFIX,cf-china.info
-DOMAIN-SUFFIX,cf-ns.com
-DOMAIN-SUFFIX,cf-ns.net
-DOMAIN-SUFFIX,cf-ns.site
-DOMAIN-SUFFIX,cf-ns.tech
-DOMAIN-SUFFIX,cftest5.cn
-DOMAIN-SUFFIX,cftest6.cn
-DOMAIN-SUFFIX,cftest7.com
-DOMAIN-SUFFIX,cftest8.com
-DOMAIN-SUFFIX,cloudflare-cn.com
-DOMAIN-SUFFIX,cloudflareanycast.net
-DOMAIN-SUFFIX,cloudflarechina.cn
-DOMAIN-SUFFIX,cloudflarecn.net
-DOMAIN-SUFFIX,cloudflareglobal.net
-DOMAIN-SUFFIX,cloudflareinsights-cn.com
-DOMAIN-SUFFIX,cloudflareperf.com
-DOMAIN-SUFFIX,cloudflareprod.com
-DOMAIN-SUFFIX,cloudflarestaging.com
-DOMAIN-SUFFIX,cloudflarestoragegw.com
-#end include:cloudflare-cn
-#include:dwion
-# 上海帝联网络科技有限公司
-DOMAIN-SUFFIX,acadn.cn
-DOMAIN-SUFFIX,acadn.com
-DOMAIN-SUFFIX,bbbcdns.com
-DOMAIN-SUFFIX,dlgslb.cn
-DOMAIN-SUFFIX,dlgslb.net
-DOMAIN-SUFFIX,dwion.com
-DOMAIN-SUFFIX,fastcdn.com
-DOMAIN-SUFFIX,fastcdn.com.cn
-DOMAIN-SUFFIX,flxdns.cn
-DOMAIN-SUFFIX,flxdns.com
-DOMAIN-SUFFIX,globalcdn.cn
-DOMAIN-SUFFIX,mcadn.cn
-DOMAIN-SUFFIX,tlgslb.cn
-DOMAIN-SUFFIX,tlgslb.com
-#end include:dwion
-#include:upai
-DOMAIN-SUFFIX,aicdn.com
-DOMAIN-SUFFIX,upai.com
-DOMAIN-SUFFIX,upaiyun.com
-DOMAIN-SUFFIX,upcdn.net
-DOMAIN-SUFFIX,upyun.com
-DOMAIN-SUFFIX,oncdp.com
-#end include:upai
-#include:wangsu
-DOMAIN-SUFFIX,51cdn.com
-DOMAIN-SUFFIX,8686c.com
-DOMAIN-SUFFIX,cdn20.com
-DOMAIN-SUFFIX,cdn30.org
-DOMAIN-SUFFIX,cdnmg.com
-DOMAIN-SUFFIX,chinanetcenter.com
-DOMAIN-SUFFIX,lxdns.cn
-DOMAIN-SUFFIX,lxdns.com
-DOMAIN-SUFFIX,lxdns.info
-DOMAIN-SUFFIX,lxdns.net
-DOMAIN-SUFFIX,lxdns.org
-DOMAIN-SUFFIX,mwcdns.com
-DOMAIN-SUFFIX,mwcloudcdn.com
-DOMAIN-SUFFIX,ourdvsss.com
-DOMAIN-SUFFIX,qtlcdn.cn
-DOMAIN-SUFFIX,qtlcdn.com
-DOMAIN-SUFFIX,qtlcdn.net
-DOMAIN-SUFFIX,speedws.info
-DOMAIN-SUFFIX,speedws.org
-DOMAIN-SUFFIX,wangsu.com
-DOMAIN-SUFFIX,wscdns.com
-DOMAIN-SUFFIX,wscdns.info
-DOMAIN-SUFFIX,wscdns.org
-DOMAIN-SUFFIX,wsdvs.com
-DOMAIN-SUFFIX,wsglb.com
-DOMAIN-SUFFIX,wsglb.net
-DOMAIN-SUFFIX,wswebcdn.com
-DOMAIN-SUFFIX,wswebpic.com
-#end include:wangsu
-
-## 创世云
-DOMAIN-SUFFIX,chuangcache.com
-DOMAIN-SUFFIX,chuangcdn.com
-## FUNCDN
-DOMAIN-SUFFIX,funcdn.com
-## 北京知道创宇信息技术股份有限公司
-DOMAIN-SUFFIX,jiashule.com
-DOMAIN-SUFFIX,jiasule.com
-DOMAIN-SUFFIX,yunaq.com
-#end include:category-cdn-cn
 
 #include:aws-cn
 DOMAIN-SUFFIX,a2z.org.cn
@@ -1257,52 +596,6 @@ DOMAIN-SUFFIX,knet.cn
 DOMAIN-SUFFIX,pkoplink.com
 
 # E-commerce
-#include:58tongcheng
-#include:ganji
-DOMAIN-SUFFIX,58ganji.com
-DOMAIN-SUFFIX,58ganji-corp.com
-DOMAIN-SUFFIX,ganji.com
-DOMAIN-SUFFIX,ganjistatic1.com
-#end include:ganji
-
-DOMAIN-SUFFIX,58.com
-DOMAIN-SUFFIX,58.com.cn
-DOMAIN-SUFFIX,5858.com
-DOMAIN-SUFFIX,58antenna.cn
-DOMAIN-SUFFIX,58antenna.com
-DOMAIN-SUFFIX,58cdn.com.cn
-DOMAIN-SUFFIX,58che.com
-DOMAIN-SUFFIX,58control.cn
-DOMAIN-SUFFIX,58corp.com
-DOMAIN-SUFFIX,58dns.org
-DOMAIN-SUFFIX,58lovepet.com
-DOMAIN-SUFFIX,58uxd.com
-DOMAIN-SUFFIX,58v5.cn
-DOMAIN-SUFFIX,58xinghuo.cn
-DOMAIN-SUFFIX,58xinghuo.com
-DOMAIN-SUFFIX,58xueche.com
-DOMAIN-SUFFIX,anjuke.com
-DOMAIN-SUFFIX,anjukestatic.com
-DOMAIN-SUFFIX,chinahr.com
-DOMAIN-SUFFIX,chrstatic.com
-DOMAIN-SUFFIX,daojia.com
-DOMAIN-SUFFIX,diandao.org
-DOMAIN-SUFFIX,fang.com
-DOMAIN-SUFFIX,sofun.com
-DOMAIN-SUFFIX,soufunimg.com
-DOMAIN-SUFFIX,jxedt.com
-DOMAIN-SUFFIX,jxksw.net
-DOMAIN-SUFFIX,roomeet.cn
-DOMAIN-SUFFIX,xinchong.com
-
-# 转转
-DOMAIN-SUFFIX,zhuancorp.com
-DOMAIN-SUFFIX,zhuaninc.com
-DOMAIN-SUFFIX,zhuanspirit.cn
-DOMAIN-SUFFIX,zhuanspirit.com
-DOMAIN-SUFFIX,zhuanstatic.com
-DOMAIN-SUFFIX,zhuanzhuan.com
-#end include:58tongcheng
 #include:ctrip
 DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,colinker.com
@@ -1734,6 +1027,8 @@ DOMAIN-SUFFIX,ziroomapartment.com
 
 ## 无忧易售
 DOMAIN-SUFFIX,51selling.com
+## 爱回收
+DOMAIN-SUFFIX,aihuishou.com
 ## 唯品会
 DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
@@ -1819,6 +1114,7 @@ DOMAIN-SUFFIX,znds.com    #智能电视网
 
 DOMAIN-SUFFIX,423down.com    #423Down
 DOMAIN-SUFFIX,acwifi.net    #路由器技术分享
+DOMAIN-SUFFIX,appinn.com    #小众软件
 DOMAIN-SUFFIX,chongdiantou.com    #充电头网
 DOMAIN-SUFFIX,ghxi.com    #果核剥壳
 DOMAIN-SUFFIX,iplaysoft.com    #异次元软件世界
@@ -1892,212 +1188,6 @@ DOMAIN-SUFFIX,umetrip.net.cn
 DOMAIN-SUFFIX,ume-trip.cn
 
 # Science & Technology & Knowledge & Scholar & Press & E-learning & Education
-#include:category-education-cn
-#include:category-mooc-cn
-DOMAIN-SUFFIX,chinesemooc.org
-DOMAIN-SUFFIX,cnmooc.org
-DOMAIN-SUFFIX,icourse163.org
-DOMAIN-SUFFIX,icourses.cn
-DOMAIN-SUFFIX,icve.com.cn
-DOMAIN-SUFFIX,mooc.cn
-DOMAIN-SUFFIX,openlearning.com
-DOMAIN-SUFFIX,pmphmooc.com
-
-DOMAIN,moocs.unipus.cn
-DOMAIN,opencourse.pku.edu.cn
-DOMAIN,study.163.com
-#end include:category-mooc-cn
-
-#include:17zuoye
-DOMAIN-SUFFIX,17zuoye.cn
-DOMAIN-SUFFIX,17zuoye.com
-DOMAIN-SUFFIX,17zuoye.net
-#end include:17zuoye
-#include:applysquare
-DOMAIN-SUFFIX,applysquare.com
-DOMAIN-SUFFIX,applysquare.net
-#end include:applysquare
-#include:hugecore
-DOMAIN-SUFFIX,hugecore.net
-DOMAIN-SUFFIX,shareintelli.com
-
-# MOJi辞書
-DOMAIN-SUFFIX,mojidict.com
-#end include:hugecore
-#include:hujiang
-DOMAIN-SUFFIX,cctalk.com
-DOMAIN-SUFFIX,hjapi.com
-DOMAIN-SUFFIX,hjfile.cn
-DOMAIN-SUFFIX,hujiang.com
-DOMAIN-SUFFIX,yeshj.com
-#end include:hujiang
-#include:koolearn
-DOMAIN-SUFFIX,koocdn.com
-DOMAIN-SUFFIX,koolearn.com
-DOMAIN-SUFFIX,koopass.com
-#end include:koolearn
-#include:shanbay
-DOMAIN-SUFFIX,baydn.com
-DOMAIN-SUFFIX,shanbay.com
-#end include:shanbay
-#include:xueersi
-DOMAIN-SUFFIX,speiyou.com
-DOMAIN-SUFFIX,xesimg.com
-DOMAIN-SUFFIX,xueersi.com
-#end include:xueersi
-#include:yuanfudao
-DOMAIN-SUFFIX,banmaaike.com
-DOMAIN-SUFFIX,xiaoyuankousuan.com
-DOMAIN-SUFFIX,ybccode.com
-DOMAIN-SUFFIX,yuanfudao.com
-DOMAIN-SUFFIX,yuansouti.com
-DOMAIN-SUFFIX,yuantiku.com
-
-# 粉笔蓝天
-DOMAIN-SUFFIX,fbstatic.cn
-DOMAIN-SUFFIX,fenbi.com
-DOMAIN-SUFFIX,fenbike.cn
-DOMAIN-SUFFIX,fenbike.com
-DOMAIN-SUFFIX,fenbilantian.cn
-DOMAIN-SUFFIX,fenbilantian.com
-#end include:yuanfudao
-
-# 雨课堂
-#include:yuketang
-DOMAIN-SUFFIX,rainclassroom.com
-DOMAIN-SUFFIX,yuketang.cn
-#end include:yuketang
-## 雨豆课堂
-DOMAIN-SUFFIX,yudou.cn
-## 雨实验
-DOMAIN-SUFFIX,yushiyan.net
-## 学堂在线
-DOMAIN-SUFFIX,xuetangx.com
-
-DOMAIN-SUFFIX,edu.cn
-
-# 国家智慧教育公共服务平台
-DOMAIN-SUFFIX,cbern.com.cn
-DOMAIN-SUFFIX,smartedu.cn
-
-# 教育部学生服务与素质发展中心
-# 京ICP备19004913号
-DOMAIN-SUFFIX,cedf.cn
-DOMAIN-SUFFIX,cedf.org.cn
-DOMAIN-SUFFIX,chdi.com.cn
-DOMAIN-SUFFIX,chei.com.cn
-DOMAIN-SUFFIX,chesicc.cn
-DOMAIN-SUFFIX,chesicc.com
-DOMAIN-SUFFIX,chesicc.com.cn
-DOMAIN-SUFFIX,chesicc.net
-DOMAIN-SUFFIX,chesicc.net.cn
-DOMAIN-SUFFIX,chesicc.org.cn
-DOMAIN-SUFFIX,chinayz.com.cn
-DOMAIN-SUFFIX,chsi.cn
-DOMAIN-SUFFIX,chsi.com.cn
-DOMAIN-SUFFIX,gatzs.com.cn
-DOMAIN-SUFFIX,gfbzb.cn
-DOMAIN-SUFFIX,gfbzb.com
-DOMAIN-SUFFIX,gfbzb.com.cn
-DOMAIN-SUFFIX,gfbzb.gov.cn
-DOMAIN-SUFFIX,gfbzb.net
-DOMAIN-SUFFIX,ncss.cn
-DOMAIN-SUFFIX,ncss.org.cn
-DOMAIN-SUFFIX,qgzb.com.cn
-DOMAIN-SUFFIX,qgzb.gov.cn
-DOMAIN-SUFFIX,qgzb.net
-DOMAIN-SUFFIX,zbbm.gov.cn
-DOMAIN-SUFFIX,zbbm.net
-
-# 中国考试教育网
-# 京ICP备05064772号
-DOMAIN-SUFFIX,neea.cn
-# neea.edu.cn
-
-# 云校
-DOMAIN-SUFFIX,91yunxiao.com
-# 爱云校/好分数
-DOMAIN-SUFFIX,aiyunxiao.com
-DOMAIN-SUFFIX,haofenshu.com
-DOMAIN-SUFFIX,iyunxiao.com
-DOMAIN-SUFFIX,yunxiao.com
-# 百词斩
-DOMAIN-SUFFIX,baicizhan.com
-DOMAIN-SUFFIX,baicizhan.org
-DOMAIN-SUFFIX,bczcdn.com
-DOMAIN-SUFFIX,bczeducation.cn
-# Burning Vocabulary
-DOMAIN-SUFFIX,burningvocabulary.cn
-DOMAIN-SUFFIX,burningvocabulary.com
-# 世纪外语网
-DOMAIN-SUFFIX,centuryenglish.com
-# 中国地质大学 继续教育学院
-DOMAIN-SUFFIX,cugbonline.cn
-# 第二教育网
-DOMAIN-SUFFIX,dearedu.com
-# 莞教通
-DOMAIN-SUFFIX,dgjy.net
-# 在职研究生教育信息网
-DOMAIN-SUFFIX,eduei.com
-# 中公
-DOMAIN-SUFFIX,eoffcn.com
-DOMAIN-SUFFIX,jinrongren.net
-DOMAIN-SUFFIX,offcn.com
-DOMAIN-SUFFIX,zggqzp.com
-DOMAIN-SUFFIX,zgsydw.com
-# 高考100
-DOMAIN-SUFFIX,gk100.com
-# 华图
-DOMAIN-SUFFIX,huatu.com
-DOMAIN-SUFFIX,sydw8.com
-# 中科大数据研究院，豫ICP备19023555号
-DOMAIN-SUFFIX,ictbda.cn
-DOMAIN-SUFFIX,ictbda.com
-DOMAIN-SUFFIX,modex.com.cn
-DOMAIN-SUFFIX,xir.cn
-# 日语测试
-DOMAIN-SUFFIX,j-test.com
-DOMAIN-SUFFIX,nattest-china.com
-# 课播云校
-DOMAIN-SUFFIX,keboyunxiao.com
-# 课堂派
-DOMAIN-SUFFIX,ketangpai.com
-# 快对作业
-DOMAIN-SUFFIX,kuaiduizuoye.com
-# 流利说
-DOMAIN-SUFFIX,liulishuo.com
-DOMAIN-SUFFIX,llsapp.com
-DOMAIN-SUFFIX,llscdn.com
-DOMAIN-SUFFIX,llsserver.com
-# 马哥教育
-DOMAIN-SUFFIX,magedu.com
-# CIS NanoMasters
-DOMAIN-SUFFIX,neoscholar.com
-DOMAIN-SUFFIX,neoschool.com
-# 老男孩教育
-DOMAIN-SUFFIX,oldboyedu.com
-# 批改网
-DOMAIN-SUFFIX,pigai.org
-# 公考知识库
-DOMAIN-SUFFIX,saduck.top
-# 未来云校
-DOMAIN-SUFFIX,weilaiyunxiao.com
-# 北京嘉瑞新创教育咨询有限公司
-DOMAIN-SUFFIX,winyoungreading.com
-# 时代行云
-DOMAIN-SUFFIX,x-cloud.cc
-# 学科网
-DOMAIN-SUFFIX,xkw.com
-DOMAIN-SUFFIX,zxxk.com
-# 云助学
-DOMAIN-SUFFIX,yunzhuxue.com
-# “叶圣陶杯”全国中学生新作文大赛
-DOMAIN-SUFFIX,ystbds.com
-# 小站教育
-DOMAIN-SUFFIX,zhan.com
-# 智慧树
-DOMAIN-SUFFIX,zhihuishu.com
-#end include:category-education-cn
 #include:category-olympiad-in-informatics
 # LeetCode 中国站
 DOMAIN-SUFFIX,leetcode.cn
@@ -2176,103 +1266,6 @@ DOMAIN-SUFFIX,zyh365.com
 DOMAIN-SUFFIX,wzlib.cn
 
 # Services & Softwares
-#include:category-ai-cn
-#include:askdiandian
-# 点点 Ai
-DOMAIN-SUFFIX,askdiandian.com
-DOMAIN-SUFFIX,diandianlife.top
-#end include:askdiandian
-#include:deepseek
-# Main domain
-DOMAIN-SUFFIX,deepseek.com
-#end include:deepseek
-#include:doubao
-# 北京春田知韵科技有限公司 京ICP备2023020373号
-# non-cn domains is added to bytedance-ai-!cn
-DOMAIN-SUFFIX,butterfly-static.cn
-DOMAIN-SUFFIX,butterflyai.cn
-DOMAIN-SUFFIX,coze.cn
-DOMAIN-SUFFIX,coze.site
-DOMAIN-SUFFIX,cozebaas.cn
-DOMAIN-SUFFIX,cozefn.cn
-DOMAIN-SUFFIX,cozeide.cn
-DOMAIN-SUFFIX,doubao.com
-DOMAIN-SUFFIX,doubaocdn.com
-DOMAIN-SUFFIX,hi-butterfly.cn
-DOMAIN-SUFFIX,maoxiangai.com
-DOMAIN-SUFFIX,myparallelstory.com
-DOMAIN-SUFFIX,picpic-ai.cn
-DOMAIN-SUFFIX,pixeldance.com
-#end include:doubao
-#include:xiaomi-ai
-DOMAIN-SUFFIX,miaibox.com
-DOMAIN-SUFFIX,xiaoaiassist.com
-DOMAIN-SUFFIX,xiaomimimo.com
-#end include:xiaomi-ai
-
-# RWKV
-DOMAIN-SUFFIX,rwkv.cn
-DOMAIN-SUFFIX,rwkv.com
-
-# 通义千问
-DOMAIN-SUFFIX,qianwen.aliyun.com
-DOMAIN-SUFFIX,qianwen.com
-DOMAIN-SUFFIX,qwen.ai
-DOMAIN-SUFFIX,qwenlm.ai
-DOMAIN-SUFFIX,tongyi.aliyun.com
-DOMAIN-SUFFIX,tongyi.com
-
-# 文心一言
-DOMAIN-SUFFIX,yiyan.baidu.com
-
-# 天工AI
-DOMAIN-SUFFIX,tiangong.cn
-
-# 智谱清言
-DOMAIN-SUFFIX,bigmodel.cn
-DOMAIN-SUFFIX,chatglm.cn
-DOMAIN-SUFFIX,zhipuai.cn
-
-# 月之暗面
-DOMAIN-SUFFIX,moonshot.cn
-
-# 讯飞星火
-DOMAIN-SUFFIX,xinghuo.xfyun.cn
-
-# MiniMax
-DOMAIN-SUFFIX,hailuoai.com
-DOMAIN-SUFFIX,minimaxi.com
-DOMAIN-SUFFIX,xingyeai.com
-
-# 腾讯混元
-DOMAIN-SUFFIX,hunyuan.tencent.com
-
-# 百川智能
-DOMAIN-SUFFIX,baichuan-ai.com
-
-DOMAIN-SUFFIX,botvip.cn
-DOMAIN-SUFFIX,liblib.art
-
-# 夸克 CueMe
-DOMAIN-SUFFIX,cueme.cn
-DOMAIN,cueme-api.quark.cn
-
-# 360 纳米AI搜索
-DOMAIN-SUFFIX,n.cn
-DOMAIN-SUFFIX,namiso.com
-DOMAIN,ai.zhaomi.cn
-
-# 妙言AI 冀ICP备20012219号-3
-DOMAIN-SUFFIX,miaoyanai.com
-
-# 法行宝 (百度)
-DOMAIN-SUFFIX,faxingbao.com
-
-# 上海秘塔网络科技
-DOMAIN-SUFFIX,meta.law
-DOMAIN-SUFFIX,metaso.cn
-DOMAIN-SUFFIX,xiezuocat.com
-#end include:category-ai-cn
 #include:category-collaborate-cn
 # 远程桌面/远程组网
 
@@ -2532,21 +1525,6 @@ DOMAIN-SUFFIX,hellowebfont.com
 DOMAIN,hellofontpreview.oss-cn-beijing.aliyuncs.com
 DOMAIN,hellowebfonts.oss-cn-beijing.aliyuncs.com
 #end include:hanyi
-#include:intsig
-DOMAIN-SUFFIX,intsig.com
-DOMAIN-SUFFIX,intsig.net
-
-# 扫描全能王
-DOMAIN-SUFFIX,camscanner.com
-
-# 名片全能王
-DOMAIN-SUFFIX,camcard.com
-
-# 启信宝
-#include:qixin
-DOMAIN-SUFFIX,qixin.com
-#end include:qixin
-#end include:intsig
 #include:jianshu
 DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,jianshu.io
@@ -2687,12 +1665,16 @@ DOMAIN-SUFFIX,7moor-fs1.com
 DOMAIN-SUFFIX,7moor.com
 ## 安兔兔
 DOMAIN-SUFFIX,antutu.com
+DOMAIN-SUFFIX,antutu.net
 ## 拓竹科技
 DOMAIN-SUFFIX,bambulab.com
 DOMAIN-SUFFIX,bblmw.com
 ## BOSS 直聘
 DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,zhipin.com
+## 下厨房
+DOMAIN-SUFFIX,chuimg.com
+DOMAIN-SUFFIX,xiachufang.com
 ## 天润融通 AI外呼 客服
 DOMAIN-SUFFIX,clink.cn
 ## 当贝
@@ -2749,157 +1731,6 @@ DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,zhaopin.cn
 
 # Tech companies & Orginations
-#include:baidu
-#include:baidu-ads
-#include:zuoyebang-ads
-DOMAIN-SUFFIX,syh.zybang.com
-#end include:zuoyebang-ads
-
-DOMAIN-SUFFIX,adscdn.baidu.com
-DOMAIN-SUFFIX,adx.xiaodutv.com
-DOMAIN-SUFFIX,afd.baidu.com
-DOMAIN-SUFFIX,afdconf.baidu.com
-DOMAIN-SUFFIX,baifen.music.baidu.com
-DOMAIN-SUFFIX,bzclk.baidu.com
-DOMAIN-SUFFIX,cb.baidu.com
-DOMAIN-SUFFIX,cbjs.baidu.com
-DOMAIN-SUFFIX,cm.baidu.com
-DOMAIN-SUFFIX,cpro.baidu.com
-DOMAIN-SUFFIX,cpro.baidustatic.com
-DOMAIN-SUFFIX,cpu.baidu.com
-DOMAIN-SUFFIX,cstm.baidu.com
-DOMAIN-SUFFIX,dlswbr.baidu.com
-DOMAIN-SUFFIX,drmcmm.baidu.com
-DOMAIN-SUFFIX,duiwai.baidu.com
-DOMAIN-SUFFIX,dup.baidustatic.com
-DOMAIN-SUFFIX,eclick.baidu.com
-DOMAIN-SUFFIX,ecma.bdimg.com
-DOMAIN-SUFFIX,ecmb.bdimg.com
-DOMAIN-SUFFIX,ecmc.bdimg.com
-DOMAIN-SUFFIX,eduad.baidu.com
-DOMAIN-SUFFIX,eiv.baidu.com
-DOMAIN-SUFFIX,fclick.baidu.com
-DOMAIN-SUFFIX,fclog.baidu.com
-DOMAIN-SUFFIX,h2tcbox.baidu.com
-DOMAIN-SUFFIX,hao123union.baidu.com
-DOMAIN-SUFFIX,hm.baidu.com
-DOMAIN-SUFFIX,hmma.baidu.com
-DOMAIN-SUFFIX,imgstat.baidu.com
-DOMAIN-SUFFIX,iwanad.baidu.com
-DOMAIN-SUFFIX,miao.baidu.com
-DOMAIN-SUFFIX,miaowu.baidu.com
-DOMAIN-SUFFIX,mipcache.bdstatic.com
-DOMAIN-SUFFIX,mobads.baidu.com
-DOMAIN-SUFFIX,mobads-logs.baidu.com
-DOMAIN-SUFFIX,mobads-pre-config.cdn.bcebos.com
-DOMAIN-SUFFIX,mountain.zhidao.baidu.com
-DOMAIN-SUFFIX,nsclick.baidu.com
-DOMAIN-SUFFIX,nsclickvideo.baidu.com
-DOMAIN-SUFFIX,pimlog.baidu.com
-DOMAIN-SUFFIX,pos.baidu.com
-DOMAIN-SUFFIX,sclick.baidu.com
-DOMAIN-SUFFIX,spcode.baidu.com
-DOMAIN-SUFFIX,tcbox.baidu.com
-DOMAIN-SUFFIX,ubmcvideo.baidustatic.com
-DOMAIN-SUFFIX,union.baidu.com
-DOMAIN-SUFFIX,unionimage.baidu.com
-DOMAIN-SUFFIX,wangmeng.baidu.com
-DOMAIN-SUFFIX,wkctj.baidu.com
-DOMAIN-SUFFIX,wm.baidu.com
-DOMAIN-SUFFIX,zz.bdstatic.com
-#end include:baidu-ads
-#include:zuoyebang
-DOMAIN-SUFFIX,syh.zybang.com
-#end include:zuoyebang-ads
-
-DOMAIN-SUFFIX,zuoyebang.cc
-DOMAIN-SUFFIX,zuoyebang.com
-DOMAIN-SUFFIX,zybang.com
-#end include:zuoyebang
-
-# All .baidu domains
-DOMAIN-SUFFIX,baidu
-
-DOMAIN-SUFFIX,91.com
-DOMAIN-SUFFIX,aipage.com
-DOMAIN-SUFFIX,antpcdn.com
-DOMAIN-SUFFIX,apollo.auto
-DOMAIN-SUFFIX,baidu-cdn.cn
-DOMAIN-SUFFIX,baidu-cdn.com
-DOMAIN-SUFFIX,baidu-cdn.net
-DOMAIN-SUFFIX,baidu.cn
-DOMAIN-SUFFIX,baidu.com
-DOMAIN-SUFFIX,baidu.com.cn
-DOMAIN-SUFFIX,baiduapp.com
-DOMAIN-SUFFIX,baidubce.com
-DOMAIN-SUFFIX,baidubcr.com
-DOMAIN-SUFFIX,baiducontent.com
-DOMAIN-SUFFIX,baidupcs.com
-DOMAIN-SUFFIX,baidustatic.com
-DOMAIN-SUFFIX,baiduyuncdn.cn
-DOMAIN-SUFFIX,baiduyuncdn.com
-DOMAIN-SUFFIX,baiduyuncdn.net
-DOMAIN-SUFFIX,baifae.com
-DOMAIN-SUFFIX,baifubao.com
-DOMAIN-SUFFIX,bce-cdn.cn
-DOMAIN-SUFFIX,bce-cdn.com
-DOMAIN-SUFFIX,bce-cdn.net
-DOMAIN-SUFFIX,bcebos.com
-DOMAIN-SUFFIX,bcelive.com
-DOMAIN-SUFFIX,bdcloudapi.com
-DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,bdtjrcv.com
-DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,bdycdn.cn
-DOMAIN-SUFFIX,bdycdn.net
-DOMAIN-SUFFIX,bdydns.cn
-DOMAIN-SUFFIX,bdydns.com
-DOMAIN-SUFFIX,bdydns.net
-DOMAIN-SUFFIX,chuanke.com
-DOMAIN-SUFFIX,dlnel.com
-DOMAIN-SUFFIX,dlnel.org
-DOMAIN-SUFFIX,duapp.com
-DOMAIN-SUFFIX,duapp.net
-DOMAIN-SUFFIX,duapps.com
-DOMAIN-SUFFIX,duurl.cn
-DOMAIN-SUFFIX,dwz.cn
-DOMAIN-SUFFIX,hao123.com
-DOMAIN-SUFFIX,hao123img.com
-DOMAIN-SUFFIX,hao222.com
-DOMAIN-SUFFIX,haokan.com
-DOMAIN-SUFFIX,jomocdn.cn
-DOMAIN-SUFFIX,jomocdn.net
-DOMAIN-SUFFIX,jomodns.cn
-DOMAIN-SUFFIX,jomodns.com
-DOMAIN-SUFFIX,jomodns.net
-DOMAIN-SUFFIX,jomoxc.com
-DOMAIN-SUFFIX,mipcdn.com
-DOMAIN-SUFFIX,nuomi.com
-DOMAIN-SUFFIX,quyaoya.com
-DOMAIN-SUFFIX,shifen.com
-DOMAIN-SUFFIX,smartapps.cn
-DOMAIN-SUFFIX,tieba.com
-DOMAIN-SUFFIX,tiebaimg.com
-DOMAIN-SUFFIX,xianfae.com
-DOMAIN-SUFFIX,xiaodutv.com
-DOMAIN-SUFFIX,yoojia.com
-
-# 度小满
-DOMAIN-SUFFIX,duxiaoman-int.com
-DOMAIN-SUFFIX,duxiaoman.com
-DOMAIN-SUFFIX,duxiaomanfintech.com
-DOMAIN-SUFFIX,duxiaomantech.com
-DOMAIN-SUFFIX,dxm-cdn.com
-DOMAIN-SUFFIX,dxm-int.com
-DOMAIN-SUFFIX,dxmjinr.com
-DOMAIN-SUFFIX,dxmlcf.com
-DOMAIN-SUFFIX,dxmlcfintech.com
-DOMAIN-SUFFIX,dxmpay.com
-DOMAIN-SUFFIX,dxmstatic.com
-DOMAIN-SUFFIX,dxmyqh.com
-DOMAIN-SUFFIX,paydxm.com
-#end include:baidu
 #include:beisen
 DOMAIN-SUFFIX,beisen.com
 DOMAIN-SUFFIX,beisen.cn
@@ -2914,709 +1745,6 @@ DOMAIN-SUFFIX,bsurl.cn
 # recuitment
 DOMAIN-SUFFIX,zhiye.com
 #end include:beisen
-#include:bluepoch
-# 深蓝互动
-#include:bluepoch-games
-# From reverse 1999
-DOMAIN-SUFFIX,sl916.com
-#end include:bluepoch-games
-
-DOMAIN-SUFFIX,bluepoch.com
-#end include:bluepoch
-#include:bytedance
-#include:bytedance-ads
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads3-normal.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log3-applog.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,log5-applog.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog3-applog.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog.fqnovel.com
-#end include:fqnovel-ads
-
-DOMAIN-SUFFIX,bds.snssdk.com
-DOMAIN-SUFFIX,byteadverts.com
-DOMAIN-SUFFIX,ctobsnssdk.com
-DOMAIN-SUFFIX,dig.bdurl.net
-DOMAIN-SUFFIX,extlog.snssdk.com
-DOMAIN-SUFFIX,i.snssdk.com
-DOMAIN-SUFFIX,mcs.snssdk.com
-DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
-DOMAIN-SUFFIX,pangolin-hl.snssdk.com
-DOMAIN-SUFFIX,pangolin-lf.snssdk.com
-DOMAIN-SUFFIX,pangolin-lq.snssdk.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
-DOMAIN-SUFFIX,pangolin.snssdk.com
-DOMAIN-SUFFIX,panplayable-toutiao-b.com
-DOMAIN-SUFFIX,panplayable-toutiao.com
-DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
-DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
-DOMAIN-SUFFIX,pglstatp-toutiao-b.com
-DOMAIN-SUFFIX,pglstatp-toutiao.com
-DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
-DOMAIN-SUFFIX,shoppingads.cn
-#end include:bytedance-ads
-
-#include:bytedance-ai-!cn # not serving for cn
-#include:doubao
-# 北京春田知韵科技有限公司 京ICP备2023020373号
-# non-cn domains is added to bytedance-ai-!cn
-DOMAIN-SUFFIX,butterfly-static.cn
-DOMAIN-SUFFIX,butterflyai.cn
-DOMAIN-SUFFIX,coze.cn
-DOMAIN-SUFFIX,coze.site
-DOMAIN-SUFFIX,cozebaas.cn
-DOMAIN-SUFFIX,cozefn.cn
-DOMAIN-SUFFIX,cozeide.cn
-DOMAIN-SUFFIX,doubao.com
-DOMAIN-SUFFIX,doubaocdn.com
-DOMAIN-SUFFIX,hi-butterfly.cn
-DOMAIN-SUFFIX,maoxiangai.com
-DOMAIN-SUFFIX,myparallelstory.com
-DOMAIN-SUFFIX,picpic-ai.cn
-DOMAIN-SUFFIX,pixeldance.com
-#end include:doubao
-#include:fqnovel
-#include:fqnovel-ads
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads3-normal.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log3-applog.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,log5-applog.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog3-applog.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog.fqnovel.com
-#end include:fqnovel-ads
-
-DOMAIN-SUFFIX,activity-zhendingtech.com
-DOMAIN-SUFFIX,changdunovel.com
-DOMAIN-SUFFIX,fanqienovel.com
-DOMAIN-SUFFIX,fanqieopen.com
-DOMAIN-SUFFIX,fanqieopenpic.com
-DOMAIN-SUFFIX,fanqieopenstatic.com
-DOMAIN-SUFFIX,fanqieopenvod.com
-DOMAIN-SUFFIX,fanqiesdk.com
-DOMAIN-SUFFIX,fanqiesdkpic.com
-DOMAIN-SUFFIX,fanqiesdkstatic.com
-DOMAIN-SUFFIX,fanqiesdkvod.com
-DOMAIN-SUFFIX,fqnovel-op.com
-DOMAIN-SUFFIX,fqnovel.com
-DOMAIN-SUFFIX,fqnovelim.com
-DOMAIN-SUFFIX,fqnovelop.com
-DOMAIN-SUFFIX,fqnovelpic.com
-DOMAIN-SUFFIX,fqnovelstatic.com
-DOMAIN-SUFFIX,fqnovelvod.com
-DOMAIN-SUFFIX,ihaohaoxuexi.com
-DOMAIN-SUFFIX,muyewx.com
-DOMAIN-SUFFIX,novelfm.com
-DOMAIN-SUFFIX,novelfmpic.com
-DOMAIN-SUFFIX,novelfmstatic.com
-DOMAIN-SUFFIX,novelfmvod.com
-DOMAIN-SUFFIX,qznovel.com
-DOMAIN-SUFFIX,qznovelpic.com
-DOMAIN-SUFFIX,qznovelstatic.com
-DOMAIN-SUFFIX,qznovelvod.com
-
-DOMAIN,p3-novel.byteimg.com
-DOMAIN,p6-novel.byteimg.com
-#end include:fqnovel
-#include:juejin
-DOMAIN-SUFFIX,juejin.cn
-DOMAIN-SUFFIX,juejin.im
-DOMAIN-SUFFIX,xitu.io
-
-DOMAIN,p1-juejin.byteimg.com
-DOMAIN,p2-juejin.byteimg.com
-DOMAIN,p3-juejin.byteimg.com
-DOMAIN,p4-juejin.byteimg.com
-DOMAIN,p5-juejin.byteimg.com
-DOMAIN,p6-juejin.byteimg.com
-DOMAIN,p7-juejin.byteimg.com
-DOMAIN,p8-juejin.byteimg.com
-DOMAIN,p9-juejin.byteimg.com
-#end include:juejin
-#include:tiktok
-DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok-minis.com
-DOMAIN-SUFFIX,tiktok-row.net
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn-eu.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokd.net
-DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,tiktokeu-cdn.com
-DOMAIN-SUFFIX,tiktokglobalshopv.com
-DOMAIN-SUFFIX,tiktokminis.us
-DOMAIN-SUFFIX,tiktokrow-cdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokv.eu
-DOMAIN-SUFFIX,tiktokv.us
-DOMAIN-SUFFIX,tiktokw.eu
-DOMAIN-SUFFIX,tiktokw.us
-DOMAIN-SUFFIX,ttlivecdn.com
-DOMAIN-SUFFIX,ttoverseaus.net
-DOMAIN-SUFFIX,ttwstatic.com
-
-DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
-DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
-DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
-DOMAIN-SUFFIX,tiktokv.com.edgekey.net
-DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN,roovza-launches.appsflyersdk.com
-DOMAIN,roovza.inapps.appsflyersdk.com
-DOMAIN,roovza.launches.appsflyersdk.com
-DOMAIN,roovza.skadsdk.appsflyersdk.com
-#end include:tiktok
-#include:trae
-# 北京引力弹弓科技有限公司 京ICP备2024062284号
-# non-cn domains is added to bytedance-ai-!cn
-DOMAIN-SUFFIX,doudou.com
-DOMAIN-SUFFIX,marscode.cn
-DOMAIN-SUFFIX,marscode.com.cn
-DOMAIN-SUFFIX,mcbaas.work
-DOMAIN-SUFFIX,mcdemo.show
-DOMAIN-SUFFIX,mchost.guru
-DOMAIN-SUFFIX,mcprev.cn
-DOMAIN-SUFFIX,tcwqqdy.guru
-DOMAIN-SUFFIX,trae.cn
-DOMAIN-SUFFIX,trae.com.cn
-DOMAIN-SUFFIX,trae.guru
-DOMAIN-SUFFIX,yoma.cn
-#end include:trae
-#include:volcengine
-DOMAIN-SUFFIX,aigc-cloud.com
-DOMAIN-SUFFIX,bdegnine.com
-DOMAIN-SUFFIX,bplslb.com
-DOMAIN-SUFFIX,bpltm.com
-DOMAIN-SUFFIX,byte-dns.com
-DOMAIN-SUFFIX,byte-dns.net
-DOMAIN-SUFFIX,bytehouse.cn
-DOMAIN-SUFFIX,byteinspire.cn
-DOMAIN-SUFFIX,byteinspire.com
-DOMAIN-SUFFIX,bytevdn-boe.com
-DOMAIN-SUFFIX,bytevdn.com
-DOMAIN-SUFFIX,cache4ever.com
-DOMAIN-SUFFIX,cache666.com
-DOMAIN-SUFFIX,cloudendpoint.cn
-DOMAIN-SUFFIX,douyincloud.net
-DOMAIN-SUFFIX,douyincloud.run
-DOMAIN-SUFFIX,dycloudbk.com
-DOMAIN-SUFFIX,dycloud.run
-DOMAIN-SUFFIX,emr-volces.com
-DOMAIN-SUFFIX,feilian.cn
-DOMAIN-SUFFIX,iccvlog.com
-DOMAIN-SUFFIX,ifeilian.cn
-DOMAIN-SUFFIX,ifeilian.com
-DOMAIN-SUFFIX,inspirecloud.cn
-DOMAIN-SUFFIX,inspirecloud.com
-DOMAIN-SUFFIX,isealsuite.com
-DOMAIN-SUFFIX,ivolces.com
-DOMAIN-SUFFIX,kfcbest.com
-DOMAIN-SUFFIX,kych5.com
-DOMAIN-SUFFIX,multilingual-volc.com
-DOMAIN-SUFFIX,qingfuwuapi.cn
-DOMAIN-SUFFIX,qingfuwucdn.com
-DOMAIN-SUFFIX,qingfuwu.cn
-DOMAIN-SUFFIX,qingfuwu.com
-DOMAIN-SUFFIX,slbauto.com
-DOMAIN-SUFFIX,sms18.com
-DOMAIN-SUFFIX,toutiaopanapi.com
-DOMAIN-SUFFIX,toutiaopan.com
-DOMAIN-SUFFIX,ttgslb.com
-DOMAIN-SUFFIX,ttgtm.com
-DOMAIN-SUFFIX,vecdnlb.com
-DOMAIN-SUFFIX,vecloudgame.com
-DOMAIN-SUFFIX,vedcdnlb.com
-DOMAIN-SUFFIX,vedsalb.com
-DOMAIN-SUFFIX,veefdev.com
-DOMAIN-SUFFIX,veew-alb-cn1.com
-DOMAIN-SUFFIX,veew-alb-cn2.com
-DOMAIN-SUFFIX,veew-alb-ts.com
-DOMAIN-SUFFIX,vegalb.com
-DOMAIN-SUFFIX,vegslb.com
-DOMAIN-SUFFIX,vegtm.net
-DOMAIN-SUFFIX,veicplive.com
-DOMAIN-SUFFIX,ve-imcloud.com
-DOMAIN-SUFFIX,vemarsdev.com
-DOMAIN-SUFFIX,vemarsstatic.com
-DOMAIN-SUFFIX,vemarsweb.com
-DOMAIN-SUFFIX,vertciot.com
-DOMAIN-SUFFIX,vestack.cloud
-DOMAIN-SUFFIX,ve-trafficroute.com
-DOMAIN-SUFFIX,ve-trafficroute.net
-DOMAIN-SUFFIX,volcadocean.com
-DOMAIN-SUFFIX,volcadvc.com
-DOMAIN-SUFFIX,volcalb.com
-DOMAIN-SUFFIX,volcautovod.com
-DOMAIN-SUFFIX,volcbiz.com
-DOMAIN-SUFFIX,volcca.cn
-DOMAIN-SUFFIX,volcca.com
-DOMAIN-SUFFIX,volcca.net
-DOMAIN-SUFFIX,volccdn1.com
-DOMAIN-SUFFIX,volccdn2.com
-DOMAIN-SUFFIX,volccdn.cn
-DOMAIN-SUFFIX,volccdn.com
-DOMAIN-SUFFIX,volcddos001.com
-DOMAIN-SUFFIX,volcddos.com
-DOMAIN-SUFFIX,volcdem.com
-DOMAIN-SUFFIX,volcdlspace.cn
-DOMAIN-SUFFIX,volcdn.com
-DOMAIN-SUFFIX,volc-dns.com
-DOMAIN-SUFFIX,volcdns.com
-DOMAIN-SUFFIX,volc-dns.net
-DOMAIN-SUFFIX,volc-dns.pub
-DOMAIN-SUFFIX,volcdns.pub
-DOMAIN-SUFFIX,volceapi.com
-DOMAIN-SUFFIX,volceapplog.com
-DOMAIN-SUFFIX,volcecr.com
-DOMAIN-SUFFIX,volcecw.com
-DOMAIN-SUFFIX,volc-embed.com
-DOMAIN-SUFFIX,volcenginapi.com
-DOMAIN-SUFFIX,volcenginealb.com
-DOMAIN-SUFFIX,volcengineapi.com
-DOMAIN-SUFFIX,volcengine.cn
-DOMAIN-SUFFIX,volcengine.com
-DOMAIN-SUFFIX,volcengine-dns.com
-DOMAIN-SUFFIX,volcenginedns.com
-DOMAIN-SUFFIX,volcengine-dns.net
-DOMAIN-SUFFIX,volcenginedns.net
-DOMAIN-SUFFIX,volcengine.net
-DOMAIN-SUFFIX,volcenginepaas.com
-DOMAIN-SUFFIX,volces.com
-DOMAIN-SUFFIX,volcfake.com
-DOMAIN-SUFFIX,volcfcdnbyte.com
-DOMAIN-SUFFIX,volcfcdn.com
-DOMAIN-SUFFIX,volcfcdndvs.com
-DOMAIN-SUFFIX,volcfcdndvs1.com
-DOMAIN-SUFFIX,volcfcdnplus.com
-DOMAIN-SUFFIX,volcfcdnrd.com
-DOMAIN-SUFFIX,volcfcdnsc.com
-DOMAIN-SUFFIX,volcfxgjrtm.com
-DOMAIN-SUFFIX,volcgroup.com
-DOMAIN-SUFFIX,volcgslb.com
-DOMAIN-SUFFIX,volcgtm.com
-DOMAIN-SUFFIX,volciad.com
-DOMAIN-SUFFIX,volcimagex.cn
-DOMAIN-SUFFIX,volcimagex.com
-DOMAIN-SUFFIX,volcimagex.net
-DOMAIN-SUFFIX,volcimagextest.com
-DOMAIN-SUFFIX,volcmagicpage.com
-DOMAIN-SUFFIX,volcmcdn1.com
-DOMAIN-SUFFIX,volcmcdn2.com
-DOMAIN-SUFFIX,volcmcdn3.com
-DOMAIN-SUFFIX,volcmcdn4.com
-DOMAIN-SUFFIX,volcmgs.com
-DOMAIN-SUFFIX,volcmusecdn.com
-DOMAIN-SUFFIX,volcocic.com
-DOMAIN-SUFFIX,volcopjrtm.com
-DOMAIN-SUFFIX,volcpartner.com
-DOMAIN-SUFFIX,volcpartner.net
-DOMAIN-SUFFIX,volcsiriusbd.com
-DOMAIN-SUFFIX,volcsirius.com
-DOMAIN-SUFFIX,volcspaceeduc.com
-DOMAIN-SUFFIX,volctracer.com
-DOMAIN-SUFFIX,volctrack.com
-DOMAIN-SUFFIX,volctraffic.com
-DOMAIN-SUFFIX,volctranscdn.com
-DOMAIN-SUFFIX,volcvideo.com
-DOMAIN-SUFFIX,volcvideos.com
-DOMAIN-SUFFIX,volcvms.com
-DOMAIN-SUFFIX,volcvod.com
-DOMAIN-SUFFIX,volcwaf001.com
-DOMAIN-SUFFIX,volcwaf.com
-DOMAIN-SUFFIX,writingo-editor.com
-DOMAIN-SUFFIX,writingo.net
-DOMAIN-SUFFIX,ytxptd.cn
-DOMAIN-SUFFIX,ytxptz.cn
-DOMAIN-SUFFIX,zebracdn.com
-DOMAIN-SUFFIX,zjytxd.cn
-DOMAIN-SUFFIX,zjytxp.cn
-DOMAIN-SUFFIX,zvip.cn
-#end include:volcengine
-
-DOMAIN-SUFFIX,99uri.cn
-DOMAIN-SUFFIX,99uri.com
-DOMAIN-SUFFIX,activity-dy.com
-DOMAIN-SUFFIX,activity01.com
-DOMAIN-SUFFIX,activity02.com
-DOMAIN-SUFFIX,activity03.com
-DOMAIN-SUFFIX,activity04.com
-DOMAIN-SUFFIX,activity05.com
-DOMAIN-SUFFIX,activitybyte.com
-DOMAIN-SUFFIX,ali-api-test.net
-DOMAIN-SUFFIX,ali-gtm-01.net
-DOMAIN-SUFFIX,ali-gtm-pressure.com
-DOMAIN-SUFFIX,ali-restore.net
-DOMAIN-SUFFIX,arco.design
-DOMAIN-SUFFIX,baikevod.com
-DOMAIN-SUFFIX,bdactivity.com
-DOMAIN-SUFFIX,bdgslb.com
-DOMAIN-SUFFIX,bdispatch.com
-DOMAIN-SUFFIX,bdispatch.net
-DOMAIN-SUFFIX,bdns-api-test.net
-DOMAIN-SUFFIX,bdns-boe.com
-DOMAIN-SUFFIX,bdns-boe.net
-DOMAIN-SUFFIX,bdns-gtm-01.net
-DOMAIN-SUFFIX,bdns-gtm-pressure.com
-DOMAIN-SUFFIX,bdns-restore.net
-DOMAIN-SUFFIX,bdns-test.com
-DOMAIN-SUFFIX,bdns-test.net
-DOMAIN-SUFFIX,bdppe.net
-DOMAIN-SUFFIX,bdsagslb.com
-DOMAIN-SUFFIX,bdsagslbtest.com
-DOMAIN-SUFFIX,bdzjdsagslb.com
-DOMAIN-SUFFIX,betaband.net
-DOMAIN-SUFFIX,betadance.net
-DOMAIN-SUFFIX,bfcdnbf.com
-DOMAIN-SUFFIX,bfcdnrd.com
-DOMAIN-SUFFIX,bfcdnsc.com
-DOMAIN-SUFFIX,bvfcdn.com
-DOMAIN-SUFFIX,bx0byte.com
-DOMAIN-SUFFIX,byte-edge.com
-DOMAIN-SUFFIX,byte-edgeworker.com
-DOMAIN-SUFFIX,byte-gslb.com
-DOMAIN-SUFFIX,byte-test.cn
-DOMAIN-SUFFIX,byte-test.com
-DOMAIN-SUFFIX,byte-test.net
-DOMAIN-SUFFIX,byte00.com
-DOMAIN-SUFFIX,byte00.net
-DOMAIN-SUFFIX,byte000.com
-DOMAIN-SUFFIX,byte008.com
-DOMAIN-SUFFIX,byte7bw.net
-DOMAIN-SUFFIX,byteac.com
-DOMAIN-SUFFIX,byteacct.com
-DOMAIN-SUFFIX,byteacctimg.com
-DOMAIN-SUFFIX,byteactivity.com
-DOMAIN-SUFFIX,byteactivity11.com
-DOMAIN-SUFFIX,byteactivity12.com
-DOMAIN-SUFFIX,byteactivity13.com
-DOMAIN-SUFFIX,byteactivity14.com
-DOMAIN-SUFFIX,byteactivity15.com
-DOMAIN-SUFFIX,byteactivity16.com
-DOMAIN-SUFFIX,byteapi.com
-DOMAIN-SUFFIX,bytecdn.cn
-DOMAIN-SUFFIX,bytecdn.com
-DOMAIN-SUFFIX,bytecdn.net
-DOMAIN-SUFFIX,bytecdntp.com
-DOMAIN-SUFFIX,bytecimg.com
-DOMAIN-SUFFIX,byted-dast.com
-DOMAIN-SUFFIX,byted-edu.com
-DOMAIN-SUFFIX,byted-static.com
-DOMAIN-SUFFIX,byted-ug.com
-DOMAIN-SUFFIX,byted.org
-DOMAIN-SUFFIX,bytedance-boe.net
-DOMAIN-SUFFIX,bytedance.cn
-DOMAIN-SUFFIX,bytedance.com
-DOMAIN-SUFFIX,bytedance.net
-DOMAIN-SUFFIX,bytedance.org
-DOMAIN-SUFFIX,bytedanceapi.com
-DOMAIN-SUFFIX,bytedcdn.com
-DOMAIN-SUFFIX,bytedeliver.com
-DOMAIN-SUFFIX,bytedgames.com
-DOMAIN-SUFFIX,bytedns.com
-DOMAIN-SUFFIX,bytedns.net
-DOMAIN-SUFFIX,bytedns1.com
-DOMAIN-SUFFIX,bytedns2.com
-DOMAIN-SUFFIX,bytedns3.com
-DOMAIN-SUFFIX,bytedns4.com
-DOMAIN-SUFFIX,bytedns5.com
-DOMAIN-SUFFIX,bytedns6.com
-DOMAIN-SUFFIX,bytedns7.com
-DOMAIN-SUFFIX,bytednsdoc.com
-DOMAIN-SUFFIX,bytedsocial.com
-DOMAIN-SUFFIX,bytefae.com
-DOMAIN-SUFFIX,bytefast.net
-DOMAIN-SUFFIX,bytefcdn.com
-DOMAIN-SUFFIX,bytefcdnrd.com
-DOMAIN-SUFFIX,bytegecko.com
-DOMAIN-SUFFIX,bytegeckoext.com
-DOMAIN-SUFFIX,byteglb.com
-DOMAIN-SUFFIX,bytegoofy.com
-DOMAIN-SUFFIX,bytegqpo.net
-DOMAIN-SUFFIX,bytegrowth.com
-DOMAIN-SUFFIX,bytegslb.com
-DOMAIN-SUFFIX,bytehwm.com
-DOMAIN-SUFFIX,byteics.com
-DOMAIN-SUFFIX,byteics.net
-DOMAIN-SUFFIX,byteimg.com
-DOMAIN-SUFFIX,byteimgc.com
-DOMAIN-SUFFIX,byteintl.net
-DOMAIN-SUFFIX,bytelb.com
-DOMAIN-SUFFIX,bytelb.net
-DOMAIN-SUFFIX,bytelb000.net
-DOMAIN-SUFFIX,bytemaimg.com
-DOMAIN-SUFFIX,bytemastatic.com
-DOMAIN-SUFFIX,bytemedi.com
-DOMAIN-SUFFIX,bytenewst.com
-DOMAIN-SUFFIX,byteorg.com
-DOMAIN-SUFFIX,byteorge.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,byteoversea.net
-DOMAIN-SUFFIX,byteq5k.com
-DOMAIN-SUFFIX,byteq8u.net
-DOMAIN-SUFFIX,bytescm.com
-DOMAIN-SUFFIX,bytesslb.net
-DOMAIN-SUFFIX,bytetcc.com
-DOMAIN-SUFFIX,bytetech.info
-DOMAIN-SUFFIX,bytetos.com
-DOMAIN-SUFFIX,bytetraffic.net
-DOMAIN-SUFFIX,bytetstatic.com
-DOMAIN-SUFFIX,bytetstatic.net
-DOMAIN-SUFFIX,bytevalk.com
-DOMAIN-SUFFIX,bytevcloudapi.com
-DOMAIN-SUFFIX,bytevcloudvod.com
-DOMAIN-SUFFIX,bytexservice.com
-DOMAIN-SUFFIX,cdnbuild.com
-DOMAIN-SUFFIX,cdnbuild.net
-DOMAIN-SUFFIX,cdndns1.com
-DOMAIN-SUFFIX,cdndns2.com
-DOMAIN-SUFFIX,doubo03.com
-DOMAIN-SUFFIX,draftstatic.com
-DOMAIN-SUFFIX,druid.vip
-DOMAIN-SUFFIX,fedlearner.net
-DOMAIN-SUFFIX,feelgood.cn
-DOMAIN-SUFFIX,gslbdns.com
-DOMAIN-SUFFIX,gslbdns.net
-DOMAIN-SUFFIX,huaxiong.com
-DOMAIN-SUFFIX,hypercachenet.com
-DOMAIN-SUFFIX,ibytedapm.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN-SUFFIX,icphoto.cn
-DOMAIN-SUFFIX,iluckysf.net
-DOMAIN-SUFFIX,itmanager.club
-DOMAIN-SUFFIX,itoutiaoliving.com
-DOMAIN-SUFFIX,jokecommunity.cn
-DOMAIN-SUFFIX,jokecommunity.com
-DOMAIN-SUFFIX,jokecommunity.net
-DOMAIN-SUFFIX,jstti.com
-DOMAIN-SUFFIX,jtamac.com
-DOMAIN-SUFFIX,livecdnstatic.com
-DOMAIN-SUFFIX,local-ip.online
-DOMAIN-SUFFIX,luckysf.net
-DOMAIN-SUFFIX,modernjs.cn
-DOMAIN-SUFFIX,myimis.com
-DOMAIN-SUFFIX,ndcpp.com
-DOMAIN-SUFFIX,neihancommunity.cn
-DOMAIN-SUFFIX,neihancommunity.com
-DOMAIN-SUFFIX,neihancommunity.net
-DOMAIN-SUFFIX,neyetwatcher.com
-DOMAIN-SUFFIX,oortgslb.com
-DOMAIN-SUFFIX,openbcs.com
-DOMAIN-SUFFIX,openve.cn
-DOMAIN-SUFFIX,originalimg.com
-DOMAIN-SUFFIX,originalstatic.com
-DOMAIN-SUFFIX,originalvod.com
-DOMAIN-SUFFIX,pacmantwo.com
-DOMAIN-SUFFIX,pstatp.com
-DOMAIN-SUFFIX,qingfuwucdn.net
-DOMAIN-SUFFIX,qualitycloud.top
-DOMAIN-SUFFIX,samasty.com
-DOMAIN-SUFFIX,searchstatic.com
-DOMAIN-SUFFIX,searchtoutiaolive.com
-DOMAIN-SUFFIX,shidianguji.com
-DOMAIN-SUFFIX,sinf-test.net
-DOMAIN-SUFFIX,sinf.net
-DOMAIN-SUFFIX,sinflb.net
-DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,tekkenthree.com
-DOMAIN-SUFFIX,tetrisone.com
-DOMAIN-SUFFIX,tiapi.cn
-DOMAIN-SUFFIX,tiapi.net
-DOMAIN-SUFFIX,tlbapm.com
-DOMAIN-SUFFIX,toscdn.com
-DOMAIN-SUFFIX,toutiao11.com
-DOMAIN-SUFFIX,toutiao12.com
-DOMAIN-SUFFIX,toutiao13.com
-DOMAIN-SUFFIX,toutiao14.com
-DOMAIN-SUFFIX,toutiao15.com
-DOMAIN-SUFFIX,toutiaocdn.cn
-DOMAIN-SUFFIX,toutiaocdn.net
-DOMAIN-SUFFIX,toutiaocloud.cn
-DOMAIN-SUFFIX,toutiaojisu.com
-DOMAIN-SUFFIX,toutiaolite.com
-DOMAIN-SUFFIX,toutiaolite1.com
-DOMAIN-SUFFIX,toutiaolite2.com
-DOMAIN-SUFFIX,toutiaoliving.com
-DOMAIN-SUFFIX,toutiaopic.com
-DOMAIN-SUFFIX,toutiaowap.cn
-DOMAIN-SUFFIX,toutiaowap.com
-DOMAIN-SUFFIX,toutiaowap.net
-DOMAIN-SUFFIX,tr-test-ali.net
-DOMAIN-SUFFIX,tr-test.net
-DOMAIN-SUFFIX,tr-testboe.net
-DOMAIN-SUFFIX,ttbyte.cn
-DOMAIN-SUFFIX,ttbyte.com
-DOMAIN-SUFFIX,ttbyte.net
-DOMAIN-SUFFIX,ttjisu.com
-DOMAIN-SUFFIX,ttwebview.com
-DOMAIN-SUFFIX,ugshare-img.com
-DOMAIN-SUFFIX,vcloud-byte.com
-DOMAIN-SUFFIX,vcloudapi.com
-DOMAIN-SUFFIX,vestack-beta.com
-DOMAIN-SUFFIX,vestack-cicd.com
-DOMAIN-SUFFIX,vestack-preview.com
-DOMAIN-SUFFIX,vestack-sandbox.com
-DOMAIN-SUFFIX,vfcdnrd.com
-DOMAIN-SUFFIX,volcanicengine.com
-DOMAIN-SUFFIX,volcdns-test.com
-DOMAIN-SUFFIX,volcdns-test.net
-DOMAIN-SUFFIX,voleai.com
-DOMAIN-SUFFIX,wtturl.cn
-DOMAIN-SUFFIX,xsgtvacct.com
-DOMAIN-SUFFIX,zijieapi.cn
-DOMAIN-SUFFIX,zijieapi.com
-DOMAIN-SUFFIX,zijieapi.net
-DOMAIN-SUFFIX,zijiecdn.cn
-DOMAIN-SUFFIX,zijiecdn.com
-DOMAIN-SUFFIX,zijiecdn.net
-DOMAIN-SUFFIX,zijiedj.com
-DOMAIN-SUFFIX,zijieimg.cn
-DOMAIN-SUFFIX,zijieimg.com
-DOMAIN-SUFFIX,zijieimg.net
-DOMAIN-SUFFIX,zijietiaodong.com
-DOMAIN-SUFFIX,zijieurl.cn
-DOMAIN-SUFFIX,zijieurl.com
-DOMAIN-SUFFIX,zijieurl.net
-DOMAIN-SUFFIX,zijiewap.cn
-DOMAIN-SUFFIX,zijiewap.com
-DOMAIN-SUFFIX,zijiewap.net
-DOMAIN-SUFFIX,zilrms.com
-DOMAIN-SUFFIX,ziyrta.com
-DOMAIN-SUFFIX,zjbyte.cn
-DOMAIN-SUFFIX,zjbyte.com
-DOMAIN-SUFFIX,zjbyte.net
-DOMAIN-SUFFIX,zjcdn.com
-DOMAIN-SUFFIX,zjfcdn.com
-DOMAIN-SUFFIX,zjgslb.com
-
-DOMAIN,bytedance.map.fastly.net
-
-# 今日头条
-DOMAIN-SUFFIX,toutiao.com
-DOMAIN-SUFFIX,toutiaoapi.com
-DOMAIN-SUFFIX,toutiaocdn.com
-DOMAIN-SUFFIX,toutiaocloud.com
-DOMAIN-SUFFIX,toutiaocloud.net
-DOMAIN-SUFFIX,toutiaohao.com
-DOMAIN-SUFFIX,toutiaohao.net
-DOMAIN-SUFFIX,toutiaoimg.cn
-DOMAIN-SUFFIX,toutiaoimg.com
-DOMAIN-SUFFIX,toutiaoimg.net
-DOMAIN-SUFFIX,toutiaopage.com
-DOMAIN-SUFFIX,toutiaostatic.com
-DOMAIN-SUFFIX,toutiaovod.com
-
-# 西瓜视频
-DOMAIN-SUFFIX,bdxiguaimg.com
-DOMAIN-SUFFIX,bdxigualive.com
-DOMAIN-SUFFIX,bdxiguastatic.com
-DOMAIN-SUFFIX,bdxiguavod.com
-DOMAIN-SUFFIX,ibdxiguaimg.com
-DOMAIN-SUFFIX,ibdxigualive.com
-DOMAIN-SUFFIX,ibdxiguastatic.com
-DOMAIN-SUFFIX,ibdxiguavod.com
-DOMAIN-SUFFIX,ixgvideo.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,ixiguavideo.com
-DOMAIN-SUFFIX,xiguaapp.cn
-DOMAIN-SUFFIX,xiguaapp.com
-DOMAIN-SUFFIX,xiguashipin.cn
-DOMAIN-SUFFIX,xiguashipin.net
-DOMAIN-SUFFIX,xiguavideo.cn
-DOMAIN-SUFFIX,xiguavideo.net
-
-# 快懂百科
-DOMAIN-SUFFIX,baike.com
-
-# 悟空问答
-DOMAIN-SUFFIX,wukong.com
-DOMAIN-SUFFIX,wukongwenda.cn
-DOMAIN-SUFFIX,wukongwenda.com
-
-# 懂车帝
-#include:dongchedi
-# 渝ICP备2023013619号
-DOMAIN-SUFFIX,dcarapi.com
-DOMAIN-SUFFIX,dcarimg.com
-DOMAIN-SUFFIX,dcarlive.com
-DOMAIN-SUFFIX,dcarstatic.com
-DOMAIN-SUFFIX,dcarvod.com
-DOMAIN-SUFFIX,dcdapp.com
-DOMAIN-SUFFIX,dongchedi.com
-DOMAIN-SUFFIX,dongchediapp.com
-#end include:dongchedi
-
-# 阳关宽频网
-DOMAIN-SUFFIX,365yg.com
-
-# GoGoKid
-DOMAIN-SUFFIX,gogokid.com.cn
-DOMAIN-SUFFIX,gogokid.com
-
-# 皮皮虾
-DOMAIN-SUFFIX,hapierxia.com
-DOMAIN-SUFFIX,hapipixia.com
-DOMAIN-SUFFIX,hapiyixia.com
-DOMAIN-SUFFIX,kuailepipixia.com
-DOMAIN-SUFFIX,pipix.com
-DOMAIN-SUFFIX,pipixiaha.com
-DOMAIN-SUFFIX,piyipiba.com
-DOMAIN-SUFFIX,ppxhhh.com
-DOMAIN-SUFFIX,ppximg.com
-DOMAIN-SUFFIX,ppxstatic.com
-DOMAIN-SUFFIX,ppxvod.com
-DOMAIN-SUFFIX,xiaoxiaapi.com
-
-# 上海格物致品
-DOMAIN-SUFFIX,douyinec.com
-DOMAIN-SUFFIX,ecombdapi.com
-DOMAIN-SUFFIX,ecombdstatic.com
-DOMAIN-SUFFIX,jinritemai.com
-
-# faceu
-DOMAIN-SUFFIX,faceu.com
-
-# 轻颜相机
-DOMAIN-SUFFIX,ulikecam.com
-
-# RsProxy 镜像
-DOMAIN-SUFFIX,rsproxy.cn
-
-# 半次元 (dead)
-# 沪ICP备2021005742号
-#bcy.net
-#bcyevent.net
-#bcyimg.com
-#bcylove.net
-#bcysnssdk.com
-#bcystatic.com
-#bcyvod.com
-#end include:bytedance
 #include:didi
 DOMAIN-SUFFIX,didi-food.com
 DOMAIN-SUFFIX,didi.cn
@@ -3726,75 +1854,6 @@ DOMAIN-SUFFIX,surerp.com
 DOMAIN-SUFFIX,sursung.cn
 DOMAIN-SUFFIX,sursung.com
 #end include:jushuitan
-#include:kingsoft
-#include:cheetahmobile
-DOMAIN-SUFFIX,cmcm.com
-DOMAIN-SUFFIX,cmcmcdn.com
-DOMAIN-SUFFIX,liebao.cn
-
-# Antivirus
-DOMAIN-SUFFIX,duba.com
-DOMAIN-SUFFIX,duba.net
-DOMAIN-SUFFIX,ijinshan.com
-#end include:cheetahmobile
-#include:seasun
-DOMAIN-SUFFIX,seasungames.com
-DOMAIN-SUFFIX,xishanju.com
-DOMAIN-SUFFIX,xoyo.com
-DOMAIN-SUFFIX,xoyocdn.com
-
-# 尘白禁区
-DOMAIN-SUFFIX,cbjq.com
-
-# Testplus
-DOMAIN-SUFFIX,testplus.cn
-#end include:seasun
-#include:wps
-DOMAIN-SUFFIX,wps.cn
-DOMAIN-SUFFIX,wps.com
-DOMAIN-SUFFIX,wpscdn.cn
-DOMAIN-SUFFIX,wpscdn.com
-DOMAIN-SUFFIX,qwps.cn
-
-# Big Data Platform
-DOMAIN-SUFFIX,kscord.com
-
-# Dazitong
-DOMAIN-SUFFIX,51dzt.com
-
-# Dictionary
-DOMAIN-SUFFIX,iciba.com
-
-# Docer
-DOMAIN-SUFFIX,docer.com
-
-# Documents
-DOMAIN-SUFFIX,kdocs.cn
-
-# Mail
-DOMAIN-SUFFIX,wpsmail.net
-
-# PAPocket
-DOMAIN-SUFFIX,papocket.com
-
-# PDF
-DOMAIN-SUFFIX,wpspdf.cn
-#end include:wps
-
-DOMAIN-SUFFIX,kimg.cn
-DOMAIN-SUFFIX,kingsoft-office-service.com
-DOMAIN-SUFFIX,kingsoft.com
-DOMAIN-SUFFIX,ks-live.com
-DOMAIN-SUFFIX,ksmobile.com
-DOMAIN-SUFFIX,ksosoft.com
-
-# Kingsoft Cloud
-DOMAIN-SUFFIX,ks-cdn.com
-DOMAIN-SUFFIX,ks-cdn1.com
-DOMAIN-SUFFIX,ksyun.com
-DOMAIN-SUFFIX,ksyuncdn.com
-DOMAIN-SUFFIX,ksyungslb.com
-#end include:kingsoft
 #include:lenovo
 # 北京联想调频科技有限公司 京ICP备2023017858号
 DOMAIN-SUFFIX,lenovo.net
@@ -4116,282 +2175,6 @@ DOMAIN-SUFFIX,tcltech.com
 # 粤ICP备17088321号
 DOMAIN-SUFFIX,leiniao.com
 #end include:tcl
-#include:tencent
-#include:tencent-ads
-DOMAIN-SUFFIX,ad.browser.qq.com
-DOMAIN-SUFFIX,ad.qq.com
-DOMAIN-SUFFIX,ad.qun.qq.com
-DOMAIN-SUFFIX,ad.weixin.qq.com
-DOMAIN-SUFFIX,adfilter.imtt.qq.com
-DOMAIN-SUFFIX,adnet.qq.com
-DOMAIN-SUFFIX,adping.qq.com
-DOMAIN-SUFFIX,adpm.app.qq.com
-DOMAIN-SUFFIX,adsclick.qq.com
-DOMAIN-SUFFIX,adsfile.qq.com
-DOMAIN-SUFFIX,adshmmsg.qq.com
-DOMAIN-SUFFIX,adslvfile.qq.com
-DOMAIN-SUFFIX,adslvseed.qq.com
-DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com
-DOMAIN-SUFFIX,adsqqclick.qq.com
-DOMAIN-SUFFIX,adstats.tencentmusic.com
-DOMAIN-SUFFIX,adstestview.qq.com
-DOMAIN-SUFFIX,adsview.qq.com
-DOMAIN-SUFFIX,adsview2.qq.com
-DOMAIN-SUFFIX,adv.app.qq.com
-DOMAIN-SUFFIX,adver.qq.com
-DOMAIN-SUFFIX,badjs.weixinbridge.com
-DOMAIN-SUFFIX,beacon.cdn.qq.com
-DOMAIN-SUFFIX,beacon.qq.com
-DOMAIN-SUFFIX,beaconcdn.qq.com
-DOMAIN-SUFFIX,btrace.qq.com
-DOMAIN-SUFFIX,bugly.qq.com
-DOMAIN-SUFFIX,e.qq.com
-DOMAIN-SUFFIX,gdt.qq.com
-DOMAIN-SUFFIX,hq-tracking.qq.com
-DOMAIN-SUFFIX,htrace.wetvinfo.com
-DOMAIN-SUFFIX,isdspeed.qq.com
-DOMAIN-SUFFIX,log.tbs.qq.com
-DOMAIN-SUFFIX,mdt.qq.com
-DOMAIN-SUFFIX,monitor.music.qq.com
-DOMAIN-SUFFIX,mpush.qq.com
-DOMAIN-SUFFIX,mtrace.qq.com
-DOMAIN-SUFFIX,pgdt.gtimg.cn
-DOMAIN-SUFFIX,pingjs.qq.com
-DOMAIN-SUFFIX,push.qq.com
-DOMAIN-SUFFIX,report.qqweb.qq.com
-DOMAIN-SUFFIX,sngmta.qq.com
-DOMAIN-SUFFIX,stat.y.qq.com
-DOMAIN-SUFFIX,tajs.qq.com
-DOMAIN-SUFFIX,tcss.qq.com
-DOMAIN-SUFFIX,tmead.y.qq.com
-DOMAIN-SUFFIX,tmeadcomm.y.qq.com
-DOMAIN-SUFFIX,trace.qq.com
-DOMAIN-SUFFIX,ugdtimg.com
-DOMAIN-SUFFIX,wit.qq.com
-#end include:tencent-ads
-#include:tencent-dev
-# 腾讯 云原生构建
-DOMAIN-SUFFIX,cnb.cool
-#end include:cnb
-DOMAIN-SUFFIX,coding.me
-DOMAIN-SUFFIX,coding.net
-#end include:coding
-
-DOMAIN-SUFFIX,openmidas.com
-DOMAIN-SUFFIX,qq.design
-DOMAIN-SUFFIX,qqgamedesign.com
-DOMAIN-SUFFIX,tencent-cloud.cn
-DOMAIN-SUFFIX,tencent-cloud.com
-DOMAIN-SUFFIX,tencent.design
-DOMAIN-SUFFIX,tencentcloud.com
-DOMAIN-SUFFIX,tjstats.com
-DOMAIN-SUFFIX,wegamedeveloper.com
-DOMAIN-SUFFIX,weixinbridge.com
-DOMAIN-SUFFIX,weui.io
-#end include:tencent-dev
-#include:tencent-games
-DOMAIN-SUFFIX,battlecare.net
-DOMAIN-SUFFIX,gameitop.com
-DOMAIN-SUFFIX,gameloop.com
-DOMAIN-SUFFIX,gcloudcs.com
-DOMAIN-SUFFIX,gcloudcstest.com
-DOMAIN-SUFFIX,gcloudcstestonly.com
-DOMAIN-SUFFIX,gclouddolphin.com
-DOMAIN-SUFFIX,gcloudsdk.com
-DOMAIN-SUFFIX,gcloudsvcs.com
-DOMAIN-SUFFIX,gdtimg.com
-DOMAIN-SUFFIX,goto-game.com
-DOMAIN-SUFFIX,goto-game.mobi
-DOMAIN-SUFFIX,goto-game.net.cn
-DOMAIN-SUFFIX,goto-game.org
-DOMAIN-SUFFIX,happyhlddz.com
-DOMAIN-SUFFIX,hdyxgame.com
-DOMAIN-SUFFIX,hkgcloudcs.com
-DOMAIN-SUFFIX,ihappystudio.cn
-DOMAIN-SUFFIX,ihappystudio.com
-DOMAIN-SUFFIX,in.th
-DOMAIN-SUFFIX,ludosuperstar.cn
-DOMAIN-SUFFIX,ludoworld.net
-DOMAIN-SUFFIX,mahjongai.net
-DOMAIN-SUFFIX,mahjongcup.cn
-DOMAIN-SUFFIX,mahjongcup.com
-DOMAIN-SUFFIX,mahjongcup.net
-DOMAIN-SUFFIX,metalrevolution.com
-DOMAIN-SUFFIX,midasbuy.com
-DOMAIN-SUFFIX,nagcloudcs.com
-DOMAIN-SUFFIX,proximabeta.com
-DOMAIN-SUFFIX,pubghelper.com
-DOMAIN-SUFFIX,pubgno1.cn
-DOMAIN-SUFFIX,pubgtool.com
-DOMAIN-SUFFIX,qqgameapp.com
-DOMAIN-SUFFIX,rmwxgame.com
-DOMAIN-SUFFIX,skydweller.cn
-DOMAIN-SUFFIX,syxlgame.com
-DOMAIN-SUFFIX,tencent-gcloud.com
-DOMAIN-SUFFIX,tencentstart.com
-DOMAIN-SUFFIX,texasholdemcup.cn
-DOMAIN-SUFFIX,texasholdemcup.com
-DOMAIN-SUFFIX,texasholdemcup.net
-DOMAIN-SUFFIX,timibase.com
-DOMAIN-SUFFIX,videoxiaoyouxi.com
-DOMAIN-SUFFIX,wcbygame.com
-DOMAIN-SUFFIX,yxdmgame.com
-DOMAIN-SUFFIX,yximg.cn
-DOMAIN-SUFFIX,yxwsgame.com
-DOMAIN-SUFFIX,yzyxgame.com
-DOMAIN-SUFFIX,zcjbgame.com
-DOMAIN-SUFFIX,zhuoyuegame.com
-
-DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn    #碧蓝幻想.cn
-
-# Roblox
-DOMAIN-SUFFIX,roblox.cn
-DOMAIN-SUFFIX,roblox.qq.com
-DOMAIN-SUFFIX,robloxdev.cn
-
-# NExT Studios
-DOMAIN-SUFFIX,nextstudios.com
-DOMAIN-SUFFIX,nextworkshop.net
-
-# 迷失之地
-DOMAIN-SUFFIX,mszdld.cn
-DOMAIN-SUFFIX,mszdld.com
-DOMAIN-SUFFIX,mszdld.net
-
-# 篝火营地
-DOMAIN-SUFFIX,gamebonfire.com
-DOMAIN-SUFFIX,gouhuo.qq.com
-
-# WeGame
-DOMAIN-SUFFIX,ffbuddy.com
-DOMAIN-SUFFIX,gotolink.net
-DOMAIN-SUFFIX,gtgres.com
-DOMAIN-SUFFIX,realcybertron.com
-DOMAIN-SUFFIX,wegame.com
-DOMAIN-SUFFIX,wegame.com.cn
-DOMAIN-SUFFIX,wegameplus.com
-DOMAIN-SUFFIX,werepository.com.cn
-
-# Supercell cn (data/supercell is for non-cn domains)
-DOMAIN-SUFFIX,brawlstars.cn
-DOMAIN-SUFFIX,haydaypop.cn
-DOMAIN-SUFFIX,labycore.cn
-DOMAIN-SUFFIX,sccreator.cn
-DOMAIN-SUFFIX,sccreators.cn
-DOMAIN-SUFFIX,scescdn.cn
-DOMAIN-SUFFIX,scid.cn
-DOMAIN-SUFFIX,scsentry.cn
-DOMAIN-SUFFIX,supercellcommunity.cn
-DOMAIN-SUFFIX,supercellsupport.cn
-
-# 使命召唤
-DOMAIN-SUFFIX,codm.com
-
-# 穿越火线
-DOMAIN-SUFFIX,bcfmglobal.com
-DOMAIN-SUFFIX,tcfmglobal.com
-
-# 腾讯游戏安全专家
-DOMAIN-SUFFIX,anticheatexpert.com
-
-# 洛克王国
-DOMAIN-SUFFIX,17roco.com
-DOMAIN-SUFFIX,roco.qq.com
-#end include:tencent-games
-#include:yuewen
-DOMAIN-SUFFIX,yuewen.com
-
-# webnovel is not serving for cn
-# include:webnovel
-
-DOMAIN-SUFFIX,hongxiu.com
-DOMAIN-SUFFIX,lrts.me
-DOMAIN-SUFFIX,qdmm.com
-DOMAIN-SUFFIX,qidian.com
-DOMAIN-SUFFIX,readnovel.com
-DOMAIN-SUFFIX,rongshuxia.com
-DOMAIN-SUFFIX,tingbook.com
-DOMAIN-SUFFIX,xs.cn
-DOMAIN-SUFFIX,xs8.cn
-DOMAIN-SUFFIX,xxsy.net
-#end include:yuewen
-
-# qq.中国
-DOMAIN-SUFFIX,qq.xn--fiqs8s
-
-# 腾讯.中国
-DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
-
-DOMAIN-SUFFIX,acimg.cn
-DOMAIN-SUFFIX,apcdns.net
-DOMAIN-SUFFIX,foxmail.com
-DOMAIN-SUFFIX,foxmail.com.cn
-DOMAIN-SUFFIX,gtimg.cn
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,gtimg.com.cn
-DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,imqq.com
-DOMAIN-SUFFIX,myapp.com
-DOMAIN-SUFFIX,qlivecdn.com
-DOMAIN-SUFFIX,qlogo.cn
-DOMAIN-SUFFIX,qpic.cn
-DOMAIN-SUFFIX,qq.cn.com
-DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,qq.com.cn
-DOMAIN-SUFFIX,qq.wang
-DOMAIN-SUFFIX,qqmail.com
-DOMAIN-SUFFIX,qzone.com
-DOMAIN-SUFFIX,rtx.com.cn
-DOMAIN-SUFFIX,servicewechat.com
-DOMAIN-SUFFIX,tencent.cn
-DOMAIN-SUFFIX,tencent.co.id
-DOMAIN-SUFFIX,tencent.com
-DOMAIN-SUFFIX,tencent.com.cn
-DOMAIN-SUFFIX,tencent.com.hk
-DOMAIN-SUFFIX,tencent.net
-DOMAIN-SUFFIX,tencent.net.cn
-DOMAIN-SUFFIX,tencentmusic.com
-DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,tfogc.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechatpay.cn
-DOMAIN-SUFFIX,weiyun.com
-DOMAIN-SUFFIX,wetv.vip
-DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN-SUFFIX,wxcloudrun.com
-DOMAIN-SUFFIX,wxgateway.com
-DOMAIN-SUFFIX,wxlivecdn.com
-
-DOMAIN,wetv.qq.com
-
-DOMAIN-SUFFIX,alloyteam.com
-DOMAIN-SUFFIX,imweb.io
-DOMAIN-SUFFIX,ivweb.io
-
-# 腾讯枫叶
-DOMAIN-SUFFIX,fyeds.com
-DOMAIN-SUFFIX,fyeds0.com
-DOMAIN-SUFFIX,fyeds1.com
-DOMAIN-SUFFIX,fyeds3.com
-DOMAIN-SUFFIX,fyeds4.com
-DOMAIN-SUFFIX,fyeds5.com
-DOMAIN-SUFFIX,fyeds6.com
-DOMAIN-SUFFIX,fyeds7.com
-DOMAIN-SUFFIX,fyeds8.com
-DOMAIN-SUFFIX,fyeds9.com
-DOMAIN-SUFFIX,fymall0.com
-DOMAIN-SUFFIX,fymall1.com
-DOMAIN-SUFFIX,fymall4.com
-DOMAIN-SUFFIX,fymall7.com
-DOMAIN-SUFFIX,fymall9.com
-DOMAIN-SUFFIX,fymallqa0.com
-DOMAIN-SUFFIX,fymallqa1.com
-DOMAIN-SUFFIX,fymallqa2.com
-DOMAIN-SUFFIX,fymallqa3.com
-DOMAIN-SUFFIX,fymallqa4.com
-DOMAIN-SUFFIX,fymallqa7.com
-DOMAIN-SUFFIX,fymallqa9.com
-#end include:tencent
 #include:tongfang
 # 同方股份
 DOMAIN-SUFFIX,thtf.com.cn
@@ -4532,6 +2315,10 @@ DOMAIN-SUFFIX,suzuki-china.com    #铃木中国官网
 DOMAIN-SUFFIX,udesk.cn    #沃丰科技
 DOMAIN-SUFFIX,ysjf.com    #影视飓风
 
+# 飞牛
+DOMAIN-SUFFIX,fnnas.com
+DOMAIN-SUFFIX,fnnas.net
+DOMAIN-SUFFIX,fnos.net
 # 稿定（厦门）信息服务有限公司
 ## 花瓣网 闽ICP备2021013850号
 DOMAIN-SUFFIX,huaban.com
@@ -4859,7 +2646,6 @@ DOMAIN-SUFFIX,apk3.com
 DOMAIN-SUFFIX,apk8.com
 DOMAIN-SUFFIX,aplaybox.com
 DOMAIN-SUFFIX,appchina.com
-DOMAIN-SUFFIX,appinn.com
 DOMAIN-SUFFIX,arpun.com
 DOMAIN-SUFFIX,asklib.com
 DOMAIN-SUFFIX,babytree.com
@@ -5565,7 +3351,6 @@ DOMAIN-SUFFIX,xdqtech.com    #上邻 | 新渡桥科技 浙ICP备2020031247号-1
 DOMAIN-SUFFIX,xdtool.com    #闽ICP备2024056202号-4
 DOMAIN-SUFFIX,xdwan.com
 DOMAIN-SUFFIX,xfdown.com
-DOMAIN-SUFFIX,xiachufang.com
 DOMAIN-SUFFIX,xiaobaixitong.com
 DOMAIN-SUFFIX,xiaoe-tech.com
 DOMAIN-SUFFIX,xiaogouh5.com
@@ -5763,11 +3548,456 @@ DOMAIN-SUFFIX,ao-x.ac.cn
 # 万集科技 京ICP备18036282号-2
 DOMAIN-SUFFIX,wanji.net.cn
 #end include:geolocation-cn
-DOMAIN-SUFFIX,reckittbenckiser.cn
-DOMAIN-SUFFIX,reckittbenckiser.com.cn
-DOMAIN-SUFFIX,duolingo.cn
+DOMAIN-SUFFIX,intel.cn
+DOMAIN-SUFFIX,apple.cn
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple-store.cn
+DOMAIN-SUFFIX,applestore.cn
+DOMAIN-SUFFIX,applestore.com.cn
+DOMAIN-SUFFIX,apple-appstore.cn
+DOMAIN-SUFFIX,appleappstore.cn
+DOMAIN-SUFFIX,appstoreapple.cn
+DOMAIN-SUFFIX,iphone-8.com.cn
+DOMAIN-SUFFIX,ipod.com.cn
+DOMAIN-SUFFIX,macbookair.cn
+DOMAIN-SUFFIX,macbookair.com.cn
+DOMAIN-SUFFIX,applepaycash.cn
+DOMAIN-SUFFIX,applepaycash.com.cn
+DOMAIN-SUFFIX,applepaysupplies.cn
+DOMAIN-SUFFIX,applepaysupplies.com.cn
+DOMAIN-SUFFIX,appletv4.cn
+DOMAIN-SUFFIX,appletv4.com.cn
+DOMAIN-SUFFIX,apple-dns.cn
+DOMAIN-SUFFIX,apple-dns.com.cn
+DOMAIN-SUFFIX,apple-ibooks.cn
+DOMAIN-SUFFIX,apple-maps.cn
+DOMAIN-SUFFIX,applecenter.cn
+DOMAIN-SUFFIX,applecenter.com.cn
+DOMAIN-SUFFIX,applecomputer.cn
+DOMAIN-SUFFIX,applecomputer.com.cn
+DOMAIN-SUFFIX,appledns.cn
+DOMAIN-SUFFIX,appledns.com.cn
+DOMAIN-SUFFIX,applesiri.cn
+DOMAIN-SUFFIX,ecgapp.com.cn
+DOMAIN-SUFFIX,faceshift.cn
+DOMAIN-SUFFIX,homepod.cn
+DOMAIN-SUFFIX,insidear.cn
+DOMAIN-SUFFIX,livephotos.cn
+DOMAIN-SUFFIX,livephotos.com.cn
+DOMAIN-SUFFIX,xn--czrs0t4phtr3a.cn    #苹果商店.cn
+DOMAIN-SUFFIX,xn--fiqs8sxootzz.cn    #苹果中国.cn
+DOMAIN-SUFFIX,xn--ohq11k7pl25iyo8a.cn    #苹果专卖店.cn
+DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,amp-api-search-edge.apps.apple.com
+DOMAIN,amp-api.apps.apple.com
+DOMAIN,amp-api.music.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,api-edge.apps.apple.com
+DOMAIN,apptrailers.itunes.apple.com
+DOMAIN,auth.music.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,client-api.itunes.apple.com
+DOMAIN,cma.itunes.apple.com
+DOMAIN,communities.apple.com
+DOMAIN,discussionschinese.apple.com
+DOMAIN,downloaddispatch.itunes.apple.com
+DOMAIN,fides-pol.apple.com
+DOMAIN,gspe11-2-cn-ssl.ls.apple.com
+DOMAIN,gspe12-cn-ssl.ls.apple.com
+DOMAIN,gspe85-cn-ssl.ls.apple.com
+DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
+DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
+DOMAIN,inappcheck.itunes.apple.com
+DOMAIN,init.gc-lb.apple.com.akadns.net
+DOMAIN,init.gc.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,js-cdn.music.apple.com
+DOMAIN,km.support.apple.com
+DOMAIN,maps.apple.com
+DOMAIN,misc-assets.itunes.apple.com
+DOMAIN,myapp.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,pd-nk.itunes.apple.com
+DOMAIN,pd.itunes.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,play.music.apple.com
+DOMAIN,se-edge.itunes.apple.com
+DOMAIN,se2.itunes.apple.com
+DOMAIN,search.itunes.apple.com
+DOMAIN,sf-api-token-service.itunes.apple.com
+DOMAIN,sp.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,su.itunes.apple.com
+DOMAIN,sync.itunes.apple.com
+DOMAIN,tf-feedback.itunes.apple.com
+DOMAIN,upp.itunes.apple.com
+DOMAIN,www.support.apple.com
+DOMAIN,a1.mzstatic.com
+DOMAIN,a2.mzstatic.com
+DOMAIN,a3.mzstatic.com
+DOMAIN,a4.mzstatic.com
+DOMAIN,a5.mzstatic.com
+DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn1.apple-mapkit.com
+DOMAIN,cdn2.apple-mapkit.com
+DOMAIN,cdn3.apple-mapkit.com
+DOMAIN,cdn4.apple-mapkit.com
+DOMAIN,cdn-cn.apple-mapkit.com
+DOMAIN,cdn-cn1.apple-mapkit.com
+DOMAIN,cdn-cn2.apple-mapkit.com
+DOMAIN,cdn-cn3.apple-mapkit.com
+DOMAIN,cdn-cn4.apple-mapkit.com
+DOMAIN,cl1-cdn.origin-apple.com.akadns.net
+DOMAIN,cl2-cdn.origin-apple.com.akadns.net
+DOMAIN,cl3-cdn.origin-apple.com.akadns.net
+DOMAIN,cl4-cdn.origin-apple.com.akadns.net
+DOMAIN,cl5-cdn.origin-apple.com.akadns.net
+DOMAIN,cl1.apple.com
+DOMAIN,cl2.apple.com
+DOMAIN,cl3.apple.com
+DOMAIN,cl4.apple.com
+DOMAIN,cl5.apple.com
+DOMAIN,is1.mzstatic.com
+DOMAIN,is1-ssl.mzstatic.com
+DOMAIN,is2.mzstatic.com
+DOMAIN,is2-ssl.mzstatic.com
+DOMAIN,is3.mzstatic.com
+DOMAIN,is3-ssl.mzstatic.com
+DOMAIN,is4.mzstatic.com
+DOMAIN,is4-ssl.mzstatic.com
+DOMAIN,is5.mzstatic.com
+DOMAIN,is5-ssl.mzstatic.com
+DOMAIN,s.mzstatic.com
+DOMAIN,s1.mzstatic.com
+DOMAIN,s2.mzstatic.com
+DOMAIN,s3.mzstatic.com
+DOMAIN,s4.mzstatic.com
+DOMAIN,s5.mzstatic.com
+DOMAIN,adcdownload.apple.com
+DOMAIN,adcdownload.apple.com.akadns.net
+DOMAIN,amp-api-updates.apps.apple.com
+DOMAIN,amp-api.media.apple.com
+DOMAIN,app-site-association.cdn-apple.com
+DOMAIN,appldnld.apple.com
+DOMAIN,appldnld.g.aaplimg.com
+DOMAIN,appleid.cdn-apple.com
+DOMAIN,apps.mzstatic.com
+DOMAIN,bag-cdn.itunes-apple.com.akadns.net
+DOMAIN,cds-cdn.v.aaplimg.com
+DOMAIN,cds.apple.com
+DOMAIN,cds.apple.com.akadns.net
+DOMAIN,cdsassets.apple.com
+DOMAIN,cl2-cn.apple.com
+DOMAIN,cl4-cn.apple.com
+DOMAIN,clientflow.apple.com
+DOMAIN,clientflow.apple.com.akadns.net
+DOMAIN,cn-smp-paymentservices.apple.com
+DOMAIN,configuration.apple.com
+DOMAIN,configuration.apple.com.akadns.net
+DOMAIN,cstat.apple.com
+DOMAIN,cstat.cdn-apple.com
+DOMAIN,dd-cdn.origin-apple.com.akadns.net
+DOMAIN,dejavu.apple.com
+DOMAIN,devimages-cdn.apple.com
+DOMAIN,devstreaming-cdn.apple.com
+DOMAIN,download.developer.apple.com
+DOMAIN,experiments.apple.com
+DOMAIN,gs-loc-cn.apple.com
+DOMAIN,gs-loc.apple.com
+DOMAIN,gsp10-ssl-cn.ls.apple.com
+DOMAIN,gsp12-cn.ls.apple.com
+DOMAIN,gsp13-cn.ls.apple.com
+DOMAIN,gsp4-cn.ls.apple.com
+DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN,gsp5-cn.ls.apple.com
+DOMAIN,gsp85-cn-ssl.ls.apple.com
+DOMAIN,gspe19-2-cn-ssl.ls-apple.com.akadns.net
+DOMAIN,gspe19-2-cn-ssl.ls.apple.com
+DOMAIN,gspe19-cn-ssl.ls.apple.com
+DOMAIN,gspe19-cn.ls-apple.com.akadns.net
+DOMAIN,gspe19-cn.ls.apple.com
+DOMAIN,gspe21-ssl.ls.apple.com
+DOMAIN,gspe35-ssl.ls.apple.com
+DOMAIN,gspe79-cn-ssl.ls.apple.com
+DOMAIN,guzzoni-apple-com.v.aaplimg.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,guzzoni.smoot.apple.com
+DOMAIN,icloud-cdn.icloud.com.akadns.net
+DOMAIN,icloud.cdn-apple.com
+DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN,init-kt.apple.com
+DOMAIN,init-p01md-lb.push-apple.com.akadns.net
+DOMAIN,init-p01md.apple.com
+DOMAIN,init-p01st-lb.push-apple.com.akadns.net
+DOMAIN,init-p01st.push.apple.com
+DOMAIN,init-s01st-lb.push-apple.com.akadns.net
+DOMAIN,init-s01st.push.apple.com
+DOMAIN,init.ess.apple.com
+DOMAIN,iosapps.itunes.g.aaplimg.com
+DOMAIN,ipcdn.apple.com
+DOMAIN,iphone-ld.apple.com
+DOMAIN,iphone-ld.origin-apple.com.akadns.net
+DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+DOMAIN,itunes-apple.com.akadns.net
+DOMAIN,itunes.apple.com
+DOMAIN,itunesconnect.apple.com
+DOMAIN,mesu-cdn.apple.com.akadns.net
+DOMAIN,mesu-china.apple.com.akadns.net
+DOMAIN,mesu.apple.com
+DOMAIN,ml.cdn-apple.com
+DOMAIN,music.apple.com
+DOMAIN,oscdn.apple.com
+DOMAIN,oscdn.origin-apple.com.akadns.net
+DOMAIN,osxapps.itunes.g.aaplimg.com
+DOMAIN,pancake.apple.com
+DOMAIN,pancake.cdn-apple.com.akadns.net
+DOMAIN,pba0.apple.com
+DOMAIN,probe.siri.apple.com
+DOMAIN,prod-support.apple-support.akadns.net
+DOMAIN,publicassets.cdn-apple.com
+DOMAIN,reserve-prime.apple.com
+DOMAIN,seed-sequoia.siri.apple.com
+DOMAIN,seed-swallow.siri.apple.com
+DOMAIN,seed.siri.apple.com
+DOMAIN,sequoia.apple.com
+DOMAIN,sh-pod2-smp-device.apple.com
+DOMAIN,shazam-insights.cdn-apple.com
+DOMAIN,smp-device-content.apple.com
+DOMAIN,static.gc.apple.com
+DOMAIN,stocks-sparkline-lb.apple.com.akadns.net
+DOMAIN,stocks-sparkline.apple.com
+DOMAIN,store.apple.com
+DOMAIN,store.apple.com.edgekey.net
+DOMAIN,store.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN,store.storeimages.apple.com.akadns.net
+DOMAIN,store.storeimages.cdn-apple.com
+DOMAIN,support-china.apple-support.akadns.net
+DOMAIN,support.apple.com
+DOMAIN,swallow-apple-com.v.aaplimg.com
+DOMAIN,swallow.apple.com
+DOMAIN,swcatalog-cdn.apple.com.akadns.net
+DOMAIN,swcatalog.apple.com
+DOMAIN,swcdn.apple.com
+DOMAIN,swcdn.g.aaplimg.com
+DOMAIN,swdist.apple.com
+DOMAIN,swdist.apple.com.akadns.net
+DOMAIN,swscan-cdn.apple.com.akadns.net
+DOMAIN,swscan.apple.com
+DOMAIN,sylvan.apple.com
+DOMAIN,tj-pod1-smp-device.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,updates-http.cdn-apple.com.akadns.net
+DOMAIN,updates.cdn-apple.com
+DOMAIN,weather-data.apple.com
+DOMAIN,weather-data.apple.com.akadns.net
+DOMAIN,weather-map.apple.com
+DOMAIN,weather-map2.apple.com
+DOMAIN,weatherkit.apple.com
+DOMAIN,www.apple.com
+DOMAIN,www.apple.com.edgekey.net.globalredir.akadns.net
+DOMAIN,xp.apple.com
+DOMAIN-SUFFIX,cisco.cn
+DOMAIN-SUFFIX,cisco.com.cn
+DOMAIN-SUFFIX,network-auth.cn
+DOMAIN-SUFFIX,tvbc.com.cn
+DOMAIN-SUFFIX,cnspeedtest.cn
+DOMAIN-SUFFIX,speed.neu6.edu.cn
+DOMAIN-SUFFIX,speed.nuaa.edu.cn
+DOMAIN-SUFFIX,speed.qlu.edu.cn
+DOMAIN-SUFFIX,speed.ujs.edu.cn
+DOMAIN-SUFFIX,speed6.ujs.edu.cn
+DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,speedtest.mfcyun.com
+DOMAIN-SUFFIX,speedtest.shu.edu.cn
+DOMAIN-SUFFIX,speedtest6.shu.edu.cn
+DOMAIN-SUFFIX,speedtest.xaut.edu.cn
+DOMAIN-SUFFIX,test.ustc.edu.cn
+DOMAIN-SUFFIX,test6.ustc.edu.cn
+DOMAIN-SUFFIX,test.nju.edu.cn
+DOMAIN-SUFFIX,test6.nju.edu.cn
+DOMAIN-SUFFIX,speed.nju.edu.cn
+DOMAIN-SUFFIX,xnfz.seu.edu.cn
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,g.cn
+DOMAIN-SUFFIX,gkecnapps.cn
+DOMAIN-SUFFIX,googlecnapps.cn
+DOMAIN-SUFFIX,gstatic.cn
+DOMAIN-SUFFIX,gstaticcnapps.cn
+DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,gvt2-cn.com
+DOMAIN,www.recaptcha.net
+DOMAIN,265.com
+DOMAIN,2mdn-cn.net
+DOMAIN,2mdn.net
+DOMAIN,admob-cn.com
+DOMAIN,adservice.google.com
+DOMAIN,app-analytics-services.com
+DOMAIN,app-measurement-cn.com
+DOMAIN,app-measurement.com
+DOMAIN,apps5.oingo.com
+DOMAIN,avail.googleflights.net
+DOMAIN,beacons.gcp.gvt2.com
+DOMAIN,beacons.gvt2.com
+DOMAIN,beacons2.gvt2.com
+DOMAIN,beacons3.gvt2.com
+DOMAIN,c.admob.com
+DOMAIN,c.android.clients.google.com
+DOMAIN,cache-management-prod.google.com
+DOMAIN,cache.pack.google.com
+DOMAIN,checkin.gstatic.com
+DOMAIN,clickserve.cc-dt.com
+DOMAIN,clickserve.dartsearch.net
+DOMAIN,clickserver.googleads.com
+DOMAIN,clientservices.googleapis.com
+DOMAIN,cn.widevine.com
+DOMAIN,cnappinstall.googleadapis.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,content.googleadapis.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,csi.gstatic.com
+DOMAIN,dartsearch-cn.net
+DOMAIN,dg-meta.video.google.com
+DOMAIN,dl.google.com
+DOMAIN,dl.l.google.com
+DOMAIN,doubleclick-cn.net
+DOMAIN,doubleclick.net
+DOMAIN,download.mlcc.google.com
+DOMAIN,download.qatp1.net
+DOMAIN,download.tensorflow.google.com
+DOMAIN,emmapplecodevice.googleapis.com
+DOMAIN,fontfiles.googleapis.com
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
+DOMAIN,g0.gstatic.com
+DOMAIN,g1.gstatic.com
+DOMAIN,g2.gstatic.com
+DOMAIN,g3.gstatic.com
+DOMAIN,go.corp.google.com
+DOMAIN,gonglchuangl.net
+DOMAIN,gongyichuangyi.net
+DOMAIN,google-analytics-cn.com
+DOMAIN,google-analytics.com
+DOMAIN,googleadservices-cn.com
+DOMAIN,googleadservices.com
+DOMAIN,googleanalytics.com
+DOMAIN,googleapis-cn.com
+DOMAIN,googleapps-cn.com
+DOMAIN,googleflights-cn.net
+DOMAIN,googleoptimize-cn.com
+DOMAIN,googleoptimize.com
+DOMAIN,googlesyndication-cn.com
+DOMAIN,googlesyndication.com
+DOMAIN,googletagmanager-cn.com
+DOMAIN,googletagmanager.com
+DOMAIN,googletagservices-cn.com
+DOMAIN,googletagservices.com
+DOMAIN,googletraveladservices-cn.com
+DOMAIN,googletraveladservices.com
+DOMAIN,googlevads-cn.com
+DOMAIN,gstatic-cn.com
+DOMAIN,gstaticadssl.l.google.com
+DOMAIN,gtm.oasisfeng.com
+DOMAIN,imasdk.googleapis.com
+DOMAIN,l2-uberproxy.corp.google.com
+DOMAIN,logger-dev.corp.google.com
+DOMAIN,logger.corp.google.com
+DOMAIN,login.corp.google.com
+DOMAIN,monitoring.qpdp1.net
+DOMAIN,pagead-googlehosted.l.google.com
+DOMAIN,performanceparameters.googleapis.com
+DOMAIN,prod-controlbe.floonet.goog
+DOMAIN,prod-databe.floonet.goog
+DOMAIN,prod.databe.floonet.goog
+DOMAIN,proxyconfig.corp.google.com
+DOMAIN,qagpublic.qatp1.net
+DOMAIN,qgadmin.qcpp1.net
+DOMAIN,qiao-cn.com
+DOMAIN,qpx.googleflights.net
+DOMAIN,qualysapi.qatp1.net
+DOMAIN,qualysguard.qpdp1.net
+DOMAIN,r.cert.corp.google.com
+DOMAIN,rapture-prod.corp.google.com
+DOMAIN,recaptcha-cn.net
+DOMAIN,recaptcha.net
+DOMAIN,redirector.bdn.dev
+DOMAIN,redirector.c.chat.google.com
+DOMAIN,redirector.c.mail.google.com
+DOMAIN,redirector.c.pack.google.com
+DOMAIN,redirector.c.youtubeeducation.com
+DOMAIN,redirector.gcpcdn.gvt1.com
+DOMAIN,redirector.gvt1.com
+DOMAIN,redirector.offline-maps.gvt1.com
+DOMAIN,redirector.snap.gvt1.com
+DOMAIN,redirector.xn--ngstr-lra8j.com
+DOMAIN,safebrowsing-cache.google.com
+DOMAIN,safebrowsing.googleapis.com
+DOMAIN,scanservice1.qcpp1.net
+DOMAIN,service.urchin.com
+DOMAIN,ssl-google-analytics.l.google.com
+DOMAIN,ssl.gstatic.com
+DOMAIN,sslredirect.corp.google.com
+DOMAIN,staging-controlbe.floonet.goog
+DOMAIN,staging-databe.floonet.goog
+DOMAIN,staging.databe.floonet.goog
+DOMAIN,streaming-uberproxy-rotation.corp.google.com
+DOMAIN,streaming-uberproxy.corp.google.com
+DOMAIN,sup-ssh-relay.corp.google.com
+DOMAIN,sup-ssh-relay2.corp.google.com
+DOMAIN,sup.corp.google.com
+DOMAIN,sup.l.google.com
+DOMAIN,tac.googleapis.com
+DOMAIN,test.gbugs-qa.chromium.org
+DOMAIN,tools.google.com
+DOMAIN,tools.l.google.com
+DOMAIN,uberproxy-debug4.corp.google.com
+DOMAIN,uberproxy.corp.google.com
+DOMAIN,uberproxy6.corp.google.com
+DOMAIN,update.crashlytics.com
+DOMAIN,update.googleapis.com
+DOMAIN,wear.googleapis.com
+DOMAIN,www-google-analytics.l.google.com
+DOMAIN,www-googletagmanager.l.google.com
+DOMAIN,www.destinationurl.com
+DOMAIN,www.gstatic.com
+DOMAIN,www.pxcc.com
+DOMAIN,xn--flw351e.com
 DOMAIN-SUFFIX,ldmnq.com
 DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,yeshen.com
 DOMAIN-SUFFIX,heavenlywind.cc
 DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,dcocsp.cn
+DOMAIN-SUFFIX,digicert.cn
+DOMAIN-SUFFIX,reckittbenckiser.cn
+DOMAIN-SUFFIX,reckittbenckiser.com.cn
+DOMAIN-SUFFIX,aboutamazon.cn
+DOMAIN-SUFFIX,alexafund.cn
+DOMAIN-SUFFIX,alexafund.com.cn
+DOMAIN-SUFFIX,amazon.cn
+DOMAIN-SUFFIX,amazonbusiness.cn
+DOMAIN-SUFFIX,amazonbusiness.com.cn
+DOMAIN-SUFFIX,amazonchoice.cn
+DOMAIN-SUFFIX,amazonchoice.com.cn
+DOMAIN-SUFFIX,amazonchoices.cn
+DOMAIN-SUFFIX,amazonchoices.com.cn
+DOMAIN-SUFFIX,amazoninspire.cn
+DOMAIN-SUFFIX,amazoninspire.com.cn
+DOMAIN-SUFFIX,amazonlaunchpad.cn
+DOMAIN-SUFFIX,amazonlaunchpad.com.cn
+DOMAIN-SUFFIX,amazonlending.com.cn
+DOMAIN-SUFFIX,amazonnow.cn
+DOMAIN-SUFFIX,amazonnow.com.cn
+DOMAIN-SUFFIX,assoc-amazon.cn
+DOMAIN-SUFFIX,primeday.cn
+DOMAIN-SUFFIX,primeday.com.cn
+DOMAIN-SUFFIX,yamaxun.cn
+DOMAIN-SUFFIX,z.cn
+DOMAIN,images-cn.ssl-images-amazon.com
+DOMAIN,images-cn-8.ssl-images-amazon.com

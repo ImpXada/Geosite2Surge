@@ -1,0 +1,16 @@
+#include:ozon
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonusercontent.com
+#end include:ozon
+#include:wildberries
+DOMAIN-SUFFIX,geobasket.ru
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,rwb.ru
+DOMAIN-SUFFIX,wb-basket.ru
+DOMAIN-SUFFIX,wb.ru
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbpay.ru
+DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,wildberries.ru
+#end include:wildberries

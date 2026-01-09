@@ -1,3 +1,22 @@
+#include:category-ecommerce-ru
+#include:ozon
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonusercontent.com
+#end include:ozon
+#include:wildberries
+DOMAIN-SUFFIX,geobasket.ru
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,rwb.ru
+DOMAIN-SUFFIX,wb-basket.ru
+DOMAIN-SUFFIX,wb.ru
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbpay.ru
+DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,wildberries.ru
+#end include:wildberries
+#end include:category-ecommerce-ru
+
 #include:adidas
 DOMAIN-SUFFIX,adidas.ae
 DOMAIN-SUFFIX,adidas.at
@@ -1003,11 +1022,6 @@ DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e    #耐克.网店
 DOMAIN-SUFFIX,nordstrom.com
 DOMAIN-SUFFIX,nordstrommedia.com
 #end include:nordstrom
-#include:ozon
-DOMAIN-SUFFIX,ozon.ru
-DOMAIN-SUFFIX,ozone.ru
-DOMAIN-SUFFIX,ozonusercontent.com
-#end include:ozon
 #include:pchome
 DOMAIN-SUFFIX,ecimg.tw
 DOMAIN-SUFFIX,pchome.com.tw
@@ -1085,6 +1099,17 @@ DOMAIN-SUFFIX,target
 DOMAIN-SUFFIX,target.com
 DOMAIN-SUFFIX,targetimg1.com
 #end include:target
+#include:technogym
+# data source: https://crt.sh/?id=17424181
+DOMAIN-SUFFIX,letsmoveforabetterworld.com
+DOMAIN-SUFFIX,technogym.bg
+DOMAIN-SUFFIX,technogym.ch
+DOMAIN-SUFFIX,technogym.com
+DOMAIN-SUFFIX,technogym.com.br
+DOMAIN-SUFFIX,technogym.ru
+DOMAIN-SUFFIX,technogym.su
+DOMAIN-SUFFIX,wellnessinstitute.com
+#end include:technogym
 #include:walmart
 # All .walmart domains
 DOMAIN-SUFFIX,walmart
