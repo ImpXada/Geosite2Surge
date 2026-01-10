@@ -1114,6 +1114,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | scala | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/scala |
 | scaleflex | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/scaleflex |
 | scenesource | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/scenesource |
+| schoopia | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/schoopia |
 | schwab | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/schwab |
 | sci | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/sci |
 | sci-hub | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/sci-hub |

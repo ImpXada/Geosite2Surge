@@ -41,6 +41,12 @@ DOMAIN-SUFFIX,koocdn.com
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,koopass.com
 #end include:koolearn
+#include:schoopia
+# 翻转校园 河南昱荣教育科技有限公司 豫ICP备2021021028号
+DOMAIN-SUFFIX,schoopia.com
+# 同学派 翻转校园app内置服务
+DOMAIN-SUFFIX,tongxuepie.com
+#end include:schoopia
 #include:shanbay
 DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,shanbay.com
