@@ -1126,8 +1126,12 @@ DOMAIN-SUFFIX,xiamenair.com    #厦门航空
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,95306.cn
 DOMAIN-SUFFIX,ccrgt.com
+## 车来了
+DOMAIN-SUFFIX,chelaile.net.cn
 ## 跨境巴士
 DOMAIN-SUFFIX,kuajing84.com
+## 掌上公交
+DOMAIN-SUFFIX,mygolbs.com
 ## 宁停车
 DOMAIN-SUFFIX,ningtingche.com
 ## 航旅纵横
@@ -1596,9 +1600,16 @@ DOMAIN-SUFFIX,zdnscloud.net.cn
 DOMAIN-SUFFIX,zdnscloud.org.cn
 #end include:zdns
 #include:zhangtao
+# 掌淘
 DOMAIN-SUFFIX,mob.com
-DOMAIN-SUFFIX,dutils.com
+DOMAIN-SUFFIX,sharesdk.cn
+
+# 游昆
 DOMAIN-SUFFIX,accuratead.cn
+DOMAIN-SUFFIX,dutils.com
+DOMAIN-SUFFIX,hiaiabc.com
+DOMAIN-SUFFIX,mobsdks.com
+DOMAIN-SUFFIX,yksdks.com
 #end include:zhangtao
 #include:zhubajie
 # 猪八戒网
@@ -2157,8 +2168,10 @@ DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,sentry.d.mi.com
 DOMAIN-SUFFIX,sentry.d.xiaomi.net
+DOMAIN-SUFFIX,stats.music.xiaomi.com
 DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
+DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
 #end include:xiaomi-ads
 DOMAIN-SUFFIX,miaibox.com
@@ -2318,11 +2331,18 @@ DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 
+# 中移在线
+DOMAIN-SUFFIX,cmcc-cs.cn
+DOMAIN-SUFFIX,online-cmcc.cn
+
 # 中移互联
 DOMAIN-SUFFIX,andfx.cn
 DOMAIN-SUFFIX,andfx.net
+DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,cmicrwx.cn
+DOMAIN-SUFFIX,cmicvip.cn
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,cytxl.com.cn
 DOMAIN-SUFFIX,fetion-portal.com
 DOMAIN-SUFFIX,fetionpic.com
 DOMAIN-SUFFIX,mmarket.com
@@ -2380,6 +2400,7 @@ DOMAIN-SUFFIX,wo.com.cn
 DOMAIN-SUFFIX,wo116114.com
 DOMAIN-SUFFIX,wocloud.com.cn
 DOMAIN-SUFFIX,woread.com.cn
+DOMAIN-SUFFIX,wosms.cn
 #end include:chinaunicom
 
 # 在线工具

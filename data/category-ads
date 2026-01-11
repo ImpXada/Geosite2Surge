@@ -591,12 +591,15 @@ DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mpush.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
 DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,pingjs.qq.com
+DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
+DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
 DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tajs.qq.com
@@ -666,8 +669,10 @@ DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
 DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,sentry.d.mi.com
 DOMAIN-SUFFIX,sentry.d.xiaomi.net
+DOMAIN-SUFFIX,stats.music.xiaomi.com
 DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
+DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
 #end include:xiaomi-ads
 #include:ximalaya-ads
@@ -820,3 +825,7 @@ DOMAIN-SUFFIX,reyun.com
 DOMAIN-SUFFIX,zhugeapi.com
 DOMAIN-SUFFIX,zhugeapi.net
 DOMAIN-SUFFIX,zhugeio.com
+
+# 车来了
+DOMAIN-SUFFIX,atrace.chelaile.net.cn
+DOMAIN-SUFFIX,logs.chelaile.net.cn

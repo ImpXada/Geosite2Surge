@@ -141,6 +141,9 @@ DOMAIN-SUFFIX,lemonhd.org
 # 备胎
 DOMAIN-SUFFIX,beitai.pt
 
+# NexusHD
+DOMAIN-SUFFIX,nexushd.org
+
 DOMAIN-SUFFIX,bitpt.cn
 DOMAIN-SUFFIX,hdarea.club
 DOMAIN-SUFFIX,hdchina.org

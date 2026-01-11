@@ -219,6 +219,8 @@ DOMAIN-SUFFIX,ynet.com.cn
 DOMAIN-SUFFIX,21jingji.com
 # 站长网
 DOMAIN-SUFFIX,admin5.com
+# 安徽新闻
+DOMAIN-SUFFIX,anhuinews.com
 # 锋潮科技
 DOMAIN-SUFFIX,anzhuo.cn
 # 鞭牛士
@@ -258,6 +260,8 @@ DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztvcdn.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,zjstv.com
+# 读特新闻
+DOMAIN-SUFFIX,dutenews.com
 # 大智慧
 DOMAIN-SUFFIX,dzh.com.cn
 DOMAIN-SUFFIX,gw.com.cn
@@ -372,6 +376,9 @@ DOMAIN-SUFFIX,ssimg.cn
 DOMAIN-SUFFIX,stockstar.com
 # 证券时报网
 DOMAIN-SUFFIX,stcn.com
+# 深圳报业集团
+DOMAIN-SUFFIX,sznews.com
+DOMAIN-SUFFIX,szpgm.com
 # 大公网/大公报
 DOMAIN-SUFFIX,takungpao.com
 # TechWeb

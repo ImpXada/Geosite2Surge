@@ -13,11 +13,18 @@ DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 
+# 中移在线
+DOMAIN-SUFFIX,cmcc-cs.cn
+DOMAIN-SUFFIX,online-cmcc.cn
+
 # 中移互联
 DOMAIN-SUFFIX,andfx.cn
 DOMAIN-SUFFIX,andfx.net
+DOMAIN-SUFFIX,cmicapm.com
 DOMAIN-SUFFIX,cmicrwx.cn
+DOMAIN-SUFFIX,cmicvip.cn
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,cytxl.com.cn
 DOMAIN-SUFFIX,fetion-portal.com
 DOMAIN-SUFFIX,fetionpic.com
 DOMAIN-SUFFIX,mmarket.com
