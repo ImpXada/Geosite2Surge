@@ -92,6 +92,7 @@ DOMAIN-SUFFIX,amazon-adsystem.com
 DOMAIN-SUFFIX,serving-sys.com
 #end include:amazon-ads
 #include:apple-ads
+DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
 DOMAIN-SUFFIX,iad.apple.com
@@ -182,12 +183,15 @@ DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
 #end include:fqnovel-ads
 
+DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,analytics.tiktok.com
 DOMAIN-SUFFIX,bds.snssdk.com
 DOMAIN-SUFFIX,byteadverts.com
 DOMAIN-SUFFIX,ctobsnssdk.com
 DOMAIN-SUFFIX,dig.bdurl.net
 DOMAIN-SUFFIX,extlog.snssdk.com
 DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,log.zijieapi.com
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
 DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
@@ -250,10 +254,6 @@ DOMAIN-SUFFIX,emogi.com
 #include:flurry-ads
 DOMAIN-SUFFIX,data.flurry.com
 #end include:flurry-ads
-#include:github-ads
-DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-#end include:github-ads
 #include:google-ads
 DOMAIN-SUFFIX,2mdn-cn.net
 DOMAIN-SUFFIX,2mdn.net
@@ -394,6 +394,11 @@ DOMAIN-SUFFIX,graph.whatsapp.net
 #end include:whatsapp-ads
 #end include:meta-ads
 #include:microsoft-ads
+#include:github-ads
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+#end include:github-ads
+
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,clarity.ms
@@ -439,10 +444,6 @@ DOMAIN-SUFFIX,openxcdn.net
 DOMAIN-SUFFIX,openxenterprise.com
 DOMAIN-SUFFIX,openxmarket.asia
 #end include:openx-ads
-#include:picacg-ads
-DOMAIN,ad-channel.diwodiwo.xyz
-DOMAIN,ad-display.diwodiwo.xyz
-#end include:picacg-ads
 #include:pocoiq-ads
 DOMAIN-SUFFIX,cdn.pocoiq.cn
 DOMAIN-SUFFIX,oct.pocoiq.cn
@@ -542,6 +543,7 @@ DOMAIN-SUFFIX,ssp.api.tappx.com
 #end include:tappx-ads
 #include:television-ads
 DOMAIN-SUFFIX,ad.hpplay.cn
+DOMAIN-SUFFIX,adc.hpplay.cn
 DOMAIN-SUFFIX,adeng.hpplay.cn
 DOMAIN-SUFFIX,ads-uo.api.leiniao.com
 DOMAIN-SUFFIX,ads-ut.api.leiniao.com
@@ -598,6 +600,7 @@ DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,pingjs.qq.com
 DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
+DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
@@ -606,6 +609,7 @@ DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,tmead.y.qq.com
 DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,wit.qq.com
@@ -685,10 +689,6 @@ DOMAIN-SUFFIX,ads.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
 DOMAIN-SUFFIX,ysm.yahoo.com
 #end include:yahoo-ads
-#include:zhihu-ads
-DOMAIN-SUFFIX,crash2.zhihu.com
-DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
-#end include:zhihu-ads
 
 # Other domains for ads serving
 DOMAIN-SUFFIX,51.la
@@ -702,6 +702,7 @@ DOMAIN-SUFFIX,adbutter.net
 DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,ads.trafficjunky.net
 DOMAIN-SUFFIX,ads.wteam.xyz
+DOMAIN-SUFFIX,adservice.sigmob.cn
 DOMAIN-SUFFIX,adtechus.com
 DOMAIN-SUFFIX,adtrue.com
 DOMAIN-SUFFIX,adxprtz.com

@@ -46,6 +46,8 @@ DOMAIN-SUFFIX,zggbdszt.cn
 DOMAIN-SUFFIX,zggbdszt.com.cn
 DOMAIN-SUFFIX,zggbdszt.net.cn
 DOMAIN-SUFFIX,zygbdszt.net.cn
+
+DOMAIN-SUFFIX,ad.cctv.com
 #end include:cctv
 #include:chinanews
 DOMAIN-SUFFIX,chinanews.com

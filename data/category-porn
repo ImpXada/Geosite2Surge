@@ -375,10 +375,6 @@ DOMAIN-SUFFIX,nudevista.net
 DOMAIN-SUFFIX,nudevista.vip
 #end include:nudevista
 #include:picacg
-DOMAIN,ad-channel.diwodiwo.xyz
-DOMAIN,ad-display.diwodiwo.xyz
-#end include:picacg-ads
-
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz
 DOMAIN-SUFFIX,bikaios.xyz
@@ -393,6 +389,9 @@ DOMAIN-SUFFIX,wikawika.xyz
 # Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
 DOMAIN-SUFFIX,diwodiwo.xyz
 
+# Ad Domain
+DOMAIN,ad-channel.diwodiwo.xyz
+DOMAIN,ad-display.diwodiwo.xyz
 #end include:picacg
 #include:playboy
 DOMAIN-SUFFIX,playboy.com

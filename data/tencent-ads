@@ -40,6 +40,7 @@ DOMAIN-SUFFIX,pgdt.gtimg.cn
 DOMAIN-SUFFIX,pingjs.qq.com
 DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
+DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
@@ -48,6 +49,7 @@ DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,tmead.y.qq.com
 DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com
 DOMAIN-SUFFIX,wit.qq.com

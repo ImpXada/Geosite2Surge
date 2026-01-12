@@ -242,6 +242,11 @@ DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com
 #end include:github
 #include:microsoft-ads
+#include:github-ads
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
+#end include:github-ads
+
 DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,clarity.ms

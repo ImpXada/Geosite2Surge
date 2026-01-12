@@ -2432,6 +2432,272 @@ DOMAIN-SUFFIX,wistia.net
 #end include:wistia
 
 # Certificate authorities
+#include:category-cas
+# This list contains well-known Certificate Authorities (CA) outside China mainland.
+
+# Reference: https://en.wikipedia.org/wiki/Certificate_authority
+#include:actalis
+DOMAIN-SUFFIX,actalis.com
+DOMAIN-SUFFIX,actalis.it
+#end include:actalis
+#include:amazontrust
+DOMAIN-SUFFIX,amazontrust.com
+DOMAIN-SUFFIX,awstrust.com
+DOMAIN-SUFFIX,ss2.us
+#end include:amazontrust
+#include:apple-pki
+DOMAIN,certs-lb.apple.com.akadns.net
+DOMAIN,certs.apple.com
+DOMAIN,crl-lb.apple.com.akadns.net
+DOMAIN,crl.apple.com
+DOMAIN,ocsp-lb.apple.com.akadns.net
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp2-lb.apple.com.akadns.net
+DOMAIN,ocsp2.apple.com
+DOMAIN,valid.apple.com
+DOMAIN,valid.origin-apple.com.akadns.net
+#end include:apple-pki
+#include:buypass
+DOMAIN-SUFFIX,buypass-ssl.com
+DOMAIN-SUFFIX,buypass.com
+DOMAIN-SUFFIX,buypass.no
+DOMAIN-SUFFIX,buypass.se
+DOMAIN-SUFFIX,minid.no
+#end include:buypass
+#include:certinomis
+DOMAIN-SUFFIX,certinomis.com
+DOMAIN-SUFFIX,certinomis.fr
+#end include:certinomis
+#include:certum
+DOMAIN-SUFFIX,certum.pl
+DOMAIN-SUFFIX,ocsp-certum.com
+
+# Sub brand
+DOMAIN-SUFFIX,ocsp-responder.com    #Yandex
+#end include:certum
+#include:entrust
+DOMAIN-SUFFIX,entrust.cn
+DOMAIN-SUFFIX,entrust.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,entrustdatacard.com
+DOMAIN,www.entrust.cn
+
+# Sub brand
+DOMAIN-SUFFIX,affirmtrust.com
+DOMAIN-SUFFIX,atos.net
+DOMAIN-SUFFIX,myatos.net
+DOMAIN-SUFFIX,certificat2.com
+DOMAIN-SUFFIX,trendmicro.com
+#end include:entrust
+#include:gandi
+DOMAIN-SUFFIX,gandi.net
+#end include:gandi
+#include:globalsign
+DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,globalsign-media.com
+DOMAIN-SUFFIX,globalsign.be
+DOMAIN-SUFFIX,globalsign.ch
+DOMAIN-SUFFIX,globalsign.cloud
+DOMAIN-SUFFIX,globalsign.cn
+DOMAIN-SUFFIX,globalsign.co.uk
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsign.com.au
+DOMAIN-SUFFIX,globalsign.com.br
+DOMAIN-SUFFIX,globalsign.com.hk
+DOMAIN-SUFFIX,globalsign.com.sg
+DOMAIN-SUFFIX,globalsign.es
+DOMAIN-SUFFIX,globalsign.eu
+DOMAIN-SUFFIX,globalsign.fr
+DOMAIN-SUFFIX,globalsign.net
+DOMAIN-SUFFIX,globalsign.nl
+DOMAIN-SUFFIX,globalsigncdn.com
+
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
+DOMAIN,crl.globalsign.net
+#end include:globalsign
+#include:godaddy
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,x.co    #GoDaddy URL Shortener
+
+# All .godaddy domains
+DOMAIN-SUFFIX,godaddy
+#end include:godaddy
+#include:google-trust-services
+DOMAIN-SUFFIX,pki.goog
+
+DOMAIN,pki-goog.l.google.com
+
+DOMAIN,c.pki.goog
+DOMAIN,i.pki.goog
+DOMAIN,o.pki.goog
+
+# Google Public CA API Endpoint
+DOMAIN,publicca.googleapis.com
+DOMAIN,preprod-publicca.googleapis.com
+
+# Deprecated earlier
+DOMAIN,clients1.google.com
+DOMAIN,pki.google.com
+
+# Deprecated recently
+DOMAIN,crl.pki.goog
+DOMAIN,crls.pki.goog
+DOMAIN,ocsp.pki.goog
+#end include:google-trust-services
+#include:hinet-eca
+# Chunghwa Telecom PKI
+DOMAIN-SUFFIX,eca.hinet.net
+DOMAIN-SUFFIX,gtlsca.nat.gov.tw
+DOMAIN-SUFFIX,pki.hinet.net
+DOMAIN-SUFFIX,publicca.hinet.net
+DOMAIN-SUFFIX,tls.hinet.net
+#end include:hinet-eca
+#include:hongkongpost
+DOMAIN-SUFFIX,hongkongpost.gov.hk
+DOMAIN-SUFFIX,ecert.gov.hk
+#end include:hongkongpost
+#include:identrust
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,identrust.co.uk
+DOMAIN-SUFFIX,identrust.net
+#end include:identrust
+#include:letsencrypt
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,letsencrypt.com
+DOMAIN-SUFFIX,letsencrypt.org
+#end include:letsencrypt
+#include:microsoft-pki
+DOMAIN-SUFFIX,msocsp.com
+
+DOMAIN,crl.microsoft.com
+DOMAIN,mscrl.microsoft.com
+DOMAIN,ocsp.microsoft.com
+DOMAIN,oneocsp.microsoft.com
+DOMAIN,www.microsoft.com
+#end include:microsoft-pki
+#include:secom
+DOMAIN-SUFFIX,secom.co.jp
+DOMAIN-SUFFIX,secomtrust.net
+
+# Sub brand
+
+DOMAIN-SUFFIX,cybertrust.co.jp
+DOMAIN-SUFFIX,cybertrust.ne.jp
+DOMAIN-SUFFIX,managedpki.ne.jp
+#end include:secom
+#include:sectigo
+DOMAIN-SUFFIX,enterprisessl.com
+DOMAIN-SUFFIX,hackerguardian.com
+DOMAIN-SUFFIX,instantssl.com
+DOMAIN-SUFFIX,oemssl.cn
+DOMAIN-SUFFIX,oemssl.cn.cdn.cloudflare.net
+DOMAIN-SUFFIX,optimumssl.com
+DOMAIN-SUFFIX,positivessl.com
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,sectigochina.com
+DOMAIN-SUFFIX,sectigochina.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,trust-provider.cn
+DOMAIN-SUFFIX,trust-provider.com
+DOMAIN-SUFFIX,usertrust.com
+
+# Sub brand
+DOMAIN-SUFFIX,aoc.cat
+DOMAIN-SUFFIX,catcert.cat
+DOMAIN-SUFFIX,incommon-rsa.org
+DOMAIN-SUFFIX,netsolssl.com
+
+# Comodo CA
+DOMAIN-SUFFIX,comodoca.com
+DOMAIN-SUFFIX,comodoca2.com
+DOMAIN-SUFFIX,comodoca3.com
+DOMAIN-SUFFIX,comodoca4.com
+#end include:sectigo
+#include:sslcom
+DOMAIN-SUFFIX,ssl.com
+DOMAIN-SUFFIX,sslcom.cn
+#end include:sslcom
+#include:starfieldtech
+DOMAIN-SUFFIX,starfieldtech.com
+#end include:starfieldtech
+#include:swisssign
+DOMAIN-SUFFIX,digital-id.ch
+DOMAIN-SUFFIX,digitalid.ch
+DOMAIN-SUFFIX,managed-pki.ch
+DOMAIN-SUFFIX,managed-pki.de
+DOMAIN-SUFFIX,pki-post.ch
+DOMAIN-SUFFIX,pki-posta.ch
+DOMAIN-SUFFIX,pki-poste.ch
+DOMAIN-SUFFIX,root-signing.ch
+DOMAIN-SUFFIX,rootsigning.com
+DOMAIN-SUFFIX,ssl-certificate.ch
+DOMAIN-SUFFIX,swissid.ch
+DOMAIN-SUFFIX,swissign.com
+DOMAIN-SUFFIX,swissign.li
+DOMAIN-SUFFIX,swisssign-group.ch
+DOMAIN-SUFFIX,swisssign-group.com
+DOMAIN-SUFFIX,swisssign-group.li
+DOMAIN-SUFFIX,swisssign.ch
+DOMAIN-SUFFIX,swisssign.com
+DOMAIN-SUFFIX,swisssign.li
+DOMAIN-SUFFIX,swisssign.net
+DOMAIN-SUFFIX,swisssign.org
+DOMAIN-SUFFIX,swisssigner.ch
+DOMAIN-SUFFIX,swisssigner.com
+DOMAIN-SUFFIX,swisssigngroup.ch
+DOMAIN-SUFFIX,swisssigngroup.com
+DOMAIN-SUFFIX,swissstick.com
+DOMAIN-SUFFIX,swisstsa.ch
+DOMAIN-SUFFIX,swisstsa.li
+DOMAIN-SUFFIX,trustdoc.ch
+DOMAIN-SUFFIX,trustsign.ch
+DOMAIN-SUFFIX,zert.ch
+#end include:swisssign
+#include:telekom
+DOMAIN-SUFFIX,telekom.com
+DOMAIN-SUFFIX,telekom.de
+DOMAIN-SUFFIX,telesec.de
+#end include:telekom
+#include:trustwave
+DOMAIN-SUFFIX,trustwave.com
+#end include:trustwave
+#include:twca
+DOMAIN-SUFFIX,twca.com.tw
+#end include:twca
+#include:vodafone
+DOMAIN-SUFFIX,myvodafone.com.au
+DOMAIN-SUFFIX,myvodafone.com.ws
+DOMAIN-SUFFIX,vodafone.co.uk
+DOMAIN-SUFFIX,vodafone.com
+DOMAIN-SUFFIX,vodafone.com.au
+DOMAIN-SUFFIX,vodafone.com.tr
+DOMAIN-SUFFIX,vodafone.de
+DOMAIN-SUFFIX,vodafone.it
+#end include:vodafone
+#include:wisekey
+DOMAIN-SUFFIX,wisecoin.com
+DOMAIN-SUFFIX,wiseid.com
+DOMAIN-SUFFIX,wisekey.com
+DOMAIN-SUFFIX,wisekey.com.hk
+#end include:wisekey
+
+DOMAIN-SUFFIX,accv.es
+DOMAIN-SUFFIX,camerfirma.com
+DOMAIN-SUFFIX,certsign.ro
+DOMAIN-SUFFIX,d-trust.net
+DOMAIN-SUFFIX,e-szigno.hu
+DOMAIN-SUFFIX,e-tugra.com
+DOMAIN-SUFFIX,firmaprofesional.com
+DOMAIN-SUFFIX,fnmt.es
+DOMAIN-SUFFIX,harica.gr
+DOMAIN-SUFFIX,infocert.digital
+DOMAIN-SUFFIX,infocert.it
+DOMAIN-SUFFIX,managedpki.com
+DOMAIN-SUFFIX,netlock.hu
+DOMAIN-SUFFIX,trustcor.ca
+DOMAIN-SUFFIX,trustcor.com
+DOMAIN-SUFFIX,trustisfps.com
+#end include:category-cas
 
 # Communications
 #include:category-communication
@@ -5562,10 +5828,6 @@ DOMAIN-SUFFIX,nudevista.net
 DOMAIN-SUFFIX,nudevista.vip
 #end include:nudevista
 #include:picacg
-DOMAIN,ad-channel.diwodiwo.xyz
-DOMAIN,ad-display.diwodiwo.xyz
-#end include:picacg-ads
-
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz
 DOMAIN-SUFFIX,bikaios.xyz
@@ -5580,6 +5842,9 @@ DOMAIN-SUFFIX,wikawika.xyz
 # Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
 DOMAIN-SUFFIX,diwodiwo.xyz
 
+# Ad Domain
+DOMAIN,ad-channel.diwodiwo.xyz
+DOMAIN,ad-display.diwodiwo.xyz
 #end include:picacg
 #include:playboy
 DOMAIN-SUFFIX,playboy.com
