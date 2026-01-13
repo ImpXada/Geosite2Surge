@@ -337,6 +337,7 @@ DOMAIN-SUFFIX,data.flurry.com
 DOMAIN-SUFFIX,ad.browser.qq.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
+DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adnet.qq.com
@@ -378,6 +379,7 @@ DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
 DOMAIN-SUFFIX,stat.y.qq.com
@@ -419,6 +421,7 @@ DOMAIN-SUFFIX,pglstatp-toutiao.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,shoppingads.cn
 DOMAIN-SUFFIX,adcolony.com
+DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,fenxi.360.cn
 DOMAIN-SUFFIX,fenxi.com
 DOMAIN-SUFFIX,lianmeng.360.cn

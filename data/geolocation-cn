@@ -1058,6 +1058,8 @@ DOMAIN-SUFFIX,xiamenair.com    #厦门航空
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,95306.cn
 DOMAIN-SUFFIX,ccrgt.com
+## 北京市政交通一卡通
+DOMAIN-SUFFIX,bmac.com.cn
 ## 车来了
 DOMAIN-SUFFIX,chelaile.net.cn
 ## 跨境巴士
@@ -1154,24 +1156,22 @@ DOMAIN-SUFFIX,wzlib.cn
 #include:category-collaborate-cn
 # 远程桌面/远程组网
 
+## 连连控
+DOMAIN-SUFFIX,asklink.com
+## EasyTier
+DOMAIN-SUFFIX,easytier.cn
 ## Oray
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayer.com
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,sunlogin.net
-
+## 叮当猫脚本管理系统 懒人精灵远程调试
+DOMAIN-SUFFIX,privateapi.xyz
 ## ToDesk
 DOMAIN-SUFFIX,todesk.cn
 DOMAIN-SUFFIX,todesk.com
-
-## 连连控
-DOMAIN-SUFFIX,asklink.com
-
-## 叮当猫脚本管理系统 懒人精灵远程调试
-DOMAIN-SUFFIX,privateapi.xyz
-
-# xEdge干将互联
+## xEdge干将互联
 # xEdge 干将互联
 # 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
 DOMAIN-SUFFIX,xedge.cc
@@ -1182,23 +1182,19 @@ DOMAIN-SUFFIX,ganjiangvpn.com
 
 # 文档协作
 
-## Tower 团队协作
-DOMAIN-SUFFIX,tower.im
-
-## 秀米编辑器
-DOMAIN-SUFFIX,tritoninfo.net
-DOMAIN-SUFFIX,xiumi.us
-DOMAIN-SUFFIX,xiumius.com
-
+## 语雀
+DOMAIN-SUFFIX,nlark.com
+DOMAIN-SUFFIX,yuque.com
 ## 石墨文档
 DOMAIN-SUFFIX,shimo.im
 DOMAIN-SUFFIX,shimonote.com
 DOMAIN-SUFFIX,smgv.cn
-
-## 语雀
-DOMAIN-SUFFIX,nlark.com
-DOMAIN-SUFFIX,yuque.com
-
+## Tower 团队协作
+DOMAIN-SUFFIX,tower.im
+## 秀米编辑器
+DOMAIN-SUFFIX,tritoninfo.net
+DOMAIN-SUFFIX,xiumi.us
+DOMAIN-SUFFIX,xiumius.com
 ## 吾道
 DOMAIN-SUFFIX,woodo.cn
 #end include:category-collaborate-cn
@@ -1943,6 +1939,7 @@ DOMAIN-SUFFIX,shopoppo.com.cn
 #end include:oppo
 #include:qihoo360
 #include:qihoo360-ads
+DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,fenxi.360.cn
 DOMAIN-SUFFIX,fenxi.com
 DOMAIN-SUFFIX,lianmeng.360.cn

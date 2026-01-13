@@ -529,6 +529,9 @@ DOMAIN-SUFFIX,zhulang.com
 DOMAIN-SUFFIX,zongheng.com
 
 # 娱乐资讯媒体
+# 该部分参考了中文维基百科的「来源考量」：
+# - https://zh.wikipedia.org/wiki/WikiProject:电子游戏/来源考量
+# - https://zh.wikipedia.org/wiki/WikiProject:ACG/來源考量
 
 #include:tgbus
 DOMAIN-SUFFIX,tgbus.com
@@ -567,11 +570,15 @@ DOMAIN-SUFFIX,ign.com.cn
 DOMAIN-SUFFIX,nadianshi.com
 ## 游戏日报
 DOMAIN-SUFFIX,news.yxrb.net
+## 手谈姬
+DOMAIN-SUFFIX,shoutanjjj.com
 ## 游戏机实用技术
 DOMAIN-SUFFIX,ucg.cn
 ## 游戏茶馆
 DOMAIN-SUFFIX,youxichaguan.com
 ## 游戏葡萄
 DOMAIN-SUFFIX,youxiputao.com
+## 游戏陀螺
+DOMAIN-SUFFIX,youxituoluo.com
 ## 游研社
 DOMAIN-SUFFIX,yystv.cn

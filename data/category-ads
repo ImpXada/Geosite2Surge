@@ -452,6 +452,7 @@ DOMAIN-SUFFIX,oct.pocoiq.cn
 DOMAIN-SUFFIX,ads.pubmatic.com
 #end include:pubmatic-ads
 #include:qihoo360-ads
+DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,fenxi.360.cn
 DOMAIN-SUFFIX,fenxi.com
 DOMAIN-SUFFIX,lianmeng.360.cn
@@ -561,6 +562,7 @@ DOMAIN-SUFFIX,testads.api.my7v.com
 DOMAIN-SUFFIX,ad.browser.qq.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
+DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adnet.qq.com
@@ -602,6 +604,7 @@ DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
 DOMAIN-SUFFIX,stat.y.qq.com
@@ -830,3 +833,7 @@ DOMAIN-SUFFIX,zhugeio.com
 # 车来了
 DOMAIN-SUFFIX,atrace.chelaile.net.cn
 DOMAIN-SUFFIX,logs.chelaile.net.cn
+
+# 航旅纵横
+DOMAIN-SUFFIX,analytics.umetrip.com
+DOMAIN-SUFFIX,sensors.umetrip.com.cn

@@ -4564,6 +4564,9 @@ DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,bookeeper.itunes.apple.com
 
 # Entertainment oriented media
+# This section references the "Source Considerations" page on the Chinese Wikipedia:
+# - https://zh.wikipedia.org/wiki/WikiProject:电子游戏/来源考量
+# - https://zh.wikipedia.org/wiki/WikiProject:ACG/來源考量
 ## 4Gamer.net
 DOMAIN-SUFFIX,4gamer.net
 ## 4Gamers
@@ -4576,20 +4579,28 @@ DOMAIN-SUFFIX,appget.com
 DOMAIN-SUFFIX,appmedia.jp
 ## Automaton
 DOMAIN-SUFFIX,automaton-media.com
+## 橙心社
+DOMAIN-SUFFIX,cxacg.com
 ## 电faminicogamer
 DOMAIN-SUFFIX,denfaminicogamer.jp
 ## ASCII Media Works
 DOMAIN-SUFFIX,dengekionline.com
 ## E-ROAD
 DOMAIN-SUFFIX,eroge-road.com
+## esports.gg
+DOMAIN-SUFFIX,esports.gg
 ## ファミ通
 DOMAIN-SUFFIX,famitsu.com
+## GameApps.HK
+DOMAIN-SUFFIX,gameapps.hk
 ## 遊戲基地
 DOMAIN-SUFFIX,gamebase.com.tw
 ## IID, Inc.
 DOMAIN-SUFFIX,gamebusiness.jp
 DOMAIN-SUFFIX,gamespark.jp
 DOMAIN-SUFFIX,inside-games.jp
+## Game Focus
+DOMAIN-SUFFIX,gamefocus.co.kr
 ## GameMeca
 DOMAIN-SUFFIX,gamemeca.com
 ## Gameover有機網
@@ -4601,6 +4612,8 @@ DOMAIN-SUFFIX,onlinegamer.jp
 DOMAIN-SUFFIX,greatgame.asia
 ## HobbiGame
 DOMAIN-SUFFIX,hobbigame.com
+## ゲーム文化保存研究所
+DOMAIN-SUFFIX,igcc.jp
 ## IGN
 DOMAIN-SUFFIX,ign.com
 DOMAIN-SUFFIX,ignimg.com
@@ -4612,18 +4625,30 @@ DOMAIN-SUFFIX,mediaclip.jp
 DOMAIN-SUFFIX,maedahiroyuki.com
 ## MANTANWEB
 DOMAIN-SUFFIX,mantan-web.jp
+## モエデジ
+DOMAIN-SUFFIX,moedigi.com
 ## Moepedia
 DOMAIN-SUFFIX,moepedia.net
+## マイナビニュース
+DOMAIN-SUFFIX,mynavi.jp
+## Openbook阅读通
+DOMAIN-SUFFIX,openbook.org.tw
 ## QooApp
 DOMAIN-SUFFIX,qoo-app.com
 ## Real Sound
 DOMAIN-SUFFIX,realsound.jp
+## れポたま！
+DOMAIN-SUFFIX,repotama.com
 ## Saiga NAK
 DOMAIN-SUFFIX,saiganak.com
+## SQOOL
+DOMAIN-SUFFIX,sqool.net
 ## The Games Daily
 DOMAIN-SUFFIX,tgdaily.co.kr
 ## Thisisgame
 DOMAIN-SUFFIX,thisisgame.com
+## 玩具人
+DOMAIN-SUFFIX,toy-people.com
 ## Wanuxi
 DOMAIN-SUFFIX,wanuxi.com
 ## よろず〜

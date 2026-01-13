@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,ad.browser.qq.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
+DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adnet.qq.com
@@ -43,6 +44,7 @@ DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
 DOMAIN-SUFFIX,stat.y.qq.com
@@ -277,3 +279,14 @@ DOMAIN-SUFFIX,fymallqa3.com
 DOMAIN-SUFFIX,fymallqa4.com
 DOMAIN-SUFFIX,fymallqa7.com
 DOMAIN-SUFFIX,fymallqa9.com
+
+DOMAIN-SUFFIX,tdnsdl1.cn
+DOMAIN-SUFFIX,tdnsdl1.com.cn
+DOMAIN-SUFFIX,tdnsdl2.cn
+DOMAIN-SUFFIX,tdnsdl2.com.cn
+DOMAIN-SUFFIX,tdnsdl3.cn
+DOMAIN-SUFFIX,tdnsdl3.com.cn
+DOMAIN-SUFFIX,tdnsdl4.cn
+DOMAIN-SUFFIX,tdnsdl4.com.cn
+DOMAIN-SUFFIX,tdnsdl5.cn
+DOMAIN-SUFFIX,tdnsdl5.com.cn
