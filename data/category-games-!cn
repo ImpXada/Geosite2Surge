@@ -963,6 +963,7 @@ DOMAIN-SUFFIX,xbx.lv
 DOMAIN-SUFFIX,ynoproject.net
 #end include:ynoproject
 
+DOMAIN-SUFFIX,dinopoloclub.com
 DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,fabricmc.net
@@ -973,8 +974,10 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,mobimon.com.tw
 DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,noxygames.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
 DOMAIN-SUFFIX,papermc.io
@@ -982,5 +985,7 @@ DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,prismlauncher.org
 DOMAIN-SUFFIX,protondb.com
 DOMAIN-SUFFIX,quiltmc.org
+DOMAIN-SUFFIX,rayark.download
+DOMAIN-SUFFIX,rayark.net
 DOMAIN-SUFFIX,speedrun.com
 DOMAIN-SUFFIX,steamdb.info
