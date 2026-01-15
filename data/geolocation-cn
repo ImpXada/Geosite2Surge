@@ -1553,6 +1553,8 @@ DOMAIN-SUFFIX,zhubajie.com
 ## 容联七陌 客服 营销
 DOMAIN-SUFFIX,7moor-fs1.com
 DOMAIN-SUFFIX,7moor.com
+## Alook 浏览器
+DOMAIN-SUFFIX,alookweb.com
 ## 安兔兔
 DOMAIN-SUFFIX,antutu.com
 DOMAIN-SUFFIX,antutu.net
@@ -1570,14 +1572,27 @@ DOMAIN-SUFFIX,clink.cn
 ## 当贝
 DOMAIN-SUFFIX,dangbei.com
 DOMAIN-SUFFIX,dangbei.net
+## DCloud 数字天堂
+DOMAIN-SUFFIX,dcloud.io
+DOMAIN-SUFFIX,dcloud.net.cn
 ## 酷控
 DOMAIN-SUFFIX,deepepg.com
 DOMAIN-SUFFIX,kookong.com
 ## 滴答清单
 DOMAIN-SUFFIX,dida365.com
+## 兑吧
+DOMAIN-SUFFIX,dui88.com
+DOMAIN-SUFFIX,duiba.com.cn
 ## 快应用
 DOMAIN-SUFFIX,hapjs.org
 DOMAIN-SUFFIX,quickapp.cn
+## 乐播投屏
+DOMAIN-SUFFIX,hpplay.cn
+DOMAIN-SUFFIX,lbtp.com
+DOMAIN-SUFFIX,lebo.cn
+DOMAIN-SUFFIX,lebo.com.cn
+DOMAIN-SUFFIX,lebo.top
+DOMAIN-SUFFIX,mirrorcast.cn
 ## 货拉拉
 DOMAIN-SUFFIX,huolala.cn
 ## 火绒
@@ -1615,6 +1630,8 @@ DOMAIN-SUFFIX,soboten.com
 DOMAIN-SUFFIX,tacool.com
 ## Via 浏览器
 DOMAIN-SUFFIX,viayoo.com
+## X 浏览器
+DOMAIN-SUFFIX,xbext.com
 ## 印象笔记
 DOMAIN-SUFFIX,yinxiang.com
 ## 智联招聘
@@ -2261,6 +2278,9 @@ DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
+
+# 中移金科
+DOMAIN-SUFFIX,cmft.com.cn
 
 # 中移在线
 DOMAIN-SUFFIX,cmcc-cs.cn

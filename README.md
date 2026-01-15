@@ -1195,6 +1195,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | starworld | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/starworld |
 | staticfile | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/staticfile |
 | steam | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/steam |
+| steaminventoryhelper | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/steaminventoryhelper |
 | steamunlocked | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/steamunlocked |
 | steemit | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/steemit |
 | sto-express | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/sto-express |

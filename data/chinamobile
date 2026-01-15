@@ -13,6 +13,9 @@ DOMAIN-SUFFIX,migucloud.com
 DOMAIN-SUFFIX,migufun.com
 DOMAIN-SUFFIX,miguvideo.com
 
+# 中移金科
+DOMAIN-SUFFIX,cmft.com.cn
+
 # 中移在线
 DOMAIN-SUFFIX,cmcc-cs.cn
 DOMAIN-SUFFIX,online-cmcc.cn

@@ -1,5 +1,20 @@
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+#include:category-acg
+# Game
+DOMAIN-SUFFIX,colorfulstage.com
+
+# Idol
+DOMAIN-SUFFIX,crypton.co.jp
+DOMAIN-SUFFIX,lapriere.jp
+DOMAIN-SUFFIX,magicalmirai.com
+DOMAIN-SUFFIX,mikuexpo.com
+DOMAIN-SUFFIX,piapro.net
+DOMAIN-SUFFIX,snowmiku.com
+
+# Resource sharing
+DOMAIN-SUFFIX,bowlroll.net
+#end include:category-acg
 #include:category-novel
 # This file contains domains of pirate chinese online novel sites that are blocked by GFW
 DOMAIN-SUFFIX,ptzwx.com

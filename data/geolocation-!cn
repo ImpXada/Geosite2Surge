@@ -190,23 +190,6 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openrouter.ai
 #end include:category-ai-!cn
 
-# Anime, Comics & Games
-#include:category-acg
-# Game
-DOMAIN-SUFFIX,colorfulstage.com
-
-# Idol
-DOMAIN-SUFFIX,crypton.co.jp
-DOMAIN-SUFFIX,lapriere.jp
-DOMAIN-SUFFIX,magicalmirai.com
-DOMAIN-SUFFIX,mikuexpo.com
-DOMAIN-SUFFIX,piapro.net
-DOMAIN-SUFFIX,snowmiku.com
-
-# Resource sharing
-DOMAIN-SUFFIX,bowlroll.net
-#end include:category-acg
-
 # Advertisment & Analytics
 #include:pubmatic
 # Programmatic Digital Advertising Technology & Solutions | PubMatic
@@ -3389,6 +3372,21 @@ DOMAIN-SUFFIX,chemequations.com    #线上化学方程式！
 #include:category-entertainment
 # This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
 
+#include:category-acg
+# Game
+DOMAIN-SUFFIX,colorfulstage.com
+
+# Idol
+DOMAIN-SUFFIX,crypton.co.jp
+DOMAIN-SUFFIX,lapriere.jp
+DOMAIN-SUFFIX,magicalmirai.com
+DOMAIN-SUFFIX,mikuexpo.com
+DOMAIN-SUFFIX,piapro.net
+DOMAIN-SUFFIX,snowmiku.com
+
+# Resource sharing
+DOMAIN-SUFFIX,bowlroll.net
+#end include:category-acg
 #include:category-novel
 # This file contains domains of pirate chinese online novel sites that are blocked by GFW
 DOMAIN-SUFFIX,ptzwx.com
