@@ -645,7 +645,10 @@ DOMAIN-SUFFIX,xnxx.tv
 DOMAIN-SUFFIX,xnxx3.com
 #end include:xnxx
 #include:xvideos
+DOMAIN-SUFFIX,xv-ru.com
+DOMAIN-SUFFIX,xvideos-ar.com
 DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,xvideos-india.com
 DOMAIN-SUFFIX,xvideos.com
 #end include:xvideos
 #include:youjizz
