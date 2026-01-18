@@ -1045,6 +1045,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | protonmail | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/protonmail |
 | pstorage | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pstorage |
 | ptt | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ptt |
+| pubg | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pubg |
 | pubmatic | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pubmatic |
 | pubmatic-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pubmatic-ads |
 | pugpig | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pugpig |

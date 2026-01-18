@@ -613,6 +613,13 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 #include:projectsekai
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
 #end include:projectsekai
+#include:pubg
+DOMAIN-SUFFIX,kraftonde.com
+DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,pubg.com
+
+DOMAIN,pubg1.battleye.com
+#end include:pubg
 #include:purikonejp
 # `purikone` is for `purinsesukonekuto` (プリンセスコネクト)
 
