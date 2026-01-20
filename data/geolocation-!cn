@@ -13274,32 +13274,34 @@ DOMAIN-SUFFIX,zoom.com.cn
 DOMAIN-SUFFIX,zoom.us
 #end include:zoom
 
-DOMAIN-SUFFIX,biliplus.com    #BiliPlus
-
-# Graphing for Science and Engineering
-DOMAIN-SUFFIX,originlab.com
-
-# Online LaTeX Editor
+## Aurora Open Source Software (https://gitlab.com/AuroraOSS)
+DOMAIN-SUFFIX,auroraoss.com
+## BiliPlus
+DOMAIN-SUFFIX,biliplus.com
+## CataBoom
+DOMAIN-SUFFIX,cataboom.com
+## Consent Management Platforms / Cookie service
+DOMAIN-SUFFIX,consentpro.com
+DOMAIN-SUFFIX,cookiepro.com
+DOMAIN-SUFFIX,cookielaw.org
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,osano.com
+DOMAIN-SUFFIX,usercentrics.eu
+## Greasy Fork
+DOMAIN-SUFFIX,greasyfork.org
+## Online LaTeX Editor
 DOMAIN-SUFFIX,cloudlatex.io
 DOMAIN-SUFFIX,overleaf.com
-
-# Translator & Dictionary
+## Translator & Dictionary
 #include:linguee
 DOMAIN-SUFFIX,linguee.com
 DOMAIN-SUFFIX,deepl.com
 #end include:linguee
-
 DOMAIN-SUFFIX,collinsdictionary.com
 DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,immersivetranslate.com    #沉浸式翻译 (国际版)
-
-# Aurora Open Source Software (https://gitlab.com/AuroraOSS)
-DOMAIN-SUFFIX,auroraoss.com
-
-# CookiePro, provides cookies and tracking
-DOMAIN-SUFFIX,cookiepro.com
-DOMAIN-SUFFIX,cookielaw.org
-DOMAIN-SUFFIX,onetrust.com
+## OriginLab (Graphing for Science and Engineering)
+DOMAIN-SUFFIX,originlab.com
 
 # Software development
 
@@ -13372,9 +13374,6 @@ DOMAIN-SUFFIX,rarbgway.org
 #end include:rarbg
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,rutor.info
-
-# User scripts
-DOMAIN-SUFFIX,greasyfork.org
 
 # VPN services
 
