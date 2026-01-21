@@ -26,68 +26,6 @@ DOMAIN-SUFFIX,bestvcdn.com.cn
 DOMAIN-SUFFIX,bestvcdn.net
 DOMAIN-SUFFIX,smgbb.cn
 #end include:bestv
-#include:bilibili
-DOMAIN-SUFFIX,bilicdn1.com
-DOMAIN-SUFFIX,bilicdn2.com
-DOMAIN-SUFFIX,bilicdn3.com
-DOMAIN-SUFFIX,bilicdn4.com
-DOMAIN-SUFFIX,bilicdn5.com
-DOMAIN-SUFFIX,biliimg.com
-DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,bilivideo.com
-DOMAIN-SUFFIX,bilivideo.net
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,hdslb.org
-
-DOMAIN-SUFFIX,maoercdn.com
-DOMAIN-SUFFIX,mincdn.com
-
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-#end include:bilibili-cdn
-DOMAIN-SUFFIX,bilibiligame.cn
-DOMAIN-SUFFIX,bilibiligame.co
-DOMAIN-SUFFIX,bilibiligame.net
-DOMAIN-SUFFIX,biligame.co
-DOMAIN-SUFFIX,biligame.com
-DOMAIN-SUFFIX,biligame.net
-#end include:bilibili-game
-
-
-# 哔哩哔哩漫画
-DOMAIN-SUFFIX,bilicomic.com
-DOMAIN-SUFFIX,bilicomics.com
-
-DOMAIN,manga.bilibili.com
-
-
-DOMAIN-SUFFIX,acg.tv
-DOMAIN-SUFFIX,acgvideo.com
-DOMAIN-SUFFIX,animetamashi.cn
-DOMAIN-SUFFIX,animetamashi.com
-DOMAIN-SUFFIX,anitama.cn
-DOMAIN-SUFFIX,anitama.net
-DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,bigfun.cn
-DOMAIN-SUFFIX,bigfunapp.cn
-DOMAIN-SUFFIX,bili22.cn
-DOMAIN-SUFFIX,bili2233.cn
-DOMAIN-SUFFIX,bili23.cn
-DOMAIN-SUFFIX,bili33.cn
-DOMAIN-SUFFIX,biliapi.com
-DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.cc
-DOMAIN-SUFFIX,bilibili.cn
-DOMAIN-SUFFIX,bilibili.com
-DOMAIN-SUFFIX,bilibili.net
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,bilibilipay.cn
-DOMAIN-SUFFIX,bilibilipay.com
-DOMAIN-SUFFIX,biligo.com
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN-SUFFIX,dreamcast.hk
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,yo9.com
-#end include:bilibili
 #include:ciweimao
 DOMAIN-SUFFIX,ciweimao.com
 DOMAIN-SUFFIX,hbooker.com
@@ -228,32 +166,6 @@ DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,msstatic.com
 #end include:huya
-#include:iqiyi
-DOMAIN-SUFFIX,71.am
-DOMAIN-SUFFIX,iq.com
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,pps.tv
-DOMAIN-SUFFIX,ppsimg.com
-DOMAIN-SUFFIX,qiyi.com
-DOMAIN-SUFFIX,qiyipic.com
-DOMAIN-SUFFIX,qy.net
-
-# CDN used by iqiyi
-DOMAIN-SUFFIX,71edge.com
-
-DOMAIN-SUFFIX,ad.m.iqiyi.com
-DOMAIN-SUFFIX,afp.iqiyi.com
-DOMAIN-SUFFIX,c.uaa.iqiyi.com
-DOMAIN-SUFFIX,cloudpush.iqiyi.com
-DOMAIN-SUFFIX,cupid.iqiyi.com
-DOMAIN-SUFFIX,ifacelog.iqiyi.com
-DOMAIN-SUFFIX,mbdlog.iqiyi.com
-DOMAIN-SUFFIX,msg.video.qiyi.com
-DOMAIN-SUFFIX,msg2.video.qiyi.com
-DOMAIN-SUFFIX,policy.video.iqiyi.com
-#end include:iqiyi-ads
-#end include:iqiyi
 #include:ku6
 DOMAIN-SUFFIX,ku6.com
 DOMAIN-SUFFIX,ku6cdn.com

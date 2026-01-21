@@ -116,6 +116,10 @@ DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,huggingface.co
 #end include:huggingface
+#include:liveperson
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
+#end include:liveperson
 #include:openai
 # Main domain
 DOMAIN-SUFFIX,chatgpt.com
@@ -159,6 +163,12 @@ DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
 DOMAIN-SUFFIX,x.ai
 #end include:xai
+#include:youmind
+# Youmind
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site
+#end include:youmind
 
 # CodeRabbit
 DOMAIN-SUFFIX,coderabbit.ai

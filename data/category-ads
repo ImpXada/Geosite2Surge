@@ -469,9 +469,6 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmenthub.com
 DOMAIN-SUFFIX,segmentify.com
 #end include:segment-ads
-#include:sensorsdata-ads
-DOMAIN-SUFFIX,static.sensorsdata.cn
-#end include:sensorsdata-ads
 #include:sina-ads
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,ad.us.sinaimg.cn
@@ -824,6 +821,9 @@ DOMAIN-SUFFIX,reachmax.cn
 
 # 热云数据
 DOMAIN-SUFFIX,reyun.com
+
+# 神策数据
+DOMAIN-SUFFIX,static.sensorsdata.cn
 
 # 诸葛io
 DOMAIN-SUFFIX,zhugeapi.com

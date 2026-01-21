@@ -100,6 +100,7 @@ DOMAIN-SUFFIX,hwshu.com    #瀚文民国书库
 DOMAIN-SUFFIX,hytung.cn    #瀚堂典藏古籍
 DOMAIN-SUFFIX,incopat.com    #incoPat 专利数据库
 DOMAIN-SUFFIX,lawyee.org    #北大法意网 中国法律资料库
+DOMAIN-SUFFIX,libvideo.com    #知识视界 武汉缘来文化
 DOMAIN-SUFFIX,neohytung.com    #瀚堂近代报刊
 DOMAIN-SUFFIX,nmrdata.com    #微谱数据
 DOMAIN-SUFFIX,nssd.cn    #国家哲学社会科学学术期刊数据库
@@ -115,5 +116,3 @@ DOMAIN-SUFFIX,unihan.com.cn    #书同文
 DOMAIN-SUFFIX,wenxin-ge.com    #文心阁古籍全文数据库
 DOMAIN-SUFFIX,wind.com.cn    #Wind 资讯金融
 DOMAIN-SUFFIX,yiigle.com    #中华医学期刊全文数据库
-
-DOMAIN,www.libvideo.com    #武汉缘来文化-知识视界

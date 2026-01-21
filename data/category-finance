@@ -321,6 +321,12 @@ DOMAIN-SUFFIX,schwab.com.sg
 DOMAIN-SUFFIX,schwabassetmanagement.com
 DOMAIN-SUFFIX,schwabplan.com
 #end include:schwab
+#include:standardchartered
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,standardchartered.com
+DOMAIN,standchartbank.sc.omtrdc.net
+DOMAIN,standchartbank.tt.omtrdc.net
+#end include:standardchartered
 #include:wise
 DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX,wise.com

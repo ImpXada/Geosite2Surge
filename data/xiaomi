@@ -1,3 +1,4 @@
+#include:xiaomi-ads
 DOMAIN-SUFFIX,a.market.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.mi.com
@@ -20,10 +21,18 @@ DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
 #end include:xiaomi-ads
+#include:xiaomi-ai
 DOMAIN-SUFFIX,miaibox.com
 DOMAIN-SUFFIX,xiaoaiassist.com
 DOMAIN-SUFFIX,xiaomimimo.com
 #end include:xiaomi-ai
+#include:xiaomi-iot
+# Xiaomi IoT Services
+DOMAIN-SUFFIX,account.xiaomi.com
+DOMAIN-SUFFIX,cn-ha.mqtt.io.mi.com
+DOMAIN-SUFFIX,ha.api.io.mi.com
+DOMAIN-SUFFIX,miot-spec.org
+#end include:xiaomi-iot
 
 DOMAIN-SUFFIX,mgslb.com
 DOMAIN-SUFFIX,mi-idc.com

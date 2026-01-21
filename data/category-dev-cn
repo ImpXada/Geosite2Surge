@@ -44,25 +44,6 @@ DOMAIN-SUFFIX,kaifayun.com
 DOMAIN-SUFFIX,programmer.com.cn
 DOMAIN-SUFFIX,programmer.net.cn
 #end include:csdn
-#include:deepin
-DOMAIN-SUFFIX,deepin.cn
-DOMAIN-SUFFIX,deepin.com
-DOMAIN-SUFFIX,deepin.io
-DOMAIN-SUFFIX,deepin.org
-DOMAIN-SUFFIX,deepin.org.cn
-DOMAIN-SUFFIX,sndu.cn
-
-# 统信
-DOMAIN-SUFFIX,51changxie.com
-DOMAIN-SUFFIX,51jianxie.cn
-DOMAIN-SUFFIX,91changxie.com
-DOMAIN-SUFFIX,changxie.com
-DOMAIN-SUFFIX,chinauos.com
-DOMAIN-SUFFIX,linglong.space
-DOMAIN-SUFFIX,linyaps.org.cn
-DOMAIN-SUFFIX,uniontech.cn
-DOMAIN-SUFFIX,uniontech.com
-#end include:deepin
 #include:gitee
 DOMAIN-SUFFIX,gitee.com
 DOMAIN-SUFFIX,gitee.io
@@ -94,8 +75,8 @@ DOMAIN-SUFFIX,hisilicon.com.cn
 DOMAIN-SUFFIX,huaweiapaas.com
 DOMAIN-SUFFIX,mindspore.cn
 DOMAIN-SUFFIX,owsgo.com
-DOMAIN-SUFFIX,teleows.com
 DOMAIN-SUFFIX,saasops.tech
+DOMAIN-SUFFIX,teleows.com
 #end include:huawei-dev
 #include:juejin
 DOMAIN-SUFFIX,juejin.cn

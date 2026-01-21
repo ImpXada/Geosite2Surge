@@ -212,8 +212,6 @@ DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN-SUFFIX,thepoizon.ru
-DOMAIN-SUFFIX,c.mi.com
-DOMAIN-SUFFIX,global.market.xiaomi.com
 DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,chinaunicom.com.hk
 DOMAIN-SUFFIX,chinaunicomglobal.com
@@ -290,6 +288,8 @@ DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.qq.com
+DOMAIN-SUFFIX,c.mi.com
+DOMAIN-SUFFIX,global.market.xiaomi.com
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
 DOMAIN-SUFFIX,alihealth.hk
 DOMAIN-SUFFIX,ae-rus.net
