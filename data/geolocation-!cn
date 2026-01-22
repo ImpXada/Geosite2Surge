@@ -3091,6 +3091,8 @@ DOMAIN-SUFFIX,zotero.org
 #end include:zotero
 
 DOMAIN-SUFFIX,chemequations.com    #线上化学方程式！
+DOMAIN-SUFFIX,geogebra.org
+DOMAIN-SUFFIX,wolframalpha.com
 
 # Entertainment & Games & Music & Podcasts & Videos
 #include:category-entertainment
@@ -12495,6 +12497,7 @@ DOMAIN-SUFFIX,wmflabs.org
 
 DOMAIN-SUFFIX,atwiki.jp
 DOMAIN-SUFFIX,touhouwiki.net
+DOMAIN-SUFFIX,wiki.gg
 
 # Others
 #include:avaxhome

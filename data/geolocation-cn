@@ -1763,6 +1763,12 @@ DOMAIN-SUFFIX,tower0788.cn
 # 在线工具
 ## IPIP ip地理位置数据库
 
+## 白描
+DOMAIN-SUFFIX,baimiao.tech
+DOMAIN-SUFFIX,baimiaoapp.com
+DOMAIN-SUFFIX,shinescan.tech
+DOMAIN-SUFFIX,uzero.cn
+
 DOMAIN-SUFFIX,chaziyu.com    #滇ICP备2024035496号
 DOMAIN-SUFFIX,fofa.info    #Fofa网站测绘（华顺信安）
 DOMAIN-SUFFIX,icplishi.com    #粤ICP备20009057号
