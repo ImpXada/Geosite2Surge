@@ -490,6 +490,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | embl | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/embl |
 | emogi-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/emogi-ads |
 | emojipedia | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/emojipedia |
+| eneba | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/eneba |
 | enfa | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/enfa |
 | entermediadb | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/entermediadb |
 | entrust | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/entrust |

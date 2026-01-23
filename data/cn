@@ -712,6 +712,9 @@ DOMAIN-SUFFIX,yctdyy.com
 
 # 南方医科大学深圳医院
 DOMAIN-SUFFIX,smuszh.com
+
+# 四川大学华西医院
+DOMAIN-SUFFIX,cd120.com
 #end include:category-hospital-cn
 ## 安徽药品人才网
 DOMAIN-SUFFIX,ahfda.com

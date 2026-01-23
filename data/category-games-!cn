@@ -301,6 +301,10 @@ DOMAIN-SUFFIX,embark-studios.com
 DOMAIN-SUFFIX,embark.games
 DOMAIN-SUFFIX,reachthefinals.com
 #end include:embark
+#include:eneba
+DOMAIN-SUFFIX,eneba.com
+DOMAIN-SUFFIX,eneba.games
+#end include:eneba
 #include:epicgames
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
