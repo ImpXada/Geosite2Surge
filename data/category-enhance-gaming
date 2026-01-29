@@ -14,6 +14,9 @@ DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network
 #end include:trackernetwork
 
+# Anti-Cheat
+DOMAIN-SUFFIX,battleye.com
+
 # Android Emulator
 DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,ldmnq.com
@@ -28,5 +31,5 @@ DOMAIN-SUFFIX,prts.plus
 DOMAIN-SUFFIX,heavenlywind.cc
 DOMAIN-SUFFIX,poi.moe
 
-
+# Steam++ / Watt Toolkit
 DOMAIN-SUFFIX,steampp.net
