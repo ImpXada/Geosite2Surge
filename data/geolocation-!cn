@@ -207,9 +207,6 @@ DOMAIN-SUFFIX,openrouter.ai
 
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,pubmatic.co.jp
-
-DOMAIN-SUFFIX,ads.pubmatic.com
-#end include:pubmatic-ads
 #end include:pubmatic
 #include:taboola
 # Taboola uses this single domain for both official website and ads serving.

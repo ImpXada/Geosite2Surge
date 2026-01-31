@@ -3,12 +3,6 @@
 #include:acfun-ads
 DOMAIN,apilog-web.acfun.cn
 #end include:acfun-ads
-#include:adjust-ads
-DOMAIN-SUFFIX,adjust.com
-DOMAIN-SUFFIX,adjust.net.in
-DOMAIN-SUFFIX,adjust.io
-DOMAIN-SUFFIX,adjust.world
-#end include:adjust-ads
 #include:adobe-ads
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
@@ -210,11 +204,6 @@ DOMAIN-SUFFIX,sabavision.com
 DOMAIN-SUFFIX,tapsell.ir
 DOMAIN-SUFFIX,yektanet.com
 #end include:category-ads-ir
-#include:clearbit-ads
-DOMAIN-SUFFIX,clearbit.com
-DOMAIN-SUFFIX,clearbitjs.com
-DOMAIN-SUFFIX,clearbitscripts.com
-#end include:clearbit-ads
 #include:dmm-ads
 # Refer: https://tonahazana.com/kancolle-2nd-weight-saving
 # If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
@@ -389,24 +378,9 @@ DOMAIN-SUFFIX,iadmusicmat.music.126.net
 DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
 DOMAIN-SUFFIX,sentry.music.163.com
 #end include:netease-ads
-#include:ogury-ads
-DOMAIN-SUFFIX,ogury.com
-DOMAIN-SUFFIX,presage.io
-DOMAIN-SUFFIX,ogury.co
-#end include:ogury-ads
 #include:ookla-speedtest-ads
 DOMAIN-WILDCARD,speed..ad.*.prod.hosts.ooklaserver.net
 #end include:ookla-speedtest-ads
-#include:openx-ads
-DOMAIN-SUFFIX,openx.net
-DOMAIN-SUFFIX,openxadexchange.com
-DOMAIN-SUFFIX,openxcdn.net
-DOMAIN-SUFFIX,openxenterprise.com
-DOMAIN-SUFFIX,openxmarket.asia
-#end include:openx-ads
-#include:pubmatic-ads
-DOMAIN-SUFFIX,ads.pubmatic.com
-#end include:pubmatic-ads
 #include:qihoo360-ads
 DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,fenxi.360.cn
@@ -419,12 +393,6 @@ DOMAIN-SUFFIX,s.360.cn
 DOMAIN-SUFFIX,s.so.360.cn
 DOMAIN-SUFFIX,s.union.360.cn
 #end include:qihoo360-ads
-#include:segment-ads
-DOMAIN-SUFFIX,segment.com
-DOMAIN-SUFFIX,segment.io
-DOMAIN-SUFFIX,segmenthub.com
-DOMAIN-SUFFIX,segmentify.com
-#end include:segment-ads
 #include:sina-ads
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,ad.us.sinaimg.cn
@@ -482,12 +450,6 @@ DOMAIN,adeventtracker.spotify.com
 DOMAIN,adstudio-assets.scdn.co
 DOMAIN,bloodhound.spotify.com
 #end include:spotify-ads
-#include:supersonic-ads
-DOMAIN-SUFFIX,supersonic.com
-DOMAIN-SUFFIX,supersonicads.com
-DOMAIN-SUFFIX,ssacdn.com
-DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
-#end include:supersonic-ads
 #include:television-ads
 DOMAIN-SUFFIX,ad.hpplay.cn
 DOMAIN-SUFFIX,adc.hpplay.cn
@@ -591,14 +553,6 @@ DOMAIN-SUFFIX,utoken.umeng.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
 #end include:umeng-ads
-#include:unity-ads
-DOMAIN-SUFFIX,ads.unitychina.cn
-DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
-DOMAIN-SUFFIX,splash-ads.unitychina.cn
-DOMAIN-SUFFIX,unityads.unity.cn
-DOMAIN-SUFFIX,unityads.unity3d.com
-DOMAIN-SUFFIX,unityads.unitychina.cn
-#end include:unity-ads
 #include:xhamster-ads
 DOMAIN-SUFFIX,collector.xhamster.com
 #end include:xhamster-ads

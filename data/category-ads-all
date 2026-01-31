@@ -1,5 +1,47 @@
 # This file contains domains of all ads providers, including both the domains that serves ads, and the domains of providers themselves.
 
+#include:adjust
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,adjust.net.in
+DOMAIN-SUFFIX,adjust.world
+#end include:adjust
+#include:clearbit
+DOMAIN-SUFFIX,clearbit.com
+DOMAIN-SUFFIX,clearbitjs.com
+DOMAIN-SUFFIX,clearbitscripts.com
+#end include:clearbit
+#include:ogury
+DOMAIN-SUFFIX,ogury.co
+DOMAIN-SUFFIX,ogury.com
+DOMAIN-SUFFIX,presage.io
+#end include:ogury
+#include:openx
+DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,openxadexchange.com
+DOMAIN-SUFFIX,openxcdn.net
+DOMAIN-SUFFIX,openxenterprise.com
+DOMAIN-SUFFIX,openxmarket.asia
+#end include:openx
+#include:pubmatic
+# Programmatic Digital Advertising Technology & Solutions | PubMatic
+
+DOMAIN-SUFFIX,pubmatic.com
+DOMAIN-SUFFIX,pubmatic.co.jp
+#end include:pubmatic
+#include:segment
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,segmenthub.com
+DOMAIN-SUFFIX,segmentify.com
+#end include:segment
+#include:supersonic
+DOMAIN-SUFFIX,ssacdn.com
+DOMAIN-SUFFIX,supersonic.com
+DOMAIN-SUFFIX,supersonicads.com
+
+DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
+#end include:supersonic
 #include:taboola
 # Taboola uses this single domain for both official website and ads serving.
 # Blocking the following domain will prevent taboola ads from displaying,
@@ -25,7 +67,6 @@ DOMAIN-SUFFIX,lijit.com
 DOMAIN-SUFFIX,mfadsrvr.com
 DOMAIN-SUFFIX,mgid.com
 DOMAIN-SUFFIX,ns1p.net
-DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,sigmob.com
 DOMAIN-SUFFIX,spotxchange.com
 DOMAIN-SUFFIX,unimhk.com
