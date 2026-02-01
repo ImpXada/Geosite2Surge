@@ -817,6 +817,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | logitech | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/logitech |
 | londonreal | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/londonreal |
 | longbridge | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/longbridge |
+| louisvuitton | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/louisvuitton |
 | lowiro | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lowiro |
 | ltn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ltn |
 | lumion | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lumion |

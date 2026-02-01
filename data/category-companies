@@ -4550,6 +4550,13 @@ DOMAIN-SUFFIX,logitechg.fr
 DOMAIN-SUFFIX,logitechio.com.cn
 DOMAIN-SUFFIX,worldsfastestgamer.net
 #end include:logitech
+#include:louisvuitton
+DOMAIN-SUFFIX,louisvuitton.cn
+DOMAIN-SUFFIX,louisvuitton.com
+DOMAIN-SUFFIX,lvcampaign.com
+
+DOMAIN,tp.louisvuitton.com
+#end include:louisvuitton
 #include:mailru-group
 #include:dzen
 DOMAIN-SUFFIX,dzen.ru
