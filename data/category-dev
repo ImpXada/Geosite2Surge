@@ -502,6 +502,7 @@ DOMAIN,default.exp-tas.com
 DOMAIN,developer.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
+DOMAIN,packages.microsoft.com
 DOMAIN,poshtestgallery.cloudapp.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net

@@ -627,6 +627,7 @@ DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 #end include:playstation
 #include:projectsekai
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
+DOMAIN-SUFFIX,pjsekai.sega.jp
 #end include:projectsekai
 #include:pubg
 DOMAIN-SUFFIX,kraftonde.com
