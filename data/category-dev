@@ -288,6 +288,9 @@ DOMAIN-SUFFIX,gitbook.io
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
 #end include:github-ads
+#include:github-copilot
+DOMAIN-SUFFIX,githubcopilot.com
+#end include:github-copilot
 #include:npmjs
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
@@ -307,7 +310,6 @@ DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,githubapp.com
 DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,githubhackathon.com
 DOMAIN-SUFFIX,githubnext.com
 DOMAIN-SUFFIX,githubpreview.dev

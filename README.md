@@ -574,6 +574,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | gitee | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/gitee |
 | github | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/github |
 | github-ads | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/github-ads |
+| github-copilot | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/github-copilot |
 | github1s | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/github1s |
 | gitlab | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/gitlab |
 | gitv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/gitv |

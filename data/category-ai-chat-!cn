@@ -52,6 +52,9 @@ DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
 #end include:elevenlabs
+#include:github-copilot
+DOMAIN-SUFFIX,githubcopilot.com
+#end include:github-copilot
 #include:google-deepmind
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com

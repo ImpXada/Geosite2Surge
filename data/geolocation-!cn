@@ -53,6 +53,9 @@ DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
 #end include:elevenlabs
+#include:github-copilot
+DOMAIN-SUFFIX,githubcopilot.com
+#end include:github-copilot
 #include:google-deepmind
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com
@@ -12359,6 +12362,8 @@ DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,immersivetranslate.com    #沉浸式翻译 (国际版)
 ## OriginLab (Graphing for Science and Engineering)
 DOMAIN-SUFFIX,originlab.com
+## OsmAnd
+DOMAIN-SUFFIX,osmand.net
 
 # Software development
 
