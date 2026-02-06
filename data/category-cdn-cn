@@ -91,12 +91,14 @@ DOMAIN-SUFFIX,wswebcdn.com
 DOMAIN-SUFFIX,wswebpic.com
 #end include:wangsu
 
-## 创世云
+# 创世云
 DOMAIN-SUFFIX,chuangcache.com
 DOMAIN-SUFFIX,chuangcdn.com
-## FUNCDN
+# 大风云CDN
+DOMAIN-SUFFIX,dfyun.com.cn
+# FUNCDN
 DOMAIN-SUFFIX,funcdn.com
-## 北京知道创宇信息技术股份有限公司
+# 北京知道创宇信息技术股份有限公司
 DOMAIN-SUFFIX,jiashule.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,yunaq.com

@@ -11,6 +11,15 @@ DOMAIN-SUFFIX,clearbit.com
 DOMAIN-SUFFIX,clearbitjs.com
 DOMAIN-SUFFIX,clearbitscripts.com
 #end include:clearbit
+#include:growingio
+# 北京易数科技
+DOMAIN-SUFFIX,datayi.cn
+DOMAIN-SUFFIX,gio.ren
+DOMAIN-SUFFIX,giocdn.com
+DOMAIN-SUFFIX,growin.cn
+DOMAIN-SUFFIX,growingio.cn
+DOMAIN-SUFFIX,growingio.com
+#end include:growingio
 #include:ogury
 DOMAIN-SUFFIX,ogury.co
 DOMAIN-SUFFIX,ogury.com

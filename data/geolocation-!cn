@@ -3855,6 +3855,13 @@ DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
 #end include:primevideo
+#include:radiko
+# radiko official access and streaming domains
+
+DOMAIN-SUFFIX,radiko-cf.com
+DOMAIN-SUFFIX,radiko.jp
+DOMAIN-SUFFIX,smartstream.ne.jp
+#end include:radiko
 #include:roku
 DOMAIN-SUFFIX,fandango.com
 DOMAIN-SUFFIX,mgo.com

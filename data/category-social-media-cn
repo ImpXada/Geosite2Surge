@@ -69,6 +69,9 @@ DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,dandan818.com
 DOMAIN-SUFFIX,dandanvoice.com
 
+# 饭否
+DOMAIN-SUFFIX,fanfou.com
+
 # 脉脉
 DOMAIN-SUFFIX,maimai.cn
 DOMAIN-SUFFIX,taou.com

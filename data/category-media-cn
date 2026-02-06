@@ -283,6 +283,8 @@ DOMAIN-SUFFIX,freebuf.com
 DOMAIN-SUFFIX,geekpark.net
 # 光明网
 DOMAIN-SUFFIX,gmw.com
+# 硅谷网
+DOMAIN-SUFFIX,guigu.org
 # 和讯
 DOMAIN-SUFFIX,hexun.com
 # 河南广播电视台/大象网
@@ -339,6 +341,9 @@ DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xinhuaxmt.com
 # 维科网
 DOMAIN-SUFFIX,ofweek.com
+# PChome电脑之家
+DOMAIN-SUFFIX,pchome.net
+DOMAIN-SUFFIX,pchpic.net
 # PConline 太平洋科技
 DOMAIN-SUFFIX,3conline.com
 DOMAIN-SUFFIX,pconline.com.cn
