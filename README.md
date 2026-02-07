@@ -833,6 +833,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | manhuagui | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/manhuagui |
 | manorama | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/manorama |
 | manoto | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/manoto |
+| manus | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/manus |
 | maocloud | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/maocloud |
 | mapbox | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mapbox |
 | marvel | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/marvel |

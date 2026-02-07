@@ -123,6 +123,10 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
 #end include:liveperson
+#include:manus
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
+#end include:manus
 #include:openai
 # Main domain
 DOMAIN-SUFFIX,chat.com

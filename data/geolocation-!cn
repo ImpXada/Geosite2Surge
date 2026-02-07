@@ -127,6 +127,10 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net
 #end include:liveperson
+#include:manus
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
+#end include:manus
 #include:openai
 # Main domain
 DOMAIN-SUFFIX,chat.com
@@ -12265,6 +12269,7 @@ DOMAIN-SUFFIX,err.sh
 DOMAIN-SUFFIX,hyper.is
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,now.sh
+DOMAIN-SUFFIX,skills.sh
 DOMAIN-SUFFIX,static.fun
 DOMAIN-SUFFIX,title.sh
 DOMAIN-SUFFIX,turborepo.org
