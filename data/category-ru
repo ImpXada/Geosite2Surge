@@ -214,6 +214,11 @@ DOMAIN-SUFFIX,lenta.tech
 #end include:category-retail-ru
 
 # Public transportation
+#include:aviasales
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,aviasales.com
+#end include:aviasales
 #include:mosmetro
 DOMAIN-SUFFIX,mosmetro.ru
 DOMAIN-SUFFIX,mosmetro.tech
@@ -376,6 +381,9 @@ DOMAIN-SUFFIX,yastatic.net
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+
+# Weather service
+DOMAIN,yandex-pogoda.static-storage.net
 #end include:yandex
 
 # Dodo Pizza

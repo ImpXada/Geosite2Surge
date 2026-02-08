@@ -60,3 +60,6 @@ DOMAIN-SUFFIX,yastatic.net
 # Watching movies, included in the Yandex subscription
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+
+# Weather service
+DOMAIN,yandex-pogoda.static-storage.net
