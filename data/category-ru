@@ -16,41 +16,6 @@ DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
 
-#include:category-ecommerce-ru
-#include:ozon
-DOMAIN-SUFFIX,ozon.ru
-DOMAIN-SUFFIX,ozone.ru
-DOMAIN-SUFFIX,ozonusercontent.com
-#end include:ozon
-#include:wildberries
-DOMAIN-SUFFIX,geobasket.ru
-DOMAIN-SUFFIX,paywb.com
-DOMAIN-SUFFIX,rwb.ru
-DOMAIN-SUFFIX,wb-basket.ru
-DOMAIN-SUFFIX,wb.ru
-DOMAIN-SUFFIX,wbbasket.ru
-DOMAIN-SUFFIX,wbpay.ru
-DOMAIN-SUFFIX,wibes.ru
-DOMAIN-SUFFIX,wildberries.ru
-#end include:wildberries
-#end include:category-ecommerce-ru
-#include:category-entertainment-ru
-#include:okko
-DOMAIN-SUFFIX,playfamily.ru
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
-#end include:okko
-#include:rutube
-DOMAIN-SUFFIX,rutube.ru
-DOMAIN-SUFFIX,rutubelist.ru
-DOMAIN-SUFFIX,rtbcdn.ru
-#end include:rutube
-#include:wink
-DOMAIN-SUFFIX,ngenix.net
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,wink.ru
-#end include:wink
-#end include:category-entertainment-ru
 #include:category-gov-ru
 # Federal Gov.
 DOMAIN-SUFFIX,government.ru
@@ -228,64 +193,6 @@ DOMAIN-SUFFIX,mosmetro.tech
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 #end include:avito
-#include:mailru-group
-#include:dzen
-DOMAIN-SUFFIX,dzen.ru
-DOMAIN-SUFFIX,dzeninfra.ru
-#end include:dzen
-#include:mailru
-DOMAIN-SUFFIX,imgsmail.ru
-DOMAIN-SUFFIX,mail.ru
-#end include:mailru
-#include:ok
-DOMAIN-SUFFIX,ok.ru
-DOMAIN-SUFFIX,okcdn.ru
-DOMAIN-SUFFIX,mycdn.me
-#end include:ok
-#include:vk
-DOMAIN-SUFFIX,cdn-vk.ru
-DOMAIN-SUFFIX,mradx.net
-DOMAIN-SUFFIX,mvk.com
-DOMAIN-SUFFIX,userapi.com
-DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,vk-apps.com
-DOMAIN-SUFFIX,vk-apps.ru
-DOMAIN-SUFFIX,vk-cdn.me
-DOMAIN-SUFFIX,vk-cdn.net
-DOMAIN-SUFFIX,vkcloud-static.ru
-DOMAIN-SUFFIX,vk-portal.net
-DOMAIN-SUFFIX,vk.cc
-DOMAIN-SUFFIX,vk.com
-DOMAIN-SUFFIX,vk.company
-DOMAIN-SUFFIX,vk.design
-DOMAIN-SUFFIX,vk.link
-DOMAIN-SUFFIX,vk.me
-DOMAIN-SUFFIX,vk.ru
-DOMAIN-SUFFIX,vk.team
-DOMAIN-SUFFIX,vkcache.com
-DOMAIN-SUFFIX,vkgo.app
-DOMAIN-SUFFIX,vklive.app
-DOMAIN-SUFFIX,vkmessenger.app
-DOMAIN-SUFFIX,vkmessenger.com
-DOMAIN-SUFFIX,vkontakte.ru
-DOMAIN-SUFFIX,vkuser.net
-DOMAIN-SUFFIX,vkuseraudio.com
-DOMAIN-SUFFIX,vkuseraudio.net
-DOMAIN-SUFFIX,vkuseraudio.ru
-DOMAIN-SUFFIX,vkusercdn.ru
-DOMAIN-SUFFIX,vkuserlive.net
-DOMAIN-SUFFIX,vkuserphoto.ru
-DOMAIN-SUFFIX,vkuservideo.com
-DOMAIN-SUFFIX,vkuservideo.net
-DOMAIN-SUFFIX,vkuservideo.ru
-DOMAIN-SUFFIX,vkvideo.ru
-#end include:vk
-
-DOMAIN-SUFFIX,boosty.to
-DOMAIN-SUFFIX,donationalerts.com
-DOMAIN-SUFFIX,memealerts.com
-DOMAIN-SUFFIX,tamtam.chat
-#end include:mailru-group
 #include:x5
 DOMAIN-SUFFIX,5ka.ru
 DOMAIN-SUFFIX,5post.market

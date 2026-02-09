@@ -1,9 +1,3 @@
-#include:2kgames
-DOMAIN-SUFFIX,2k.com
-DOMAIN-SUFFIX,2kcoretech.online
-DOMAIN-SUFFIX,2kgames.com
-DOMAIN-SUFFIX,take2games.com
-#end include:2kgames
 #include:blizzard
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgearstore.com
@@ -74,238 +68,6 @@ DOMAIN-SUFFIX,worldflipper.jp
 DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,umamusume.akamaized.net
 #end include:cygames
-#include:ea
-#include:origin
-DOMAIN-SUFFIX,dawngate.com
-DOMAIN-SUFFIX,eastore.com
-DOMAIN-SUFFIX,lordofultima.com
-DOMAIN-SUFFIX,origin.com
-DOMAIN-SUFFIX,origin.tv
-
-DOMAIN,cloudsync-prod.s3.amazonaws.com
-DOMAIN,origin-a.akamaihd.net
-DOMAIN,rtm.tnt-ea.com
-DOMAIN,ssl-lvlt.cdn.ea.com
-#end include:origin
-
-DOMAIN-SUFFIX,awayoutgame.com
-DOMAIN-SUFFIX,battlefieldbadcompany2.com
-DOMAIN-SUFFIX,battlefront2.com
-DOMAIN-SUFFIX,battlefrontii.com
-DOMAIN-SUFFIX,bejewled-stars.com
-DOMAIN-SUFFIX,bejeweledstars.com
-DOMAIN-SUFFIX,capitalgames.com
-DOMAIN-SUFFIX,chillingo.com
-DOMAIN-SUFFIX,commandandconquer.com
-DOMAIN-SUFFIX,conquerwithcharacter.com
-DOMAIN-SUFFIX,crysis.jp
-DOMAIN-SUFFIX,dawngate.com
-DOMAIN-SUFFIX,dawngatechronicles.com
-DOMAIN-SUFFIX,dicela.com
-DOMAIN-SUFFIX,dicela.net
-DOMAIN-SUFFIX,ea-anz-press.com
-DOMAIN-SUFFIX,ea.com
-DOMAIN-SUFFIX,eaaccess.com
-DOMAIN-SUFFIX,eacashcard.com
-DOMAIN-SUFFIX,eacodigos.com
-DOMAIN-SUFFIX,eakorea.co.kr
-DOMAIN-SUFFIX,eamobile.com
-DOMAIN-SUFFIX,eanordic.com
-DOMAIN-SUFFIX,eaplay.com
-DOMAIN-SUFFIX,easports.com
-DOMAIN-SUFFIX,easports.jp
-DOMAIN-SUFFIX,easportsactive.com
-DOMAIN-SUFFIX,easportsactiveonline.com
-DOMAIN-SUFFIX,easportsfootball.com
-DOMAIN-SUFFIX,easportsfootballclub.com
-DOMAIN-SUFFIX,easportsmma.com
-DOMAIN-SUFFIX,easportsworld.com
-DOMAIN-SUFFIX,electronicarts.com
-DOMAIN-SUFFIX,electronicarts.fr
-DOMAIN-SUFFIX,futpromos.com
-DOMAIN-SUFFIX,futunited.com
-DOMAIN-SUFFIX,ghostgames.com
-DOMAIN-SUFFIX,heroesofdragonage.com
-DOMAIN-SUFFIX,hutpromos.com
-DOMAIN-SUFFIX,maddenchampionship.com
-DOMAIN-SUFFIX,maddenrewards.com
-DOMAIN-SUFFIX,maddenseason.info
-DOMAIN-SUFFIX,maddenseason.net
-DOMAIN-SUFFIX,maddenseason.org
-DOMAIN-SUFFIX,maxis.com
-DOMAIN-SUFFIX,mysimsracing.com
-DOMAIN-SUFFIX,play4free.com
-DOMAIN-SUFFIX,playapex.com
-DOMAIN-SUFFIX,pogo.com
-DOMAIN-SUFFIX,pogobeta.com
-DOMAIN-SUFFIX,popcap.com
-DOMAIN-SUFFIX,projectapex.com
-DOMAIN-SUFFIX,pvzheroes.com
-DOMAIN-SUFFIX,spearhead.kr
-DOMAIN-SUFFIX,speedhunters.com
-DOMAIN-SUFFIX,spore.com
-DOMAIN-SUFFIX,ssx3.com
-DOMAIN-SUFFIX,starwarsbattlefront.com
-DOMAIN-SUFFIX,starwarsbattlefront2.com
-DOMAIN-SUFFIX,tiberiumalliances.com
-DOMAIN-SUFFIX,tiburon.com
-DOMAIN-SUFFIX,tnt-ea.com
-DOMAIN-SUFFIX,ultimaforever.com
-DOMAIN-SUFFIX,unravel2.com
-DOMAIN-SUFFIX,unraveltwo.com
-DOMAIN-SUFFIX,visceralgames.com
-DOMAIN-SUFFIX,yogify.com
-
-# Anthem
-DOMAIN-SUFFIX,anthemgame.com
-DOMAIN-SUFFIX,anthemthegame.com
-
-# Apex Legends
-DOMAIN-SUFFIX,apexlegends.com
-DOMAIN-SUFFIX,projectapex.com
-
-# Battle Log / Battlefield
-DOMAIN-SUFFIX,battlefield.com
-DOMAIN-SUFFIX,battlefield1943.com
-DOMAIN-SUFFIX,battlefield3.com
-DOMAIN-SUFFIX,battlefield4.com
-DOMAIN-SUFFIX,battlefield5.com
-DOMAIN-SUFFIX,battlefieldheroes.com
-DOMAIN-SUFFIX,battlefieldv.com
-DOMAIN-SUFFIX,battlelog.com
-
-# Bioware
-DOMAIN-SUFFIX,bioware.com
-DOMAIN-SUFFIX,biowarestore.com
-
-# Broadsword
-DOMAIN-SUFFIX,eamythic.com
-DOMAIN-SUFFIX,eamythic.net
-
-# Command and Conquer
-DOMAIN-SUFFIX,cncrivals.com
-DOMAIN-SUFFIX,commandandconquer.com
-DOMAIN-SUFFIX,tiberiumalliances.com
-
-# Dark Age of Camelot
-DOMAIN-SUFFIX,camelot-europe.com
-DOMAIN-SUFFIX,camelotherald.com
-DOMAIN-SUFFIX,camelotherald.net
-DOMAIN-SUFFIX,daoc.net
-DOMAIN-SUFFIX,darkageofcamelot.com
-DOMAIN-SUFFIX,darkness-risen.com
-
-# Dead Space
-DOMAIN-SUFFIX,deadspacegame.com
-
-# DICE
-DOMAIN-SUFFIX,dice.se
-
-# Dragon Age
-DOMAIN-SUFFIX,dragonage.com
-DOMAIN-SUFFIX,dragonagekeep.com
-DOMAIN-SUFFIX,dragonagemovie.com
-DOMAIN-SUFFIX,thedreadwolfrises.com
-
-# dungeonkeeper
-DOMAIN-SUFFIX,dungeonkeeper.cn
-DOMAIN-SUFFIX,dungeonkeeper.com
-DOMAIN-SUFFIX,dungeonkeeper.com.cn
-
-# FIFA
-DOMAIN-SUFFIX,eafootballworld.com
-DOMAIN-SUFFIX,fifastreet.com
-DOMAIN-SUFFIX,fifastreet3.com
-
-# Frost Bite
-DOMAIN-SUFFIX,frostbite.com
-
-# Industrial Toys
-DOMAIN-SUFFIX,industrialtoys.com
-
-# Mass Effect
-DOMAIN-SUFFIX,masseffect.com
-DOMAIN-SUFFIX,masseffectarchives.com
-
-# Mirror's Edge
-DOMAIN-SUFFIX,eamirrorsedge.com
-DOMAIN-SUFFIX,mirrorsedge.com
-DOMAIN-SUFFIX,mirrorsedge.jp
-DOMAIN-SUFFIX,mirrorsedge.net
-DOMAIN-SUFFIX,mirrorsedge2.com
-DOMAIN-SUFFIX,mirrorsedge2d.com
-
-# Need For Speed
-DOMAIN-SUFFIX,blackboxgames.com
-DOMAIN-SUFFIX,eablackbox.com
-DOMAIN-SUFFIX,needforspeed.com
-DOMAIN-SUFFIX,needforspeedboost.com
-DOMAIN-SUFFIX,needforspeeddriftkings.com
-DOMAIN-SUFFIX,needforspeedeliminator.com
-DOMAIN-SUFFIX,needforspeedlightning.com
-DOMAIN-SUFFIX,needforspeedoverdrive.com
-DOMAIN-SUFFIX,needforspeedproven.com
-DOMAIN-SUFFIX,needforspeedredline.com
-DOMAIN-SUFFIX,needforspeedshowdown.com
-DOMAIN-SUFFIX,needforspeedstreetkings.com
-DOMAIN-SUFFIX,needforspeedtakedown.com
-DOMAIN-SUFFIX,needforspeedtherun.com
-DOMAIN-SUFFIX,needforspeedtimeattack.com
-DOMAIN-SUFFIX,needforspeedundergroundeast.com
-DOMAIN-SUFFIX,nfsworld.com
-DOMAIN-SUFFIX,teamneedforspeed.com
-
-# Plants VS Zombies
-DOMAIN-SUFFIX,plantsvszombies2.com
-DOMAIN-SUFFIX,pvzgw2.com
-DOMAIN-SUFFIX,pvzheroes.com
-
-# Sea of Solitude
-DOMAIN-SUFFIX,seaofsolitude.com
-
-# Simcity
-DOMAIN-SUFFIX,simcity-buildit.com
-DOMAIN-SUFFIX,simcity.com
-
-# Skate
-DOMAIN-SUFFIX,skate2.com
-
-# SPEARHEAD
-DOMAIN-SUFFIX,spearhead.kr
-
-# Star Wars
-DOMAIN-SUFFIX,starwarsfallenorder.com
-DOMAIN-SUFFIX,starwarsjedifallenorder.com
-DOMAIN-SUFFIX,starwarstheoldrepublic.com
-DOMAIN-SUFFIX,swjedifallenorder.com
-DOMAIN-SUFFIX,swjfo.com
-DOMAIN-SUFFIX,swtor.com
-DOMAIN-SUFFIX,swtor.net
-
-# The Sims
-DOMAIN-SUFFIX,mysims.com
-DOMAIN-SUFFIX,thesims.com
-DOMAIN-SUFFIX,thesims3.com
-DOMAIN-SUFFIX,thesims4.com
-DOMAIN-SUFFIX,thesimssocial.com
-
-# Titan Fall
-DOMAIN-SUFFIX,titanfall.com
-
-# Ultima Online
-DOMAIN-SUFFIX,mythicentertainment.com
-DOMAIN-SUFFIX,mythicentertainment.net
-DOMAIN-SUFFIX,mythicgames.com
-DOMAIN-SUFFIX,ultimaonline.com
-DOMAIN-SUFFIX,uo.com
-DOMAIN-SUFFIX,uoherald.com
-
-# XDS
-DOMAIN-SUFFIX,xdsummit.com
-
-DOMAIN,ea.tt.omtrdc.net
-DOMAIN,eaassets-a.akamaihd.net
-#end include:ea
 #include:embark
 DOMAIN-SUFFIX,arcraiders.com
 DOMAIN-SUFFIX,embark-studios.com
@@ -359,6 +121,21 @@ DOMAIN-SUFFIX,escapefromtarkov.com
 DOMAIN-SUFFIX,faceit.com
 DOMAIN-SUFFIX,faceit-cdn.net
 #end include:faceit
+#include:gaijin
+DOMAIN-SUFFIX,acesofthunder.net
+DOMAIN-SUFFIX,activematter.game
+DOMAIN-SUFFIX,artstorm.com
+DOMAIN-SUFFIX,crossout.net
+DOMAIN-SUFFIX,crsed.net
+DOMAIN-SUFFIX,cubicodyssey.game
+DOMAIN-SUFFIX,enlisted.net
+DOMAIN-SUFFIX,gaijin.net
+DOMAIN-SUFFIX,gaijinent.com
+DOMAIN-SUFFIX,modernwarships.com
+DOMAIN-SUFFIX,star-conflict.com
+DOMAIN-SUFFIX,warthunder.com
+DOMAIN-SUFFIX,wtmobile.com
+#end include:gaijin
 #include:garena
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,cdngarenanow-a.akamaihd.net
@@ -765,14 +542,6 @@ DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
 DOMAIN,roblox-poc.global.ssl.fastly.net
 DOMAIN,robloxcorp.s.llnwi.net
 #end include:roblox
-#include:rockstar
-DOMAIN-SUFFIX,rockstargames.com
-DOMAIN-SUFFIX,rsg.sc
-
-DOMAIN,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN,media-rockstargames-com.akamaized.net
-DOMAIN,videos-rockstargames-com.akamaized.net
-#end include:rockstar
 #include:snk
 DOMAIN-SUFFIX,snk-corp.co.jp
 DOMAIN-SUFFIX,snk-corp.info
@@ -902,6 +671,32 @@ DOMAIN-SUFFIX,supercellgames.com
 DOMAIN-SUFFIX,supercellid.com
 DOMAIN-SUFFIX,supercellstore.com
 #end include:supercell
+#include:take-two
+#include:2kgames
+DOMAIN-SUFFIX,2k.com
+DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kct.onl
+DOMAIN-SUFFIX,2kgames.com
+DOMAIN-SUFFIX,2ksports.com
+DOMAIN-SUFFIX,2kweb.online
+#end include:2kgames
+#include:rockstar
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rockstarnorth.com
+DOMAIN-SUFFIX,rsg.sc
+
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,media-rockstargames-com.akamaized.net
+DOMAIN,videos-rockstargames-com.akamaized.net
+#end include:rockstar
+#include:zynga
+DOMAIN-SUFFIX,zynga.com
+DOMAIN-SUFFIX,zyngaplayersupport.com
+DOMAIN-SUFFIX,zyngapoker.com
+#end include:zynga
+
+DOMAIN-SUFFIX,take2games.com
+#end include:take-two
 #include:ubisoft
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com

@@ -442,26 +442,6 @@ DOMAIN-SUFFIX,fliggy.hk
 DOMAIN-SUFFIX,iuynfg.com
 
 # 高德地图
-#include:amap
-#include:amap-ads
-DOMAIN-SUFFIX,adashx.ut.amap.com
-DOMAIN-SUFFIX,dualstack-logs.amap.com
-DOMAIN-SUFFIX,logs.amap.com
-DOMAIN-SUFFIX,optimus-ads.amap.com
-DOMAIN-SUFFIX,v6-adashx.ut.amap.com
-#end include:amap-ads
-
-DOMAIN-SUFFIX,a-map.cn
-DOMAIN-SUFFIX,a-map.co
-DOMAIN-SUFFIX,a-map.link
-DOMAIN-SUFFIX,a-map.vip
-DOMAIN-SUFFIX,acloudrender.com
-DOMAIN-SUFFIX,amap.com
-DOMAIN-SUFFIX,amapauto.com
-DOMAIN-SUFFIX,anav.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,gaode.com
-#end include:amap
 
 # 虾米音乐
 DOMAIN-SUFFIX,xiami.com
