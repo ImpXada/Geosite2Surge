@@ -239,6 +239,8 @@ DOMAIN-SUFFIX,icpcw.com
 DOMAIN-SUFFIX,idcquan.com
 # 艾瑞咨询
 DOMAIN-SUFFIX,iresearch.cn
+# IT168
+DOMAIN-SUFFIX,it168.com
 # 华尔街见闻
 DOMAIN-SUFFIX,jianyuweb.com
 DOMAIN-SUFFIX,wallstcn.com
@@ -267,6 +269,8 @@ DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,statickksmg.com
 # 晚点
 DOMAIN-SUFFIX,latepost.com
+# 今日观察网
+DOMAIN-SUFFIX,miercn.com
 # 快科技
 DOMAIN-SUFFIX,mydrivers.com
 # 南岳新闻网
@@ -285,6 +289,8 @@ DOMAIN-SUFFIX,pchpic.net
 # PConline 太平洋科技
 DOMAIN-SUFFIX,3conline.com
 DOMAIN-SUFFIX,pconline.com.cn
+# 泡泡网
+DOMAIN-SUFFIX,pcpop.com
 # 人民网
 DOMAIN-SUFFIX,people.cn
 DOMAIN-SUFFIX,people.com.cn
@@ -313,6 +319,8 @@ DOMAIN-SUFFIX,shangyexinzhi.com
 DOMAIN-SUFFIX,solidot.org
 # 南方新闻网
 DOMAIN-SUFFIX,southcn.com
+# 南方财富网
+DOMAIN-SUFFIX,southmoney.com
 # 少数派
 DOMAIN-SUFFIX,sspai.com
 # 证券之星
@@ -334,6 +342,8 @@ DOMAIN-SUFFIX,thecover.cn
 DOMAIN-SUFFIX,thepaper.cn
 # 人人都是产品经理
 DOMAIN-SUFFIX,woshipm.com
+# 西陆网
+DOMAIN-SUFFIX,xilu.com
 # 新快报
 DOMAIN-SUFFIX,xkb.com.cn
 # 第一财经

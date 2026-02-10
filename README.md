@@ -410,6 +410,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | dart | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/dart |
 | dazn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/dazn |
 | dcard | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/dcard |
+| ddmaicai | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ddmaicai |
 | debian | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/debian |
 | decryptipastore | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/decryptipastore |
 | dedao | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/dedao |

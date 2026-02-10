@@ -499,6 +499,10 @@ DOMAIN-SUFFIX,jjwxc.net
 # 酷匠网
 DOMAIN-SUFFIX,kjcdn.com
 DOMAIN-SUFFIX,kujiang.com
+# 1905电影网
+DOMAIN-SUFFIX,1905.com
+DOMAIN-SUFFIX,m1905.cn
+DOMAIN-SUFFIX,m1905.com
 # 喵御宅
 DOMAIN-SUFFIX,mfuns.cn
 # 秒拍
@@ -506,6 +510,9 @@ DOMAIN-SUFFIX,miaopai.com
 # 磨铁文学
 DOMAIN-SUFFIX,motie.com
 DOMAIN-SUFFIX,motieimg.com
+# Mtime时光网
+DOMAIN-SUFFIX,mtime.cn
+DOMAIN-SUFFIX,mtime.com
 # 梨视频
 DOMAIN-SUFFIX,pearvideo.com
 # 皮皮网
