@@ -1,11 +1,9 @@
 # This list contains social media platforms outside China mainland.
 
-#include:bluesky
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 #end include:bluesky
-#include:facebook
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
@@ -403,13 +401,12 @@ DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,workplaceusecases.com
 
 DOMAIN,fbcdn-a.akamaihd.net
-#end include:facebook
-#include:instagram
-#include:instagram-ads
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-#end include:instagram-ads
 
+# Ads/tracking
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,pixel.facebook.com
+#end include:facebook
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -482,8 +479,11 @@ DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,wwwinstagram.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
 #end include:instagram
-#include:linkedin
 DOMAIN-SUFFIX,bizographics.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,l-0005.l-msedge.net
@@ -500,11 +500,9 @@ DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
 #end include:linkedin
-#include:mailru
 DOMAIN-SUFFIX,imgsmail.ru
 DOMAIN-SUFFIX,mail.ru
 #end include:mailru
-#include:misskey
 DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,misskeyusercontent.jp
 
@@ -547,16 +545,13 @@ DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,trpger.us
 #end include:misskey-universe
 #end include:misskey
-#include:ok
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,mycdn.me
 #end include:ok
-#include:threads
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 #end include:threads
-#include:twitter
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,periscope.tv
@@ -582,7 +577,6 @@ DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
 #end include:twitter
-#include:vk
 DOMAIN-SUFFIX,cdn-vk.ru
 DOMAIN-SUFFIX,mradx.net
 DOMAIN-SUFFIX,mvk.com

@@ -147,10 +147,6 @@ DOMAIN,wwis-dubc1-vip97.adobe.com
 DOMAIN,wwis-dubc1-vip98.adobe.com
 DOMAIN,wwis-dubc1-vip99.adobe.com
 #end include:adobe-activation
-#include:adobe-ads
-DOMAIN-SUFFIX,advertising.adobe.com
-DOMAIN-SUFFIX,tubemogul.com
-#end include:adobe-ads
 #include:typekit
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
@@ -296,3 +292,7 @@ DOMAIN-SUFFIX,scene7.com
 
 # Adobe Stats IO
 DOMAIN-SUFFIX,adobestats.io
+
+# Ads/tracking
+DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,tubemogul.com

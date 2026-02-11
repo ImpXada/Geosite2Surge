@@ -395,3 +395,8 @@ DOMAIN-SUFFIX,workplace.com
 DOMAIN-SUFFIX,workplaceusecases.com
 
 DOMAIN,fbcdn-a.akamaihd.net
+
+# Ads/tracking
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,pixel.facebook.com

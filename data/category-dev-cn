@@ -153,6 +153,9 @@ DOMAIN-SUFFIX,tjstats.com
 DOMAIN-SUFFIX,wegamedeveloper.com
 DOMAIN-SUFFIX,weixinbridge.com
 DOMAIN-SUFFIX,weui.io
+
+# Ads/tracking
+DOMAIN-SUFFIX,badjs.weixinbridge.com
 #end include:tencent-dev
 #include:ubuntukylin
 DOMAIN-SUFFIX,openkylin.top

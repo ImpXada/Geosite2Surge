@@ -1,8 +1,3 @@
-#include:instagram-ads
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com
-#end include:instagram-ads
-
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -75,3 +70,7 @@ DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
 DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,wwwinstagram.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com

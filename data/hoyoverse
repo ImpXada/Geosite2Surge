@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,n0vadesktop.com
 
 # 絕區零(Zenless Zone Zero)
 DOMAIN-SUFFIX,zenlesszonezero.com
+
+# ads/tracking
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

@@ -1,7 +1,3 @@
-DOMAIN-SUFFIX,collector.xhamster.com
-#end include:xhamster-ads
-
-
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamster.desi
 DOMAIN-SUFFIX,xhamster.xxx
@@ -10,7 +6,8 @@ DOMAIN-SUFFIX,xhamster18.desi
 DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,xhcdn.com
 
-
 # xhamsterlive thumbnails
-
 DOMAIN,widgets.stripst.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,collector.xhamster.com

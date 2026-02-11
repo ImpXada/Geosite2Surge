@@ -7,11 +7,6 @@ DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
 DOMAIN-SUFFIX,staticflickr.com
 #end include:flickr
-#include:yahoo-ads
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com
-#end include:yahoo-ads
 
 # All .yahoo domains
 DOMAIN-SUFFIX,yahoo
@@ -185,3 +180,8 @@ DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yusercontent.com
 
 DOMAIN,cdn.js7k.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com

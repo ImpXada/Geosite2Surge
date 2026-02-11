@@ -12,9 +12,8 @@ DOMAIN-SUFFIX,webtest.net
 
 DOMAIN,www.speedtest.net.cdn.cloudflare.net
 
-#include:ookla-speedtest-ads
-DOMAIN-WILDCARD,speed..ad.*.prod.hosts.ooklaserver.net
-#end include:ookla-speedtest-ads
-
 # SpeedTest Node
 DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk    #HGC Global Communications 香港環電
+
+# Ads/tracking
+DOMAIN-WILDCARD,speed..ad.*.prod.hosts.ooklaserver.net

@@ -49,10 +49,12 @@ DOMAIN-SUFFIX,yiyan.baidu.com
 # 天工AI
 DOMAIN-SUFFIX,tiangong.cn
 
-# 智谱清言
+# 智谱
 DOMAIN-SUFFIX,bigmodel.cn
 DOMAIN-SUFFIX,chatglm.cn
+DOMAIN-SUFFIX,z.ai
 DOMAIN-SUFFIX,zhipuai.cn
+DOMAIN-SUFFIX,zhipucn.com
 
 # 月之暗面
 DOMAIN-SUFFIX,kimi.com

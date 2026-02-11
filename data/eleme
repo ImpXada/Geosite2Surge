@@ -6,3 +6,8 @@ DOMAIN-SUFFIX,eleme.io
 DOMAIN-SUFFIX,elemecdn.cn
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,elenet.me
+
+# Ads/tracking
+DOMAIN-SUFFIX,adashx.ut.ele.me
+DOMAIN-SUFFIX,h-adashx.ut.ele.me
+DOMAIN-SUFFIX,v6-adashx.ut.ele.me

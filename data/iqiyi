@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,qy.net
 # CDN used by iqiyi
 DOMAIN-SUFFIX,71edge.com
 
+# Ads/tracking
 DOMAIN-SUFFIX,ad.m.iqiyi.com
 DOMAIN-SUFFIX,afp.iqiyi.com
 DOMAIN-SUFFIX,c.uaa.iqiyi.com
@@ -21,4 +22,3 @@ DOMAIN-SUFFIX,mbdlog.iqiyi.com
 DOMAIN-SUFFIX,msg.video.qiyi.com
 DOMAIN-SUFFIX,msg2.video.qiyi.com
 DOMAIN-SUFFIX,policy.video.iqiyi.com
-#end include:iqiyi-ads

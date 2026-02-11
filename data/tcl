@@ -8,3 +8,14 @@ DOMAIN-SUFFIX,tcltech.com
 
 # 粤ICP备17088321号
 DOMAIN-SUFFIX,leiniao.com
+
+# 粤ICP备14002670号
+DOMAIN-SUFFIX,my7v.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads-uo.api.leiniao.com
+DOMAIN-SUFFIX,ads-ut.api.leiniao.com
+DOMAIN-SUFFIX,ads.api.my7v.com
+DOMAIN-SUFFIX,euads-o.api.leiniao.com
+DOMAIN-SUFFIX,hwads-t.api.my7v.com
+DOMAIN-SUFFIX,testads.api.my7v.com

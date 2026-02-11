@@ -17,3 +17,7 @@ DOMAIN-SUFFIX,msnewskids.org
 DOMAIN-SUFFIX,msnkids.com
 DOMAIN-SUFFIX,microsoftstart.com
 DOMAIN-SUFFIX,start.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com

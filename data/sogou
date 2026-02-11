@@ -30,3 +30,13 @@ DOMAIN-SUFFIX,yeyousg.com
 DOMAIN-SUFFIX,yidianliulan.cn
 DOMAIN-SUFFIX,yidianliulan.com
 DOMAIN-SUFFIX,yuweikuijianzhan.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,inte.sogou.com
+DOMAIN-SUFFIX,inte.sogoucdn.com
+DOMAIN-SUFFIX,lu.sogou.com
+DOMAIN-SUFFIX,lu.sogoucdn.com
+DOMAIN-SUFFIX,pb.i.sogou.com
+DOMAIN-SUFFIX,theta.sogoucdn.com
+DOMAIN-SUFFIX,uranus.sogou.com
+DOMAIN-SUFFIX,wuliao.epro.sogou.com

@@ -29,3 +29,6 @@ DOMAIN-SUFFIX,juequling.com
 
 # Akamai
 DOMAIN-WILDCARD,*-mihayo.akamaized.net
+
+# Ads/tracking
+DOMAIN-SUFFIX,log-upload.mihoyo.com

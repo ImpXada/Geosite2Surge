@@ -22,3 +22,8 @@ DOMAIN,heads4-ak-spotify-com.akamaized.net
 DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
+
+# Ads/tracking
+DOMAIN,adeventtracker.spotify.com
+DOMAIN,adstudio-assets.scdn.co
+DOMAIN,bloodhound.spotify.com

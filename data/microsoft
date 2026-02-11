@@ -197,19 +197,52 @@ DOMAIN-SUFFIX,th.bing.com
 DOMAIN,bj1.api.bing.com
 DOMAIN,emoi-cncdn.bing.com
 #end include:bing
-#include:microsoft-ads
-#include:github-ads
+#include:github
+#include:github-copilot
+DOMAIN-SUFFIX,githubcopilot.com
+#end include:github-copilot
+#include:npmjs
+DOMAIN-SUFFIX,npm.community
+DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npmjs.org
+#end include:npmjs
+
+DOMAIN-SUFFIX,atom.io
+DOMAIN-SUFFIX,dependabot.com
+DOMAIN-SUFFIX,gh.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.ai
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
+DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubhackathon.com
+DOMAIN-SUFFIX,githubnext.com
+DOMAIN-SUFFIX,githubpreview.dev
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,githubuniverse.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,myoctocat.com
+DOMAIN-SUFFIX,octocaptcha.com
+DOMAIN-SUFFIX,opensource.guide
+DOMAIN-SUFFIX,repo.new
+DOMAIN-SUFFIX,thegithubshop.com
+
+# GitHub Actions Artifacts
+DOMAIN-SUFFIX,blob.core.windows.net
+
+DOMAIN,github-api.arkoselabs.com
+DOMAIN,github-cloud.s3.amazonaws.com
+DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com
+
+# Ads/tracking
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-#end include:github-ads
-
-DOMAIN-SUFFIX,browser.events.data.msn.cn
-DOMAIN-SUFFIX,browser.events.data.msn.com
-DOMAIN-SUFFIX,clarity.ms
-DOMAIN-SUFFIX,microsoftads.com
-DOMAIN-SUFFIX,msads.net
-DOMAIN-SUFFIX,nelreports.net
-#end include:microsoft-ads
+#end include:github
 #include:microsoft-dev
 DOMAIN-SUFFIX,adaptivecards.io
 DOMAIN-SUFFIX,api-extractor.com
@@ -313,6 +346,10 @@ DOMAIN-SUFFIX,msnewskids.org
 DOMAIN-SUFFIX,msnkids.com
 DOMAIN-SUFFIX,microsoftstart.com
 DOMAIN-SUFFIX,start.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,browser.events.data.msn.cn
+DOMAIN-SUFFIX,browser.events.data.msn.com
 #end include:msn
 #include:onedrive
 DOMAIN-SUFFIX,1drv.com
@@ -686,6 +723,12 @@ DOMAIN-SUFFIX,yammer.com
 # Skype CDN
 DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skypedata.akadns.net
+
+# Ads/tracking
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,microsoftads.com
+DOMAIN-SUFFIX,msads.net
+DOMAIN-SUFFIX,nelreports.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:microsoft@cn"

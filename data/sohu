@@ -31,33 +31,17 @@ DOMAIN-SUFFIX,yeyousg.com
 DOMAIN-SUFFIX,yidianliulan.cn
 DOMAIN-SUFFIX,yidianliulan.com
 DOMAIN-SUFFIX,yuweikuijianzhan.com
-#end include:sogou
-#include:sohu-ads
-DOMAIN-SUFFIX,adnet.sohu.com
-DOMAIN-SUFFIX,ads.sohu.com
-DOMAIN-SUFFIX,adv-sv-show.focus.cn
-DOMAIN-SUFFIX,adv-sv-stat.focus.cn
-DOMAIN-SUFFIX,assp.sohu.com
-DOMAIN-SUFFIX,bdu.focus.cn
-DOMAIN-SUFFIX,fpb.sohu.com
-DOMAIN-SUFFIX,imp.go.sohu.com
+
+# Ads/tracking
 DOMAIN-SUFFIX,inte.sogou.com
 DOMAIN-SUFFIX,inte.sogoucdn.com
 DOMAIN-SUFFIX,lu.sogou.com
 DOMAIN-SUFFIX,lu.sogoucdn.com
-DOMAIN-SUFFIX,m.aty.sohu.com
-DOMAIN-SUFFIX,p.aty.sohu.com
 DOMAIN-SUFFIX,pb.i.sogou.com
-DOMAIN-SUFFIX,pv.hd.sohu.com
-DOMAIN-SUFFIX,pv.sohu.com
-DOMAIN-SUFFIX,qpb.sohu.com
-DOMAIN-SUFFIX,qpb1.sohu.com
-DOMAIN-SUFFIX,reke.at.sohu.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
-DOMAIN-SUFFIX,track.sohu.com
 DOMAIN-SUFFIX,uranus.sogou.com
 DOMAIN-SUFFIX,wuliao.epro.sogou.com
-#end include:sohu-ads
+#end include:sogou
 
 # All .sohu domains
 DOMAIN-SUFFIX,sohu
@@ -67,3 +51,21 @@ DOMAIN-SUFFIX,focus.cn
 DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,adnet.sohu.com
+DOMAIN-SUFFIX,ads.sohu.com
+DOMAIN-SUFFIX,adv-sv-show.focus.cn
+DOMAIN-SUFFIX,adv-sv-stat.focus.cn
+DOMAIN-SUFFIX,assp.sohu.com
+DOMAIN-SUFFIX,bdu.focus.cn
+DOMAIN-SUFFIX,fpb.sohu.com
+DOMAIN-SUFFIX,imp.go.sohu.com
+DOMAIN-SUFFIX,m.aty.sohu.com
+DOMAIN-SUFFIX,p.aty.sohu.com
+DOMAIN-SUFFIX,pv.hd.sohu.com
+DOMAIN-SUFFIX,pv.sohu.com
+DOMAIN-SUFFIX,qpb.sohu.com
+DOMAIN-SUFFIX,qpb1.sohu.com
+DOMAIN-SUFFIX,reke.at.sohu.com
+DOMAIN-SUFFIX,track.sohu.com

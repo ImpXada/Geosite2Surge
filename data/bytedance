@@ -1,51 +1,3 @@
-#include:bytedance-ads
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads3-normal.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log3-applog.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,log5-applog.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog3-applog.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog.fqnovel.com
-#end include:fqnovel-ads
-
-DOMAIN-SUFFIX,ad.toutiao.com
-DOMAIN-SUFFIX,analytics.tiktok.com
-DOMAIN-SUFFIX,bds.snssdk.com
-DOMAIN-SUFFIX,byteadverts.com
-DOMAIN-SUFFIX,ctobsnssdk.com
-DOMAIN-SUFFIX,dig.bdurl.net
-DOMAIN-SUFFIX,extlog.snssdk.com
-DOMAIN-SUFFIX,i.snssdk.com
-DOMAIN-SUFFIX,log.zijieapi.com
-DOMAIN-SUFFIX,mcs.snssdk.com
-DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
-DOMAIN-SUFFIX,pangolin-hl.snssdk.com
-DOMAIN-SUFFIX,pangolin-lf.snssdk.com
-DOMAIN-SUFFIX,pangolin-lq.snssdk.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
-DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
-DOMAIN-SUFFIX,pangolin.snssdk.com
-DOMAIN-SUFFIX,panplayable-toutiao-b.com
-DOMAIN-SUFFIX,panplayable-toutiao.com
-DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
-DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
-DOMAIN-SUFFIX,pglstatp-toutiao-b.com
-DOMAIN-SUFFIX,pglstatp-toutiao.com
-DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
-DOMAIN-SUFFIX,shoppingads.cn
-#end include:bytedance-ads
-
-#include:bytedance-ai-!cn # not serving for cn
 #include:doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
 # non-cn domains is added to bytedance-ai-!cn
@@ -65,24 +17,6 @@ DOMAIN-SUFFIX,picpic-ai.cn
 DOMAIN-SUFFIX,pixeldance.com
 #end include:doubao
 #include:fqnovel
-#include:fqnovel-ads
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads3-normal.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log3-applog.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,log5-applog.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog3-applog.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog.fqnovel.com
-#end include:fqnovel-ads
-
 DOMAIN-SUFFIX,activity-zhendingtech.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,fanqienovel.com
@@ -114,6 +48,23 @@ DOMAIN-SUFFIX,qznovelvod.com
 
 DOMAIN,p3-novel.byteimg.com
 DOMAIN,p6-novel.byteimg.com
+
+# Ads/tracking
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads3-normal.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,ads5-normal.zijieapi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
 #end include:fqnovel
 #include:juejin
 DOMAIN-SUFFIX,juejin.cn
@@ -130,44 +81,6 @@ DOMAIN,p7-juejin.byteimg.com
 DOMAIN,p8-juejin.byteimg.com
 DOMAIN,p9-juejin.byteimg.com
 #end include:juejin
-#include:tiktok
-DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok-minis.com
-DOMAIN-SUFFIX,tiktok-row.net
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn-eu.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokd.net
-DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,tiktokeu-cdn.com
-DOMAIN-SUFFIX,tiktokglobalshopv.com
-DOMAIN-SUFFIX,tiktokminis.us
-DOMAIN-SUFFIX,tiktokrow-cdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokv.eu
-DOMAIN-SUFFIX,tiktokv.us
-DOMAIN-SUFFIX,tiktokw.eu
-DOMAIN-SUFFIX,tiktokw.us
-DOMAIN-SUFFIX,ttlivecdn.com
-DOMAIN-SUFFIX,ttoverseaus.net
-DOMAIN-SUFFIX,ttwstatic.com
-
-DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
-DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
-DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
-DOMAIN-SUFFIX,tiktokv.com.edgekey.net
-DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN,roovza-launches.appsflyersdk.com
-DOMAIN,roovza.inapps.appsflyersdk.com
-DOMAIN,roovza.launches.appsflyersdk.com
-DOMAIN,roovza.skadsdk.appsflyersdk.com
-#end include:tiktok
 #include:trae
 # 北京引力弹弓科技有限公司 京ICP备2024062284号
 # non-cn domains is added to bytedance-ai-!cn
@@ -694,3 +607,31 @@ DOMAIN-SUFFIX,rsproxy.cn
 #bcysnssdk.com
 #bcystatic.com
 #bcyvod.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ad.toutiao.com
+DOMAIN-SUFFIX,bds.snssdk.com
+DOMAIN-SUFFIX,byteadverts.com
+DOMAIN-SUFFIX,ctobsnssdk.com
+DOMAIN-SUFFIX,dig.bdurl.net
+DOMAIN-SUFFIX,extlog.snssdk.com
+DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,log.zijieapi.com
+DOMAIN-SUFFIX,mcs.snssdk.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-dsp-toutiao.com
+DOMAIN-SUFFIX,pangolin-hl.snssdk.com
+DOMAIN-SUFFIX,pangolin-lf.snssdk.com
+DOMAIN-SUFFIX,pangolin-lq.snssdk.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
+DOMAIN-SUFFIX,pangolin-sdk-toutiao1.com
+DOMAIN-SUFFIX,pangolin.snssdk.com
+DOMAIN-SUFFIX,panplayable-toutiao-b.com
+DOMAIN-SUFFIX,panplayable-toutiao.com
+DOMAIN-SUFFIX,pglstatp-sdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-snssdk-toutiao.com
+DOMAIN-SUFFIX,pglstatp-toutiao-b.com
+DOMAIN-SUFFIX,pglstatp-toutiao.com
+DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
+DOMAIN-SUFFIX,shoppingads.cn

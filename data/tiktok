@@ -34,3 +34,6 @@ DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
 DOMAIN,roovza.launches.appsflyersdk.com
 DOMAIN,roovza.skadsdk.appsflyersdk.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,analytics.tiktok.com

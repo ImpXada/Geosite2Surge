@@ -23,9 +23,8 @@ DOMAIN-SUFFIX,acfunchina.com
 DOMAIN-SUFFIX,acfunchina.net
 DOMAIN-SUFFIX,aixifan.com
 
-#include:acfun-ads
+# Ads/tracking
 DOMAIN,apilog-web.acfun.cn
-#end include:acfun-ads
 #end include:acfun
 #include:acplay
 DOMAIN-SUFFIX,acplay.net
@@ -149,24 +148,6 @@ DOMAIN-SUFFIX,jvcsmart.cn
 DOMAIN-SUFFIX,jvcsmart.com.cn
 #end include:fengxing
 #include:fqnovel
-#include:fqnovel-ads
-DOMAIN,ads3-normal-hl.zijieapi.com
-DOMAIN,ads3-normal.zijieapi.com
-DOMAIN,ads5-normal-hl.zijieapi.com
-DOMAIN,ads5-normal.zijieapi.com
-DOMAIN,log3-applog-hl.fqnovel.com
-DOMAIN,log3-applog.fqnovel.com
-DOMAIN,log5-applog-hl.fqnovel.com
-DOMAIN,log5-applog.fqnovel.com
-DOMAIN,p3-ad-sign.byteimg.com
-DOMAIN,p6-ad-sign.byteimg.com
-DOMAIN,p9-ad-sign.byteimg.com
-DOMAIN,rtlog3-applog-hl.fqnovel.com
-DOMAIN,rtlog3-applog.fqnovel.com
-DOMAIN,rtlog5-applog-hl.fqnovel.com
-DOMAIN,rtlog5-applog.fqnovel.com
-#end include:fqnovel-ads
-
 DOMAIN-SUFFIX,activity-zhendingtech.com
 DOMAIN-SUFFIX,changdunovel.com
 DOMAIN-SUFFIX,fanqienovel.com
@@ -198,6 +179,23 @@ DOMAIN-SUFFIX,qznovelvod.com
 
 DOMAIN,p3-novel.byteimg.com
 DOMAIN,p6-novel.byteimg.com
+
+# Ads/tracking
+DOMAIN,ads3-normal-hl.zijieapi.com
+DOMAIN,ads3-normal.zijieapi.com
+DOMAIN,ads5-normal-hl.zijieapi.com
+DOMAIN,ads5-normal.zijieapi.com
+DOMAIN,log3-applog-hl.fqnovel.com
+DOMAIN,log3-applog.fqnovel.com
+DOMAIN,log5-applog-hl.fqnovel.com
+DOMAIN,log5-applog.fqnovel.com
+DOMAIN,p3-ad-sign.byteimg.com
+DOMAIN,p6-ad-sign.byteimg.com
+DOMAIN,p9-ad-sign.byteimg.com
+DOMAIN,rtlog3-applog-hl.fqnovel.com
+DOMAIN,rtlog3-applog.fqnovel.com
+DOMAIN,rtlog5-applog-hl.fqnovel.com
+DOMAIN,rtlog5-applog.fqnovel.com
 #end include:fqnovel
 #include:gamersky
 DOMAIN-SUFFIX,gamersky.com
@@ -214,13 +212,6 @@ DOMAIN-SUFFIX,gitv.tv
 #end include:gitv
 #include:hunantv
 # 湖南广电（芒果TV）
-DOMAIN-SUFFIX,click.hunantv.com
-DOMAIN-SUFFIX,da.hunantv.com
-DOMAIN-SUFFIX,da.mgtv.com
-DOMAIN-SUFFIX,log.hunantv.com
-DOMAIN-SUFFIX,log.v2.hunantv.com
-DOMAIN-SUFFIX,res.hunantv.com
-#end include:hunantv-ads
 DOMAIN-SUFFIX,hifuntv.com
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hnbntv.com
@@ -228,6 +219,14 @@ DOMAIN-SUFFIX,hunaniptv.com
 DOMAIN-SUFFIX,hunantv.com
 DOMAIN-SUFFIX,imgo.tv
 DOMAIN-SUFFIX,mgtv.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,click.hunantv.com
+DOMAIN-SUFFIX,da.hunantv.com
+DOMAIN-SUFFIX,da.mgtv.com
+DOMAIN-SUFFIX,log.hunantv.com
+DOMAIN-SUFFIX,log.v2.hunantv.com
+DOMAIN-SUFFIX,res.hunantv.com
 #end include:hunantv
 #include:huya
 DOMAIN-SUFFIX,huya.com
@@ -243,17 +242,6 @@ DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,kuaikanmanhua.com
 #end include:kuaikan
 #include:kuaishou
-#include:kuaishou-ads
-DOMAIN-SUFFIX,adbkwai.com
-DOMAIN-SUFFIX,adkwai.com
-DOMAIN-SUFFIX,adukwai.com
-DOMAIN-SUFFIX,e.kuaishou.cn
-DOMAIN-SUFFIX,e.kuaishou.com
-
-DOMAIN,log-sdk.gifshow.com
-DOMAIN,wlog.kuaishou.com
-#end include:kuaishou-ads
-
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,inkuai.com
@@ -270,20 +258,45 @@ DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,yximgs.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,adbkwai.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
+DOMAIN-SUFFIX,e.kuaishou.cn
+DOMAIN-SUFFIX,e.kuaishou.com
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com
 #end include:kuaishou
+#include:kugou
+DOMAIN-SUFFIX,fanxingliveshow.com
+DOMAIN-SUFFIX,kgimg.com
+DOMAIN-SUFFIX,kglink.cn
+DOMAIN-SUFFIX,ktv.com
+DOMAIN-SUFFIX,kugoo.com
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kugou.net
+DOMAIN-SUFFIX,kugouaudio.com
+DOMAIN-SUFFIX,kugouipv6.com
+DOMAIN-SUFFIX,kugoukid.com
+DOMAIN-SUFFIX,kugouliveshow.com
+DOMAIN-SUFFIX,kugouringtone.com
+DOMAIN-SUFFIX,kugousenior.com
+DOMAIN-SUFFIX,kugoustore.com
+DOMAIN-SUFFIX,kugouvoice.com
+DOMAIN-SUFFIX,kugouyouth.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
+#end include:kugou
 #include:kuwo
 DOMAIN-SUFFIX,koowo.cn
 DOMAIN-SUFFIX,koowo.com
 DOMAIN-SUFFIX,kuwo.cn
 #end include:kuwo
 #include:le
-#include:letv-ads
-DOMAIN-SUFFIX,apple.www.letv.com
-DOMAIN-SUFFIX,ark.letv.com
-DOMAIN-SUFFIX,dc.letv.com
-DOMAIN-SUFFIX,g3.letv.com
-#end include:letv-ads
-
 DOMAIN-SUFFIX,le.com
 DOMAIN-SUFFIX,leautolink.com
 DOMAIN-SUFFIX,lecloud.com
@@ -293,6 +306,12 @@ DOMAIN-SUFFIX,leso.cn
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcdn.com
 DOMAIN-SUFFIX,letvimg.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,apple.www.letv.com
+DOMAIN-SUFFIX,ark.letv.com
+DOMAIN-SUFFIX,dc.letv.com
+DOMAIN-SUFFIX,g3.letv.com
 #end include:le
 #include:lizhi
 DOMAIN-SUFFIX,lizhi.fm
@@ -423,6 +442,11 @@ DOMAIN-SUFFIX,podcast.xyz
 #include:ximalaya
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
 #end include:ximalaya
 #include:youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
@@ -437,24 +461,30 @@ DOMAIN-SUFFIX,soku.com
 
 # youku video cdn
 DOMAIN-SUFFIX,cibntv.net
+
+# Ads/tracking
+DOMAIN-SUFFIX,ad.api.3g.youku.com
+DOMAIN-SUFFIX,ad.api.mobile.youku.com
+DOMAIN-SUFFIX,ad.mobile.youku.com
+DOMAIN-SUFFIX,adashx.ut.youku.com
+DOMAIN-SUFFIX,atm.youku.com
+DOMAIN-SUFFIX,e.stat.ykimg.com
+DOMAIN-SUFFIX,ems.youku.com
+DOMAIN-SUFFIX,guanggaoad.youku.com
+DOMAIN-SUFFIX,h-adashx.ut.youku.com
+DOMAIN-SUFFIX,lstat.youku.com
+DOMAIN-SUFFIX,mobilemsg.youku.com
+DOMAIN-SUFFIX,msg.youku.com
+DOMAIN-SUFFIX,p-log.ykimg.com
+DOMAIN-SUFFIX,passport-log.youku.com
+DOMAIN-SUFFIX,pl.youku.com
+DOMAIN-SUFFIX,s-adashx.ut.youku.com
+DOMAIN-SUFFIX,stat.youku.com
+DOMAIN-SUFFIX,statis.api.3g.youku.com
+DOMAIN-SUFFIX,v6-adashx.ut.youku.com
+DOMAIN-SUFFIX,yk-ssp.ad.youku.com
+DOMAIN-SUFFIX,ykad-data.youku.com
 #end include:youku
-#include:yuewen
-DOMAIN-SUFFIX,yuewen.com
-
-# webnovel is not serving for cn
-# include:webnovel
-
-DOMAIN-SUFFIX,hongxiu.com
-DOMAIN-SUFFIX,lrts.me
-DOMAIN-SUFFIX,qdmm.com
-DOMAIN-SUFFIX,qidian.com
-DOMAIN-SUFFIX,readnovel.com
-DOMAIN-SUFFIX,rongshuxia.com
-DOMAIN-SUFFIX,tingbook.com
-DOMAIN-SUFFIX,xs.cn
-DOMAIN-SUFFIX,xs8.cn
-DOMAIN-SUFFIX,xxsy.net
-#end include:yuewen
 
 # Android Emulator
 DOMAIN-SUFFIX,ldmnq.com

@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,guoguo-app.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com

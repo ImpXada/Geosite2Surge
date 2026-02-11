@@ -1309,6 +1309,15 @@ DOMAIN-SUFFIX,drweb-av.es
 DOMAIN-SUFFIX,drweb-av.it
 DOMAIN-SUFFIX,drweb-av.pl
 #end include:drweb
+#include:duolingo
+DOMAIN-SUFFIX,duolingo.com
+DOMAIN-SUFFIX,duolingo.cn
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com
+#end include:duolingo
 #include:faronics
 DOMAIN-SUFFIX,clickedu.co.uk
 DOMAIN-SUFFIX,deepfreeze.co.uk

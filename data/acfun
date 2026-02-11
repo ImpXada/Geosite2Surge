@@ -8,6 +8,5 @@ DOMAIN-SUFFIX,acfunchina.com
 DOMAIN-SUFFIX,acfunchina.net
 DOMAIN-SUFFIX,aixifan.com
 
-#include:acfun-ads
+# Ads/tracking
 DOMAIN,apilog-web.acfun.cn
-#end include:acfun-ads

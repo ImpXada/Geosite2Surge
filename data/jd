@@ -1,13 +1,3 @@
-DOMAIN-SUFFIX,ads.union.jd.com
-DOMAIN-SUFFIX,ads-union.jd.com
-DOMAIN-SUFFIX,c-nfa.jd.com
-DOMAIN-SUFFIX,cps.360buy.com
-DOMAIN-SUFFIX,gia.jd.com
-DOMAIN-SUFFIX,img-x.jd.com
-DOMAIN-SUFFIX,jzt.jd.com
-DOMAIN-SUFFIX,stat.m.jd.com
-#end include:jd-ads
-
 DOMAIN-SUFFIX,1huizhan.com
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,300hu.com
@@ -244,3 +234,13 @@ DOMAIN-SUFFIX,imdada.cn
 
 # 哆啦宝
 DOMAIN-SUFFIX,duolabao.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads-union.jd.com
+DOMAIN-SUFFIX,ads.union.jd.com
+DOMAIN-SUFFIX,c-nfa.jd.com
+DOMAIN-SUFFIX,cps.360buy.com
+DOMAIN-SUFFIX,gia.jd.com
+DOMAIN-SUFFIX,img-x.jd.com
+DOMAIN-SUFFIX,jzt.jd.com
+DOMAIN-SUFFIX,stat.m.jd.com

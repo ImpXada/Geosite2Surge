@@ -1,7 +1,3 @@
-#include:github-ads
-DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-#end include:github-ads
 #include:github-copilot
 DOMAIN-SUFFIX,githubcopilot.com
 #end include:github-copilot
@@ -42,3 +38,7 @@ DOMAIN-SUFFIX,blob.core.windows.net
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,github-cloud.s3.amazonaws.com
 DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,collector.github.com
+DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com

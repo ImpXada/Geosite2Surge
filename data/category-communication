@@ -165,3 +165,20 @@ DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
 DOMAIN-SUFFIX,vbcdn.com
 DOMAIN-SUFFIX,vbcdn.net
 #end include:viber
+#include:whatsapp
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsapp-plus.info
+DOMAIN-SUFFIX,whatsapp-plus.me
+DOMAIN-SUFFIX,whatsapp-plus.net
+DOMAIN-SUFFIX,whatsapp.cc
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.info
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.org
+DOMAIN-SUFFIX,whatsapp.tv
+DOMAIN-SUFFIX,whatsappbrand.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
+#end include:whatsapp

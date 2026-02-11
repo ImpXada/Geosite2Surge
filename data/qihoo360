@@ -1,15 +1,3 @@
-#include:qihoo360-ads
-DOMAIN-SUFFIX,c.sayhi.360.cn
-DOMAIN-SUFFIX,fenxi.360.cn
-DOMAIN-SUFFIX,fenxi.com
-DOMAIN-SUFFIX,lianmeng.360.cn
-DOMAIN-SUFFIX,mediav.com
-DOMAIN-SUFFIX,mvad.com
-DOMAIN-SUFFIX,qhupdate.com
-DOMAIN-SUFFIX,s.360.cn
-DOMAIN-SUFFIX,s.so.360.cn
-DOMAIN-SUFFIX,s.union.360.cn
-#end include:qihoo360-ads
 #include:starworld
 # StarWorld Games is a wholly owned subsidiary of Qihoo 360
 
@@ -113,3 +101,15 @@ DOMAIN-SUFFIX,yunpan.cn
 DOMAIN-SUFFIX,beifangsl.cn
 DOMAIN-SUFFIX,zhaomi.cn
 DOMAIN-SUFFIX,zhaomishijie.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,c.sayhi.360.cn
+DOMAIN-SUFFIX,fenxi.360.cn
+DOMAIN-SUFFIX,fenxi.com
+DOMAIN-SUFFIX,lianmeng.360.cn
+DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,mvad.com
+DOMAIN-SUFFIX,qhupdate.com
+DOMAIN-SUFFIX,s.360.cn
+DOMAIN-SUFFIX,s.so.360.cn
+DOMAIN-SUFFIX,s.union.360.cn
