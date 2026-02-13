@@ -1,7 +1,10 @@
+#include:apkcombo
 DOMAIN-SUFFIX,apkcombo.com
 #end include:apkcombo
+#include:apkmirror
 DOMAIN-SUFFIX,apkmirror.com
 #end include:apkmirror
+#include:apkpure
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,cdnpure.com

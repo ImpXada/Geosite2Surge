@@ -1,4 +1,3 @@
-#include:2kgames
 DOMAIN-SUFFIX,2k.com
 DOMAIN-SUFFIX,2kcoretech.online
 DOMAIN-SUFFIX,2kct.onl
@@ -6,7 +5,6 @@ DOMAIN-SUFFIX,2kgames.com
 DOMAIN-SUFFIX,2ksports.com
 DOMAIN-SUFFIX,2kweb.online
 #end include:2kgames
-#include:rockstar
 DOMAIN-SUFFIX,rockstargames.com
 DOMAIN-SUFFIX,rockstarnorth.com
 DOMAIN-SUFFIX,rsg.sc
@@ -15,7 +13,6 @@ DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN,videos-rockstargames-com.akamaized.net
 #end include:rockstar
-#include:zynga
 DOMAIN-SUFFIX,zynga.com
 DOMAIN-SUFFIX,zyngaplayersupport.com
 DOMAIN-SUFFIX,zyngapoker.com

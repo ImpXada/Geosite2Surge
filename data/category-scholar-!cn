@@ -13,61 +13,6 @@ DOMAIN-SUFFIX,sharif.edu
 DOMAIN-SUFFIX,sharif.ir
 DOMAIN-SUFFIX,srttu.edu
 #end include:category-scholar-ir
-#include:category-scholar-uk
-# This list contains scholarly domains that in UK
-
-#include:cambridge
-DOMAIN-SUFFIX,cam.ac.uk
-DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
-DOMAIN-SUFFIX,cambridgedigital.net
-DOMAIN-SUFFIX,cambridgemaths.org
-DOMAIN-SUFFIX,ccdc.cam.ac.uk    #The Cambridge Structural Database
-DOMAIN-SUFFIX,dlib.eastview.com    #Cambridge Archive Editions Online 剑桥档案编研
-#end include:cambridge
-#include:imperialcollege
-DOMAIN-SUFFIX,ic.ac.uk
-DOMAIN-SUFFIX,imperial.ac.uk
-DOMAIN-SUFFIX,imperialbusiness.school
-
-DOMAIN,imperial.insendi.com
-#end include:imperialcollege
-#include:oup
-DOMAIN-SUFFIX,amamanualofstyle.com
-DOMAIN-SUFFIX,anb.org
-DOMAIN-SUFFIX,blackstonespoliceservice.com
-DOMAIN-SUFFIX,epigeum.com
-DOMAIN-SUFFIX,oed.com
-DOMAIN-SUFFIX,omscr.com
-DOMAIN-SUFFIX,oup.com
-DOMAIN-SUFFIX,ouplaw.com
-DOMAIN-SUFFIX,ox.ac.uk
-DOMAIN-SUFFIX,oxfordaasc.com
-DOMAIN-SUFFIX,oxfordartonline.com
-DOMAIN-SUFFIX,oxfordbibliographies.com
-DOMAIN-SUFFIX,oxfordclinicalpsych.com
-DOMAIN-SUFFIX,oxforddnb.com
-DOMAIN-SUFFIX,oxfordfirstsource.com
-DOMAIN-SUFFIX,oxfordhandbooks.com
-DOMAIN-SUFFIX,oxfordlawtrove.com
-DOMAIN-SUFFIX,oxfordmedicine.com
-DOMAIN-SUFFIX,oxfordmusiconline.com
-DOMAIN-SUFFIX,oxfordpoliticstrove.com
-DOMAIN-SUFFIX,oxfordre.com
-DOMAIN-SUFFIX,oxfordreference.com
-DOMAIN-SUFFIX,oxfordscholarlyeditions.com
-DOMAIN-SUFFIX,oxfordscholarship.com
-DOMAIN-SUFFIX,oxfordwesternmusic.com
-DOMAIN-SUFFIX,sipriyearbook.org
-DOMAIN-SUFFIX,ukwhoswho.com
-DOMAIN-SUFFIX,universitypressscholarship.com
-DOMAIN-SUFFIX,veryshortintroductions.com
-#end include:oup
-
-# https://iridis.uk/ac-uk-domain-registration/
-# https://community.jisc.ac.uk/library/janet-services-documentation/terms-and-conditions-acuk
-DOMAIN-SUFFIX,ac.uk
-#end include:category-scholar-uk
 #include:apa
 DOMAIN-SUFFIX,apa.org
 DOMAIN-SUFFIX,psyccareers.com

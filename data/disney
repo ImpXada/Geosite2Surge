@@ -1,15 +1,12 @@
-#include:abc
 # American Broadcasting Company
 
 DOMAIN-SUFFIX,abc-studios.com
 DOMAIN-SUFFIX,abc.com
 DOMAIN-SUFFIX,edgedatg.com
 #end include:abc
-#include:bamtech
 DOMAIN-SUFFIX,bamgrid.com
 DOMAIN-SUFFIX,dmed.technology
 #end include:bamtech
-#include:espn
 DOMAIN-SUFFIX,dtci.co
 DOMAIN-SUFFIX,dtci.technology
 DOMAIN-SUFFIX,espn.co.uk
@@ -23,7 +20,6 @@ DOMAIN,espn.api.edge.bamgrid.com
 DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
 #end include:espn
-#include:hotstar
 DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hotstar-cdn.net
 DOMAIN-SUFFIX,hotstar-labs.com
@@ -32,7 +28,6 @@ DOMAIN-SUFFIX,hsprepack.akamaized.net
 
 DOMAIN-WILDCARD,hses*.akamaized.net
 #end include:hotstar
-#include:marvel
 DOMAIN-SUFFIX,marvel.com
 DOMAIN-SUFFIX,marvel10thanniversary.com
 DOMAIN-SUFFIX,marveldimensionofheroes.com
@@ -44,13 +39,11 @@ DOMAIN-SUFFIX,marvelsuperheroseptember.com
 DOMAIN-SUFFIX,marvelsuperwar.com
 DOMAIN-SUFFIX,themarvelexperiencetour.com
 #end include:marvel
-#include:nationalgeographic
 DOMAIN-SUFFIX,natgeomaps.com
 DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,nationalgeographicpartners.com
 DOMAIN-SUFFIX,ngeo.com
 #end include:nationalgeographic
-#include:starplus
 DOMAIN-SUFFIX,starott.com
 DOMAIN-SUFFIX,starplus.com
 

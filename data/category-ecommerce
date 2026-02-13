@@ -205,7 +205,6 @@ DOMAIN-SUFFIX,coupangcdn.com
 DOMAIN-SUFFIX,craigslist.org
 #end include:craigslist
 #include:dmm
-#include:dmm-porn
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmmrex.com
 #end include:dmm-porn

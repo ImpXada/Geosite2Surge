@@ -16,6 +16,20 @@ DOMAIN-SUFFIX,xn--p1ai
 DOMAIN-SUFFIX,ru.com
 DOMAIN-SUFFIX,ru.net
 
+#include:category-entertainment-ru
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+#end include:okko
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
+#end include:rutube
+DOMAIN-SUFFIX,ngenix.net
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,wink.ru
+#end include:wink
+#end include:category-entertainment-ru
 #include:category-gov-ru
 # Federal Gov.
 DOMAIN-SUFFIX,government.ru

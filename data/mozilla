@@ -1,6 +1,8 @@
+#include:firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 #end include:firefox
+#include:mdn
 DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,developer.mozilla.org
 DOMAIN-SUFFIX,mdn.allizom.net
@@ -12,6 +14,7 @@ DOMAIN-SUFFIX,mdnyalp.dev
 
 DOMAIN,mdn.mozillademos.org
 #end include:mdn
+#include:rust
 DOMAIN-SUFFIX,rust-lang.org
 DOMAIN-SUFFIX,rustup.rs
 DOMAIN-SUFFIX,crates.io

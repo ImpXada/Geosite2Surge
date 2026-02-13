@@ -1,7 +1,9 @@
 #include:tencent-dev
+#include:cnb
 # 腾讯 云原生构建
 DOMAIN-SUFFIX,cnb.cool
 #end include:cnb
+#include:coding
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net
 #end include:coding
@@ -130,6 +132,20 @@ DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
 #end include:tencent-games
+#include:yuewen
+
+DOMAIN-SUFFIX,hongxiu.com
+DOMAIN-SUFFIX,lrts.me
+DOMAIN-SUFFIX,qdmm.com
+DOMAIN-SUFFIX,qidian.com
+DOMAIN-SUFFIX,readnovel.com
+DOMAIN-SUFFIX,rongshuxia.com
+DOMAIN-SUFFIX,tingbook.com
+DOMAIN-SUFFIX,xs.cn
+DOMAIN-SUFFIX,xs8.cn
+DOMAIN-SUFFIX,xxsy.net
+DOMAIN-SUFFIX,yuewen.com
+#end include:yuewen
 
 # qq.中国
 DOMAIN-SUFFIX,qq.xn--fiqs8s

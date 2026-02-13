@@ -13,6 +13,74 @@ DOMAIN-SUFFIX,androidify.com
 
 DOMAIN,android.googlesource.com
 #end include:android
+#include:apple-dev
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
+#end include:swift
+
+# Calendar and Contact Server
+DOMAIN-SUFFIX,calendarserver.org
+
+# CloudKit
+DOMAIN-SUFFIX,apple-cloudkit.com
+
+# CUPS
+DOMAIN-SUFFIX,cups.org
+
+# Developer
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+DOMAIN-SUFFIX,developerservices2.apple.com
+DOMAIN-SUFFIX,timestamp.apple.com
+DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
+DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
+
+# FoundationDB
+DOMAIN-SUFFIX,foundationdb.org
+
+# macOS forge
+DOMAIN-SUFFIX,macosforge.org
+
+# MacRuby
+DOMAIN-SUFFIX,macruby.com
+DOMAIN-SUFFIX,macruby.net
+DOMAIN-SUFFIX,macruby.org
+
+# MapKit
+DOMAIN-SUFFIX,apple-mapkit.com
+
+# Playgrounds
+DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+
+# Research & Care
+DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,researchandcare.org
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,researchkit.hk
+DOMAIN-SUFFIX,researchkit.net
+DOMAIN-SUFFIX,researchkit.org
+DOMAIN-SUFFIX,researchkit.tv
+
+# ServiceTalk
+DOMAIN-SUFFIX,servicetalk.io
+
+# WebKit
+DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,webkitgtk.org
+DOMAIN-SUFFIX,wpewebkit.org
+
+# Other
+DOMAIN-SUFFIX,webobjects.com
+
+DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
+DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN,p-events-delivery.akamaized.net
+
+#end include:apple-dev
 #include:archlinux
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
@@ -40,27 +108,6 @@ DOMAIN-SUFFIX,forthebadge.com
 # Stock Against Photography
 DOMAIN-SUFFIX,stockagainstphotography.com
 #end include:braveux
-#include:canonical
-#include:launchpad
-DOMAIN-SUFFIX,launchpad.net
-DOMAIN-SUFFIX,launchpadcontent.net
-DOMAIN-SUFFIX,launchpadlibrarian.com
-DOMAIN-SUFFIX,launchpadlibrarian.net
-DOMAIN-SUFFIX,launchpadlibrarian.org
-#end include:launchpad
-#include:snapcraft
-DOMAIN-SUFFIX,snapcraft.io
-DOMAIN-SUFFIX,snapstore.io
-#end include:snapcraft
-#include:ubuntu
-DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,ubuntu.net
-DOMAIN-SUFFIX,ubuntuforums.org
-DOMAIN-SUFFIX,ubuntu-touch.io
-#end include:ubuntu
-
-DOMAIN-SUFFIX,canonical.com
-#end include:canonical
 #include:category-container
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,docker.io
@@ -570,6 +617,37 @@ DOMAIN-SUFFIX,termux.com
 DOMAIN-SUFFIX,termux.dev
 DOMAIN-SUFFIX,termux.org
 #end include:termux
+#include:thelinuxfoundation
+DOMAIN-SUFFIX,kernel.org
+#end include:kernel
+DOMAIN-SUFFIX,linux.org
+#end include:linux
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
+
+DOMAIN,cdn.ampproject.org
+
+DOMAIN,amp.akamaized.net
+#end include:amp
+DOMAIN-SUFFIX,electronjs.org
+#end include:electron
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com
+#end include:jquery
+DOMAIN-SUFFIX,mochajs.org
+#end include:mocha
+DOMAIN-SUFFIX,nodejs.org
+#end include:nodejs
+
+DOMAIN-SUFFIX,openjsf.org
+#end include:openjsfoundation
+
+DOMAIN-SUFFIX,lfai.foundation
+DOMAIN-SUFFIX,linuxfoundation.org
+#end include:thelinuxfoundation
 #include:topcoder
 DOMAIN-SUFFIX,topcoder.com
 #end include:topcoder
