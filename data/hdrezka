@@ -8,5 +8,8 @@ DOMAIN-SUFFIX,hdrezka.org
 DOMAIN-SUFFIX,hdrezka.site
 DOMAIN-SUFFIX,rezka.ag
 
+# HDrezka App for Android
+DOMAIN-SUFFIX,hdrzk.org
+
 # hdrezka video CDN servers
 DOMAIN-SUFFIX,stream.voidboost.cc

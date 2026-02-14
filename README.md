@@ -587,6 +587,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | googlefcm | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/googlefcm |
 | goproxy | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/goproxy |
 | gracg | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/gracg |
+| grapheneos | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/grapheneos |
 | gravatar | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/gravatar |
 | greatfire | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/greatfire |
 | gree | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/gree |
