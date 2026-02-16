@@ -1,5 +1,22 @@
 # This list contains Tech & Cyber companies and organizations outside China mainland.
 
+#include:2gis
+# https://crt.sh/?id=24119301132
+DOMAIN-SUFFIX,2gis.ae
+DOMAIN-SUFFIX,2gis.am
+DOMAIN-SUFFIX,2gis.az
+DOMAIN-SUFFIX,2gis.by
+DOMAIN-SUFFIX,2gis.com
+DOMAIN-SUFFIX,2gis.com.cy
+DOMAIN-SUFFIX,2gis.cz
+DOMAIN-SUFFIX,2gis.ge
+DOMAIN-SUFFIX,2gis.kg
+DOMAIN-SUFFIX,2gis.kz
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,2gis.tj
+DOMAIN-SUFFIX,2gis.ua
+DOMAIN-SUFFIX,2gis.uz
+#end include:2gis
 #include:acer
 DOMAIN-SUFFIX,acer-group.com
 DOMAIN-SUFFIX,acer.com

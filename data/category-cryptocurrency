@@ -211,6 +211,7 @@ DOMAIN-SUFFIX,dogecoin.com
 DOMAIN-SUFFIX,dydx.exchange
 DOMAIN-SUFFIX,fundingrates.xyz
 DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,gmgn.ai
 DOMAIN-SUFFIX,guardarian.com
 DOMAIN-SUFFIX,hashflow.com
 DOMAIN-SUFFIX,infura.io
@@ -233,5 +234,7 @@ DOMAIN-SUFFIX,truefi.io
 DOMAIN-SUFFIX,unisat.io
 DOMAIN-SUFFIX,uniswap.org
 DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,web3modal.org
 DOMAIN-SUFFIX,wintermute.com
 DOMAIN-SUFFIX,zapper.fi
