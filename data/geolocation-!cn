@@ -2906,6 +2906,97 @@ DOMAIN-SUFFIX,ocsp-certum.com
 # Sub brand
 DOMAIN-SUFFIX,ocsp-responder.com    #Yandex
 #end include:certum
+#include:digicert
+DOMAIN-SUFFIX,dcocsp.cn
+DOMAIN-SUFFIX,digicert-cn.com    #Not in Chinese Mainland
+DOMAIN-SUFFIX,digicert-validation.com
+DOMAIN-SUFFIX,digicert.cn
+DOMAIN-SUFFIX,digicert.co.jp
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,digicert.eu
+DOMAIN-SUFFIX,digitalcertvalidation.com
+DOMAIN-SUFFIX,freessl.com
+DOMAIN-SUFFIX,geotrust.com
+DOMAIN-SUFFIX,rapidssl.com
+DOMAIN-SUFFIX,thawte.com
+DOMAIN-SUFFIX,thawte.de
+DOMAIN-SUFFIX,thawte.fr
+
+#include:cybertrust
+DOMAIN-SUFFIX,cybertrust.co.jp
+DOMAIN-SUFFIX,cybertrust.ne.jp
+#end include:cybertrust
+#include:verisign-pki
+# Verisign CA
+DOMAIN-SUFFIX,adobe-crl.verisign.com
+DOMAIN-SUFFIX,certipath-aia.verisign.com
+DOMAIN-SUFFIX,certipath-crl.verisign.com
+DOMAIN-SUFFIX,crl.verisign.com
+DOMAIN-SUFFIX,csc3-2004-aia.verisign.com
+DOMAIN-SUFFIX,csc3-2004-crl.verisign.com
+DOMAIN-SUFFIX,csc3-2009-2-aia.verisign.com
+DOMAIN-SUFFIX,csc3-2009-2-crl.verisign.com
+DOMAIN-SUFFIX,csc3-2009-aia.verisign.com
+DOMAIN-SUFFIX,csc3-2009-crl.verisign.com
+DOMAIN-SUFFIX,csc3-2010-aia.verisign.com
+DOMAIN-SUFFIX,csc3-2010-crl.verisign.com
+DOMAIN-SUFFIX,eca-client-crl.verisign.com
+DOMAIN-SUFFIX,eca-client-ocsp.verisign.com
+DOMAIN-SUFFIX,evintl-aia.verisign.com
+DOMAIN-SUFFIX,evintl-crl.verisign.com
+DOMAIN-SUFFIX,evintl-ocsp.verisign.com
+DOMAIN-SUFFIX,evintl-t1-crl.verisign.com
+DOMAIN-SUFFIX,evsecure-aia.verisign.com
+DOMAIN-SUFFIX,evsecure-crl.verisign.com
+DOMAIN-SUFFIX,evsecure-ocsp.verisign.com
+DOMAIN-SUFFIX,evsecure-t1-aia.verisign.com
+DOMAIN-SUFFIX,evsecure-t1-crl.verisign.com
+DOMAIN-SUFFIX,ocsp.verisign.com
+DOMAIN-SUFFIX,onsitecrl.verisign.com
+DOMAIN-SUFFIX,orgc3-crl.verisign.com
+DOMAIN-SUFFIX,pki-ocsp.verisign.com
+DOMAIN-SUFFIX,ssp-aia.verisign.com
+DOMAIN-SUFFIX,ssp-crl.verisign.com
+DOMAIN-SUFFIX,ssp-ocsp.verisign.com
+DOMAIN-SUFFIX,svr-wimax-ocsp.verisign.com
+DOMAIN-SUFFIX,svrintl-aia.verisign.com
+DOMAIN-SUFFIX,svrintl-crl.verisign.com
+DOMAIN-SUFFIX,svrintl-g3-aia.verisign.com
+DOMAIN-SUFFIX,svrintl-g3-crl.verisign.com
+DOMAIN-SUFFIX,svrintl-t1-aia.verisign.com
+DOMAIN-SUFFIX,svrintl-t1-crl.verisign.com
+DOMAIN-SUFFIX,svrsecure-aia.verisign.com
+DOMAIN-SUFFIX,svrsecure-crl.verisign.com
+DOMAIN-SUFFIX,svrsecure-g2-aia.verisign.com
+DOMAIN-SUFFIX,svrsecure-g2-crl.verisign.com
+DOMAIN-SUFFIX,svrsecure-g3-aia.verisign.com
+DOMAIN-SUFFIX,svrsecure-g3-crl.verisign.com
+DOMAIN-SUFFIX,svrsecure-oracle-aia.verisign.com
+DOMAIN-SUFFIX,svrsecure-oracle-crl.verisign.com
+DOMAIN-SUFFIX,svrsecure-oracle-ocsp.verisign.com
+DOMAIN-SUFFIX,svrsecure-t1-aia.verisign.com
+DOMAIN-SUFFIX,svrsecure-t1-crl.verisign.com
+DOMAIN-SUFFIX,svrtrial-g2-aia.verisign.com
+DOMAIN-SUFFIX,svrtrial-g2-crl.verisign.com
+#end include:verisign-pki
+#include:symantec-pki
+# Symantec CA
+DOMAIN-SUFFIX,pki.symantec.com
+DOMAIN-SUFFIX,symauth.com
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,ws.symantec.com
+#end include:symantec-pki
+
+# Quovadis
+DOMAIN-SUFFIX,quovadisglobal.com
+
+# Public Trust
+DOMAIN-SUFFIX,public-trust.com
+
+# Verizon CA
+DOMAIN-SUFFIX,omniroot.com
+#end include:digicert
 #include:entrust
 DOMAIN-SUFFIX,entrust.cn
 DOMAIN-SUFFIX,entrust.com
@@ -3507,6 +3598,7 @@ DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,bingx.com
 DOMAIN-SUFFIX,bitbank.cc
 DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bitcoincore.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bitmex.com
@@ -6287,6 +6379,20 @@ DOMAIN-SUFFIX,wbinsights.com
 #include:ynoproject
 DOMAIN-SUFFIX,ynoproject.net
 #end include:ynoproject
+#include:yostar
+# Yostar
+DOMAIN-SUFFIX,yo-star.com
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostar.net
+DOMAIN-SUFFIX,yostarplat.com
+# Yostar Pictures
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+# Stella Sora
+DOMAIN-SUFFIX,stargazer-games.com
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp
+#end include:yostar
 
 DOMAIN-SUFFIX,dinopoloclub.com
 DOMAIN-SUFFIX,dodi-repacks.download
@@ -22851,6 +22957,26 @@ DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 # Weather service
 DOMAIN,yandex-pogoda.static-storage.net
 #end include:yandex
+#include:zscaler
+# https://crt.sh/?id=23639384976
+DOMAIN-SUFFIX,securecloudtransformation.com
+DOMAIN-SUFFIX,securitypreview.com
+DOMAIN-SUFFIX,threatlabz.com
+DOMAIN-SUFFIX,zdxbeta.net
+DOMAIN-SUFFIX,zdxcloud.net
+DOMAIN-SUFFIX,zpagov.net
+DOMAIN-SUFFIX,zpath.com
+DOMAIN-SUFFIX,zscaler.com
+DOMAIN-SUFFIX,zscaler.jp
+DOMAIN-SUFFIX,zscaler.net
+DOMAIN-SUFFIX,zscalerbeta.net
+DOMAIN-SUFFIX,zscalergov.net
+DOMAIN-SUFFIX,zscalerone.net
+DOMAIN-SUFFIX,zscalershift.com
+DOMAIN-SUFFIX,zscalerthree.net
+DOMAIN-SUFFIX,zscalertwo.net
+DOMAIN-SUFFIX,zscloud.net
+#end include:zscaler
 
 # Remote Control
 #include:category-remote-control

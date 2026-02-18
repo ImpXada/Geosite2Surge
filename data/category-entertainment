@@ -781,6 +781,20 @@ DOMAIN-SUFFIX,wbinsights.com
 #include:ynoproject
 DOMAIN-SUFFIX,ynoproject.net
 #end include:ynoproject
+#include:yostar
+# Yostar
+DOMAIN-SUFFIX,yo-star.com
+DOMAIN-SUFFIX,yostar.cn
+DOMAIN-SUFFIX,yostar.co.jp
+DOMAIN-SUFFIX,yostar.net
+DOMAIN-SUFFIX,yostarplat.com
+# Yostar Pictures
+DOMAIN-SUFFIX,yostar-pictures.co.jp
+# Stella Sora
+DOMAIN-SUFFIX,stargazer-games.com
+DOMAIN-SUFFIX,stellasora.global
+DOMAIN-SUFFIX,stellasora.jp
+#end include:yostar
 
 DOMAIN-SUFFIX,dinopoloclub.com
 DOMAIN-SUFFIX,dodi-repacks.download
