@@ -1,12 +1,36 @@
+# CDNvideo is a leading CDN provider in Russia and the CIS
+DOMAIN-SUFFIX,cdnvideo.ru
+DOMAIN-SUFFIX,trbcdn.net
+
+# Information about films and series
+DOMAIN-SUFFIX,kinorium.com
+
+# Streaming services for watching TV series and movies
+#include:kinopoisk
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+#end include:kinopoisk
+#include:okko
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
 #end include:okko
+#include:wink
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,wink.ru
+#end include:wink
+DOMAIN-SUFFIX,24h.tv
+DOMAIN-SUFFIX,amediateka.ru
+DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,premier.one
+DOMAIN-SUFFIX,smotreshka.tv
+DOMAIN-SUFFIX,start.ru
+DOMAIN-SUFFIX,tvigle.ru
+DOMAIN-SUFFIX,viju.ru
+
+# Video hosting
+#include:rutube
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,rtbcdn.ru
 #end include:rutube
-DOMAIN-SUFFIX,ngenix.net
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,wink.ru
-#end include:wink

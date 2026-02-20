@@ -16,20 +16,6 @@ DOMAIN-SUFFIX,xn--d1acj3b
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 #end include:tld-ru
-#include:category-entertainment-ru
-DOMAIN-SUFFIX,playfamily.ru
-DOMAIN-SUFFIX,okko.sport
-DOMAIN-SUFFIX,okko.tv
-#end include:okko
-DOMAIN-SUFFIX,rutube.ru
-DOMAIN-SUFFIX,rutubelist.ru
-DOMAIN-SUFFIX,rtbcdn.ru
-#end include:rutube
-DOMAIN-SUFFIX,ngenix.net
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,wink.ru
-#end include:wink
-#end include:category-entertainment-ru
 #include:category-gov-ru
 # Federal Gov.
 DOMAIN-SUFFIX,government.ru
@@ -48,7 +34,13 @@ DOMAIN-SUFFIX,edu.ru
 
 # Other Federal Resources
 DOMAIN-SUFFIX,cbr.ru    #Central Bank of Russia
+DOMAIN-SUFFIX,cikrf.ru    #Central Electoral Commission of the Russian Federation
+DOMAIN-SUFFIX,ebs.ru    #Unified Biometric System
+DOMAIN-SUFFIX,goskey.ru    #GosKey - an electronic signature on a smartphone
+DOMAIN-SUFFIX,izbirkom.ru    #Information on ongoing elections and referendums
+DOMAIN-SUFFIX,kremlin.ru    #Online representation of the President of Russia
 DOMAIN-SUFFIX,nalog.ru    #Federal Tax Service
+DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai    #Honest Sign - State Labeling System
 
 #
 # Regional sites and Public Services
@@ -182,32 +174,56 @@ DOMAIN-SUFFIX,chukotka.ru    #Chukotka Autonomous Area
 DOMAIN-SUFFIX,jamal.ru    #Yamal-Nenets Autonomous Area
 DOMAIN-SUFFIX,surgut.ru    #Khanty-Mansi Autonomous Area – Yugra
 DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
+
+# Regional health services
+DOMAIN-SUFFIX,zdrav10.ru    #Republic of Karelia
 #end include:category-gov-ru
 #include:category-retail-ru
+# ABC of Taste
+DOMAIN-SUFFIX,av.ru
+
+# Auchan
+DOMAIN-SUFFIX,auchan.ru
+
+# Bristol
+DOMAIN-SUFFIX,bristol.ru
+
+# Children's World
+DOMAIN-SUFFIX,detmir.ru
+
+# Dixie
+DOMAIN-SUFFIX,dixy.ru
+
+# Dodo Pizza
+DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,dodois.io
+DOMAIN-SUFFIX,dodopizza.com
+DOMAIN-SUFFIX,dodopizza.ru
+DOMAIN-SUFFIX,dodostatic.net
+
+# Dostaevsky
+DOMAIN-SUFFIX,dostaevsky.ru
+
+# Eurasia
+DOMAIN-SUFFIX,evrasia.rest
+
+# Fast food restaurant chain "Vkusno i tochka"
+DOMAIN-SUFFIX,vkusnoitochka.ru
+
 # Fix Price
 DOMAIN-SUFFIX,fix-price.com
 
 # Lenta
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
-#end include:category-retail-ru
 
-# Public transportation
-#include:aviasales
-DOMAIN-SUFFIX,avs.io
-DOMAIN-SUFFIX,aviasales.ru
-DOMAIN-SUFFIX,aviasales.com
-#end include:aviasales
-#include:mosmetro
-DOMAIN-SUFFIX,mosmetro.ru
-DOMAIN-SUFFIX,mosmetro.tech
-#end include:mosmetro
+# Magnet
+DOMAIN-SUFFIX,magnit.ru
 
-#include:avito
-DOMAIN-SUFFIX,avito.ru
-DOMAIN-SUFFIX,avito.st
-#end include:avito
-#include:x5
+# Metro
+DOMAIN-SUFFIX,metro-cc.ru
+
+# Pyaterochka, Perekrestok, Chizhik
 DOMAIN-SUFFIX,5ka.ru
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club
@@ -239,6 +255,79 @@ DOMAIN-SUFFIX,x5q.ru
 DOMAIN-SUFFIX,x5static.net
 DOMAIN-SUFFIX,x5w.ru
 #end include:x5
+
+# Red and White
+DOMAIN-SUFFIX,krasnoeibeloe.ru
+
+# Rostics
+DOMAIN-SUFFIX,rostics.ru
+DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,unirest.tech
+
+# Sakura
+DOMAIN-SUFFIX,ilovesakura.ru
+
+# Spar
+DOMAIN-SUFFIX,myspar.ru
+
+# Sushi Wok
+DOMAIN-SUFFIX,sushiwok.ru
+
+# Vinlab
+DOMAIN-SUFFIX,winelab.ru
+
+# VkusVill
+DOMAIN-SUFFIX,vkusvill.ru
+#end include:category-retail-ru
+#include:category-travel-ru
+# Aviasales
+#include:aviasales
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,aviasales.com
+#end include:aviasales
+
+# BlaBlaCar
+DOMAIN-SUFFIX,blablacar.ru
+
+# Bus stations
+DOMAIN-SUFFIX,avtovokzaly.ru
+
+# Ostrovok
+DOMAIN-SUFFIX,ostrovok.ru
+
+# Othello from 2GIS
+DOMAIN-SUFFIX,otello.ru
+
+# Public transport and ticketing
+#include:mosmetro
+DOMAIN-SUFFIX,mosmetro.ru
+DOMAIN-SUFFIX,mosmetro.tech
+#end include:mosmetro
+DOMAIN,bilet.nspk.ru
+DOMAIN,metro.spb.ru
+DOMAIN,mos.transport.vtb.ru
+DOMAIN,podorozhnik.spb.ru
+DOMAIN,transport.mos.ru
+DOMAIN-SUFFIX,gorodpay.ru
+DOMAIN-SUFFIX,rrtp.ru
+DOMAIN-SUFFIX,sbertroika.ru
+
+# Russian Railways
+DOMAIN-SUFFIX,rzd-bonus.ru
+DOMAIN-SUFFIX,rzd.ru
+
+# Tutu
+DOMAIN-SUFFIX,tutu.ru
+
+# Yandex Rent
+DOMAIN,arenda.yandex.ru
+
+# Yandex Taxi
+DOMAIN,taxi.yandex.ru
+#end include:category-travel-ru
+
+# Well-known companies
 #include:yandex
 # All .yandex domains
 DOMAIN-SUFFIX,yandex
@@ -300,25 +389,95 @@ DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic.net
 
 # Watching movies, included in the Yandex subscription
+#include:kinopoisk
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+#end include:kinopoisk
 
 # Weather service
 DOMAIN,yandex-pogoda.static-storage.net
 #end include:yandex
 
-# Dodo Pizza
-DOMAIN-SUFFIX,dodopizza.ru
-DOMAIN-SUFFIX,dodopizza.com
-DOMAIN-SUFFIX,dodostatic.net
-DOMAIN-SUFFIX,dodois.com
-DOMAIN-SUFFIX,dodois.io
+# Bank & Finance & Insurance & Securities
+#include:category-bank-ru
+# Alfa Bank
+DOMAIN-SUFFIX,alfabank.ru
 
-# Rostics
-DOMAIN-SUFFIX,rostics.ru
-DOMAIN-SUFFIX,uni.rest
-DOMAIN-SUFFIX,unirest.tech
+# GazpromBank
+DOMAIN-SUFFIX,gazprombank.ru
+DOMAIN-SUFFIX,gpb.ru
 
-DOMAIN-SUFFIX,trbcdn.net
+# Mts dengi
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsdengi.ru
+
+# PSB Bank
+DOMAIN-SUFFIX,psbank.ru
+
+# RosBank
+DOMAIN-SUFFIX,bankline.ru
+DOMAIN-SUFFIX,rosbank.ru
+
+# RUSSIA Bank
+DOMAIN-SUFFIX,abr.ru
+
+# Russian Agricultural Bank
+DOMAIN-SUFFIX,rshb.ru
+
+# SberBank
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,sberbank.ru
+
+# T-Bank (Tinkoff)
+DOMAIN-SUFFIX,cdn-tinkoff.ru
 DOMAIN-SUFFIX,tbank-online.com
-DOMAIN-SUFFIX,taxsee.com
+DOMAIN-SUFFIX,tbank.ru
+
+# Tochka bank
+DOMAIN-SUFFIX,tochka-tech.com
+DOMAIN-SUFFIX,tochka.com
+
+# VTB Bank
+DOMAIN-SUFFIX,vtb.ru
+#end include:category-bank-ru
+# Credit History Bureaus
+DOMAIN-SUFFIX,credistory.ru
+DOMAIN-SUFFIX,nbki.ru
+# Currency and stock exchanges
+DOMAIN-SUFFIX,moex.com    #Moscow Stock Exchange
+DOMAIN-SUFFIX,spvb.ru    #Saint-Petersburg Stock Exchange
+# Financial marketplace
+DOMAIN-SUFFIX,banki.ru
+DOMAIN-SUFFIX,finuslugi.ru
+# Investment
+DOMAIN-SUFFIX,sistema-capital.com
+# Mir payment system
+DOMAIN-SUFFIX,mirpayonline.ru
+# National Payment Card System
+DOMAIN-SUFFIX,nspk.ru
+# Tipping service
+DOMAIN-SUFFIX,netmonet.co
+DOMAIN-SUFFIX,tips.tips
+
+# Telecom operators
+DOMAIN-SUFFIX,beeline.ru
+DOMAIN-SUFFIX,dom.ru
+DOMAIN-SUFFIX,megafon.ru
+DOMAIN-SUFFIX,mts.ru
+DOMAIN-SUFFIX,mymts.ru
+DOMAIN-SUFFIX,rostelecom.ru
+DOMAIN-SUFFIX,rt.ru
+DOMAIN-SUFFIX,t2.ru
+DOMAIN-SUFFIX,tele2.ru
+DOMAIN-SUFFIX,yota.ru
+
+# Other domains
+DOMAIN-SUFFIX,gazfond-pn.ru    #Non-state pension fund GAZFOND pension savings
+DOMAIN-SUFFIX,litres.ru    #E-book and audiobook service
+DOMAIN-SUFFIX,meteoinfo.ru    #Hydrometeorological Center of Russia
+DOMAIN-SUFFIX,ngenix.net    #NGENIX is a Russian provider of acceleration and security services for public web resources
+DOMAIN-SUFFIX,pochta.ru    #Russian post
+DOMAIN-SUFFIX,qms.ru    #Russian internet speed testing service
+DOMAIN-SUFFIX,rustore.ru    #RuStore is a Russian mobile app store for Android
+DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)

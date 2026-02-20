@@ -86,6 +86,7 @@ DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdn77.org
 #end include:cdn77
 #include:cloudflare
+#include:cloudflare-cn
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
 #end include:cloudflare-cn
+#include:cloudflare-ipfs
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
 #end include:cloudflare-ipfs

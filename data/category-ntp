@@ -1,4 +1,3 @@
-#include:category-ntp-cn
 # Aliyun
 # regexp:^ntp([1-7])?\.aliyun\.com$ @cn
 DOMAIN,ntp.aliyun.com
@@ -31,7 +30,6 @@ DOMAIN-SUFFIX,ntp.neu.edu.cn
 DOMAIN-SUFFIX,ntp.ntsc.ac.cn
 DOMAIN-SUFFIX,ntp.org.cn
 #end include:category-ntp-cn
-#include:category-ntp-jp
 # アマノセキュアジャパン(e-timing): https://www.e-timing.ne.jp/product/timestamp/open-server/
 DOMAIN-SUFFIX,ats1.e-timing.ne.jp
 

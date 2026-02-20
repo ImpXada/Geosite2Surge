@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,szse.cn
 DOMAIN-SUFFIX,cninfo.com.cn
 
 # Securities Company 证券公司
+#include:hsbc-cn
 DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hsbcinsurance.com.cn

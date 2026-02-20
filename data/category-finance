@@ -154,6 +154,48 @@ DOMAIN-SUFFIX,waveomoney.com.mm
 DOMAIN-SUFFIX,yomabank.com
 DOMAIN-SUFFIX,ysx-mm.com
 #end include:category-bank-mm
+#include:category-bank-ru
+# Alfa Bank
+DOMAIN-SUFFIX,alfabank.ru
+
+# GazpromBank
+DOMAIN-SUFFIX,gazprombank.ru
+DOMAIN-SUFFIX,gpb.ru
+
+# Mts dengi
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsdengi.ru
+
+# PSB Bank
+DOMAIN-SUFFIX,psbank.ru
+
+# RosBank
+DOMAIN-SUFFIX,bankline.ru
+DOMAIN-SUFFIX,rosbank.ru
+
+# RUSSIA Bank
+DOMAIN-SUFFIX,abr.ru
+
+# Russian Agricultural Bank
+DOMAIN-SUFFIX,rshb.ru
+
+# SberBank
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,sberbank.ru
+
+# T-Bank (Tinkoff)
+DOMAIN-SUFFIX,cdn-tinkoff.ru
+DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,tbank.ru
+
+# Tochka bank
+DOMAIN-SUFFIX,tochka-tech.com
+DOMAIN-SUFFIX,tochka.com
+
+# VTB Bank
+DOMAIN-SUFFIX,vtb.ru
+#end include:category-bank-ru
 
 #include:fibank
 DOMAIN-SUFFIX,fibank.bg

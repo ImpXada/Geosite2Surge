@@ -13,10 +13,12 @@ DOMAIN-SUFFIX,oracleinfinity.io
 DOMAIN-SUFFIX,sun.com
 DOMAIN-SUFFIX,virtualbox.org
 
+#include:addthis
 DOMAIN-SUFFIX,addthis.com
 DOMAIN-SUFFIX,addthiscdn.com
 DOMAIN-SUFFIX,addthisedge.com
 #end include:addthis
+#include:java
 # All .java domains
 DOMAIN-SUFFIX,java
 

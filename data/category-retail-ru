@@ -1,6 +1,99 @@
+# ABC of Taste
+DOMAIN-SUFFIX,av.ru
+
+# Auchan
+DOMAIN-SUFFIX,auchan.ru
+
+# Bristol
+DOMAIN-SUFFIX,bristol.ru
+
+# Children's World
+DOMAIN-SUFFIX,detmir.ru
+
+# Dixie
+DOMAIN-SUFFIX,dixy.ru
+
+# Dodo Pizza
+DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,dodois.io
+DOMAIN-SUFFIX,dodopizza.com
+DOMAIN-SUFFIX,dodopizza.ru
+DOMAIN-SUFFIX,dodostatic.net
+
+# Dostaevsky
+DOMAIN-SUFFIX,dostaevsky.ru
+
+# Eurasia
+DOMAIN-SUFFIX,evrasia.rest
+
+# Fast food restaurant chain "Vkusno i tochka"
+DOMAIN-SUFFIX,vkusnoitochka.ru
+
 # Fix Price
 DOMAIN-SUFFIX,fix-price.com
 
 # Lenta
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
+
+# Magnet
+DOMAIN-SUFFIX,magnit.ru
+
+# Metro
+DOMAIN-SUFFIX,metro-cc.ru
+
+# Pyaterochka, Perekrestok, Chizhik
+DOMAIN-SUFFIX,5ka.ru
+DOMAIN-SUFFIX,5post.market
+DOMAIN-SUFFIX,chizhik.club
+DOMAIN-SUFFIX,clubx5.ru
+DOMAIN-SUFFIX,dialogx5.ru
+DOMAIN-SUFFIX,e5.ru
+DOMAIN-SUFFIX,fivepost.ru
+DOMAIN-SUFFIX,idx5.ru
+DOMAIN-SUFFIX,jx5.ru
+DOMAIN-SUFFIX,keyx5.ru
+DOMAIN-SUFFIX,mnogolososya.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,okolo.app
+DOMAIN-SUFFIX,perekrestok.com
+DOMAIN-SUFFIX,perekrestok.ru
+DOMAIN-SUFFIX,x5.ai
+DOMAIN-SUFFIX,x5.com
+DOMAIN-SUFFIX,x5.digital
+DOMAIN-SUFFIX,x5.group
+DOMAIN-SUFFIX,x5.media
+DOMAIN-SUFFIX,x5.ru
+DOMAIN-SUFFIX,x5.team
+DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,x5club.ru
+DOMAIN-SUFFIX,x5id.ru
+DOMAIN-SUFFIX,x5l.ru
+DOMAIN-SUFFIX,x5paket.ru
+DOMAIN-SUFFIX,x5q.ru
+DOMAIN-SUFFIX,x5static.net
+DOMAIN-SUFFIX,x5w.ru
+#end include:x5
+
+# Red and White
+DOMAIN-SUFFIX,krasnoeibeloe.ru
+
+# Rostics
+DOMAIN-SUFFIX,rostics.ru
+DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,unirest.tech
+
+# Sakura
+DOMAIN-SUFFIX,ilovesakura.ru
+
+# Spar
+DOMAIN-SUFFIX,myspar.ru
+
+# Sushi Wok
+DOMAIN-SUFFIX,sushiwok.ru
+
+# Vinlab
+DOMAIN-SUFFIX,winelab.ru
+
+# VkusVill
+DOMAIN-SUFFIX,vkusvill.ru

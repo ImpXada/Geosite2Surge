@@ -1,3 +1,7 @@
+#include:avito
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+#end include:avito
 #include:ozon
 DOMAIN-SUFFIX,ozon.ru
 DOMAIN-SUFFIX,ozone.ru
