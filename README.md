@@ -865,6 +865,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | misskey | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/misskey |
 | misskey-universe | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/misskey-universe |
 | mit | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mit |
+| mixi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mixi |
 | mobile01 | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mobile01 |
 | mocha | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mocha |
 | modrinth | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/modrinth |

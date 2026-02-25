@@ -5426,6 +5426,10 @@ DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,trpger.us
 #end include:misskey-universe
 #end include:misskey
+DOMAIN-SUFFIX,mixi.co.jp
+DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,mixi.net
+#end include:mixi
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,mycdn.me
@@ -15686,6 +15690,7 @@ DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,openresty.org
 DOMAIN-SUFFIX,openssl.org
 DOMAIN-SUFFIX,opensuse.org
+DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,pcre.org
 DOMAIN-SUFFIX,phantomjs.org

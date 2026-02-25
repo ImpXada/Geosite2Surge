@@ -11,5 +11,6 @@ DOMAIN-SUFFIX,cdn-service.space
 DOMAIN-SUFFIX,cdn2cdn.com
 DOMAIN-SUFFIX,cdn2site.com
 DOMAIN-SUFFIX,pushbr.com    #poster images CDN
+DOMAIN-SUFFIX,smarttvcdn.online
 
 DOMAIN-WILDCARD,-static-*.cdntogo.net

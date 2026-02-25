@@ -545,6 +545,10 @@ DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,trpger.us
 #end include:misskey-universe
 #end include:misskey
+DOMAIN-SUFFIX,mixi.co.jp
+DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,mixi.net
+#end include:mixi
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,mycdn.me
