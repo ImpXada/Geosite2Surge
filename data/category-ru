@@ -16,6 +16,28 @@ DOMAIN-SUFFIX,xn--d1acj3b
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 #end include:tld-ru
+#include:category-ecommerce-ru
+#include:avito
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+#end include:avito
+#include:ozon
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonusercontent.com
+#end include:ozon
+#include:wildberries
+DOMAIN-SUFFIX,geobasket.ru
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,rwb.ru
+DOMAIN-SUFFIX,wb-basket.ru
+DOMAIN-SUFFIX,wb.ru
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbpay.ru
+DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,wildberries.ru
+#end include:wildberries
+#end include:category-ecommerce-ru
 #include:category-gov-ru
 # Federal Gov.
 DOMAIN-SUFFIX,government.ru
@@ -224,6 +246,7 @@ DOMAIN-SUFFIX,magnit.ru
 DOMAIN-SUFFIX,metro-cc.ru
 
 # Pyaterochka, Perekrestok, Chizhik
+#include:x5
 DOMAIN-SUFFIX,5ka.ru
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club
@@ -279,125 +302,8 @@ DOMAIN-SUFFIX,winelab.ru
 # VkusVill
 DOMAIN-SUFFIX,vkusvill.ru
 #end include:category-retail-ru
-#include:category-travel-ru
-# Aviasales
-#include:aviasales
-DOMAIN-SUFFIX,avs.io
-DOMAIN-SUFFIX,aviasales.ru
-DOMAIN-SUFFIX,aviasales.com
-#end include:aviasales
-
-# BlaBlaCar
-DOMAIN-SUFFIX,blablacar.ru
-
-# Bus stations
-DOMAIN-SUFFIX,avtovokzaly.ru
-
-# Ostrovok
-DOMAIN-SUFFIX,ostrovok.ru
-
-# Othello from 2GIS
-DOMAIN-SUFFIX,otello.ru
-
-# Public transport and ticketing
-#include:mosmetro
-DOMAIN-SUFFIX,mosmetro.ru
-DOMAIN-SUFFIX,mosmetro.tech
-#end include:mosmetro
-DOMAIN,bilet.nspk.ru
-DOMAIN,metro.spb.ru
-DOMAIN,mos.transport.vtb.ru
-DOMAIN,podorozhnik.spb.ru
-DOMAIN,transport.mos.ru
-DOMAIN-SUFFIX,gorodpay.ru
-DOMAIN-SUFFIX,rrtp.ru
-DOMAIN-SUFFIX,sbertroika.ru
-
-# Russian Railways
-DOMAIN-SUFFIX,rzd-bonus.ru
-DOMAIN-SUFFIX,rzd.ru
-
-# Tutu
-DOMAIN-SUFFIX,tutu.ru
-
-# Yandex Rent
-DOMAIN,arenda.yandex.ru
-
-# Yandex Taxi
-DOMAIN,taxi.yandex.ru
-#end include:category-travel-ru
 
 # Well-known companies
-#include:yandex
-# All .yandex domains
-DOMAIN-SUFFIX,yandex
-
-# яндекс.рф
-DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
-
-DOMAIN-SUFFIX,adfox.ru
-DOMAIN-SUFFIX,admetrica.ru
-DOMAIN-SUFFIX,naydex.net
-DOMAIN-SUFFIX,rostaxi.org
-DOMAIN-SUFFIX,turbopages.org
-DOMAIN-SUFFIX,webvisor.com
-DOMAIN-SUFFIX,webvisor.org
-DOMAIN-SUFFIX,ya.ru
-DOMAIN-SUFFIX,yads.tech
-DOMAIN-SUFFIX,yandex-bank.net
-DOMAIN-SUFFIX,yandex-images.clstorage.net
-DOMAIN-SUFFIX,yandex-team.ru
-DOMAIN-SUFFIX,yandex.aero
-DOMAIN-SUFFIX,yandex.az
-DOMAIN-SUFFIX,yandex.by
-DOMAIN-SUFFIX,yandex.cloud
-DOMAIN-SUFFIX,yandex.co.il
-DOMAIN-SUFFIX,yandex.com
-DOMAIN-SUFFIX,yandex.com.am
-DOMAIN-SUFFIX,yandex.com.ge
-DOMAIN-SUFFIX,yandex.com.ru
-DOMAIN-SUFFIX,yandex.com.tr
-DOMAIN-SUFFIX,yandex.com.ua
-DOMAIN-SUFFIX,yandex.de
-DOMAIN-SUFFIX,yandex.ee
-DOMAIN-SUFFIX,yandex.eu
-DOMAIN-SUFFIX,yandex.fi
-DOMAIN-SUFFIX,yandex.fr
-DOMAIN-SUFFIX,yandex.jobs
-DOMAIN-SUFFIX,yandex.kg
-DOMAIN-SUFFIX,yandex.kz
-DOMAIN-SUFFIX,yandex.lt
-DOMAIN-SUFFIX,yandex.lv
-DOMAIN-SUFFIX,yandex.md
-DOMAIN-SUFFIX,yandex.net
-DOMAIN-SUFFIX,yandex.org
-DOMAIN-SUFFIX,yandex.pl
-DOMAIN-SUFFIX,yandex.ru
-DOMAIN-SUFFIX,yandex.st
-DOMAIN-SUFFIX,yandex.sx
-DOMAIN-SUFFIX,yandex.tj
-DOMAIN-SUFFIX,yandex.tm
-DOMAIN-SUFFIX,yandex.tr
-DOMAIN-SUFFIX,yandex.ua
-DOMAIN-SUFFIX,yandex.uz
-DOMAIN-SUFFIX,yandexadexchange.net
-DOMAIN-SUFFIX,yandexcloud.net
-DOMAIN-SUFFIX,yandexcom.net
-DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN-SUFFIX,yandexwebcache.org
-DOMAIN-SUFFIX,yastat.net
-DOMAIN-SUFFIX,yastatic-net.ru
-DOMAIN-SUFFIX,yastatic.net
-
-# Watching movies, included in the Yandex subscription
-#include:kinopoisk
-DOMAIN-SUFFIX,kinopoisk.ru
-DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
-#end include:kinopoisk
-
-# Weather service
-DOMAIN,yandex-pogoda.static-storage.net
-#end include:yandex
 
 # Bank & Finance & Insurance & Securities
 #include:category-bank-ru

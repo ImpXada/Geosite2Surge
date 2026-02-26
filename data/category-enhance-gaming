@@ -1,14 +1,11 @@
-#include:playcover
 DOMAIN-SUFFIX,playcover.io
 DOMAIN-SUFFIX,playcover.workers.dev
 #end include:playcover
-#include:fflogs
 DOMAIN-SUFFIX,fflogs.com
 DOMAIN-SUFFIX,rpglogs.com
 
 DOMAIN-SUFFIX,rpglogs.cn
 #end include:fflogs
-#include:trackernetwork
 DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network

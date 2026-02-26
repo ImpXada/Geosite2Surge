@@ -80,15 +80,6 @@ DOMAIN-SUFFIX,ptt.cc
 DOMAIN-SUFFIX,ptt2.cc
 DOMAIN-SUFFIX,ptt3.cc
 #end include:ptt
-#include:quora
-DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,poecdn.net
-#end include:poe
-
-DOMAIN-SUFFIX,qr.ae
-DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,quoracdn.net
-#end include:quora
 #include:reddit
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.app.link

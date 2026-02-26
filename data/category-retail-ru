@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,magnit.ru
 DOMAIN-SUFFIX,metro-cc.ru
 
 # Pyaterochka, Perekrestok, Chizhik
+#include:x5
 DOMAIN-SUFFIX,5ka.ru
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,chizhik.club

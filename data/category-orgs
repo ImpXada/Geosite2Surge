@@ -143,23 +143,6 @@ DOMAIN-SUFFIX,stateofthemap.org
 #include:paskoocheh
 DOMAIN-SUFFIX,paskoocheh.com
 #end include:paskoocheh
-#include:peppy
-#include:osu
-# osu
-DOMAIN,a.ppy.sh
-DOMAIN,assets.ppy.sh
-DOMAIN,c.ppy.sh
-DOMAIN,osu.ppy.sh
-DOMAIN,m1.ppy.sh
-# osu lazer
-DOMAIN,lazer.ppy.sh
-DOMAIN,notify.ppy.sh
-DOMAIN,sentry.ppy.sh
-DOMAIN,spectator.ppy.sh
-#end include:osu
-
-DOMAIN-SUFFIX,ppy.sh
-#end include:peppy
 #include:ruleoflaw
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org

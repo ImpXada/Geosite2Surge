@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,androidify.com
 DOMAIN,android.googlesource.com
 #end include:android
 #include:apple-dev
-#include:swift
 DOMAIN-SUFFIX,appleswift.com
 DOMAIN-SUFFIX,swift.org
 DOMAIN-SUFFIX,swiftui.cn
@@ -572,6 +571,37 @@ DOMAIN-SUFFIX,termux.com
 DOMAIN-SUFFIX,termux.dev
 DOMAIN-SUFFIX,termux.org
 #end include:termux
+#include:thelinuxfoundation
+DOMAIN-SUFFIX,kernel.org
+#end include:kernel
+DOMAIN-SUFFIX,linux.org
+#end include:linux
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
+
+DOMAIN,cdn.ampproject.org
+
+DOMAIN,amp.akamaized.net
+#end include:amp
+DOMAIN-SUFFIX,electronjs.org
+#end include:electron
+DOMAIN-SUFFIX,jquery.com
+DOMAIN-SUFFIX,jquerymobile.com
+DOMAIN-SUFFIX,jqueryui.com
+#end include:jquery
+DOMAIN-SUFFIX,mochajs.org
+#end include:mocha
+DOMAIN-SUFFIX,nodejs.org
+#end include:nodejs
+
+DOMAIN-SUFFIX,openjsf.org
+#end include:openjsfoundation
+
+DOMAIN-SUFFIX,lfai.foundation
+DOMAIN-SUFFIX,linuxfoundation.org
+#end include:thelinuxfoundation
 #include:topcoder
 DOMAIN-SUFFIX,topcoder.com
 #end include:topcoder

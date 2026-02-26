@@ -320,11 +320,13 @@ DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,storage.live.com
 #end include:onedrive
 #include:xbox
+#include:asobo
 DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,flightsimulator.com
 
 DOMAIN,flightsimulator.azureedge.net
 #end include:asobo
+#include:bethesda
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
@@ -336,6 +338,7 @@ DOMAIN-SUFFIX,doom.com
 # The Elder Scrolls
 DOMAIN-SUFFIX,elderscrolls.com
 #end include:bethesda
+#include:forza
 DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
@@ -343,6 +346,7 @@ DOMAIN-SUFFIX,forzarc.com
 
 DOMAIN,prodforza.blob.core.windows.net
 #end include:forza
+#include:mojang
 DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.net
