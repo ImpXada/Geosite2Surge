@@ -631,3 +631,12 @@ DOMAIN-SUFFIX,vkvideo.ru
 #end include:vk
 
 DOMAIN-SUFFIX,truthsocial.com
+
+# Mastodon
+# * We can not make a comprehensive domain list of all Mastodon instances.
+# * Many more dynamic/random instance domains are not listed here.
+# * geosite:mastodon is not provided to avoid creating excessive expectations among users.
+DOMAIN-SUFFIX,joinmastodon.org
+DOMAIN-SUFFIX,mastodon.online
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,pawoo.net

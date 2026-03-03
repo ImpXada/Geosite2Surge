@@ -2105,6 +2105,10 @@ DOMAIN-SUFFIX,wuyou.net    #无忧启动论坛
 DOMAIN-SUFFIX,x-station.cn    #X电站
 DOMAIN-SUFFIX,znds.com    #智能电视网
 
+# DCC Forum（心跳文学部中文论坛）
+DOMAIN-SUFFIX,edgemonix.top    #图床
+DOMAIN-SUFFIX,monika.love
+
 DOMAIN-SUFFIX,423down.com    #423Down
 DOMAIN-SUFFIX,acwifi.net    #路由器技术分享
 DOMAIN-SUFFIX,appinn.com    #小众软件
