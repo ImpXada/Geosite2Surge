@@ -200,10 +200,7 @@ DOMAIN-SUFFIX,zenlesszonezero.com
 # ads/tracking
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 #end include:hoyoverse
-#include:illusion
-DOMAIN-SUFFIX,illusion.co.jp
-DOMAIN-SUFFIX,illusion.jp
-#end include:illusion
+# Dead include:illusion
 #include:itchio
 DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone

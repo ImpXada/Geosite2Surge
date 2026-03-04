@@ -52,21 +52,6 @@ DOMAIN-SUFFIX,mcadn.cn
 DOMAIN-SUFFIX,tlgslb.cn
 DOMAIN-SUFFIX,tlgslb.com
 #end include:dwion
-#include:qiniu
-#include:staticfile
-DOMAIN-SUFFIX,staticfile.net
-DOMAIN-SUFFIX,staticfile.org
-#end include:staticfile
-
-DOMAIN-SUFFIX,qbox.me
-DOMAIN-SUFFIX,qiniu.com
-DOMAIN-SUFFIX,qiniucdn.com
-DOMAIN-SUFFIX,qiniudn.com
-DOMAIN-SUFFIX,qiniudns.com
-DOMAIN-SUFFIX,qiniup.com
-DOMAIN-SUFFIX,qnsdk.com
-DOMAIN-SUFFIX,qnssl.com
-#end include:qiniu
 #include:upai
 DOMAIN-SUFFIX,aicdn.com
 DOMAIN-SUFFIX,upai.com

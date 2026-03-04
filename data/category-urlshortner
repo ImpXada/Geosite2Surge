@@ -1,0 +1,11 @@
+#include:bitly
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is
+#end include:bitly
+#include:shorturl
+DOMAIN-SUFFIX,shorturl.at
+#end include:shorturl
+#include:tinyurl
+DOMAIN-SUFFIX,tinyurl.com
+#end include:tinyurl

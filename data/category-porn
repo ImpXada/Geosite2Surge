@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,cuinc.tw
 DOMAIN-SUFFIX,chobit.cc
 DOMAIN-SUFFIX,ci-en.jp
 DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlaf.jp
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dlsite.com.tw
 DOMAIN-SUFFIX,dlsite.jp
@@ -241,10 +242,7 @@ DOMAIN-SUFFIX,slotbitches.com
 DOMAIN-SUFFIX,smutstone.com
 DOMAIN-SUFFIX,townofsins.com
 #end include:hooligapps
-#include:illusion
-DOMAIN-SUFFIX,illusion.co.jp
-DOMAIN-SUFFIX,illusion.jp
-#end include:illusion
+# Dead include:illusion
 #include:illusion-nonofficial
 DOMAIN-SUFFIX,acgcf.com
 DOMAIN-SUFFIX,acgdg.com
@@ -276,6 +274,11 @@ DOMAIN-SUFFIX,noisullifb.com
 DOMAIN-SUFFIX,wnoaissulli1.com
 DOMAIN-SUFFIX,zzycdz.com
 #end include:illusion-nonofficial
+#include:illgames
+# Also known as "Illusion"
+DOMAIN-SUFFIX,illgames.jp
+DOMAIN-SUFFIX,japan-illgames.com
+#end include:illgames
 #include:jable
 DOMAIN-SUFFIX,cdnlab.live
 DOMAIN-SUFFIX,jable.tv
