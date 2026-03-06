@@ -1010,6 +1010,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | playboy | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/playboy |
 | playcover | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/playcover |
 | playstation | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/playstation |
+| plex | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/plex |
 | plutotv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/plutotv |
 | pocketcasts | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pocketcasts |
 | poe | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/poe |
