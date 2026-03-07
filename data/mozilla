@@ -14,12 +14,6 @@ DOMAIN-SUFFIX,mdnyalp.dev
 
 DOMAIN,mdn.mozillademos.org
 #end include:mdn
-#include:rust
-DOMAIN-SUFFIX,rust-lang.org
-DOMAIN-SUFFIX,rustup.rs
-DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,docs.rs
-#end include:rust
 
 DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozilla.com
@@ -43,7 +37,10 @@ DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
 
 # Mozilla Location Service
-DOMAIN-SUFFIX,location.services.mozilla.com
+# * Overrided by above `mozilla.com`
+# * In March 2024, Mozilla announced the project was being discontinued
+#location.services.mozilla.com
 
 # Mozilla Push Service
-DOMAIN-SUFFIX,push.services.mozilla.com
+# * Overrided by above `mozilla.com`
+#push.services.mozilla.com

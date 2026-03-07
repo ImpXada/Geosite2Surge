@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,apkcombo.com
 #end include:apkcombo
 #include:apkmirror
 DOMAIN-SUFFIX,apkmirror.com
+
+DOMAIN,apkmirror.disqus.com
 #end include:apkmirror
 #include:apkpure
 DOMAIN-SUFFIX,apkpure.com
@@ -12,3 +14,7 @@ DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,pureapk.com
 DOMAIN-SUFFIX,winudf.com
 #end include:apkpure
+
+# Uptodown
+DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,utdstc.com

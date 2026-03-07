@@ -560,6 +560,9 @@ DOMAIN-SUFFIX,mixi.net
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,mycdn.me
+
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru
 #end include:ok
 #include:threads
 DOMAIN-SUFFIX,threads.com
@@ -630,6 +633,7 @@ DOMAIN-SUFFIX,vkuservideo.ru
 DOMAIN-SUFFIX,vkvideo.ru
 #end include:vk
 
+DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,truthsocial.com
 
 # Mastodon

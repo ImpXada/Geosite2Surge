@@ -366,6 +366,9 @@ DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,mycdn.me
+
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru
 #end include:ok
 #include:vk
 DOMAIN-SUFFIX,cdn-vk.ru
@@ -412,6 +415,10 @@ DOMAIN-SUFFIX,max.ru
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,oneme.ru
 DOMAIN-SUFFIX,tamtam.chat
+DOMAIN-SUFFIX,youla.io
+DOMAIN-SUFFIX,youla.ru
+
+DOMAIN,youla-web-static.mrgcdn.ru
 #end include:mailru-group
 #include:yandex
 # All .yandex domains
