@@ -2188,6 +2188,8 @@ DOMAIN-SUFFIX,visasavingsedge.ca
 DOMAIN-SUFFIX,visasignature.co.kr
 DOMAIN-SUFFIX,visb.org
 #end include:visa
+## アプリペイ
+DOMAIN-SUFFIX,app-pay.jp
 
 # CDN companies & Services
 #include:category-cdn-!cn

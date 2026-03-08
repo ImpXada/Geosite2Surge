@@ -8070,10 +8070,12 @@ DOMAIN-SUFFIX,samsungeshop.com.cn
 DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
 DOMAIN-SUFFIX,samsungiotcloud.com
+DOMAIN-SUFFIX,samsungiots.com
 DOMAIN-SUFFIX,samsungknox.com
 DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungqbe.com
 DOMAIN-SUFFIX,samsungrs.com
+DOMAIN-SUFFIX,smartthings.com
 #end include:samsung
 #include:skyperfect
 # SKY Perfect JSAT Holdings Inc.
