@@ -180,6 +180,11 @@ DOMAIN-SUFFIX,zencdn.net
 DOMAIN-SUFFIX,imgix.com
 DOMAIN-SUFFIX,imgix.net
 #end include:imgix
+#include:jsdelivr
+DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net
+#end include:jsdelivr
 #include:limelight
 DOMAIN-SUFFIX,delvenetworks.com
 DOMAIN-SUFFIX,limelight.com
@@ -211,3 +216,6 @@ DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,b-cdn.net
 DOMAIN-SUFFIX,bunny.net
 DOMAIN-SUFFIX,bunnycdn.com
+
+# cdnjs
+DOMAIN-SUFFIX,cdnjs.com

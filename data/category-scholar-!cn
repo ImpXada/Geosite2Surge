@@ -200,9 +200,6 @@ DOMAIN-SUFFIX,signalprocessingsociety.org
 DOMAIN-SUFFIX,technologyandsociety.org
 DOMAIN-SUFFIX,vtsociety.org
 #end include:ieee
-#include:knovel
-DOMAIN-SUFFIX,knovel.com
-#end include:knovel
 #include:mit
 # All .mit domains
 DOMAIN-SUFFIX,mit

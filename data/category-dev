@@ -108,27 +108,6 @@ DOMAIN-SUFFIX,forthebadge.com
 # Stock Against Photography
 DOMAIN-SUFFIX,stockagainstphotography.com
 #end include:braveux
-#include:canonical
-#include:launchpad
-DOMAIN-SUFFIX,launchpad.net
-DOMAIN-SUFFIX,launchpadcontent.net
-DOMAIN-SUFFIX,launchpadlibrarian.com
-DOMAIN-SUFFIX,launchpadlibrarian.net
-DOMAIN-SUFFIX,launchpadlibrarian.org
-#end include:launchpad
-#include:snapcraft
-DOMAIN-SUFFIX,snapcraft.io
-DOMAIN-SUFFIX,snapstore.io
-#end include:snapcraft
-#include:ubuntu
-DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,ubuntu.net
-DOMAIN-SUFFIX,ubuntuforums.org
-DOMAIN-SUFFIX,ubuntu-touch.io
-#end include:ubuntu
-
-DOMAIN-SUFFIX,canonical.com
-#end include:canonical
 #include:category-container
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,docker.io
@@ -282,52 +261,6 @@ DOMAIN-SUFFIX,gemfury.com
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
 #end include:gitbook
-#include:github
-#include:github-copilot
-DOMAIN-SUFFIX,githubcopilot.com
-#end include:github-copilot
-#include:npmjs
-DOMAIN-SUFFIX,npm.community
-DOMAIN-SUFFIX,npmjs.com
-DOMAIN-SUFFIX,npmjs.org
-#end include:npmjs
-
-DOMAIN-SUFFIX,atom.io
-DOMAIN-SUFFIX,dependabot.com
-DOMAIN-SUFFIX,gh.io
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,github.ai
-DOMAIN-SUFFIX,github.blog
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,github.community
-DOMAIN-SUFFIX,github.dev
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubhackathon.com
-DOMAIN-SUFFIX,githubnext.com
-DOMAIN-SUFFIX,githubpreview.dev
-DOMAIN-SUFFIX,githubstatus.com
-DOMAIN-SUFFIX,githubuniverse.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,myoctocat.com
-DOMAIN-SUFFIX,octocaptcha.com
-DOMAIN-SUFFIX,opensource.guide
-DOMAIN-SUFFIX,repo.new
-DOMAIN-SUFFIX,thegithubshop.com
-
-# GitHub Actions Artifacts
-DOMAIN-SUFFIX,blob.core.windows.net
-
-DOMAIN,github-api.arkoselabs.com
-DOMAIN,github-cloud.s3.amazonaws.com
-DOMAIN-WILDCARD,github-production-release-asset-*.s3.amazonaws.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,collector.github.com
-DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
-#end include:github
 #include:github1s
 DOMAIN-SUFFIX,github1s.com
 DOMAIN-SUFFIX,sourcegraph.com
@@ -431,13 +364,6 @@ DOMAIN-SUFFIX,bintray.com
 
 DOMAIN,d29vzk4ow07wi7.cloudfront.net
 #end include:jfrog
-#include:jsdelivr
-DOMAIN-SUFFIX,jsdelivr.com
-DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,esm.run
-
-DOMAIN,cdn.jsdelivr.net
-#end include:jsdelivr
 #include:kubernetes
 DOMAIN-SUFFIX,kubernetes.io
 DOMAIN-SUFFIX,k8s.io
@@ -524,16 +450,10 @@ DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
 #end include:nginx
-#include:nixos
-DOMAIN-SUFFIX,nixos.org
-#end include:nixos
 #include:openwrt
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,lede-project.org
 #end include:openwrt
-#include:osdn
-DOMAIN-SUFFIX,osdn.net
-#end include:osdn
 #include:perl
 DOMAIN-SUFFIX,perl.apache.org
 DOMAIN-SUFFIX,perl.org
@@ -553,9 +473,6 @@ DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,pythonhosted.org
 #end include:python
-#include:python-community
-DOMAIN-SUFFIX,piwheels.org
-#end include:python-community
 #include:qt
 DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,qt-project.org
@@ -570,9 +487,6 @@ DOMAIN-SUFFIX,readthedocs.org
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redislabs.com
 #end include:redis
-#include:remirepo
-DOMAIN-SUFFIX,remirepo.net
-#end include:remirepo
 #include:ruby
 DOMAIN-SUFFIX,ruby-lang.org
 DOMAIN-SUFFIX,rubygems.org
@@ -671,9 +585,6 @@ DOMAIN-SUFFIX,openjsf.org
 DOMAIN-SUFFIX,lfai.foundation
 DOMAIN-SUFFIX,linuxfoundation.org
 #end include:thelinuxfoundation
-#include:topcoder
-DOMAIN-SUFFIX,topcoder.com
-#end include:topcoder
 #include:unity
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
@@ -686,9 +597,6 @@ DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 #end include:v8
-#include:vim
-DOMAIN-SUFFIX,vim.org
-#end include:vim
 
 DOMAIN-SUFFIX,adventofcode.com
 DOMAIN-SUFFIX,alpinelinux.org
@@ -697,7 +605,6 @@ DOMAIN-SUFFIX,artixlinux.org
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,badgen.net
 DOMAIN-SUFFIX,bitvise.com
-DOMAIN-SUFFIX,cdnjs.com
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
 DOMAIN-SUFFIX,clojure.org
@@ -749,17 +656,20 @@ DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,openresty.org
 DOMAIN-SUFFIX,openssl.org
 DOMAIN-SUFFIX,opensuse.org
+DOMAIN-SUFFIX,osdn.net
 DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,packagist.org
 DOMAIN-SUFFIX,pcre.org
 DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,php.net
+DOMAIN-SUFFIX,piwheels.org
 DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,r-project.org
 DOMAIN-SUFFIX,raspberrypi.org
 DOMAIN-SUFFIX,raspbian.org
 DOMAIN-SUFFIX,regex101.com
+DOMAIN-SUFFIX,remirepo.net
 DOMAIN-SUFFIX,rpmfusion.org
 DOMAIN-SUFFIX,scientificlinux.org
 DOMAIN-SUFFIX,scoop.sh
@@ -769,9 +679,11 @@ DOMAIN-SUFFIX,sqlite.org
 DOMAIN-SUFFIX,sublimetext.com
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,topcoder.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,videolan.org
+DOMAIN-SUFFIX,vim.org
 DOMAIN-SUFFIX,wapm.io
 DOMAIN-SUFFIX,wasmer.io
 DOMAIN-SUFFIX,webflow.com
