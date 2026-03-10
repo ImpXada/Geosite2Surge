@@ -508,6 +508,9 @@ DOMAIN-SUFFIX,supercachenode.com
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com
+
+# 抖音支付
+DOMAIN-SUFFIX,douyinpay.com
 #end include:douyin
 #include:douyu
 DOMAIN-SUFFIX,douyu.com
@@ -1532,6 +1535,8 @@ DOMAIN-SUFFIX,tkhealthcare.com
 
 ## 航财通·校园付
 DOMAIN-SUFFIX,cc-pay.cn
+## 合利宝
+DOMAIN-SUFFIX,helipay.com
 ## 徽商期货有限责任公司
 DOMAIN-SUFFIX,hsqh.net
 ## 上海陆金所
@@ -1540,6 +1545,8 @@ DOMAIN-SUFFIX,lufax.com
 DOMAIN-SUFFIX,lufaxcdn.com
 ## 银豹收银系统
 DOMAIN-SUFFIX,pospal.cn
+## 上海付费通
+DOMAIN-SUFFIX,shfft.com
 
 # CDN or SDWAN
 #include:category-cdn-cn
@@ -3124,7 +3131,10 @@ DOMAIN-SUFFIX,jinshuju.net
 DOMAIN-SUFFIX,jinshujucdn.com
 #end include:jinshuju
 #include:keep
+DOMAIN-SUFFIX,calorietech.com
 DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,keep.com
+DOMAIN-SUFFIX,keep.com.cn
 DOMAIN-SUFFIX,keepcdn.com
 #end include:keep
 #include:lagou

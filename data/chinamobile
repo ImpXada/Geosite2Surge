@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,miguvideo.com
 # 中移金科
 DOMAIN-SUFFIX,cmft.com.cn
 
+# 中移支付 和包
+DOMAIN-SUFFIX,cmpay.com
+
 # 中移在线
 DOMAIN-SUFFIX,cmcc-cs.cn
 DOMAIN-SUFFIX,online-cmcc.cn

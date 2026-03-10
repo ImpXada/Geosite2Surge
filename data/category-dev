@@ -609,6 +609,7 @@ DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
 DOMAIN-SUFFIX,clojure.org
 DOMAIN-SUFFIX,cnpmjs.org
+DOMAIN-SUFFIX,cve.org
 DOMAIN-SUFFIX,cygwin.com
 DOMAIN-SUFFIX,cython.org
 DOMAIN-SUFFIX,deno.com
