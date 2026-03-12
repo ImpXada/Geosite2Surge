@@ -52,6 +52,10 @@ DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohucs.com
 
+# 56网
+DOMAIN-SUFFIX,56.com
+DOMAIN-SUFFIX,56img.com
+
 # Ads/tracking
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com

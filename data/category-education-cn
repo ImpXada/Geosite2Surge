@@ -184,6 +184,11 @@ DOMAIN-SUFFIX,llscdn.com
 DOMAIN-SUFFIX,llsserver.com
 # 马哥教育
 DOMAIN-SUFFIX,magedu.com
+# 墨墨背单词
+DOMAIN-SUFFIX,maimemo.com
+DOMAIN-SUFFIX,maimemostatus.com
+# 墨墨记忆卡
+DOMAIN-SUFFIX,markji.com
 # CIS NanoMasters
 DOMAIN-SUFFIX,neoscholar.com
 DOMAIN-SUFFIX,neoschool.com
