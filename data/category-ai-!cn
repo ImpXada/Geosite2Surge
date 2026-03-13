@@ -1,9 +1,10 @@
 #include:anthropic
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
 
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net
@@ -199,6 +200,7 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 
 DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,diabrowser.com
@@ -206,9 +208,11 @@ DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,duck.ai
 DOMAIN-SUFFIX,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,h2o.ai
 DOMAIN-SUFFIX,kiro.dev
 DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,openrouter.ai
