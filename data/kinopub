@@ -3,6 +3,7 @@ DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,kpdl.link
 
 # Mirror sites
+DOMAIN-SUFFIX,ahc.ovh    #sub domains mirror
 DOMAIN-SUFFIX,gfw.ovh    #sub domains mirror
 DOMAIN-SUFFIX,mos-gorsud.co    #kinopub domain to generate a mirror site through gfw.ovh
 
