@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,tegrazone.com
 DOMAIN-SUFFIX,tegrazone.jp
 DOMAIN-SUFFIX,tegrazone.kr
 
+DOMAIN,nvidia.custhelp.com
 DOMAIN,nvidia.tt.omtrdc.net
 
 # NVIDIA 文件下载服务器中国镜像
