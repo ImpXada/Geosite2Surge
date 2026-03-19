@@ -1240,6 +1240,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | tidal | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tidal |
 | tidelift | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tidelift |
 | tiktok | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tiktok |
+| tilda | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tilda |
 | tinyurl | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tinyurl |
 | tld-!cn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tld-!cn |
 | tld-cn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tld-cn |
