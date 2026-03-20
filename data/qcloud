@@ -277,13 +277,14 @@ DOMAIN-SUFFIX,tdnsv14.net
 DOMAIN-SUFFIX,tdnsv15.net
 
 # myqcloud inside mainland China
-DOMAIN-WILDCARD,.*ap-beijing*.myqcloud.com    #北京
-DOMAIN-WILDCARD,.*ap-nanjing*.myqcloud.com    #南京
-DOMAIN-WILDCARD,.*ap-shanghai*.myqcloud.com    #上海
-DOMAIN-WILDCARD,.*ap-guangzhou*.myqcloud.com    #广州
-DOMAIN-WILDCARD,.*ap-chengdu*.myqcloud.com    #成都
-DOMAIN-WILDCARD,.*ap-chongqing*.myqcloud.com    #重庆
-DOMAIN-WILDCARD,.*ap-shenzhen*.myqcloud.com    #深圳
+# overrided by myqcloud.com
+#regexp:\.(.+-)?ap-beijing(-.+)?\.myqcloud\.com$             #北京
+#regexp:\.(.+-)?ap-nanjing(-.+)?\.myqcloud\.com$             #南京
+#regexp:\.(.+-)?ap-shanghai(-.+)?\.myqcloud\.com$            #上海
+#regexp:\.(.+-)?ap-guangzhou(-.+)?\.myqcloud\.com$           #广州
+#regexp:\.(.+-)?ap-chengdu(-.+)?\.myqcloud\.com$             #成都
+#regexp:\.(.+-)?ap-chongqing(-.+)?\.myqcloud\.com$           #重庆
+#regexp:\.(.+-)?ap-shenzhen(-.+)?\.myqcloud\.com$            #深圳
 
 # COS 使用到的非中国大陆的地域与可用区，参见 https://cloud.tencent.com/document/product/436/6224
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com    #中国香港
@@ -301,13 +302,14 @@ DOMAIN-SUFFIX,eu-frankfurt.myqcloud.com    #法兰克福
 DOMAIN-SUFFIX,eu-moscow.myqcloud.com    #莫斯科
 
 # tencentcos inside mainland China
-DOMAIN-WILDCARD,.*ap-beijing*.tencentcos.    #北京
-DOMAIN-WILDCARD,.*ap-nanjing*.tencentcos.    #南京
-DOMAIN-WILDCARD,.*ap-shanghai*.tencentcos.    #上海
-DOMAIN-WILDCARD,.*ap-guangzhou*.tencentcos.    #广州
-DOMAIN-WILDCARD,.*ap-chengdu*.tencentcos.    #成都
-DOMAIN-WILDCARD,.*ap-chongqing*.tencentcos.    #重庆
-DOMAIN-WILDCARD,.*ap-shenzhen*.tencentcos.    #深圳
+# overrided by tencentcos.cn, tencentcos.com, tencentcos.com.cn
+#regexp:\.(.+-)?ap-beijing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #北京
+#regexp:\.(.+-)?ap-nanjing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #南京
+#regexp:\.(.+-)?ap-shanghai(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #上海
+#regexp:\.(.+-)?ap-guangzhou(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #广州
+#regexp:\.(.+-)?ap-chengdu(-.+)?\.tencentcos\.(cn|com(\.cn)?)$   #成都
+#regexp:\.(.+-)?ap-chongqing(-.+)?\.tencentcos\.(cn|com(\.cn)?)$ #重庆
+#regexp:\.(.+-)?ap-shenzhen(-.+)?\.tencentcos\.(cn|com(\.cn)?)$  #深圳
 
 # tencentcos outside mainland China
 # regexp:.+\.ap-hongkong\.tencentcos\.(cn|com(\.cn)?)$ @!cn       #中国香港
