@@ -4093,6 +4093,7 @@ DOMAIN-SUFFIX,wolframalpha.com
 
 #include:category-acg
 # Game
+DOMAIN-SUFFIX,bestdori.com
 DOMAIN-SUFFIX,colorfulstage.com
 
 # Idol
@@ -10336,6 +10337,7 @@ DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,xposed.info
 DOMAIN-SUFFIX,yarnpkg.com
+DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zsh.org
 #end include:category-dev
 
