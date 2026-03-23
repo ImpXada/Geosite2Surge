@@ -206,6 +206,7 @@ DOMAIN-SUFFIX,tmtsmartrun.com
 #include:weiphone
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fengimg.com
+DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,wfdata.club
 #end include:weiphone
 #include:xueqiu
@@ -346,6 +347,10 @@ DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,statickksmg.com
 # 晚点
 DOMAIN-SUFFIX,latepost.com
+# 雷科技
+DOMAIN-SUFFIX,leikeji.com
+# 雷峰网
+DOMAIN-SUFFIX,leiphone.com
 # 今日观察网
 DOMAIN-SUFFIX,miercn.com
 # 快科技
@@ -417,14 +422,21 @@ DOMAIN-SUFFIX,techweb.com.cn
 DOMAIN-SUFFIX,thecover.cn
 # 澎湃新闻
 DOMAIN-SUFFIX,thepaper.cn
+# 潮新闻/浙江日报
+DOMAIN-SUFFIX,8531.cn
+DOMAIN-SUFFIX,tidenews.com.cn
 # 人人都是产品经理
 DOMAIN-SUFFIX,woshipm.com
+# 新华日报
+DOMAIN-SUFFIX,xhby.net
 # 西陆网
 DOMAIN-SUFFIX,xilu.com
 # 新快报
 DOMAIN-SUFFIX,xkb.com.cn
 # 第一财经
 DOMAIN-SUFFIX,yicai.com
+# 扬子晚报
+DOMAIN-SUFFIX,yzwb.net
 # ZEALER
 DOMAIN-SUFFIX,zealer.com
 # 知产力

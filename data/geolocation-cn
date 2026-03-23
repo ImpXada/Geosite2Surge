@@ -2173,8 +2173,12 @@ DOMAIN-SUFFIX,mingxuan.store
 DOMAIN-SUFFIX,gov.cn
 ## 中国气象局
 DOMAIN-SUFFIX,cma.cn
+## 政务和公益机构域名注册管理中心
+DOMAIN-SUFFIX,conac.cn
 ## 中央气象台
 DOMAIN-SUFFIX,nmc.cn
+## 中国互联网联合辟谣平台
+DOMAIN-SUFFIX,piyao.org.cn
 
 # Public transportation
 ## 中国国际航空
@@ -2422,6 +2426,7 @@ DOMAIN-SUFFIX,eoffcn.com
 DOMAIN-SUFFIX,jinrongren.net
 DOMAIN-SUFFIX,offcn.com
 DOMAIN-SUFFIX,zggqzp.com
+DOMAIN-SUFFIX,zgjsks.com
 DOMAIN-SUFFIX,zgsydw.com
 # 高考100
 DOMAIN-SUFFIX,gk100.com
@@ -2436,6 +2441,9 @@ DOMAIN-SUFFIX,xir.cn
 # 日语测试
 DOMAIN-SUFFIX,j-test.com
 DOMAIN-SUFFIX,nattest-china.com
+# 菁优网
+DOMAIN-SUFFIX,jyeoo.com
+DOMAIN-SUFFIX,jyeoo.net
 # 课播云校
 DOMAIN-SUFFIX,keboyunxiao.com
 # 课堂派
@@ -2677,14 +2685,14 @@ DOMAIN-SUFFIX,webterren.com
 ## 国学大师网
 DOMAIN-SUFFIX,guoxuedashi.com
 DOMAIN-SUFFIX,guoxuemi.com
-## 志愿汇
-DOMAIN-SUFFIX,zyh365.com
 ## 温州市图书馆
 DOMAIN-SUFFIX,wzlib.cn
 ## 中国大百科全书
 DOMAIN-SUFFIX,zgbk.com
 ## 浙江图书馆
 DOMAIN-SUFFIX,zjlib.cn
+## 志愿汇
+DOMAIN-SUFFIX,zyh365.com
 
 # Services & Softwares
 #include:category-ai-cn
@@ -4678,8 +4686,6 @@ DOMAIN-SUFFIX,lascn.net
 DOMAIN-SUFFIX,lawxp.com
 DOMAIN-SUFFIX,leangoo.com
 DOMAIN-SUFFIX,leanote.com
-DOMAIN-SUFFIX,leikeji.com
-DOMAIN-SUFFIX,leiphone.com
 DOMAIN-SUFFIX,leiting.com
 DOMAIN-SUFFIX,leju.com
 DOMAIN-SUFFIX,leturich.org
@@ -4960,7 +4966,6 @@ DOMAIN-SUFFIX,weand.com
 DOMAIN-SUFFIX,weavatar.com
 DOMAIN-SUFFIX,weicaifu.com
 DOMAIN-SUFFIX,weilaicaijing.com
-DOMAIN-SUFFIX,weiphone.net
 DOMAIN-SUFFIX,weixing.com
 DOMAIN-SUFFIX,weiyangx.com
 DOMAIN-SUFFIX,welltrend-edu.com
@@ -5089,7 +5094,6 @@ DOMAIN-SUFFIX,zastatic.com
 DOMAIN-SUFFIX,zczj.com
 DOMAIN-SUFFIX,zdfans.com
 DOMAIN-SUFFIX,zgjm.org
-DOMAIN-SUFFIX,zgjsks.com
 DOMAIN-SUFFIX,zglxw.com
 DOMAIN-SUFFIX,zgzcw.com
 DOMAIN-SUFFIX,zhanbuba.com
