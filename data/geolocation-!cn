@@ -5579,6 +5579,10 @@ DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevodtv.com
 DOMAIN-SUFFIX,olemovienews.com
 #end include:olevod
+#include:openrec
+DOMAIN,dqd0jw5gvbchn.cloudfront.net
+DOMAIN-SUFFIX,openrec.tv
+#end include:openrec
 #include:pbs
 DOMAIN-SUFFIX,pbs.org
 #end include:pbs

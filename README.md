@@ -955,6 +955,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | openai | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/openai |
 | opencollective | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/opencollective |
 | openjsfoundation | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/openjsfoundation |
+| openrec | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/openrec |
 | opensourceinsights | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/opensourceinsights |
 | openspeedtest | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/openspeedtest |
 | openstreetmap | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/openstreetmap |
