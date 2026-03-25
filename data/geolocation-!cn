@@ -9636,6 +9636,8 @@ DOMAIN-SUFFIX,immersivetranslate.com    #沉浸式翻译 (国际版)
 DOMAIN-SUFFIX,originlab.com
 ## OsmAnd
 DOMAIN-SUFFIX,osmand.net
+## Xiaomi Flash (not affiliated with the official Xiaomi)
+DOMAIN-SUFFIX,xiaomiflash.com
 
 # Software development
 #include:category-dev

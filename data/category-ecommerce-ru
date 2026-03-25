@@ -3,8 +3,15 @@ DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 #end include:avito
 #include:ozon
+DOMAIN-SUFFIX,ozon.by
+DOMAIN-SUFFIX,ozon.com
+DOMAIN-SUFFIX,ozon.com.by
+DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ozon.kz
 DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozon.tm
 DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonru.me
 DOMAIN-SUFFIX,ozonusercontent.com
 #end include:ozon
 #include:wildberries
