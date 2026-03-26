@@ -230,6 +230,7 @@ DOMAIN-SUFFIX,21jingji.com
 DOMAIN-SUFFIX,admin5.com
 # 安徽新闻
 DOMAIN-SUFFIX,anhuinews.com
+DOMAIN-SUFFIX,anhuiyun.com
 # 锋潮科技
 DOMAIN-SUFFIX,anzhuo.cn
 # 鞭牛士
@@ -262,6 +263,11 @@ DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,cqsjb.com
 # 中证网
 DOMAIN-SUFFIX,cs.com.cn
+# 极目新闻/楚天都市报
+DOMAIN-SUFFIX,ctdsb.net
+DOMAIN,ctdsb.clouddiffuse.xyz
+# 创头条
+DOMAIN-SUFFIX,ctoutiao.com
 # 创业邦
 DOMAIN-SUFFIX,cyzone.cn
 # 浙江广播电视集团/浙江卫视/新蓝网
@@ -290,6 +296,8 @@ DOMAIN-SUFFIX,freebuf.com
 DOMAIN-SUFFIX,geekpark.net
 # 光明网
 DOMAIN-SUFFIX,gmw.com
+# 观察者网
+DOMAIN-SUFFIX,guancha.cn
 # 硅谷网
 DOMAIN-SUFFIX,guigu.org
 # 同花顺
@@ -313,8 +321,12 @@ DOMAIN-SUFFIX,huxiu.com
 DOMAIN-SUFFIX,huxiucdn.com
 # 电脑报
 DOMAIN-SUFFIX,icpcw.com
+# 长沙晚报
+DOMAIN-SUFFIX,icswb.com
 # 中国IDC圈
 DOMAIN-SUFFIX,idcquan.com
+# 砍柴网
+DOMAIN-SUFFIX,ikanchai.com
 # 艾瑞咨询
 DOMAIN-SUFFIX,iresearch.cn
 # IT168
@@ -328,6 +340,8 @@ DOMAIN-SUFFIX,jin10.com
 # 上观新闻/解放日报
 DOMAIN-SUFFIX,jfdaily.com
 DOMAIN-SUFFIX,shobserver.com
+# 新黄河/济南时报
+DOMAIN-SUFFIX,jinantimes.com.cn
 # 机器之心
 DOMAIN-SUFFIX,jiqizhixin.com
 # 金融界
@@ -336,6 +350,8 @@ DOMAIN-SUFFIX,jrjimg.cn
 # 江苏省广播电视总台
 DOMAIN-SUFFIX,jsbc.com
 DOMAIN-SUFFIX,jstv.com
+# 大江网/江西日报社
+DOMAIN-SUFFIX,jxnews.com.cn
 # 江西省出版传媒集团
 DOMAIN-SUFFIX,jxpp.com
 # 晋中广播电视台视听网
@@ -345,6 +361,8 @@ DOMAIN-SUFFIX,kankanews.com
 DOMAIN-SUFFIX,kankannews.com
 DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,statickksmg.com
+# 新智派
+DOMAIN-SUFFIX,knewsmart.com
 # 晚点
 DOMAIN-SUFFIX,latepost.com
 # 雷科技
@@ -370,6 +388,8 @@ DOMAIN-SUFFIX,pchome.net
 DOMAIN-SUFFIX,pchpic.net
 # PConline 太平洋科技
 DOMAIN-SUFFIX,3conline.com
+DOMAIN-SUFFIX,pcauto.com.cn
+DOMAIN-SUFFIX,pchouse.com.cn
 DOMAIN-SUFFIX,pconline.com.cn
 # 泡泡网
 DOMAIN-SUFFIX,pcpop.com
@@ -399,6 +419,8 @@ DOMAIN-SUFFIX,sfccn.com
 DOMAIN-SUFFIX,shangyexinzhi.com
 # 奇客资讯网
 DOMAIN-SUFFIX,solidot.org
+# 速途网
+DOMAIN-SUFFIX,sootoo.com
 # 南方新闻网
 DOMAIN-SUFFIX,southcn.com
 # 南方财富网
@@ -418,6 +440,8 @@ DOMAIN-SUFFIX,szpgm.com
 DOMAIN-SUFFIX,takungpao.com
 # TechWeb
 DOMAIN-SUFFIX,techweb.com.cn
+# 科技行者
+DOMAIN-SUFFIX,techwalker.com
 # 封面新闻
 DOMAIN-SUFFIX,thecover.cn
 # 澎湃新闻
@@ -433,6 +457,8 @@ DOMAIN-SUFFIX,xhby.net
 DOMAIN-SUFFIX,xilu.com
 # 新快报
 DOMAIN-SUFFIX,xkb.com.cn
+# 金羊网/羊城晚报
+DOMAIN-SUFFIX,ycwb.com
 # 第一财经
 DOMAIN-SUFFIX,yicai.com
 # 扬子晚报
@@ -441,6 +467,8 @@ DOMAIN-SUFFIX,yzwb.net
 DOMAIN-SUFFIX,zealer.com
 # 知产力
 DOMAIN-SUFFIX,zhichanli.com
+# 至顶网
+DOMAIN-SUFFIX,zhiding.cn
 # 中关村在线
 DOMAIN-SUFFIX,zol-img.com.cn
 DOMAIN-SUFFIX,zol.com.cn

@@ -762,6 +762,7 @@ DOMAIN-SUFFIX,stellasora.global
 DOMAIN-SUFFIX,stellasora.jp
 #end include:yostar
 
+DOMAIN-SUFFIX,chunkbase.com
 DOMAIN-SUFFIX,dinopoloclub.com
 DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
@@ -773,13 +774,17 @@ DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,minecraft.wiki
+DOMAIN-SUFFIX,minecraftforge.net
 DOMAIN-SUFFIX,mobimon.com.tw
 DOMAIN-SUFFIX,muvluv-girls-garden.com
+DOMAIN-SUFFIX,namemc.com
+DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN-SUFFIX,noxygames.com
 DOMAIN-SUFFIX,offworldindustries.com
 DOMAIN-SUFFIX,offworldindustries.net
+DOMAIN-SUFFIX,optifine.net
 DOMAIN-SUFFIX,papermc.io
 DOMAIN-SUFFIX,planetminecraft.com
 DOMAIN-SUFFIX,prismlauncher.org
@@ -788,5 +793,6 @@ DOMAIN-SUFFIX,quiltmc.org
 DOMAIN-SUFFIX,rayark.download
 DOMAIN-SUFFIX,rayark.net
 DOMAIN-SUFFIX,speedrun.com
+DOMAIN-SUFFIX,spigotmc.org
 DOMAIN-SUFFIX,steamdb.info
 #end include:category-games-!cn

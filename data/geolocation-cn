@@ -953,6 +953,8 @@ DOMAIN-SUFFIX,vsread.com
 DOMAIN-SUFFIX,yamibo.com
 # 易有料
 DOMAIN-SUFFIX,yiyouliao.com
+# 游迅网
+DOMAIN-SUFFIX,yxdown.com
 # 战旗直播
 DOMAIN-SUFFIX,zhanqi.tv
 # 逐浪小说
@@ -2093,6 +2095,7 @@ DOMAIN-SUFFIX,saraba1st.com
 DOMAIN-SUFFIX,stage1st.com
 #end include:stage1st
 
+DOMAIN-SUFFIX,178linux.com    #Linux运维部落
 DOMAIN-SUFFIX,52pojie.cn    #吾爱破解
 DOMAIN-SUFFIX,anywlan.com    #无线论坛
 DOMAIN-SUFFIX,chinadsl.net    #宽带技术网
@@ -2119,6 +2122,9 @@ DOMAIN-SUFFIX,wuyou.net    #无忧启动论坛
 DOMAIN-SUFFIX,x-station.cn    #X电站
 DOMAIN-SUFFIX,znds.com    #智能电视网
 
+# 51CTO
+DOMAIN-SUFFIX,51cto.com
+DOMAIN-SUFFIX,51ctocdn.cn
 # DCC Forum（心跳文学部中文论坛）
 DOMAIN-SUFFIX,edgemonix.top    #图床
 DOMAIN-SUFFIX,monika.love
@@ -2795,6 +2801,12 @@ DOMAIN-SUFFIX,faxingbao.com
 DOMAIN-SUFFIX,meta.law
 DOMAIN-SUFFIX,metaso.cn
 DOMAIN-SUFFIX,xiezuocat.com
+
+# DUI/思必驰
+DOMAIN-SUFFIX,aispeech.com
+DOMAIN-SUFFIX,dui.ai
+DOMAIN-SUFFIX,duiopen.com
+
 #end include:category-ai-cn
 #include:category-collaborate-cn
 # 远程桌面/远程组网
@@ -2849,6 +2861,7 @@ DOMAIN-SUFFIX,worktile.com
 #include:category-documents-cn
 DOMAIN-SUFFIX,1ppt.com
 DOMAIN-SUFFIX,360doc.com
+DOMAIN-SUFFIX,51wendang.com
 DOMAIN-SUFFIX,52ppt.com
 DOMAIN-SUFFIX,badou.com
 DOMAIN-SUFFIX,book118.com
@@ -3349,6 +3362,8 @@ DOMAIN-SUFFIX,alookweb.com
 ## 安兔兔
 DOMAIN-SUFFIX,antutu.com
 DOMAIN-SUFFIX,antutu.net
+## 问答库
+DOMAIN-SUFFIX,asklib.com
 ## 拓竹科技
 DOMAIN-SUFFIX,bambulab.com
 DOMAIN-SUFFIX,bblmw.com
@@ -3425,6 +3440,8 @@ DOMAIN-SUFFIX,tianqi.com
 DOMAIN-SUFFIX,tianqistatic.com
 ## Via 浏览器
 DOMAIN-SUFFIX,viayoo.com
+## 问卷网
+DOMAIN-SUFFIX,wenjuan.com
 ## X 浏览器
 DOMAIN-SUFFIX,xbext.com
 ## 印象笔记
@@ -4015,6 +4032,8 @@ DOMAIN-SUFFIX,tongfangpc.com
 DOMAIN-SUFFIX,mechrevo.com
 #end include:tongfang
 #include:xunlei
+DOMAIN-SUFFIX,8uri.cn
+DOMAIN-SUFFIX,kanimg.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thunderurl.com
 DOMAIN-SUFFIX,xunlei.com
@@ -4192,7 +4211,6 @@ DOMAIN-SUFFIX,123u.com
 DOMAIN-SUFFIX,1637.com
 DOMAIN-SUFFIX,16888.com
 DOMAIN-SUFFIX,16rd.com
-DOMAIN-SUFFIX,178linux.com
 DOMAIN-SUFFIX,17989.com
 DOMAIN-SUFFIX,17cdn.com
 DOMAIN-SUFFIX,17house.com
@@ -4242,14 +4260,12 @@ DOMAIN-SUFFIX,50bang.org
 DOMAIN-SUFFIX,51.com
 DOMAIN-SUFFIX,510you.com
 DOMAIN-SUFFIX,51credit.com
-DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,51eshop.com
 DOMAIN-SUFFIX,51gaifang.com
 DOMAIN-SUFFIX,51hejia.com
 DOMAIN-SUFFIX,51jingying.com
 DOMAIN-SUFFIX,51meishu.com
 DOMAIN-SUFFIX,51sole.com
-DOMAIN-SUFFIX,51wendang.com
 DOMAIN-SUFFIX,51yes.com
 DOMAIN-SUFFIX,5253.com
 DOMAIN-SUFFIX,52hxw.com
@@ -4318,7 +4334,6 @@ DOMAIN-SUFFIX,apk8.com
 DOMAIN-SUFFIX,aplaybox.com
 DOMAIN-SUFFIX,appchina.com
 DOMAIN-SUFFIX,arpun.com
-DOMAIN-SUFFIX,asklib.com
 DOMAIN-SUFFIX,babytree.com
 DOMAIN-SUFFIX,babytreeimg.com
 DOMAIN-SUFFIX,baidufree.com
@@ -4421,7 +4436,6 @@ DOMAIN-SUFFIX,csbew.com
 DOMAIN-SUFFIX,csmjzs.com
 DOMAIN-SUFFIX,csslcloud.net
 DOMAIN-SUFFIX,ctiforum.com
-DOMAIN-SUFFIX,ctoutiao.com
 DOMAIN-SUFFIX,ctsbw.com
 DOMAIN-SUFFIX,cubead.com
 DOMAIN-SUFFIX,cwxzx.com
@@ -4471,8 +4485,6 @@ DOMAIN-SUFFIX,downyi.com
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,dreams-travel.com
 DOMAIN-SUFFIX,drivergenius.com
-DOMAIN-SUFFIX,dui.ai
-DOMAIN-SUFFIX,duiopen.com
 DOMAIN-SUFFIX,duoduocdn.com
 DOMAIN-SUFFIX,duomai.com
 DOMAIN-SUFFIX,duoshuo.com
@@ -4505,7 +4517,6 @@ DOMAIN-SUFFIX,fanli.com
 DOMAIN-SUFFIX,fangxiaoer.com
 DOMAIN-SUFFIX,fanxian.com
 DOMAIN-SUFFIX,fastapi.net
-DOMAIN-SUFFIX,feihuo.com
 DOMAIN-SUFFIX,feiniaomy.com
 DOMAIN-SUFFIX,fengniao.com
 DOMAIN-SUFFIX,fengxian110.com
@@ -4658,7 +4669,6 @@ DOMAIN-SUFFIX,k366.com
 DOMAIN-SUFFIX,kaifubiao.com
 DOMAIN-SUFFIX,kaixin001.com
 DOMAIN-SUFFIX,kameng98.com
-DOMAIN-SUFFIX,kanimg.com
 DOMAIN-SUFFIX,kantianqi.net
 DOMAIN-SUFFIX,kanzhun.com
 DOMAIN-SUFFIX,kaopu001.com
@@ -4960,7 +4970,6 @@ DOMAIN-SUFFIX,wanwushuo.com
 DOMAIN-SUFFIX,wanyiwang.com
 DOMAIN-SUFFIX,wanyx.com
 DOMAIN-SUFFIX,warmheart.top    #苏ICP备16016970号-1
-DOMAIN-SUFFIX,wdjimg.com
 DOMAIN-SUFFIX,wdzj.com
 DOMAIN-SUFFIX,weand.com
 DOMAIN-SUFFIX,weavatar.com
@@ -4969,7 +4978,6 @@ DOMAIN-SUFFIX,weilaicaijing.com
 DOMAIN-SUFFIX,weixing.com
 DOMAIN-SUFFIX,weiyangx.com
 DOMAIN-SUFFIX,welltrend-edu.com
-DOMAIN-SUFFIX,wenjuan.com
 DOMAIN-SUFFIX,whlovehome.com
 DOMAIN-SUFFIX,wicresoft.com
 DOMAIN-SUFFIX,win007.com
@@ -5084,7 +5092,6 @@ DOMAIN-SUFFIX,yunzhijia.com
 DOMAIN-SUFFIX,yupoo.com
 DOMAIN-SUFFIX,yuzua.com
 DOMAIN-SUFFIX,yxbao.com
-DOMAIN-SUFFIX,yxdown.com
 DOMAIN-SUFFIX,yytcdn.com
 DOMAIN-SUFFIX,z28j.com    #鄂ICP备20002930号-1
 DOMAIN-SUFFIX,zampda.net

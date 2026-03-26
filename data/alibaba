@@ -262,7 +262,6 @@ DOMAIN-SUFFIX,yk-ssp.ad.youku.com
 DOMAIN-SUFFIX,ykad-data.youku.com
 #end include:youku
 
-DOMAIN-SUFFIX,25pp.com
 DOMAIN-SUFFIX,56che.com
 DOMAIN-SUFFIX,95095.com
 DOMAIN-SUFFIX,ali-health.com
@@ -353,7 +352,6 @@ DOMAIN-SUFFIX,sparenode.com
 DOMAIN-SUFFIX,supet.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,ttpod.com
-DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,xin.xin
 DOMAIN-SUFFIX,xinlingshou.cn
 DOMAIN-SUFFIX,yowhale.com
@@ -442,6 +440,13 @@ DOMAIN-SUFFIX,xiami.net
 
 # 口碑
 DOMAIN-SUFFIX,koubei.com
+
+# 豌豆荚
+DOMAIN-SUFFIX,wandoujia.com
+DOMAIN-SUFFIX,wdjimg.com
+
+# PP助手
+DOMAIN-SUFFIX,25pp.com
 
 # 吱声网
 DOMAIN-SUFFIX,zhisheng.com
