@@ -1,12 +1,14 @@
 # Dynamic DNS
 # https://github.com/alexandrosmagos/dyn-dns-list
 
+#include:cloudns
 # cloudns.net
 # https://github.com/alexandrosmagos/dyn-dns-list/blob/master/scripts/data/cloudns.net.json
 
 DOMAIN-SUFFIX,cloudns.nz
 DOMAIN-SUFFIX,cloudns.ph
 #end include:cloudns
+#include:dynu
 # dynu.com
 # https://github.com/alexandrosmagos/dyn-dns-list/blob/master/scripts/data/dynu.com.json
 
@@ -32,6 +34,7 @@ DOMAIN-SUFFIX,ooguy.com
 DOMAIN-SUFFIX,theworkpc.com
 DOMAIN-SUFFIX,webredirect.org
 #end include:dynu
+#include:noip
 # noip.com
 # https://github.com/alexandrosmagos/dyn-dns-list/blob/master/scripts/data/noip.com.json
 

@@ -115,7 +115,6 @@ DOMAIN-SUFFIX,win8china.com
 DOMAIN-SUFFIX,zuihuimai.com
 #end include:ruanmei
 #include:sohu
-#include:sogou
 DOMAIN-SUFFIX,binglianhuajianzhan.com
 DOMAIN-SUFFIX,ggoplay.com
 DOMAIN-SUFFIX,ggowan.com

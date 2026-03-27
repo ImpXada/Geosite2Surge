@@ -8,6 +8,5 @@ DOMAIN-SUFFIX,camscanner.com
 DOMAIN-SUFFIX,camcard.com
 
 # 启信宝
-#include:qixin
 DOMAIN-SUFFIX,qixin.com
 #end include:qixin
