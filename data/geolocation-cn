@@ -1437,6 +1437,12 @@ DOMAIN-SUFFIX,knet.cn
 ## 江西节点技术服务有限公司
 DOMAIN-SUFFIX,pkoplink.com
 
+# Cloud Service
+## 广州润雨科技有限公司 粤ICP备19052839号
+DOMAIN-SUFFIX,rainyun.com
+## 深圳市狐蒂云网络科技有限公司 粤ICP备2025387186号-1
+DOMAIN-SUFFIX,szhdy.com
+
 # E-commerce
 #include:58tongcheng
 DOMAIN-SUFFIX,58ganji.com
