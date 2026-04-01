@@ -221,3 +221,8 @@ DOMAIN-SUFFIX,bunnycdn.com
 
 # cdnjs
 DOMAIN-SUFFIX,cdnjs.com
+
+# Gcore
+DOMAIN-SUFFIX,gcdn.co
+DOMAIN-SUFFIX,gcore.com
+DOMAIN-SUFFIX,gcore.pro

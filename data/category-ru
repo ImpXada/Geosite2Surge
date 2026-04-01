@@ -241,6 +241,14 @@ DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
 # Regional health services
 DOMAIN-SUFFIX,zdrav10.ru    #Republic of Karelia
 #end include:category-gov-ru
+#include:category-medicine-ru
+# Medsi
+DOMAIN-SUFFIX,medsi.com
+DOMAIN-SUFFIX,medsi.pro
+DOMAIN-SUFFIX,medsi.ru
+DOMAIN-SUFFIX,medsi-premium.ru
+DOMAIN-SUFFIX,smartmed.pro
+#end include:category-medicine-ru
 #include:category-retail-ru
 # ABC of Taste
 DOMAIN-SUFFIX,av.ru
@@ -342,124 +350,8 @@ DOMAIN-SUFFIX,winelab.ru
 # VkusVill
 DOMAIN-SUFFIX,vkusvill.ru
 #end include:category-retail-ru
-#include:category-travel-ru
-# Aviasales
-#include:aviasales
-DOMAIN-SUFFIX,avs.io
-DOMAIN-SUFFIX,aviasales.ru
-DOMAIN-SUFFIX,aviasales.com
-#end include:aviasales
-
-# BlaBlaCar
-DOMAIN-SUFFIX,blablacar.ru
-
-# Bus stations
-DOMAIN-SUFFIX,avtovokzaly.ru
-
-# Ostrovok
-DOMAIN-SUFFIX,ostrovok.ru
-
-# Othello from 2GIS
-DOMAIN-SUFFIX,otello.ru
-
-# Public transport and ticketing
-#include:mosmetro
-DOMAIN-SUFFIX,mosmetro.ru
-DOMAIN-SUFFIX,mosmetro.tech
-#end include:mosmetro
-DOMAIN,bilet.nspk.ru
-DOMAIN,metro.spb.ru
-DOMAIN,mos.transport.vtb.ru
-DOMAIN,podorozhnik.spb.ru
-DOMAIN,transport.mos.ru
-DOMAIN-SUFFIX,gorodpay.ru
-DOMAIN-SUFFIX,rrtp.ru
-DOMAIN-SUFFIX,sbertroika.ru
-
-# Russian Railways
-DOMAIN-SUFFIX,rzd-bonus.ru
-DOMAIN-SUFFIX,rzd.ru
-
-# Tutu
-DOMAIN-SUFFIX,tutu.ru
-
-# Yandex Rent
-DOMAIN,arenda.yandex.ru
-
-# Yandex Taxi
-DOMAIN,taxi.yandex.ru
-#end include:category-travel-ru
 
 # Well-known companies
-#include:mailru-group
-#include:dzen
-DOMAIN-SUFFIX,dzen.ru
-DOMAIN-SUFFIX,dzeninfra.ru
-#end include:dzen
-#include:mailru
-DOMAIN-SUFFIX,imgsmail.ru
-DOMAIN-SUFFIX,mail.ru
-#end include:mailru
-#include:ok
-DOMAIN-SUFFIX,ok.ru
-DOMAIN-SUFFIX,okcdn.ru
-DOMAIN-SUFFIX,mycdn.me
-
-DOMAIN,st-ok-pts.cdn-vk.ru
-DOMAIN,st-ok.cdn-vk.ru
-#end include:ok
-#include:vk
-DOMAIN-SUFFIX,cdn-vk.ru
-DOMAIN-SUFFIX,mradx.net
-DOMAIN-SUFFIX,mvk.com
-DOMAIN-SUFFIX,userapi.com
-DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,vk-apps.com
-DOMAIN-SUFFIX,vk-apps.ru
-DOMAIN-SUFFIX,vk-cdn.me
-DOMAIN-SUFFIX,vk-cdn.net
-DOMAIN-SUFFIX,vkcloud-static.ru
-DOMAIN-SUFFIX,vk-portal.net
-DOMAIN-SUFFIX,vk.cc
-DOMAIN-SUFFIX,vk.com
-DOMAIN-SUFFIX,vk.company
-DOMAIN-SUFFIX,vk.design
-DOMAIN-SUFFIX,vk.link
-DOMAIN-SUFFIX,vk.me
-DOMAIN-SUFFIX,vk.ru
-DOMAIN-SUFFIX,vk.team
-DOMAIN-SUFFIX,vkcache.com
-DOMAIN-SUFFIX,vkgo.app
-DOMAIN-SUFFIX,vklive.app
-DOMAIN-SUFFIX,vkmessenger.app
-DOMAIN-SUFFIX,vkmessenger.com
-DOMAIN-SUFFIX,vkontakte.ru
-DOMAIN-SUFFIX,vkuser.net
-DOMAIN-SUFFIX,vkuseraudio.com
-DOMAIN-SUFFIX,vkuseraudio.net
-DOMAIN-SUFFIX,vkuseraudio.ru
-DOMAIN-SUFFIX,vkusercdn.ru
-DOMAIN-SUFFIX,vkuserlive.net
-DOMAIN-SUFFIX,vkuserphoto.ru
-DOMAIN-SUFFIX,vkuservideo.com
-DOMAIN-SUFFIX,vkuservideo.net
-DOMAIN-SUFFIX,vkuservideo.ru
-DOMAIN-SUFFIX,vkvideo.ru
-#end include:vk
-
-DOMAIN-SUFFIX,boosty.to
-DOMAIN-SUFFIX,donationalerts.com
-DOMAIN-SUFFIX,max.ru
-DOMAIN-SUFFIX,memealerts.com
-DOMAIN-SUFFIX,oneme.ru
-DOMAIN-SUFFIX,tamtam.chat
-DOMAIN-SUFFIX,telega.info
-DOMAIN-SUFFIX,telega.me
-DOMAIN-SUFFIX,youla.io
-DOMAIN-SUFFIX,youla.ru
-
-DOMAIN,youla-web-static.mrgcdn.ru
-#end include:mailru-group
 
 # Bank & Finance & Insurance & Securities
 #include:category-bank-ru
