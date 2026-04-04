@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,bowlroll.net
 #include:category-entertainment-ru
 # CDNvideo is a leading CDN provider in Russia and the CIS
 DOMAIN-SUFFIX,cdnvideo.ru
+DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,trbcdn.net
 
 # Information about films and series
@@ -201,6 +202,7 @@ DOMAIN-SUFFIX,hibiki-cast.jp
 DOMAIN-SUFFIX,hikosen.co.jp
 DOMAIN-SUFFIX,njpw.co.jp
 DOMAIN-SUFFIX,njpw1972.com
+DOMAIN-SUFFIX,our-notes.jp
 DOMAIN-SUFFIX,rebirth-fy.com
 DOMAIN-SUFFIX,revuestarlight.com
 DOMAIN-SUFFIX,shadowverse-evolve.com

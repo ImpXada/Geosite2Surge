@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,wildberries.ru
 #include:category-entertainment-ru
 # CDNvideo is a leading CDN provider in Russia and the CIS
 DOMAIN-SUFFIX,cdnvideo.ru
+DOMAIN-SUFFIX,cdnvideohub.com
 DOMAIN-SUFFIX,trbcdn.net
 
 # Information about films and series

@@ -575,6 +575,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | gitv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/gitv |
 | globalsign | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/globalsign |
 | globalvoices | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/globalvoices |
+| globo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/globo |
 | glyphs | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/glyphs |
 | gmo-internet | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/gmo-internet |
 | godaddy | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/godaddy |
