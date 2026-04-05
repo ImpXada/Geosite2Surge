@@ -631,6 +631,9 @@ DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,last.fm
 
 DOMAIN,lastfm.freetls.fastly.net
+
+# API endpoint
+DOMAIN,ws.audioscrobbler.com
 #end include:lastfm
 #include:litv
 # TGC Taiwan Inc.

@@ -2616,6 +2616,9 @@ DOMAIN-SUFFIX,bunnycdn.com
 # cdnjs
 DOMAIN-SUFFIX,cdnjs.com
 
+# ESM
+DOMAIN-SUFFIX,esm.sh
+
 # Gcore
 DOMAIN-SUFFIX,gcdn.co
 DOMAIN-SUFFIX,gcore.com
@@ -13250,6 +13253,7 @@ DOMAIN,p-events-delivery.akamaized.net
 #include:archlinux
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,pkgbuild.com
 
 # Unofficial
 DOMAIN-SUFFIX,archlinuxcn.org

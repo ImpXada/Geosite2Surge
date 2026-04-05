@@ -222,6 +222,9 @@ DOMAIN-SUFFIX,bunnycdn.com
 # cdnjs
 DOMAIN-SUFFIX,cdnjs.com
 
+# ESM
+DOMAIN-SUFFIX,esm.sh
+
 # Gcore
 DOMAIN-SUFFIX,gcdn.co
 DOMAIN-SUFFIX,gcore.com

@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,pkgbuild.com
 
 # Unofficial
 DOMAIN-SUFFIX,archlinuxcn.org

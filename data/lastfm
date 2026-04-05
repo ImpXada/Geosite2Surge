@@ -1,3 +1,6 @@
 DOMAIN-SUFFIX,last.fm
 
 DOMAIN,lastfm.freetls.fastly.net
+
+# API endpoint
+DOMAIN,ws.audioscrobbler.com

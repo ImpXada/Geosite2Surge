@@ -159,9 +159,6 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,localhost.sec.qq.com
 DOMAIN-SUFFIX,localhost.ptlogin2.qq.com
 
-# Steam Deck Game mode
-DOMAIN-SUFFIX,test.steampowered.com
-
 # Tenda router
 DOMAIN-SUFFIX,tendawifi.com
 
