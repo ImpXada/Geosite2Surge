@@ -1,6 +1,226 @@
 # This list contains domains that don't have access point in China mainland. This is opposite to geolocation-cn.
 
 # AI Chat
+#include:category-ai-!cn
+#include:anthropic
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# CDN
+DOMAIN,servd-anthropic-website.b-cdn.net
+#end include:anthropic
+#include:bytedance-ai-!cn
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com
+#end include:dola
+
+# related to doubao
+DOMAIN-SUFFIX,coze.com
+
+# related to trae
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
+#end include:bytedance-ai-!cn
+#include:cerebras
+DOMAIN-SUFFIX,cerebras.ai
+#end include:cerebras
+#include:comfy
+# 绘世启动器
+DOMAIN-SUFFIX,oystermercury.top
+#end include:comfy-ui-launcher
+
+DOMAIN-SUFFIX,comfy.org
+
+# Dev
+DOMAIN-SUFFIX,comfyci.org
+
+# Redirect
+DOMAIN-SUFFIX,comfyregistry.org
+#end include:comfy
+#include:cursor
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+#end include:cursor
+#include:elevenlabs
+DOMAIN-SUFFIX,elevenlabs.com
+DOMAIN-SUFFIX,elevenlabs.io
+#end include:elevenlabs
+#include:github-copilot
+DOMAIN-SUFFIX,githubcopilot.com
+#end include:github-copilot
+#include:google-deepmind
+# Google DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# Google Generative Language API
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+
+# NotebookLM
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,notebooklm.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# Jules
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+
+# Google AI Labs
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX,aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
+
+# Antigravity
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+#end include:google-deepmind
+#include:groq
+DOMAIN-SUFFIX,groq.com
+#end include:groq
+#include:huggingface
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.co
+#end include:huggingface
+#include:liveperson
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
+#end include:liveperson
+#include:manus
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
+#end include:manus
+#include:openai
+# Main domain
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,crixet.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
+
+# CDN & API
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicom.imgix.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-WILDCARD,chatgpt-async-webps-prod-*-*.webpubsub.azure.com
+
+# tracking
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,browser-intake-datadoghq.com
+
+# Advanced Voice
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+#end include:openai
+#include:perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN,pplx-res.cloudinary.com
+#end include:perplexity
+#include:poe
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+#end include:poe
+#include:windsurf
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,windsurf.com
+#end include:windsurf
+#include:xai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,x.ai
+#end include:xai
+#include:youmind
+# Youmind
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site
+#end include:youmind
+
+# CodeRabbit
+DOMAIN-SUFFIX,coderabbit.ai
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
+
+# Cohere
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
+
+# Jasper
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,jasper.ai
+
+DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,clawhub.ai
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,devin.ai
+DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,duck.ai
+DOMAIN-SUFFIX,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,h2o.ai
+DOMAIN-SUFFIX,kiro.dev
+DOMAIN-SUFFIX,lovart.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,spicywriter.com
+#end include:category-ai-!cn
 
 # Advertisment & Analytics
 #include:pubmatic
@@ -17,133 +237,6 @@ DOMAIN-SUFFIX,taboola.com
 #end include:taboola
 
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
-#include:category-anticensorship
-#include:category-ipfs
-# Reference: https://ipfs.github.io/public-gateway-checker/
-
-#include:cloudflare-ipfs
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-#end include:cloudflare-ipfs
-
-DOMAIN-SUFFIX,4everland.io
-DOMAIN-SUFFIX,c4rex.co
-DOMAIN-SUFFIX,crustwebsites.net
-DOMAIN-SUFFIX,dweb.link
-DOMAIN-SUFFIX,gateway.pinata.cloud
-DOMAIN-SUFFIX,ipfs-gateway.cloud
-DOMAIN-SUFFIX,ipfs.anonymize.com
-DOMAIN-SUFFIX,ipfs.best-practice.se
-DOMAIN-SUFFIX,ipfs.eternum.io
-DOMAIN-SUFFIX,ipfs.eth.aragon.network
-DOMAIN-SUFFIX,ipfs.fleek.co
-DOMAIN-SUFFIX,ipfs.io
-DOMAIN-SUFFIX,ipfs.lain.la
-DOMAIN-SUFFIX,ipfs.runfission.com
-DOMAIN-SUFFIX,ipfs.tech
-DOMAIN-SUFFIX,ipns.co
-DOMAIN-SUFFIX,jorropo.net
-DOMAIN-SUFFIX,nftstorage.link
-DOMAIN-SUFFIX,via0.com
-#end include:category-ipfs
-#include:ceno
-DOMAIN-SUFFIX,censorship.no
-#end include:ceno
-#include:citizenlab
-DOMAIN-SUFFIX,citizenlab.ca
-DOMAIN-SUFFIX,citizenlab.org
-#end include:citizenlab
-#include:epicbrowser
-DOMAIN-SUFFIX,epicbrowser.com
-#end include:epicbrowser
-#include:greatfire
-DOMAIN-SUFFIX,applecensorship.com
-DOMAIN-SUFFIX,freebrowser.org
-DOMAIN-SUFFIX,freewechat.com
-DOMAIN-SUFFIX,freeweibo.com
-DOMAIN-SUFFIX,freezhihu.org
-DOMAIN-SUFFIX,googlecensorship.org
-DOMAIN-SUFFIX,greatfire.org
-DOMAIN-SUFFIX,greatfirevpn.com
-DOMAIN-SUFFIX,pao-pao.net
-DOMAIN-SUFFIX,wikiunblocked.org
-#end include:greatfire
-#include:haveibeenpwned
-DOMAIN-SUFFIX,haveibeenpwned.com
-DOMAIN-SUFFIX,pwnedpasswords.com
-#end include:haveibeenpwned
-#include:lantern
-DOMAIN-SUFFIX,getlantern.org
-DOMAIN-SUFFIX,lantern.io
-#end include:lantern
-#include:paskoocheh
-DOMAIN-SUFFIX,paskoocheh.com
-#end include:paskoocheh
-#include:softether
-DOMAIN-SUFFIX,softether.org
-DOMAIN-SUFFIX,softether-download.com
-#end include:softether
-#include:torproject
-DOMAIN-SUFFIX,torproject.org
-#end include:torproject
-#include:v2ray
-DOMAIN-SUFFIX,v2ray.com
-DOMAIN-SUFFIX,v2ray.cool
-DOMAIN-SUFFIX,v2fly.org
-#end include:v2ray
-#include:vpngate
-DOMAIN-SUFFIX,opengw.net
-DOMAIN-SUFFIX,vpngate.jp
-DOMAIN-SUFFIX,vpngate.net
-#end include:vpngate
-
-DOMAIN-SUFFIX,ahmia.fi
-DOMAIN-SUFFIX,akasha.world
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,bypasscensorship.org
-DOMAIN-SUFFIX,censorship.ai
-DOMAIN-SUFFIX,dat.foundation
-DOMAIN-SUFFIX,democracy.earth
-DOMAIN-SUFFIX,eff.org
-DOMAIN-SUFFIX,ffprofile.com
-DOMAIN-SUFFIX,freenetproject.org
-DOMAIN-SUFFIX,fteproxy.org
-DOMAIN-SUFFIX,geti2p.net
-DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,gfw.report
-DOMAIN-SUFFIX,guardianproject.info
-DOMAIN-SUFFIX,hiddify.com
-DOMAIN-SUFFIX,jitsi.org
-DOMAIN-SUFFIX,lokinet.org
-DOMAIN-SUFFIX,ntc.party
-DOMAIN-SUFFIX,onionshare.org
-DOMAIN-SUFFIX,ooni.org
-DOMAIN-SUFFIX,openvpn.net
-DOMAIN-SUFFIX,privacytools.io
-DOMAIN-SUFFIX,proxifier.com
-DOMAIN-SUFFIX,psiphon.ca
-DOMAIN-SUFFIX,psiphon3.com
-DOMAIN-SUFFIX,sagernet.org
-DOMAIN-SUFFIX,sing-box.app
-DOMAIN-SUFFIX,shadowsocks.org
-DOMAIN-SUFFIX,sspanel.net
-DOMAIN-SUFFIX,stunnel.org
-DOMAIN-SUFFIX,telex.cc
-DOMAIN-SUFFIX,tribler.org
-DOMAIN-SUFFIX,tunsafe.com
-DOMAIN-SUFFIX,turkeyblocks.org
-DOMAIN-SUFFIX,twister.net.co
-DOMAIN-SUFFIX,uproxy.org
-DOMAIN-SUFFIX,vpnrouter.homes
-DOMAIN-SUFFIX,vuvuzela.io
-DOMAIN-SUFFIX,whonix.org
-DOMAIN-SUFFIX,wikileaks.org
-DOMAIN-SUFFIX,wireguard.com
-DOMAIN-SUFFIX,xtls.github.io
-DOMAIN-SUFFIX,trojan-gfw.github.io
-DOMAIN-SUFFIX,zeronet.io
-DOMAIN-SUFFIX,metacubex.one
-#end include:category-anticensorship
 #include:category-proxy-tunnels
 #include:ngrok
 DOMAIN-SUFFIX,equinox.io
@@ -234,6 +327,38 @@ DOMAIN-SUFFIX,glyphsapp.com
 #include:jiyukobo
 DOMAIN-SUFFIX,jiyu-kobo.co.jp
 #end include:jiyukobo
+#include:monotype
+#include:fontexplorer
+DOMAIN-SUFFIX,fontexplorerx.com
+#end include:fontexplorer
+#include:fonts
+DOMAIN-SUFFIX,fonts.com
+DOMAIN-SUFFIX,fonts.net
+#end include:fonts
+#include:fontshop
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com
+
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
+#end include:fontshop
+#include:linotype
+DOMAIN-SUFFIX,linotype.com
+#end include:linotype
+#include:myfonts
+DOMAIN-SUFFIX,myfonts.com
+DOMAIN-SUFFIX,myfonts.net
+#end include:myfonts
+
+DOMAIN-SUFFIX,monotype.com
+DOMAIN-SUFFIX,monotypeimaging.com
+
+# Bitstream
+DOMAIN-SUFFIX,bitstream.com
+
+# International Typeface Corporation
+DOMAIN-SUFFIX,itcfonts.com
+#end include:monotype
 #include:morisawa
 DOMAIN-SUFFIX,morisawa.co.jp
 
@@ -1558,48 +1683,6 @@ DOMAIN-SUFFIX,waveomoney.com.mm
 DOMAIN-SUFFIX,yomabank.com
 DOMAIN-SUFFIX,ysx-mm.com
 #end include:category-bank-mm
-#include:category-bank-ru
-# Alfa Bank
-DOMAIN-SUFFIX,alfabank.ru
-
-# GazpromBank
-DOMAIN-SUFFIX,gazprombank.ru
-DOMAIN-SUFFIX,gpb.ru
-
-# Mts dengi
-DOMAIN-SUFFIX,dbo-dengi.online
-DOMAIN-SUFFIX,mtsdengi.ru
-
-# PSB Bank
-DOMAIN-SUFFIX,psbank.ru
-
-# RosBank
-DOMAIN-SUFFIX,bankline.ru
-DOMAIN-SUFFIX,rosbank.ru
-
-# RUSSIA Bank
-DOMAIN-SUFFIX,abr.ru
-
-# Russian Agricultural Bank
-DOMAIN-SUFFIX,rshb.ru
-
-# SberBank
-DOMAIN-SUFFIX,sber.ru
-DOMAIN-SUFFIX,sberbank.com
-DOMAIN-SUFFIX,sberbank.ru
-
-# T-Bank (Tinkoff)
-DOMAIN-SUFFIX,cdn-tinkoff.ru
-DOMAIN-SUFFIX,tbank-online.com
-DOMAIN-SUFFIX,tbank.ru
-
-# Tochka bank
-DOMAIN-SUFFIX,tochka-tech.com
-DOMAIN-SUFFIX,tochka.com
-
-# VTB Bank
-DOMAIN-SUFFIX,vtb.ru
-#end include:category-bank-ru
 
 #include:fibank
 DOMAIN-SUFFIX,fibank.bg
@@ -2649,10 +2732,1673 @@ DOMAIN-SUFFIX,wistia.net
 # Certificate authorities
 
 # Communications
+#include:category-communication
+#include:clubhouse
+DOMAIN-SUFFIX,clubhouse.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
+#end include:clubhouse
+#include:discord
+# Core
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord.co
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.design
+DOMAIN-SUFFIX,discord.dev
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.gift
+DOMAIN-SUFFIX,discord.gifts
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,discord.store
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discord-activities.com
+DOMAIN-SUFFIX,discordactivities.com
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discordpartygames.com
+DOMAIN-SUFFIX,discordsays.com
+DOMAIN-SUFFIX,discordstatus.com
+
+# Other
+DOMAIN-SUFFIX,airhorn.solutions
+DOMAIN-SUFFIX,airhornbot.com
+DOMAIN-SUFFIX,bigbeans.solutions
+DOMAIN-SUFFIX,watchanimeattheoffice.com
+
+# Unused
+DOMAIN-SUFFIX,discordapp.io
+DOMAIN-SUFFIX,discordcdn.com
+
+DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
+DOMAIN,hammerandchisel.ssl.zendesk.com
+#end include:discord
+#include:freenode
+DOMAIN-SUFFIX,freenode.net
+#end include:freenode
+#include:intercom
+DOMAIN-SUFFIX,intercom.com
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,intercomassets.com
+DOMAIN-SUFFIX,intercomcdn.com
+#end include:intercom
+#include:keybase
+DOMAIN-SUFFIX,keybase.io
+DOMAIN-SUFFIX,keybaseapi.com
+#end include:keybase
+#include:line
+DOMAIN-SUFFIX,gcld-line.com
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line-apps-beta.com
+DOMAIN-SUFFIX,line-apps-rc.com
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,line-beta.me
+DOMAIN-SUFFIX,line-cdn.net
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line.biz
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,linecorp.com
+DOMAIN-SUFFIX,linefriends.com
+DOMAIN-SUFFIX,linefriends.com.tw
+DOMAIN-SUFFIX,linegame.jp
+DOMAIN-SUFFIX,linemobile.com
+DOMAIN-SUFFIX,linemyshop.com
+DOMAIN-SUFFIX,lineshoppingseller.com
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,nhncorp.jp
+#end include:line
+#include:mailcom
+# 1&1 Mail & Media GmbH
+DOMAIN-SUFFIX,mail.com
+DOMAIN-SUFFIX,ui-portal.de
+DOMAIN-SUFFIX,uicdn.com
+DOMAIN-SUFFIX,uimserv.net
+#end include:mailcom
+#include:matrix
+DOMAIN-SUFFIX,arewereadyyet.com
+DOMAIN-SUFFIX,cinny.in
+DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,fluffychat.im
+DOMAIN-SUFFIX,matrix.org
+DOMAIN-SUFFIX,matrix.to
+DOMAIN-SUFFIX,modular.im
+DOMAIN-SUFFIX,riot.im
+DOMAIN-SUFFIX,vector.im
+#end include:matrix
+#include:messenger
+DOMAIN-SUFFIX,fbmessenger.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,nbabot.net
+#end include:messenger
+#include:protonmail
+DOMAIN-SUFFIX,pm.me
+DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,protonmail.ch
+DOMAIN-SUFFIX,protonmail.com
+DOMAIN-SUFFIX,protonstatus.com
+DOMAIN-SUFFIX,protontech.ch
+DOMAIN-SUFFIX,protonvpn.ch
+DOMAIN-SUFFIX,protonvpn.com
+DOMAIN-SUFFIX,protonweb.com
+#end include:protonmail
+#include:signal
+DOMAIN-SUFFIX,signal.art
+DOMAIN-SUFFIX,signal.group
+DOMAIN-SUFFIX,signal.link
+DOMAIN-SUFFIX,signal.me
+DOMAIN-SUFFIX,signal.tube
+DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,signalusers.org
+DOMAIN-SUFFIX,whispersystems.org
+#end include:signal
+#include:slack
+DOMAIN-SUFFIX,slack-core.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-files.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-msgs.com
+DOMAIN-SUFFIX,slack-redir.net
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slackcertified.com
+DOMAIN-SUFFIX,slackdemo.com
+DOMAIN-SUFFIX,slackhq.com
+#end include:slack
+#include:telegram
+DOMAIN-SUFFIX,cdn-telegram.org
+DOMAIN-SUFFIX,comments.app
+DOMAIN-SUFFIX,contest.com
+DOMAIN-SUFFIX,fragment.com
+DOMAIN-SUFFIX,graph.org
+DOMAIN-SUFFIX,quiz.directory
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telega.one
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,telegram-cdn.org
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,telegram.org
+DOMAIN-SUFFIX,telegram.space
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,tg.dev
+DOMAIN-SUFFIX,ton.org
+DOMAIN-SUFFIX,tx.me
+DOMAIN-SUFFIX,usercontent.dev
+#end include:telegram
+#include:temp-mail
+DOMAIN-SUFFIX,temp-mail.org
+#end include:temp-mail
+#include:viber
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,viber.co
+DOMAIN-SUFFIX,viber.me
+
+DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
+DOMAIN-SUFFIX,vbcdn.com
+DOMAIN-SUFFIX,vbcdn.net
+#end include:viber
+#include:whatsapp
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsapp-plus.info
+DOMAIN-SUFFIX,whatsapp-plus.me
+DOMAIN-SUFFIX,whatsapp-plus.net
+DOMAIN-SUFFIX,whatsapp.cc
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.info
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.org
+DOMAIN-SUFFIX,whatsapp.tv
+DOMAIN-SUFFIX,whatsappbrand.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net
+#end include:whatsapp
+#end include:category-communication
 
 # Cryptocurrency
+#include:category-cryptocurrency
+# Reference: https://bitcoin.org/en/exchanges
+
+#include:asproex
+DOMAIN-SUFFIX,asproex.com
+DOMAIN-SUFFIX,asproexapi.com
+#end include:asproex
+#include:binance
+DOMAIN-SUFFIX,binance.cc
+DOMAIN-SUFFIX,binance.charity
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.co
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,binance.info
+DOMAIN-SUFFIX,binance.me
+DOMAIN-SUFFIX,binance.net
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binancezh.be
+DOMAIN-SUFFIX,binancezh.biz
+DOMAIN-SUFFIX,binancezh.cc
+DOMAIN-SUFFIX,binancezh.co
+DOMAIN-SUFFIX,binancezh.com
+DOMAIN-SUFFIX,binancezh.info
+DOMAIN-SUFFIX,binancezh.ink
+DOMAIN-SUFFIX,binancezh.kim
+DOMAIN-SUFFIX,binancezh.link
+DOMAIN-SUFFIX,binancezh.live
+DOMAIN-SUFFIX,binancezh.mobi
+DOMAIN-SUFFIX,binancezh.net
+DOMAIN-SUFFIX,binancezh.pro
+DOMAIN-SUFFIX,binancezh.sh
+DOMAIN-SUFFIX,binancezh.top
+
+# API
+DOMAIN-SUFFIX,binanceapi.com
+DOMAIN-SUFFIX,binanceru.net
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-SUFFIX,bntrace.com
+DOMAIN-SUFFIX,bsappapi.com
+DOMAIN-SUFFIX,nftstatic.com
+
+# saas
+DOMAIN-SUFFIX,appsflayer.com
+DOMAIN-SUFFIX,saasexch.cc
+DOMAIN-SUFFIX,saasexch.co
+DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.io
+#end include:binance
+#include:bitflyer
+DOMAIN-SUFFIX,bitflyer.com
+DOMAIN-SUFFIX,bitflyer.jp
+#end include:bitflyer
+#include:bitsquare
+DOMAIN-SUFFIX,bisq.io
+DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bitsquare.io
+#end include:bitsquare
+#include:bybit
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
+#end include:bybit
+#include:coinone
+DOMAIN-SUFFIX,coinone.co.kr
+DOMAIN-SUFFIX,coinonecore.com
+DOMAIN-SUFFIX,coinonecorp.com
+#end include:coinone
+#include:deribit
+DOMAIN-SUFFIX,deribit.com
+
+DOMAIN,deribit.cdn.prismic.io
+#end include:deribit
+#include:ethereum
+DOMAIN-SUFFIX,devcon.org
+DOMAIN-SUFFIX,ethereum.foundation
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,etherscan.io
+#end include:ethereum
+#include:gateio
+DOMAIN-SUFFIX,gate.io
+
+DOMAIN-SUFFIX,gatedata.org
+DOMAIN-SUFFIX,gateimg.com
+DOMAIN-SUFFIX,gateio.live
+DOMAIN-SUFFIX,gateio.services
+#end include:gateio
+#include:huobi
+DOMAIN-SUFFIX,htx.com
+DOMAIN-SUFFIX,hbabit.com
+DOMAIN-SUFFIX,hbfile.net
+DOMAIN-SUFFIX,huobi.com
+DOMAIN-SUFFIX,huobi.me
+DOMAIN-SUFFIX,huobi.pro
+DOMAIN-SUFFIX,huobi.sc
+DOMAIN-SUFFIX,huobiasia.vip
+DOMAIN-SUFFIX,huobigroup.com
+DOMAIN-SUFFIX,huobitoken.com
+#end include:huobi
+#include:kraken
+DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,kraken.onl
+#end include:kraken
+#include:kucoin
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.plus
+#end include:kucoin
+#include:localbitcoins
+DOMAIN-SUFFIX,localbitcoins.com
+DOMAIN-SUFFIX,localbitcoinschain.com
+#end include:localbitcoins
+#include:nexo
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io
+#end include:nexo
+#include:okx
+DOMAIN-SUFFIX,okex.com
+DOMAIN-SUFFIX,okx-dns.com
+DOMAIN-SUFFIX,okx-dns1.com
+DOMAIN-SUFFIX,okx-dns2.com
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx.com
+
+# OKC Browser
+DOMAIN-SUFFIX,oklink.com
+#end include:okx
+#include:onekey
+DOMAIN-SUFFIX,onekey-asset.com
+DOMAIN-SUFFIX,onekey.so
+DOMAIN-SUFFIX,onekeycn.com
+
+DOMAIN,onekey.zendesk.com
+#end include:onekey
+#include:redotpay
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.zendesk.com
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+#end include:redotpay
+#include:straitsx
+DOMAIN-SUFFIX,straitsx.com
+
+DOMAIN,d3r7nsslvs6aaf.cloudfront.net
+DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+#end include:straitsx
+#include:trustwallet
+DOMAIN-SUFFIX,trustwallet.com
+#end include:trustwallet
+#include:wisekey
+DOMAIN-SUFFIX,wisecoin.com
+DOMAIN-SUFFIX,wiseid.com
+DOMAIN-SUFFIX,wisekey.com
+DOMAIN-SUFFIX,wisekey.com.hk
+#end include:wisekey
+#include:wynd
+DOMAIN-SUFFIX,wyndlabs.ai
+DOMAIN-SUFFIX,wynd.network
+#end include:wynd
+#include:zb
+DOMAIN-SUFFIX,zb.app
+DOMAIN-SUFFIX,zb.com
+DOMAIN-SUFFIX,zb.io
+DOMAIN-SUFFIX,zb.live
+#end include:zb
+
+DOMAIN-SUFFIX,1inch.io
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,bingx.com
+DOMAIN-SUFFIX,bitbank.cc
+DOMAIN-SUFFIX,bitcoin.org
+DOMAIN-SUFFIX,bitcoincore.org
+DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitmex.com
+DOMAIN-SUFFIX,bitquick.co
+DOMAIN-SUFFIX,bitstamp.net
+DOMAIN-SUFFIX,bittrex.com
+DOMAIN-SUFFIX,blockchain.com
+DOMAIN-SUFFIX,blockfrost.io
+DOMAIN-SUFFIX,btcbox.co.jp
+DOMAIN-SUFFIX,cex.io
+DOMAIN-SUFFIX,clearpool.finance
+DOMAIN-SUFFIX,coinalyze.net
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,coindesk.com
+DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,coinglass.com
+DOMAIN-SUFFIX,coinmap.org
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,crypto.com
+DOMAIN-SUFFIX,cryptocompare.com
+DOMAIN-SUFFIX,cryptomus.com
+DOMAIN-SUFFIX,curve.fi
+DOMAIN-SUFFIX,cyberx.com
+DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,dogecoin.com
+DOMAIN-SUFFIX,dydx.exchange
+DOMAIN-SUFFIX,fundingrates.xyz
+DOMAIN-SUFFIX,gemini.com
+DOMAIN-SUFFIX,gmgn.ai
+DOMAIN-SUFFIX,guardarian.com
+DOMAIN-SUFFIX,hashflow.com
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,invity.io
+DOMAIN-SUFFIX,maple.finance
+DOMAIN-SUFFIX,metalpha.finance
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexcsensors.com
+DOMAIN-SUFFIX,mytokenapi.com
+DOMAIN-SUFFIX,opensea.io
+DOMAIN-SUFFIX,osl.com
+DOMAIN-SUFFIX,paxful.com
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,ripple.com
+DOMAIN-SUFFIX,satoshilabs.com
+DOMAIN-SUFFIX,stealthex.io
+DOMAIN-SUFFIX,theblock.co
+DOMAIN-SUFFIX,trezor.io
+DOMAIN-SUFFIX,truefi.io
+DOMAIN-SUFFIX,unisat.io
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,walletconnect.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,web3modal.org
+DOMAIN-SUFFIX,wintermute.com
+DOMAIN-SUFFIX,zapper.fi
+#end include:category-cryptocurrency
 
 # E-commerce
+#include:category-ecommerce
+#include:category-ecommerce-ru
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+#end include:avito
+DOMAIN-SUFFIX,ozon.by
+DOMAIN-SUFFIX,ozon.com
+DOMAIN-SUFFIX,ozon.com.by
+DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ozon.kz
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozon.tm
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonru.me
+DOMAIN-SUFFIX,ozonusercontent.com
+#end include:ozon
+DOMAIN-SUFFIX,geobasket.ru
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,rwb.ru
+DOMAIN-SUFFIX,wb-basket.ru
+DOMAIN-SUFFIX,wb.ru
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbpay.ru
+DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,wildberries.ru
+#end include:wildberries
+#end include:category-ecommerce-ru
+
+#include:adidas
+DOMAIN-SUFFIX,adidas.ae
+DOMAIN-SUFFIX,adidas.at
+DOMAIN-SUFFIX,adidas.be
+DOMAIN-SUFFIX,adidas.bh
+DOMAIN-SUFFIX,adidas.ca
+DOMAIN-SUFFIX,adidas.ch
+DOMAIN-SUFFIX,adidas.cl
+DOMAIN-SUFFIX,adidas.cn
+DOMAIN-SUFFIX,adidas.co
+DOMAIN-SUFFIX,adidas.co.id
+DOMAIN-SUFFIX,adidas.co.in
+DOMAIN-SUFFIX,adidas.co.kr
+DOMAIN-SUFFIX,adidas.co.nz
+DOMAIN-SUFFIX,adidas.co.th
+DOMAIN-SUFFIX,adidas.co.uk
+DOMAIN-SUFFIX,adidas.co.za
+DOMAIN-SUFFIX,adidas.com
+DOMAIN-SUFFIX,adidas.com.ar
+DOMAIN-SUFFIX,adidas.com.au
+DOMAIN-SUFFIX,adidas.com.br
+DOMAIN-SUFFIX,adidas.com.cn
+DOMAIN-SUFFIX,adidas.com.co
+DOMAIN-SUFFIX,adidas.com.eg
+DOMAIN-SUFFIX,adidas.com.hk
+DOMAIN-SUFFIX,adidas.com.my
+DOMAIN-SUFFIX,adidas.com.pe
+DOMAIN-SUFFIX,adidas.com.ph
+DOMAIN-SUFFIX,adidas.com.qa
+DOMAIN-SUFFIX,adidas.com.sa
+DOMAIN-SUFFIX,adidas.com.sg
+DOMAIN-SUFFIX,adidas.com.tr
+DOMAIN-SUFFIX,adidas.com.tw
+DOMAIN-SUFFIX,adidas.com.vn
+DOMAIN-SUFFIX,adidas.cz
+DOMAIN-SUFFIX,adidas.de
+DOMAIN-SUFFIX,adidas.dk
+DOMAIN-SUFFIX,adidas.es
+DOMAIN-SUFFIX,adidas.fi
+DOMAIN-SUFFIX,adidas.fr
+DOMAIN-SUFFIX,adidas.gr
+DOMAIN-SUFFIX,adidas.hu
+DOMAIN-SUFFIX,adidas.ie
+DOMAIN-SUFFIX,adidas.in
+DOMAIN-SUFFIX,adidas.it
+DOMAIN-SUFFIX,adidas.jp
+DOMAIN-SUFFIX,adidas.mx
+DOMAIN-SUFFIX,adidas.nl
+DOMAIN-SUFFIX,adidas.no
+DOMAIN-SUFFIX,adidas.pe
+DOMAIN-SUFFIX,adidas.pl
+DOMAIN-SUFFIX,adidas.pt
+DOMAIN-SUFFIX,adidas.ru
+DOMAIN-SUFFIX,adidas.se
+DOMAIN-SUFFIX,adidas.sk
+DOMAIN-SUFFIX,adidasadmin.com
+DOMAIN-SUFFIX,adidasarchive.org
+DOMAIN-SUFFIX,adidas-archive.org
+DOMAIN-SUFFIX,adidasbadminton.com
+DOMAIN-SUFFIX,adidasboxing.com
+DOMAIN-SUFFIX,adidascdn.com
+DOMAIN-SUFFIX,adidas-group.ca
+DOMAIN-SUFFIX,adidas-group.com
+DOMAIN-SUFFIX,adidasgymnastics.com
+DOMAIN-SUFFIX,adidashockey.com
+DOMAIN-SUFFIX,adidasmotorsport.com
+DOMAIN-SUFFIX,adidassailing.com
+DOMAIN-SUFFIX,adidasspecialtysports.at
+DOMAIN-SUFFIX,adidasspecialtysports.be
+DOMAIN-SUFFIX,adidasspecialtysports.cn
+DOMAIN-SUFFIX,adidasspecialtysports.co.uk
+DOMAIN-SUFFIX,adidasspecialtysports.cz
+DOMAIN-SUFFIX,adidasspecialtysports.de
+DOMAIN-SUFFIX,adidasspecialtysports.dk
+DOMAIN-SUFFIX,adidasspecialtysports.es
+DOMAIN-SUFFIX,adidasspecialtysports.fi
+DOMAIN-SUFFIX,adidasspecialtysports.fr
+DOMAIN-SUFFIX,adidasspecialtysports.ie
+DOMAIN-SUFFIX,adidasspecialtysports.it
+DOMAIN-SUFFIX,adidasspecialtysports.nl
+DOMAIN-SUFFIX,adidasspecialtysports.pl
+DOMAIN-SUFFIX,adidasspecialtysports.ru
+DOMAIN-SUFFIX,adidasspecialtysports.se
+DOMAIN-SUFFIX,adidasspecialtysports.sk
+DOMAIN-SUFFIX,adidastabletennis.com
+DOMAIN-SUFFIX,adidasusnews.com
+DOMAIN-SUFFIX,miadidas.com
+DOMAIN-SUFFIX,micoach.com
+DOMAIN-SUFFIX,miteam.com
+DOMAIN-SUFFIX,shopadidas.ca
+DOMAIN-SUFFIX,shopadidas.com
+#end include:adidas
+#include:airbnb
+# https://crt.sh/?id=23815053677
+# https://crt.sh/?id=24021548393
+# https://crt.sh/?id=6327797853
+DOMAIN-SUFFIX,abb.travel
+DOMAIN-SUFFIX,accomable.com
+DOMAIN-SUFFIX,airbnb.ae
+DOMAIN-SUFFIX,airbnb.al
+DOMAIN-SUFFIX,airbnb.am
+DOMAIN-SUFFIX,airbnb.at
+DOMAIN-SUFFIX,airbnb.az
+DOMAIN-SUFFIX,airbnb.ba
+DOMAIN-SUFFIX,airbnb.be
+DOMAIN-SUFFIX,airbnb.ca
+DOMAIN-SUFFIX,airbnb.cat
+DOMAIN-SUFFIX,airbnb.ch
+DOMAIN-SUFFIX,airbnb.cl
+DOMAIN-SUFFIX,airbnb.cn
+DOMAIN-SUFFIX,airbnb.co.cr
+DOMAIN-SUFFIX,airbnb.co.id
+DOMAIN-SUFFIX,airbnb.co.il
+DOMAIN-SUFFIX,airbnb.co.in
+DOMAIN-SUFFIX,airbnb.co.kr
+DOMAIN-SUFFIX,airbnb.co.nz
+DOMAIN-SUFFIX,airbnb.co.uk
+DOMAIN-SUFFIX,airbnb.co.ve
+DOMAIN-SUFFIX,airbnb.co.za
+DOMAIN-SUFFIX,airbnb.com
+DOMAIN-SUFFIX,airbnb.com.ar
+DOMAIN-SUFFIX,airbnb.com.au
+DOMAIN-SUFFIX,airbnb.com.bo
+DOMAIN-SUFFIX,airbnb.com.br
+DOMAIN-SUFFIX,airbnb.com.bz
+DOMAIN-SUFFIX,airbnb.com.co
+DOMAIN-SUFFIX,airbnb.com.ec
+DOMAIN-SUFFIX,airbnb.com.ee
+DOMAIN-SUFFIX,airbnb.com.gt
+DOMAIN-SUFFIX,airbnb.com.hk
+DOMAIN-SUFFIX,airbnb.com.hn
+DOMAIN-SUFFIX,airbnb.com.hr
+DOMAIN-SUFFIX,airbnb.com.kh
+DOMAIN-SUFFIX,airbnb.com.mt
+DOMAIN-SUFFIX,airbnb.com.my
+DOMAIN-SUFFIX,airbnb.com.ni
+DOMAIN-SUFFIX,airbnb.com.pa
+DOMAIN-SUFFIX,airbnb.com.pe
+DOMAIN-SUFFIX,airbnb.com.ph
+DOMAIN-SUFFIX,airbnb.com.py
+DOMAIN-SUFFIX,airbnb.com.ro
+DOMAIN-SUFFIX,airbnb.com.sg
+DOMAIN-SUFFIX,airbnb.com.sv
+DOMAIN-SUFFIX,airbnb.com.tr
+DOMAIN-SUFFIX,airbnb.com.tw
+DOMAIN-SUFFIX,airbnb.com.ua
+DOMAIN-SUFFIX,airbnb.com.vn
+DOMAIN-SUFFIX,airbnb.cz
+DOMAIN-SUFFIX,airbnb.de
+DOMAIN-SUFFIX,airbnb.dk
+DOMAIN-SUFFIX,airbnb.es
+DOMAIN-SUFFIX,airbnb.fi
+DOMAIN-SUFFIX,airbnb.fr
+DOMAIN-SUFFIX,airbnb.gr
+DOMAIN-SUFFIX,airbnb.gy
+DOMAIN-SUFFIX,airbnb.hu
+DOMAIN-SUFFIX,airbnb.ie
+DOMAIN-SUFFIX,airbnb.is
+DOMAIN-SUFFIX,airbnb.it
+DOMAIN-SUFFIX,airbnb.jp
+DOMAIN-SUFFIX,airbnb.la
+DOMAIN-SUFFIX,airbnb.lt
+DOMAIN-SUFFIX,airbnb.lu
+DOMAIN-SUFFIX,airbnb.lv
+DOMAIN-SUFFIX,airbnb.me
+DOMAIN-SUFFIX,airbnb.mx
+DOMAIN-SUFFIX,airbnb.nl
+DOMAIN-SUFFIX,airbnb.no
+DOMAIN-SUFFIX,airbnb.org
+DOMAIN-SUFFIX,airbnb.pl
+DOMAIN-SUFFIX,airbnb.pt
+DOMAIN-SUFFIX,airbnb.rs
+DOMAIN-SUFFIX,airbnb.ru
+DOMAIN-SUFFIX,airbnb.se
+DOMAIN-SUFFIX,airbnb.si
+DOMAIN-SUFFIX,airbnb.tools
+DOMAIN-SUFFIX,airbnb.travel
+DOMAIN-SUFFIX,muscache.com
+DOMAIN-SUFFIX,vamo.com
+#end include:airbnb
+#include:bestbuy
+# Best Buy Co., Inc
+
+DOMAIN-SUFFIX,bby.com
+DOMAIN-SUFFIX,bbycastatic.ca
+DOMAIN-SUFFIX,bbycloud.com
+DOMAIN-SUFFIX,bbycontent.com
+DOMAIN-SUFFIX,bbycontent.net
+DOMAIN-SUFFIX,bbyintl.com
+DOMAIN-SUFFIX,bbystatic.com
+DOMAIN-SUFFIX,bbyurl.us
+DOMAIN-SUFFIX,bestbhy.com
+DOMAIN-SUFFIX,bestbuy-audio.com
+DOMAIN-SUFFIX,bestbuy-communityrelations.com
+DOMAIN-SUFFIX,bestbuy-giftcard.info
+DOMAIN-SUFFIX,bestbuy-int.com
+DOMAIN-SUFFIX,bestbuy-jobs.com
+DOMAIN-SUFFIX,bestbuy.ca
+DOMAIN-SUFFIX,bestbuy.cn
+DOMAIN-SUFFIX,bestbuy.com
+DOMAIN-SUFFIX,bestbuy.com.cn
+DOMAIN-SUFFIX,bestbuy.com.mx
+DOMAIN-SUFFIX,bestbuy.info
+DOMAIN-SUFFIX,bestbuy24x7solutions.com
+DOMAIN-SUFFIX,bestbuybusiness.com
+DOMAIN-SUFFIX,bestbuybusinessadvantageaccount.com
+DOMAIN-SUFFIX,bestbuycanada.ca
+DOMAIN-SUFFIX,bestbuycanada.com
+DOMAIN-SUFFIX,bestbuycanadaltd.ca
+DOMAIN-SUFFIX,bestbuycharityclassic.com
+DOMAIN-SUFFIX,bestbuycoffeemakers.com
+DOMAIN-SUFFIX,bestbuyethics.com
+DOMAIN-SUFFIX,bestbuyforbusiness.ca
+DOMAIN-SUFFIX,bestbuygsm.com
+DOMAIN-SUFFIX,bestbuyideax.com
+DOMAIN-SUFFIX,bestbuyphotoworkshoptours.com
+DOMAIN-SUFFIX,bestbuyrewards.com
+DOMAIN-SUFFIX,bestbuyrewardzone.ca
+DOMAIN-SUFFIX,bestbuys.com
+DOMAIN-SUFFIX,bestbuysgeeksquad.com
+DOMAIN-SUFFIX,bestbuysolutions.net
+DOMAIN-SUFFIX,bestbuystores.com
+DOMAIN-SUFFIX,bestbuytradein.com
+DOMAIN-SUFFIX,bestbuyus.com
+DOMAIN-SUFFIX,besztbuy.com
+DOMAIN-SUFFIX,bextbuy.com
+DOMAIN-SUFFIX,bienvenuechezbestbuy.ca
+DOMAIN-SUFFIX,cowboom.com
+DOMAIN-SUFFIX,futureshop.ca
+DOMAIN-SUFFIX,initproducts.com
+DOMAIN-SUFFIX,magnoliaav.com.cn
+DOMAIN-SUFFIX,mybestbuy.com
+DOMAIN-SUFFIX,mybestbuyclaims.com
+DOMAIN-SUFFIX,myrewardzone.com
+DOMAIN-SUFFIX,myrz.com
+DOMAIN-SUFFIX,pacifickitchenandhome.com
+DOMAIN-SUFFIX,tiendabestbuy.com
+DOMAIN-SUFFIX,unbrandedproducts.com
+DOMAIN-SUFFIX,welcometobestbuy.ca
+DOMAIN-SUFFIX,wolfatbestbuy.com
+DOMAIN-SUFFIX,wolfatbestbuy.net
+DOMAIN-SUFFIX,www-bestbuystores.com
+
+# Geek Squad
+DOMAIN-SUFFIX,geek-squad-support.com
+DOMAIN-SUFFIX,geek-squad.net
+DOMAIN-SUFFIX,geek-squad.org
+DOMAIN-SUFFIX,geek-squads.net
+DOMAIN-SUFFIX,geeksquad.ca
+DOMAIN-SUFFIX,geeksquad.cc
+DOMAIN-SUFFIX,geeksquad.com
+DOMAIN-SUFFIX,geeksquad.net
+DOMAIN-SUFFIX,geeksquad.tv
+DOMAIN-SUFFIX,geeksquadcares.com
+DOMAIN-SUFFIX,geeksquadcentral.com
+DOMAIN-SUFFIX,geeksquadforums.com
+DOMAIN-SUFFIX,geeksquadonline.com
+DOMAIN-SUFFIX,geeksquadprotectionplan.org
+DOMAIN-SUFFIX,geeksquadservices.org
+DOMAIN-SUFFIX,geeksquadwebroot.org
+DOMAIN-SUFFIX,gscanada.info
+DOMAIN-SUFFIX,gsccdn.com
+DOMAIN-SUFFIX,gslink.us
+DOMAIN-SUFFIX,onlinegeeksquad.com
+
+# RocketFish
+DOMAIN-SUFFIX,rocketfishproducts.com
+
+# Tech Liquidators
+DOMAIN-SUFFIX,dealtree.org
+DOMAIN-SUFFIX,techliquidators.com
+#end include:bestbuy
+#include:booking
+DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,bstatic.com
+#end include:booking
+#include:books
+DOMAIN-SUFFIX,book.com.tw
+DOMAIN-SUFFIX,books.com.tw
+#end include:books
+#include:costco
+DOMAIN-SUFFIX,costco-static.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,costcobusinessdelivery.com
+#end include:costco
+#include:coupang
+DOMAIN-SUFFIX,coupang.com
+DOMAIN-SUFFIX,coupangcdn.com
+#end include:coupang
+#include:craigslist
+DOMAIN-SUFFIX,craigslist.org
+#end include:craigslist
+#include:dmm
+#include:dmm-porn
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmmrex.com
+#end include:dmm-porn
+
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,dmm-extension.com
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN,api-p.videomarket.jp
+
+# Ads/tracking
+# Refer: https://tonahazana.com/kancolle-2nd-weight-saving
+# If you use support tools to play DMM games(such as playing Kantai Collection by poi), this list maybe useful.
+DOMAIN-SUFFIX,ad.games.dmm.com
+DOMAIN-SUFFIX,bluekai.com
+DOMAIN-SUFFIX,fout.jp
+DOMAIN-SUFFIX,gmossp-sp.jp
+DOMAIN-SUFFIX,i-mobile.co.jp
+DOMAIN-SUFFIX,im-apps.net
+DOMAIN-SUFFIX,impact-ad.jp
+DOMAIN-SUFFIX,ladsp.com
+DOMAIN-SUFFIX,microad.co.jp
+DOMAIN-SUFFIX,microad.jp
+DOMAIN-SUFFIX,socdm.com
+#end include:dmm
+#include:ebay
+DOMAIN-SUFFIX,21centuryaccess.com
+DOMAIN-SUFFIX,4ebaytraders.com
+DOMAIN-SUFFIX,adcommerce.cn
+DOMAIN-SUFFIX,adcommerce.tv
+DOMAIN-SUFFIX,appforebay.cn
+DOMAIN-SUFFIX,appsonebay.net
+DOMAIN-SUFFIX,asebay.com
+DOMAIN-SUFFIX,baazee.com
+DOMAIN-SUFFIX,bidbay.com
+DOMAIN-SUFFIX,bidorbuyindia.com
+DOMAIN-SUFFIX,billpoint.com
+DOMAIN-SUFFIX,billpoint.info
+DOMAIN-SUFFIX,billpoint.tv
+DOMAIN-SUFFIX,billpoint.us
+DOMAIN-SUFFIX,billpointnewzealand.com
+DOMAIN-SUFFIX,blogebay.com
+DOMAIN-SUFFIX,bookclubcorner.com
+DOMAIN-SUFFIX,builtfromebay.com
+DOMAIN-SUFFIX,buyitnow.com
+DOMAIN-SUFFIX,buyitnow.net
+DOMAIN-SUFFIX,buyitnow.org
+DOMAIN-SUFFIX,buyitnow.tv
+DOMAIN-SUFFIX,buyitnowshop.net
+DOMAIN-SUFFIX,cafr.ca
+DOMAIN-SUFFIX,carebay.com
+DOMAIN-SUFFIX,cargigileads.com
+DOMAIN-SUFFIX,cebay.com
+DOMAIN-SUFFIX,collective99.com
+DOMAIN-SUFFIX,commerceos.com
+DOMAIN-SUFFIX,connectcommerce.cn
+DOMAIN-SUFFIX,connectcommerce.com.cn
+DOMAIN-SUFFIX,connectcommerce.hk
+DOMAIN-SUFFIX,connectcommerce.info
+DOMAIN-SUFFIX,connectcommerce.tv
+DOMAIN-SUFFIX,connectedcommerce.cn
+DOMAIN-SUFFIX,connectedcommerce.com
+DOMAIN-SUFFIX,connectedcommerce.tv
+DOMAIN-SUFFIX,crececonebay.com
+DOMAIN-SUFFIX,creditcardsbay.com
+DOMAIN-SUFFIX,cyber-bay.cn
+DOMAIN-SUFFIX,cyber-bay.com.cn
+DOMAIN-SUFFIX,cyber-bay.info
+DOMAIN-SUFFIX,cyber-bay.org
+DOMAIN-SUFFIX,dba.dk
+DOMAIN-SUFFIX,dealbay.com
+DOMAIN-SUFFIX,dealtime.com
+DOMAIN-SUFFIX,didce.com
+DOMAIN-SUFFIX,douya.org
+DOMAIN-SUFFIX,dreamtoplay.com
+DOMAIN-SUFFIX,e-bay.com
+DOMAIN-SUFFIX,e-bay.it
+DOMAIN-SUFFIX,e-bay.net
+DOMAIN-SUFFIX,eachpay.com
+DOMAIN-SUFFIX,eachpay.net
+DOMAIN-SUFFIX,ebahy.com
+DOMAIN-SUFFIX,ebay-authenticate.net
+DOMAIN-SUFFIX,ebay-confirm.com
+DOMAIN-SUFFIX,ebay-course.com
+DOMAIN-SUFFIX,ebay-cz.com
+DOMAIN-SUFFIX,ebay-delivery.com
+DOMAIN-SUFFIX,ebay-discoveries.com
+DOMAIN-SUFFIX,ebay-fashion.com
+DOMAIN-SUFFIX,ebay-inc.com
+DOMAIN-SUFFIX,ebay-inc.net
+DOMAIN-SUFFIX,ebay-inc.org
+DOMAIN-SUFFIX,ebay-online.com
+DOMAIN-SUFFIX,ebay-sales.com
+DOMAIN-SUFFIX,ebay-stories.com
+DOMAIN-SUFFIX,ebay-us.com
+DOMAIN-SUFFIX,ebay-vacation.com
+DOMAIN-SUFFIX,ebay.at
+DOMAIN-SUFFIX,ebay.be
+DOMAIN-SUFFIX,ebay.ca
+DOMAIN-SUFFIX,ebay.ch
+DOMAIN-SUFFIX,ebay.cn
+DOMAIN-SUFFIX,ebay.co.nz
+DOMAIN-SUFFIX,ebay.co.uk
+DOMAIN-SUFFIX,ebay.co.ve
+DOMAIN-SUFFIX,ebay.co.za
+DOMAIN-SUFFIX,ebay.com
+DOMAIN-SUFFIX,ebay.com.ar
+DOMAIN-SUFFIX,ebay.com.au
+DOMAIN-SUFFIX,ebay.com.cn
+DOMAIN-SUFFIX,ebay.com.ec
+DOMAIN-SUFFIX,ebay.com.hk
+DOMAIN-SUFFIX,ebay.com.mt
+DOMAIN-SUFFIX,ebay.com.my
+DOMAIN-SUFFIX,ebay.com.ph
+DOMAIN-SUFFIX,ebay.com.sg
+DOMAIN-SUFFIX,ebay.de
+DOMAIN-SUFFIX,ebay.es
+DOMAIN-SUFFIX,ebay.fr
+DOMAIN-SUFFIX,ebay.ie
+DOMAIN-SUFFIX,ebay.in
+DOMAIN-SUFFIX,ebay.it
+DOMAIN-SUFFIX,ebay.jp
+DOMAIN-SUFFIX,ebay.lt
+DOMAIN-SUFFIX,ebay.mn
+DOMAIN-SUFFIX,ebay.net.cn
+DOMAIN-SUFFIX,ebay.nl
+DOMAIN-SUFFIX,ebay.org
+DOMAIN-SUFFIX,ebay.org.cn
+DOMAIN-SUFFIX,ebay.ph
+DOMAIN-SUFFIX,ebay.pk
+DOMAIN-SUFFIX,ebay.pl
+DOMAIN-SUFFIX,ebay.sg
+DOMAIN-SUFFIX,ebay.us
+DOMAIN-SUFFIX,ebay.vn
+DOMAIN-SUFFIX,ebay.yn.cn
+DOMAIN-SUFFIX,ebay.zj.cn
+DOMAIN-SUFFIX,ebay25.com
+DOMAIN-SUFFIX,ebay68.com
+DOMAIN-SUFFIX,ebaya.com
+DOMAIN-SUFFIX,ebayads.com
+DOMAIN-SUFFIX,ebayads.net
+DOMAIN-SUFFIX,ebayadvertising.cn
+DOMAIN-SUFFIX,ebayadvertising.com
+DOMAIN-SUFFIX,ebayanunsios.net
+DOMAIN-SUFFIX,ebayauction.com
+DOMAIN-SUFFIX,ebayaustralia.com
+DOMAIN-SUFFIX,ebayauthenticate.com.cn
+DOMAIN-SUFFIX,ebaybags.com
+DOMAIN-SUFFIX,ebaybank.com
+DOMAIN-SUFFIX,ebaybenefits.com
+DOMAIN-SUFFIX,ebayboutique.com
+DOMAIN-SUFFIX,ebayca.com
+DOMAIN-SUFFIX,ebayca.org
+DOMAIN-SUFFIX,ebaycafe.com
+DOMAIN-SUFFIX,ebaycar.com
+DOMAIN-SUFFIX,ebaycareers.com
+DOMAIN-SUFFIX,ebaycbt.co.kr
+DOMAIN-SUFFIX,ebaycdn.net
+DOMAIN-SUFFIX,ebaychina.net
+DOMAIN-SUFFIX,ebayclassifiedsgroup.com
+DOMAIN-SUFFIX,ebayclassifieds.cn
+DOMAIN-SUFFIX,ebayclassifieds.com
+DOMAIN-SUFFIX,ebayclassifieds.com.cn
+DOMAIN-SUFFIX,ebayclassifieds.info
+DOMAIN-SUFFIX,ebayclassifieds.org
+DOMAIN-SUFFIX,ebayclassifieds.tv
+DOMAIN-SUFFIX,ebayclassifiedsgroup.com
+DOMAIN-SUFFIX,ebayclassifiedsgroup.info
+DOMAIN-SUFFIX,ebayclassifiedsgroup.org
+DOMAIN-SUFFIX,ebayclassifies.com
+DOMAIN-SUFFIX,ebayclub.com
+DOMAIN-SUFFIX,ebaycoins.com
+DOMAIN-SUFFIX,ebaycom.com
+DOMAIN-SUFFIX,ebaycommercenetwork.com
+DOMAIN-SUFFIX,ebaycourse.com
+DOMAIN-SUFFIX,ebayd.com
+DOMAIN-SUFFIX,ebayde.com
+DOMAIN-SUFFIX,ebaydesc.cn
+DOMAIN-SUFFIX,ebaydesc.com.cn
+DOMAIN-SUFFIX,ebaydlassifieds.com
+DOMAIN-SUFFIX,ebaydns.cn
+DOMAIN-SUFFIX,ebaydts.com
+DOMAIN-SUFFIX,ebayedu.com
+DOMAIN-SUFFIX,ebayeletro.com
+DOMAIN-SUFFIX,ebayenterprise.cn
+DOMAIN-SUFFIX,ebayenterprise.com
+DOMAIN-SUFFIX,ebayenterprise.com.cn
+DOMAIN-SUFFIX,ebayenterprise.info
+DOMAIN-SUFFIX,ebayenterprise.net
+DOMAIN-SUFFIX,ebayenterprise.tv
+DOMAIN-SUFFIX,ebayetc.com
+DOMAIN-SUFFIX,ebayexpress.sg
+DOMAIN-SUFFIX,ebayfashion.com
+DOMAIN-SUFFIX,ebayfashion.net
+DOMAIN-SUFFIX,ebayforcharity.org
+DOMAIN-SUFFIX,ebayforeclosure.org
+DOMAIN-SUFFIX,ebayfrance.com
+DOMAIN-SUFFIX,ebayglobalshipping.com
+DOMAIN-SUFFIX,ebaygroup.com
+DOMAIN-SUFFIX,ebayhabit.com
+DOMAIN-SUFFIX,ebayheels.com
+DOMAIN-SUFFIX,ebayhots.com
+DOMAIN-SUFFIX,ebayimg.com
+DOMAIN-SUFFIX,ebayinc.com
+DOMAIN-SUFFIX,ebayinc.net
+DOMAIN-SUFFIX,ebayinc.org
+DOMAIN-SUFFIX,ebayincconnectedcommerce.net
+DOMAIN-SUFFIX,ebayinkblog.com
+DOMAIN-SUFFIX,ebayinternetsalestax.com
+DOMAIN-SUFFIX,ebayit.com
+DOMAIN-SUFFIX,ebayjewelry.com
+DOMAIN-SUFFIX,ebayjob.com
+DOMAIN-SUFFIX,ebayla.org
+DOMAIN-SUFFIX,ebaylisting.com
+DOMAIN-SUFFIX,ebaylocal.net
+DOMAIN-SUFFIX,ebaylocationsdevacances.com
+DOMAIN-SUFFIX,ebaymag.com
+DOMAIN-SUFFIX,ebaymainstreet.com
+DOMAIN-SUFFIX,ebaymall.com
+DOMAIN-SUFFIX,ebaymarketplace.net
+DOMAIN-SUFFIX,ebaymotors.ca
+DOMAIN-SUFFIX,ebaymotors.cn
+DOMAIN-SUFFIX,ebaymotors.com
+DOMAIN-SUFFIX,ebaymotors.com.cn
+DOMAIN-SUFFIX,ebaymotors.org
+DOMAIN-SUFFIX,ebaymotorsblog.com
+DOMAIN-SUFFIX,ebaynow.com
+DOMAIN-SUFFIX,ebaynyc.com
+DOMAIN-SUFFIX,ebayon.com
+DOMAIN-SUFFIX,ebayon.net
+DOMAIN-SUFFIX,ebayoncampus.com
+DOMAIN-SUFFIX,ebayopen.com
+DOMAIN-SUFFIX,ebayopensource.com
+DOMAIN-SUFFIX,ebayopensource.net
+DOMAIN-SUFFIX,ebaypakistan.net
+DOMAIN-SUFFIX,ebaypark.com
+DOMAIN-SUFFIX,ebayparts.com
+DOMAIN-SUFFIX,ebaypedia.cn
+DOMAIN-SUFFIX,ebaypedia.com.cn
+DOMAIN-SUFFIX,ebayprivacycenter.com
+DOMAIN-SUFFIX,ebayqq.com
+DOMAIN-SUFFIX,ebayradio.com
+DOMAIN-SUFFIX,ebayrtm.com
+DOMAIN-SUFFIX,ebayseller.com
+DOMAIN-SUFFIX,ebayshoesstore.com
+DOMAIN-SUFFIX,ebayshop.com
+DOMAIN-SUFFIX,ebayshop111.com
+DOMAIN-SUFFIX,ebayshopping.cn
+DOMAIN-SUFFIX,ebayshopping.com.cn
+DOMAIN-SUFFIX,ebayshopping.org
+DOMAIN-SUFFIX,ebaysocial.com
+DOMAIN-SUFFIX,ebaysocial.ru
+DOMAIN-SUFFIX,ebaysoho.com
+DOMAIN-SUFFIX,ebaysohos.com
+DOMAIN-SUFFIX,ebaystatic.cn
+DOMAIN-SUFFIX,ebaystatic.com
+DOMAIN-SUFFIX,ebaystore.com
+DOMAIN-SUFFIX,ebaystore77.com
+DOMAIN-SUFFIX,ebaystores.cn
+DOMAIN-SUFFIX,ebaystyle.com
+DOMAIN-SUFFIX,ebaysweden.com
+DOMAIN-SUFFIX,ebayt.com
+DOMAIN-SUFFIX,ebaytechblog.com
+DOMAIN-SUFFIX,ebaytopratedseller.net
+DOMAIN-SUFFIX,ebaytrading.com
+DOMAIN-SUFFIX,ebaytradingassistant.com
+DOMAIN-SUFFIX,ebaytv.org
+DOMAIN-SUFFIX,ebayuae.net
+DOMAIN-SUFFIX,ebayvakantiehuizen.com
+DOMAIN-SUFFIX,ebayvalet.com
+DOMAIN-SUFFIX,ebayvietnam.net
+DOMAIN-SUFFIX,ebayworlds.com
+DOMAIN-SUFFIX,ebayy.com
+DOMAIN-SUFFIX,edisebay.com
+DOMAIN-SUFFIX,eebay.com
+DOMAIN-SUFFIX,epinions.com
+DOMAIN-SUFFIX,eu-consumer-empowerment.com
+DOMAIN-SUFFIX,expertmaker.com
+DOMAIN-SUFFIX,fairmarket.com
+DOMAIN-SUFFIX,fragrancebay.com
+DOMAIN-SUFFIX,francemail.com
+DOMAIN-SUFFIX,half.com
+DOMAIN-SUFFIX,half.com.cn
+DOMAIN-SUFFIX,half.tv
+DOMAIN-SUFFIX,halfcanada.com
+DOMAIN-SUFFIX,halfjapan.com
+DOMAIN-SUFFIX,handbagsoutletebay.com
+DOMAIN-SUFFIX,iebay.com
+DOMAIN-SUFFIX,irribay.com
+DOMAIN-SUFFIX,itsbetterwhenyouwinit.com
+DOMAIN-SUFFIX,liketwice.com
+DOMAIN-SUFFIX,liveauction.com
+DOMAIN-SUFFIX,milofetch.com
+DOMAIN-SUFFIX,musicbay.net
+DOMAIN-SUFFIX,myconstructionworld.net
+DOMAIN-SUFFIX,myebay.com
+DOMAIN-SUFFIX,nebay.net
+DOMAIN-SUFFIX,paisapay.cc
+DOMAIN-SUFFIX,paisapay.info
+DOMAIN-SUFFIX,paisapay.tv
+DOMAIN-SUFFIX,premobay.com
+DOMAIN-SUFFIX,privatemarketplaces.net
+DOMAIN-SUFFIX,privatemarketplaces.us
+DOMAIN-SUFFIX,prostores.cn
+DOMAIN-SUFFIX,prostores.com
+DOMAIN-SUFFIX,prostores.com.cn
+DOMAIN-SUFFIX,rethink.net
+DOMAIN-SUFFIX,shopibay.net
+DOMAIN-SUFFIX,shoping.com
+DOMAIN-SUFFIX,sourcingforebay.com.cn
+DOMAIN-SUFFIX,sourcingforebay.net
+DOMAIN-SUFFIX,sourcingforebay.tv
+DOMAIN-SUFFIX,speybay.com
+DOMAIN-SUFFIX,storesense.com
+DOMAIN-SUFFIX,svpply.com
+DOMAIN-SUFFIX,telebay.com
+DOMAIN-SUFFIX,telesell.com
+DOMAIN-SUFFIX,texttobuy.org
+DOMAIN-SUFFIX,theebayshop.com
+DOMAIN-SUFFIX,theopportunityproject.org
+DOMAIN-SUFFIX,towerauction.com
+DOMAIN-SUFFIX,vendu.com
+DOMAIN-SUFFIX,weareebay.com
+DOMAIN-SUFFIX,watch-ebay.org
+DOMAIN-SUFFIX,wwwdecide.com
+DOMAIN-SUFFIX,wwwebay.com
+DOMAIN-SUFFIX,wwwebay.net
+DOMAIN-SUFFIX,wwwwebay.com
+DOMAIN-SUFFIX,xindelu.com
+DOMAIN-SUFFIX,xn--3et96bj49ahpq.com    #巴特菲尔.com
+DOMAIN-SUFFIX,xn--4vq475g.com    #益倍.com
+DOMAIN-SUFFIX,xn--4vq477m.com    #逸倍.com
+DOMAIN-SUFFIX,xn--7hv594h.com    #易钡.com
+DOMAIN-SUFFIX,xn--7hvy28f.cn    #易贝.cn
+DOMAIN-SUFFIX,xn--hb4aw0g.com    #逸钡.com
+DOMAIN-SUFFIX,xn--q41am8x.com    #藝鋇.com
+DOMAIN-SUFFIX,xn--qoq462m.com    #伊贝.com
+DOMAIN-SUFFIX,xn--tkry91n.com    #半額.com
+DOMAIN-SUFFIX,xn--ubt498knmf.com    #客集齐.com
+DOMAIN-SUFFIX,xn--xsq421m.com    #依贝.com
+DOMAIN-SUFFIX,xn--xsq605n.com    #依鋇.com
+DOMAIN-SUFFIX,xn--xsq959n.com    #依钡.com
+DOMAIN-SUFFIX,xn--yf1at58a.com    #艺钡.com
+DOMAIN-SUFFIX,xxbay.com
+DOMAIN-SUFFIX,yibei.org
+
+# GittiGidiyor
+DOMAIN-SUFFIX,gittigidiyor.net
+DOMAIN-SUFFIX,gittigidiyorsikayet.com
+
+# kijiji
+DOMAIN-SUFFIX,gumtree.sg
+DOMAIN-SUFFIX,jijiji.ca
+DOMAIN-SUFFIX,kiji.ca
+DOMAIN-SUFFIX,kijii.ca
+DOMAIN-SUFFIX,kijij.ca
+DOMAIN-SUFFIX,kijiji.ca
+DOMAIN-SUFFIX,kijijiauto.ca
+DOMAIN-SUFFIX,kijijiautos.ca
+DOMAIN-SUFFIX,kijijidns.cn
+DOMAIN-SUFFIX,kijijidns.com.cn
+DOMAIN-SUFFIX,kijijiforbusiness.ca
+DOMAIN-SUFFIX,kijijii.ca
+DOMAIN-SUFFIX,kijijiraps.ca
+DOMAIN-SUFFIX,kijji.ca
+DOMAIN-SUFFIX,kijjiji.ca
+
+# Mobile.de
+DOMAIN-SUFFIX,automobile.fr
+DOMAIN-SUFFIX,mobile.de
+DOMAIN-SUFFIX,mobileinternational.com
+DOMAIN-SUFFIX,mobileinternational.com.cn
+
+# Qoo10
+DOMAIN-SUFFIX,q10.jp
+DOMAIN-SUFFIX,qoo10.jp
+
+# Terapeak
+DOMAIN-SUFFIX,achievementanalytics.com
+DOMAIN-SUFFIX,cdn-terapeak.com
+DOMAIN-SUFFIX,listinganalytics.net
+DOMAIN-SUFFIX,marketexecutive.net
+DOMAIN-SUFFIX,tearapeak.com
+DOMAIN-SUFFIX,terapeack.com
+DOMAIN-SUFFIX,terapeak.ca
+DOMAIN-SUFFIX,terapeak.cn
+DOMAIN-SUFFIX,terapeak.com
+DOMAIN-SUFFIX,terapeak.com.hk
+DOMAIN-SUFFIX,terapeak.hk
+DOMAIN-SUFFIX,terapeak.info
+DOMAIN-SUFFIX,teraperk.com
+DOMAIN-SUFFIX,terrapeak.com
+DOMAIN-SUFFIX,thebayuk.com
+
+# WHI
+DOMAIN-SUFFIX,nexcat.com
+DOMAIN-SUFFIX,nexpart.com
+DOMAIN-SUFFIX,nexpart.tv
+DOMAIN-SUFFIX,renchead.com
+DOMAIN-SUFFIX,whisolutions.com
+DOMAIN-SUFFIX,wrenchead.com
+
+DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
+#end include:ebay
+#include:ebuyer
+DOMAIN-SUFFIX,ebuyer.com
+#ebyrcdn.net
+#end include:ebuyer
+#include:farfetch
+DOMAIN-SUFFIX,farfetch-apps.com
+DOMAIN-SUFFIX,farfetch-contents.com
+DOMAIN-SUFFIX,farfetch.cn
+DOMAIN-SUFFIX,farfetch.com
+DOMAIN-SUFFIX,farfetch.com.cn
+DOMAIN-SUFFIX,farfetch.net
+DOMAIN-SUFFIX,farfetch.net.cn
+DOMAIN-SUFFIX,fflnk.net
+#end include:farfetch
+#include:ggsel
+DOMAIN-SUFFIX,ggsel.com
+DOMAIN-SUFFIX,ggsel.net
+#end include:ggsel
+#include:gucci
+# All .gucci domains
+DOMAIN-SUFFIX,gucci
+
+DOMAIN-SUFFIX,chimeforchange.org
+DOMAIN-SUFFIX,gucci.cn
+DOMAIN-SUFFIX,gucci.com
+DOMAIN-SUFFIX,guccimuseo.com
+DOMAIN-SUFFIX,guccitimeless.com
+DOMAIN-SUFFIX,regiongold.com
+#end include:gucci
+#include:hm
+DOMAIN-SUFFIX,hm.com
+DOMAIN-SUFFIX,hm.com.cn
+#end include:hm
+#include:homedepot
+DOMAIN-SUFFIX,homedepot-static.com
+DOMAIN-SUFFIX,homedepot.com
+#end include:homedepot
+#include:ikea
+# Reginol Store
+DOMAIN-SUFFIX,ikea.ae
+DOMAIN-SUFFIX,ikea.at
+DOMAIN-SUFFIX,ikea.au
+DOMAIN-SUFFIX,ikea.be
+DOMAIN-SUFFIX,ikea.bg
+DOMAIN-SUFFIX,ikea.bh
+DOMAIN-SUFFIX,ikea.ca
+DOMAIN-SUFFIX,ikea.ch
+DOMAIN-SUFFIX,ikea.cl
+DOMAIN-SUFFIX,ikea.cn
+DOMAIN-SUFFIX,ikea.co.at
+DOMAIN-SUFFIX,ikea.co.ca
+DOMAIN-SUFFIX,ikea.co.de
+DOMAIN-SUFFIX,ikea.co.id
+DOMAIN-SUFFIX,ikea.co.il
+DOMAIN-SUFFIX,ikea.co.jp
+DOMAIN-SUFFIX,ikea.co.kr
+DOMAIN-SUFFIX,ikea.co.om
+DOMAIN-SUFFIX,ikea.co.ph
+DOMAIN-SUFFIX,ikea.co.pl
+DOMAIN-SUFFIX,ikea.co.th
+DOMAIN-SUFFIX,ikea.co.uk
+DOMAIN-SUFFIX,ikea.com.au
+DOMAIN-SUFFIX,ikea.com.cy
+DOMAIN-SUFFIX,ikea.com.de
+DOMAIN-SUFFIX,ikea.com.do
+DOMAIN-SUFFIX,ikea.com.eg
+DOMAIN-SUFFIX,ikea.com.gr
+DOMAIN-SUFFIX,ikea.com.hk
+DOMAIN-SUFFIX,ikea.com.in
+DOMAIN-SUFFIX,ikea.com.kw
+DOMAIN-SUFFIX,ikea.com.lv
+DOMAIN-SUFFIX,ikea.com.mx
+DOMAIN-SUFFIX,ikea.com.my
+DOMAIN-SUFFIX,ikea.com.om
+DOMAIN-SUFFIX,ikea.com.pl
+DOMAIN-SUFFIX,ikea.com.pr
+DOMAIN-SUFFIX,ikea.com.pt
+DOMAIN-SUFFIX,ikea.com.ro
+DOMAIN-SUFFIX,ikea.com.ru
+DOMAIN-SUFFIX,ikea.com.sa
+DOMAIN-SUFFIX,ikea.com.sg
+DOMAIN-SUFFIX,ikea.com.tr
+DOMAIN-SUFFIX,ikea.com.tw
+DOMAIN-SUFFIX,ikea.com.ua
+DOMAIN-SUFFIX,ikea.cz
+DOMAIN-SUFFIX,ikea.de
+DOMAIN-SUFFIX,ikea.dk
+DOMAIN-SUFFIX,ikea.do
+DOMAIN-SUFFIX,ikea.ee
+DOMAIN-SUFFIX,ikea.eg
+DOMAIN-SUFFIX,ikea.es
+DOMAIN-SUFFIX,ikea.fi
+DOMAIN-SUFFIX,ikea.fr
+DOMAIN-SUFFIX,ikea.gr
+DOMAIN-SUFFIX,ikea.hk
+DOMAIN-SUFFIX,ikea.hr
+DOMAIN-SUFFIX,ikea.hu
+DOMAIN-SUFFIX,ikea.ie
+DOMAIN-SUFFIX,ikea.in
+DOMAIN-SUFFIX,ikea.is
+DOMAIN-SUFFIX,ikea.it
+DOMAIN-SUFFIX,ikea.jo
+DOMAIN-SUFFIX,ikea.jp
+DOMAIN-SUFFIX,ikea.kr
+DOMAIN-SUFFIX,ikea.lt
+DOMAIN-SUFFIX,ikea.lv
+DOMAIN-SUFFIX,ikea.ma
+DOMAIN-SUFFIX,ikea.mx
+DOMAIN-SUFFIX,ikea.my
+DOMAIN-SUFFIX,ikea.nl
+DOMAIN-SUFFIX,ikea.no
+DOMAIN-SUFFIX,ikea.om
+DOMAIN-SUFFIX,ikea.ph
+DOMAIN-SUFFIX,ikea.pl
+DOMAIN-SUFFIX,ikea.pr
+DOMAIN-SUFFIX,ikea.pt
+DOMAIN-SUFFIX,ikea.qa
+DOMAIN-SUFFIX,ikea.ro
+DOMAIN-SUFFIX,ikea.rs
+DOMAIN-SUFFIX,ikea.ru
+DOMAIN-SUFFIX,ikea.sa
+DOMAIN-SUFFIX,ikea.sg
+DOMAIN-SUFFIX,ikea.si
+DOMAIN-SUFFIX,ikea.sk
+DOMAIN-SUFFIX,ikea.ua
+DOMAIN-SUFFIX,ikea.us
+
+DOMAIN-SUFFIX,ikea.com
+DOMAIN-SUFFIX,ikea.net
+DOMAIN-SUFFIX,ingka-dt.cn
+DOMAIN-SUFFIX,ingka-internal.cn
+DOMAIN-SUFFIX,ingka-system.cn
+DOMAIN-SUFFIX,ingka.com
+DOMAIN-SUFFIX,ingka.dev
+DOMAIN-SUFFIX,ingkacentres.com
+#end include:ikea
+#include:miniso
+DOMAIN-SUFFIX,loveminiso.com.br
+DOMAIN-SUFFIX,miniso-au.com
+DOMAIN-SUFFIX,miniso-bh.com
+DOMAIN-SUFFIX,miniso-np.com
+DOMAIN-SUFFIX,miniso-nz.com
+DOMAIN-SUFFIX,miniso.by
+DOMAIN-SUFFIX,miniso.ca
+DOMAIN-SUFFIX,miniso.cn
+DOMAIN-SUFFIX,miniso.co
+DOMAIN-SUFFIX,miniso.co.id
+DOMAIN-SUFFIX,miniso.co.tz
+DOMAIN-SUFFIX,miniso.com
+DOMAIN-SUFFIX,miniso.com.es
+DOMAIN-SUFFIX,miniso.com.gr
+DOMAIN-SUFFIX,miniso.com.mx
+DOMAIN-SUFFIX,miniso.com.pl
+DOMAIN-SUFFIX,miniso.com.py
+DOMAIN-SUFFIX,miniso.com.tr
+DOMAIN-SUFFIX,miniso.ge
+DOMAIN-SUFFIX,miniso.ie
+DOMAIN-SUFFIX,miniso.jp
+DOMAIN-SUFFIX,miniso.ma
+DOMAIN-SUFFIX,miniso.my
+DOMAIN-SUFFIX,miniso.pe
+DOMAIN-SUFFIX,miniso.pk
+DOMAIN-SUFFIX,miniso.ua
+DOMAIN-SUFFIX,miniso.uz
+DOMAIN-SUFFIX,minisohome.cn
+DOMAIN-SUFFIX,minisoindia.com
+DOMAIN-SUFFIX,minisojordan.com
+DOMAIN-SUFFIX,minisokorea.com
+DOMAIN-SUFFIX,minisolife.co.za
+DOMAIN-SUFFIX,minisothailand.com
+DOMAIN-SUFFIX,minisovietam.vn
+DOMAIN-SUFFIX,minsio.cn
+DOMAIN-SUFFIX,myminiso.com
+#end include:miniso
+#include:momo
+DOMAIN-SUFFIX,momo.dm
+DOMAIN-SUFFIX,momo5188.com
+DOMAIN-SUFFIX,momomall.com.tw
+DOMAIN-SUFFIX,momoshop.com.tw
+#end include:momo
+#include:muji
+DOMAIN-SUFFIX,muji.com
+DOMAIN-SUFFIX,muji.com.cn
+DOMAIN-SUFFIX,muji.com.hk
+DOMAIN-SUFFIX,muji.eu
+DOMAIN-SUFFIX,muji.net
+DOMAIN-SUFFIX,muji.tw
+DOMAIN-SUFFIX,muji.us
+DOMAIN-SUFFIX,mujikorea.net
+#end include:muji
+#include:nike
+# All .nike domains
+DOMAIN-SUFFIX,nike
+
+DOMAIN-SUFFIX,air-nike-shoes.com
+DOMAIN-SUFFIX,airmax360.com
+DOMAIN-SUFFIX,beijingnike.com
+DOMAIN-SUFFIX,betternike.com
+DOMAIN-SUFFIX,buynikechina.com
+DOMAIN-SUFFIX,cheap-nike.com
+DOMAIN-SUFFIX,cheapnikedunks.com
+DOMAIN-SUFFIX,cheapnikeoutlet.com
+DOMAIN-SUFFIX,classicnike.com
+DOMAIN-SUFFIX,cnnikebrand.com
+DOMAIN-SUFFIX,customnikeshoes.com
+DOMAIN-SUFFIX,easynike.com
+DOMAIN-SUFFIX,eenike.com
+DOMAIN-SUFFIX,fashionnike.com
+DOMAIN-SUFFIX,finenike.com
+DOMAIN-SUFFIX,foampositeshoes.com
+DOMAIN-SUFFIX,goldnikeclub.com
+DOMAIN-SUFFIX,gonike.com
+DOMAIN-SUFFIX,handbags-nike.com
+DOMAIN-SUFFIX,hightopnikes.com
+DOMAIN-SUFFIX,idnike.com
+DOMAIN-SUFFIX,inikesneakers.com
+DOMAIN-SUFFIX,just-do-it.cn
+DOMAIN-SUFFIX,justdoit.us
+DOMAIN-SUFFIX,kicksnike1.com
+DOMAIN-SUFFIX,kidsnikeshoes.com
+DOMAIN-SUFFIX,mynike.com
+DOMAIN-SUFFIX,nike-air-max.com
+DOMAIN-SUFFIX,nike-dunksb.com
+DOMAIN-SUFFIX,nike-fr.com
+DOMAIN-SUFFIX,nike-org.com
+DOMAIN-SUFFIX,nike-shox.cn
+DOMAIN-SUFFIX,nike-uk.com
+DOMAIN-SUFFIX,nike-us.com
+DOMAIN-SUFFIX,nike-usa.com
+DOMAIN-SUFFIX,nike.ci
+DOMAIN-SUFFIX,nike.cn
+DOMAIN-SUFFIX,nike.com
+DOMAIN-SUFFIX,nike.com.br
+DOMAIN-SUFFIX,nike.com.hk
+DOMAIN-SUFFIX,nike.gy
+DOMAIN-SUFFIX,nike.hk
+DOMAIN-SUFFIX,nike.host
+DOMAIN-SUFFIX,nike.shop
+DOMAIN-SUFFIX,nike.us
+DOMAIN-SUFFIX,nike.xn--hxt814e    #nike.网店
+DOMAIN-SUFFIX,nike0594.com
+DOMAIN-SUFFIX,nike23.com
+DOMAIN-SUFFIX,nikeadidas.com
+DOMAIN-SUFFIX,nikeairhuarache.com
+DOMAIN-SUFFIX,nikeairmax.com
+DOMAIN-SUFFIX,nikeairmaxs.com
+DOMAIN-SUFFIX,nikeairmaxshoes.com
+DOMAIN-SUFFIX,nikeairrift.com
+DOMAIN-SUFFIX,nikeasia.com
+DOMAIN-SUFFIX,nikeaustralia.com
+DOMAIN-SUFFIX,nikeaw77.com
+DOMAIN-SUFFIX,nikeb.com
+DOMAIN-SUFFIX,nikebbn.com
+DOMAIN-SUFFIX,nikebetrue.com
+DOMAIN-SUFFIX,nikebetterworld.cn
+DOMAIN-SUFFIX,nikebetterworld.com
+DOMAIN-SUFFIX,nikebetterworld.com.cn
+DOMAIN-SUFFIX,nikebetterworld.info
+DOMAIN-SUFFIX,nikebetterworld.net
+DOMAIN-SUFFIX,nikebetterworld.org
+DOMAIN-SUFFIX,nikebiz.info
+DOMAIN-SUFFIX,nikebuy.com
+DOMAIN-SUFFIX,nikeby.com
+DOMAIN-SUFFIX,nikecdn.com
+DOMAIN-SUFFIX,nikecompany.com
+DOMAIN-SUFFIX,nikeconfluence.com
+DOMAIN-SUFFIX,nikechina.cn
+DOMAIN-SUFFIX,nikechosen.com
+DOMAIN-SUFFIX,nikecloud.com
+DOMAIN-SUFFIX,nikeclub.com
+DOMAIN-SUFFIX,nikecraft.com
+DOMAIN-SUFFIX,nikedawn.com
+DOMAIN-SUFFIX,nikedunks.net
+DOMAIN-SUFFIX,nikedunksshoes.com
+DOMAIN-SUFFIX,nikeelite.com
+DOMAIN-SUFFIX,nikefactorystore.com
+DOMAIN-SUFFIX,nikefind.com
+DOMAIN-SUFFIX,nikefirm.com
+DOMAIN-SUFFIX,nikefoamposites.com
+DOMAIN-SUFFIX,nikefoampositeshoes.com
+DOMAIN-SUFFIX,nikefootballcleats.com
+DOMAIN-SUFFIX,nikefootballgloves.com
+DOMAIN-SUFFIX,nikefootballjersey.com
+DOMAIN-SUFFIX,nikefoundation.org
+DOMAIN-SUFFIX,nikefr.com
+DOMAIN-SUFFIX,nikefrance.com
+DOMAIN-SUFFIX,nikefree.com
+DOMAIN-SUFFIX,nikefreeshoes.com
+DOMAIN-SUFFIX,nikefuelband.com
+DOMAIN-SUFFIX,nikegadgets.com
+DOMAIN-SUFFIX,nikegenealogy.com
+DOMAIN-SUFFIX,nikegolf.ca
+DOMAIN-SUFFIX,nikegolf.cn
+DOMAIN-SUFFIX,nikegrid.com
+DOMAIN-SUFFIX,nikehelp.com
+DOMAIN-SUFFIX,nikehightops.com
+DOMAIN-SUFFIX,nikehyperdunk.com
+DOMAIN-SUFFIX,nikeid.cn
+DOMAIN-SUFFIX,nikeid.com.cn
+DOMAIN-SUFFIX,nikeidshoes.com
+DOMAIN-SUFFIX,nikeinc.com
+DOMAIN-SUFFIX,nikeinc.com.cn
+DOMAIN-SUFFIX,nikeincchemistry.com
+DOMAIN-SUFFIX,nikeinstock.com
+DOMAIN-SUFFIX,nikeit.com
+DOMAIN-SUFFIX,nikeitalia.com
+DOMAIN-SUFFIX,nikeitaly.com
+DOMAIN-SUFFIX,nikekd.com
+DOMAIN-SUFFIX,nikekid.com
+DOMAIN-SUFFIX,nikelab.cn
+DOMAIN-SUFFIX,nikelab.com.cn
+DOMAIN-SUFFIX,nikelink.com
+DOMAIN-SUFFIX,nikeliuxiang.cn
+DOMAIN-SUFFIX,nikeliuxiang.com
+DOMAIN-SUFFIX,nikeliuxiang.com.cn
+DOMAIN-SUFFIX,nikelives.com
+DOMAIN-SUFFIX,nikelunarglide.com
+DOMAIN-SUFFIX,nikemall.cn
+DOMAIN-SUFFIX,nikemall.com.cn
+DOMAIN-SUFFIX,nikemarketing.com
+DOMAIN-SUFFIX,nikenews.com
+DOMAIN-SUFFIX,niken7.com
+DOMAIN-SUFFIX,nikeonlinestore.com
+DOMAIN-SUFFIX,nikeoutletstore.com
+DOMAIN-SUFFIX,nikeoutletstores.com
+DOMAIN-SUFFIX,nikepioneer.com
+DOMAIN-SUFFIX,nikeplus.com
+DOMAIN-SUFFIX,nikeplus.org
+DOMAIN-SUFFIX,nikepress.com
+DOMAIN-SUFFIX,nikeprice.com
+DOMAIN-SUFFIX,nikeproduct.com
+DOMAIN-SUFFIX,nikepromax.com
+DOMAIN-SUFFIX,nikeresponsibility.com
+DOMAIN-SUFFIX,nikereuseashoe.com
+DOMAIN-SUFFIX,nikerunclub.cn
+DOMAIN-SUFFIX,nikerunclub.com.cn
+DOMAIN-SUFFIX,nikerunner.com
+DOMAIN-SUFFIX,nikerunning.com.cn
+DOMAIN-SUFFIX,nikerunningshoes.com
+DOMAIN-SUFFIX,nikesb.com
+DOMAIN-SUFFIX,nikesbdunks.net
+DOMAIN-SUFFIX,nikeseason.com
+DOMAIN-SUFFIX,nikeselling.com
+DOMAIN-SUFFIX,nikesellorder.com
+DOMAIN-SUFFIX,nikeshoemarket.com
+DOMAIN-SUFFIX,nikeshoes-store.com
+DOMAIN-SUFFIX,nikeshoes21.com
+DOMAIN-SUFFIX,nikeshoes4u.com
+DOMAIN-SUFFIX,nikeshoescity.com
+DOMAIN-SUFFIX,nikeshoesgroup.com
+DOMAIN-SUFFIX,nikeshoesinc.com
+DOMAIN-SUFFIX,nikeshoesmarket.com
+DOMAIN-SUFFIX,nikeshoesretro.com
+DOMAIN-SUFFIX,nikeshoeswon.com
+DOMAIN-SUFFIX,nikeshoponline.com
+DOMAIN-SUFFIX,nikeshoxsale.com
+DOMAIN-SUFFIX,nikesku.com
+DOMAIN-SUFFIX,nikesnowboarding.com
+DOMAIN-SUFFIX,nikesoccercleats.com
+DOMAIN-SUFFIX,nikesportswear.com
+DOMAIN-SUFFIX,nikestares.com
+DOMAIN-SUFFIX,nikestore.cn
+DOMAIN-SUFFIX,nikestore.com
+DOMAIN-SUFFIX,nikestore.com.au
+DOMAIN-SUFFIX,nikestyles.com
+DOMAIN-SUFFIX,nikeswim.com
+DOMAIN-SUFFIX,niketaiwan.net
+DOMAIN-SUFFIX,niketracking.com
+DOMAIN-SUFFIX,niketradeweb.com
+DOMAIN-SUFFIX,niketrainer.com
+DOMAIN-SUFFIX,niketrainers.com
+DOMAIN-SUFFIX,niketraining.com
+DOMAIN-SUFFIX,nikeusa.com
+DOMAIN-SUFFIX,nikewear.com
+DOMAIN-SUFFIX,nikey.com
+DOMAIN-SUFFIX,nikezoom.com
+DOMAIN-SUFFIX,nke6.com
+DOMAIN-SUFFIX,outletnike.com
+DOMAIN-SUFFIX,runnike.com
+DOMAIN-SUFFIX,runningnike.com
+DOMAIN-SUFFIX,sale-nikeshoes.com
+DOMAIN-SUFFIX,static-nike.com
+DOMAIN-SUFFIX,swoo.sh
+DOMAIN-SUFFIX,swoosh.com
+DOMAIN-SUFFIX,swoosh.tv
+DOMAIN-SUFFIX,thedailysnkr.com
+DOMAIN-SUFFIX,verygoodnike.com
+DOMAIN-SUFFIX,womensnikeshox.com
+DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e    #耐克.网店
+#end include:nike
+#include:nordstrom
+DOMAIN-SUFFIX,nordstrom.com
+DOMAIN-SUFFIX,nordstrommedia.com
+#end include:nordstrom
+#include:pchome
+DOMAIN-SUFFIX,ecimg.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pchomeec.tw
+DOMAIN-SUFFIX,pchomeonline.com.tw
+DOMAIN-SUFFIX,pchomepay.com.tw
+DOMAIN-SUFFIX,pcloud.tw
+DOMAIN-SUFFIX,pcstore.com.tw
+DOMAIN-SUFFIX,piapp.com.tw
+DOMAIN-SUFFIX,rakuya.com.tw
+DOMAIN-SUFFIX,tagapie.com.tw
+DOMAIN-SUFFIX,toget.com.tw
+
+DOMAIN,ecapi-pchome.cdn.hinet.net
+DOMAIN,pchomeonline.com.tw
+#end include:pchome
+#include:rakuten
+DOMAIN-SUFFIX,r10s.com
+DOMAIN-SUFFIX,r10s.jp
+DOMAIN-SUFFIX,rakuten-static.com
+DOMAIN-SUFFIX,rakuten.ca
+DOMAIN-SUFFIX,rakuten.co.jp
+DOMAIN-SUFFIX,rakuten.com
+DOMAIN-SUFFIX,rakuten.com.tw
+DOMAIN-SUFFIX,rakuten.ne.jp
+DOMAIN-SUFFIX,rakuten.tw
+DOMAIN-SUFFIX,rclon.com
+DOMAIN-SUFFIX,rebates.jp
+#end include:rakuten
+#include:ruten
+DOMAIN-SUFFIX,rimg.com.tw
+DOMAIN-SUFFIX,ruten.com.tw
+#end include:ruten
+#include:shopee
+DOMAIN-SUFFIX,shopee.cl
+DOMAIN-SUFFIX,shopee.cn
+DOMAIN-SUFFIX,shopee.co.id
+DOMAIN-SUFFIX,shopee.co.th
+DOMAIN-SUFFIX,shopee.com
+DOMAIN-SUFFIX,shopee.com.br
+DOMAIN-SUFFIX,shopee.com.co
+DOMAIN-SUFFIX,shopee.com.mx
+DOMAIN-SUFFIX,shopee.com.my
+DOMAIN-SUFFIX,shopee.es
+DOMAIN-SUFFIX,shopee.fr
+DOMAIN-SUFFIX,shopee.id
+DOMAIN-SUFFIX,shopee.in
+DOMAIN-SUFFIX,shopee.io
+DOMAIN-SUFFIX,shopee.ph
+DOMAIN-SUFFIX,shopee.sg
+DOMAIN-SUFFIX,shopee.tw
+DOMAIN-SUFFIX,shopee.vn
+DOMAIN-SUFFIX,shopeemobile.com
+DOMAIN-SUFFIX,shopeesz.com
+DOMAIN-SUFFIX,shp.ee
+#end include:shopee
+#include:shopify
+DOMAIN-SUFFIX,myshopify.com
+DOMAIN-SUFFIX,shop.app
+DOMAIN-SUFFIX,shopify.com
+DOMAIN-SUFFIX,shopify.dev
+DOMAIN-SUFFIX,shopifycdn.com
+DOMAIN-SUFFIX,shopifycloud.com
+DOMAIN-SUFFIX,shopifystatus.com
+DOMAIN-SUFFIX,shopifysvc.com
+#end include:shopify
+#include:suruga-ya
+DOMAIN-SUFFIX,suruga-ya.com
+DOMAIN-SUFFIX,suruga-ya.jp
+#end include:suruga-ya
+#include:target
+# All .target domains
+DOMAIN-SUFFIX,target
+
+DOMAIN-SUFFIX,target.com
+DOMAIN-SUFFIX,targetimg1.com
+#end include:target
+#include:technogym
+# data source: https://crt.sh/?id=17424181
+DOMAIN-SUFFIX,letsmoveforabetterworld.com
+DOMAIN-SUFFIX,technogym.bg
+DOMAIN-SUFFIX,technogym.ch
+DOMAIN-SUFFIX,technogym.com
+DOMAIN-SUFFIX,technogym.com.br
+DOMAIN-SUFFIX,technogym.ru
+DOMAIN-SUFFIX,technogym.su
+DOMAIN-SUFFIX,wellnessinstitute.com
+#end include:technogym
+#include:walmart
+# All .walmart domains
+DOMAIN-SUFFIX,walmart
+
+DOMAIN-SUFFIX,w-mt.co
+DOMAIN-SUFFIX,wal-mart.com
+DOMAIN-SUFFIX,wal.co
+DOMAIN-SUFFIX,walmart-content.com
+DOMAIN-SUFFIX,walmart.cn
+DOMAIN-SUFFIX,walmart.com
+DOMAIN-SUFFIX,walmart.pharmacy
+DOMAIN-SUFFIX,walmartimages.com
+DOMAIN-SUFFIX,wmt.co
+#end include:walmart
+#include:wish
+DOMAIN-SUFFIX,wish.com
+#end include:wish
+
+DOMAIN-SUFFIX,axbdoll.com.tw
+DOMAIN-SUFFIX,i69.com.tw
+DOMAIN-SUFFIX,pornhubapparel.com
+DOMAIN-SUFFIX,readmoo.com
+DOMAIN-SUFFIX,redino.tw
+#end include:category-ecommerce
 
 # E-learning & Knowledge & Press & Scholar & Science & Technology
 #include:anandtech
@@ -3370,6 +5116,1182 @@ DOMAIN-SUFFIX,geogebra.org
 DOMAIN-SUFFIX,wolframalpha.com
 
 # Entertainment & Games & Music & Podcasts & Videos
+#include:category-entertainment
+# This list contains services related to entertainment & games & music & podcasts & videos outside China mainland.
+
+#include:category-acg
+# Game
+DOMAIN-SUFFIX,bestdori.com
+DOMAIN-SUFFIX,colorfulstage.com
+
+# Idol
+DOMAIN-SUFFIX,crypton.co.jp
+DOMAIN-SUFFIX,lapriere.jp
+DOMAIN-SUFFIX,magicalmirai.com
+DOMAIN-SUFFIX,mikuexpo.com
+DOMAIN-SUFFIX,piapro.net
+DOMAIN-SUFFIX,snowmiku.com
+
+# Resource sharing
+DOMAIN-SUFFIX,bowlroll.net
+#end include:category-acg
+#include:category-entertainment-ru
+# CDNvideo is a leading CDN provider in Russia and the CIS
+DOMAIN-SUFFIX,cdnvideo.ru
+DOMAIN-SUFFIX,cdnvideohub.com
+DOMAIN-SUFFIX,trbcdn.net
+
+# Information about films and series
+DOMAIN-SUFFIX,kinorium.com
+
+# Streaming services for watching TV series and movies
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+#end include:kinopoisk
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+#end include:okko
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,wink.ru
+#end include:wink
+DOMAIN-SUFFIX,24h.tv
+DOMAIN-SUFFIX,amediateka.ru
+DOMAIN-SUFFIX,beeline.tv
+DOMAIN-SUFFIX,ivi.ru
+DOMAIN-SUFFIX,premier.one
+DOMAIN-SUFFIX,smotreshka.tv
+DOMAIN-SUFFIX,start.ru
+DOMAIN-SUFFIX,tvigle.ru
+DOMAIN-SUFFIX,viju.ru
+
+# Video hosting
+DOMAIN-SUFFIX,rutube.ru
+DOMAIN-SUFFIX,rutubelist.ru
+DOMAIN-SUFFIX,rtbcdn.ru
+#end include:rutube
+#end include:category-entertainment-ru
+#include:category-novel
+# This file contains domains of pirate chinese online novel sites that are blocked by GFW
+DOMAIN-SUFFIX,ptzwx.com
+DOMAIN-SUFFIX,quanben-xiaoshuo.com
+DOMAIN-SUFFIX,quanben.io
+#end include:category-novel
+
+#include:7tv
+DOMAIN-SUFFIX,7tv.app
+DOMAIN-SUFFIX,7tv.io
+#end include:7tv
+#include:abema
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,abematv.co.jp
+DOMAIN-SUFFIX,adx.promo
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,amebame.com
+DOMAIN-SUFFIX,amebaownd.com
+DOMAIN-SUFFIX,amebaowndme.com
+DOMAIN-SUFFIX,ameblo.jp
+DOMAIN-SUFFIX,bucketeer.jp
+DOMAIN-SUFFIX,dokusho-ojikan.jp
+DOMAIN-SUFFIX,hayabusa.dev
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+DOMAIN-SUFFIX,winticket.jp
+
+# Abema TV CDN FQDN
+DOMAIN,abematv.akamaized.net
+DOMAIN,ds-linear-abematv.akamaized.net
+DOMAIN,ds-vod-abematv.akamaized.net
+DOMAIN,linear-abematv.akamaized.net
+DOMAIN,vod-abematv.akamaized.net
+#end include:abema
+#include:amc
+DOMAIN-SUFFIX,amc.com
+DOMAIN-SUFFIX,amcn.com
+DOMAIN-SUFFIX,amcnetworks.com
+DOMAIN-SUFFIX,amcplus.com
+DOMAIN-SUFFIX,e5a6ae085b6c43020dea230eb0c0ecc33a188227507da97b8ecc05eb8beace6.us-east-1.prod.service.minerva.devices.a2z.com
+#end include:amc
+#include:anime
+# 9amine
+DOMAIN-SUFFIX,9anime.cz
+DOMAIN-SUFFIX,9anime.id
+DOMAIN-SUFFIX,9anime.to
+DOMAIN-SUFFIX,9anime.ws
+
+# agefans: https://github.com/agefanscom/website
+DOMAIN-SUFFIX,age.tv
+DOMAIN-SUFFIX,agedm.org
+DOMAIN-SUFFIX,agedm.tv
+DOMAIN-SUFFIX,agefans.com
+DOMAIN-SUFFIX,agemys.org
+DOMAIN-SUFFIX,agedm.app    #app
+
+# animedao
+DOMAIN-SUFFIX,animedao-tv.com
+
+# Crunchyroll
+DOMAIN-SUFFIX,crunchyroll.com
+DOMAIN-SUFFIX,funimation.com    #funimation
+DOMAIN-SUFFIX,vrv.co    #vrv
+
+# Gogoanime
+DOMAIN-SUFFIX,gogoanime.vc
+DOMAIN-SUFFIX,gogoanime.wiki
+DOMAIN-SUFFIX,gogoanime3.co
+DOMAIN-SUFFIX,gogotaku.info
+DOMAIN-SUFFIX,gogo-load.com
+DOMAIN-SUFFIX,gogocdn.net    #image hosting site
+
+# hidive
+DOMAIN-SUFFIX,hidive.com
+#end include:anime
+#include:apple-tvplus
+# Apple TV+
+DOMAIN,apple-tv-plus-press.apple.com
+DOMAIN,hls-amt.itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN,tv.applemusic.com
+DOMAIN,uts-api.itunes.apple.com
+
+DOMAIN-SUFFIX,tv.apple.com
+#end include:apple-tvplus
+#include:archiveofourown
+DOMAIN-SUFFIX,ao3.org
+DOMAIN-SUFFIX,archiveofourown.org
+DOMAIN-SUFFIX,archiveofourown.com
+DOMAIN-SUFFIX,archiveofourown.net
+#end include:archiveofourown
+#include:attwatchtv
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,directv.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,nettyinternet.com
+#end include:attwatchtv
+#include:bahamut
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,gamer-cds.cdn.hinet.net
+#end include:bahamut
+#include:bandcamp
+DOMAIN-SUFFIX,bandcamp.com
+DOMAIN-SUFFIX,bcbits.com
+#end include:bandcamp
+#include:bangumi
+DOMAIN-SUFFIX,bangumi.tv
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,chii.in
+#end include:bangumi
+#include:boomerang
+DOMAIN-SUFFIX,boomerang.com
+DOMAIN-SUFFIX,wbdnbo.net
+#end include:boomerang
+#include:bushiroad
+DOMAIN-SUFFIX,argo-bdp.com
+DOMAIN-SUFFIX,bang-dream.com
+DOMAIN-SUFFIX,bushi-navi.com
+DOMAIN-SUFFIX,bushimo.jp
+DOMAIN-SUFFIX,bushiroad-creative.com
+DOMAIN-SUFFIX,bushiroad-global-online-store.com
+DOMAIN-SUFFIX,bushiroad-move.com
+DOMAIN-SUFFIX,bushiroad-music.com
+DOMAIN-SUFFIX,bushiroad-store.com
+DOMAIN-SUFFIX,bushiroad-works.com
+DOMAIN-SUFFIX,bushiroad.co.jp
+DOMAIN-SUFFIX,bushiroad.com
+DOMAIN-SUFFIX,bushiroadgames.com
+DOMAIN-SUFFIX,cf-vanguard.com
+DOMAIN-SUFFIX,comic-growl.com
+DOMAIN-SUFFIX,comicbushi-web.com
+DOMAIN-SUFFIX,d4dj-pj.com
+DOMAIN-SUFFIX,dreamorder.com
+DOMAIN-SUFFIX,fc-buddyfight.com
+DOMAIN-SUFFIX,gamebiz.jp
+DOMAIN-SUFFIX,gekkan-bushi.com
+DOMAIN-SUFFIX,hibiki-cast.jp
+DOMAIN-SUFFIX,hikosen.co.jp
+DOMAIN-SUFFIX,njpw.co.jp
+DOMAIN-SUFFIX,njpw1972.com
+DOMAIN-SUFFIX,our-notes.jp
+DOMAIN-SUFFIX,rebirth-fy.com
+DOMAIN-SUFFIX,revuestarlight.com
+DOMAIN-SUFFIX,shadowverse-evolve.com
+DOMAIN-SUFFIX,ws-blau.com
+DOMAIN-SUFFIX,ws-tcg.com
+DOMAIN-SUFFIX,wwr-stardom.com
+#end include:bushiroad
+#include:catchplay
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
+#end include:catchplay
+#include:copymanga
+DOMAIN-SUFFIX,2025copy.com
+DOMAIN-SUFFIX,copy-manga.com
+DOMAIN-SUFFIX,copy20.com
+DOMAIN-SUFFIX,copy2000.online
+DOMAIN-SUFFIX,mangacopy.com
+DOMAIN-SUFFIX,mangafuna.xyz
+DOMAIN-SUFFIX,mangafunb.fun
+#end include:copymanga
+#include:dailymotion
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dm-event.net
+DOMAIN-SUFFIX,dmcdn.net
+#end include:dailymotion
+#include:dandanzan
+DOMAIN-SUFFIX,dandanzan.cc
+DOMAIN-SUFFIX,nunuyy.cc
+#end include:dandanzan
+#include:dazn
+DOMAIN-SUFFIX,dazn.com
+DOMAIN-SUFFIX,dazn-api.com
+DOMAIN-SUFFIX,dazndn.com
+DOMAIN-SUFFIX,daznfeeds.com
+DOMAIN-SUFFIX,daznplayer.com
+DOMAIN-SUFFIX,daznservices.com
+DOMAIN-SUFFIX,indazn.com
+DOMAIN-SUFFIX,indaznlab.com
+#end include:dazn
+#include:deezer
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net
+#end include:deezer
+#include:deviantart
+DOMAIN-SUFFIX,deviantart.com
+DOMAIN-SUFFIX,deviantart.net
+DOMAIN-SUFFIX,da-files.com
+#end include:deviantart
+#include:discoveryplus
+DOMAIN-SUFFIX,content-ause1-ur-discovery1.uplynk.com
+DOMAIN-SUFFIX,disco-api.com
+DOMAIN-SUFFIX,discoveryplus.com
+#end include:discoveryplus
+#include:dlsite
+DOMAIN-SUFFIX,chobit.cc
+DOMAIN-SUFFIX,ci-en.jp
+DOMAIN-SUFFIX,ci-en.net
+DOMAIN-SUFFIX,dlaf.jp
+DOMAIN-SUFFIX,dlsite.com
+DOMAIN-SUFFIX,dlsite.com.tw
+DOMAIN-SUFFIX,dlsite.jp
+DOMAIN-SUFFIX,dlsitestudio.com
+DOMAIN-SUFFIX,nijiyome.jp
+DOMAIN-SUFFIX,triokini.com
+#end include:dlsite
+#include:ficbook
+DOMAIN-SUFFIX,ficbook.net
+#end include:ficbook
+#include:gimy
+DOMAIN-SUFFIX,gimy.cc
+DOMAIN-SUFFIX,gimy.co
+DOMAIN-SUFFIX,gimy.to
+DOMAIN-SUFFIX,gimy.tv
+#end include:gimy
+#include:goodreads
+DOMAIN-SUFFIX,goodreads.com
+DOMAIN-SUFFIX,gr-assets.com
+#end include:goodreads
+#include:hamivideo
+DOMAIN,apl-hamivideo.cdn.hinet.net
+DOMAIN,hamivideo.hinet.net
+DOMAIN,mobilelive-hamivideo.cdn.hinet.net
+DOMAIN,pvr-hamivideo.cdn.hinet.net
+DOMAIN,scc.ott.hinet.net
+DOMAIN,static-hamivideo.cdn.hinet.net
+DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
+DOMAIN,weblive-hamivideo.cdn.hinet.net
+#end include:hamivideo
+#include:hbo
+DOMAIN-SUFFIX,beforeigners.com
+DOMAIN-SUFFIX,brightline.tv
+DOMAIN-SUFFIX,cinemax.com
+DOMAIN-SUFFIX,discomax.com
+DOMAIN-SUFFIX,elpionero.es
+DOMAIN-SUFFIX,forthethrone.com
+DOMAIN-SUFFIX,hbo.ba
+DOMAIN-SUFFIX,hbo.bg
+DOMAIN-SUFFIX,hbo.com
+DOMAIN-SUFFIX,hbo.cz
+DOMAIN-SUFFIX,hbo.eu
+DOMAIN-SUFFIX,hbo.hr
+DOMAIN-SUFFIX,hbo.hu
+DOMAIN-SUFFIX,hbo.me
+DOMAIN-SUFFIX,hbo.mk
+DOMAIN-SUFFIX,hbo.pl
+DOMAIN-SUFFIX,hbo.ro
+DOMAIN-SUFFIX,hbo.rs
+DOMAIN-SUFFIX,hbo.sk
+DOMAIN-SUFFIX,hboaccess.com
+DOMAIN-SUFFIX,hboarchives.com
+DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,hboenterprises.com
+DOMAIN-SUFFIX,hboespana.com
+DOMAIN-SUFFIX,hbo-europe.com
+DOMAIN-SUFFIX,hbogo.co.th
+DOMAIN-SUFFIX,hbogo.com
+DOMAIN-SUFFIX,hbogo.cz
+DOMAIN-SUFFIX,hbogo.eu
+DOMAIN-SUFFIX,hbogo.hu
+DOMAIN-SUFFIX,hbogo.sk
+DOMAIN-SUFFIX,hbogoasia.com
+DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.id
+DOMAIN-SUFFIX,hbogoasia.my
+DOMAIN-SUFFIX,hbogoasia.ph
+DOMAIN-SUFFIX,hbogoasia.sg
+DOMAIN-SUFFIX,hbogoasia.tw
+DOMAIN-SUFFIX,hboinflight.com
+DOMAIN-SUFFIX,hbolacontent.net
+DOMAIN-SUFFIX,hbolaunchpad.com
+DOMAIN-SUFFIX,hbomailman.com
+DOMAIN-SUFFIX,hbomax.com
+DOMAIN-SUFFIX,hbomax.eu
+DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,hbomediarelations.com
+DOMAIN-SUFFIX,hbonordic.com
+DOMAIN-SUFFIX,hbonordic.tv
+DOMAIN-SUFFIX,hbonow.com
+DOMAIN-SUFFIX,hboportugal.com
+DOMAIN-SUFFIX,hboprod.com
+DOMAIN-SUFFIX,hbospain.com
+DOMAIN-SUFFIX,hbotvsales.com
+DOMAIN-SUFFIX,homebox.com
+DOMAIN-SUFFIX,homeboxoffice.com
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,maxgo.com
+DOMAIN-SUFFIX,redbyhbo.com
+
+# CDNs
+DOMAIN-SUFFIX,hbo.com.c.footprint.net
+DOMAIN-SUFFIX,hbo.com.edgesuite.net
+DOMAIN-SUFFIX,hbo.map.fastly.net
+DOMAIN-SUFFIX,hbomax-images.warnermediacdn.com
+DOMAIN-SUFFIX,hbomaxdash.s.llnwi.net
+#end include:hbo
+#include:hulu
+DOMAIN-SUFFIX,112263.com
+DOMAIN-SUFFIX,callhulu.com
+DOMAIN-SUFFIX,findyourlimits.com
+DOMAIN-SUFFIX,freehulu.com
+DOMAIN-SUFFIX,hooloo.tv
+DOMAIN-SUFFIX,hoolu.com
+DOMAIN-SUFFIX,hoolu.tv
+DOMAIN-SUFFIX,hu1u.com
+DOMAIN-SUFFIX,huloo.cc
+DOMAIN-SUFFIX,huloo.tv
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,hulu.tv
+DOMAIN-SUFFIX,hulu.us
+DOMAIN-SUFFIX,huluaction.com
+DOMAIN-SUFFIX,huluad.com
+DOMAIN-SUFFIX,huluapp.com
+DOMAIN-SUFFIX,huluasks.com
+DOMAIN-SUFFIX,hulucall.com
+DOMAIN-SUFFIX,hulufree.com
+DOMAIN-SUFFIX,hulugans.com
+DOMAIN-SUFFIX,hulugermany.com
+DOMAIN-SUFFIX,hulugo.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,huluinstantmessenger.com
+DOMAIN-SUFFIX,huluitaly.com
+DOMAIN-SUFFIX,hulunet.com
+DOMAIN-SUFFIX,hulunetwork.com
+DOMAIN-SUFFIX,huluplus.com
+DOMAIN-SUFFIX,hulupremium.com
+DOMAIN-SUFFIX,hulupurchase.com
+DOMAIN-SUFFIX,huluqa.com
+DOMAIN-SUFFIX,hulurussia.com
+DOMAIN-SUFFIX,huluspain.com
+DOMAIN-SUFFIX,hulusports.com
+DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,huluteam.com
+DOMAIN-SUFFIX,hulutv.com
+DOMAIN-SUFFIX,huluusa.com
+DOMAIN-SUFFIX,joinmaidez.com
+DOMAIN-SUFFIX,mushymush.tv
+DOMAIN-SUFFIX,myhulu.com
+DOMAIN-SUFFIX,originalhulu.com
+DOMAIN-SUFFIX,payhulu.com
+DOMAIN-SUFFIX,registerhulu.com
+DOMAIN-SUFFIX,thehulubraintrust.com
+DOMAIN-SUFFIX,wwwhuluplus.com
+DOMAIN,hulu.playback.edge.bamgrid.com
+#end include:hulu
+#include:imdb
+# All .imdb domains
+DOMAIN-SUFFIX,imdb
+
+DOMAIN-SUFFIX,boxofficemojo.com
+DOMAIN-SUFFIX,imdb.com
+DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,media-imdb.com
+#end include:imdb
+#include:iyf
+DOMAIN-SUFFIX,iyf.tv
+DOMAIN-SUFFIX,yfsp.tv
+#end include:iyf
+#include:kingkonglive
+DOMAIN-SUFFIX,kingkong.com.tw
+DOMAIN-SUFFIX,kingkongapp.com
+#end include:kingkonglive
+#include:kkbox
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kk.stream
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kktix.com
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+#end include:kkbox
+#include:kktv
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
+#end include:kktv
+#include:lastfm
+DOMAIN-SUFFIX,last.fm
+
+DOMAIN,lastfm.freetls.fastly.net
+
+# API endpoint
+DOMAIN,ws.audioscrobbler.com
+#end include:lastfm
+#include:litv
+# TGC Taiwan Inc.
+DOMAIN-SUFFIX,litv.tv
+DOMAIN-SUFFIX,litvfreepc.akamaized.net
+DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
+DOMAIN,ntdfreepc-tgc.cdn.hinet.net
+DOMAIN,ntdfreetv-tgc.cdn.hinet.net
+DOMAIN,ntdfreevcpc-tgc.cdn.hinet.net
+
+DOMAIN-SUFFIX,ofiii.com
+DOMAIN,ntdofifreemobile-tgc.cdn.hinet.net
+DOMAIN,ntdofifreepc-tgc.cdn.hinet.net
+DOMAIN,ntdofifreetv-tgc.cdn.hinet.net
+DOMAIN,ntdofifreevcpc-tgc.cdn.hinet.net
+#end include:litv
+#include:manhuagui
+DOMAIN-SUFFIX,manhuagui.com
+#end include:manhuagui
+#include:metacritic
+DOMAIN-SUFFIX,metacritic.com
+#end include:metacritic
+#include:mubi
+DOMAIN-SUFFIX,mubi.com
+DOMAIN-SUFFIX,mubicdn.net
+#end include:mubi
+#include:mudvod
+DOMAIN-SUFFIX,biggggg.com
+DOMAIN-SUFFIX,mudvod.tv
+DOMAIN-SUFFIX,nbys.tv
+DOMAIN-SUFFIX,nbys1.tv
+DOMAIN-SUFFIX,nbyy.tv
+DOMAIN-SUFFIX,newpppp.com
+DOMAIN-SUFFIX,nivod.tv
+DOMAIN-SUFFIX,nivodi.tv
+DOMAIN-SUFFIX,nivodz.com
+DOMAIN-SUFFIX,vod360.net
+#end include:mudvod
+#include:mytvsuper
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+#end include:mytvsuper
+#include:netflix
+DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,netflix.ca
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,netflixinvestor.com
+DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
+
+# DNS test
+DOMAIN-SUFFIX,netflixdnstest0.com
+DOMAIN-SUFFIX,netflixdnstest1.com
+DOMAIN-SUFFIX,netflixdnstest2.com
+DOMAIN-SUFFIX,netflixdnstest3.com
+DOMAIN-SUFFIX,netflixdnstest4.com
+DOMAIN-SUFFIX,netflixdnstest5.com
+DOMAIN-SUFFIX,netflixdnstest6.com
+DOMAIN-SUFFIX,netflixdnstest7.com
+DOMAIN-SUFFIX,netflixdnstest8.com
+DOMAIN-SUFFIX,netflixdnstest9.com
+DOMAIN-SUFFIX,netflixdnstest10.com
+
+# regular expression
+DOMAIN-WILDCARD,apiproxy-device-prod-nlb-*.amazonaws.com
+DOMAIN-WILDCARD,apiproxy-website-nlb-prod-*.amazonaws.com
+DOMAIN-WILDCARD,dualstack.apiproxy-*.amazonaws.com
+DOMAIN-WILDCARD,dualstack.ichnaea-web-*.amazonaws.com
+
+# Full
+DOMAIN,netflix.com.edgesuite.net
+#end include:netflix
+#include:niconico
+# All .nico domains
+DOMAIN-SUFFIX,nico
+
+DOMAIN-SUFFIX,nicodic.jp
+DOMAIN-SUFFIX,nicomanga.jp
+DOMAIN-SUFFIX,niconico.com
+DOMAIN-SUFFIX,nicoseiga.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,simg.jp
+#end include:niconico
+#include:now
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,now.com.hk
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nowe.hk
+DOMAIN-SUFFIX,now-tv.com
+DOMAIN-SUFFIX,now-ashare.com
+#end include:now
+#include:olevod
+DOMAIN-SUFFIX,haiwaikan.com
+DOMAIN-SUFFIX,iole.tv
+DOMAIN-SUFFIX,olehd.com
+DOMAIN-SUFFIX,olelive.com
+DOMAIN-SUFFIX,olevod.com
+DOMAIN-SUFFIX,olevod.io
+DOMAIN-SUFFIX,olevod.tv
+DOMAIN-SUFFIX,olevodtv.com
+DOMAIN-SUFFIX,olemovienews.com
+#end include:olevod
+#include:openrec
+DOMAIN,dqd0jw5gvbchn.cloudfront.net
+DOMAIN-SUFFIX,openrec.tv
+#end include:openrec
+#include:pbs
+DOMAIN-SUFFIX,pbs.org
+#end include:pbs
+#include:pixiv
+DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,booth.pm
+DOMAIN-SUFFIX,fanbox.cc
+DOMAIN-SUFFIX,pixiv.co.jp
+DOMAIN-SUFFIX,pixiv.help
+DOMAIN-SUFFIX,pixiv.me
+DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pixiv.org
+DOMAIN-SUFFIX,pixiv-recommend.net
+DOMAIN-SUFFIX,pixivision.net
+DOMAIN-SUFFIX,pximg.net
+#end include:pixiv
+#include:plutotv
+DOMAIN-SUFFIX,pluto.tv
+DOMAIN-SUFFIX,plutotv.net
+#end include:plutotv
+#include:pocketcasts
+DOMAIN-SUFFIX,pca.st
+DOMAIN-SUFFIX,pocketcasts.com
+#end include:pocketcasts
+#include:primevideo
+# Prime Video
+
+DOMAIN,d1v5ir2lpwr8os.cloudfront.net
+DOMAIN,d22qjgkvxw22r6.cloudfront.net
+DOMAIN,d25xi40x97liuc.cloudfront.net
+DOMAIN,d27xxe7juh1us6.cloudfront.net
+DOMAIN,dmqdd6hw24ucf.cloudfront.net
+DOMAIN,images-eu.ssl-images-amazon.com
+DOMAIN,images-na.ssl-images-amazon.com
+DOMAIN,images-fe.ssl-images-amazon.com
+DOMAIN,msh.amazon.co.uk
+DOMAIN,static.siege-amazon.com
+
+DOMAIN-SUFFIX,aiv-cdn.net
+DOMAIN-SUFFIX,amazonprimevideo.cn
+DOMAIN-SUFFIX,amazonprimevideo.com.cn
+DOMAIN-SUFFIX,amazonprimevideos.com
+DOMAIN-SUFFIX,amazonvideo.cc
+DOMAIN-SUFFIX,amazonvideo.com
+DOMAIN-SUFFIX,prime-video.com
+DOMAIN-SUFFIX,primevideo.cc
+DOMAIN-SUFFIX,primevideo.com
+DOMAIN-SUFFIX,primevideo.info
+DOMAIN-SUFFIX,primevideo.org
+DOMAIN-SUFFIX,primevideo.tv
+DOMAIN-SUFFIX,prod.service.minerva.devices.a2z.com
+#end include:primevideo
+#include:radiko
+# radiko official access and streaming domains
+
+DOMAIN-SUFFIX,radiko-cf.com
+DOMAIN-SUFFIX,radiko.jp
+DOMAIN-SUFFIX,smartstream.ne.jp
+#end include:radiko
+#include:roku
+DOMAIN-SUFFIX,fandango.com
+DOMAIN-SUFFIX,mgo.com
+DOMAIN-SUFFIX,mgo-images.com
+DOMAIN-SUFFIX,ravm.tv
+DOMAIN-SUFFIX,roku.com
+DOMAIN-SUFFIX,rokutime.com
+#end include:roku
+#include:showtimeanytime
+DOMAIN-SUFFIX,showtimeanytime.com
+DOMAIN-SUFFIX,showtime.com
+#end include:showtimeanytime
+#include:sling
+DOMAIN-SUFFIX,dishworld.com
+DOMAIN-SUFFIX,slinginternational.com
+DOMAIN-SUFFIX,sling.com
+DOMAIN-SUFFIX,movenetworks.com
+DOMAIN-SUFFIX,movetv.com
+#end include:sling
+#include:sonypictures
+DOMAIN-SUFFIX,imageworks.com
+DOMAIN-SUFFIX,motionpictureser.com
+DOMAIN-SUFFIX,playshow.io
+DOMAIN-SUFFIX,playshowtv.com
+DOMAIN-SUFFIX,sonyclassics.com
+DOMAIN-SUFFIX,sonypictures.com
+DOMAIN-SUFFIX,sonypicturesanimation.com
+DOMAIN-SUFFIX,sonypicturesmuseum.com
+DOMAIN-SUFFIX,sonypicturesstudios.com
+DOMAIN-SUFFIX,sonypicturestelevision.com
+DOMAIN-SUFFIX,sonypicturestelevisiongames.com
+DOMAIN-SUFFIX,wheelpop.com
+DOMAIN-SUFFIX,wwtbam.com
+DOMAIN-SUFFIX,yourfantasybeginsnow.com
+#end include:sonypictures
+#include:soundcloud
+DOMAIN-SUFFIX,sndcdn.com
+DOMAIN-SUFFIX,soundcloud.cloud
+DOMAIN-SUFFIX,soundcloud.com
+#end include:soundcloud
+#include:spotify
+DOMAIN-SUFFIX,byspotify.com
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-SUFFIX,spotify-everywhere.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.design
+DOMAIN-SUFFIX,spotifycdn.com
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,spotifycharts.com
+DOMAIN-SUFFIX,spotifycodes.com
+DOMAIN-SUFFIX,spotifyforbrands.com
+DOMAIN-SUFFIX,spotifyjobs.com
+DOMAIN-SUFFIX,spotify.link
+DOMAIN-SUFFIX,tospotify.com
+
+DOMAIN,audio-ak-spotify-com.akamaized.net
+DOMAIN,audio4-ak-spotify-com.akamaized.net
+DOMAIN,cdn-spotify-experiments.conductrics.com
+DOMAIN,heads-ak-spotify-com.akamaized.net
+DOMAIN,heads4-ak-spotify-com.akamaized.net
+DOMAIN,spotify.com.edgesuite.net
+DOMAIN,spotify.map.fastly.net
+DOMAIN,spotify.map.fastlylb.net
+
+# Ads/tracking
+DOMAIN,adeventtracker.spotify.com
+DOMAIN,adstudio-assets.scdn.co
+DOMAIN,bloodhound.spotify.com
+#end include:spotify
+#include:subscene
+# Subscene main site
+DOMAIN-SUFFIX,subscene.com
+
+# Subscene image hosting site
+DOMAIN,i.jeded.com
+#end include:subscene
+#include:tidal
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
+DOMAIN-SUFFIX,wimpmusic.com
+#end include:tidal
+#include:tiktok
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok-minis.com
+DOMAIN-SUFFIX,tiktok-row.net
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
+DOMAIN-SUFFIX,tiktokeu-cdn.com
+DOMAIN-SUFFIX,tiktokglobalshopv.com
+DOMAIN-SUFFIX,tiktokminis.us
+DOMAIN-SUFFIX,tiktokrow-cdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.eu
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.eu
+DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttcdn-us.com
+DOMAIN-SUFFIX,ttlivecdn.com
+DOMAIN-SUFFIX,ttoverseaus.net
+DOMAIN-SUFFIX,ttwstatic.com
+
+DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN,roovza-launches.appsflyersdk.com
+DOMAIN,roovza.inapps.appsflyersdk.com
+DOMAIN,roovza.launches.appsflyersdk.com
+DOMAIN,roovza.skadsdk.appsflyersdk.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,analytics.tiktok.com
+#end include:tiktok
+#include:tmdb
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,tmdb.org
+
+DOMAIN,tmdb-image-prod.b-cdn.net
+#end include:tmdb
+#include:tvdb
+DOMAIN-SUFFIX,thetvdb.com
+#end include:tvdb
+#include:tver
+DOMAIN-SUFFIX,dogatch.jp
+DOMAIN-SUFFIX,gorin.jp
+DOMAIN-SUFFIX,screens-lab.jp
+DOMAIN-SUFFIX,tver.co.jp
+DOMAIN-SUFFIX,tver.jp
+#end include:tver
+#include:twitch
+DOMAIN-SUFFIX,ext-twitch.tv
+DOMAIN-SUFFIX,jtvnw.net
+DOMAIN-SUFFIX,live-video.net
+DOMAIN-SUFFIX,ttvnw.net
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,twitchsvc.net
+
+DOMAIN,d1g1f25tn8m2e6.cloudfront.net
+DOMAIN,d1m7jfoe9zdc1j.cloudfront.net
+DOMAIN,d1mhjrowxxagfy.cloudfront.net
+DOMAIN,d1oca24q5dwo6d.cloudfront.net
+DOMAIN,d1w2poirtb3as9.cloudfront.net
+DOMAIN,d1xhnb4ptk05mw.cloudfront.net
+DOMAIN,d1ymi26ma8va5x.cloudfront.net
+DOMAIN,d2aba1wr3818hz.cloudfront.net
+DOMAIN,d2dylwb3shzel1.cloudfront.net
+DOMAIN,d2e2de1etea730.cloudfront.net
+DOMAIN,d2nvs31859zcd8.cloudfront.net
+DOMAIN,d2um2qdswy1tb0.cloudfront.net
+DOMAIN,d2vjef5jvl6bfs.cloudfront.net
+DOMAIN,d2xmjdvx03ij56.cloudfront.net
+DOMAIN,d36nr0u3xmc4mm.cloudfront.net
+DOMAIN,d3aqoihi2n8ty8.cloudfront.net
+DOMAIN,d3c27h4odz752x.cloudfront.net
+DOMAIN,d3vd9lfkzbru3h.cloudfront.net
+DOMAIN,d6d4ismr40iw.cloudfront.net
+DOMAIN,d6tizftlrpuof.cloudfront.net
+DOMAIN,ddacn6pr5v0tl.cloudfront.net
+DOMAIN,dgeft87wbj63p.cloudfront.net
+DOMAIN,dqrpb9wgowsf5.cloudfront.net
+DOMAIN,ds0h3roq6wcgc.cloudfront.net
+DOMAIN,dykkng5hnh52u.cloudfront.net
+#end include:twitch
+#include:vimeo
+DOMAIN-SUFFIX,vhx.tv
+DOMAIN-SUFFIX,vhxqa1.com
+DOMAIN-SUFFIX,vhxqa2.com
+DOMAIN-SUFFIX,vhxqa3.com
+DOMAIN-SUFFIX,vhxqa4.com
+DOMAIN-SUFFIX,vhxqa6.com
+DOMAIN-SUFFIX,vimeo-staging.com
+DOMAIN-SUFFIX,vimeo-staging2.com
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeo.fr
+DOMAIN-SUFFIX,vimeobusiness.com
+DOMAIN-SUFFIX,vimeocdn.com
+DOMAIN-SUFFIX,vimeogoods.com
+DOMAIN-SUFFIX,vimeoondemand.com
+DOMAIN-SUFFIX,vimeostatus.com
+DOMAIN-SUFFIX,livestream.com
+
+DOMAIN-WILDCARD,*vod-adaptive.akamaized.net
+#end include:vimeo
+#include:visualarts
+DOMAIN-SUFFIX,abow.jp
+DOMAIN-SUFFIX,angelbeats.jp
+DOMAIN-SUFFIX,anigema.jp
+DOMAIN-SUFFIX,charlotte-anime.jp
+DOMAIN-SUFFIX,clannad-movie.jp
+DOMAIN-SUFFIX,heaven-burns-red.com
+DOMAIN-SUFFIX,kamisama-day.jp
+DOMAIN-SUFFIX,kamisama-maeda-lab.com
+DOMAIN-SUFFIX,koubaibu.jp
+DOMAIN-SUFFIX,litbus-anime.com
+DOMAIN-SUFFIX,product.co.jp
+DOMAIN-SUFFIX,rewrite-anime.tv
+DOMAIN-SUFFIX,visualarts.gr.jp
+DOMAIN-SUFFIX,visual-arts.jp
+#end include:visualarts
+#include:viu
+# viu.tv
+DOMAIN-SUFFIX,viu.tv
+DOMAIN,api.viu.now.com
+DOMAIN-WILDCARD,ewcdn*.nowe.com
+
+# viu.com
+DOMAIN-SUFFIX,viu.com
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+#end include:viu
+#include:volmoe
+DOMAIN-SUFFIX,mox.moe
+DOMAIN-SUFFIX,vol.moe
+#end include:volmoe
+#include:wallhaven
+DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,whvn.cc
+#end include:wallhaven
+#include:webnovel
+DOMAIN-SUFFIX,webnovel.com
+#end include:webnovel
+#include:wwe
+DOMAIN-SUFFIX,wwe.com
+DOMAIN-SUFFIX,wwe9.com
+#end include:wwe
+#include:youtube
+# All .youtube domains
+DOMAIN-SUFFIX,youtube
+
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtube-ui.l.google.com
+DOMAIN-SUFFIX,youtube.ae
+DOMAIN-SUFFIX,youtube.al
+DOMAIN-SUFFIX,youtube.am
+DOMAIN-SUFFIX,youtube.at
+DOMAIN-SUFFIX,youtube.az
+DOMAIN-SUFFIX,youtube.ba
+DOMAIN-SUFFIX,youtube.be
+DOMAIN-SUFFIX,youtube.bg
+DOMAIN-SUFFIX,youtube.bh
+DOMAIN-SUFFIX,youtube.bo
+DOMAIN-SUFFIX,youtube.by
+DOMAIN-SUFFIX,youtube.ca
+DOMAIN-SUFFIX,youtube.cat
+DOMAIN-SUFFIX,youtube.ch
+DOMAIN-SUFFIX,youtube.cl
+DOMAIN-SUFFIX,youtube.co
+DOMAIN-SUFFIX,youtube.co.ae
+DOMAIN-SUFFIX,youtube.co.at
+DOMAIN-SUFFIX,youtube.co.cr
+DOMAIN-SUFFIX,youtube.co.hu
+DOMAIN-SUFFIX,youtube.co.id
+DOMAIN-SUFFIX,youtube.co.il
+DOMAIN-SUFFIX,youtube.co.in
+DOMAIN-SUFFIX,youtube.co.jp
+DOMAIN-SUFFIX,youtube.co.ke
+DOMAIN-SUFFIX,youtube.co.kr
+DOMAIN-SUFFIX,youtube.co.ma
+DOMAIN-SUFFIX,youtube.co.nz
+DOMAIN-SUFFIX,youtube.co.th
+DOMAIN-SUFFIX,youtube.co.tz
+DOMAIN-SUFFIX,youtube.co.ug
+DOMAIN-SUFFIX,youtube.co.uk
+DOMAIN-SUFFIX,youtube.co.ve
+DOMAIN-SUFFIX,youtube.co.za
+DOMAIN-SUFFIX,youtube.co.zw
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube.com.ar
+DOMAIN-SUFFIX,youtube.com.au
+DOMAIN-SUFFIX,youtube.com.az
+DOMAIN-SUFFIX,youtube.com.bd
+DOMAIN-SUFFIX,youtube.com.bh
+DOMAIN-SUFFIX,youtube.com.bo
+DOMAIN-SUFFIX,youtube.com.br
+DOMAIN-SUFFIX,youtube.com.by
+DOMAIN-SUFFIX,youtube.com.co
+DOMAIN-SUFFIX,youtube.com.do
+DOMAIN-SUFFIX,youtube.com.ec
+DOMAIN-SUFFIX,youtube.com.ee
+DOMAIN-SUFFIX,youtube.com.eg
+DOMAIN-SUFFIX,youtube.com.es
+DOMAIN-SUFFIX,youtube.com.gh
+DOMAIN-SUFFIX,youtube.com.gr
+DOMAIN-SUFFIX,youtube.com.gt
+DOMAIN-SUFFIX,youtube.com.hk
+DOMAIN-SUFFIX,youtube.com.hn
+DOMAIN-SUFFIX,youtube.com.hr
+DOMAIN-SUFFIX,youtube.com.jm
+DOMAIN-SUFFIX,youtube.com.jo
+DOMAIN-SUFFIX,youtube.com.kw
+DOMAIN-SUFFIX,youtube.com.lb
+DOMAIN-SUFFIX,youtube.com.lv
+DOMAIN-SUFFIX,youtube.com.ly
+DOMAIN-SUFFIX,youtube.com.mk
+DOMAIN-SUFFIX,youtube.com.mt
+DOMAIN-SUFFIX,youtube.com.mx
+DOMAIN-SUFFIX,youtube.com.my
+DOMAIN-SUFFIX,youtube.com.ng
+DOMAIN-SUFFIX,youtube.com.ni
+DOMAIN-SUFFIX,youtube.com.om
+DOMAIN-SUFFIX,youtube.com.pa
+DOMAIN-SUFFIX,youtube.com.pe
+DOMAIN-SUFFIX,youtube.com.ph
+DOMAIN-SUFFIX,youtube.com.pk
+DOMAIN-SUFFIX,youtube.com.pt
+DOMAIN-SUFFIX,youtube.com.py
+DOMAIN-SUFFIX,youtube.com.qa
+DOMAIN-SUFFIX,youtube.com.ro
+DOMAIN-SUFFIX,youtube.com.sa
+DOMAIN-SUFFIX,youtube.com.sg
+DOMAIN-SUFFIX,youtube.com.sv
+DOMAIN-SUFFIX,youtube.com.tn
+DOMAIN-SUFFIX,youtube.com.tr
+DOMAIN-SUFFIX,youtube.com.tw
+DOMAIN-SUFFIX,youtube.com.ua
+DOMAIN-SUFFIX,youtube.com.uy
+DOMAIN-SUFFIX,youtube.com.ve
+DOMAIN-SUFFIX,youtube.cr
+DOMAIN-SUFFIX,youtube.cz
+DOMAIN-SUFFIX,youtube.de
+DOMAIN-SUFFIX,youtube.dk
+DOMAIN-SUFFIX,youtube.ee
+DOMAIN-SUFFIX,youtube.es
+DOMAIN-SUFFIX,youtube.fi
+DOMAIN-SUFFIX,youtube.fr
+DOMAIN-SUFFIX,youtube.ge
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-SUFFIX,youtube.gr
+DOMAIN-SUFFIX,youtube.gt
+DOMAIN-SUFFIX,youtube.hk
+DOMAIN-SUFFIX,youtube.hr
+DOMAIN-SUFFIX,youtube.hu
+DOMAIN-SUFFIX,youtube.ie
+DOMAIN-SUFFIX,youtube.in
+DOMAIN-SUFFIX,youtube.iq
+DOMAIN-SUFFIX,youtube.is
+DOMAIN-SUFFIX,youtube.it
+DOMAIN-SUFFIX,youtube.jo
+DOMAIN-SUFFIX,youtube.jp
+DOMAIN-SUFFIX,youtube.kr
+DOMAIN-SUFFIX,youtube.kz
+DOMAIN-SUFFIX,youtube.la
+DOMAIN-SUFFIX,youtube.lk
+DOMAIN-SUFFIX,youtube.lt
+DOMAIN-SUFFIX,youtube.lu
+DOMAIN-SUFFIX,youtube.lv
+DOMAIN-SUFFIX,youtube.ly
+DOMAIN-SUFFIX,youtube.ma
+DOMAIN-SUFFIX,youtube.md
+DOMAIN-SUFFIX,youtube.me
+DOMAIN-SUFFIX,youtube.mk
+DOMAIN-SUFFIX,youtube.mn
+DOMAIN-SUFFIX,youtube.mx
+DOMAIN-SUFFIX,youtube.my
+DOMAIN-SUFFIX,youtube.ng
+DOMAIN-SUFFIX,youtube.ni
+DOMAIN-SUFFIX,youtube.nl
+DOMAIN-SUFFIX,youtube.no
+DOMAIN-SUFFIX,youtube.pa
+DOMAIN-SUFFIX,youtube.pe
+DOMAIN-SUFFIX,youtube.ph
+DOMAIN-SUFFIX,youtube.pk
+DOMAIN-SUFFIX,youtube.pl
+DOMAIN-SUFFIX,youtube.pr
+DOMAIN-SUFFIX,youtube.pt
+DOMAIN-SUFFIX,youtube.qa
+DOMAIN-SUFFIX,youtube.ro
+DOMAIN-SUFFIX,youtube.rs
+DOMAIN-SUFFIX,youtube.ru
+DOMAIN-SUFFIX,youtube.sa
+DOMAIN-SUFFIX,youtube.se
+DOMAIN-SUFFIX,youtube.sg
+DOMAIN-SUFFIX,youtube.si
+DOMAIN-SUFFIX,youtube.sk
+DOMAIN-SUFFIX,youtube.sn
+DOMAIN-SUFFIX,youtube.soy
+DOMAIN-SUFFIX,youtube.sv
+DOMAIN-SUFFIX,youtube.tn
+DOMAIN-SUFFIX,youtube.tv
+DOMAIN-SUFFIX,youtube.ua
+DOMAIN-SUFFIX,youtube.ug
+DOMAIN-SUFFIX,youtube.uy
+DOMAIN-SUFFIX,youtube.vn
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+DOMAIN-SUFFIX,youtubefanfest.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubego.co.id
+DOMAIN-SUFFIX,youtubego.co.in
+DOMAIN-SUFFIX,youtubego.com
+DOMAIN-SUFFIX,youtubego.com.br
+DOMAIN-SUFFIX,youtubego.id
+DOMAIN-SUFFIX,youtubego.in
+DOMAIN-SUFFIX,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtubekids.com
+DOMAIN-SUFFIX,youtubemobilesupport.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,yt3.googleusercontent.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.youtube.com
+#end include:youtube
+#include:zeetv
+DOMAIN-SUFFIX,z5.app
+DOMAIN-SUFFIX,z5.com
+DOMAIN-SUFFIX,zee5.com
+DOMAIN-SUFFIX,zee5.in
+DOMAIN-SUFFIX,zee5.tv
+DOMAIN-SUFFIX,zeebioskop.com
+DOMAIN-SUFFIX,zeetv.co.uk
+DOMAIN-SUFFIX,zeetv.com
+DOMAIN-SUFFIX,zeeuk.com
+#end include:zeetv
+
+DOMAIN-SUFFIX,777tv.net
+DOMAIN-SUFFIX,blubrry.com
+DOMAIN-SUFFIX,buzzsprout.com
+DOMAIN-SUFFIX,castro.fm
+DOMAIN-SUFFIX,egta.com
+DOMAIN-SUFFIX,fireside.fm
+DOMAIN-SUFFIX,internationalsaimoe.com
+DOMAIN-SUFFIX,joox.com
+DOMAIN-SUFFIX,kpacg.com
+DOMAIN-SUFFIX,linetv.tw
+DOMAIN-SUFFIX,megaphone.fm
+DOMAIN-SUFFIX,megogo.net
+DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,moov.hk
+DOMAIN-SUFFIX,odysee.com
+DOMAIN-SUFFIX,omobi.cc
+DOMAIN-SUFFIX,oranum.com
+DOMAIN-SUFFIX,overcast.fm
+DOMAIN-SUFFIX,qobuz.com
+DOMAIN-SUFFIX,sendvid.com
+DOMAIN-SUFFIX,syosetu.com
+DOMAIN-SUFFIX,weverse.io
+DOMAIN-SUFFIX,yande.re
+
+# Apple Podcast
+DOMAIN-SUFFIX,amp-api.podcast.apple.com
+DOMAIN-SUFFIX,bag.itunes.apple.com
+DOMAIN-SUFFIX,bookeeper.itunes.apple.com
+
+# Entertainment oriented media
+# This section references the "Source Considerations" page on the Chinese Wikipedia:
+# - https://zh.wikipedia.org/wiki/WikiProject:电子游戏/来源考量
+# - https://zh.wikipedia.org/wiki/WikiProject:ACG/來源考量
+## 4Gamer.net
+DOMAIN-SUFFIX,4gamer.net
+## 4Gamers
+DOMAIN-SUFFIX,4gamers.com.tw
+## 秋葉原綜研
+DOMAIN-SUFFIX,akiba-souken.com
+## Appget
+DOMAIN-SUFFIX,appget.com
+## AppMedia
+DOMAIN-SUFFIX,appmedia.jp
+## Automaton
+DOMAIN-SUFFIX,automaton-media.com
+## 橙心社
+DOMAIN-SUFFIX,cxacg.com
+## 电faminicogamer
+DOMAIN-SUFFIX,denfaminicogamer.jp
+## ASCII Media Works
+DOMAIN-SUFFIX,dengekionline.com
+## E-ROAD
+DOMAIN-SUFFIX,eroge-road.com
+## esports.gg
+DOMAIN-SUFFIX,esports.gg
+## ファミ通
+DOMAIN-SUFFIX,famitsu.com
+## GameApps.HK
+DOMAIN-SUFFIX,gameapps.hk
+## 遊戲基地
+DOMAIN-SUFFIX,gamebase.com.tw
+## IID, Inc.
+DOMAIN-SUFFIX,gamebusiness.jp
+DOMAIN-SUFFIX,gamespark.jp
+DOMAIN-SUFFIX,inside-games.jp
+## Game Focus
+DOMAIN-SUFFIX,gamefocus.co.kr
+## GameMeca
+DOMAIN-SUFFIX,gamemeca.com
+## Gameover有機網
+DOMAIN-SUFFIX,gameover.com.hk
+## Gamer
+DOMAIN-SUFFIX,gamer.ne.jp
+DOMAIN-SUFFIX,onlinegamer.jp
+## Great Game
+DOMAIN-SUFFIX,greatgame.asia
+## HobbiGame
+DOMAIN-SUFFIX,hobbigame.com
+## ゲーム文化保存研究所
+DOMAIN-SUFFIX,igcc.jp
+## IGN
+DOMAIN-SUFFIX,ign.com
+DOMAIN-SUFFIX,ignimg.com
+## Made with Unity
+DOMAIN-SUFFIX,madewithunity.jp
+## Media Clip
+DOMAIN-SUFFIX,mediaclip.jp
+## 電脳世界のひみつ基地
+DOMAIN-SUFFIX,maedahiroyuki.com
+## MANTANWEB
+DOMAIN-SUFFIX,mantan-web.jp
+## モエデジ
+DOMAIN-SUFFIX,moedigi.com
+## Moepedia
+DOMAIN-SUFFIX,moepedia.net
+## マイナビニュース
+DOMAIN-SUFFIX,mynavi.jp
+## Openbook阅读通
+DOMAIN-SUFFIX,openbook.org.tw
+## QooApp
+DOMAIN-SUFFIX,qoo-app.com
+## Real Sound
+DOMAIN-SUFFIX,realsound.jp
+## れポたま！
+DOMAIN-SUFFIX,repotama.com
+## Saiga NAK
+DOMAIN-SUFFIX,saiganak.com
+## SQOOL
+DOMAIN-SUFFIX,sqool.net
+## The Games Daily
+DOMAIN-SUFFIX,tgdaily.co.kr
+## Thisisgame
+DOMAIN-SUFFIX,thisisgame.com
+## 玩具人
+DOMAIN-SUFFIX,toy-people.com
+## Wanuxi
+DOMAIN-SUFFIX,wanuxi.com
+## よろず〜
+DOMAIN-SUFFIX,yorozoonews.jp
+#end include:category-entertainment
 
 # File & Image & Video hosting
 #include:0x0
@@ -3471,6 +6393,799 @@ DOMAIN-SUFFIX,teraboxcdn.com
 #end include:terabox
 
 # Forums & Social network
+#include:category-forums
+# Forums & Social network
+#include:4chan
+DOMAIN-SUFFIX,4cdn.org
+DOMAIN-SUFFIX,4chan.org
+DOMAIN-SUFFIX,4channel.org
+#end include:4chan
+#include:5ch
+DOMAIN-SUFFIX,2ch.net
+DOMAIN-SUFFIX,5ch.net
+#end include:5ch
+#include:6park
+DOMAIN-SUFFIX,6park.com
+DOMAIN-SUFFIX,6parkbbs.com
+DOMAIN-SUFFIX,6parknews.com
+DOMAIN-SUFFIX,cool18.com
+DOMAIN-SUFFIX,popo8.com
+DOMAIN-SUFFIX,parkvv.com
+DOMAIN-SUFFIX,xwbo.com
+#end include:6park
+#include:ck101
+DOMAIN-SUFFIX,ck101.com
+DOMAIN-SUFFIX,ckcdn.com
+DOMAIN-SUFFIX,ckck.fun
+#end include:ck101
+#include:dcard
+DOMAIN-SUFFIX,dcard.cc
+DOMAIN-SUFFIX,dcard.io
+DOMAIN-SUFFIX,dcard.link
+DOMAIN-SUFFIX,dcard.tw
+#end include:dcard
+#include:dslreports
+DOMAIN-SUFFIX,broadbandreports.com
+DOMAIN-SUFFIX,dslr.net
+DOMAIN-SUFFIX,dslreports.com
+#end include:dslreports
+#include:dzen
+DOMAIN-SUFFIX,dzen.ru
+DOMAIN-SUFFIX,dzeninfra.ru
+#end include:dzen
+#include:habr
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org
+#end include:habr
+#include:hkgolden
+DOMAIN-SUFFIX,hkgolden.com
+DOMAIN-SUFFIX,hkgolden.media
+#end include:hkgolden
+#include:lihkg
+DOMAIN-SUFFIX,lih.kg
+DOMAIN-SUFFIX,lihkg.com
+#end include:lihkg
+#include:linuxdo
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,ldstatic.com
+#end include:linuxdo
+#include:mobile01
+DOMAIN-SUFFIX,5i01.com
+DOMAIN-SUFFIX,mobile01.com
+#end include:mobile01
+#include:nodeseek
+DOMAIN-SUFFIX,22112211.xyz
+DOMAIN-SUFFIX,deepflood.com
+DOMAIN-SUFFIX,nodeget.com
+DOMAIN-SUFFIX,nodeimage.com
+DOMAIN-SUFFIX,nodequality.com
+DOMAIN-SUFFIX,nodeseek.com
+#end include:nodeseek
+#include:pixnet
+DOMAIN-SUFFIX,pimg.tw
+DOMAIN-SUFFIX,pixanalytics.com
+DOMAIN-SUFFIX,pixfs.net
+DOMAIN-SUFFIX,pixinsight.com.tw
+DOMAIN-SUFFIX,pixnet.cc
+DOMAIN-SUFFIX,pixnet.net
+DOMAIN-SUFFIX,pixnet.pro
+DOMAIN-SUFFIX,pixnet.tw
+DOMAIN-SUFFIX,pixplug.in
+#end include:pixnet
+#include:ptt
+DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,ptt2.cc
+DOMAIN-SUFFIX,ptt3.cc
+#end include:ptt
+#include:quora
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+#end include:poe
+
+DOMAIN-SUFFIX,qr.ae
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net
+#end include:quora
+#include:reddit
+DOMAIN-SUFFIX,redd.it
+DOMAIN-SUFFIX,reddit.app.link
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditblog.com
+DOMAIN-SUFFIX,reddithelp.com
+DOMAIN-SUFFIX,redditinc.com
+DOMAIN-SUFFIX,redditmail.com
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditspace.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,redditstatus.com
+DOMAIN-SUFFIX,reddit.map.fastly.net
+#end include:reddit
+#include:rutracker
+DOMAIN-SUFFIX,maintracker.org
+DOMAIN-SUFFIX,rutracker.cc
+DOMAIN-SUFFIX,rutracker.cr
+DOMAIN-SUFFIX,rutracker.me
+DOMAIN-SUFFIX,rutracker.net
+DOMAIN-SUFFIX,rutracker.nl
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutrk.org
+#end include:rutracker
+#include:soyjakparty
+DOMAIN-SUFFIX,soyjak.party
+DOMAIN-SUFFIX,soyjak.st
+#end include:soyjakparty
+#include:xda
+DOMAIN-SUFFIX,xda-cdn.com
+DOMAIN-SUFFIX,xda-developers.com
+DOMAIN-SUFFIX,xdaforums.com
+DOMAIN-SUFFIX,xdaimages.com
+#end include:xda
+
+DOMAIN,bbs.boingboing.net
+
+DOMAIN-SUFFIX,18p2p.com
+DOMAIN-SUFFIX,8chan.moe
+DOMAIN-SUFFIX,avsforum.com
+DOMAIN-SUFFIX,disp.cc
+DOMAIN-SUFFIX,doom9.org
+DOMAIN-SUFFIX,eyny.com
+DOMAIN-SUFFIX,gab.com
+DOMAIN-SUFFIX,hydrogenaud.io
+DOMAIN-SUFFIX,mewe.com
+DOMAIN-SUFFIX,parler.com
+DOMAIN-SUFFIX,pincong.rocks
+DOMAIN-SUFFIX,safechat.com
+DOMAIN-SUFFIX,sis001.com
+DOMAIN-SUFFIX,v2ex.com
+#end include:category-forums
+#include:category-social-media-!cn
+# This list contains social media platforms outside China mainland.
+
+#include:bluesky
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.social
+#end include:bluesky
+#include:facebook
+DOMAIN-SUFFIX,aboutfacebook.com
+DOMAIN-SUFFIX,accessfacebookfromschool.com
+DOMAIN-SUFFIX,acebooik.com
+DOMAIN-SUFFIX,acebook.com
+DOMAIN-SUFFIX,advancediddetection.com
+DOMAIN-SUFFIX,askfacebook.net
+DOMAIN-SUFFIX,askfacebook.org
+DOMAIN-SUFFIX,atdmt2.com
+DOMAIN-SUFFIX,atlasdmt.com
+DOMAIN-SUFFIX,atlasonepoint.com
+DOMAIN-SUFFIX,buyingfacebooklikes.com
+DOMAIN-SUFFIX,careersatfb.com
+DOMAIN-SUFFIX,celebgramme.com
+DOMAIN-SUFFIX,china-facebook.com
+DOMAIN-SUFFIX,click-url.com
+DOMAIN-SUFFIX,como-hackearfacebook.com
+DOMAIN-SUFFIX,crowdtangle.com
+DOMAIN-SUFFIX,dacebook.com
+DOMAIN-SUFFIX,dlfacebook.com
+DOMAIN-SUFFIX,dotfacebook.com
+DOMAIN-SUFFIX,dotfacebook.net
+DOMAIN-SUFFIX,expresswifi.com
+DOMAIN-SUFFIX,faacebok.com
+DOMAIN-SUFFIX,faacebook.com
+DOMAIN-SUFFIX,faasbook.com
+DOMAIN-SUFFIX,facbebook.com
+DOMAIN-SUFFIX,facbeok.com
+DOMAIN-SUFFIX,facboo.com
+DOMAIN-SUFFIX,facbook.com
+DOMAIN-SUFFIX,facbool.com
+DOMAIN-SUFFIX,facboox.com
+DOMAIN-SUFFIX,faccebook.com
+DOMAIN-SUFFIX,faccebookk.com
+DOMAIN-SUFFIX,facdbook.com
+DOMAIN-SUFFIX,facdebook.com
+DOMAIN-SUFFIX,face-book.com
+DOMAIN-SUFFIX,faceabook.com
+DOMAIN-SUFFIX,facebboc.com
+DOMAIN-SUFFIX,facebbook.com
+DOMAIN-SUFFIX,facebboook.com
+DOMAIN-SUFFIX,facebcook.com
+DOMAIN-SUFFIX,facebdok.com
+DOMAIN-SUFFIX,facebgook.com
+DOMAIN-SUFFIX,facebhook.com
+DOMAIN-SUFFIX,facebkkk.com
+DOMAIN-SUFFIX,facebo-ok.com
+DOMAIN-SUFFIX,faceboak.com
+DOMAIN-SUFFIX,facebock.com
+DOMAIN-SUFFIX,facebocke.com
+DOMAIN-SUFFIX,facebof.com
+DOMAIN-SUFFIX,faceboik.com
+DOMAIN-SUFFIX,facebok.com
+DOMAIN-SUFFIX,facebokbook.com
+DOMAIN-SUFFIX,facebokc.com
+DOMAIN-SUFFIX,facebokk.com
+DOMAIN-SUFFIX,facebokok.com
+DOMAIN-SUFFIX,faceboks.com
+DOMAIN-SUFFIX,facebol.com
+DOMAIN-SUFFIX,facebolk.com
+DOMAIN-SUFFIX,facebomok.com
+DOMAIN-SUFFIX,faceboo.com
+DOMAIN-SUFFIX,facebooa.com
+DOMAIN-SUFFIX,faceboob.com
+DOMAIN-SUFFIX,faceboobok.com
+DOMAIN-SUFFIX,facebooc.com
+DOMAIN-SUFFIX,faceboock.com
+DOMAIN-SUFFIX,facebood.com
+DOMAIN-SUFFIX,facebooe.com
+DOMAIN-SUFFIX,faceboof.com
+DOMAIN-SUFFIX,facebooi.com
+DOMAIN-SUFFIX,facebooik.com
+DOMAIN-SUFFIX,facebooik.org
+DOMAIN-SUFFIX,facebooj.com
+DOMAIN-SUFFIX,facebook-corp.com
+DOMAIN-SUFFIX,facebook-covid-19.com
+DOMAIN-SUFFIX,facebook-ebook.com
+DOMAIN-SUFFIX,facebook-forum.com
+DOMAIN-SUFFIX,facebook-hardware.com
+DOMAIN-SUFFIX,facebook-inc.com
+DOMAIN-SUFFIX,facebook-login.com
+DOMAIN-SUFFIX,facebook-newsroom.com
+DOMAIN-SUFFIX,facebook-newsroom.org
+DOMAIN-SUFFIX,facebook-pmdcenter.com
+DOMAIN-SUFFIX,facebook-pmdcenter.net
+DOMAIN-SUFFIX,facebook-pmdcenter.org
+DOMAIN-SUFFIX,facebook-privacy.com
+DOMAIN-SUFFIX,facebook-program.com
+DOMAIN-SUFFIX,facebook-studio.com
+DOMAIN-SUFFIX,facebook-support.org
+DOMAIN-SUFFIX,facebook-texas-holdem.com
+DOMAIN-SUFFIX,facebook-texas-holdem.net
+DOMAIN-SUFFIX,facebook.br
+DOMAIN-SUFFIX,facebook.ca
+DOMAIN-SUFFIX,facebook.cc
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.design
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,facebook.hu
+DOMAIN-SUFFIX,facebook.in
+DOMAIN-SUFFIX,fecebook.net
+DOMAIN-SUFFIX,facebook.nl
+DOMAIN-SUFFIX,facebook.org
+DOMAIN-SUFFIX,facebook.se
+DOMAIN-SUFFIX,facebook.shop
+DOMAIN-SUFFIX,facebook.tv
+DOMAIN-SUFFIX,facebook.us
+DOMAIN-SUFFIX,facebook.wang
+DOMAIN-SUFFIX,facebook123.org
+DOMAIN-SUFFIX,facebook30.com
+DOMAIN-SUFFIX,facebook30.net
+DOMAIN-SUFFIX,facebook30.org
+DOMAIN-SUFFIX,facebook4business.com
+DOMAIN-SUFFIX,facebookadvertisingsecrets.com
+DOMAIN-SUFFIX,facebookatschool.com
+DOMAIN-SUFFIX,facebookawards.com
+DOMAIN-SUFFIX,facebookblueprint.net
+DOMAIN-SUFFIX,facebookbrand.com
+DOMAIN-SUFFIX,facebookbrand.net
+DOMAIN-SUFFIX,facebookcanadianelectionintegrityinitiative.com
+DOMAIN-SUFFIX,facebookcareer.com
+DOMAIN-SUFFIX,facebookcheats.com
+DOMAIN-SUFFIX,facebookck.com
+DOMAIN-SUFFIX,facebookclub.com
+DOMAIN-SUFFIX,facebookcom.com
+DOMAIN-SUFFIX,facebookconsultant.org
+DOMAIN-SUFFIX,facebookcoronavirus.com
+DOMAIN-SUFFIX,facebookcovers.org
+DOMAIN-SUFFIX,facebookcredits.info
+DOMAIN-SUFFIX,facebookdating.net
+DOMAIN-SUFFIX,facebookdusexe.org
+DOMAIN-SUFFIX,facebookemail.com
+DOMAIN-SUFFIX,facebookenespanol.com
+DOMAIN-SUFFIX,facebookexchange.com
+DOMAIN-SUFFIX,facebookexchange.net
+DOMAIN-SUFFIX,facebookfacebook.com
+DOMAIN-SUFFIX,facebookflow.com
+DOMAIN-SUFFIX,facebookgames.com
+DOMAIN-SUFFIX,facebookgraphsearch.com
+DOMAIN-SUFFIX,facebookgraphsearch.info
+DOMAIN-SUFFIX,facebookgroups.com
+DOMAIN-SUFFIX,facebookhome.cc
+DOMAIN-SUFFIX,facebookhome.com
+DOMAIN-SUFFIX,facebookhome.info
+DOMAIN-SUFFIX,facebookhub.com
+DOMAIN-SUFFIX,facebooki.com
+DOMAIN-SUFFIX,facebookinc.com
+DOMAIN-SUFFIX,facebookland.com
+DOMAIN-SUFFIX,facebooklikeexchange.com
+DOMAIN-SUFFIX,facebooklive.com
+DOMAIN-SUFFIX,facebooklivestaging.net
+DOMAIN-SUFFIX,facebooklivestaging.org
+DOMAIN-SUFFIX,facebooklogin.com
+DOMAIN-SUFFIX,facebooklogin.info
+DOMAIN-SUFFIX,facebookloginhelp.net
+DOMAIN-SUFFIX,facebooklogs.com
+DOMAIN-SUFFIX,facebookmail.com
+DOMAIN-SUFFIX,facebookmail.tv
+DOMAIN-SUFFIX,facebookmanager.info
+DOMAIN-SUFFIX,facebookmarketing.info
+DOMAIN-SUFFIX,facebookmarketingpartner.com
+DOMAIN-SUFFIX,facebookmarketingpartners.com
+DOMAIN-SUFFIX,facebookmobile.com
+DOMAIN-SUFFIX,facebookmsn.com
+DOMAIN-SUFFIX,facebooknews.com
+DOMAIN-SUFFIX,facebooknfl.com
+DOMAIN-SUFFIX,facebooknude.com
+DOMAIN-SUFFIX,facebookofsex.com
+DOMAIN-SUFFIX,facebookook.com
+DOMAIN-SUFFIX,facebookpaper.com
+DOMAIN-SUFFIX,facebookpay.com
+DOMAIN-SUFFIX,facebookphonenumber.net
+DOMAIN-SUFFIX,facebookphoto.com
+DOMAIN-SUFFIX,facebookphotos.com
+DOMAIN-SUFFIX,facebookpmdcenter.com
+DOMAIN-SUFFIX,facebookpoke.net
+DOMAIN-SUFFIX,facebookpoke.org
+DOMAIN-SUFFIX,facebookpoker.info
+DOMAIN-SUFFIX,facebookpokerchips.info
+DOMAIN-SUFFIX,facebookporn.net
+DOMAIN-SUFFIX,facebookporn.org
+DOMAIN-SUFFIX,facebookporno.net
+DOMAIN-SUFFIX,facebookportal.com
+DOMAIN-SUFFIX,facebooks.com
+DOMAIN-SUFFIX,facebooksafety.com
+DOMAIN-SUFFIX,facebooksecurity.net
+DOMAIN-SUFFIX,facebookshop.com
+DOMAIN-SUFFIX,facebooksignup.net
+DOMAIN-SUFFIX,facebooksite.net
+DOMAIN-SUFFIX,facebookstories.com
+DOMAIN-SUFFIX,facebookstudios.net
+DOMAIN-SUFFIX,facebookstudios.org
+DOMAIN-SUFFIX,facebooksupplier.com
+DOMAIN-SUFFIX,facebooksuppliers.com
+DOMAIN-SUFFIX,facebookswagemea.com
+DOMAIN-SUFFIX,facebookswagstore.com
+DOMAIN-SUFFIX,facebooksz.com
+DOMAIN-SUFFIX,facebookthreads.net
+DOMAIN-SUFFIX,facebooktv.net
+DOMAIN-SUFFIX,facebooktv.org
+DOMAIN-SUFFIX,facebookvacation.com
+DOMAIN-SUFFIX,facebookw.com
+DOMAIN-SUFFIX,facebookworld.com
+DOMAIN-SUFFIX,facebool.com
+DOMAIN-SUFFIX,facebool.info
+DOMAIN-SUFFIX,facebooll.com
+DOMAIN-SUFFIX,faceboom.com
+DOMAIN-SUFFIX,faceboon.com
+DOMAIN-SUFFIX,faceboonk.com
+DOMAIN-SUFFIX,faceboooik.com
+DOMAIN-SUFFIX,faceboook.com
+DOMAIN-SUFFIX,faceboop.com
+DOMAIN-SUFFIX,faceboot.com
+DOMAIN-SUFFIX,faceboox.com
+DOMAIN-SUFFIX,facebopk.com
+DOMAIN-SUFFIX,facebpook.com
+DOMAIN-SUFFIX,facebuk.com
+DOMAIN-SUFFIX,facebuok.com
+DOMAIN-SUFFIX,facebvook.com
+DOMAIN-SUFFIX,facebyook.com
+DOMAIN-SUFFIX,facebzook.com
+DOMAIN-SUFFIX,facecbgook.com
+DOMAIN-SUFFIX,facecbook.com
+DOMAIN-SUFFIX,facecbook.org
+DOMAIN-SUFFIX,facecook.com
+DOMAIN-SUFFIX,facecook.org
+DOMAIN-SUFFIX,facedbook.com
+DOMAIN-SUFFIX,faceebok.com
+DOMAIN-SUFFIX,faceebook.com
+DOMAIN-SUFFIX,faceebot.com
+DOMAIN-SUFFIX,facegbok.com
+DOMAIN-SUFFIX,facegbook.com
+DOMAIN-SUFFIX,faceobk.com
+DOMAIN-SUFFIX,faceobok.com
+DOMAIN-SUFFIX,faceobook.com
+DOMAIN-SUFFIX,faceook.com
+DOMAIN-SUFFIX,facerbooik.com
+DOMAIN-SUFFIX,facerbook.com
+DOMAIN-SUFFIX,facesbooc.com
+DOMAIN-SUFFIX,facesounds.com
+DOMAIN-SUFFIX,facetook.com
+DOMAIN-SUFFIX,facevbook.com
+DOMAIN-SUFFIX,facewbook.co
+DOMAIN-SUFFIX,facewook.com
+DOMAIN-SUFFIX,facfacebook.com
+DOMAIN-SUFFIX,facfebook.com
+DOMAIN-SUFFIX,fackebook.com
+DOMAIN-SUFFIX,facnbook.com
+DOMAIN-SUFFIX,facrbook.com
+DOMAIN-SUFFIX,facvebook.com
+DOMAIN-SUFFIX,facwebook.com
+DOMAIN-SUFFIX,facxebook.com
+DOMAIN-SUFFIX,fadebook.com
+DOMAIN-SUFFIX,faebok.com
+DOMAIN-SUFFIX,faebook.com
+DOMAIN-SUFFIX,faebookc.com
+DOMAIN-SUFFIX,faeboook.com
+DOMAIN-SUFFIX,faecebok.com
+DOMAIN-SUFFIX,faesebook.com
+DOMAIN-SUFFIX,fafacebook.com
+DOMAIN-SUFFIX,faicbooc.com
+DOMAIN-SUFFIX,fasebokk.com
+DOMAIN-SUFFIX,fasebook.com
+DOMAIN-SUFFIX,faseboox.com
+DOMAIN-SUFFIX,favebook.com
+DOMAIN-SUFFIX,faycbok.com
+DOMAIN-SUFFIX,fb.careers
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.gg
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.watch
+DOMAIN-SUFFIX,fbacebook.com
+DOMAIN-SUFFIX,fbbmarket.com
+DOMAIN-SUFFIX,fbboostyourbusiness.com
+DOMAIN-SUFFIX,fbcdn.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbfeedback.com
+DOMAIN-SUFFIX,fbhome.com
+DOMAIN-SUFFIX,fbidb.io
+DOMAIN-SUFFIX,fbinc.com
+DOMAIN-SUFFIX,fbinnovation.com
+DOMAIN-SUFFIX,fbmarketing.com
+DOMAIN-SUFFIX,fbreg.com
+DOMAIN-SUFFIX,fbrpms.com
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,fbsbx.net
+DOMAIN-SUFFIX,fbsupport-covid.net
+DOMAIN-SUFFIX,fbthirdpartypixel.com
+DOMAIN-SUFFIX,fbthirdpartypixel.net
+DOMAIN-SUFFIX,fbthirdpartypixel.org
+DOMAIN-SUFFIX,fburl.com
+DOMAIN-SUFFIX,fbwat.ch
+DOMAIN-SUFFIX,fbworkmail.com
+DOMAIN-SUFFIX,fcacebook.com
+DOMAIN-SUFFIX,fcaebook.com
+DOMAIN-SUFFIX,fcebook.com
+DOMAIN-SUFFIX,fcebookk.com
+DOMAIN-SUFFIX,fcfacebook.com
+DOMAIN-SUFFIX,fdacebook.info
+DOMAIN-SUFFIX,feacboo.com
+DOMAIN-SUFFIX,feacbook.com
+DOMAIN-SUFFIX,feacbooke.com
+DOMAIN-SUFFIX,feacebook.com
+DOMAIN-SUFFIX,fecbbok.com
+DOMAIN-SUFFIX,fecbooc.com
+DOMAIN-SUFFIX,fecbook.com
+DOMAIN-SUFFIX,feceboock.com
+DOMAIN-SUFFIX,feceboox.com
+DOMAIN-SUFFIX,fececbook.com
+DOMAIN-SUFFIX,feook.com
+DOMAIN-SUFFIX,ferabook.com
+DOMAIN-SUFFIX,fescebook.com
+DOMAIN-SUFFIX,fesebook.com
+DOMAIN-SUFFIX,ffacebook.com
+DOMAIN-SUFFIX,fgacebook.com
+DOMAIN-SUFFIX,ficeboock.com
+DOMAIN-SUFFIX,fmcebook.com
+DOMAIN-SUFFIX,fnacebook.com
+DOMAIN-SUFFIX,fosebook.com
+DOMAIN-SUFFIX,fpacebook.com
+DOMAIN-SUFFIX,fqcebook.com
+DOMAIN-SUFFIX,fracebook.com
+DOMAIN-SUFFIX,freeb.com
+DOMAIN-SUFFIX,freebasics.com
+DOMAIN-SUFFIX,freebasics.net
+DOMAIN-SUFFIX,freebs.com
+DOMAIN-SUFFIX,freefacebook.com
+DOMAIN-SUFFIX,freefacebook.net
+DOMAIN-SUFFIX,freefacebookads.net
+DOMAIN-SUFFIX,freefblikes.com
+DOMAIN-SUFFIX,freindfeed.com
+DOMAIN-SUFFIX,friendbook.info
+DOMAIN-SUFFIX,friendfed.com
+DOMAIN-SUFFIX,friendfeed-api.com
+DOMAIN-SUFFIX,friendfeed-media.com
+DOMAIN-SUFFIX,friendfeed.com
+DOMAIN-SUFFIX,friendfeedmedia.com
+DOMAIN-SUFFIX,fsacebok.com
+DOMAIN-SUFFIX,fscebook.com
+DOMAIN-SUFFIX,fundraisingwithfacebook.com
+DOMAIN-SUFFIX,funnyfacebook.org
+DOMAIN-SUFFIX,futureofbusinesssurvey.org
+DOMAIN-SUFFIX,gacebook.com
+DOMAIN-SUFFIX,gameroom.com
+DOMAIN-SUFFIX,gfacecbook.com
+DOMAIN-SUFFIX,groups.com
+DOMAIN-SUFFIX,hackerfacebook.com
+DOMAIN-SUFFIX,hackfacebook.com
+DOMAIN-SUFFIX,hackfacebookid.com
+DOMAIN-SUFFIX,hifacebook.info
+DOMAIN-SUFFIX,howtohackfacebook-account.com
+DOMAIN-SUFFIX,hsfacebook.com
+DOMAIN-SUFFIX,httpfacebook.com
+DOMAIN-SUFFIX,httpsfacebook.com
+DOMAIN-SUFFIX,httpwwwfacebook.com
+DOMAIN-SUFFIX,i.org
+DOMAIN-SUFFIX,internet.org
+DOMAIN-SUFFIX,klik.me
+DOMAIN-SUFFIX,liverail.com
+DOMAIN-SUFFIX,liverail.tv
+DOMAIN-SUFFIX,login-account.net
+DOMAIN-SUFFIX,markzuckerberg.com
+DOMAIN-SUFFIX,midentsolutions.com
+DOMAIN-SUFFIX,mobilefacebook.com
+DOMAIN-SUFFIX,moneywithfacebook.com
+DOMAIN-SUFFIX,myfbfans.com
+DOMAIN-SUFFIX,newsfeed.com
+DOMAIN-SUFFIX,nextstop.com
+DOMAIN-SUFFIX,online-deals.net
+DOMAIN-SUFFIX,opencreate.org
+DOMAIN-SUFFIX,reachtheworldonfacebook.com
+DOMAIN-SUFFIX,rocksdb.org
+DOMAIN-SUFFIX,shopfacebook.com
+DOMAIN-SUFFIX,sportsfacebook.com
+DOMAIN-SUFFIX,sportstream.com
+DOMAIN-SUFFIX,supportfacebook.com
+DOMAIN-SUFFIX,terragraph.com
+DOMAIN-SUFFIX,thefacebook.com
+DOMAIN-SUFFIX,thefacebook.net
+DOMAIN-SUFFIX,thefind.com
+DOMAIN-SUFFIX,toplayerserver.com
+DOMAIN-SUFFIX,viewpointsfromfacebook.com
+DOMAIN-SUFFIX,whyfacebook.com
+DOMAIN-SUFFIX,worldhack.com
+DOMAIN-SUFFIX,www-facebook.com
+DOMAIN-SUFFIX,wwwfacebok.com
+DOMAIN-SUFFIX,wwwfacebook.com
+DOMAIN-SUFFIX,wwwmfacebook.com
+DOMAIN-SUFFIX,zuckerberg.com
+DOMAIN-SUFFIX,zuckerberg.net
+
+# Workplace
+DOMAIN-SUFFIX,facebookwork.com
+DOMAIN-SUFFIX,redkix.com
+DOMAIN-SUFFIX,workplace.com
+DOMAIN-SUFFIX,workplaceusecases.com
+
+DOMAIN,fbcdn-a.akamaihd.net
+
+# Ads/tracking
+DOMAIN-SUFFIX,analytics.facebook.com
+DOMAIN-SUFFIX,facebookads.com
+DOMAIN-SUFFIX,pixel.facebook.com
+#end include:facebook
+#include:instagram
+DOMAIN-SUFFIX,achat-followers-instagram.com
+DOMAIN-SUFFIX,acheter-followers-instagram.com
+DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
+DOMAIN-SUFFIX,acheterfollowersinstagram.com
+DOMAIN-SUFFIX,bookstagram.com
+DOMAIN-SUFFIX,carstagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,chickstagram.com
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,igsonar.com
+DOMAIN-SUFFIX,igtv.com
+DOMAIN-SUFFIX,imstagram.com
+DOMAIN-SUFFIX,imtagram.com
+DOMAIN-SUFFIX,instaadder.com
+DOMAIN-SUFFIX,instachecker.com
+DOMAIN-SUFFIX,instafallow.com
+DOMAIN-SUFFIX,instafollower.com
+DOMAIN-SUFFIX,instagainer.com
+DOMAIN-SUFFIX,instagda.com
+DOMAIN-SUFFIX,instagify.com
+DOMAIN-SUFFIX,instagmania.com
+DOMAIN-SUFFIX,instagor.com
+DOMAIN-SUFFIX,instagram-brand.com
+DOMAIN-SUFFIX,instagram-engineering.com
+DOMAIN-SUFFIX,instagram-help.com
+DOMAIN-SUFFIX,instagram-press.com
+DOMAIN-SUFFIX,instagram-press.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,instagramci.com
+DOMAIN-SUFFIX,instagramcn.com
+DOMAIN-SUFFIX,instagramdi.com
+DOMAIN-SUFFIX,instagramhashtags.net
+DOMAIN-SUFFIX,instagramhilecim.com
+DOMAIN-SUFFIX,instagramhilesi.org
+DOMAIN-SUFFIX,instagramium.com
+DOMAIN-SUFFIX,instagramizlenme.com
+DOMAIN-SUFFIX,instagramkusu.com
+DOMAIN-SUFFIX,instagramlogin.com
+DOMAIN-SUFFIX,instagramm.com
+DOMAIN-SUFFIX,instagramn.com
+DOMAIN-SUFFIX,instagrampartners.com
+DOMAIN-SUFFIX,instagramphoto.com
+DOMAIN-SUFFIX,instagramq.com
+DOMAIN-SUFFIX,instagramsepeti.com
+DOMAIN-SUFFIX,instagramtakipcisatinal.net
+DOMAIN-SUFFIX,instagramtakiphilesi.com
+DOMAIN-SUFFIX,instagramtips.com
+DOMAIN-SUFFIX,instagramtr.com
+DOMAIN-SUFFIX,instagran.com
+DOMAIN-SUFFIX,instagranm.com
+DOMAIN-SUFFIX,instagrem.com
+DOMAIN-SUFFIX,instagrm.com
+DOMAIN-SUFFIX,instagtram.com
+DOMAIN-SUFFIX,instagy.com
+DOMAIN-SUFFIX,instamgram.com
+DOMAIN-SUFFIX,instangram.com
+DOMAIN-SUFFIX,instanttelegram.com
+DOMAIN-SUFFIX,instaplayer.net
+DOMAIN-SUFFIX,instastyle.tv
+DOMAIN-SUFFIX,instgram.com
+DOMAIN-SUFFIX,intagram.com
+DOMAIN-SUFFIX,intagrm.com
+DOMAIN-SUFFIX,intgram.com
+DOMAIN-SUFFIX,kingstagram.com
+DOMAIN-SUFFIX,lnstagram-help.com
+DOMAIN-SUFFIX,theinstagramhack.com
+DOMAIN-SUFFIX,oninstagram.com
+DOMAIN-SUFFIX,online-instagram.com
+DOMAIN-SUFFIX,onlineinstagram.com
+DOMAIN-SUFFIX,web-instagram.net
+DOMAIN-SUFFIX,wwwinstagram.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,graph.instagram.com
+DOMAIN-SUFFIX,graph-fallback.instagram.com
+#end include:instagram
+#include:linkedin
+DOMAIN-SUFFIX,bizographics.com
+DOMAIN-SUFFIX,l-0005.dc-msedge.net
+DOMAIN-SUFFIX,l-0005.l-msedge.net
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-SUFFIX,linkedin.at
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,lnkd.in
+
+DOMAIN-SUFFIX,licdn.cn
+DOMAIN-SUFFIX,linkedin.cn
+
+# platform domain
+DOMAIN,e122475.dscg.akamaiedge.net
+DOMAIN,licdn.cn.cdn20.com
+DOMAIN,linkedin.sc.omtrdc.net
+#end include:linkedin
+#include:mailru
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mail.ru
+#end include:mailru
+#include:misskey
+DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,misskeyusercontent.jp
+
+# please DO NOT include domains that are only meant to serve static files
+# e.g.
+#    mediaproxy-mi.mashiro.site
+#    misskey-white.s3.ap-northeast-1.amazonaws.com
+
+DOMAIN-SUFFIX,9ineverse.com
+DOMAIN-SUFFIX,buicha.social
+DOMAIN-SUFFIX,gyutte.site
+DOMAIN-SUFFIX,labo.wovs.tk
+DOMAIN-SUFFIX,maniakey.homes
+DOMAIN-SUFFIX,mfmf.club
+DOMAIN-SUFFIX,mi.kochudaho.me
+DOMAIN-SUFFIX,mi.mashiro.site
+DOMAIN-SUFFIX,mi.nakn.jp
+DOMAIN-SUFFIX,misskey-square.net
+DOMAIN-SUFFIX,misskey.04.si
+DOMAIN-SUFFIX,misskey.always-we-need.games
+DOMAIN-SUFFIX,misskey.art
+DOMAIN-SUFFIX,misskey.cloud
+DOMAIN-SUFFIX,misskey.design
+DOMAIN-SUFFIX,misskey.flowers
+DOMAIN-SUFFIX,misskey.gamelore.fun
+DOMAIN-SUFFIX,misskey.gg
+DOMAIN-SUFFIX,misskey.noellabo.jp
+DOMAIN-SUFFIX,misskey.ranranhome.info
+DOMAIN-SUFFIX,misskey.stream
+DOMAIN-SUFFIX,misskey.yukineko.me
+DOMAIN-SUFFIX,mk.shrimpia.network
+DOMAIN-SUFFIX,mk.yopo.work
+DOMAIN-SUFFIX,mof.kemomi.me
+DOMAIN-SUFFIX,msk.ilnk.info
+DOMAIN-SUFFIX,msk.kitazawa.me
+DOMAIN-SUFFIX,nijimiss.moe
+DOMAIN-SUFFIX,oekakiskey.com
+DOMAIN-SUFFIX,submarin.online
+DOMAIN-SUFFIX,sushi.ski
+DOMAIN-SUFFIX,trpger.us
+#end include:misskey-universe
+#end include:misskey
+#include:mixi
+DOMAIN-SUFFIX,mixi.co.jp
+DOMAIN-SUFFIX,mixi.jp
+DOMAIN-SUFFIX,mixi.net
+#end include:mixi
+#include:ok
+DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okcdn.ru
+DOMAIN-SUFFIX,mycdn.me
+
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru
+#end include:ok
+#include:threads
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net
+#end include:threads
+#include:twitter
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.biz
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twitter.map.fastly.net
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
+#end include:twitter
+#include:vk
+DOMAIN-SUFFIX,cdn-vk.ru
+DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,mvk.com
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,vk-apps.com
+DOMAIN-SUFFIX,vk-apps.ru
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vkcloud-static.ru
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vk.cc
+DOMAIN-SUFFIX,vk.com
+DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,vk.design
+DOMAIN-SUFFIX,vk.link
+DOMAIN-SUFFIX,vk.me
+DOMAIN-SUFFIX,vk.ru
+DOMAIN-SUFFIX,vk.team
+DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkgo.app
+DOMAIN-SUFFIX,vklive.app
+DOMAIN-SUFFIX,vkmessenger.app
+DOMAIN-SUFFIX,vkmessenger.com
+DOMAIN-SUFFIX,vkontakte.ru
+DOMAIN-SUFFIX,vkuser.net
+DOMAIN-SUFFIX,vkuseraudio.com
+DOMAIN-SUFFIX,vkuseraudio.net
+DOMAIN-SUFFIX,vkuseraudio.ru
+DOMAIN-SUFFIX,vkusercdn.ru
+DOMAIN-SUFFIX,vkuserlive.net
+DOMAIN-SUFFIX,vkuserphoto.ru
+DOMAIN-SUFFIX,vkuservideo.com
+DOMAIN-SUFFIX,vkuservideo.net
+DOMAIN-SUFFIX,vkuservideo.ru
+DOMAIN-SUFFIX,vkvideo.ru
+#end include:vk
+
+DOMAIN-SUFFIX,onlyfans.com
+DOMAIN-SUFFIX,truthsocial.com
+
+# Mastodon
+# * We can not make a comprehensive domain list of all Mastodon instances.
+# * Many more dynamic/random instance domains are not listed here.
+# * geosite:mastodon is not provided to avoid creating excessive expectations among users.
+DOMAIN-SUFFIX,joinmastodon.org
+DOMAIN-SUFFIX,mastodon.online
+DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,pawoo.net
+#end include:category-social-media-!cn
 
 # IPFS
 #include:category-ipfs
@@ -12199,6 +15914,28 @@ DOMAIN-SUFFIX,shenyunperformingarts.org
 #end include:falungong
 
 # Services & Softwares
+#include:category-android-app-download
+#include:apkcombo
+DOMAIN-SUFFIX,apkcombo.com
+#end include:apkcombo
+#include:apkmirror
+DOMAIN-SUFFIX,apkmirror.com
+
+DOMAIN,apkmirror.disqus.com
+#end include:apkmirror
+#include:apkpure
+DOMAIN-SUFFIX,apkpure.com
+DOMAIN-SUFFIX,apkpure.net
+DOMAIN-SUFFIX,apkpures.xyz
+DOMAIN-SUFFIX,cdnpure.com
+DOMAIN-SUFFIX,pureapk.com
+DOMAIN-SUFFIX,winudf.com
+#end include:apkpure
+
+# Uptodown
+DOMAIN-SUFFIX,uptodown.com
+DOMAIN-SUFFIX,utdstc.com
+#end include:category-android-app-download
 #include:category-antivirus
 #include:comodo
 DOMAIN-SUFFIX,comodo.com
@@ -12388,6 +16125,101 @@ DOMAIN-SUFFIX,mcafee.com
 DOMAIN-SUFFIX,norton.com
 DOMAIN-SUFFIX,pandasecurity.com
 #end include:category-antivirus
+#include:category-browser-!cn
+#include:ceno
+DOMAIN-SUFFIX,censorship.no
+#end include:ceno
+#include:epicbrowser
+DOMAIN-SUFFIX,epicbrowser.com
+#end include:epicbrowser
+#include:firefox
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefoxusercontent.com
+#end include:firefox
+#include:torproject
+DOMAIN-SUFFIX,torproject.org
+#end include:torproject
+
+# chromium
+DOMAIN-SUFFIX,chrome
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromium.org
+
+DOMAIN-SUFFIX,basilisk-browser.org
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,bromite.org
+DOMAIN-SUFFIX,browser.kagi.com    #Orion Browser
+DOMAIN-SUFFIX,cromite.org
+DOMAIN-SUFFIX,decentr.net
+DOMAIN-SUFFIX,dothq.org
+DOMAIN-SUFFIX,floorp.app
+DOMAIN-SUFFIX,iridiumbrowser.de
+DOMAIN-SUFFIX,kiwibrowser.com
+DOMAIN-SUFFIX,kmeleonbrowser.org
+DOMAIN-SUFFIX,librewolf.net
+DOMAIN-SUFFIX,minbrowser.org
+DOMAIN-SUFFIX,netsurf-browser.org
+DOMAIN-SUFFIX,opera.com
+DOMAIN-SUFFIX,palemoon.org
+DOMAIN-SUFFIX,pulsebrowser.app
+DOMAIN-SUFFIX,qutebrowser.org
+DOMAIN-SUFFIX,vivaldi.com
+DOMAIN-SUFFIX,waterfox.net
+DOMAIN-SUFFIX,zen-browser.app
+#end include:category-browser-!cn
+#include:category-enhance-gaming
+#include:playcover
+DOMAIN-SUFFIX,playcover.io
+DOMAIN-SUFFIX,playcover.workers.dev
+#end include:playcover
+#include:fflogs
+DOMAIN-SUFFIX,fflogs.com
+DOMAIN-SUFFIX,rpglogs.com
+
+DOMAIN-SUFFIX,rpglogs.cn
+#end include:fflogs
+#include:trackernetwork
+DOMAIN-SUFFIX,thetrackernetwork.com
+DOMAIN-SUFFIX,tracker.gg
+DOMAIN-SUFFIX,tracker.network
+#end include:trackernetwork
+
+# Anti-Cheat
+DOMAIN-SUFFIX,battleye.com
+
+# Android Emulator
+DOMAIN-SUFFIX,bluestacks.com
+DOMAIN-SUFFIX,ldmnq.com
+DOMAIN-SUFFIX,lsplayer.com
+DOMAIN-SUFFIX,yeshen.com
+
+# Arknights
+DOMAIN-SUFFIX,maa.plus
+DOMAIN-SUFFIX,prts.plus
+
+# KanColle
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,poi.moe
+
+# Steam++ / Watt Toolkit
+DOMAIN-SUFFIX,steampp.net
+#end include:category-enhance-gaming
+#include:category-mobile-repair
+#include:borneoschematics
+DOMAIN-SUFFIX,borneo.world
+DOMAIN-SUFFIX,borneoasia.com
+DOMAIN-SUFFIX,borneoschematic.com
+DOMAIN-SUFFIX,bosharso.net
+DOMAIN-SUFFIX,hostborneo.org
+#end include:borneoschematics
+#include:z3x-team
+DOMAIN-SUFFIX,easy-jtag.com
+DOMAIN-SUFFIX,z3x-team.com
+#end include:z3x-team
+
+DOMAIN-SUFFIX,androidfilehost.com
+DOMAIN-SUFFIX,unlocktool.net
+#end include:category-mobile-repair
 #include:category-ntp
 #include:category-ntp-cn
 # Aliyun
@@ -12560,6 +16392,43 @@ DOMAIN-SUFFIX,ntp.ufe.cz
 DOMAIN-SUFFIX,pool.ntp.org
 DOMAIN-SUFFIX,time.nrc.ca
 #end include:category-ntp
+#include:category-password-management
+#include:bitwarden
+DOMAIN-SUFFIX,bitwarden.com
+DOMAIN-SUFFIX,bitwarden.eu
+DOMAIN-SUFFIX,bitwarden.net
+DOMAIN-SUFFIX,btwrdn.co
+DOMAIN-SUFFIX,btwrdn.com
+#end include:bitwarden
+#include:lastpass
+DOMAIN-SUFFIX,lastpass.com
+DOMAIN-SUFFIX,lastpass.eu
+DOMAIN-SUFFIX,lputil.com
+#end include:lastpass
+
+DOMAIN-SUFFIX,authpass.app
+DOMAIN-SUFFIX,authy.com
+DOMAIN-SUFFIX,dashlane.com
+DOMAIN-SUFFIX,enpass.io
+DOMAIN-SUFFIX,keepass.info
+DOMAIN-SUFFIX,keeper.io
+DOMAIN-SUFFIX,keepersecurity.com
+DOMAIN-SUFFIX,roboform.com
+DOMAIN-SUFFIX,strongboxsafe.com
+#end include:category-password-management
+#include:category-urlshortner
+#include:bitly
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is
+#end include:bitly
+#include:shorturl
+DOMAIN-SUFFIX,shorturl.at
+#end include:shorturl
+#include:tinyurl
+DOMAIN-SUFFIX,tinyurl.com
+#end include:tinyurl
+#end include:category-urlshortner
 
 #include:rsshub
 DOMAIN-SUFFIX,rsshub.app
@@ -13166,682 +17035,6 @@ DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,xiaomiflash.com
 
 # Software development
-#include:category-dev
-#include:anaconda
-DOMAIN-SUFFIX,anaconda.cloud
-DOMAIN-SUFFIX,anaconda.com
-DOMAIN-SUFFIX,anaconda.org
-DOMAIN-SUFFIX,conda.io
-#end include:anaconda
-#include:android
-# All .android domains
-DOMAIN-SUFFIX,android
-
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com
-
-DOMAIN,android.googlesource.com
-#end include:android
-#include:apple-dev
-DOMAIN-SUFFIX,appleswift.com
-DOMAIN-SUFFIX,swift.org
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,swiftui.com.cn
-#end include:swift
-
-# Calendar and Contact Server
-DOMAIN-SUFFIX,calendarserver.org
-
-# CloudKit
-DOMAIN-SUFFIX,apple-cloudkit.com
-
-# CUPS
-DOMAIN-SUFFIX,cups.org
-
-# Developer
-DOMAIN-SUFFIX,developer.apple.com
-DOMAIN-SUFFIX,devimages-cdn.apple.com
-DOMAIN-SUFFIX,devstreaming-cdn.apple.com
-DOMAIN-SUFFIX,developerservices2.apple.com
-DOMAIN-SUFFIX,timestamp.apple.com
-DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
-DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
-
-# FoundationDB
-DOMAIN-SUFFIX,foundationdb.org
-
-# macOS forge
-DOMAIN-SUFFIX,macosforge.org
-
-# MacRuby
-DOMAIN-SUFFIX,macruby.com
-DOMAIN-SUFFIX,macruby.net
-DOMAIN-SUFFIX,macruby.org
-
-# MapKit
-DOMAIN-SUFFIX,apple-mapkit.com
-
-# Playgrounds
-DOMAIN-SUFFIX,playgrounds-cdn.apple.com
-
-# Research & Care
-DOMAIN-SUFFIX,carekit.org
-DOMAIN-SUFFIX,researchandcare.org
-DOMAIN-SUFFIX,researchkit.cn
-DOMAIN-SUFFIX,researchkit.com.cn
-DOMAIN-SUFFIX,researchkit.hk
-DOMAIN-SUFFIX,researchkit.net
-DOMAIN-SUFFIX,researchkit.org
-DOMAIN-SUFFIX,researchkit.tv
-
-# ServiceTalk
-DOMAIN-SUFFIX,servicetalk.io
-
-# WebKit
-DOMAIN-SUFFIX,webkit.org
-DOMAIN-SUFFIX,webkitgtk.org
-DOMAIN-SUFFIX,wpewebkit.org
-
-# Other
-DOMAIN-SUFFIX,webobjects.com
-
-DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
-DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
-DOMAIN,p-events-delivery.akamaized.net
-
-#end include:apple-dev
-#include:archlinux
-DOMAIN-SUFFIX,archlinux.org
-DOMAIN-SUFFIX,archlinuxarm.org
-DOMAIN-SUFFIX,pkgbuild.com
-
-# Unofficial
-DOMAIN-SUFFIX,archlinuxcn.org
-#end include:archlinux
-#include:bootstrap
-DOMAIN-SUFFIX,bootstrapcdn.com
-DOMAIN-SUFFIX,getbootstrap.com
-#end include:bootstrap
-#include:braveux
-DOMAIN-SUFFIX,braventures.com
-DOMAIN-SUFFIX,braveux.com
-
-# Compass
-DOMAIN-SUFFIX,compass.is
-
-# Fight For UX
-DOMAIN-SUFFIX,fightforux.com
-
-# For the Badge
-DOMAIN-SUFFIX,forthebadge.com
-
-# Stock Against Photography
-DOMAIN-SUFFIX,stockagainstphotography.com
-#end include:braveux
-#include:category-container
-DOMAIN-SUFFIX,azurecr.io
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,ecr.aws
-DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,mcr.microsoft.com
-DOMAIN-SUFFIX,quay.io
-DOMAIN-SUFFIX,registry.gitlab.com
-DOMAIN-SUFFIX,registry.k8s.io
-
-
-DOMAIN-WILDCARD,*.dkr.ecr.*.amazonaws.com
-#end include:category-container
-#include:codeberg
-DOMAIN-SUFFIX,codeberg.org
-DOMAIN-SUFFIX,codeberg.page
-#end include:codeberg
-#include:dart
-DOMAIN-SUFFIX,dart.dev
-DOMAIN-SUFFIX,dartlang.org
-DOMAIN-SUFFIX,dartpad.dev
-#end include:dart
-#include:debian
-DOMAIN-SUFFIX,debian.org
-DOMAIN-SUFFIX,dotdeb.org
-#end include:debian
-#include:docker
-DOMAIN-SUFFIX,compose-spec.io
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,dockerstatic.com
-
-DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
-DOMAIN,docker-pinata-support.s3.amazonaws.com
-#end include:docker
-#include:embedly
-DOMAIN-SUFFIX,embed.ly
-DOMAIN-SUFFIX,embedly.com
-
-# Player.js
-DOMAIN-SUFFIX,playerjs.io
-#end include:embedly
-#include:facebook-dev
-DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,atscaleconference.com
-DOMAIN-SUFFIX,botorch.org
-DOMAIN-SUFFIX,buck.build
-DOMAIN-SUFFIX,buckbuild.com
-DOMAIN-SUFFIX,componentkit.org
-DOMAIN-SUFFIX,draftjs.org
-DOMAIN-SUFFIX,f8.com
-DOMAIN-SUFFIX,facebookappcenter.info
-DOMAIN-SUFFIX,facebookappcenter.net
-DOMAIN-SUFFIX,facebookappcenter.org
-DOMAIN-SUFFIX,facebookconnect.com
-DOMAIN-SUFFIX,facebookdevelopergarage.com
-DOMAIN-SUFFIX,faciometrics.com
-DOMAIN-SUFFIX,fasttext.cc
-DOMAIN-SUFFIX,fbf8.com
-DOMAIN-SUFFIX,fbinfer.com
-DOMAIN-SUFFIX,fblitho.com
-DOMAIN-SUFFIX,fbredex.com
-DOMAIN-SUFFIX,fbrell.com
-DOMAIN-SUFFIX,flow.dev
-DOMAIN-SUFFIX,flow.org
-DOMAIN-SUFFIX,flowtype.org
-DOMAIN-SUFFIX,frescolib.org
-DOMAIN-SUFFIX,hacklang.org
-DOMAIN-SUFFIX,hhvm.com
-DOMAIN-SUFFIX,makeitopen.com
-DOMAIN-SUFFIX,mcrouter.net
-DOMAIN-SUFFIX,mcrouter.org
-DOMAIN-SUFFIX,messengerdevelopers.com
-DOMAIN-SUFFIX,ogp.me
-DOMAIN-SUFFIX,opengraphprotocol.com
-DOMAIN-SUFFIX,opengraphprotocol.org
-DOMAIN-SUFFIX,parse.com
-DOMAIN-SUFFIX,pyrobot.org
-DOMAIN-SUFFIX,react.com
-DOMAIN-SUFFIX,reactjs.com
-DOMAIN-SUFFIX,reactjs.org
-DOMAIN-SUFFIX,recoiljs.org
-DOMAIN-SUFFIX,rocksdb.com
-DOMAIN-SUFFIX,rocksdb.net
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,yogalayout.com
-
-DOMAIN,developers.facebook.com
-#end include:facebook-dev
-#include:fastlane
-DOMAIN-SUFFIX,fastlane.ci
-DOMAIN-SUFFIX,fastlane.tools
-#end include:fastlane
-#include:fedora
-DOMAIN-SUFFIX,getfedora.org
-DOMAIN-SUFFIX,fedoraforum.org
-DOMAIN-SUFFIX,fedorapeople.org
-DOMAIN-SUFFIX,fedoraproject.org
-DOMAIN-SUFFIX,fedoramagazine.org
-#end include:fedora
-#include:firebase
-DOMAIN-SUFFIX,firebase.com
-DOMAIN-SUFFIX,firebase.io
-DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN-SUFFIX,firebaseio.com
-
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,firebase.google.com
-DOMAIN,firebase.googleapis.com
-DOMAIN,firebaseappcheck.googleapis.com
-DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
-DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
-DOMAIN,firebasedynamiclinks.googleapis.com
-DOMAIN,firebaseinappmessaging.googleapis.com
-DOMAIN,firebaseinstallations.googleapis.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,firebaselogging.googleapis.com
-DOMAIN,firebaseperusertopics-pa.googleapis.com
-DOMAIN,firebaseremoteconfig.googleapis.com
-#end include:firebase
-#include:flatpak
-DOMAIN-SUFFIX,flathub.org
-DOMAIN-SUFFIX,flatpak.org
-#end include:flatpak
-#include:flutter
-DOMAIN-SUFFIX,flutter.dev
-DOMAIN-SUFFIX,flutterapp.com
-DOMAIN-SUFFIX,pub.dev
-#end include:flutter
-#include:fontawesome
-DOMAIN-SUFFIX,fontawesome.com
-DOMAIN-SUFFIX,fortawesome.com
-#end include:fontawesome
-#include:framer
-DOMAIN-SUFFIX,framer.com
-DOMAIN-SUFFIX,framer.website
-DOMAIN-SUFFIX,framercanvas.com
-DOMAIN-SUFFIX,framerstatic.com
-DOMAIN-SUFFIX,framerusercontent.com
-#end include:framer
-#include:gemfury
-DOMAIN-SUFFIX,fury.blog
-DOMAIN-SUFFIX,fury.co
-DOMAIN-SUFFIX,fury.dev
-DOMAIN-SUFFIX,fury.help
-DOMAIN-SUFFIX,fury.io
-DOMAIN-SUFFIX,gemfury.com
-#end include:gemfury
-#include:gitbook
-DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,gitbook.io
-#end include:gitbook
-#include:github1s
-DOMAIN-SUFFIX,github1s.com
-DOMAIN-SUFFIX,sourcegraph.com
-#end include:github1s
-#include:gitlab
-DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,gitlab.io
-DOMAIN-SUFFIX,gitlab.net
-DOMAIN-SUFFIX,gitlab-static.net
-
-DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-#end include:gitlab
-#include:golang
-DOMAIN-SUFFIX,go-lang.com
-DOMAIN-SUFFIX,go-lang.net
-DOMAIN-SUFFIX,go-lang.org
-DOMAIN-SUFFIX,go.dev
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.com
-DOMAIN-SUFFIX,golang.net
-DOMAIN-SUFFIX,golang.org
-#end include:golang
-#include:hashicorp
-DOMAIN-SUFFIX,consul.io
-DOMAIN-SUFFIX,hashicorp.com
-DOMAIN-SUFFIX,nomadproject.io
-DOMAIN-SUFFIX,packer.io
-DOMAIN-SUFFIX,terraform.io
-DOMAIN-SUFFIX,vagrantcloud.com
-DOMAIN-SUFFIX,vagrantup.com
-DOMAIN-SUFFIX,vaultproject.io
-#end include:hashicorp
-#include:haskell
-DOMAIN-SUFFIX,haskell.org
-DOMAIN-SUFFIX,haskellstack.org
-DOMAIN-SUFFIX,stackage.org
-#end include:haskell
-#include:homebrew
-DOMAIN-SUFFIX,brew.sh
-
-DOMAIN,homebrew.bintray.com
-#end include:homebrew
-#include:intel-dev
-DOMAIN-SUFFIX,01.org
-DOMAIN-SUFFIX,hyperscan.io
-DOMAIN-SUFFIX,intellinuxgraphics.com
-DOMAIN-SUFFIX,intellinuxgraphics.net
-DOMAIN-SUFFIX,oneapi.com
-DOMAIN-SUFFIX,oneapi.io
-DOMAIN-SUFFIX,opencas.io
-DOMAIN-SUFFIX,opendroneid.org
-DOMAIN-SUFFIX,openvino.ai
-DOMAIN-SUFFIX,openvinotoolkit.org
-DOMAIN-SUFFIX,renderingtoolkit.org
-DOMAIN-SUFFIX,snap-telemetry.io
-DOMAIN-SUFFIX,universalscalablefirmware.org
-
-# ACPI Component Architecture
-DOMAIN-SUFFIX,acpica.com
-
-# Clear Linux
-DOMAIN-SUFFIX,clearlinux.org
-
-# OSPRay
-DOMAIN-SUFFIX,ospray.net
-DOMAIN-SUFFIX,ospray.org
-#end include:intel-dev
-#include:java
-# All .java domains
-DOMAIN-SUFFIX,java
-
-DOMAIN-SUFFIX,java.com
-DOMAIN-SUFFIX,java.net
-#end include:java
-#include:jetbrains
-DOMAIN-SUFFIX,datalore.io
-DOMAIN-SUFFIX,intellij.com
-DOMAIN-SUFFIX,intellij.net
-DOMAIN-SUFFIX,intellij.org
-DOMAIN-SUFFIX,jb.gg
-DOMAIN-SUFFIX,jetbrains.cloud
-DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,jetbrains.net
-DOMAIN-SUFFIX,jetbrains.space
-DOMAIN-SUFFIX,jetbrains.team
-DOMAIN-SUFFIX,kotlinlang.org
-DOMAIN-SUFFIX,youtrack.cloud
-
-DOMAIN-SUFFIX,cdn.jetbrains.com
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
-#end include:jetbrains
-#include:jetbrains-ai
-DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,grazie.aws.intellij.net
-DOMAIN-SUFFIX,jetbrains.ai
-#end include:jetbrains-ai
-#include:jfrog
-DOMAIN-SUFFIX,jfrog.com
-DOMAIN-SUFFIX,jfrog.org
-DOMAIN-SUFFIX,bintray.com
-
-DOMAIN,d29vzk4ow07wi7.cloudfront.net
-#end include:jfrog
-#include:kubernetes
-DOMAIN-SUFFIX,kubernetes.io
-DOMAIN-SUFFIX,k8s.io
-#end include:kubernetes
-#include:microsoft-dev
-DOMAIN-SUFFIX,adaptivecards.io
-DOMAIN-SUFFIX,api-extractor.com
-DOMAIN-SUFFIX,apisof.net
-DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,blazor.net
-DOMAIN-SUFFIX,botframework.com
-DOMAIN-SUFFIX,codethemicrobit.com
-DOMAIN-SUFFIX,devopsassessment.net
-DOMAIN-SUFFIX,dot.net
-DOMAIN-SUFFIX,gamesstack.com
-DOMAIN-SUFFIX,graphengine.io
-DOMAIN-SUFFIX,insiderdevtour.com
-DOMAIN-SUFFIX,jwt.ms
-DOMAIN-SUFFIX,microbit.org
-DOMAIN-SUFFIX,microsoftadc.com
-DOMAIN-SUFFIX,microsoftgamestack.com
-DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
-DOMAIN-SUFFIX,microsoftreactor.cn
-DOMAIN-SUFFIX,microsoftreactor.com.cn
-DOMAIN-SUFFIX,microsoftreactor.info
-DOMAIN-SUFFIX,microsoftreactor.net
-DOMAIN-SUFFIX,microsoftreactor.org
-DOMAIN-SUFFIX,microsoftsilverlight.com
-DOMAIN-SUFFIX,microsoftsilverlight.org
-DOMAIN-SUFFIX,microsoftsilverlight.net
-DOMAIN-SUFFIX,microsoftsqlserver.com
-DOMAIN-SUFFIX,mmdnn.com
-DOMAIN-SUFFIX,mono-project.com
-DOMAIN-SUFFIX,msdn.com
-DOMAIN-SUFFIX,msinnovationchallenge.com
-DOMAIN-SUFFIX,mspairlift.com
-DOMAIN-SUFFIX,msropendata.com
-DOMAIN-SUFFIX,nuget.org
-DOMAIN-SUFFIX,nugettest.org
-DOMAIN-SUFFIX,opentranslatorstothings.org
-DOMAIN-SUFFIX,poshtestgallery.com
-DOMAIN-SUFFIX,pwabuilder.com
-DOMAIN-SUFFIX,reactorms.com.cn
-DOMAIN-SUFFIX,sankie.net
-DOMAIN-SUFFIX,sqlserveronlinux.com
-DOMAIN-SUFFIX,timelinestoryteller.com
-DOMAIN-SUFFIX,uwpcommunitytoolkit.com
-DOMAIN-SUFFIX,visualstudio-staging.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,visualstudio.co
-DOMAIN-SUFFIX,visualstudio.co.uk
-DOMAIN-SUFFIX,visualstudio.eu
-DOMAIN-SUFFIX,visualstudio.net
-DOMAIN-SUFFIX,vfsforgit.com
-DOMAIN-SUFFIX,vfsforgit.org
-DOMAIN-SUFFIX,vsassets.io
-DOMAIN-SUFFIX,vscode.dev
-DOMAIN-SUFFIX,vscode-cdn.net
-DOMAIN-SUFFIX,vscode-unpkg.net
-DOMAIN-SUFFIX,xamarin.com
-
-DOMAIN,az764295.vo.msecnd.net
-DOMAIN,bingsettingssearch.trafficmanager.net
-DOMAIN,default.exp-tas.com
-DOMAIN,developer.microsoft.com
-DOMAIN,download.visualstudio.microsoft.com
-DOMAIN,dtlgalleryint.cloudapp.net
-DOMAIN,packages.microsoft.com
-DOMAIN,poshtestgallery.cloudapp.net
-DOMAIN,psg-int-centralus.cloudapp.net
-DOMAIN,psg-int-eastus.cloudapp.net
-DOMAIN,rink.hockeyapp.net
-DOMAIN,vscode-sync-insiders.trafficmanager.net
-DOMAIN,vscode-sync.trafficmanager.net
-DOMAIN,vscode.blob.core.windows.net
-DOMAIN,vscode.search.windows.net
-DOMAIN,vsmarketplacebadge.apphb.com
-#end include:microsoft-dev
-#include:mongodb
-DOMAIN-SUFFIX,mongodb.com
-DOMAIN-SUFFIX,mongodb.org
-#end include:mongodb
-#include:nginx
-DOMAIN-SUFFIX,nginx.com
-DOMAIN-SUFFIX,nginx.org
-#end include:nginx
-#include:openwrt
-DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,lede-project.org
-#end include:openwrt
-#include:perl
-DOMAIN-SUFFIX,perl.apache.org
-DOMAIN-SUFFIX,perl.org
-DOMAIN-SUFFIX,cpan.org
-DOMAIN-SUFFIX,metacpan.org
-DOMAIN-SUFFIX,modperl.pl
-#end include:perl
-#include:polymer
-DOMAIN-SUFFIX,polymer-project.org
-DOMAIN-SUFFIX,polymerproject.org
-#end include:polymer
-#include:python
-DOMAIN-SUFFIX,pycon.org
-DOMAIN-SUFFIX,pypa.io
-DOMAIN-SUFFIX,pypi.io
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,python.org
-DOMAIN-SUFFIX,pythonhosted.org
-#end include:python
-#include:qt
-DOMAIN-SUFFIX,qt.io
-DOMAIN-SUFFIX,qt-project.org
-#end include:qt
-#include:readthedocs
-DOMAIN-SUFFIX,readthedocs-hosted.com
-DOMAIN-SUFFIX,readthedocs.com
-DOMAIN-SUFFIX,readthedocs.io
-DOMAIN-SUFFIX,readthedocs.org
-#end include:readthedocs
-#include:redis
-DOMAIN-SUFFIX,redis.io
-DOMAIN-SUFFIX,redislabs.com
-#end include:redis
-#include:ruby
-DOMAIN-SUFFIX,ruby-lang.org
-DOMAIN-SUFFIX,rubygems.org
-#end include:ruby
-#include:rust
-DOMAIN-SUFFIX,rust-lang.org
-DOMAIN-SUFFIX,rustup.rs
-DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,docs.rs
-#end include:rust
-#include:redhat
-DOMAIN-SUFFIX,redhat.com
-DOMAIN-SUFFIX,redhat.org
-#end include:redhat
-#include:scala
-DOMAIN-SUFFIX,scala-lang.org
-DOMAIN-SUFFIX,scala-sbt.org
-#end include:scala
-#include:sentry
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,sentry-cdn.com
-#end include:sentry
-#include:sourcehut
-DOMAIN-SUFFIX,sourcehut.org
-DOMAIN-SUFFIX,sr.ht
-#end include:sourcehut
-#include:stackexchange
-# References:
-# https://stackexchange.com/sites
-# https://meta.stackexchange.com/questions/81379/can-we-have-a-list-of-all-the-stack-exchange-domains-somewhere-for-firewall-pur
-
-DOMAIN-SUFFIX,askubuntu.com
-DOMAIN-SUFFIX,blogoverflow.com
-DOMAIN-SUFFIX,codeforaliving.io
-DOMAIN-SUFFIX,mathoverflow.net
-DOMAIN-SUFFIX,serverfault.com
-DOMAIN-SUFFIX,sstatic.net
-DOMAIN-SUFFIX,stackapps.com
-DOMAIN-SUFFIX,stackauth.com
-DOMAIN-SUFFIX,stackexchange.com
-DOMAIN-SUFFIX,stackmod.blog
-DOMAIN-SUFFIX,stackoverflow.blog
-DOMAIN-SUFFIX,stackoverflow.co
-DOMAIN-SUFFIX,stackoverflow.com
-DOMAIN-SUFFIX,stackoverflow.email
-DOMAIN-SUFFIX,stackoverflow.help
-DOMAIN-SUFFIX,stackoverflow.net
-DOMAIN-SUFFIX,stackoverflowbusiness.com
-DOMAIN-SUFFIX,stackoverflowcareers.com
-DOMAIN-SUFFIX,stackoverflowjobs.com
-DOMAIN-SUFFIX,stackoverflowsolutions.com
-DOMAIN-SUFFIX,stackoverflowteams.com
-DOMAIN-SUFFIX,stacksnippets.net
-DOMAIN-SUFFIX,superuser.com
-DOMAIN-SUFFIX,tex-talk.net
-DOMAIN-SUFFIX,thesffblog.com
-#end include:stackexchange
-#include:strikingly
-DOMAIN-SUFFIX,mystrikingly.com
-DOMAIN-SUFFIX,strikingly.com
-DOMAIN-SUFFIX,strikinglycdn.com
-#end include:strikingly
-#include:termux
-DOMAIN-SUFFIX,termux.com
-DOMAIN-SUFFIX,termux.dev
-DOMAIN-SUFFIX,termux.org
-#end include:termux
-#include:tilda
-DOMAIN-SUFFIX,tilda.cc
-DOMAIN-SUFFIX,tilda.ru
-DOMAIN-SUFFIX,tilda.ws
-DOMAIN-SUFFIX,tildaapi.com
-DOMAIN-SUFFIX,tildacdn.com
-#end include:tilda
-#include:unity
-DOMAIN-SUFFIX,unity.com
-DOMAIN-SUFFIX,unity3d.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,iads.unity3d.com
-DOMAIN-SUFFIX,unityads.unity3d.com
-#end include:unity
-#include:v8
-DOMAIN-SUFFIX,v8.dev
-DOMAIN-SUFFIX,v8project.org
-#end include:v8
-
-DOMAIN-SUFFIX,adventofcode.com
-DOMAIN-SUFFIX,alpinelinux.org
-DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,artixlinux.org
-DOMAIN-SUFFIX,atom.io
-DOMAIN-SUFFIX,badgen.net
-DOMAIN-SUFFIX,bitvise.com
-DOMAIN-SUFFIX,centos.org
-DOMAIN-SUFFIX,chocolatey.org
-DOMAIN-SUFFIX,clojure.org
-DOMAIN-SUFFIX,cnpmjs.org
-DOMAIN-SUFFIX,cve.org
-DOMAIN-SUFFIX,cygwin.com
-DOMAIN-SUFFIX,cython.org
-DOMAIN-SUFFIX,deno.com
-DOMAIN-SUFFIX,deno.land
-DOMAIN-SUFFIX,dev.to
-DOMAIN-SUFFIX,elixir-lang.org
-DOMAIN-SUFFIX,elrepo.org
-DOMAIN-SUFFIX,erlang.org
-DOMAIN-SUFFIX,ffmpeg.org
-DOMAIN-SUFFIX,freebsd.org
-DOMAIN-SUFFIX,gentoo.org
-DOMAIN-SUFFIX,getcomposer.org
-DOMAIN-SUFFIX,getzola.org
-DOMAIN-SUFFIX,git-scm.com
-DOMAIN-SUFFIX,gnu.org
-DOMAIN-SUFFIX,godbolt.org
-
-# PuTTY and some software official websites.
-DOMAIN-SUFFIX,greenend.org.uk
-
-DOMAIN-SUFFIX,hex.pm
-DOMAIN-SUFFIX,hexdocs.pm
-DOMAIN-SUFFIX,imageglass.org
-DOMAIN-SUFFIX,ius.io
-DOMAIN-SUFFIX,jenkins.io
-DOMAIN-SUFFIX,js.org
-DOMAIN-SUFFIX,jupyter.org
-DOMAIN-SUFFIX,kali.org
-DOMAIN-SUFFIX,linuxfromscratch.org
-DOMAIN-SUFFIX,linuxmint.com
-DOMAIN-SUFFIX,lua.org
-DOMAIN-SUFFIX,macports.org
-DOMAIN-SUFFIX,mariadb.org
-DOMAIN-SUFFIX,mingw.org
-DOMAIN-SUFFIX,mobatek.net
-DOMAIN-SUFFIX,mpv.io
-DOMAIN-SUFFIX,mysql.com
-DOMAIN-SUFFIX,neovim.io
-DOMAIN-SUFFIX,netfilter.org
-DOMAIN-SUFFIX,newpipe.net
-DOMAIN-SUFFIX,nftables.org
-DOMAIN-SUFFIX,nixos.org
-DOMAIN-SUFFIX,nodesource.com
-DOMAIN-SUFFIX,notepad-plus-plus.org
-DOMAIN-SUFFIX,openresty.org
-DOMAIN-SUFFIX,openssl.org
-DOMAIN-SUFFIX,opensuse.org
-DOMAIN-SUFFIX,osdn.net
-DOMAIN-SUFFIX,packagecloud.io
-DOMAIN-SUFFIX,packagist.org
-DOMAIN-SUFFIX,pcre.org
-DOMAIN-SUFFIX,phantomjs.org
-DOMAIN-SUFFIX,php.net
-DOMAIN-SUFFIX,piwheels.org
-DOMAIN-SUFFIX,postgresql.org
-DOMAIN-SUFFIX,putty.org
-DOMAIN-SUFFIX,r-project.org
-DOMAIN-SUFFIX,raspberrypi.org
-DOMAIN-SUFFIX,raspbian.org
-DOMAIN-SUFFIX,regex101.com
-DOMAIN-SUFFIX,remirepo.net
-DOMAIN-SUFFIX,rpmfusion.org
-DOMAIN-SUFFIX,scientificlinux.org
-DOMAIN-SUFFIX,scoop.sh
-DOMAIN-SUFFIX,shellcheck.net
-DOMAIN-SUFFIX,shields.io
-DOMAIN-SUFFIX,sqlite.org
-DOMAIN-SUFFIX,sublimetext.com
-DOMAIN-SUFFIX,tampermonkey.net
-DOMAIN-SUFFIX,termius.com
-DOMAIN-SUFFIX,topcoder.com
-DOMAIN-SUFFIX,unpkg.com
-DOMAIN-SUFFIX,videojs.com
-DOMAIN-SUFFIX,videolan.org
-DOMAIN-SUFFIX,vim.org
-DOMAIN-SUFFIX,wapm.io
-DOMAIN-SUFFIX,wasmer.io
-DOMAIN-SUFFIX,webflow.com
-DOMAIN-SUFFIX,weblate.org
-DOMAIN-SUFFIX,wireshark.org
-DOMAIN-SUFFIX,x.org
-DOMAIN-SUFFIX,xposed.info
-DOMAIN-SUFFIX,yarnpkg.com
-DOMAIN-SUFFIX,ziglang.org
-DOMAIN-SUFFIX,zsh.org
-#end include:category-dev
 
 # Tech companies
 

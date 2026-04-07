@@ -1,4 +1,3 @@
-#include:sber
 # https://crt.sh/?id=24119301132
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
@@ -71,62 +70,3 @@ DOMAIN,error-tracking.megamarket.tech
 DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
-#end include:sber
-#include:tbank-ru
-DOMAIN-SUFFIX,bankline.ru
-DOMAIN-SUFFIX,cdn-tinkoff.ru
-DOMAIN-SUFFIX,dolyame.ru
-DOMAIN-SUFFIX,phoenix-ca.ru
-DOMAIN-SUFFIX,rosbank.ru
-DOMAIN-SUFFIX,t-bank-app.ru
-DOMAIN-SUFFIX,t-j.ru
-DOMAIN-SUFFIX,t-static.ru
-DOMAIN-SUFFIX,t-technologies.ru
-DOMAIN-SUFFIX,tbank-online.com
-DOMAIN-SUFFIX,tbank.ru
-DOMAIN-SUFFIX,tinkoff-group.com
-DOMAIN-SUFFIX,tinkoff.ru
-DOMAIN-SUFFIX,tinkoffjournal.ru
-DOMAIN-SUFFIX,tinsurance.ru
-DOMAIN-SUFFIX,unidraw.io
-
-# Education
-DOMAIN-SUFFIX,centraluniversity.ru
-DOMAIN-SUFFIX,cu.ru
-DOMAIN,edu.tinkoff.ru
-DOMAIN,education.tbank.ru
-#end include:tbank-ru
-
-# Alfa Bank
-DOMAIN-SUFFIX,alfabank.ru
-DOMAIN-SUFFIX,alfabank.st
-
-# GazpromBank
-DOMAIN-SUFFIX,gazprombank.com
-DOMAIN-SUFFIX,gazprombank.investments
-DOMAIN-SUFFIX,gazprombank.ru
-DOMAIN-SUFFIX,gpb.ru
-
-# MTS Dengi
-DOMAIN-SUFFIX,dbo-dengi.online
-DOMAIN-SUFFIX,mtsdengi.ru
-
-# PSB Bank
-DOMAIN-SUFFIX,payment.ru
-DOMAIN-SUFFIX,psb-ocenka.ru
-DOMAIN-SUFFIX,psb.ru
-DOMAIN-SUFFIX,psbank.ru
-
-# RUSSIA Bank
-DOMAIN-SUFFIX,abr.ru
-
-# Russian Agricultural Bank
-DOMAIN-SUFFIX,rshb.ru
-
-# Tochka bank
-DOMAIN-SUFFIX,tochka-tech.com
-DOMAIN-SUFFIX,tochka.com
-
-# VTB Bank
-DOMAIN-SUFFIX,pochtabank.ru    #subsidiary
-DOMAIN-SUFFIX,vtb.ru

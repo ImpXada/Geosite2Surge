@@ -322,6 +322,7 @@ DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.qq.com
+DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
 DOMAIN-SUFFIX,c.mi.com
 DOMAIN-SUFFIX,global.market.xiaomi.com
 DOMAIN-SUFFIX,byteglb.com
@@ -333,4 +334,3 @@ DOMAIN,bytedance.map.fastly.net
 DOMAIN-SUFFIX,rednote.com
 DOMAIN-SUFFIX,rednote.com.my
 DOMAIN-SUFFIX,rednotecdn.com
-DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com

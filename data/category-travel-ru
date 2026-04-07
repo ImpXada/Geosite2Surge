@@ -14,9 +14,6 @@ DOMAIN-SUFFIX,avtovokzaly.ru
 # Ostrovok
 DOMAIN-SUFFIX,ostrovok.ru
 
-# Othello from 2GIS
-DOMAIN-SUFFIX,otello.ru
-
 # Public transport and ticketing
 #include:mosmetro
 DOMAIN-SUFFIX,mosmetro.ru
@@ -29,7 +26,6 @@ DOMAIN,podorozhnik.spb.ru
 DOMAIN,transport.mos.ru
 DOMAIN-SUFFIX,gorodpay.ru
 DOMAIN-SUFFIX,rrtp.ru
-DOMAIN-SUFFIX,sbertroika.ru
 
 # Russian Railways
 DOMAIN-SUFFIX,rzd-bonus.ru
