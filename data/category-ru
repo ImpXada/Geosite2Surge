@@ -339,6 +339,7 @@ DOMAIN-SUFFIX,x5.tech
 DOMAIN-SUFFIX,x5club.ru
 DOMAIN-SUFFIX,x5id.ru
 DOMAIN-SUFFIX,x5l.ru
+DOMAIN-SUFFIX,x5media.ru
 DOMAIN-SUFFIX,x5paket.ru
 DOMAIN-SUFFIX,x5q.ru
 DOMAIN-SUFFIX,x5static.net
@@ -591,3 +592,8 @@ DOMAIN-SUFFIX,rustore.ru    #RuStore is a Russian mobile app store for Android
 DOMAIN-SUFFIX,t1.cloud    #Russian cloud storage provider
 DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)
 DOMAIN-SUFFIX,yclients.com    #Russian SaaS platform for online booking and business automation for service companies
+
+## Ideco, NGFW developer
+DOMAIN-SUFFIX,ideco.dev
+DOMAIN-SUFFIX,ideco.ru
+DOMAIN-SUFFIX,idecosoftware.ru
