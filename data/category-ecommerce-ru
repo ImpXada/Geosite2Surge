@@ -1,6 +1,8 @@
+#include:avito
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 #end include:avito
+#include:ozon
 DOMAIN-SUFFIX,ozon.by
 DOMAIN-SUFFIX,ozon.com
 DOMAIN-SUFFIX,ozon.com.by
@@ -12,6 +14,7 @@ DOMAIN-SUFFIX,ozone.ru
 DOMAIN-SUFFIX,ozonru.me
 DOMAIN-SUFFIX,ozonusercontent.com
 #end include:ozon
+#include:wildberries
 DOMAIN-SUFFIX,geobasket.ru
 DOMAIN-SUFFIX,paywb.com
 DOMAIN-SUFFIX,rwb.ru

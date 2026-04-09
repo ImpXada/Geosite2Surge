@@ -1,6 +1,5 @@
 # This list contains scholarly domains that in UK
 
-#include:cambridge
 DOMAIN-SUFFIX,cam.ac.uk
 DOMAIN-SUFFIX,cambridge.org
 DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
@@ -9,14 +8,12 @@ DOMAIN-SUFFIX,cambridgemaths.org
 DOMAIN-SUFFIX,ccdc.cam.ac.uk    #The Cambridge Structural Database
 DOMAIN-SUFFIX,dlib.eastview.com    #Cambridge Archive Editions Online 剑桥档案编研
 #end include:cambridge
-#include:imperialcollege
 DOMAIN-SUFFIX,ic.ac.uk
 DOMAIN-SUFFIX,imperial.ac.uk
 DOMAIN-SUFFIX,imperialbusiness.school
 
 DOMAIN,imperial.insendi.com
 #end include:imperialcollege
-#include:oup
 DOMAIN-SUFFIX,amamanualofstyle.com
 DOMAIN-SUFFIX,anb.org
 DOMAIN-SUFFIX,blackstonespoliceservice.com

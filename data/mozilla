@@ -1,8 +1,6 @@
-#include:firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 #end include:firefox
-#include:mdn
 DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,developer.mozilla.org
 DOMAIN-SUFFIX,mdn.allizom.net

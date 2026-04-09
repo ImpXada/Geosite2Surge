@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,autohome.tel
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autoimg.com.cn
 ## 易车‌
+#include:bitauto
 DOMAIN-SUFFIX,bitauto.com
 DOMAIN-SUFFIX,bitautoimg.com
 DOMAIN-SUFFIX,cheyisou.com
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,yiche.com
 DOMAIN-SUFFIX,yccdn.com
 #end include:bitauto
 ## 懂车帝
+#include:dongchedi
 # 渝ICP备2023013619号
 DOMAIN-SUFFIX,dcarapi.com
 DOMAIN-SUFFIX,dcarimg.com

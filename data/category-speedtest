@@ -1,4 +1,3 @@
-#include:ookla-speedtest
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cellmaps.com
 DOMAIN-SUFFIX,ekahau.cloud
@@ -19,7 +18,6 @@ DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk    #HGC Global Communi
 # Ads/tracking
 DOMAIN-WILDCARD,speed..ad.*.prod.hosts.ooklaserver.net
 #end include:ookla-speedtest
-#include:openspeedtest
 DOMAIN-SUFFIX,open.cachefly.net
 DOMAIN-SUFFIX,openspeedtest.com
 #end include:openspeedtest

@@ -1,4 +1,3 @@
-#include:sber
 # https://crt.sh/?id=24119301132
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
@@ -72,7 +71,6 @@ DOMAIN,sentry.sberauto.com
 DOMAIN,tracing-http.megamarket.tech
 DOMAIN,visor.sberbank.ru
 #end include:sber
-#include:tbank-ru
 DOMAIN-SUFFIX,bankline.ru
 DOMAIN-SUFFIX,cdn-tinkoff.ru
 DOMAIN-SUFFIX,dolyame.ru

@@ -13,9 +13,11 @@ DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,thawte.de
 DOMAIN-SUFFIX,thawte.fr
 
+#include:cybertrust
 DOMAIN-SUFFIX,cybertrust.co.jp
 DOMAIN-SUFFIX,cybertrust.ne.jp
 #end include:cybertrust
+#include:verisign-pki
 # Verisign CA
 DOMAIN-SUFFIX,adobe-crl.verisign.com
 DOMAIN-SUFFIX,certipath-aia.verisign.com
@@ -68,6 +70,7 @@ DOMAIN-SUFFIX,svrsecure-t1-crl.verisign.com
 DOMAIN-SUFFIX,svrtrial-g2-aia.verisign.com
 DOMAIN-SUFFIX,svrtrial-g2-crl.verisign.com
 #end include:verisign-pki
+#include:symantec-pki
 # Symantec CA
 DOMAIN-SUFFIX,pki.symantec.com
 DOMAIN-SUFFIX,symauth.com

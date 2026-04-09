@@ -10,10 +10,8 @@ DOMAIN-SUFFIX,taobao
 # All .tmall domains
 DOMAIN-SUFFIX,tmall
 
-#include:9game
 DOMAIN-SUFFIX,9game.cn
 #end include:9game
-#include:alibabacloud
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,alibabacloud.com.au
@@ -23,7 +21,6 @@ DOMAIN-SUFFIX,alibabacloud.com.sg
 DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,alicloud.com
 #end include:alibabacloud
-#include:aliyun
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudapi.com
@@ -105,7 +102,6 @@ DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
 DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
 DOMAIN-SUFFIX,tce.alicdn.com
 #end include:aliyun
-#include:aliyun-drive
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,aliyundrive.cloud
@@ -113,7 +109,6 @@ DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,yunpan.aliyun.com
 #end include:aliyun-drive
-#include:amap
 DOMAIN-SUFFIX,a-map.cn
 DOMAIN-SUFFIX,a-map.co
 DOMAIN-SUFFIX,a-map.link
@@ -132,7 +127,6 @@ DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 #end include:amap
-#include:cainiao
 DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
@@ -142,7 +136,6 @@ DOMAIN-SUFFIX,guoguo-app.com
 # Ads/tracking
 DOMAIN-SUFFIX,v6-adashx.ut.cainiao.com
 #end include:cainiao
-#include:dingtalk
 DOMAIN-SUFFIX,ddurl.to
 DOMAIN-SUFFIX,dingding.xin
 DOMAIN-SUFFIX,dingtalk.cn
@@ -154,7 +147,6 @@ DOMAIN-SUFFIX,laiwang.com
 DOMAIN-SUFFIX,lwurl.to
 DOMAIN-SUFFIX,ztna-dingtalk.com
 #end include:dingtalk
-#include:eleme
 DOMAIN-SUFFIX,doservice.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,ele.to
@@ -169,12 +161,10 @@ DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,h-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 #end include:eleme
-#include:teambition
 DOMAIN-SUFFIX,teambition.com
 DOMAIN-SUFFIX,teambition.net
 DOMAIN-SUFFIX,teambitionapis.com
 #end include:teambition
-#include:uc
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,uc123.com
 DOMAIN-SUFFIX,ucweb.com
@@ -184,7 +174,6 @@ DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,ads.uc.cn
 DOMAIN-SUFFIX,adslot.uc.cn
 #end include:uc
-#include:umeng
 DOMAIN-SUFFIX,cnzz.com
 DOMAIN-SUFFIX,mobmore.com
 DOMAIN-SUFFIX,puata.info
@@ -224,7 +213,6 @@ DOMAIN-SUFFIX,z.gds.cnzz.com
 # errlog.umeng.com @ads
 # errnewlog.umeng.com @ads
 #end include:umeng
-#include:youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
 
 DOMAIN-SUFFIX,kumiao.com

@@ -1,6 +1,5 @@
 DOMAIN-SUFFIX,broadcom.com
 
-#include:vmware
 DOMAIN-SUFFIX,cfblob.com
 DOMAIN-SUFFIX,cloudchoose.com
 DOMAIN-SUFFIX,cloudvolumes.com

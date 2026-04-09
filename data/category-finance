@@ -154,6 +154,138 @@ DOMAIN-SUFFIX,waveomoney.com.mm
 DOMAIN-SUFFIX,yomabank.com
 DOMAIN-SUFFIX,ysx-mm.com
 #end include:category-bank-mm
+#include:category-bank-ru
+# https://crt.sh/?id=24119301132
+DOMAIN-SUFFIX,2gis.ae
+DOMAIN-SUFFIX,2gis.am
+DOMAIN-SUFFIX,2gis.az
+DOMAIN-SUFFIX,2gis.by
+DOMAIN-SUFFIX,2gis.com
+DOMAIN-SUFFIX,2gis.com.cy
+DOMAIN-SUFFIX,2gis.cz
+DOMAIN-SUFFIX,2gis.ge
+DOMAIN-SUFFIX,2gis.kg
+DOMAIN-SUFFIX,2gis.kz
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,2gis.tj
+DOMAIN-SUFFIX,2gis.ua
+DOMAIN-SUFFIX,2gis.uz
+#end include:2gis
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+#end include:okko
+
+DOMAIN-SUFFIX,bps-sberbank.by
+DOMAIN-SUFFIX,sber-bank.by
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,sberbank.ru
+
+# Business ecosystem
+DOMAIN-SUFFIX,21-school.ru
+DOMAIN-SUFFIX,afisha.ru
+DOMAIN-SUFFIX,citydrive.ru
+DOMAIN-SUFFIX,cloud.ru
+DOMAIN-SUFFIX,cloudru.cn
+DOMAIN-SUFFIX,eapteka.ru
+DOMAIN-SUFFIX,giga.chat
+DOMAIN-SUFFIX,id.ru
+DOMAIN-SUFFIX,kuper.ru
+DOMAIN-SUFFIX,megamarket.ru
+DOMAIN-SUFFIX,megamarket.tech
+DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,samokat.ru
+DOMAIN-SUFFIX,sberauto.com
+DOMAIN-SUFFIX,sberbank-insurance.ru
+DOMAIN-SUFFIX,sbercloud.ru
+DOMAIN-SUFFIX,sbercloud.tech
+DOMAIN-SUFFIX,sberdevices.ru
+DOMAIN-SUFFIX,sberdisk.ru
+DOMAIN-SUFFIX,sberindex.ru
+DOMAIN-SUFFIX,sberbankins.ru
+DOMAIN-SUFFIX,sberhealth.ru
+DOMAIN-SUFFIX,sberleasing.ru
+DOMAIN-SUFFIX,sberlogistics.ru
+DOMAIN-SUFFIX,sbermegamarket.ru
+DOMAIN-SUFFIX,sbermobile.ru
+DOMAIN-SUFFIX,sberpb.ru
+DOMAIN-SUFFIX,sbertroika.ru
+DOMAIN-SUFFIX,spasibosb.ru
+DOMAIN-SUFFIX,spasibosberbank.ru
+DOMAIN-SUFFIX,zvuk-b2b.com
+DOMAIN-SUFFIX,zvuk.com
+
+# Sber Pro
+DOMAIN-SUFFIX,sber.pro
+DOMAIN,sberpro.vedomosti.ru
+
+# Ads/tracking
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN,clickstream.sberbank.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
+#end include:sber
+DOMAIN-SUFFIX,bankline.ru
+DOMAIN-SUFFIX,cdn-tinkoff.ru
+DOMAIN-SUFFIX,dolyame.ru
+DOMAIN-SUFFIX,phoenix-ca.ru
+DOMAIN-SUFFIX,rosbank.ru
+DOMAIN-SUFFIX,t-bank-app.ru
+DOMAIN-SUFFIX,t-j.ru
+DOMAIN-SUFFIX,t-static.ru
+DOMAIN-SUFFIX,t-technologies.ru
+DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,tbank.ru
+DOMAIN-SUFFIX,tinkoff-group.com
+DOMAIN-SUFFIX,tinkoff.ru
+DOMAIN-SUFFIX,tinkoffjournal.ru
+DOMAIN-SUFFIX,tinsurance.ru
+DOMAIN-SUFFIX,unidraw.io
+
+# Education
+DOMAIN-SUFFIX,centraluniversity.ru
+DOMAIN-SUFFIX,cu.ru
+DOMAIN,edu.tinkoff.ru
+DOMAIN,education.tbank.ru
+#end include:tbank-ru
+
+# Alfa Bank
+DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,alfabank.st
+
+# GazpromBank
+DOMAIN-SUFFIX,gazprombank.com
+DOMAIN-SUFFIX,gazprombank.investments
+DOMAIN-SUFFIX,gazprombank.ru
+DOMAIN-SUFFIX,gpb.ru
+
+# MTS Dengi
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsdengi.ru
+
+# PSB Bank
+DOMAIN-SUFFIX,payment.ru
+DOMAIN-SUFFIX,psb-ocenka.ru
+DOMAIN-SUFFIX,psb.ru
+DOMAIN-SUFFIX,psbank.ru
+
+# RUSSIA Bank
+DOMAIN-SUFFIX,abr.ru
+
+# Russian Agricultural Bank
+DOMAIN-SUFFIX,rshb.ru
+
+# Tochka bank
+DOMAIN-SUFFIX,tochka-tech.com
+DOMAIN-SUFFIX,tochka.com
+
+# VTB Bank
+DOMAIN-SUFFIX,pochtabank.ru    #subsidiary
+DOMAIN-SUFFIX,vtb.ru
+#end include:category-bank-ru
 
 #include:fibank
 DOMAIN-SUFFIX,fibank.bg
@@ -177,6 +309,76 @@ DOMAIN-SUFFIX,moomoo.com
 DOMAIN-SUFFIX,moomooequity.com
 DOMAIN-SUFFIX,moomootrustee.com
 #end include:futu
+#include:hsbc
+# TLD
+DOMAIN-SUFFIX,hsbc
+
+# General
+DOMAIN-SUFFIX,hsbc.com
+DOMAIN-SUFFIX,hsbc.net
+DOMAIN-SUFFIX,hsbcinnovationbanking.com
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbcprivatebank.com
+
+# Active Branches
+DOMAIN-SUFFIX,hsbc.ae
+DOMAIN-SUFFIX,hsbc.am
+DOMAIN-SUFFIX,hsbc.bm
+DOMAIN-SUFFIX,hsbc.co.id
+DOMAIN-SUFFIX,hsbc.co.in
+DOMAIN-SUFFIX,hsbc.co.kr
+DOMAIN-SUFFIX,hsbc.co.mu
+DOMAIN-SUFFIX,hsbc.co.nz
+DOMAIN-SUFFIX,hsbc.co.th
+
+## HSBC UK
+DOMAIN-SUFFIX,hsbc.co.uk
+DOMAIN-SUFFIX,hsbc.uk
+
+DOMAIN-SUFFIX,hsbc.com.ar
+DOMAIN-SUFFIX,hsbc.com.au
+DOMAIN-SUFFIX,hsbc.com.bd
+DOMAIN-SUFFIX,hsbc.com.bh
+DOMAIN-SUFFIX,hsbc.com.br
+
+## HSBC CN
+#include:hsbc-cn
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbcqh.com.cn
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
+#end include:hsbc-cn
+
+DOMAIN-SUFFIX,hsbc.com.eg
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com.mo
+DOMAIN-SUFFIX,hsbc.com.mt
+DOMAIN-SUFFIX,hsbc.com.mx
+
+## HSBC MY
+DOMAIN-SUFFIX,hsbc.com.my
+DOMAIN-SUFFIX,hsbcamanah.com.my
+
+DOMAIN-SUFFIX,hsbc.com.ph
+DOMAIN-SUFFIX,hsbc.com.sg
+DOMAIN-SUFFIX,hsbc.com.tr
+DOMAIN-SUFFIX,hsbc.com.tw
+DOMAIN-SUFFIX,hsbc.com.uy
+DOMAIN-SUFFIX,hsbc.com.vn
+
+## HSBC DE
+DOMAIN-SUFFIX,hsbc.de
+DOMAIN-SUFFIX,hsbc-alternatives.de
+DOMAIN-SUFFIX,hsbc-transactionservices.de
+DOMAIN-SUFFIX,hsbc-zertifikate.de
+
+DOMAIN-SUFFIX,hsbc.lk
+
+# Inactive Branches
+DOMAIN-SUFFIX,hsbc.ca
+DOMAIN-SUFFIX,hsbc.co.jp
+DOMAIN-SUFFIX,hsbc.fr
+DOMAIN-SUFFIX,hsbctrinkaus.de
+#end include:hsbc
 #include:ibkr
 DOMAIN-SUFFIX,ibkr.ca
 DOMAIN-SUFFIX,ibkr.co.in
