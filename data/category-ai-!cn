@@ -35,6 +35,12 @@ DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
 #end include:elevenlabs
+#include:envato
+DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,envato.com
+DOMAIN-SUFFIX,envatousercontent.com
+DOMAIN-SUFFIX,themeforest.net
+#end include:envato
 #include:github-copilot
 DOMAIN-SUFFIX,githubcopilot.com
 #end include:github-copilot

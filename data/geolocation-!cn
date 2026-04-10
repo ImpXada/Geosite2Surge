@@ -39,6 +39,12 @@ DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,elevenlabs.com
 DOMAIN-SUFFIX,elevenlabs.io
 #end include:elevenlabs
+#include:envato
+DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,envato.com
+DOMAIN-SUFFIX,envatousercontent.com
+DOMAIN-SUFFIX,themeforest.net
+#end include:envato
 #include:github-copilot
 DOMAIN-SUFFIX,githubcopilot.com
 #end include:github-copilot
@@ -548,6 +554,7 @@ DOMAIN-SUFFIX,webtype.com
 #end include:webtype
 
 DOMAIN-SUFFIX,bunka.go.jp
+DOMAIN-SUFFIX,uxthemes.com
 
 # Automobile
 #include:bmw
@@ -14810,6 +14817,13 @@ DOMAIN,ntp5.ntp-servers.net
 DOMAIN,ntp6.ntp-servers.net
 DOMAIN,ntp7.ntp-servers.net
 
+# TimeNL
+DOMAIN,ntp.time.nl
+DOMAIN,ntp1.time.nl
+DOMAIN,ntp2.time.nl
+DOMAIN,ntppool1.time.nl
+DOMAIN,ntppool2.time.nl
+
 DOMAIN-SUFFIX,clock.isc.org
 DOMAIN-SUFFIX,ntp.fiord.ru
 DOMAIN-SUFFIX,ntp.nat.ms
@@ -15457,6 +15471,8 @@ DOMAIN-SUFFIX,zoom.us
 DOMAIN-SUFFIX,auroraoss.com
 ## BiliPlus
 DOMAIN-SUFFIX,biliplus.com
+## Canny (Customer Feedback Management)
+DOMAIN-SUFFIX,canny.io
 ## CataBoom
 DOMAIN-SUFFIX,cataboom.com
 ## Consent Management Platforms / Cookie service
@@ -21999,15 +22015,25 @@ DOMAIN-SUFFIX,yandex
 DOMAIN-SUFFIX,xn--d1acpjx3f.xn--p1ai
 
 DOMAIN-SUFFIX,berizaryad.ru
+DOMAIN-SUFFIX,cabconnect.org
 DOMAIN-SUFFIX,clck.ru
 DOMAIN-SUFFIX,clstorage.net
+DOMAIN-SUFFIX,driveawaytaxi.org
 DOMAIN-SUFFIX,elama.ru
+DOMAIN-SUFFIX,gogettaxi.org
+DOMAIN-SUFFIX,goup.ai
+DOMAIN-SUFFIX,hayya.ae
 DOMAIN-SUFFIX,meteum.ai
+DOMAIN-SUFFIX,my-manager-account.com
 DOMAIN-SUFFIX,naydex.net
 DOMAIN-SUFFIX,rostaxi.org
 DOMAIN-SUFFIX,shedevrum.ai
 DOMAIN-SUFFIX,sourcecraft.dev
 DOMAIN-SUFFIX,static-storage.net
+DOMAIN-SUFFIX,support-uber.com
+DOMAIN-SUFFIX,taxiaid.org
+DOMAIN-SUFFIX,taxiguru.org
+DOMAIN-SUFFIX,taxitax.org
 DOMAIN-SUFFIX,turbopages.org
 DOMAIN-SUFFIX,ya.cc
 DOMAIN-SUFFIX,ya.ru
@@ -22051,9 +22077,23 @@ DOMAIN-SUFFIX,yandex.uz
 DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
+DOMAIN-SUFFIX,yandexgo.com
 DOMAIN-SUFFIX,yandexlyceum.ru
 DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
+DOMAIN-SUFFIX,yango-b2b.com
+DOMAIN-SUFFIX,yango-team.com
+DOMAIN-SUFFIX,yango-tech.com
+DOMAIN-SUFFIX,yango.africa
+DOMAIN-SUFFIX,yango.ao
+DOMAIN-SUFFIX,yango.bh
+DOMAIN-SUFFIX,yango.co.il
+DOMAIN-SUFFIX,yango.com
+DOMAIN-SUFFIX,yango.fi
+DOMAIN-SUFFIX,yango.qa
+DOMAIN-SUFFIX,yango.taxi
+DOMAIN-SUFFIX,yango.tech
+DOMAIN-SUFFIX,yangofellowship.com
 DOMAIN-SUFFIX,yastat.net
 DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
@@ -22064,7 +22104,7 @@ DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 #end include:kinopoisk
 
-#Ads/tracking
+# Ads/tracking
 DOMAIN-SUFFIX,adfox.ru
 DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,ads.yandex
@@ -22073,33 +22113,40 @@ DOMAIN-SUFFIX,webvisor.org
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
-DOMAIN,adfox.yandex.ru
-DOMAIN,adfstat.yandex.ru
-DOMAIN,ads.yandex.com
-DOMAIN,ads.yandex.ru
-DOMAIN,adsdk.yandex.ru
-DOMAIN,adv.yandex.com
-DOMAIN,adv.yandex.ru
-DOMAIN,amc.yandex.ru
-DOMAIN,an.yandex.ru
-DOMAIN,analytics.mobile.yandex.net
-DOMAIN,api.appmetrica.yandex.ru
-DOMAIN,browser-updater.yandex.net
-DOMAIN,bs.yandex.ru
-DOMAIN,clck.yandex.net
-DOMAIN,clck.yandex.ru
-DOMAIN,counter.yandex.net
-DOMAIN,counter.yandex.ru
-DOMAIN,informer.yandex.ru
-DOMAIN,mc.yandex.com
-DOMAIN,mc.yandex.ru
-DOMAIN,metrika.yandex.ru
-DOMAIN,pix.yandex.ru
-DOMAIN,pixel.yandex.net
-DOMAIN,report-partners.appmetrica.yandex.net
-DOMAIN,report.ap.yandex-net.ru
-DOMAIN,report.appmetrica.yandex.net
-DOMAIN,yabs.yandex.ru
+DOMAIN-SUFFIX,yango-ads.com
+DOMAIN-SUFFIX,domain:adfox.yandex.ru
+DOMAIN-SUFFIX,domain:adfstat.yandex.ru
+DOMAIN-SUFFIX,domain:ads.yandex.com
+DOMAIN-SUFFIX,domain:ads.yandex.ru
+DOMAIN-SUFFIX,domain:ads.yango.com
+DOMAIN-SUFFIX,domain:adsdk.yandex.ru
+DOMAIN-SUFFIX,domain:adv.yandex.com
+DOMAIN-SUFFIX,domain:adv.yandex.ru
+DOMAIN-SUFFIX,domain:amc.yandex.ru
+DOMAIN-SUFFIX,domain:an.yandex.ru
+DOMAIN-SUFFIX,domain:analytics.mobile.yandex.net
+DOMAIN-SUFFIX,domain:appmetrica.yandex.com
+DOMAIN-SUFFIX,domain:appmetrica.yandex.net
+DOMAIN-SUFFIX,domain:appmetrica.yandex.ru
+DOMAIN-SUFFIX,domain:appmetrica.yango.com
+DOMAIN-SUFFIX,domain:browser-updater.yandex.net
+DOMAIN-SUFFIX,domain:bs.yandex.ru
+DOMAIN-SUFFIX,domain:clck.yandex.com
+DOMAIN-SUFFIX,domain:clck.yandex.net
+DOMAIN-SUFFIX,domain:clck.yandex.ru
+DOMAIN-SUFFIX,domain:clck.yango.com
+DOMAIN-SUFFIX,domain:counter.yandex.net
+DOMAIN-SUFFIX,domain:counter.yandex.ru
+DOMAIN-SUFFIX,domain:informer.yandex.ru
+DOMAIN-SUFFIX,domain:mc.yandex.com
+DOMAIN-SUFFIX,domain:mc.yandex.net
+DOMAIN-SUFFIX,domain:mc.yandex.ru
+DOMAIN-SUFFIX,domain:mc.yango.com
+DOMAIN-SUFFIX,domain:metrika.yandex.ru
+DOMAIN-SUFFIX,domain:pix.yandex.ru
+DOMAIN-SUFFIX,domain:pixel.yandex.net
+DOMAIN-SUFFIX,domain:report.ap.yandex-net.ru
+DOMAIN-SUFFIX,domain:yabs.yandex.ru
 #end include:yandex
 #include:zscaler
 # https://crt.sh/?id=23639384976

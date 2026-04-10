@@ -488,6 +488,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | enfa | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/enfa |
 | entermediadb | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/entermediadb |
 | entrust | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/entrust |
+| envato | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/envato |
 | epicbrowser | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/epicbrowser |
 | epicgames | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/epicgames |
 | epochmediagroup | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/epochmediagroup |

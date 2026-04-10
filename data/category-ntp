@@ -159,6 +159,13 @@ DOMAIN,ntp5.ntp-servers.net
 DOMAIN,ntp6.ntp-servers.net
 DOMAIN,ntp7.ntp-servers.net
 
+# TimeNL
+DOMAIN,ntp.time.nl
+DOMAIN,ntp1.time.nl
+DOMAIN,ntp2.time.nl
+DOMAIN,ntppool1.time.nl
+DOMAIN,ntppool2.time.nl
+
 DOMAIN-SUFFIX,clock.isc.org
 DOMAIN-SUFFIX,ntp.fiord.ru
 DOMAIN-SUFFIX,ntp.nat.ms

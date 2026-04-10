@@ -38,31 +38,15 @@ DOMAIN,internetsehat.bebasid.com
 DOMAIN,dns.cfiec.net
 
 # Cisco OpenDNS
-
-## Standard
-DOMAIN,doh.opendns.com
-
-## FamilyShield
-DOMAIN,doh.familyshield.opendns.com
-
-## Sandbox
-DOMAIN,doh.sandbox.opendns.com
+DOMAIN-SUFFIX,opendns.com
 
 # CleanBrowsing
 DOMAIN,doh.cleanbrowsing.org
 
 # Cloudflare DNS
-
-## Standard
 DOMAIN,one.one.one.one
 DOMAIN,dns.cloudflare.com
-DOMAIN,cloudflare-dns.com
-
-## Malware blocking only
-DOMAIN,security.cloudflare-dns.com
-
-## Malware and adult content blocking
-DOMAIN,family.cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare-dns.com
 
 # ControlD
 DOMAIN,freedns.controld.com
@@ -141,12 +125,7 @@ DOMAIN,family.dns.mullvad.net
 DOMAIN,all.dns.mullvad.net
 
 # NextDNS
-
-## Ultra-low latency
-DOMAIN,dns.nextdns.io
-
-## Anycast
-DOMAIN,anycast.dns.nextdns.io
+DOMAIN-SUFFIX,nextdns.io
 
 # OpenBLD.net DNS
 

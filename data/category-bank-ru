@@ -63,6 +63,23 @@ DOMAIN-SUFFIX,zvuk.com
 DOMAIN-SUFFIX,sber.pro
 DOMAIN,sberpro.vedomosti.ru
 
+# Jivo/Jivochat/Jivosite
+DOMAIN-SUFFIX,jivo.chat
+DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.co.in
+DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,jivochat.com.co
+DOMAIN-SUFFIX,jivochat.com.pe
+DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivochat.ru
+DOMAIN-SUFFIX,jivosite.com
+DOMAIN-SUFFIX,jivosite.ru
+
 # Ads/tracking
 DOMAIN-SUFFIX,sbermarketing.ru
 DOMAIN,clickstream.sberbank.ru
