@@ -137,6 +137,7 @@ DOMAIN-SUFFIX,wtfismyip.com
 
 # Subdomains/internal api used for ip-geo-detect
 DOMAIN,checkip.amazonaws.com
+DOMAIN,ip.comss.net
 DOMAIN,ipv4-check-perf.radar.cloudflare.com
 DOMAIN,ipv6-check-perf.radar.cloudflare.com
 DOMAIN-SUFFIX,geoip.noc.gov.ru

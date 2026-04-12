@@ -204,11 +204,12 @@ DOMAIN-SUFFIX,fastlane.ci
 DOMAIN-SUFFIX,fastlane.tools
 #end include:fastlane
 #include:fedora
-DOMAIN-SUFFIX,getfedora.org
 DOMAIN-SUFFIX,fedoraforum.org
+DOMAIN-SUFFIX,fedorainfracloud.org
+DOMAIN-SUFFIX,fedoramagazine.org
 DOMAIN-SUFFIX,fedorapeople.org
 DOMAIN-SUFFIX,fedoraproject.org
-DOMAIN-SUFFIX,fedoramagazine.org
+DOMAIN-SUFFIX,getfedora.org
 #end include:fedora
 #include:firebase
 DOMAIN-SUFFIX,firebase.com

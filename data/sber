@@ -30,13 +30,15 @@ DOMAIN-SUFFIX,21-school.ru
 DOMAIN-SUFFIX,afisha.ru
 DOMAIN-SUFFIX,citydrive.ru
 DOMAIN-SUFFIX,cloud.ru
-DOMAIN-SUFFIX,cloudru.cn
+DOMAIN-SUFFIX,cloudru.cn    #HK IP
+DOMAIN-SUFFIX,eaptechka.online
 DOMAIN-SUFFIX,eapteka.ru
 DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,id.ru
 DOMAIN-SUFFIX,kuper.ru
 DOMAIN-SUFFIX,megamarket.ru
 DOMAIN-SUFFIX,megamarket.tech
+DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,otello.ru
 DOMAIN-SUFFIX,samokat.ru
 DOMAIN-SUFFIX,sberauto.com
@@ -82,8 +84,9 @@ DOMAIN-SUFFIX,jivosite.ru
 
 # Ads/tracking
 DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN,clickstream.sberbank.ru
-DOMAIN,error-tracking.megamarket.tech
-DOMAIN,sentry.sberauto.com
-DOMAIN,tracing-http.megamarket.tech
-DOMAIN,visor.sberbank.ru
+DOMAIN-SUFFIX,domain:ads.neon.click
+DOMAIN-SUFFIX,domain:clickstream.sberbank.ru
+DOMAIN-SUFFIX,domain:error-tracking.megamarket.tech
+DOMAIN-SUFFIX,domain:sentry.sberauto.com
+DOMAIN-SUFFIX,domain:tracing-http.megamarket.tech
+DOMAIN-SUFFIX,domain:visor.sberbank.ru
