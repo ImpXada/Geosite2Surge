@@ -190,62 +190,9 @@ DOMAIN-SUFFIX,willberis.ru
 DOMAIN-SUFFIX,wldberris.ru
 DOMAIN-SUFFIX,wolfberries.ru
 
-# Promotions (presumably)
-DOMAIN-SUFFIX,bansi.ru
-DOMAIN-SUFFIX,baumi.ru
-DOMAIN-SUFFIX,bokerama.ru
-DOMAIN-SUFFIX,bonbon.am
-DOMAIN-SUFFIX,caronino.com
-DOMAIN-SUFFIX,contessa.ru
-DOMAIN-SUFFIX,epilprofy.ru
-DOMAIN-SUFFIX,ewotech.ru
-DOMAIN-SUFFIX,fixgoodsport.ru
-DOMAIN-SUFFIX,foralice.online
-DOMAIN-SUFFIX,foxx-shop.ru
-DOMAIN-SUFFIX,gerronfox.com
-DOMAIN-SUFFIX,gondol.ru
-DOMAIN-SUFFIX,ikakids.ru
-DOMAIN-SUFFIX,jieshang.online
-DOMAIN-SUFFIX,jieshang.ru
-DOMAIN-SUFFIX,jieshang.shop
-DOMAIN-SUFFIX,jieshang.store
-DOMAIN-SUFFIX,katrn.ru
-DOMAIN-SUFFIX,kiddiekorner.ru
-DOMAIN-SUFFIX,lizageld.de
-DOMAIN-SUFFIX,lizageld.ru
-DOMAIN-SUFFIX,made-in-altai.ru
-DOMAIN-SUFFIX,magic-mix.ru
-DOMAIN-SUFFIX,maoshop.ru
-DOMAIN-SUFFIX,megapolis.llc
-DOMAIN-SUFFIX,mimile.ru
-DOMAIN-SUFFIX,nemocoffee.ru
-DOMAIN-SUFFIX,nuwjon.online
-DOMAIN-SUFFIX,nuwjon.ru
-DOMAIN-SUFFIX,nuwjon.shop
-DOMAIN-SUFFIX,nuwjon.store
-DOMAIN-SUFFIX,papertole.by
-DOMAIN-SUFFIX,perfect-market.ru
-DOMAIN-SUFFIX,pleamo.ru
-DOMAIN-SUFFIX,qnails.ru
-DOMAIN-SUFFIX,rugg.ru
-DOMAIN-SUFFIX,skandia-shoes.ru
-DOMAIN-SUFFIX,soomkosh.ru
-DOMAIN-SUFFIX,temka37.ru
-DOMAIN-SUFFIX,thebutik.ru
-DOMAIN-SUFFIX,tigrenok.toys
-DOMAIN-SUFFIX,tigrenoktoys.ru
-DOMAIN-SUFFIX,trendysocks.ru
-DOMAIN-SUFFIX,ucsan.ru
-DOMAIN-SUFFIX,westranger.ru
-DOMAIN-SUFFIX,xbs24.ru
-DOMAIN-SUFFIX,zanmarket.ru
-
 # IDN ccTLDs
-DOMAIN-SUFFIX,xn----7sbbqwlovjffky5gn.xn--p1ai    #хрустальный-сад.рф
-DOMAIN-SUFFIX,xn--80aapfrkg0au.xn--p1ai    #занмаркет.рф
 DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai    #вайлдберриз.рф
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai    #вайлдберис.рф
-DOMAIN-SUFFIX,xn--e1agcghdbe0a2b2a3c.xn--p1ai    #солнечныймиф.рф
 
 # Advertising and tracking
 DOMAIN-SUFFIX,domain:ads-gate.wildberries.ru
@@ -259,6 +206,8 @@ DOMAIN-SUFFIX,domain:advert-api-sandbox.wildberries.ru
 DOMAIN-SUFFIX,domain:advert-media-api.wildberries.ru
 DOMAIN-SUFFIX,domain:analytics-stage.wildberries.ru
 DOMAIN-SUFFIX,domain:analytics.wildberries.ru
+DOMAIN-SUFFIX,domain:marketing-info.wildberries.ru
+DOMAIN-SUFFIX,domain:marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,domain:sentry.wb.ru
 DOMAIN-SUFFIX,domain:web-analytics.wildberries.ru
 #end include:wildberries
@@ -589,6 +538,16 @@ DOMAIN-SUFFIX,domain:api.carrottrack.app
 DOMAIN-SUFFIX,domain:api.dashly.app
 DOMAIN-SUFFIX,domain:api.dashlytrack.app
 #end include:carrotquest
+#include:headhunter
+DOMAIN-SUFFIX,hh.by
+DOMAIN-SUFFIX,hh.kz
+DOMAIN-SUFFIX,hh.ru
+DOMAIN-SUFFIX,hhcdn.ru
+DOMAIN-SUFFIX,rabota.by
+DOMAIN-SUFFIX,setka.ru
+DOMAIN-SUFFIX,talantix.ru
+DOMAIN-SUFFIX,zarplata.ru
+#end include:headhunter
 #include:kaspersky
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kaspersky.com
@@ -813,8 +772,9 @@ DOMAIN-SUFFIX,domain:api-ru.mindbox.cloud
 DOMAIN-SUFFIX,domain:api-staging.mindbox.ru
 DOMAIN-SUFFIX,domain:api.mindbox.cloud
 DOMAIN-SUFFIX,domain:api.mindbox.ru
-DOMAIN-SUFFIX,domain:api.e.mindbox.ru
-DOMAIN-SUFFIX,domain:api.s.mindbox.ru
+DOMAIN-SUFFIX,domain:e.mindbox.ru
+DOMAIN-SUFFIX,domain:g.mindbox.ru
+DOMAIN-SUFFIX,domain:s.mindbox.ru
 DOMAIN-SUFFIX,domain:sentry.mindbox.ru
 DOMAIN-SUFFIX,domain:sentry.popmechanic.ru
 #end include:mindbox
@@ -1014,30 +974,32 @@ DOMAIN-SUFFIX,sber-bank.by
 DOMAIN-SUFFIX,sber.ru
 DOMAIN-SUFFIX,sberbank.com
 DOMAIN-SUFFIX,sberbank.ru
+DOMAIN-SUFFIX,sbrf.ru
+
+# Ads/tracking
+DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN-SUFFIX,domain:ads.sber.ru
+DOMAIN-SUFFIX,domain:clickstream.sberbank.ru
+DOMAIN-SUFFIX,domain:error-tracking.megamarket.tech
+DOMAIN-SUFFIX,domain:metrics.21-school.ru
+DOMAIN-SUFFIX,domain:sentry.sberauto.com
+DOMAIN-SUFFIX,domain:tracing-http.megamarket.tech
+DOMAIN-SUFFIX,domain:visor.sberbank.ru
 
 # Business ecosystem
-DOMAIN-SUFFIX,21-school.ru
-DOMAIN-SUFFIX,afisha.ru
-DOMAIN-SUFFIX,citydrive.ru
-DOMAIN-SUFFIX,cloud.ru
-DOMAIN-SUFFIX,cloudru.cn    #HK IP
-DOMAIN-SUFFIX,eaptechka.online
-DOMAIN-SUFFIX,eapteka.ru
-DOMAIN-SUFFIX,giga.chat
 DOMAIN-SUFFIX,id.ru
-DOMAIN-SUFFIX,kuper.ru
 DOMAIN-SUFFIX,megamarket.ru
 DOMAIN-SUFFIX,megamarket.tech
-DOMAIN-SUFFIX,neon.click
-DOMAIN-SUFFIX,otello.ru
-DOMAIN-SUFFIX,samokat.ru
 DOMAIN-SUFFIX,sberauto.com
 DOMAIN-SUFFIX,sberbank-insurance.ru
 DOMAIN-SUFFIX,sbercloud.ru
 DOMAIN-SUFFIX,sbercloud.tech
 DOMAIN-SUFFIX,sberdevices.ru
 DOMAIN-SUFFIX,sberdisk.ru
+DOMAIN-SUFFIX,sberfactoring.ru
 DOMAIN-SUFFIX,sberindex.ru
+DOMAIN-SUFFIX,sberbankaktivno.ru
 DOMAIN-SUFFIX,sberbankins.ru
 DOMAIN-SUFFIX,sberhealth.ru
 DOMAIN-SUFFIX,sberleasing.ru
@@ -1046,21 +1008,45 @@ DOMAIN-SUFFIX,sbermegamarket.ru
 DOMAIN-SUFFIX,sbermobile.ru
 DOMAIN-SUFFIX,sberpb.ru
 DOMAIN-SUFFIX,sbertroika.ru
-DOMAIN-SUFFIX,spasibosb.ru
-DOMAIN-SUFFIX,spasibosberbank.ru
-DOMAIN-SUFFIX,zvuk-b2b.com
-DOMAIN-SUFFIX,zvuk.com
 
-# Sber Pro
-DOMAIN-SUFFIX,sber.pro
-DOMAIN,sberpro.vedomosti.ru
+## Afisha
+DOMAIN-SUFFIX,afisha.ru
 
-# Jivo/Jivochat/Jivosite
+## Citydrive (carsharing)
+DOMAIN-SUFFIX,citydrive.ru
+
+## cloud.ru
+DOMAIN-SUFFIX,cloud.ru
+DOMAIN-SUFFIX,cloudru.cn    #HK
+
+## EApteka (pharmacy)
+DOMAIN-SUFFIX,eaptechka.online
+DOMAIN-SUFFIX,eapteka.ru
+
+## Education
+DOMAIN-SUFFIX,21-school.ru
+
+## Food delivery
+
+### Kuper
+DOMAIN-SUFFIX,kuper.ru
+DOMAIN-SUFFIX,restnproducts.ru
+
+### Samokat (food delivery)
+DOMAIN-SUFFIX,samokat.ru
+
+## GigaChat (AI chat)
+DOMAIN-SUFFIX,giga.chat
+
+## GitVerse
+DOMAIN-SUFFIX,gitverse.ru
+
+## Jivo/Jivochat/Jivosite (chat for website)
 DOMAIN-SUFFIX,jivo.chat
 DOMAIN-SUFFIX,jivo.ru
-DOMAIN-SUFFIX,jivochat.com
 DOMAIN-SUFFIX,jivochat.co.in
 DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com
 DOMAIN-SUFFIX,jivochat.com.br
 DOMAIN-SUFFIX,jivochat.com.co
 DOMAIN-SUFFIX,jivochat.com.pe
@@ -1072,14 +1058,34 @@ DOMAIN-SUFFIX,jivochat.ru
 DOMAIN-SUFFIX,jivosite.com
 DOMAIN-SUFFIX,jivosite.ru
 
-# Ads/tracking
-DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN-SUFFIX,domain:ads.neon.click
-DOMAIN-SUFFIX,domain:clickstream.sberbank.ru
-DOMAIN-SUFFIX,domain:error-tracking.megamarket.tech
-DOMAIN-SUFFIX,domain:sentry.sberauto.com
-DOMAIN-SUFFIX,domain:tracing-http.megamarket.tech
-DOMAIN-SUFFIX,domain:visor.sberbank.ru
+## Online payment service
+DOMAIN-SUFFIX,payecom.ru
+DOMAIN-SUFFIX,platiecom.ru
+
+## Ottelo (travel agency)
+DOMAIN-SUFFIX,otello.ru
+
+## Sber Pro
+DOMAIN-SUFFIX,sber.pro
+DOMAIN,sberpro.vedomosti.ru
+
+## Sber Spasibo (loyalty service)
+DOMAIN-SUFFIX,cplsb.ru
+DOMAIN-SUFFIX,sberspasibo.ru
+DOMAIN-SUFFIX,spasibo.digital
+DOMAIN-SUFFIX,spasibo.market
+DOMAIN-SUFFIX,spasibobonus.ru
+DOMAIN-SUFFIX,spasibosb.ru
+DOMAIN-SUFFIX,spasibosberbank.ru
+
+## Sber Tech
+DOMAIN-SUFFIX,accesspoint.uz
+DOMAIN-SUFFIX,getsynapse.io
+DOMAIN-SUFFIX,sbertech.ru
+
+# Zvuk (music streaming)
+DOMAIN-SUFFIX,zvuk-b2b.com
+DOMAIN-SUFFIX,zvuk.com
 #end include:sber
 # IDN ccTLD domains (.рф)
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai    #эра-инвестиций.рф
@@ -1143,6 +1149,7 @@ DOMAIN-SUFFIX,sage-observability.tech
 DOMAIN-SUFFIX,sgcheck.ru
 DOMAIN-SUFFIX,t-access.ru
 DOMAIN-SUFFIX,t-bank-app.ru
+DOMAIN-SUFFIX,t-bank-app.su
 DOMAIN-SUFFIX,t-bank.by
 DOMAIN-SUFFIX,t-calls.ru
 DOMAIN-SUFFIX,t-capital-funds.ru
@@ -1201,12 +1208,23 @@ DOMAIN,education.tbank.ru
 # Alfa Bank
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
+DOMAIN-SUFFIX,alfadirect.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,domain:alfabank.oavdo.amc
+
+# BCS bank
+DOMAIN-SUFFIX,bcs.ru
+DOMAIN-SUFFIX,bcs-bank.ru
+DOMAIN-SUFFIX,broker.ru
 
 # GazpromBank
 DOMAIN-SUFFIX,gazprombank.com
 DOMAIN-SUFFIX,gazprombank.investments
 DOMAIN-SUFFIX,gazprombank.ru
 DOMAIN-SUFFIX,gpb.ru
+
+# MKB
+DOMAIN-SUFFIX,mkb.ru
 
 # MTS Dengi
 DOMAIN-SUFFIX,dbo-dengi.online
@@ -1244,6 +1262,7 @@ DOMAIN-SUFFIX,finuslugi.ru
 # Investment
 DOMAIN-SUFFIX,sistema-capital.com
 # Mir payment system
+DOMAIN-SUFFIX,mironline.ru
 DOMAIN-SUFFIX,mirpayonline.ru
 # National Payment Card System
 DOMAIN-SUFFIX,nspk.ru
@@ -1262,6 +1281,7 @@ DOMAIN-SUFFIX,t2.ru
 DOMAIN-SUFFIX,tele2.ru
 
 ## Megafon
+DOMAIN-SUFFIX,inplat.ru
 DOMAIN-SUFFIX,megafon.com
 DOMAIN-SUFFIX,megafon.ru
 DOMAIN-SUFFIX,megafonpro.ru

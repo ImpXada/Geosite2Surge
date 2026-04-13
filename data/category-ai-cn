@@ -69,8 +69,12 @@ DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 
+# WorkBuddy 腾讯云代码助手
+DOMAIN-SUFFIX,codebuddy.cn
 # 腾讯混元
 DOMAIN-SUFFIX,hunyuan.tencent.com
+# 腾讯元器
+DOMAIN-SUFFIX,yuanqi.tencent.com
 
 # 百川智能
 DOMAIN-SUFFIX,baichuan-ai.com
@@ -103,3 +107,8 @@ DOMAIN-SUFFIX,aispeech.com
 DOMAIN-SUFFIX,dui.ai
 DOMAIN-SUFFIX,duiopen.com
 
+# ClawHub 中国官方镜像站 (bytedance)
+DOMAIN-SUFFIX,clawhub-mirror.com
+
+# Skillhub (tencent)
+DOMAIN-SUFFIX,skillhub.cn

@@ -3,6 +3,8 @@
 # Automobiles
 #include:category-automobile-cn
 # 汽车资讯
+## 车质网
+DOMAIN-SUFFIX,12365auto.com
 ## 汽车之家
 DOMAIN-SUFFIX,autohome.com
 DOMAIN-SUFFIX,autohome.com.cn
@@ -677,6 +679,9 @@ DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztvcdn.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,zjstv.com
+# 大河报
+DOMAIN-SUFFIX,daheapp.com
+DOMAIN-SUFFIX,dahebao.cn
 # 读特新闻
 DOMAIN-SUFFIX,dutenews.com
 # 大智慧
@@ -1583,6 +1588,8 @@ DOMAIN-SUFFIX,jsehealth.com
 DOMAIN-SUFFIX,mingxuan.store
 
 # Party and government offices & Public units
+DOMAIN-SUFFIX,12315.cn
+DOMAIN-SUFFIX,12321.cn
 DOMAIN-SUFFIX,gov.cn
 ## 中国气象局
 DOMAIN-SUFFIX,cma.cn
@@ -1592,6 +1599,8 @@ DOMAIN-SUFFIX,conac.cn
 DOMAIN-SUFFIX,nmc.cn
 ## 中国互联网联合辟谣平台
 DOMAIN-SUFFIX,piyao.org.cn
+## 中国殡葬网
+DOMAIN-SUFFIX,zgbznet.com.cn
 
 # Public transportation
 ## 中国国际航空
@@ -3582,6 +3591,7 @@ DOMAIN-SUFFIX,kq7.com
 DOMAIN-SUFFIX,ksord.com
 DOMAIN-SUFFIX,kuaaa.com
 DOMAIN-SUFFIX,kuaihou.com
+DOMAIN-SUFFIX,kuaiji.com
 DOMAIN-SUFFIX,kuaizhan.com
 DOMAIN-SUFFIX,kuqin.com
 DOMAIN-SUFFIX,kuyiso.com

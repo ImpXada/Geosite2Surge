@@ -23,13 +23,9 @@ DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 #end include:bilibili-game
 
-
 # 哔哩哔哩漫画
 DOMAIN-SUFFIX,bilicomic.com
 DOMAIN-SUFFIX,bilicomics.com
-
-DOMAIN,manga.bilibili.com
-
 
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
@@ -56,5 +52,6 @@ DOMAIN-SUFFIX,bilibilipay.com
 DOMAIN-SUFFIX,biligo.com
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,dreamcast.hk
+DOMAIN-SUFFIX,huasheng.cn
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,yo9.com

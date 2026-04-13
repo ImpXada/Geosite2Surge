@@ -19370,6 +19370,16 @@ DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
 DOMAIN,xn--flw351e.com
 #end include:google
+#include:headhunter
+DOMAIN-SUFFIX,hh.by
+DOMAIN-SUFFIX,hh.kz
+DOMAIN-SUFFIX,hh.ru
+DOMAIN-SUFFIX,hhcdn.ru
+DOMAIN-SUFFIX,rabota.by
+DOMAIN-SUFFIX,setka.ru
+DOMAIN-SUFFIX,talantix.ru
+DOMAIN-SUFFIX,zarplata.ru
+#end include:headhunter
 #include:hetzner
 DOMAIN-SUFFIX,first-ns.de
 DOMAIN-SUFFIX,hetzner-cloud.de
@@ -21099,8 +21109,9 @@ DOMAIN-SUFFIX,domain:api-ru.mindbox.cloud
 DOMAIN-SUFFIX,domain:api-staging.mindbox.ru
 DOMAIN-SUFFIX,domain:api.mindbox.cloud
 DOMAIN-SUFFIX,domain:api.mindbox.ru
-DOMAIN-SUFFIX,domain:api.e.mindbox.ru
-DOMAIN-SUFFIX,domain:api.s.mindbox.ru
+DOMAIN-SUFFIX,domain:e.mindbox.ru
+DOMAIN-SUFFIX,domain:g.mindbox.ru
+DOMAIN-SUFFIX,domain:s.mindbox.ru
 DOMAIN-SUFFIX,domain:sentry.mindbox.ru
 DOMAIN-SUFFIX,domain:sentry.popmechanic.ru
 #end include:mindbox

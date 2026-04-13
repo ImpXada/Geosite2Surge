@@ -330,6 +330,7 @@ DOMAIN-SUFFIX,dbankcdn.cn
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,dbankcloud.cn
 DOMAIN-SUFFIX,dbankcloud.com
+DOMAIN-SUFFIX,dbankcloud.ru
 DOMAIN-SUFFIX,dbankedge.cn
 DOMAIN-SUFFIX,dbankedge.net
 DOMAIN-SUFFIX,hicloud.com
@@ -348,3 +349,6 @@ DOMAIN-SUFFIX,hwtrip.com
 DOMAIN-SUFFIX,shanhaitujian.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vmallres.com
+
+# Tracking
+DOMAIN-SUFFIX,domain:dt.dbankcloud.ru

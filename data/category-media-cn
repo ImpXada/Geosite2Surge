@@ -274,6 +274,9 @@ DOMAIN-SUFFIX,cztv.com
 DOMAIN-SUFFIX,cztvcdn.com
 DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,zjstv.com
+# 大河报
+DOMAIN-SUFFIX,daheapp.com
+DOMAIN-SUFFIX,dahebao.cn
 # 读特新闻
 DOMAIN-SUFFIX,dutenews.com
 # 大智慧

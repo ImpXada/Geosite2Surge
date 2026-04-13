@@ -348,10 +348,12 @@ DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,dc.letv.com
 DOMAIN-SUFFIX,g3.letv.com
 DOMAIN-SUFFIX,ads-pixiv.net
+DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN-SUFFIX,domain:ads.neon.click
+DOMAIN-SUFFIX,domain:ads.sber.ru
 DOMAIN-SUFFIX,domain:clickstream.sberbank.ru
 DOMAIN-SUFFIX,domain:error-tracking.megamarket.tech
+DOMAIN-SUFFIX,domain:metrics.21-school.ru
 DOMAIN-SUFFIX,domain:sentry.sberauto.com
 DOMAIN-SUFFIX,domain:tracing-http.megamarket.tech
 DOMAIN-SUFFIX,domain:visor.sberbank.ru
@@ -367,6 +369,8 @@ DOMAIN-SUFFIX,domain:advert-api-sandbox.wildberries.ru
 DOMAIN-SUFFIX,domain:advert-media-api.wildberries.ru
 DOMAIN-SUFFIX,domain:analytics-stage.wildberries.ru
 DOMAIN-SUFFIX,domain:analytics.wildberries.ru
+DOMAIN-SUFFIX,domain:marketing-info.wildberries.ru
+DOMAIN-SUFFIX,domain:marketplace-sentry.wb.ru
 DOMAIN-SUFFIX,domain:sentry.wb.ru
 DOMAIN-SUFFIX,domain:web-analytics.wildberries.ru
 DOMAIN-SUFFIX,ads.yahoo.com
@@ -407,8 +411,9 @@ DOMAIN-SUFFIX,domain:api-ru.mindbox.cloud
 DOMAIN-SUFFIX,domain:api-staging.mindbox.ru
 DOMAIN-SUFFIX,domain:api.mindbox.cloud
 DOMAIN-SUFFIX,domain:api.mindbox.ru
-DOMAIN-SUFFIX,domain:api.e.mindbox.ru
-DOMAIN-SUFFIX,domain:api.s.mindbox.ru
+DOMAIN-SUFFIX,domain:e.mindbox.ru
+DOMAIN-SUFFIX,domain:g.mindbox.ru
+DOMAIN-SUFFIX,domain:s.mindbox.ru
 DOMAIN-SUFFIX,domain:sentry.mindbox.ru
 DOMAIN-SUFFIX,domain:sentry.popmechanic.ru
 DOMAIN-SUFFIX,syh.zybang.com
