@@ -1,2 +1,8 @@
 DOMAIN-SUFFIX,dzen.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX,domain:log.dzen.ru
+DOMAIN-SUFFIX,domain:ms.dzen.ru
+
+# CDN
 DOMAIN-SUFFIX,dzeninfra.ru

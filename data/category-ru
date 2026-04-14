@@ -16,202 +16,6 @@ DOMAIN-SUFFIX,xn--d1acj3b
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 #end include:tld-ru
-#include:category-ecommerce-ru
-#include:avito
-DOMAIN-SUFFIX,avito.ru
-DOMAIN-SUFFIX,avito.st
-#end include:avito
-#include:ozon
-DOMAIN-SUFFIX,ewisdom.us.kg
-DOMAIN-SUFFIX,o3.ru
-DOMAIN-SUFFIX,o3t.ru
-DOMAIN-SUFFIX,o3team.ru
-DOMAIN-SUFFIX,o-courier.ru
-DOMAIN-SUFFIX,ocourier.ru
-DOMAIN-SUFFIX,ozon-dostavka.ru
-DOMAIN-SUFFIX,ozon-credit.ru
-DOMAIN-SUFFIX,ozon-tech.ru
-DOMAIN-SUFFIX,ozon.by
-DOMAIN-SUFFIX,ozon.com
-DOMAIN-SUFFIX,ozon.com.by
-DOMAIN-SUFFIX,ozon.com.kz
-DOMAIN-SUFFIX,ozon.dev
-DOMAIN-SUFFIX,ozon.express
-DOMAIN-SUFFIX,ozon.kz
-DOMAIN-SUFFIX,ozon.li
-DOMAIN-SUFFIX,ozon.ru
-DOMAIN-SUFFIX,ozon.tech
-DOMAIN-SUFFIX,ozon.tm
-DOMAIN-SUFFIX,ozon.travel
-DOMAIN-SUFFIX,ozoncamp.pro
-DOMAIN-SUFFIX,ozoncard.ru
-DOMAIN-SUFFIX,ozoncom.by
-DOMAIN-SUFFIX,ozoncorporate.ru
-DOMAIN-SUFFIX,ozone.ru
-DOMAIN-SUFFIX,ozonglobalevents.com
-DOMAIN-SUFFIX,ozonpartners.by
-DOMAIN-SUFFIX,ozonpartners.ru
-DOMAIN-SUFFIX,ozonrocet.by
-DOMAIN-SUFFIX,ozonroket.by
-DOMAIN-SUFFIX,ozonru.co.il
-DOMAIN-SUFFIX,ozonru.com
-DOMAIN-SUFFIX,ozonru.eu
-DOMAIN-SUFFIX,ozonru.me
-DOMAIN-SUFFIX,ozonsport.ru
-DOMAIN-SUFFIX,ozonstatus.ru
-DOMAIN-SUFFIX,ozonusercontent.com
-DOMAIN-SUFFIX,rocketozon.by
-
-# IDN ccTLD
-DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai    #озон-доставка.рф
-DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai    #озондоставка.рф
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais    #озонрокет.бел
-
-# Advertising and tracking
-DOMAIN-SUFFIX,domain:ad.ozone.ru
-DOMAIN-SUFFIX,domain:adv.ozon.ru
-DOMAIN-SUFFIX,domain:agency-adv.ozon.ru
-DOMAIN-SUFFIX,domain:analytics-adv.ozon.ru
-DOMAIN-SUFFIX,domain:beginners-adv.ozon.ru
-DOMAIN-SUFFIX,domain:google-analytics-suite.ozon.ru
-DOMAIN-SUFFIX,domain:loyalnost-adv.ozon.ru
-DOMAIN-SUFFIX,domain:new-adv.ozon.ru
-DOMAIN-SUFFIX,domain:prodvizhenie-adv.ozon.ru
-DOMAIN-SUFFIX,domain:questions-adv.ozon.ru
-DOMAIN-SUFFIX,domain:sentry.ozon.ru
-DOMAIN-SUFFIX,domain:tracking.ocourier.ru
-DOMAIN-SUFFIX,domain:tracking.ozon-dostavka.ru
-DOMAIN-SUFFIX,domain:tracking.ozon.ru
-DOMAIN-SUFFIX,domain:xapi.ozon.by
-DOMAIN-SUFFIX,domain:xapi.ozon.com
-DOMAIN-SUFFIX,domain:xapi.ozon.com.by
-DOMAIN-SUFFIX,domain:xapi.ozon.com.kz
-DOMAIN-SUFFIX,domain:xapi.ozon.kz
-DOMAIN-SUFFIX,domain:xapi.ozon.ru
-DOMAIN-SUFFIX,domain:xapi.ozonru.me
-#end include:ozon
-#include:wildberries
-DOMAIN-SUFFIX,digital-wb.ru
-DOMAIN-SUFFIX,digitalwb.ru
-DOMAIN-SUFFIX,etradebook.ru
-DOMAIN-SUFFIX,geobasket.ru
-DOMAIN-SUFFIX,mp.world
-DOMAIN-SUFFIX,onlyjobs.ru
-DOMAIN-SUFFIX,paywb.com
-DOMAIN-SUFFIX,paywb.ru
-DOMAIN-SUFFIX,rwb.ru
-DOMAIN-SUFFIX,rwbautomation.ru
-DOMAIN-SUFFIX,rwbautomation.tech
-DOMAIN-SUFFIX,rwbgeo.ru
-DOMAIN-SUFFIX,russoutdoor.ru
-DOMAIN-SUFFIX,vamzakaz.ru
-DOMAIN-SUFFIX,vsemrabota.ru
-DOMAIN-SUFFIX,warehouse.domains
-DOMAIN-SUFFIX,wb-bank.ru
-DOMAIN-SUFFIX,wb-basket.ru
-DOMAIN-SUFFIX,wb-cloud.ru
-DOMAIN-SUFFIX,wb-sale.ru
-DOMAIN-SUFFIX,wb.am
-DOMAIN-SUFFIX,wb.kg
-DOMAIN-SUFFIX,wb.kz
-DOMAIN-SUFFIX,wb.ru
-DOMAIN-SUFFIX,wbautomation.ru
-DOMAIN-SUFFIX,wbautomation.tech
-DOMAIN-SUFFIX,wbbasket.ru
-DOMAIN-SUFFIX,wbdubna.ru
-DOMAIN-SUFFIX,wbkids.ru
-DOMAIN-SUFFIX,wbmail.ru
-DOMAIN-SUFFIX,wbmotivator.ru
-DOMAIN-SUFFIX,wbpay.ru
-DOMAIN-SUFFIX,wbr.by
-DOMAIN-SUFFIX,wbrep.ru
-DOMAIN-SUFFIX,wbstatic.net
-DOMAIN-SUFFIX,wbstatic.ru
-DOMAIN-SUFFIX,wbtek.ru
-DOMAIN-SUFFIX,wbwh.ru
-DOMAIN-SUFFIX,wbwh.tech
-DOMAIN-SUFFIX,wibes.com
-DOMAIN-SUFFIX,wibes.ru
-DOMAIN-SUFFIX,wildberries.am
-DOMAIN-SUFFIX,wildberries.by
-DOMAIN-SUFFIX,wildberries.co.il
-DOMAIN-SUFFIX,wildberries.es
-DOMAIN-SUFFIX,wildberries.eu
-DOMAIN-SUFFIX,wildberries.ge
-DOMAIN-SUFFIX,wildberries.kg
-DOMAIN-SUFFIX,wildberries.kz
-DOMAIN-SUFFIX,wildberries.lt
-DOMAIN-SUFFIX,wildberries.ru
-DOMAIN-SUFFIX,wildberries.tj
-DOMAIN-SUFFIX,wildberries.tm
-DOMAIN-SUFFIX,wildberries.uz
-DOMAIN-SUFFIX,xn--90ab.com
-
-# Typesquatting domains
-DOMAIN-SUFFIX,velberis.ru
-DOMAIN-SUFFIX,vildberis.ru
-DOMAIN-SUFFIX,waildberies.ru
-DOMAIN-SUFFIX,waldberies.ru
-DOMAIN-SUFFIX,waldberis.ru
-DOMAIN-SUFFIX,walderis.ru
-DOMAIN-SUFFIX,wallberis.ru
-DOMAIN-SUFFIX,weildberries.ru
-DOMAIN-SUFFIX,welberris.ru
-DOMAIN-SUFFIX,weldberies.ru
-DOMAIN-SUFFIX,weldberres.ru
-DOMAIN-SUFFIX,weldberric.ru
-DOMAIN-SUFFIX,wellberies.ru
-DOMAIN-SUFFIX,wellberes.ru
-DOMAIN-SUFFIX,widberri.ru
-DOMAIN-SUFFIX,widberris.ru
-DOMAIN-SUFFIX,wieldberris.ru
-DOMAIN-SUFFIX,wilberes.ru
-DOMAIN-SUFFIX,wilberies.ru
-DOMAIN-SUFFIX,wilberris.ru
-DOMAIN-SUFFIX,wilberry.ru
-DOMAIN-SUFFIX,wildbaries.ru
-DOMAIN-SUFFIX,wildbarries.ru
-DOMAIN-SUFFIX,wildbeeries.ru
-DOMAIN-SUFFIX,wildberiss.ru
-DOMAIN-SUFFIX,wildberr.ru
-DOMAIN-SUFFIX,wildbiries.ru
-DOMAIN-SUFFIX,wildbirris.ru
-DOMAIN-SUFFIX,wildberdes.ru
-DOMAIN-SUFFIX,wildberriess.ru
-DOMAIN-SUFFIX,wildberrise.ru
-DOMAIN-SUFFIX,wildbress.ru
-DOMAIN-SUFFIX,wildbries.ru
-DOMAIN-SUFFIX,wildbrris.ru
-DOMAIN-SUFFIX,wildeberies.ru
-DOMAIN-SUFFIX,wildeberris.ru
-DOMAIN-SUFFIX,wiliberes.ru
-DOMAIN-SUFFIX,willberiess.ru
-DOMAIN-SUFFIX,willberis.ru
-DOMAIN-SUFFIX,wldberris.ru
-DOMAIN-SUFFIX,wolfberries.ru
-
-# IDN ccTLDs
-DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai    #вайлдберриз.рф
-DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai    #вайлдберис.рф
-
-# Advertising and tracking
-DOMAIN-SUFFIX,domain:ads-gate.wildberries.ru
-DOMAIN-SUFFIX,domain:ads-media.wildberries.ru
-DOMAIN-SUFFIX,domain:ads.wildberries.ru
-DOMAIN-SUFFIX,domain:advert-api.wb.ru
-DOMAIN-SUFFIX,domain:advert-api-sandbox.wb.ru
-DOMAIN-SUFFIX,domain:advert-media-api.wb.ru
-DOMAIN-SUFFIX,domain:advert-api.wildberries.ru
-DOMAIN-SUFFIX,domain:advert-api-sandbox.wildberries.ru
-DOMAIN-SUFFIX,domain:advert-media-api.wildberries.ru
-DOMAIN-SUFFIX,domain:analytics-stage.wildberries.ru
-DOMAIN-SUFFIX,domain:analytics.wildberries.ru
-DOMAIN-SUFFIX,domain:marketing-info.wildberries.ru
-DOMAIN-SUFFIX,domain:marketplace-sentry.wb.ru
-DOMAIN-SUFFIX,domain:sentry.wb.ru
-DOMAIN-SUFFIX,domain:web-analytics.wildberries.ru
-#end include:wildberries
-#end include:category-ecommerce-ru
 #include:category-gov-ru
 # Federal Gov.
 DOMAIN-SUFFIX,government.ru
@@ -401,114 +205,49 @@ DOMAIN-SUFFIX,polyclinika.ru
 # Vipmed
 DOMAIN-SUFFIX,vipmed.ru
 #end include:category-medicine-ru
-#include:category-retail-ru
-# ABC of Taste
-DOMAIN-SUFFIX,av.ru
+#include:category-travel-ru
+# Aviasales
+#include:aviasales
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,aviasales.com
+#end include:aviasales
 
-# Auchan
-DOMAIN-SUFFIX,auchan.ru
+# BlaBlaCar
+DOMAIN-SUFFIX,blablacar.ru
 
-# Bristol
-DOMAIN-SUFFIX,bristol.ru
+# Bus stations
+DOMAIN-SUFFIX,avtovokzaly.ru
 
-# Children's World
-DOMAIN-SUFFIX,detmir.ru
+# Ostrovok
+DOMAIN-SUFFIX,ostrovok.ru
 
-# Dixie
-DOMAIN-SUFFIX,dixy.ru
+# Public transport and ticketing
+#include:mosmetro
+DOMAIN-SUFFIX,mosmetro.ru
+DOMAIN-SUFFIX,mosmetro.tech
+#end include:mosmetro
+DOMAIN,bilet.nspk.ru
+DOMAIN,metro.spb.ru
+DOMAIN,mos.transport.vtb.ru
+DOMAIN,podorozhnik.spb.ru
+DOMAIN,transport.mos.ru
+DOMAIN-SUFFIX,gorodpay.ru
+DOMAIN-SUFFIX,rrtp.ru
 
-# Dodo Pizza
-DOMAIN-SUFFIX,dodois.com
-DOMAIN-SUFFIX,dodois.io
-DOMAIN-SUFFIX,dodopizza.com
-DOMAIN-SUFFIX,dodopizza.ru
-DOMAIN-SUFFIX,dodostatic.net
+# Russian Railways
+DOMAIN-SUFFIX,rzd-bonus.ru
+DOMAIN-SUFFIX,rzd.ru
 
-# Dostaevsky
-DOMAIN-SUFFIX,dostaevsky.ru
+# Tutu
+DOMAIN-SUFFIX,tutu.ru
 
-# Eurasia
-DOMAIN-SUFFIX,evrasia.rest
+# Yandex Rent
+DOMAIN,arenda.yandex.ru
 
-# Fast food restaurant chain "Vkusno i tochka"
-DOMAIN-SUFFIX,vkusnoitochka.ru
-
-# Fix Price
-DOMAIN-SUFFIX,fix-price.com
-
-# Lenta
-DOMAIN-SUFFIX,lenta.com
-DOMAIN-SUFFIX,lenta.tech
-
-# Magnet
-DOMAIN-SUFFIX,magnit.ru
-
-# Metro
-DOMAIN-SUFFIX,metro-cc.ru
-
-# Pyaterochka, Perekrestok, Chizhik
-#include:x5
-DOMAIN-SUFFIX,5ka.ru
-DOMAIN-SUFFIX,5post.market
-DOMAIN-SUFFIX,abonementx5.ru
-DOMAIN-SUFFIX,chizhik.club
-DOMAIN-SUFFIX,clubx5.ru
-DOMAIN-SUFFIX,dialogx5.ru
-DOMAIN-SUFFIX,e5.ru
-DOMAIN-SUFFIX,fivepost.ru
-DOMAIN-SUFFIX,idx5.ru
-DOMAIN-SUFFIX,jx5.ru
-DOMAIN-SUFFIX,keyx5.ru
-DOMAIN-SUFFIX,mnogolososya.ru
-DOMAIN-SUFFIX,myapelsin.ru
-DOMAIN-SUFFIX,okolo.app
-DOMAIN-SUFFIX,perekrestok.com
-DOMAIN-SUFFIX,perekrestok.ru
-DOMAIN-SUFFIX,x5.ai
-DOMAIN-SUFFIX,x5.com
-DOMAIN-SUFFIX,x5.digital
-DOMAIN-SUFFIX,x5.group
-DOMAIN-SUFFIX,x5.media
-DOMAIN-SUFFIX,x5.ru
-DOMAIN-SUFFIX,x5.team
-DOMAIN-SUFFIX,x5.tech
-DOMAIN-SUFFIX,x5club.ru
-DOMAIN-SUFFIX,x5id.ru
-DOMAIN-SUFFIX,x5l.ru
-DOMAIN-SUFFIX,x5media.ru
-DOMAIN-SUFFIX,x5paket.ru
-DOMAIN-SUFFIX,x5q.ru
-DOMAIN-SUFFIX,x5static.net
-DOMAIN-SUFFIX,x5w.ru
-
-# Ads/tracking
-DOMAIN-SUFFIX,domain:ads.x5media.ru
-DOMAIN-SUFFIX,domain:sentry.x5.ru
-#end include:x5
-
-# Red and White
-DOMAIN-SUFFIX,krasnoeibeloe.ru
-
-# Rostics
-DOMAIN-SUFFIX,rostics.ru
-DOMAIN-SUFFIX,uni.rest
-DOMAIN-SUFFIX,unirest.tech
-
-# Sakura
-DOMAIN-SUFFIX,ilovesakura.ru
-
-# Spar
-DOMAIN-SUFFIX,myspar.ru
-
-# Sushi Wok
-DOMAIN-SUFFIX,sushiwok.ru
-
-# Vinlab
-DOMAIN-SUFFIX,winelab.ru
-
-# VkusVill
-DOMAIN-SUFFIX,vkusvill.ru
-#end include:category-retail-ru
+# Yandex Taxi
+DOMAIN,taxi.yandex.ru
+#end include:category-travel-ru
 
 # Russian companies
 #include:carrotquest
@@ -688,69 +427,336 @@ DOMAIN,s18.upd.kaspersky.com
 DOMAIN,s19.upd.kaspersky.com
 #end include:kaspersky
 #include:mailru-group
+# VK Group, formerly known as Mail.ru Group, a Russian technology company
 DOMAIN-SUFFIX,dzen.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX,domain:log.dzen.ru
+DOMAIN-SUFFIX,domain:ms.dzen.ru
+
+# CDN
 DOMAIN-SUFFIX,dzeninfra.ru
 #end include:dzen
-DOMAIN-SUFFIX,imgsmail.ru
-DOMAIN-SUFFIX,mail.ru
-#end include:mailru
+DOMAIN-SUFFIX,apiok.ru
+DOMAIN-SUFFIX,insideok.ru
+DOMAIN-SUFFIX,odkl.ru
+DOMAIN-SUFFIX,odnoklassniki.ru
+DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
-DOMAIN-SUFFIX,okcdn.ru
-DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,okl.lt
+DOMAIN-SUFFIX,oktech.ru
 
 DOMAIN,st-ok-pts.cdn-vk.ru
 DOMAIN,st-ok.cdn-vk.ru
+
+# CDN
+DOMAIN-SUFFIX,okcdn.ru
 #end include:ok
-DOMAIN-SUFFIX,cdn-vk.ru
-DOMAIN-SUFFIX,mradx.net
+# Use `geosite:mailru-group` if you want to match the entire VK Group
 DOMAIN-SUFFIX,mvk.com
-DOMAIN-SUFFIX,userapi.com
-DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,vk-apps.com
-DOMAIN-SUFFIX,vk-apps.ru
-DOMAIN-SUFFIX,vk-cdn.me
-DOMAIN-SUFFIX,vk-cdn.net
-DOMAIN-SUFFIX,vkcloud-static.ru
-DOMAIN-SUFFIX,vk-portal.net
 DOMAIN-SUFFIX,vk.cc
 DOMAIN-SUFFIX,vk.com
-DOMAIN-SUFFIX,vk.company
 DOMAIN-SUFFIX,vk.design
 DOMAIN-SUFFIX,vk.link
-DOMAIN-SUFFIX,vk.me
 DOMAIN-SUFFIX,vk.ru
-DOMAIN-SUFFIX,vk.team
-DOMAIN-SUFFIX,vkcache.com
-DOMAIN-SUFFIX,vkgo.app
-DOMAIN-SUFFIX,vklive.app
-DOMAIN-SUFFIX,vkmessenger.app
-DOMAIN-SUFFIX,vkmessenger.com
+DOMAIN-SUFFIX,vkontakte.com
 DOMAIN-SUFFIX,vkontakte.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,domain:adblogger.vk.com
+DOMAIN-SUFFIX,domain:ads.vk.com
+DOMAIN-SUFFIX,domain:ads.vk.ru
+DOMAIN-SUFFIX,domain:analytics.vk.ru
+DOMAIN-SUFFIX,domain:analytics.vk.com
+DOMAIN-SUFFIX,domain:ms.vk.com
+DOMAIN-SUFFIX,domain:ms.vk.ru
+DOMAIN-SUFFIX,domain:stats.vk-portal.net
+DOMAIN-SUFFIX,domain:target.vk.com
+DOMAIN-SUFFIX,domain:target.vk.ru
+
+# CDNs
+DOMAIN-SUFFIX,cdn-vk.net
+DOMAIN-SUFFIX,cdn-vk.ru
+DOMAIN-SUFFIX,userapi.com
+DOMAIN-SUFFIX,userapi.ru
+DOMAIN-SUFFIX,vk-cdn.me
+DOMAIN-SUFFIX,vk-cdn.net
+DOMAIN-SUFFIX,vk-portal.net
+DOMAIN-SUFFIX,vkcache.com
+DOMAIN-SUFFIX,vkcdnservice.com
+DOMAIN-SUFFIX,vkcloud-static.ru
+DOMAIN-SUFFIX,vktech-static.ru
 DOMAIN-SUFFIX,vkuser.net
+DOMAIN-SUFFIX,vkusercdn.ru
+DOMAIN-SUFFIX,vkuserphoto.ru
 DOMAIN-SUFFIX,vkuseraudio.com
 DOMAIN-SUFFIX,vkuseraudio.net
 DOMAIN-SUFFIX,vkuseraudio.ru
-DOMAIN-SUFFIX,vkusercdn.ru
+DOMAIN-SUFFIX,vkuserlive.com
 DOMAIN-SUFFIX,vkuserlive.net
-DOMAIN-SUFFIX,vkuserphoto.ru
 DOMAIN-SUFFIX,vkuservideo.com
 DOMAIN-SUFFIX,vkuservideo.net
 DOMAIN-SUFFIX,vkuservideo.ru
-DOMAIN-SUFFIX,vkvideo.ru
+
+# VK Messenger
+DOMAIN-SUFFIX,vk.me
+DOMAIN-SUFFIX,vkmessenger.app
+DOMAIN-SUFFIX,vkmessenger.com
+
+# VK Pay
+DOMAIN-SUFFIX,vkpay.app
+DOMAIN-SUFFIX,vkpay.com
+DOMAIN-SUFFIX,vkpay.io
+DOMAIN-SUFFIX,vkpay.ru
 #end include:vk
 
+DOMAIN-SUFFIX,armgs.team
+DOMAIN-SUFFIX,bargipsy.com
+DOMAIN-SUFFIX,boom.ru
 DOMAIN-SUFFIX,boosty.to
 DOMAIN-SUFFIX,donationalerts.com
-DOMAIN-SUFFIX,max.ru
+DOMAIN-SUFFIX,hrtek.ru
+DOMAIN-SUFFIX,koddobra.ru
+DOMAIN-SUFFIX,lovina.app
+DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mediumquality.ru
 DOMAIN-SUFFIX,memealerts.com
-DOMAIN-SUFFIX,oneme.ru
+DOMAIN-SUFFIX,movika.com
+DOMAIN-SUFFIX,sportmail.ru
+DOMAIN-SUFFIX,summerstage.ru
 DOMAIN-SUFFIX,tamtam.chat
+DOMAIN-SUFFIX,tech-mail.ru
+DOMAIN-SUFFIX,vk-apps.com
+DOMAIN-SUFFIX,vk-apps.ru
+DOMAIN-SUFFIX,vk-records.ru
+DOMAIN-SUFFIX,vk-stadium.ru
+DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,vk.team
+DOMAIN-SUFFIX,vkclips.app
+DOMAIN-SUFFIX,vkcs.cloud
+DOMAIN-SUFFIX,vkfest.ru
+DOMAIN-SUFFIX,vkgo.app
+DOMAIN-SUFFIX,vklive.app
+DOMAIN-SUFFIX,vkvideo.ru
+DOMAIN-SUFFIX,yclients.com
+
+# IDN ccTLD
+DOMAIN-SUFFIX,xn--80asgb.xn--p1ai    #майл.рф
+DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai    #мейл.рф
+
+# Ads and tracking
+DOMAIN-SUFFIX,adsadvisor.io
+DOMAIN-SUFFIX,apptracer.ru
+DOMAIN-SUFFIX,cxhub.ru
+DOMAIN-SUFFIX,mytrk.link    #block might break something, needs further investigation
+DOMAIN-SUFFIX,myadx.net
+DOMAIN-SUFFIX,domain:1l-hit.mail.ru
+DOMAIN-SUFFIX,domain:1l-hit.vkplay.ru
+DOMAIN-SUFFIX,domain:ad.mail.ru
+DOMAIN-SUFFIX,domain:ad4.mail.ru
+DOMAIN-SUFFIX,domain:ads-integration.rustore.ru
+DOMAIN-SUFFIX,domain:ads.dahlmessenger.com
+DOMAIN-SUFFIX,domain:ads.icq.com
+DOMAIN-SUFFIX,domain:ads.rustore.ru
+DOMAIN-SUFFIX,domain:ads.viqeo.tv
+DOMAIN-SUFFIX,domain:adsapp.dahlmessenger.com
+DOMAIN-SUFFIX,domain:adsapp.telega.info
+DOMAIN-SUFFIX,domain:adsapp.stage.telega.info
+DOMAIN-SUFFIX,domain:adv.rustore.ru
+DOMAIN-SUFFIX,domain:alt-r.my.com
+DOMAIN-SUFFIX,domain:an.mail.ru
+DOMAIN-SUFFIX,domain:b2.mail.ru
+DOMAIN-SUFFIX,domain:bs.mail.ru
+DOMAIN-SUFFIX,domain:click.rustore.ru
+DOMAIN-SUFFIX,domain:metrics.viqeo.tv
+DOMAIN-SUFFIX,domain:pixel.rustore.ru
+DOMAIN-SUFFIX,domain:r.mail.ru
+DOMAIN-SUFFIX,domain:r.my.com
+DOMAIN-SUFFIX,domain:r0.mail.ru
+DOMAIN-SUFFIX,domain:r0.mradx.net
+DOMAIN-SUFFIX,domain:r1.mail.ru
+DOMAIN-SUFFIX,domain:radar.imgsmail.ru
+DOMAIN-SUFFIX,domain:reklama.mail.ru
+DOMAIN-SUFFIX,domain:relap.mail.ru
+DOMAIN-SUFFIX,domain:rs.mail.ru
+DOMAIN-SUFFIX,domain:sentry-ng.g.smailru.net
+DOMAIN-SUFFIX,domain:sentry.dev-my.com
+DOMAIN-SUFFIX,domain:sentry.dev-my.games
+DOMAIN-SUFFIX,domain:sentry.rustore.ru
+DOMAIN-SUFFIX,domain:sentry.viqeo.tv
+DOMAIN-SUFFIX,domain:stacks.vk-portal.net
+DOMAIN-SUFFIX,domain:stats.dahlmessenger.com
+DOMAIN-SUFFIX,domain:stats.dev.telega.info
+DOMAIN-SUFFIX,domain:stats.rustore.ru
+DOMAIN-SUFFIX,domain:stats.telega.info
+DOMAIN-SUFFIX,domain:t.mail.ru
+DOMAIN-SUFFIX,domain:target.my.com
+DOMAIN-SUFFIX,domain:top-fwz1.mail.ru
+DOMAIN-SUFFIX,domain:top-staging.mail.ru
+DOMAIN-SUFFIX,domain:tracker-api.my.com
+DOMAIN-SUFFIX,domain:tracker.my.com
+DOMAIN-SUFFIX,domain:whiteline.mail.ru
+DOMAIN-SUFFIX,domain:xray.mail.ru
+
+# CDNs
+DOMAIN-SUFFIX,appsmail.ru
+DOMAIN-SUFFIX,attachmy.com
+DOMAIN-SUFFIX,bizmrg.com
+DOMAIN-SUFFIX,cdnmail.ru
+DOMAIN-SUFFIX,datacloudmy.com
+DOMAIN-SUFFIX,imgsmail.ru
+DOMAIN-SUFFIX,mpgw-my.com
+DOMAIN-SUFFIX,mradx.net
+DOMAIN-SUFFIX,mrgcdn.ru
+DOMAIN-SUFFIX,mycdn.me
+DOMAIN-SUFFIX,mytopf.com
+DOMAIN-SUFFIX,smailru.net
+DOMAIN-SUFFIX,staticmy.com
+DOMAIN-SUFFIX,vmailru.net
+
+# Ecosystem
+
+## Additional mail.ru mail domains
+DOMAIN-SUFFIX,bk.ru
+DOMAIN-SUFFIX,inbox.ru
+DOMAIN-SUFFIX,internet.ru
+DOMAIN-SUFFIX,list.ru
+
+## All Cups
+DOMAIN-SUFFIX,cups.online
+DOMAIN-SUFFIX,gamescup.ru
+DOMAIN-SUFFIX,mlbootcamp.ru
+DOMAIN-SUFFIX,russiandesigncup.ru
+
+## Education
+DOMAIN-SUFFIX,algoritmika.org
+DOMAIN-SUFFIX,code-class.ru
+DOMAIN-SUFFIX,gb.ru
+DOMAIN-SUFFIX,lerna.ru
+DOMAIN-SUFFIX,skbx.pro    #Probably a CDN
+DOMAIN-SUFFIX,skillbox.pro
+DOMAIN-SUFFIX,skillbox.ru
+DOMAIN-SUFFIX,skillfactory.ru
+DOMAIN-SUFFIX,tetrika-school.ru
+DOMAIN-SUFFIX,uchi.ru
+DOMAIN-SUFFIX,umschool.net
+DOMAIN-SUFFIX,yaklass.ru
+
+## ESforce
+DOMAIN-SUFFIX,cybersport.ru
+DOMAIN-SUFFIX,epicevents.gg
+DOMAIN-SUFFIX,esforce.com
+DOMAIN-SUFFIX,esforce.ru
+DOMAIN-SUFFIX,ruhub.tv
+
+## ICQ (deprecated)
+DOMAIN-SUFFIX,ciciq.net
+DOMAIN-SUFFIX,goicq.org
+DOMAIN-SUFFIX,icq-download.com
+DOMAIN-SUFFIX,icq-mobile.com
+DOMAIN-SUFFIX,icq-online.com
+DOMAIN-SUFFIX,icq-phone.com
+DOMAIN-SUFFIX,icq-phone.org
+DOMAIN-SUFFIX,icq.asia
+DOMAIN-SUFFIX,icq.at
+DOMAIN-SUFFIX,icq.biz
+DOMAIN-SUFFIX,icq.com
+DOMAIN-SUFFIX,icq.de
+DOMAIN-SUFFIX,icq.fr
+DOMAIN-SUFFIX,icq.eu
+DOMAIN-SUFFIX,icq.im
+DOMAIN-SUFFIX,icq.lt
+DOMAIN-SUFFIX,icq.mobi
+DOMAIN-SUFFIX,icq.org
+DOMAIN-SUFFIX,icq.ru
+DOMAIN-SUFFIX,icq.sg
+DOMAIN-SUFFIX,icq2mobile.com
+DOMAIN-SUFFIX,icq5.com
+DOMAIN-SUFFIX,icqanywhere.com
+DOMAIN-SUFFIX,icqbrasil.com
+DOMAIN-SUFFIX,icqbrazil.com
+DOMAIN-SUFFIX,icqchat.com
+DOMAIN-SUFFIX,icqflirting.com
+DOMAIN-SUFFIX,icqgame.com
+DOMAIN-SUFFIX,icqgames.com
+DOMAIN-SUFFIX,icqkids.com
+DOMAIN-SUFFIX,icqmail.com
+DOMAIN-SUFFIX,icqmail.net
+DOMAIN-SUFFIX,icqonline.com
+DOMAIN-SUFFIX,icqpassword.com
+DOMAIN-SUFFIX,icqpeople.com
+DOMAIN-SUFFIX,icqservers.com
+DOMAIN-SUFFIX,icqservice.com
+DOMAIN-SUFFIX,icqsupportteam.com
+DOMAIN-SUFFIX,icqsystem.com
+DOMAIN-SUFFIX,icqsystems.com
+DOMAIN-SUFFIX,icqtoday.com
+DOMAIN-SUFFIX,icqtutor.com
+DOMAIN-SUFFIX,icqvideo.com
+DOMAIN-SUFFIX,mailicq.org
+DOMAIN-SUFFIX,mirabilis.com
+DOMAIN-SUFFIX,mirandaicq.com
+DOMAIN-SUFFIX,mobile-icq.com
+DOMAIN-SUFFIX,mobileicq.com
+DOMAIN-SUFFIX,xn-----6kc7adj0c9esa.com    #ай-си-кью.com
+DOMAIN-SUFFIX,xn----7sbaba0dc6cdn7cxcj.com    #аська-скачать.com
+DOMAIN-SUFFIX,xn----7sbabae2a0bnvtsfr4loc.com    #аська-бесплатная.com
+DOMAIN-SUFFIX,xn----7sbbab6bregnh7b8if5b.com    #мобильная-аська.com
+DOMAIN-SUFFIX,xn----7sbbamm1bv2bh7i.com    #агент-аська.com
+DOMAIN-SUFFIX,xn----8sbaroledu6bi7j.com    #клиент-аська.com
+DOMAIN-SUFFIX,xn----8sbeoy5bze.com    #в-аське.com
+DOMAIN-SUFFIX,xn--80aqcf7a6do.com    #айсикью.com
+
+## Messenger MAX
+DOMAIN-SUFFIX,max.ru
+DOMAIN-SUFFIX,oneme.ru
+DOMAIN-SUFFIX,sferum-dev.ru
+DOMAIN-SUFFIX,sferum.ru
+
+## my.com
+DOMAIN-SUFFIX,dev-my.com
+DOMAIN-SUFFIX,my.com
+
+## my.games (formally left Russian market)
+DOMAIN-SUFFIX,dev-my.games
+DOMAIN-SUFFIX,it-territory.com
+DOMAIN-SUFFIX,knightspeak.com
+DOMAIN-SUFFIX,my.games
+DOMAIN-SUFFIX,pixonic.com
+DOMAIN-SUFFIX,prod-my.games
+
+## RuStore
+DOMAIN-SUFFIX,rustore.ru
+DOMAIN-SUFFIX,rustore.team
+DOMAIN-SUFFIX,rustore.tv
+
+## Tarantool
+DOMAIN-SUFFIX,tarantool.io
+DOMAIN-SUFFIX,tarantoolplus.ru
+
+## Telega, an alternative Telegram client
+### CAUTION: SUSPECTED SPYWARE
+### For details see: https://dontusetelega.lol/analysis
+DOMAIN-SUFFIX,aodahl.com
+DOMAIN-SUFFIX,dahl.su
+DOMAIN-SUFFIX,dahlmessenger.com
 DOMAIN-SUFFIX,telega.info
 DOMAIN-SUFFIX,telega.me
+DOMAIN-SUFFIX,tusco.ru
+
+## Viqeo
+DOMAIN-SUFFIX,viqeo.tv
+DOMAIN-SUFFIX,viqeotv.com
+
+## VK Play
+DOMAIN-SUFFIX,vkplay-arena.ru
+DOMAIN-SUFFIX,vkplay.ru
+DOMAIN-SUFFIX,vkplay.live
+
+## Youla
 DOMAIN-SUFFIX,youla.io
 DOMAIN-SUFFIX,youla.ru
-
-DOMAIN,youla-web-static.mrgcdn.ru
 #end include:mailru-group
 #include:mindbox
 DOMAIN-SUFFIX,botmechanic.io
@@ -1305,11 +1311,9 @@ DOMAIN-SUFFIX,ngenix.net    #NGENIX is a Russian provider of acceleration and se
 DOMAIN-SUFFIX,pochta.ru    #Russian post
 DOMAIN-SUFFIX,qms.ru    #Russian internet speed testing service
 DOMAIN-SUFFIX,roistat.com    #Russian marketing company
-DOMAIN-SUFFIX,rustore.ru    #RuStore is a Russian mobile app store for Android
 DOMAIN-SUFFIX,srv-hub.org    #Website buider
 DOMAIN-SUFFIX,t1.cloud    #Russian cloud storage provider
 DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)
-DOMAIN-SUFFIX,yclients.com    #Russian SaaS platform for online booking and business automation for service companies
 
 ## COMSS.ONE "Computer Security Software Russia"
 DOMAIN-SUFFIX,comss.club

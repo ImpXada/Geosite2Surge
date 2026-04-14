@@ -1026,6 +1026,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | pptv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pptv |
 | primevideo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/primevideo |
 | private | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/private |
+| progress | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/progress |
 | projectpoi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/projectpoi |
 | projectsekai | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/projectsekai |
 | proquest | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/proquest |

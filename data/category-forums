@@ -35,6 +35,12 @@ DOMAIN-SUFFIX,dslreports.com
 #end include:dslreports
 #include:dzen
 DOMAIN-SUFFIX,dzen.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX,domain:log.dzen.ru
+DOMAIN-SUFFIX,domain:ms.dzen.ru
+
+# CDN
 DOMAIN-SUFFIX,dzeninfra.ru
 #end include:dzen
 #include:habr
