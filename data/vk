@@ -9,17 +9,21 @@ DOMAIN-SUFFIX,vkontakte.com
 DOMAIN-SUFFIX,vkontakte.ru
 
 # Ads and tracking
+DOMAIN-SUFFIX,adv.vk.com
+DOMAIN-SUFFIX,analytics.vk.com
+DOMAIN-SUFFIX,ms.vk.com
+DOMAIN-SUFFIX,ms.vk.ru
+DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,domain:adblogger.vk.com
-DOMAIN-SUFFIX,domain:ads.vk.com
-DOMAIN-SUFFIX,domain:ads.vk.ru
-DOMAIN-SUFFIX,domain:analytics.vk.ru
-DOMAIN-SUFFIX,domain:analytics.vk.com
-DOMAIN-SUFFIX,domain:ms.vk.com
-DOMAIN-SUFFIX,domain:ms.vk.ru
-DOMAIN-SUFFIX,domain:stats.vk-portal.net
-DOMAIN-SUFFIX,domain:target.vk.com
-DOMAIN-SUFFIX,domain:target.vk.ru
+DOMAIN,adblogger.vk.com
+DOMAIN,adblogger.vk.ru
+DOMAIN,ads.vk.com
+DOMAIN,ads.vk.ru
+DOMAIN,adv.vk.ru
+DOMAIN,advk.vk.ru
+DOMAIN,analytics.vk.ru
+DOMAIN,stats.vk-portal.net
+DOMAIN,target.vk.com
 
 # CDNs
 DOMAIN-SUFFIX,cdn-vk.net

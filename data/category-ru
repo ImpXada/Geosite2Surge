@@ -431,8 +431,8 @@ DOMAIN,s19.upd.kaspersky.com
 DOMAIN-SUFFIX,dzen.ru
 
 # Ads and tracking
-DOMAIN-SUFFIX,domain:log.dzen.ru
-DOMAIN-SUFFIX,domain:ms.dzen.ru
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,ms.dzen.ru
 
 # CDN
 DOMAIN-SUFFIX,dzeninfra.ru
@@ -446,11 +446,10 @@ DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okl.lt
 DOMAIN-SUFFIX,oktech.ru
 
-DOMAIN,st-ok-pts.cdn-vk.ru
-DOMAIN,st-ok.cdn-vk.ru
-
 # CDN
 DOMAIN-SUFFIX,okcdn.ru
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru
 #end include:ok
 # Use `geosite:mailru-group` if you want to match the entire VK Group
 DOMAIN-SUFFIX,mvk.com
@@ -463,17 +462,21 @@ DOMAIN-SUFFIX,vkontakte.com
 DOMAIN-SUFFIX,vkontakte.ru
 
 # Ads and tracking
+DOMAIN-SUFFIX,adv.vk.com
+DOMAIN-SUFFIX,analytics.vk.com
+DOMAIN-SUFFIX,ms.vk.com
+DOMAIN-SUFFIX,ms.vk.ru
+DOMAIN-SUFFIX,target.vk.ru
 DOMAIN-SUFFIX,vk-analytics.ru
-DOMAIN-SUFFIX,domain:adblogger.vk.com
-DOMAIN-SUFFIX,domain:ads.vk.com
-DOMAIN-SUFFIX,domain:ads.vk.ru
-DOMAIN-SUFFIX,domain:analytics.vk.ru
-DOMAIN-SUFFIX,domain:analytics.vk.com
-DOMAIN-SUFFIX,domain:ms.vk.com
-DOMAIN-SUFFIX,domain:ms.vk.ru
-DOMAIN-SUFFIX,domain:stats.vk-portal.net
-DOMAIN-SUFFIX,domain:target.vk.com
-DOMAIN-SUFFIX,domain:target.vk.ru
+DOMAIN,adblogger.vk.com
+DOMAIN,adblogger.vk.ru
+DOMAIN,ads.vk.com
+DOMAIN,ads.vk.ru
+DOMAIN,adv.vk.ru
+DOMAIN,advk.vk.ru
+DOMAIN,analytics.vk.ru
+DOMAIN,stats.vk-portal.net
+DOMAIN,target.vk.com
 
 # CDNs
 DOMAIN-SUFFIX,cdn-vk.net
@@ -546,58 +549,58 @@ DOMAIN-SUFFIX,xn--80asgb.xn--p1ai    #майл.рф
 DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai    #мейл.рф
 
 # Ads and tracking
+DOMAIN-SUFFIX,ad.mail.ru
+DOMAIN-SUFFIX,ads.viqeo.tv
 DOMAIN-SUFFIX,adsadvisor.io
 DOMAIN-SUFFIX,apptracer.ru
 DOMAIN-SUFFIX,cxhub.ru
+DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN-SUFFIX,mytrk.link    #block might break something, needs further investigation
 DOMAIN-SUFFIX,myadx.net
-DOMAIN-SUFFIX,domain:1l-hit.mail.ru
-DOMAIN-SUFFIX,domain:1l-hit.vkplay.ru
-DOMAIN-SUFFIX,domain:ad.mail.ru
-DOMAIN-SUFFIX,domain:ad4.mail.ru
-DOMAIN-SUFFIX,domain:ads-integration.rustore.ru
-DOMAIN-SUFFIX,domain:ads.dahlmessenger.com
-DOMAIN-SUFFIX,domain:ads.icq.com
-DOMAIN-SUFFIX,domain:ads.rustore.ru
-DOMAIN-SUFFIX,domain:ads.viqeo.tv
-DOMAIN-SUFFIX,domain:adsapp.dahlmessenger.com
-DOMAIN-SUFFIX,domain:adsapp.telega.info
-DOMAIN-SUFFIX,domain:adsapp.stage.telega.info
-DOMAIN-SUFFIX,domain:adv.rustore.ru
-DOMAIN-SUFFIX,domain:alt-r.my.com
-DOMAIN-SUFFIX,domain:an.mail.ru
-DOMAIN-SUFFIX,domain:b2.mail.ru
-DOMAIN-SUFFIX,domain:bs.mail.ru
-DOMAIN-SUFFIX,domain:click.rustore.ru
-DOMAIN-SUFFIX,domain:metrics.viqeo.tv
-DOMAIN-SUFFIX,domain:pixel.rustore.ru
-DOMAIN-SUFFIX,domain:r.mail.ru
-DOMAIN-SUFFIX,domain:r.my.com
-DOMAIN-SUFFIX,domain:r0.mail.ru
-DOMAIN-SUFFIX,domain:r0.mradx.net
-DOMAIN-SUFFIX,domain:r1.mail.ru
-DOMAIN-SUFFIX,domain:radar.imgsmail.ru
-DOMAIN-SUFFIX,domain:reklama.mail.ru
-DOMAIN-SUFFIX,domain:relap.mail.ru
-DOMAIN-SUFFIX,domain:rs.mail.ru
-DOMAIN-SUFFIX,domain:sentry-ng.g.smailru.net
-DOMAIN-SUFFIX,domain:sentry.dev-my.com
-DOMAIN-SUFFIX,domain:sentry.dev-my.games
-DOMAIN-SUFFIX,domain:sentry.rustore.ru
-DOMAIN-SUFFIX,domain:sentry.viqeo.tv
-DOMAIN-SUFFIX,domain:stacks.vk-portal.net
-DOMAIN-SUFFIX,domain:stats.dahlmessenger.com
-DOMAIN-SUFFIX,domain:stats.dev.telega.info
-DOMAIN-SUFFIX,domain:stats.rustore.ru
-DOMAIN-SUFFIX,domain:stats.telega.info
-DOMAIN-SUFFIX,domain:t.mail.ru
-DOMAIN-SUFFIX,domain:target.my.com
-DOMAIN-SUFFIX,domain:top-fwz1.mail.ru
-DOMAIN-SUFFIX,domain:top-staging.mail.ru
-DOMAIN-SUFFIX,domain:tracker-api.my.com
-DOMAIN-SUFFIX,domain:tracker.my.com
-DOMAIN-SUFFIX,domain:whiteline.mail.ru
-DOMAIN-SUFFIX,domain:xray.mail.ru
+DOMAIN-SUFFIX,r.mail.ru
+DOMAIN-SUFFIX,radar.imgsmail.ru
+DOMAIN-SUFFIX,relap.mail.ru
+DOMAIN-SUFFIX,target.my.com
+DOMAIN-SUFFIX,top-fwz1.mail.ru
+DOMAIN-SUFFIX,tracker-api.my.com
+DOMAIN-SUFFIX,tracker.my.com
+DOMAIN,1l-hit.mail.ru
+DOMAIN,1l-hit.vkplay.ru
+DOMAIN,ad4.mail.ru
+DOMAIN,ads-integration.rustore.ru
+DOMAIN,ads.dahlmessenger.com
+DOMAIN,ads.icq.com
+DOMAIN,ads.rustore.ru
+DOMAIN,adsapp.dahlmessenger.com
+DOMAIN,adsapp.telega.info
+DOMAIN,adsapp.stage.telega.info
+DOMAIN,adv.rustore.ru
+DOMAIN,alt-r.my.com
+DOMAIN,an.mail.ru
+DOMAIN,b2.mail.ru
+DOMAIN,bs.mail.ru
+DOMAIN,click.rustore.ru
+DOMAIN,pixel.rustore.ru
+DOMAIN,r0.mail.ru
+DOMAIN,r0.mradx.net
+DOMAIN,r1.mail.ru
+DOMAIN,reklama.mail.ru
+DOMAIN,rs.mail.ru
+DOMAIN,sentry-ng.g.smailru.net
+DOMAIN,srch-telemeter10.g.smailru.net
+DOMAIN,sentry.dev-my.com
+DOMAIN,sentry.dev-my.games
+DOMAIN,sentry.rustore.ru
+DOMAIN,sentry.viqeo.tv
+DOMAIN,stacks.vk-portal.net
+DOMAIN,stats.dahlmessenger.com
+DOMAIN,stats.dev.telega.info
+DOMAIN,stats.rustore.ru
+DOMAIN,stats.telega.info
+DOMAIN,t.mail.ru
+DOMAIN,top-staging.mail.ru
+DOMAIN,whiteline.mail.ru
+DOMAIN,xray.mail.ru
 
 # CDNs
 DOMAIN-SUFFIX,appsmail.ru

@@ -7,8 +7,7 @@ DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okl.lt
 DOMAIN-SUFFIX,oktech.ru
 
-DOMAIN,st-ok-pts.cdn-vk.ru
-DOMAIN,st-ok.cdn-vk.ru
-
 # CDN
 DOMAIN-SUFFIX,okcdn.ru
+DOMAIN,st-ok-pts.cdn-vk.ru
+DOMAIN,st-ok.cdn-vk.ru

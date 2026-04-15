@@ -82,6 +82,7 @@ DOMAIN,p-events-delivery.akamaized.net
 
 #end include:apple-dev
 #include:archlinux
+DOMAIN-SUFFIX,archlinux.de
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,pkgbuild.com

@@ -2903,6 +2903,8 @@ DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,zotero.org
 #end include:zotero
 
+DOMAIN-SUFFIX,ankiuser.net
+DOMAIN-SUFFIX,ankiweb.net
 DOMAIN-SUFFIX,chemequations.com    #线上化学方程式！
 DOMAIN-SUFFIX,geogebra.org
 DOMAIN-SUFFIX,wolframalpha.com
@@ -3818,6 +3820,7 @@ DOMAIN,p-events-delivery.akamaized.net
 
 #end include:apple-dev
 #include:archlinux
+DOMAIN-SUFFIX,archlinux.de
 DOMAIN-SUFFIX,archlinux.org
 DOMAIN-SUFFIX,archlinuxarm.org
 DOMAIN-SUFFIX,pkgbuild.com

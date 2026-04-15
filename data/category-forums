@@ -37,8 +37,8 @@ DOMAIN-SUFFIX,dslreports.com
 DOMAIN-SUFFIX,dzen.ru
 
 # Ads and tracking
-DOMAIN-SUFFIX,domain:log.dzen.ru
-DOMAIN-SUFFIX,domain:ms.dzen.ru
+DOMAIN-SUFFIX,log.dzen.ru
+DOMAIN-SUFFIX,ms.dzen.ru
 
 # CDN
 DOMAIN-SUFFIX,dzeninfra.ru
