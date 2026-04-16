@@ -1356,6 +1356,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | westerndigital | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/westerndigital |
 | whatsapp | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/whatsapp |
 | wholefoodsmarket | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wholefoodsmarket |
+| whoosh | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/whoosh |
 | wikidot | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wikidot |
 | wikihow | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wikihow |
 | wikimedia | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/wikimedia |
