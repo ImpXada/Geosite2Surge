@@ -14,6 +14,11 @@ DOMAIN-SUFFIX,avtovokzaly.ru
 # Ostrovok
 DOMAIN-SUFFIX,ostrovok.ru
 
+# Othello / Otello from 2GIS and Sber
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,sber.ru
+
 # Public transport and ticketing
 #include:mosmetro
 DOMAIN-SUFFIX,mosmetro.ru
@@ -39,3 +44,4 @@ DOMAIN,arenda.yandex.ru
 
 # Yandex Taxi
 DOMAIN,taxi.yandex.ru
+DOMAIN-SUFFIX,fasten.ru

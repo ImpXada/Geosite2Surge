@@ -12,14 +12,14 @@ DOMAIN-SUFFIX,mail-carrotquest.io
 DOMAIN-SUFFIX,pushgrow.io
 
 # Tracking
-DOMAIN-SUFFIX,domain:api-eu.carrotquest.app
-DOMAIN-SUFFIX,domain:api-eu.carrotquest.io
-DOMAIN-SUFFIX,domain:api-ru.carrotquest.app
-DOMAIN-SUFFIX,domain:api-ru.carrotquest.io
-DOMAIN-SUFFIX,domain:api-secure.carrotquest.app
-DOMAIN-SUFFIX,domain:api-secure.carrottrack.app
-DOMAIN-SUFFIX,domain:api.carrotquest.app
-DOMAIN-SUFFIX,domain:api.carrotquest.io
-DOMAIN-SUFFIX,domain:api.carrottrack.app
-DOMAIN-SUFFIX,domain:api.dashly.app
-DOMAIN-SUFFIX,domain:api.dashlytrack.app
+DOMAIN,api-eu.carrotquest.app
+DOMAIN,api-eu.carrotquest.io
+DOMAIN,api-ru.carrotquest.app
+DOMAIN,api-ru.carrotquest.io
+DOMAIN,api-secure.carrotquest.app
+DOMAIN,api-secure.carrottrack.app
+DOMAIN,api.carrotquest.app
+DOMAIN,api.carrotquest.io
+DOMAIN,api.carrottrack.app
+DOMAIN,api.dashly.app
+DOMAIN,api.dashlytrack.app

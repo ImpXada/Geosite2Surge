@@ -44,21 +44,21 @@ DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai    #озондоставка.рф
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais    #озонрокет.бел
 
 # Advertising and tracking
-DOMAIN-SUFFIX,domain:ad.ozone.ru
-DOMAIN-SUFFIX,domain:adv.ozon.ru
-DOMAIN-SUFFIX,domain:agency-adv.ozon.ru
-DOMAIN-SUFFIX,domain:analytics-adv.ozon.ru
-DOMAIN-SUFFIX,domain:beginners-adv.ozon.ru
-DOMAIN-SUFFIX,domain:google-analytics-suite.ozon.ru
-DOMAIN-SUFFIX,domain:loyalnost-adv.ozon.ru
-DOMAIN-SUFFIX,domain:new-adv.ozon.ru
-DOMAIN-SUFFIX,domain:prodvizhenie-adv.ozon.ru
-DOMAIN-SUFFIX,domain:questions-adv.ozon.ru
-DOMAIN-SUFFIX,domain:sentry.ozon.ru
-DOMAIN-SUFFIX,domain:xapi.ozon.by
-DOMAIN-SUFFIX,domain:xapi.ozon.com
-DOMAIN-SUFFIX,domain:xapi.ozon.com.by
-DOMAIN-SUFFIX,domain:xapi.ozon.com.kz
-DOMAIN-SUFFIX,domain:xapi.ozon.kz
-DOMAIN-SUFFIX,domain:xapi.ozon.ru
-DOMAIN-SUFFIX,domain:xapi.ozonru.me
+DOMAIN,ad.ozone.ru
+DOMAIN,adv.ozon.ru
+DOMAIN,agency-adv.ozon.ru
+DOMAIN,analytics-adv.ozon.ru
+DOMAIN,beginners-adv.ozon.ru
+DOMAIN,google-analytics-suite.ozon.ru
+DOMAIN,loyalnost-adv.ozon.ru
+DOMAIN,new-adv.ozon.ru
+DOMAIN,prodvizhenie-adv.ozon.ru
+DOMAIN,questions-adv.ozon.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,xapi.ozon.by
+DOMAIN,xapi.ozon.com
+DOMAIN,xapi.ozon.com.by
+DOMAIN,xapi.ozon.com.kz
+DOMAIN,xapi.ozon.kz
+DOMAIN,xapi.ozon.ru
+DOMAIN,xapi.ozonru.me

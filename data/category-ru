@@ -16,6 +16,199 @@ DOMAIN-SUFFIX,xn--d1acj3b
 DOMAIN-SUFFIX,xn--p1acf
 DOMAIN-SUFFIX,xn--p1ai
 #end include:tld-ru
+#include:category-ecommerce-ru
+#include:avito
+DOMAIN-SUFFIX,avito.ru
+DOMAIN-SUFFIX,avito.st
+#end include:avito
+#include:ozon
+DOMAIN-SUFFIX,ewisdom.us.kg
+DOMAIN-SUFFIX,o3.ru
+DOMAIN-SUFFIX,o3t.ru
+DOMAIN-SUFFIX,o3team.ru
+DOMAIN-SUFFIX,o-courier.ru
+DOMAIN-SUFFIX,ocourier.ru
+DOMAIN-SUFFIX,ozon-dostavka.ru
+DOMAIN-SUFFIX,ozon-credit.ru
+DOMAIN-SUFFIX,ozon-tech.ru
+DOMAIN-SUFFIX,ozon.by
+DOMAIN-SUFFIX,ozon.com
+DOMAIN-SUFFIX,ozon.com.by
+DOMAIN-SUFFIX,ozon.com.kz
+DOMAIN-SUFFIX,ozon.dev
+DOMAIN-SUFFIX,ozon.express
+DOMAIN-SUFFIX,ozon.kz
+DOMAIN-SUFFIX,ozon.li
+DOMAIN-SUFFIX,ozon.ru
+DOMAIN-SUFFIX,ozon.tech
+DOMAIN-SUFFIX,ozon.tm
+DOMAIN-SUFFIX,ozon.travel
+DOMAIN-SUFFIX,ozoncamp.pro
+DOMAIN-SUFFIX,ozoncard.ru
+DOMAIN-SUFFIX,ozoncom.by
+DOMAIN-SUFFIX,ozoncorporate.ru
+DOMAIN-SUFFIX,ozone.ru
+DOMAIN-SUFFIX,ozonglobalevents.com
+DOMAIN-SUFFIX,ozonpartners.by
+DOMAIN-SUFFIX,ozonpartners.ru
+DOMAIN-SUFFIX,ozonrocet.by
+DOMAIN-SUFFIX,ozonroket.by
+DOMAIN-SUFFIX,ozonru.co.il
+DOMAIN-SUFFIX,ozonru.com
+DOMAIN-SUFFIX,ozonru.eu
+DOMAIN-SUFFIX,ozonru.me
+DOMAIN-SUFFIX,ozonsport.ru
+DOMAIN-SUFFIX,ozonstatus.ru
+DOMAIN-SUFFIX,ozonusercontent.com
+DOMAIN-SUFFIX,rocketozon.by
+
+# IDN ccTLD
+DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai    #озон-доставка.рф
+DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai    #озондоставка.рф
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais    #озонрокет.бел
+
+# Advertising and tracking
+DOMAIN,ad.ozone.ru
+DOMAIN,adv.ozon.ru
+DOMAIN,agency-adv.ozon.ru
+DOMAIN,analytics-adv.ozon.ru
+DOMAIN,beginners-adv.ozon.ru
+DOMAIN,google-analytics-suite.ozon.ru
+DOMAIN,loyalnost-adv.ozon.ru
+DOMAIN,new-adv.ozon.ru
+DOMAIN,prodvizhenie-adv.ozon.ru
+DOMAIN,questions-adv.ozon.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,xapi.ozon.by
+DOMAIN,xapi.ozon.com
+DOMAIN,xapi.ozon.com.by
+DOMAIN,xapi.ozon.com.kz
+DOMAIN,xapi.ozon.kz
+DOMAIN,xapi.ozon.ru
+DOMAIN,xapi.ozonru.me
+#end include:ozon
+#include:wildberries
+DOMAIN-SUFFIX,digital-wb.ru
+DOMAIN-SUFFIX,digitalwb.ru
+DOMAIN-SUFFIX,etradebook.ru
+DOMAIN-SUFFIX,geobasket.ru
+DOMAIN-SUFFIX,mp.world
+DOMAIN-SUFFIX,onlyjobs.ru
+DOMAIN-SUFFIX,paywb.com
+DOMAIN-SUFFIX,paywb.ru
+DOMAIN-SUFFIX,rwb.ru
+DOMAIN-SUFFIX,rwbautomation.ru
+DOMAIN-SUFFIX,rwbautomation.tech
+DOMAIN-SUFFIX,rwbgeo.ru
+DOMAIN-SUFFIX,russoutdoor.ru
+DOMAIN-SUFFIX,vamzakaz.ru
+DOMAIN-SUFFIX,vsemrabota.ru
+DOMAIN-SUFFIX,warehouse.domains
+DOMAIN-SUFFIX,wb-bank.ru
+DOMAIN-SUFFIX,wb-basket.ru
+DOMAIN-SUFFIX,wb-cloud.ru
+DOMAIN-SUFFIX,wb-sale.ru
+DOMAIN-SUFFIX,wb.am
+DOMAIN-SUFFIX,wb.kg
+DOMAIN-SUFFIX,wb.kz
+DOMAIN-SUFFIX,wb.ru
+DOMAIN-SUFFIX,wbautomation.ru
+DOMAIN-SUFFIX,wbautomation.tech
+DOMAIN-SUFFIX,wbbasket.ru
+DOMAIN-SUFFIX,wbdubna.ru
+DOMAIN-SUFFIX,wbkids.ru
+DOMAIN-SUFFIX,wbmail.ru
+DOMAIN-SUFFIX,wbmotivator.ru
+DOMAIN-SUFFIX,wbpay.ru
+DOMAIN-SUFFIX,wbr.by
+DOMAIN-SUFFIX,wbrep.ru
+DOMAIN-SUFFIX,wbstatic.net
+DOMAIN-SUFFIX,wbstatic.ru
+DOMAIN-SUFFIX,wbtek.ru
+DOMAIN-SUFFIX,wbwh.ru
+DOMAIN-SUFFIX,wbwh.tech
+DOMAIN-SUFFIX,wibes.com
+DOMAIN-SUFFIX,wibes.ru
+DOMAIN-SUFFIX,wildberries.am
+DOMAIN-SUFFIX,wildberries.by
+DOMAIN-SUFFIX,wildberries.co.il
+DOMAIN-SUFFIX,wildberries.es
+DOMAIN-SUFFIX,wildberries.eu
+DOMAIN-SUFFIX,wildberries.ge
+DOMAIN-SUFFIX,wildberries.kg
+DOMAIN-SUFFIX,wildberries.kz
+DOMAIN-SUFFIX,wildberries.lt
+DOMAIN-SUFFIX,wildberries.ru
+DOMAIN-SUFFIX,wildberries.tj
+DOMAIN-SUFFIX,wildberries.tm
+DOMAIN-SUFFIX,wildberries.uz
+DOMAIN-SUFFIX,xn--90ab.com    #вб.com
+
+# Typesquatting domains
+DOMAIN-SUFFIX,velberis.ru
+DOMAIN-SUFFIX,vildberis.ru
+DOMAIN-SUFFIX,waildberies.ru
+DOMAIN-SUFFIX,waldberies.ru
+DOMAIN-SUFFIX,waldberis.ru
+DOMAIN-SUFFIX,walderis.ru
+DOMAIN-SUFFIX,wallberis.ru
+DOMAIN-SUFFIX,weildberries.ru
+DOMAIN-SUFFIX,welberris.ru
+DOMAIN-SUFFIX,weldberies.ru
+DOMAIN-SUFFIX,weldberres.ru
+DOMAIN-SUFFIX,weldberric.ru
+DOMAIN-SUFFIX,wellberies.ru
+DOMAIN-SUFFIX,wellberes.ru
+DOMAIN-SUFFIX,widberri.ru
+DOMAIN-SUFFIX,widberris.ru
+DOMAIN-SUFFIX,wieldberris.ru
+DOMAIN-SUFFIX,wilberes.ru
+DOMAIN-SUFFIX,wilberies.ru
+DOMAIN-SUFFIX,wilberris.ru
+DOMAIN-SUFFIX,wilberry.ru
+DOMAIN-SUFFIX,wildbaries.ru
+DOMAIN-SUFFIX,wildbarries.ru
+DOMAIN-SUFFIX,wildbeeries.ru
+DOMAIN-SUFFIX,wildberiss.ru
+DOMAIN-SUFFIX,wildberr.ru
+DOMAIN-SUFFIX,wildbiries.ru
+DOMAIN-SUFFIX,wildbirris.ru
+DOMAIN-SUFFIX,wildberdes.ru
+DOMAIN-SUFFIX,wildberriess.ru
+DOMAIN-SUFFIX,wildberrise.ru
+DOMAIN-SUFFIX,wildbress.ru
+DOMAIN-SUFFIX,wildbries.ru
+DOMAIN-SUFFIX,wildbrris.ru
+DOMAIN-SUFFIX,wildeberies.ru
+DOMAIN-SUFFIX,wildeberris.ru
+DOMAIN-SUFFIX,wiliberes.ru
+DOMAIN-SUFFIX,willberiess.ru
+DOMAIN-SUFFIX,willberis.ru
+DOMAIN-SUFFIX,wldberris.ru
+DOMAIN-SUFFIX,wolfberries.ru
+
+# IDN ccTLDs
+DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai    #вайлдберриз.рф
+DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai    #вайлдберис.рф
+
+# Advertising and tracking
+DOMAIN,ads-gate.wildberries.ru
+DOMAIN,ads-media.wildberries.ru
+DOMAIN,ads.wildberries.ru
+DOMAIN,advert-api.wb.ru
+DOMAIN,advert-api-sandbox.wb.ru
+DOMAIN,advert-media-api.wb.ru
+DOMAIN,advert-api.wildberries.ru
+DOMAIN,advert-api-sandbox.wildberries.ru
+DOMAIN,advert-media-api.wildberries.ru
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketing-info.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,web-analytics.wildberries.ru
+#end include:wildberries
+#end include:category-ecommerce-ru
 #include:category-gov-ru
 # Federal Gov.
 DOMAIN-SUFFIX,government.ru
@@ -62,7 +255,6 @@ DOMAIN-SUFFIX,mos.ru    #Moscow
 DOMAIN-SUFFIX,mosreg.ru    #Moscow Region
 DOMAIN-SUFFIX,spb.ru    #St. Petersburg
 DOMAIN-SUFFIX,sevastopol.ru    #Sevastopol
-DOMAIN-SUFFIX,sev.ru    #Sevastopol
 
 # Republics
 DOMAIN-SUFFIX,adygeya.ru    #Republic of Adygea
@@ -205,51 +397,145 @@ DOMAIN-SUFFIX,polyclinika.ru
 # Vipmed
 DOMAIN-SUFFIX,vipmed.ru
 #end include:category-medicine-ru
-#include:category-travel-ru
-# Aviasales
-#include:aviasales
-DOMAIN-SUFFIX,avs.io
-DOMAIN-SUFFIX,aviasales.ru
-DOMAIN-SUFFIX,aviasales.com
-#end include:aviasales
+#include:category-retail-ru
+# ABC of Taste
+DOMAIN-SUFFIX,av.ru
 
-# BlaBlaCar
-DOMAIN-SUFFIX,blablacar.ru
+# Auchan
+DOMAIN-SUFFIX,auchan.ru
 
-# Bus stations
-DOMAIN-SUFFIX,avtovokzaly.ru
+# Bristol
+DOMAIN-SUFFIX,bristol.ru
 
-# Ostrovok
-DOMAIN-SUFFIX,ostrovok.ru
+# Children's World
+DOMAIN-SUFFIX,detmir.ru
 
-# Public transport and ticketing
-#include:mosmetro
-DOMAIN-SUFFIX,mosmetro.ru
-DOMAIN-SUFFIX,mosmetro.tech
-#end include:mosmetro
-DOMAIN,bilet.nspk.ru
-DOMAIN,metro.spb.ru
-DOMAIN,mos.transport.vtb.ru
-DOMAIN,podorozhnik.spb.ru
-DOMAIN,transport.mos.ru
-DOMAIN-SUFFIX,gorodpay.ru
-DOMAIN-SUFFIX,rrtp.ru
+# Dixie
+DOMAIN-SUFFIX,dixy.ru
 
-# Russian Railways
-DOMAIN-SUFFIX,rzd-bonus.ru
-DOMAIN-SUFFIX,rzd.ru
+# Dodo Pizza
+DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,dodois.io
+DOMAIN-SUFFIX,dodopizza.com
+DOMAIN-SUFFIX,dodopizza.ru
+DOMAIN-SUFFIX,dodostatic.net
 
-# Tutu
-DOMAIN-SUFFIX,tutu.ru
+# Dostaevsky
+DOMAIN-SUFFIX,dostaevsky.ru
 
-# Yandex Rent
-DOMAIN,arenda.yandex.ru
+# Eurasia
+DOMAIN-SUFFIX,evrasia.rest
 
-# Yandex Taxi
-DOMAIN,taxi.yandex.ru
-#end include:category-travel-ru
+# Fast food restaurant chain "Vkusno i tochka"
+DOMAIN-SUFFIX,vkusnoitochka.ru
+
+# Fix Price
+DOMAIN-SUFFIX,fix-price.com
+
+# Lenta
+DOMAIN-SUFFIX,lenta.com
+DOMAIN-SUFFIX,lenta.tech
+
+# Magnit
+#include:magnit
+DOMAIN-SUFFIX,kazanexpress.ru
+DOMAIN-SUFFIX,magnit.com
+DOMAIN-SUFFIX,magnit.ru
+DOMAIN-SUFFIX,mm.ru
+#end include:magnit
+
+# M.Video
+#include:mvideo
+DOMAIN-SUFFIX,acmvid.com
+DOMAIN-SUFFIX,mvideo.ru
+DOMAIN,mvideo.edna.io
+#end include:mvideo
+
+# Metro
+DOMAIN-SUFFIX,metro-cc.ru
+
+# OSKELLY
+#include:oskelly
+DOMAIN-SUFFIX,oskelly.co
+DOMAIN-SUFFIX,oskelly.ru
+#end include:oskelly
+
+# Pyaterochka, Perekrestok, Chizhik
+#include:x5
+DOMAIN-SUFFIX,5ka.ru
+DOMAIN-SUFFIX,5post.market
+DOMAIN-SUFFIX,abonementx5.ru
+DOMAIN-SUFFIX,chizhik.club
+DOMAIN-SUFFIX,clubx5.ru
+DOMAIN-SUFFIX,dialogx5.ru
+DOMAIN-SUFFIX,e5.ru
+DOMAIN-SUFFIX,fivepost.ru
+DOMAIN-SUFFIX,idx5.ru
+DOMAIN-SUFFIX,jx5.ru
+DOMAIN-SUFFIX,keyx5.ru
+DOMAIN-SUFFIX,mnogolososya.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,okolo.app
+DOMAIN-SUFFIX,perekrestok.com
+DOMAIN-SUFFIX,perekrestok.ru
+DOMAIN-SUFFIX,x5.ai
+DOMAIN-SUFFIX,x5.com
+DOMAIN-SUFFIX,x5.digital
+DOMAIN-SUFFIX,x5.group
+DOMAIN-SUFFIX,x5.media
+DOMAIN-SUFFIX,x5.ru
+DOMAIN-SUFFIX,x5.team
+DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,x5club.ru
+DOMAIN-SUFFIX,x5id.ru
+DOMAIN-SUFFIX,x5l.ru
+DOMAIN-SUFFIX,x5media.ru
+DOMAIN-SUFFIX,x5paket.ru
+DOMAIN-SUFFIX,x5q.ru
+DOMAIN-SUFFIX,x5static.net
+DOMAIN-SUFFIX,x5w.ru
+
+# Ads and tracking
+DOMAIN,ads.x5.ru
+DOMAIN,ads.x5media.ru
+DOMAIN,sentry.x5.ru
+#end include:x5
+
+# Red and White
+DOMAIN-SUFFIX,krasnoeibeloe.ru
+
+# Rostics
+DOMAIN-SUFFIX,rostics.ru
+DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,unirest.tech
+
+# Sakura
+DOMAIN-SUFFIX,ilovesakura.ru
+
+# Spar
+DOMAIN-SUFFIX,myspar.ru
+
+# SOKOLOV
+#include:sokolov
+DOMAIN-SUFFIX,sokolov.io
+DOMAIN-SUFFIX,sokolov.ru
+#end include:sokolov
+
+# Sushi Wok
+DOMAIN-SUFFIX,sushiwok.ru
+
+# Vinlab
+DOMAIN-SUFFIX,winelab.ru
+
+# VkusVill
+DOMAIN-SUFFIX,vkusvill.ru
+#end include:category-retail-ru
 
 # Russian companies
+#include:beget
+DOMAIN-SUFFIX,beget.com
+DOMAIN-SUFFIX,beget.ru
+#end include:beget
 #include:carrotquest
 DOMAIN-SUFFIX,carrot-mail.io
 DOMAIN-SUFFIX,carrotquest-mail.io
@@ -265,18 +551,23 @@ DOMAIN-SUFFIX,mail-carrotquest.io
 DOMAIN-SUFFIX,pushgrow.io
 
 # Tracking
-DOMAIN-SUFFIX,domain:api-eu.carrotquest.app
-DOMAIN-SUFFIX,domain:api-eu.carrotquest.io
-DOMAIN-SUFFIX,domain:api-ru.carrotquest.app
-DOMAIN-SUFFIX,domain:api-ru.carrotquest.io
-DOMAIN-SUFFIX,domain:api-secure.carrotquest.app
-DOMAIN-SUFFIX,domain:api-secure.carrottrack.app
-DOMAIN-SUFFIX,domain:api.carrotquest.app
-DOMAIN-SUFFIX,domain:api.carrotquest.io
-DOMAIN-SUFFIX,domain:api.carrottrack.app
-DOMAIN-SUFFIX,domain:api.dashly.app
-DOMAIN-SUFFIX,domain:api.dashlytrack.app
+DOMAIN,api-eu.carrotquest.app
+DOMAIN,api-eu.carrotquest.io
+DOMAIN,api-ru.carrotquest.app
+DOMAIN,api-ru.carrotquest.io
+DOMAIN,api-secure.carrotquest.app
+DOMAIN,api-secure.carrottrack.app
+DOMAIN,api.carrotquest.app
+DOMAIN,api.carrotquest.io
+DOMAIN,api.carrottrack.app
+DOMAIN,api.dashly.app
+DOMAIN,api.dashlytrack.app
 #end include:carrotquest
+#include:cdek
+DOMAIN-SUFFIX,ad-cdek.ru
+DOMAIN-SUFFIX,cdek.shopping
+DOMAIN-SUFFIX,cdek.ru
+#end include:cdek
 #include:headhunter
 DOMAIN-SUFFIX,hh.by
 DOMAIN-SUFFIX,hh.kz
@@ -426,6 +717,13 @@ DOMAIN,s17.upd.kaspersky.com
 DOMAIN,s18.upd.kaspersky.com
 DOMAIN,s19.upd.kaspersky.com
 #end include:kaspersky
+#include:kontur
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN-SUFFIX,kontur.host
+DOMAIN-SUFFIX,kontur-inc.com
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host
+#end include:kontur
 #include:mailru-group
 # VK Group, formerly known as Mail.ru Group, a Russian technology company
 DOMAIN-SUFFIX,dzen.ru
@@ -605,6 +903,7 @@ DOMAIN,xray.mail.ru
 
 # CDNs
 DOMAIN-SUFFIX,appsmail.ru
+DOMAIN-SUFFIX,attachmail.ru
 DOMAIN-SUFFIX,attachmy.com
 DOMAIN-SUFFIX,bizmrg.com
 DOMAIN-SUFFIX,cdnmail.ru
@@ -626,6 +925,7 @@ DOMAIN-SUFFIX,bk.ru
 DOMAIN-SUFFIX,inbox.ru
 DOMAIN-SUFFIX,internet.ru
 DOMAIN-SUFFIX,list.ru
+DOMAIN-SUFFIX,xmail.ru
 
 ## All Cups
 DOMAIN-SUFFIX,cups.online
@@ -718,11 +1018,11 @@ DOMAIN-SUFFIX,oneme.ru
 DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
 
-## my.com
+## My.com, myMail
 DOMAIN-SUFFIX,dev-my.com
 DOMAIN-SUFFIX,my.com
 
-## my.games (formally left Russian market)
+## My.Games (formally left Russian market)
 DOMAIN-SUFFIX,dev-my.games
 DOMAIN-SUFFIX,it-territory.com
 DOMAIN-SUFFIX,knightspeak.com
@@ -748,6 +1048,9 @@ DOMAIN-SUFFIX,dahlmessenger.com
 DOMAIN-SUFFIX,telega.info
 DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,tusco.ru
+
+## UMA (United Media Agency), music distributor
+DOMAIN-SUFFIX,uma.media
 
 ## Viqeo
 DOMAIN-SUFFIX,viqeo.tv
@@ -777,17 +1080,21 @@ DOMAIN-SUFFIX,popmechanic.ru
 DOMAIN-SUFFIX,summitceo.ru
 
 # Tracking
-DOMAIN-SUFFIX,domain:api-js.mindbox.ru
-DOMAIN-SUFFIX,domain:api-ru.mindbox.cloud
-DOMAIN-SUFFIX,domain:api-staging.mindbox.ru
-DOMAIN-SUFFIX,domain:api.mindbox.cloud
-DOMAIN-SUFFIX,domain:api.mindbox.ru
-DOMAIN-SUFFIX,domain:e.mindbox.ru
-DOMAIN-SUFFIX,domain:g.mindbox.ru
-DOMAIN-SUFFIX,domain:s.mindbox.ru
-DOMAIN-SUFFIX,domain:sentry.mindbox.ru
-DOMAIN-SUFFIX,domain:sentry.popmechanic.ru
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru
 #end include:mindbox
+#include:myoffice-ru
+DOMAIN-SUFFIX,myoffice.ru
+DOMAIN-SUFFIX,myoffice.team
+#end include:myoffice-ru
 #include:selectel
 DOMAIN-SUFFIX,chipcore.com
 DOMAIN-SUFFIX,chipcore.ru
@@ -814,11 +1121,30 @@ DOMAIN-SUFFIX,vscale.blog
 DOMAIN-SUFFIX,vscale.io
 DOMAIN-SUFFIX,vscale.ru
 #end include:selectel
+#include:skyeng
+DOMAIN-SUFFIX,sky.pro
+DOMAIN-SUFFIX,skyeng.ru
+#end include:skyeng
+#include:timeweb
+DOMAIN-SUFFIX,timeweb.cloud
+DOMAIN-SUFFIX,timeweb.com
+DOMAIN-SUFFIX,twcstorage.ru
+#end include:timeweb
+#include:ucoz-ru
+DOMAIN-SUFFIX,scripts-for-ucoz.ru
+DOMAIN-SUFFIX,ucoz.ru
+DOMAIN-SUFFIX,ucozmedia.ru
+DOMAIN-SUFFIX,uguide.ru
+#end include:ucoz-ru
 #include:whoosh
 DOMAIN-SUFFIX,whoosh-bike.ru
 DOMAIN-SUFFIX,whoosh.bike
 #end include:whoosh
 #include:yandex
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+#end include:kinopoisk
+
 # All .yandex domains
 DOMAIN-SUFFIX,yandex
 
@@ -910,58 +1236,91 @@ DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yccdn.ru
 
-# Watching movies, included in the Yandex subscription
-DOMAIN-SUFFIX,kinopoisk.ru
-DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
-#end include:kinopoisk
-
-# Ads/tracking
+# Ads and tracking
 DOMAIN-SUFFIX,adfox.ru
+DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,ads.yandex
+DOMAIN-SUFFIX,ads.yandex.ru
+DOMAIN-SUFFIX,adv.yandex.com
+DOMAIN-SUFFIX,adv.yandex.ru
+DOMAIN-SUFFIX,an.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yandex.com
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yango.com
+DOMAIN-SUFFIX,bs.yandex.ru
+DOMAIN-SUFFIX,clck.yandex.ru
+DOMAIN-SUFFIX,counter.yandex.ru
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,metrika.yandex.com
+DOMAIN-SUFFIX,metrika.yandex.net
+DOMAIN-SUFFIX,metrika.yandex.ru
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
+DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yango-ads.com
-DOMAIN-SUFFIX,domain:adfox.yandex.ru
-DOMAIN-SUFFIX,domain:adfstat.yandex.ru
-DOMAIN-SUFFIX,domain:ads.yandex.com
-DOMAIN-SUFFIX,domain:ads.yandex.ru
-DOMAIN-SUFFIX,domain:ads.yango.com
-DOMAIN-SUFFIX,domain:adsdk.yandex.ru
-DOMAIN-SUFFIX,domain:adv.yandex.com
-DOMAIN-SUFFIX,domain:adv.yandex.ru
-DOMAIN-SUFFIX,domain:amc.yandex.ru
-DOMAIN-SUFFIX,domain:an.yandex.ru
-DOMAIN-SUFFIX,domain:analytics.mobile.yandex.net
-DOMAIN-SUFFIX,domain:appmetrica.yandex.com
-DOMAIN-SUFFIX,domain:appmetrica.yandex.net
-DOMAIN-SUFFIX,domain:appmetrica.yandex.ru
-DOMAIN-SUFFIX,domain:appmetrica.yango.com
-DOMAIN-SUFFIX,domain:browser-updater.yandex.net
-DOMAIN-SUFFIX,domain:bs.yandex.ru
-DOMAIN-SUFFIX,domain:clck.yandex.com
-DOMAIN-SUFFIX,domain:clck.yandex.net
-DOMAIN-SUFFIX,domain:clck.yandex.ru
-DOMAIN-SUFFIX,domain:clck.yango.com
-DOMAIN-SUFFIX,domain:counter.yandex.net
-DOMAIN-SUFFIX,domain:counter.yandex.ru
-DOMAIN-SUFFIX,domain:informer.yandex.ru
-DOMAIN-SUFFIX,domain:mc.yandex.com
-DOMAIN-SUFFIX,domain:mc.yandex.net
-DOMAIN-SUFFIX,domain:mc.yandex.ru
-DOMAIN-SUFFIX,domain:mc.yango.com
-DOMAIN-SUFFIX,domain:metrika.yandex.ru
-DOMAIN-SUFFIX,domain:pix.yandex.ru
-DOMAIN-SUFFIX,domain:pixel.yandex.net
-DOMAIN-SUFFIX,domain:report.ap.yandex-net.ru
-DOMAIN-SUFFIX,domain:yabs.yandex.ru
+DOMAIN,adfstat.yandex.ru
+DOMAIN,ads.yandex.com
+DOMAIN,ads.yango.com
+DOMAIN,adsdk.yandex.ru
+DOMAIN,amc.yandex.ru
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,clck.yandex.com
+DOMAIN,clck.yandex.net
+DOMAIN,clck.yango.com
+DOMAIN,informer.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN,mc.yango.com
+DOMAIN,pixel.yandex.com
+DOMAIN,report.ap.yandex-net.ru
 #end include:yandex
 
 # Bank & Finance & Insurance & Securities
 #include:category-bank-ru
+# Alfa Bank
+DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,alfabank.st
+DOMAIN-SUFFIX,alfadirect.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,domain:alfabank.oavdo.amc
+
+# BCS bank
+DOMAIN-SUFFIX,bcs.ru
+DOMAIN-SUFFIX,bcs-bank.ru
+DOMAIN-SUFFIX,broker.ru
+
+# GazpromBank
+DOMAIN-SUFFIX,gazprombank.com
+DOMAIN-SUFFIX,gazprombank.investments
+DOMAIN-SUFFIX,gazprombank.ru
+DOMAIN-SUFFIX,gid.ru
+DOMAIN-SUFFIX,gpb.ru
+
+# MKB
+DOMAIN-SUFFIX,mkb.ru
+
+# MTS Dengi
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsdengi.ru
+
+# PSB Bank
+DOMAIN-SUFFIX,payment.ru
+DOMAIN-SUFFIX,psb-ocenka.ru
+DOMAIN-SUFFIX,psb.ru
+DOMAIN-SUFFIX,psbank.ru
+
+# RUSSIA Bank
+DOMAIN-SUFFIX,abr.ru
+
+# Russian Agricultural Bank
+DOMAIN-SUFFIX,rshb.ru
+
+# SberBank
 # https://crt.sh/?id=24119301132
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
@@ -975,9 +1334,10 @@ DOMAIN-SUFFIX,2gis.kg
 DOMAIN-SUFFIX,2gis.kz
 DOMAIN-SUFFIX,2gis.ru
 DOMAIN-SUFFIX,2gis.tj
-DOMAIN-SUFFIX,2gis.ua
 DOMAIN-SUFFIX,2gis.uz
+DOMAIN-SUFFIX,2gis.tech
 #end include:2gis
+DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
@@ -991,15 +1351,15 @@ DOMAIN-SUFFIX,sberbank.ru
 DOMAIN-SUFFIX,sbrf.ru
 
 # Ads/tracking
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN-SUFFIX,domain:ads.sber.ru
-DOMAIN-SUFFIX,domain:clickstream.sberbank.ru
-DOMAIN-SUFFIX,domain:error-tracking.megamarket.tech
-DOMAIN-SUFFIX,domain:metrics.21-school.ru
-DOMAIN-SUFFIX,domain:sentry.sberauto.com
-DOMAIN-SUFFIX,domain:tracing-http.megamarket.tech
-DOMAIN-SUFFIX,domain:visor.sberbank.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
 
 # Business ecosystem
 DOMAIN-SUFFIX,id.ru
@@ -1101,6 +1461,8 @@ DOMAIN-SUFFIX,sbertech.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
 #end include:sber
+
+# T-Bank (Tinkoff) and RosBank
 # IDN ccTLD domains (.рф)
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai    #эра-инвестиций.рф
 DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai    #фрод-рулетка.рф
@@ -1219,43 +1581,6 @@ DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
 #end include:tbank-ru
 
-# Alfa Bank
-DOMAIN-SUFFIX,alfabank.ru
-DOMAIN-SUFFIX,alfabank.st
-DOMAIN-SUFFIX,alfadirect.ru
-DOMAIN-SUFFIX,myapelsin.ru
-DOMAIN-SUFFIX,domain:alfabank.oavdo.amc
-
-# BCS bank
-DOMAIN-SUFFIX,bcs.ru
-DOMAIN-SUFFIX,bcs-bank.ru
-DOMAIN-SUFFIX,broker.ru
-
-# GazpromBank
-DOMAIN-SUFFIX,gazprombank.com
-DOMAIN-SUFFIX,gazprombank.investments
-DOMAIN-SUFFIX,gazprombank.ru
-DOMAIN-SUFFIX,gpb.ru
-
-# MKB
-DOMAIN-SUFFIX,mkb.ru
-
-# MTS Dengi
-DOMAIN-SUFFIX,dbo-dengi.online
-DOMAIN-SUFFIX,mtsdengi.ru
-
-# PSB Bank
-DOMAIN-SUFFIX,payment.ru
-DOMAIN-SUFFIX,psb-ocenka.ru
-DOMAIN-SUFFIX,psb.ru
-DOMAIN-SUFFIX,psbank.ru
-
-# RUSSIA Bank
-DOMAIN-SUFFIX,abr.ru
-
-# Russian Agricultural Bank
-DOMAIN-SUFFIX,rshb.ru
-
 # Tochka bank
 DOMAIN-SUFFIX,tochka-tech.com
 DOMAIN-SUFFIX,tochka.com
@@ -1264,25 +1589,32 @@ DOMAIN-SUFFIX,tochka.com
 DOMAIN-SUFFIX,pochtabank.ru    #subsidiary
 DOMAIN-SUFFIX,vtb.ru
 #end include:category-bank-ru
-# Credit History Bureaus
+## Credit History Bureaus
 DOMAIN-SUFFIX,credistory.ru
 DOMAIN-SUFFIX,nbki.ru
-# Currency and stock exchanges
+## Currency and stock exchanges
 DOMAIN-SUFFIX,moex.com    #Moscow Stock Exchange
 DOMAIN-SUFFIX,spvb.ru    #Saint-Petersburg Stock Exchange
-# Financial marketplace
+## Financial marketplace
 DOMAIN-SUFFIX,banki.ru
 DOMAIN-SUFFIX,finuslugi.ru
-# Investment
+## Investment
 DOMAIN-SUFFIX,sistema-capital.com
-# Mir payment system
+## Mir payment system
 DOMAIN-SUFFIX,mironline.ru
 DOMAIN-SUFFIX,mirpayonline.ru
-# National Payment Card System
+## National Payment Card System
 DOMAIN-SUFFIX,nspk.ru
-# Tipping service
+## Tipping service
 DOMAIN-SUFFIX,netmonet.co
 DOMAIN-SUFFIX,tips.tips
+
+# Media
+# NOT include category-media-ru, it's for media blocked in Russia now.
+DOMAIN-SUFFIX,russiatoday.com
+DOMAIN-SUFFIX,rteam.tech    #IT company owned by RT's parent org (ANO TV-Novosti)
+DOMAIN-SUFFIX,shop-rt.com    #RT merchandise store
+DOMAIN-SUFFIX,swentr.site    #RT mirror domain
 
 # Telecom operators
 DOMAIN-SUFFIX,beeline.ru
@@ -1322,6 +1654,22 @@ DOMAIN-SUFFIX,roistat.com    #Russian marketing company
 DOMAIN-SUFFIX,srv-hub.org    #Website buider
 DOMAIN-SUFFIX,t1.cloud    #Russian cloud storage provider
 DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)
+
+# Other services
+DOMAIN-SUFFIX,3ebra.net    #Zebra Net Bureau, web development agency
+DOMAIN-SUFFIX,envybox.io    #Website conversion widgets
+DOMAIN-SUFFIX,flomni.com    #Omnichannel communications platform
+DOMAIN-SUFFIX,flocktory.com    #Marketing personalization platform
+DOMAIN-SUFFIX,gismeteo.net    #Gismeteo weather service
+DOMAIN-SUFFIX,gismeteo.st    #Gismeteo weather service
+DOMAIN-SUFFIX,group-ib.com    #Group-IB cybersecurity company
+DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
+DOMAIN-SUFFIX,kontur.host    #SKB Kontur, business SaaS provider
+DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
+DOMAIN-SUFFIX,saas-support.com    #CDN/infrastructure for Envybox
+DOMAIN-SUFFIX,targetads.io    #Advertising verification platform
+DOMAIN-SUFFIX,whitesaas.com    #White-label product of Envybox
+DOMAIN-SUFFIX,yourgood.app    #CRM for small business
 
 ## COMSS.ONE "Computer Security Software Russia"
 DOMAIN-SUFFIX,comss.club

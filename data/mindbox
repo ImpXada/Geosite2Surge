@@ -12,13 +12,13 @@ DOMAIN-SUFFIX,popmechanic.ru
 DOMAIN-SUFFIX,summitceo.ru
 
 # Tracking
-DOMAIN-SUFFIX,domain:api-js.mindbox.ru
-DOMAIN-SUFFIX,domain:api-ru.mindbox.cloud
-DOMAIN-SUFFIX,domain:api-staging.mindbox.ru
-DOMAIN-SUFFIX,domain:api.mindbox.cloud
-DOMAIN-SUFFIX,domain:api.mindbox.ru
-DOMAIN-SUFFIX,domain:e.mindbox.ru
-DOMAIN-SUFFIX,domain:g.mindbox.ru
-DOMAIN-SUFFIX,domain:s.mindbox.ru
-DOMAIN-SUFFIX,domain:sentry.mindbox.ru
-DOMAIN-SUFFIX,domain:sentry.popmechanic.ru
+DOMAIN-SUFFIX,e.mindbox.ru
+DOMAIN-SUFFIX,g.mindbox.ru
+DOMAIN-SUFFIX,s.mindbox.ru
+DOMAIN,api-js.mindbox.ru
+DOMAIN,api-ru.mindbox.cloud
+DOMAIN,api-staging.mindbox.ru
+DOMAIN,api.mindbox.cloud
+DOMAIN,api.mindbox.ru
+DOMAIN,sentry.mindbox.ru
+DOMAIN,sentry.popmechanic.ru

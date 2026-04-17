@@ -1,3 +1,42 @@
+# Alfa Bank
+DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,alfabank.st
+DOMAIN-SUFFIX,alfadirect.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,domain:alfabank.oavdo.amc
+
+# BCS bank
+DOMAIN-SUFFIX,bcs.ru
+DOMAIN-SUFFIX,bcs-bank.ru
+DOMAIN-SUFFIX,broker.ru
+
+# GazpromBank
+DOMAIN-SUFFIX,gazprombank.com
+DOMAIN-SUFFIX,gazprombank.investments
+DOMAIN-SUFFIX,gazprombank.ru
+DOMAIN-SUFFIX,gid.ru
+DOMAIN-SUFFIX,gpb.ru
+
+# MKB
+DOMAIN-SUFFIX,mkb.ru
+
+# MTS Dengi
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsdengi.ru
+
+# PSB Bank
+DOMAIN-SUFFIX,payment.ru
+DOMAIN-SUFFIX,psb-ocenka.ru
+DOMAIN-SUFFIX,psb.ru
+DOMAIN-SUFFIX,psbank.ru
+
+# RUSSIA Bank
+DOMAIN-SUFFIX,abr.ru
+
+# Russian Agricultural Bank
+DOMAIN-SUFFIX,rshb.ru
+
+# SberBank
 # https://crt.sh/?id=24119301132
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
@@ -11,9 +50,10 @@ DOMAIN-SUFFIX,2gis.kg
 DOMAIN-SUFFIX,2gis.kz
 DOMAIN-SUFFIX,2gis.ru
 DOMAIN-SUFFIX,2gis.tj
-DOMAIN-SUFFIX,2gis.ua
 DOMAIN-SUFFIX,2gis.uz
+DOMAIN-SUFFIX,2gis.tech
 #end include:2gis
+DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
@@ -27,15 +67,15 @@ DOMAIN-SUFFIX,sberbank.ru
 DOMAIN-SUFFIX,sbrf.ru
 
 # Ads/tracking
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN-SUFFIX,domain:ads.sber.ru
-DOMAIN-SUFFIX,domain:clickstream.sberbank.ru
-DOMAIN-SUFFIX,domain:error-tracking.megamarket.tech
-DOMAIN-SUFFIX,domain:metrics.21-school.ru
-DOMAIN-SUFFIX,domain:sentry.sberauto.com
-DOMAIN-SUFFIX,domain:tracing-http.megamarket.tech
-DOMAIN-SUFFIX,domain:visor.sberbank.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
 
 # Business ecosystem
 DOMAIN-SUFFIX,id.ru
@@ -137,6 +177,8 @@ DOMAIN-SUFFIX,sbertech.ru
 DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
 #end include:sber
+
+# T-Bank (Tinkoff) and RosBank
 # IDN ccTLD domains (.рф)
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai    #эра-инвестиций.рф
 DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai    #фрод-рулетка.рф
@@ -254,43 +296,6 @@ DOMAIN-SUFFIX,tinkoff-edu.ru
 DOMAIN,edu.tinkoff.ru
 DOMAIN,education.tbank.ru
 #end include:tbank-ru
-
-# Alfa Bank
-DOMAIN-SUFFIX,alfabank.ru
-DOMAIN-SUFFIX,alfabank.st
-DOMAIN-SUFFIX,alfadirect.ru
-DOMAIN-SUFFIX,myapelsin.ru
-DOMAIN-SUFFIX,domain:alfabank.oavdo.amc
-
-# BCS bank
-DOMAIN-SUFFIX,bcs.ru
-DOMAIN-SUFFIX,bcs-bank.ru
-DOMAIN-SUFFIX,broker.ru
-
-# GazpromBank
-DOMAIN-SUFFIX,gazprombank.com
-DOMAIN-SUFFIX,gazprombank.investments
-DOMAIN-SUFFIX,gazprombank.ru
-DOMAIN-SUFFIX,gpb.ru
-
-# MKB
-DOMAIN-SUFFIX,mkb.ru
-
-# MTS Dengi
-DOMAIN-SUFFIX,dbo-dengi.online
-DOMAIN-SUFFIX,mtsdengi.ru
-
-# PSB Bank
-DOMAIN-SUFFIX,payment.ru
-DOMAIN-SUFFIX,psb-ocenka.ru
-DOMAIN-SUFFIX,psb.ru
-DOMAIN-SUFFIX,psbank.ru
-
-# RUSSIA Bank
-DOMAIN-SUFFIX,abr.ru
-
-# Russian Agricultural Bank
-DOMAIN-SUFFIX,rshb.ru
 
 # Tochka bank
 DOMAIN-SUFFIX,tochka-tech.com

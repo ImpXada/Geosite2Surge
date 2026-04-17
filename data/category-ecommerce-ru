@@ -49,24 +49,24 @@ DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai    #озондоставка.рф
 DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais    #озонрокет.бел
 
 # Advertising and tracking
-DOMAIN-SUFFIX,domain:ad.ozone.ru
-DOMAIN-SUFFIX,domain:adv.ozon.ru
-DOMAIN-SUFFIX,domain:agency-adv.ozon.ru
-DOMAIN-SUFFIX,domain:analytics-adv.ozon.ru
-DOMAIN-SUFFIX,domain:beginners-adv.ozon.ru
-DOMAIN-SUFFIX,domain:google-analytics-suite.ozon.ru
-DOMAIN-SUFFIX,domain:loyalnost-adv.ozon.ru
-DOMAIN-SUFFIX,domain:new-adv.ozon.ru
-DOMAIN-SUFFIX,domain:prodvizhenie-adv.ozon.ru
-DOMAIN-SUFFIX,domain:questions-adv.ozon.ru
-DOMAIN-SUFFIX,domain:sentry.ozon.ru
-DOMAIN-SUFFIX,domain:xapi.ozon.by
-DOMAIN-SUFFIX,domain:xapi.ozon.com
-DOMAIN-SUFFIX,domain:xapi.ozon.com.by
-DOMAIN-SUFFIX,domain:xapi.ozon.com.kz
-DOMAIN-SUFFIX,domain:xapi.ozon.kz
-DOMAIN-SUFFIX,domain:xapi.ozon.ru
-DOMAIN-SUFFIX,domain:xapi.ozonru.me
+DOMAIN,ad.ozone.ru
+DOMAIN,adv.ozon.ru
+DOMAIN,agency-adv.ozon.ru
+DOMAIN,analytics-adv.ozon.ru
+DOMAIN,beginners-adv.ozon.ru
+DOMAIN,google-analytics-suite.ozon.ru
+DOMAIN,loyalnost-adv.ozon.ru
+DOMAIN,new-adv.ozon.ru
+DOMAIN,prodvizhenie-adv.ozon.ru
+DOMAIN,questions-adv.ozon.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,xapi.ozon.by
+DOMAIN,xapi.ozon.com
+DOMAIN,xapi.ozon.com.by
+DOMAIN,xapi.ozon.com.kz
+DOMAIN,xapi.ozon.kz
+DOMAIN,xapi.ozon.ru
+DOMAIN,xapi.ozonru.me
 #end include:ozon
 #include:wildberries
 DOMAIN-SUFFIX,digital-wb.ru
@@ -123,7 +123,7 @@ DOMAIN-SUFFIX,wildberries.ru
 DOMAIN-SUFFIX,wildberries.tj
 DOMAIN-SUFFIX,wildberries.tm
 DOMAIN-SUFFIX,wildberries.uz
-DOMAIN-SUFFIX,xn--90ab.com
+DOMAIN-SUFFIX,xn--90ab.com    #вб.com
 
 # Typesquatting domains
 DOMAIN-SUFFIX,velberis.ru
@@ -173,19 +173,19 @@ DOMAIN-SUFFIX,xn--80acbjgmges7ca.xn--p1ai    #вайлдберриз.рф
 DOMAIN-SUFFIX,xn--80acbjgsdq2cl.xn--p1ai    #вайлдберис.рф
 
 # Advertising and tracking
-DOMAIN-SUFFIX,domain:ads-gate.wildberries.ru
-DOMAIN-SUFFIX,domain:ads-media.wildberries.ru
-DOMAIN-SUFFIX,domain:ads.wildberries.ru
-DOMAIN-SUFFIX,domain:advert-api.wb.ru
-DOMAIN-SUFFIX,domain:advert-api-sandbox.wb.ru
-DOMAIN-SUFFIX,domain:advert-media-api.wb.ru
-DOMAIN-SUFFIX,domain:advert-api.wildberries.ru
-DOMAIN-SUFFIX,domain:advert-api-sandbox.wildberries.ru
-DOMAIN-SUFFIX,domain:advert-media-api.wildberries.ru
-DOMAIN-SUFFIX,domain:analytics-stage.wildberries.ru
-DOMAIN-SUFFIX,domain:analytics.wildberries.ru
-DOMAIN-SUFFIX,domain:marketing-info.wildberries.ru
-DOMAIN-SUFFIX,domain:marketplace-sentry.wb.ru
-DOMAIN-SUFFIX,domain:sentry.wb.ru
-DOMAIN-SUFFIX,domain:web-analytics.wildberries.ru
+DOMAIN,ads-gate.wildberries.ru
+DOMAIN,ads-media.wildberries.ru
+DOMAIN,ads.wildberries.ru
+DOMAIN,advert-api.wb.ru
+DOMAIN,advert-api-sandbox.wb.ru
+DOMAIN,advert-media-api.wb.ru
+DOMAIN,advert-api.wildberries.ru
+DOMAIN,advert-api-sandbox.wildberries.ru
+DOMAIN,advert-media-api.wildberries.ru
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketing-info.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,web-analytics.wildberries.ru
 #end include:wildberries

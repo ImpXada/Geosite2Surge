@@ -176,6 +176,7 @@ DOMAIN,xray.mail.ru
 
 # CDNs
 DOMAIN-SUFFIX,appsmail.ru
+DOMAIN-SUFFIX,attachmail.ru
 DOMAIN-SUFFIX,attachmy.com
 DOMAIN-SUFFIX,bizmrg.com
 DOMAIN-SUFFIX,cdnmail.ru
@@ -197,6 +198,7 @@ DOMAIN-SUFFIX,bk.ru
 DOMAIN-SUFFIX,inbox.ru
 DOMAIN-SUFFIX,internet.ru
 DOMAIN-SUFFIX,list.ru
+DOMAIN-SUFFIX,xmail.ru
 
 ## All Cups
 DOMAIN-SUFFIX,cups.online
@@ -289,11 +291,11 @@ DOMAIN-SUFFIX,oneme.ru
 DOMAIN-SUFFIX,sferum-dev.ru
 DOMAIN-SUFFIX,sferum.ru
 
-## my.com
+## My.com, myMail
 DOMAIN-SUFFIX,dev-my.com
 DOMAIN-SUFFIX,my.com
 
-## my.games (formally left Russian market)
+## My.Games (formally left Russian market)
 DOMAIN-SUFFIX,dev-my.games
 DOMAIN-SUFFIX,it-territory.com
 DOMAIN-SUFFIX,knightspeak.com
@@ -319,6 +321,9 @@ DOMAIN-SUFFIX,dahlmessenger.com
 DOMAIN-SUFFIX,telega.info
 DOMAIN-SUFFIX,telega.me
 DOMAIN-SUFFIX,tusco.ru
+
+## UMA (United Media Agency), music distributor
+DOMAIN-SUFFIX,uma.media
 
 ## Viqeo
 DOMAIN-SUFFIX,viqeo.tv

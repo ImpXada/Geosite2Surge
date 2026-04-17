@@ -11,9 +11,10 @@ DOMAIN-SUFFIX,2gis.kg
 DOMAIN-SUFFIX,2gis.kz
 DOMAIN-SUFFIX,2gis.ru
 DOMAIN-SUFFIX,2gis.tj
-DOMAIN-SUFFIX,2gis.ua
 DOMAIN-SUFFIX,2gis.uz
+DOMAIN-SUFFIX,2gis.tech
 #end include:2gis
+DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
@@ -27,15 +28,15 @@ DOMAIN-SUFFIX,sberbank.ru
 DOMAIN-SUFFIX,sbrf.ru
 
 # Ads/tracking
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
 DOMAIN-SUFFIX,neon.click
 DOMAIN-SUFFIX,sbermarketing.ru
-DOMAIN-SUFFIX,domain:ads.sber.ru
-DOMAIN-SUFFIX,domain:clickstream.sberbank.ru
-DOMAIN-SUFFIX,domain:error-tracking.megamarket.tech
-DOMAIN-SUFFIX,domain:metrics.21-school.ru
-DOMAIN-SUFFIX,domain:sentry.sberauto.com
-DOMAIN-SUFFIX,domain:tracing-http.megamarket.tech
-DOMAIN-SUFFIX,domain:visor.sberbank.ru
+DOMAIN,error-tracking.megamarket.tech
+DOMAIN,metrics.21-school.ru
+DOMAIN,sentry.sberauto.com
+DOMAIN,tracing-http.megamarket.tech
+DOMAIN,visor.sberbank.ru
 
 # Business ecosystem
 DOMAIN-SUFFIX,id.ru

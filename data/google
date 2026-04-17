@@ -193,6 +193,9 @@ DOMAIN,antigravity-pa.googleapis.com
 DOMAIN,antigravity.googleapis.com
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
+
+# Stitch
+DOMAIN-SUFFIX,stitch.withgoogle.com
 #end include:google-deepmind
 #include:google-gemini
 # This list is for backward compatibility
@@ -254,6 +257,9 @@ DOMAIN,antigravity-pa.googleapis.com
 DOMAIN,antigravity.googleapis.com
 DOMAIN-SUFFIX,antigravity.google
 DOMAIN-SUFFIX,antigravity-unleash.goog
+
+# Stitch
+DOMAIN-SUFFIX,stitch.withgoogle.com
 #end include:google-deepmind
 #end include:google-gemini
 #include:google-play

@@ -36,11 +36,29 @@ DOMAIN-SUFFIX,fix-price.com
 DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
 
-# Magnet
+# Magnit
+#include:magnit
+DOMAIN-SUFFIX,kazanexpress.ru
+DOMAIN-SUFFIX,magnit.com
 DOMAIN-SUFFIX,magnit.ru
+DOMAIN-SUFFIX,mm.ru
+#end include:magnit
+
+# M.Video
+#include:mvideo
+DOMAIN-SUFFIX,acmvid.com
+DOMAIN-SUFFIX,mvideo.ru
+DOMAIN,mvideo.edna.io
+#end include:mvideo
 
 # Metro
 DOMAIN-SUFFIX,metro-cc.ru
+
+# OSKELLY
+#include:oskelly
+DOMAIN-SUFFIX,oskelly.co
+DOMAIN-SUFFIX,oskelly.ru
+#end include:oskelly
 
 # Pyaterochka, Perekrestok, Chizhik
 #include:x5
@@ -77,9 +95,10 @@ DOMAIN-SUFFIX,x5q.ru
 DOMAIN-SUFFIX,x5static.net
 DOMAIN-SUFFIX,x5w.ru
 
-# Ads/tracking
-DOMAIN-SUFFIX,domain:ads.x5media.ru
-DOMAIN-SUFFIX,domain:sentry.x5.ru
+# Ads and tracking
+DOMAIN,ads.x5.ru
+DOMAIN,ads.x5media.ru
+DOMAIN,sentry.x5.ru
 #end include:x5
 
 # Red and White
@@ -95,6 +114,12 @@ DOMAIN-SUFFIX,ilovesakura.ru
 
 # Spar
 DOMAIN-SUFFIX,myspar.ru
+
+# SOKOLOV
+#include:sokolov
+DOMAIN-SUFFIX,sokolov.io
+DOMAIN-SUFFIX,sokolov.ru
+#end include:sokolov
 
 # Sushi Wok
 DOMAIN-SUFFIX,sushiwok.ru

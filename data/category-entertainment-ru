@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 #end include:kinopoisk
 #include:okko
+DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
@@ -29,6 +30,9 @@ DOMAIN-SUFFIX,smotreshka.tv
 DOMAIN-SUFFIX,start.ru
 DOMAIN-SUFFIX,tvigle.ru
 DOMAIN-SUFFIX,viju.ru
+
+# Music
+DOMAIN-SUFFIX,promodj.com    #Electronic music and DJ community platform
 
 # Video hosting
 #include:rutube

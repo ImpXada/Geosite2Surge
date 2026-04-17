@@ -1,0 +1,21 @@
+#include:betboom
+DOMAIN-SUFFIX,betboom.ru
+DOMAIN-SUFFIX,mobile-bb.com
+#end include:betboom
+#include:fonbet
+DOMAIN-SUFFIX,bk6bba-resources.com
+DOMAIN-SUFFIX,bk6bba-resources.ru
+DOMAIN-SUFFIX,fon.bet
+DOMAIN-SUFFIX,fon.promo
+#end include:fonbet
+#include:ligastavok
+DOMAIN-SUFFIX,ligadobra.ru
+DOMAIN-SUFFIX,ligastavok-csr.ru
+DOMAIN-SUFFIX,ligastavok.ru
+DOMAIN-SUFFIX,sozvezdie-dobra.ru
+#end include:ligastavok
+#include:winline
+DOMAIN-SUFFIX,win-line.ru
+DOMAIN-SUFFIX,winline.ru
+DOMAIN-SUFFIX,winlinebet.ru
+#end include:winline

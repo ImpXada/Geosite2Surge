@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,kinopoisk.ru
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+#end include:kinopoisk
+
 # All .yandex domains
 DOMAIN-SUFFIX,yandex
 
@@ -89,51 +93,45 @@ DOMAIN-SUFFIX,yastatic-net.ru
 DOMAIN-SUFFIX,yastatic.net
 DOMAIN-SUFFIX,yccdn.ru
 
-# Watching movies, included in the Yandex subscription
-DOMAIN-SUFFIX,kinopoisk.ru
-DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
-#end include:kinopoisk
-
-# Ads/tracking
+# Ads and tracking
 DOMAIN-SUFFIX,adfox.ru
+DOMAIN-SUFFIX,adfox.yandex.ru
 DOMAIN-SUFFIX,admetrica.ru
 DOMAIN-SUFFIX,ads.yandex
+DOMAIN-SUFFIX,ads.yandex.ru
+DOMAIN-SUFFIX,adv.yandex.com
+DOMAIN-SUFFIX,adv.yandex.ru
+DOMAIN-SUFFIX,an.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yandex.com
+DOMAIN-SUFFIX,appmetrica.yandex.net
+DOMAIN-SUFFIX,appmetrica.yandex.ru
+DOMAIN-SUFFIX,appmetrica.yango.com
+DOMAIN-SUFFIX,bs.yandex.ru
+DOMAIN-SUFFIX,clck.yandex.ru
+DOMAIN-SUFFIX,counter.yandex.ru
+DOMAIN-SUFFIX,mc.yandex.ru
+DOMAIN-SUFFIX,metrika.yandex.com
+DOMAIN-SUFFIX,metrika.yandex.net
+DOMAIN-SUFFIX,metrika.yandex.ru
 DOMAIN-SUFFIX,webvisor.com
 DOMAIN-SUFFIX,webvisor.org
+DOMAIN-SUFFIX,yabs.yandex.ru
 DOMAIN-SUFFIX,yads.tech
 DOMAIN-SUFFIX,yandex-metrica.ru
 DOMAIN-SUFFIX,yandexmetrica.com
 DOMAIN-SUFFIX,yango-ads.com
-DOMAIN-SUFFIX,domain:adfox.yandex.ru
-DOMAIN-SUFFIX,domain:adfstat.yandex.ru
-DOMAIN-SUFFIX,domain:ads.yandex.com
-DOMAIN-SUFFIX,domain:ads.yandex.ru
-DOMAIN-SUFFIX,domain:ads.yango.com
-DOMAIN-SUFFIX,domain:adsdk.yandex.ru
-DOMAIN-SUFFIX,domain:adv.yandex.com
-DOMAIN-SUFFIX,domain:adv.yandex.ru
-DOMAIN-SUFFIX,domain:amc.yandex.ru
-DOMAIN-SUFFIX,domain:an.yandex.ru
-DOMAIN-SUFFIX,domain:analytics.mobile.yandex.net
-DOMAIN-SUFFIX,domain:appmetrica.yandex.com
-DOMAIN-SUFFIX,domain:appmetrica.yandex.net
-DOMAIN-SUFFIX,domain:appmetrica.yandex.ru
-DOMAIN-SUFFIX,domain:appmetrica.yango.com
-DOMAIN-SUFFIX,domain:browser-updater.yandex.net
-DOMAIN-SUFFIX,domain:bs.yandex.ru
-DOMAIN-SUFFIX,domain:clck.yandex.com
-DOMAIN-SUFFIX,domain:clck.yandex.net
-DOMAIN-SUFFIX,domain:clck.yandex.ru
-DOMAIN-SUFFIX,domain:clck.yango.com
-DOMAIN-SUFFIX,domain:counter.yandex.net
-DOMAIN-SUFFIX,domain:counter.yandex.ru
-DOMAIN-SUFFIX,domain:informer.yandex.ru
-DOMAIN-SUFFIX,domain:mc.yandex.com
-DOMAIN-SUFFIX,domain:mc.yandex.net
-DOMAIN-SUFFIX,domain:mc.yandex.ru
-DOMAIN-SUFFIX,domain:mc.yango.com
-DOMAIN-SUFFIX,domain:metrika.yandex.ru
-DOMAIN-SUFFIX,domain:pix.yandex.ru
-DOMAIN-SUFFIX,domain:pixel.yandex.net
-DOMAIN-SUFFIX,domain:report.ap.yandex-net.ru
-DOMAIN-SUFFIX,domain:yabs.yandex.ru
+DOMAIN,adfstat.yandex.ru
+DOMAIN,ads.yandex.com
+DOMAIN,ads.yango.com
+DOMAIN,adsdk.yandex.ru
+DOMAIN,amc.yandex.ru
+DOMAIN,analytics.mobile.yandex.net
+DOMAIN,clck.yandex.com
+DOMAIN,clck.yandex.net
+DOMAIN,clck.yango.com
+DOMAIN,informer.yandex.ru
+DOMAIN,mc.yandex.com
+DOMAIN,mc.yandex.net
+DOMAIN,mc.yango.com
+DOMAIN,pixel.yandex.com
+DOMAIN,report.ap.yandex-net.ru
