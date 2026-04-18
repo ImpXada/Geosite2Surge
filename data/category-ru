@@ -1125,6 +1125,13 @@ DOMAIN-SUFFIX,vscale.ru
 DOMAIN-SUFFIX,sky.pro
 DOMAIN-SUFFIX,skyeng.ru
 #end include:skyeng
+#include:tilda
+DOMAIN-SUFFIX,tilda.cc
+DOMAIN-SUFFIX,tilda.ru
+DOMAIN-SUFFIX,tilda.ws
+DOMAIN-SUFFIX,tildaapi.com
+DOMAIN-SUFFIX,tildacdn.com
+#end include:tilda
 #include:timeweb
 DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
@@ -1664,7 +1671,6 @@ DOMAIN-SUFFIX,gismeteo.net    #Gismeteo weather service
 DOMAIN-SUFFIX,gismeteo.st    #Gismeteo weather service
 DOMAIN-SUFFIX,group-ib.com    #Group-IB cybersecurity company
 DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
-DOMAIN-SUFFIX,kontur.host    #SKB Kontur, business SaaS provider
 DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
 DOMAIN-SUFFIX,saas-support.com    #CDN/infrastructure for Envybox
 DOMAIN-SUFFIX,targetads.io    #Advertising verification platform
