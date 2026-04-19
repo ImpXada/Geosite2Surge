@@ -1,9 +1,10 @@
-DOMAIN-SUFFIX,adguardaccount.com
 DOMAIN-SUFFIX,adguard.app
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adguard.info
 DOMAIN-SUFFIX,adguard.io
 DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,adguardaccount.com
+DOMAIN-SUFFIX,adguardcdn.com
 DOMAIN-SUFFIX,adtidy.net
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,agrd.eu
@@ -18,6 +19,6 @@ DOMAIN-SUFFIX,adguard-mail.com
 DOMAIN-SUFFIX,mask.me
 
 # adguard vpn
-DOMAIN-SUFFIX,adguardvpn.com
 DOMAIN-SUFFIX,adguard-vpn.com
 DOMAIN-SUFFIX,adguard-vpn.online
+DOMAIN-SUFFIX,adguardvpn.com
