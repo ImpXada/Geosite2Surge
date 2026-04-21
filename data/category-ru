@@ -372,6 +372,13 @@ DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
 # Regional health services
 DOMAIN-SUFFIX,zdrav10.ru    #Republic of Karelia
 #end include:category-gov-ru
+#include:category-media-ru
+# Media sites in Russia
+DOMAIN-SUFFIX,russiatoday.com
+DOMAIN-SUFFIX,rteam.tech    #IT company owned by RT's parent org (ANO TV-Novosti)
+DOMAIN-SUFFIX,shop-rt.com    #RT merchandise store
+DOMAIN-SUFFIX,swentr.site    #RT mirror domain
+#end include:category-media-ru
 #include:category-medicine-ru
 # BudZdorov
 DOMAIN-SUFFIX,klinikabudzdorov.ru
@@ -404,11 +411,17 @@ DOMAIN-SUFFIX,av.ru
 # Auchan
 DOMAIN-SUFFIX,auchan.ru
 
+# AudioHead
+DOMAIN-SUFFIX,audiohead.ru
+
 # Bristol
 DOMAIN-SUFFIX,bristol.ru
 
 # Children's World
 DOMAIN-SUFFIX,detmir.ru
+
+# Coolera
+DOMAIN-SUFFIX,coolera.ru
 
 # Dixie
 DOMAIN-SUFFIX,dixy.ru
@@ -423,6 +436,9 @@ DOMAIN-SUFFIX,dodostatic.net
 # Dostaevsky
 DOMAIN-SUFFIX,dostaevsky.ru
 
+# Dr.Head / Doctorhead
+DOMAIN-SUFFIX,doctorhead.ru
+
 # Eurasia
 DOMAIN-SUFFIX,evrasia.rest
 
@@ -431,6 +447,9 @@ DOMAIN-SUFFIX,vkusnoitochka.ru
 
 # Fix Price
 DOMAIN-SUFFIX,fix-price.com
+
+# Lamoda
+DOMAIN-SUFFIX,lamoda.ru
 
 # Lenta
 DOMAIN-SUFFIX,lenta.com
@@ -453,6 +472,9 @@ DOMAIN,mvideo.edna.io
 
 # Metro
 DOMAIN-SUFFIX,metro-cc.ru
+
+# NOTIK
+DOMAIN-SUFFIX,notik.ru
 
 # OSKELLY
 #include:oskelly
@@ -503,6 +525,9 @@ DOMAIN,sentry.x5.ru
 
 # Red and White
 DOMAIN-SUFFIX,krasnoeibeloe.ru
+
+# Regard
+DOMAIN-SUFFIX,regard.ru
 
 # Rostics
 DOMAIN-SUFFIX,rostics.ru
@@ -1616,13 +1641,6 @@ DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,netmonet.co
 DOMAIN-SUFFIX,tips.tips
 
-# Media
-# NOT include category-media-ru, it's for media blocked in Russia now.
-DOMAIN-SUFFIX,russiatoday.com
-DOMAIN-SUFFIX,rteam.tech    #IT company owned by RT's parent org (ANO TV-Novosti)
-DOMAIN-SUFFIX,shop-rt.com    #RT merchandise store
-DOMAIN-SUFFIX,swentr.site    #RT mirror domain
-
 # Telecom operators
 DOMAIN-SUFFIX,beeline.ru
 DOMAIN-SUFFIX,dom.ru
@@ -1667,8 +1685,6 @@ DOMAIN-SUFFIX,3ebra.net    #Zebra Net Bureau, web development agency
 DOMAIN-SUFFIX,envybox.io    #Website conversion widgets
 DOMAIN-SUFFIX,flomni.com    #Omnichannel communications platform
 DOMAIN-SUFFIX,flocktory.com    #Marketing personalization platform
-DOMAIN-SUFFIX,gismeteo.net    #Gismeteo weather service
-DOMAIN-SUFFIX,gismeteo.st    #Gismeteo weather service
 DOMAIN-SUFFIX,group-ib.com    #Group-IB cybersecurity company
 DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
 DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
@@ -1676,28 +1692,3 @@ DOMAIN-SUFFIX,saas-support.com    #CDN/infrastructure for Envybox
 DOMAIN-SUFFIX,targetads.io    #Advertising verification platform
 DOMAIN-SUFFIX,whitesaas.com    #White-label product of Envybox
 DOMAIN-SUFFIX,yourgood.app    #CRM for small business
-
-## COMSS.ONE "Computer Security Software Russia"
-DOMAIN-SUFFIX,comss.club
-DOMAIN-SUFFIX,comss.info
-DOMAIN-SUFFIX,comss.me
-DOMAIN-SUFFIX,comss.net
-DOMAIN-SUFFIX,comss.news
-DOMAIN-SUFFIX,comss.one
-DOMAIN-SUFFIX,comss.online
-DOMAIN-SUFFIX,comss.org
-DOMAIN-SUFFIX,comss.ru
-
-## Genotek
-DOMAIN-SUFFIX,eligens.cl
-DOMAIN-SUFFIX,eligens.com.br
-DOMAIN-SUFFIX,eligens.io
-DOMAIN-SUFFIX,genetic-technologies.am
-DOMAIN-SUFFIX,genotek.am
-DOMAIN-SUFFIX,genotek.health
-DOMAIN-SUFFIX,genotek.ru
-
-## Ideco, NGFW developer
-DOMAIN-SUFFIX,ideco.dev
-DOMAIN-SUFFIX,ideco.ru
-DOMAIN-SUFFIX,idecosoftware.ru

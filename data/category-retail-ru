@@ -4,11 +4,17 @@ DOMAIN-SUFFIX,av.ru
 # Auchan
 DOMAIN-SUFFIX,auchan.ru
 
+# AudioHead
+DOMAIN-SUFFIX,audiohead.ru
+
 # Bristol
 DOMAIN-SUFFIX,bristol.ru
 
 # Children's World
 DOMAIN-SUFFIX,detmir.ru
+
+# Coolera
+DOMAIN-SUFFIX,coolera.ru
 
 # Dixie
 DOMAIN-SUFFIX,dixy.ru
@@ -23,6 +29,9 @@ DOMAIN-SUFFIX,dodostatic.net
 # Dostaevsky
 DOMAIN-SUFFIX,dostaevsky.ru
 
+# Dr.Head / Doctorhead
+DOMAIN-SUFFIX,doctorhead.ru
+
 # Eurasia
 DOMAIN-SUFFIX,evrasia.rest
 
@@ -31,6 +40,9 @@ DOMAIN-SUFFIX,vkusnoitochka.ru
 
 # Fix Price
 DOMAIN-SUFFIX,fix-price.com
+
+# Lamoda
+DOMAIN-SUFFIX,lamoda.ru
 
 # Lenta
 DOMAIN-SUFFIX,lenta.com
@@ -53,6 +65,9 @@ DOMAIN,mvideo.edna.io
 
 # Metro
 DOMAIN-SUFFIX,metro-cc.ru
+
+# NOTIK
+DOMAIN-SUFFIX,notik.ru
 
 # OSKELLY
 #include:oskelly
@@ -103,6 +118,9 @@ DOMAIN,sentry.x5.ru
 
 # Red and White
 DOMAIN-SUFFIX,krasnoeibeloe.ru
+
+# Regard
+DOMAIN-SUFFIX,regard.ru
 
 # Rostics
 DOMAIN-SUFFIX,rostics.ru

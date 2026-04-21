@@ -420,6 +420,7 @@ DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unrealtournament.com
 
 DOMAIN-SUFFIX,egdownload.fastly-edge.com
+DOMAIN-SUFFIX,fortnite-vod.akamaized.net
 DOMAIN-WILDCARD,cdn?-epicgames-*.file.myqcloud.com
 DOMAIN-WILDCARD,epicgames-download?.akamaized.net
 DOMAIN-WILDCARD,epicgames-download?-*.file.myqcloud.com

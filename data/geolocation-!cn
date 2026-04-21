@@ -16,6 +16,8 @@ DOMAIN-SUFFIX,pubmatic.co.jp
 DOMAIN-SUFFIX,taboola.com
 #end include:taboola
 
+DOMAIN-SUFFIX,scorecardresearch.com
+
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
 #include:category-proxy-tunnels
 #include:ngrok
