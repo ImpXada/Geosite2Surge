@@ -49,7 +49,6 @@ DOMAIN-SUFFIX,lenta.com
 DOMAIN-SUFFIX,lenta.tech
 
 # Magnit
-#include:magnit
 DOMAIN-SUFFIX,kazanexpress.ru
 DOMAIN-SUFFIX,magnit.com
 DOMAIN-SUFFIX,magnit.ru
@@ -57,7 +56,6 @@ DOMAIN-SUFFIX,mm.ru
 #end include:magnit
 
 # M.Video
-#include:mvideo
 DOMAIN-SUFFIX,acmvid.com
 DOMAIN-SUFFIX,mvideo.ru
 DOMAIN,mvideo.edna.io
@@ -70,13 +68,11 @@ DOMAIN-SUFFIX,metro-cc.ru
 DOMAIN-SUFFIX,notik.ru
 
 # OSKELLY
-#include:oskelly
 DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,oskelly.ru
 #end include:oskelly
 
 # Pyaterochka, Perekrestok, Chizhik
-#include:x5
 DOMAIN-SUFFIX,5ka.ru
 DOMAIN-SUFFIX,5post.market
 DOMAIN-SUFFIX,abonementx5.ru
@@ -134,7 +130,6 @@ DOMAIN-SUFFIX,ilovesakura.ru
 DOMAIN-SUFFIX,myspar.ru
 
 # SOKOLOV
-#include:sokolov
 DOMAIN-SUFFIX,sokolov.io
 DOMAIN-SUFFIX,sokolov.ru
 #end include:sokolov

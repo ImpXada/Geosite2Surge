@@ -5,7 +5,6 @@
 #	ブランドgTLD	GMO Internet, Inc.	GMOインターネットグループおよび関係者向けブランドTLD
 DOMAIN-SUFFIX,gmo
 
-#include:globalsign
 DOMAIN-SUFFIX,alphassl.com
 DOMAIN-SUFFIX,easy-signing.com
 DOMAIN-SUFFIX,globalsign-media.com

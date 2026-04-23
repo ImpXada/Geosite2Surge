@@ -1,9 +1,11 @@
+#include:borneoschematics
 DOMAIN-SUFFIX,borneo.world
 DOMAIN-SUFFIX,borneoasia.com
 DOMAIN-SUFFIX,borneoschematic.com
 DOMAIN-SUFFIX,bosharso.net
 DOMAIN-SUFFIX,hostborneo.org
 #end include:borneoschematics
+#include:z3x-team
 DOMAIN-SUFFIX,easy-jtag.com
 DOMAIN-SUFFIX,z3x-team.com
 #end include:z3x-team

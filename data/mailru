@@ -1,6 +1,7 @@
 # This list is for backward compatibility
 #include:mailru-group
 # VK Group, formerly known as Mail.ru Group, a Russian technology company
+#include:dzen
 DOMAIN-SUFFIX,dzen.ru
 
 # Ads and tracking
@@ -10,6 +11,7 @@ DOMAIN-SUFFIX,ms.dzen.ru
 # CDN
 DOMAIN-SUFFIX,dzeninfra.ru
 #end include:dzen
+#include:ok
 DOMAIN-SUFFIX,apiok.ru
 DOMAIN-SUFFIX,insideok.ru
 DOMAIN-SUFFIX,odkl.ru
@@ -24,6 +26,7 @@ DOMAIN-SUFFIX,okcdn.ru
 DOMAIN,st-ok-pts.cdn-vk.ru
 DOMAIN,st-ok.cdn-vk.ru
 #end include:ok
+#include:vk
 # Use `geosite:mailru-group` if you want to match the entire VK Group
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,vk.cc

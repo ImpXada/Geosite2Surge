@@ -1,3 +1,4 @@
+#include:2gis
 # https://crt.sh/?id=24119301132
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
@@ -14,6 +15,7 @@ DOMAIN-SUFFIX,2gis.tj
 DOMAIN-SUFFIX,2gis.uz
 DOMAIN-SUFFIX,2gis.tech
 #end include:2gis
+#include:okko
 DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport

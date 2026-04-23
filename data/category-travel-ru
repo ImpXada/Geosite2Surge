@@ -1,5 +1,4 @@
 # Aviasales
-#include:aviasales
 DOMAIN-SUFFIX,avs.io
 DOMAIN-SUFFIX,aviasales.ru
 DOMAIN-SUFFIX,aviasales.com
@@ -20,7 +19,6 @@ DOMAIN-SUFFIX,otello.ru
 DOMAIN-SUFFIX,sber.ru
 
 # Public transport and ticketing
-#include:mosmetro
 DOMAIN-SUFFIX,mosmetro.ru
 DOMAIN-SUFFIX,mosmetro.tech
 #end include:mosmetro

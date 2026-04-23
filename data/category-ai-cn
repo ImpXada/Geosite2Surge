@@ -31,9 +31,18 @@ DOMAIN-SUFFIX,xiaoaiassist.com
 DOMAIN-SUFFIX,xiaomimimo.com
 #end include:xiaomi-ai
 
+# LibLibAI
+DOMAIN-SUFFIX,liblib.art
+DOMAIN-SUFFIX,liblib.cloud
+DOMAIN-SUFFIX,liblib.tv
+
 # RWKV
 DOMAIN-SUFFIX,rwkv.cn
 DOMAIN-SUFFIX,rwkv.com
+
+# TapNowAI
+# Only this domain has an access point in mainland China
+DOMAIN-SUFFIX,tapnow.top
 
 # 通义千问
 DOMAIN-SUFFIX,qianwen.aliyun.com
@@ -78,9 +87,6 @@ DOMAIN-SUFFIX,yuanqi.tencent.com
 
 # 百川智能
 DOMAIN-SUFFIX,baichuan-ai.com
-
-DOMAIN-SUFFIX,botvip.cn
-DOMAIN-SUFFIX,liblib.art
 
 # 夸克 CueMe
 DOMAIN-SUFFIX,cueme.cn
