@@ -1,4 +1,3 @@
-#include:bilibili-cdn
 DOMAIN-SUFFIX,bilicdn1.com
 DOMAIN-SUFFIX,bilicdn2.com
 DOMAIN-SUFFIX,bilicdn3.com
@@ -16,7 +15,6 @@ DOMAIN-SUFFIX,mincdn.com
 
 DOMAIN,upos-hz-mirrorakam.akamaized.net
 #end include:bilibili-cdn
-#include:bilibili-game
 DOMAIN-SUFFIX,bilibiligame.cn
 DOMAIN-SUFFIX,bilibiligame.co
 DOMAIN-SUFFIX,bilibiligame.net

@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 #end include:anthropic
 #include:bytedance-ai-!cn
+#include:dola
 # Dola, formly ciciai, an AI service of bytedance
 DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
@@ -106,6 +107,7 @@ DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 
 # Android Studio Gemini Code Assist
+DOMAIN-SUFFIX,aicode.googleapis.com
 DOMAIN-SUFFIX,aida.googleapis.com
 
 # Opal
@@ -207,6 +209,7 @@ DOMAIN-SUFFIX,cohere.com
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 
+DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -229,4 +232,5 @@ DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,spicywriter.com

@@ -1,3 +1,4 @@
+#include:facebook
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
@@ -401,6 +402,7 @@ DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,pixel.facebook.com
 #end include:facebook
+#include:facebook-dev
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,atscaleconference.com
 DOMAIN-SUFFIX,botorch.org
@@ -447,6 +449,7 @@ DOMAIN-SUFFIX,yogalayout.com
 
 DOMAIN,developers.facebook.com
 #end include:facebook-dev
+#include:instagram
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -524,14 +527,17 @@ DOMAIN-SUFFIX,wwwinstagram.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 #end include:instagram
+#include:manus
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
 #end include:manus
+#include:messenger
 DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,nbabot.net
 #end include:messenger
+#include:oculus
 DOMAIN-SUFFIX,binoculus.com
 DOMAIN-SUFFIX,buyoculus.com
 DOMAIN-SUFFIX,ocul.us
@@ -550,9 +556,11 @@ DOMAIN-SUFFIX,oculusrift.com
 DOMAIN-SUFFIX,oculusvr.com
 DOMAIN-SUFFIX,powersunitedvr.com
 #end include:oculus
+#include:threads
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 #end include:threads
+#include:whatsapp
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,whatsapp-plus.info
 DOMAIN-SUFFIX,whatsapp-plus.me

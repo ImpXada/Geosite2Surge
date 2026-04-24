@@ -1,3 +1,4 @@
+#include:hoyoverse
 # 原神
 DOMAIN-SUFFIX,genshinimpact.com
 
@@ -25,6 +26,7 @@ DOMAIN-SUFFIX,zenlesszonezero.com
 # ads/tracking
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 #end include:hoyoverse
+#include:mihoyo-cn
 # 米哈游
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn

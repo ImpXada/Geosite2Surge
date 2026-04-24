@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,stateofthemap.org
 DOMAIN-SUFFIX,paskoocheh.com
 #end include:paskoocheh
 #include:peppy
+#include:osu
 # osu
 DOMAIN,a.ppy.sh
 DOMAIN,assets.ppy.sh

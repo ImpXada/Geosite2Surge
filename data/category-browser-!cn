@@ -1,14 +1,10 @@
-#include:ceno
 DOMAIN-SUFFIX,censorship.no
 #end include:ceno
-#include:epicbrowser
 DOMAIN-SUFFIX,epicbrowser.com
 #end include:epicbrowser
-#include:firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 #end include:firefox
-#include:torproject
 DOMAIN-SUFFIX,torproject.org
 #end include:torproject
 

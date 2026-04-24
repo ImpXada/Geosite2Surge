@@ -1,3 +1,31 @@
+#include:category-ipfs
+# Reference: https://ipfs.github.io/public-gateway-checker/
+
+#include:cloudflare-ipfs
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+#end include:cloudflare-ipfs
+
+DOMAIN-SUFFIX,4everland.io
+DOMAIN-SUFFIX,c4rex.co
+DOMAIN-SUFFIX,crustwebsites.net
+DOMAIN-SUFFIX,dweb.link
+DOMAIN-SUFFIX,gateway.pinata.cloud
+DOMAIN-SUFFIX,ipfs-gateway.cloud
+DOMAIN-SUFFIX,ipfs.anonymize.com
+DOMAIN-SUFFIX,ipfs.best-practice.se
+DOMAIN-SUFFIX,ipfs.eternum.io
+DOMAIN-SUFFIX,ipfs.eth.aragon.network
+DOMAIN-SUFFIX,ipfs.fleek.co
+DOMAIN-SUFFIX,ipfs.io
+DOMAIN-SUFFIX,ipfs.lain.la
+DOMAIN-SUFFIX,ipfs.runfission.com
+DOMAIN-SUFFIX,ipfs.tech
+DOMAIN-SUFFIX,ipns.co
+DOMAIN-SUFFIX,jorropo.net
+DOMAIN-SUFFIX,nftstorage.link
+DOMAIN-SUFFIX,via0.com
+#end include:category-ipfs
 #include:ceno
 DOMAIN-SUFFIX,censorship.no
 #end include:ceno

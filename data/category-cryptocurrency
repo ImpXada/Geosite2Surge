@@ -1,8 +1,10 @@
 # Reference: https://bitcoin.org/en/exchanges
 
+#include:asproex
 DOMAIN-SUFFIX,asproex.com
 DOMAIN-SUFFIX,asproexapi.com
 #end include:asproex
+#include:binance
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.charity
 DOMAIN-SUFFIX,binance.cloud
@@ -46,13 +48,16 @@ DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,saasexch.io
 #end include:binance
+#include:bitflyer
 DOMAIN-SUFFIX,bitflyer.com
 DOMAIN-SUFFIX,bitflyer.jp
 #end include:bitflyer
+#include:bitsquare
 DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
 DOMAIN-SUFFIX,bitsquare.io
 #end include:bitsquare
+#include:bybit
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bytick.com
@@ -71,19 +76,23 @@ DOMAIN-SUFFIX,bybitglobal.com
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
 #end include:bybit
+#include:coinone
 DOMAIN-SUFFIX,coinone.co.kr
 DOMAIN-SUFFIX,coinonecore.com
 DOMAIN-SUFFIX,coinonecorp.com
 #end include:coinone
+#include:deribit
 DOMAIN-SUFFIX,deribit.com
 
 DOMAIN,deribit.cdn.prismic.io
 #end include:deribit
+#include:ethereum
 DOMAIN-SUFFIX,devcon.org
 DOMAIN-SUFFIX,ethereum.foundation
 DOMAIN-SUFFIX,ethereum.org
 DOMAIN-SUFFIX,etherscan.io
 #end include:ethereum
+#include:gateio
 DOMAIN-SUFFIX,gate.io
 
 DOMAIN-SUFFIX,gatedata.org
@@ -91,6 +100,7 @@ DOMAIN-SUFFIX,gateimg.com
 DOMAIN-SUFFIX,gateio.live
 DOMAIN-SUFFIX,gateio.services
 #end include:gateio
+#include:huobi
 DOMAIN-SUFFIX,htx.com
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
@@ -102,18 +112,23 @@ DOMAIN-SUFFIX,huobiasia.vip
 DOMAIN-SUFFIX,huobigroup.com
 DOMAIN-SUFFIX,huobitoken.com
 #end include:huobi
+#include:kraken
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,kraken.onl
 #end include:kraken
+#include:kucoin
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kucoin.plus
 #end include:kucoin
+#include:localbitcoins
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
 #end include:localbitcoins
+#include:nexo
 DOMAIN-SUFFIX,nexo.com
 DOMAIN-SUFFIX,nexo.io
 #end include:nexo
+#include:okx
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx-dns.com
 DOMAIN-SUFFIX,okx-dns1.com
@@ -124,33 +139,40 @@ DOMAIN-SUFFIX,okx.com
 # OKC Browser
 DOMAIN-SUFFIX,oklink.com
 #end include:okx
+#include:onekey
 DOMAIN-SUFFIX,onekey-asset.com
 DOMAIN-SUFFIX,onekey.so
 DOMAIN-SUFFIX,onekeycn.com
 
 DOMAIN,onekey.zendesk.com
 #end include:onekey
+#include:redotpay
 DOMAIN-SUFFIX,redotpay.com
 DOMAIN-SUFFIX,redotpay.zendesk.com
 DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
 DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
 DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
 #end include:redotpay
+#include:straitsx
 DOMAIN-SUFFIX,straitsx.com
 
 DOMAIN,d3r7nsslvs6aaf.cloudfront.net
 DOMAIN,straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
 #end include:straitsx
+#include:trustwallet
 DOMAIN-SUFFIX,trustwallet.com
 #end include:trustwallet
+#include:wisekey
 DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com
 DOMAIN-SUFFIX,wisekey.com.hk
 #end include:wisekey
+#include:wynd
 DOMAIN-SUFFIX,wyndlabs.ai
 DOMAIN-SUFFIX,wynd.network
 #end include:wynd
+#include:zb
 DOMAIN-SUFFIX,zb.app
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zb.io

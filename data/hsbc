@@ -30,6 +30,7 @@ DOMAIN-SUFFIX,hsbc.com.bh
 DOMAIN-SUFFIX,hsbc.com.br
 
 ## HSBC CN
+#include:hsbc-cn
 DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hsbcinsurance.com.cn

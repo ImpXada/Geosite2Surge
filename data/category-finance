@@ -194,8 +194,6 @@ DOMAIN-SUFFIX,abr.ru
 DOMAIN-SUFFIX,rshb.ru
 
 # SberBank
-#include:sber
-#include:2gis
 # https://crt.sh/?id=24119301132
 DOMAIN-SUFFIX,2gis.ae
 DOMAIN-SUFFIX,2gis.am
@@ -212,7 +210,6 @@ DOMAIN-SUFFIX,2gis.tj
 DOMAIN-SUFFIX,2gis.uz
 DOMAIN-SUFFIX,2gis.tech
 #end include:2gis
-#include:okko
 DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
@@ -339,7 +336,6 @@ DOMAIN-SUFFIX,zvuk.com
 #end include:sber
 
 # T-Bank (Tinkoff) and RosBank
-#include:tbank-ru
 # IDN ccTLD domains (.рф)
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai    #эра-инвестиций.рф
 DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai    #фрод-рулетка.рф
@@ -522,6 +518,7 @@ DOMAIN-SUFFIX,hsbc.com.bh
 DOMAIN-SUFFIX,hsbc.com.br
 
 ## HSBC CN
+#include:hsbc-cn
 DOMAIN-SUFFIX,hsbc.com.cn
 DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hsbcinsurance.com.cn

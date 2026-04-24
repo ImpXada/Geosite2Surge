@@ -1,9 +1,7 @@
-#include:discuz
 DOMAIN-SUFFIX,comsenz.com
 DOMAIN-SUFFIX,discuz.net
 DOMAIN-SUFFIX,discuz.org
 #end include:discuz
-#include:dnspod
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,dnsapi.cn
 DOMAIN-SUFFIX,dnspod.cn

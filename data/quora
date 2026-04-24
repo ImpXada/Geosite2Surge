@@ -1,4 +1,3 @@
-#include:poe
 DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,poecdn.net
 #end include:poe
