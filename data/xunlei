@@ -13,3 +13,7 @@ DOMAIN-SUFFIX,thundercdn.com
 # 星域云
 DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,xycdn.com
+
+# 光鸭云盘
+DOMAIN-SUFFIX,guangyacdn.com
+DOMAIN-SUFFIX,guangyapan.com
