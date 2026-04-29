@@ -1056,6 +1056,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | python | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/python |
 | qcc | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/qcc |
 | qcloud | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/qcloud |
+| qianxin | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/qianxin |
 | qihoo360 | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/qihoo360 |
 | qimao | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/qimao |
 | qingcloud | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/qingcloud |

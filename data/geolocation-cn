@@ -1916,6 +1916,9 @@ DOMAIN-SUFFIX,zhan.com
 DOMAIN-SUFFIX,zhihuishu.com
 # 浙江省教育考试院
 DOMAIN-SUFFIX,zjzs.net
+# 班小二
+DOMAIN-SUFFIX,banxiaoer.com
+DOMAIN-SUFFIX,banxiaoer.net
 #end include:category-education-cn
 #include:category-olympiad-in-informatics
 # LeetCode 中国站
@@ -2471,8 +2474,6 @@ DOMAIN-SUFFIX,zhangyuecdn.com
 DOMAIN-SUFFIX,moseeker.com
 ## 小能智慧云客服
 DOMAIN-SUFFIX,ntalker.com
-## OneDNS 微步在线
-DOMAIN-SUFFIX,onedns.net
 ## 心知天气
 DOMAIN-SUFFIX,sencdn.com
 DOMAIN-SUFFIX,seniverse.com
@@ -2785,6 +2786,16 @@ DOMAIN-SUFFIX,msmartlife.cn
 DOMAIN-SUFFIX,msmartlife.com
 DOMAIN-SUFFIX,smartmidea.net
 #end include:midea
+#include:qianxin
+# 奇安信 奇安信科技集团股份有限公司 京ICP备16020626号
+DOMAIN-SUFFIX,95015.com
+DOMAIN-SUFFIX,ceati.org.cn    #CEATI 联盟
+DOMAIN-SUFFIX,datacon.org.cn    #DataCon
+DOMAIN-SUFFIX,qianxin.com
+DOMAIN-SUFFIX,qianxincdn.com
+DOMAIN-SUFFIX,seclab.online    #SecLab
+DOMAIN-SUFFIX,tianshucup.com    #天枢杯
+#end include:qianxin
 #include:qihoo360
 # StarWorld Games is a wholly owned subsidiary of Qihoo 360
 
@@ -2977,23 +2988,29 @@ DOMAIN-SUFFIX,suzuki-china.com    #铃木中国官网
 DOMAIN-SUFFIX,udesk.cn    #沃丰科技
 DOMAIN-SUFFIX,ysjf.com    #影视飓风
 
-# 飞牛
+## 飞牛
 DOMAIN-SUFFIX,fnnas.com
 DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnos.net
-# 稿定（厦门）信息服务有限公司
-## 花瓣网 闽ICP备2021013850号
+## 稿定（厦门）信息服务有限公司
+### 花瓣网 闽ICP备2021013850号
 DOMAIN-SUFFIX,huaban.com
 DOMAIN-SUFFIX,huabanimg.com
-## 闽ICP备12002004号
+### 闽ICP备12002004号
 DOMAIN-SUFFIX,dancf.com
 DOMAIN-SUFFIX,hlgdata.com
 DOMAIN-SUFFIX,huanleguang.com
 DOMAIN-SUFFIX,ttxsapp.com.cn
 DOMAIN-SUFFIX,xsbapp.cn
-# 凯迪仕
+## 凯迪仕
 DOMAIN-SUFFIX,juziwulian.com
 DOMAIN-SUFFIX,kaadas.com
+## 微步在线 / 步刻科技
+DOMAIN-SUFFIX,onedns.net
+#safeskill.cn
+DOMAIN-SUFFIX,shellpub.com
+DOMAIN-SUFFIX,threatbook.cn
+DOMAIN-SUFFIX,threatbook.com
 
 # Telecommunication
 #include:chinabroadnet
@@ -3098,7 +3115,6 @@ DOMAIN-SUFFIX,sinopecgroup.com
 DOMAIN-SUFFIX,sinopecnews.com.cn
 DOMAIN-SUFFIX,sinopecsales.com
 #end include:sinopec
-
 
 # 应城门户网站
 DOMAIN-SUFFIX,chugou360.com
