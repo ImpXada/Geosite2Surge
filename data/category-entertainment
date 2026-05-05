@@ -38,6 +38,9 @@ DOMAIN-SUFFIX,okko.tv
 #end include:okko
 #include:wink
 DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,wink.am
 DOMAIN-SUFFIX,wink.ru
 #end include:wink
 DOMAIN-SUFFIX,24h.tv

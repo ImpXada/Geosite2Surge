@@ -665,6 +665,8 @@ DOMAIN-SUFFIX,cqhlw.cn
 DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,cqsjb.com
+# 中国质量新闻网
+DOMAIN-SUFFIX,cqn.com.cn
 # 中证网
 DOMAIN-SUFFIX,cs.com.cn
 # 极目新闻/楚天都市报
@@ -784,6 +786,8 @@ DOMAIN-SUFFIX,mydrivers.com
 DOMAIN-SUFFIX,nanyuenews.com
 # 每日经济新闻报社
 DOMAIN-SUFFIX,nbd.com.cn
+# 新周刊
+DOMAIN-SUFFIX,neweekly.com.cn
 # 新华社
 DOMAIN-SUFFIX,news.cn
 DOMAIN-SUFFIX,xinhuanet.com
@@ -1591,6 +1595,8 @@ DOMAIN-SUFFIX,mingxuan.store
 DOMAIN-SUFFIX,12315.cn
 DOMAIN-SUFFIX,12321.cn
 DOMAIN-SUFFIX,gov.cn
+## 中华全国总工会
+DOMAIN-SUFFIX,acftu.org
 ## 中国气象局
 DOMAIN-SUFFIX,cma.cn
 ## 政务和公益机构域名注册管理中心
@@ -1599,6 +1605,8 @@ DOMAIN-SUFFIX,conac.cn
 DOMAIN-SUFFIX,nmc.cn
 ## 中国互联网联合辟谣平台
 DOMAIN-SUFFIX,piyao.org.cn
+## 中国红十字会
+DOMAIN-SUFFIX,redcross.org.cn
 ## 中国殡葬网
 DOMAIN-SUFFIX,zgbznet.com.cn
 
@@ -1828,6 +1836,9 @@ DOMAIN-SUFFIX,baicizhan.com
 DOMAIN-SUFFIX,baicizhan.org
 DOMAIN-SUFFIX,bczcdn.com
 DOMAIN-SUFFIX,bczeducation.cn
+# 班小二
+DOMAIN-SUFFIX,banxiaoer.com
+DOMAIN-SUFFIX,banxiaoer.net
 # 毕业之家科研服务平台
 DOMAIN-SUFFIX,biyehome.net
 # Burning Vocabulary
@@ -1901,8 +1912,13 @@ DOMAIN-SUFFIX,unipus.cn
 DOMAIN-SUFFIX,weilaiyunxiao.com
 # 北京嘉瑞新创教育咨询有限公司
 DOMAIN-SUFFIX,winyoungreading.com
+# 博茂择优
+DOMAIN-SUFFIX,wjwai.com
+DOMAIN-SUFFIX,zysn.net
 # 时代行云
 DOMAIN-SUFFIX,x-cloud.cc
+# 西柚英语
+DOMAIN-SUFFIX,xiyouyingyu.com
 # 学科网
 DOMAIN-SUFFIX,xkw.com
 DOMAIN-SUFFIX,zxxk.com
@@ -1916,9 +1932,6 @@ DOMAIN-SUFFIX,zhan.com
 DOMAIN-SUFFIX,zhihuishu.com
 # 浙江省教育考试院
 DOMAIN-SUFFIX,zjzs.net
-# 班小二
-DOMAIN-SUFFIX,banxiaoer.com
-DOMAIN-SUFFIX,banxiaoer.net
 #end include:category-education-cn
 #include:category-olympiad-in-informatics
 # LeetCode 中国站
@@ -2684,6 +2697,7 @@ DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ksosoft.com
 
 # Kingsoft Cloud
+DOMAIN-SUFFIX,kcdnvip.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ks-cdn1.com
 DOMAIN-SUFFIX,ksyun.com

@@ -137,6 +137,9 @@ DOMAIN-SUFFIX,baicizhan.com
 DOMAIN-SUFFIX,baicizhan.org
 DOMAIN-SUFFIX,bczcdn.com
 DOMAIN-SUFFIX,bczeducation.cn
+# 班小二
+DOMAIN-SUFFIX,banxiaoer.com
+DOMAIN-SUFFIX,banxiaoer.net
 # 毕业之家科研服务平台
 DOMAIN-SUFFIX,biyehome.net
 # Burning Vocabulary
@@ -210,8 +213,13 @@ DOMAIN-SUFFIX,unipus.cn
 DOMAIN-SUFFIX,weilaiyunxiao.com
 # 北京嘉瑞新创教育咨询有限公司
 DOMAIN-SUFFIX,winyoungreading.com
+# 博茂择优
+DOMAIN-SUFFIX,wjwai.com
+DOMAIN-SUFFIX,zysn.net
 # 时代行云
 DOMAIN-SUFFIX,x-cloud.cc
+# 西柚英语
+DOMAIN-SUFFIX,xiyouyingyu.com
 # 学科网
 DOMAIN-SUFFIX,xkw.com
 DOMAIN-SUFFIX,zxxk.com
@@ -225,6 +233,3 @@ DOMAIN-SUFFIX,zhan.com
 DOMAIN-SUFFIX,zhihuishu.com
 # 浙江省教育考试院
 DOMAIN-SUFFIX,zjzs.net
-# 班小二
-DOMAIN-SUFFIX,banxiaoer.com
-DOMAIN-SUFFIX,banxiaoer.net

@@ -253,6 +253,8 @@ DOMAIN-SUFFIX,utoken.umeng.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,z.gds.cnzz.com
 DOMAIN-WILDCARD,speed..ad.*.prod.hosts.ooklaserver.net
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
 DOMAIN-SUFFIX,tdsdk.cpatrk.net
 DOMAIN-SUFFIX,ads-uo.api.leiniao.com
 DOMAIN-SUFFIX,ads-ut.api.leiniao.com
@@ -349,6 +351,7 @@ DOMAIN,pixel.yandex.com
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN-SUFFIX,snapads.com
 DOMAIN-SUFFIX,analytics.tiktok.com
+DOMAIN,sentry.iptv.rt.ru
 DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,adserviceretry.kglink.cn
 DOMAIN-SUFFIX,adserviceretry.kugou.com
@@ -651,11 +654,8 @@ DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,roistat.com    #Russian marketing company
-DOMAIN-SUFFIX,envybox.io    #Website conversion widgets
 DOMAIN-SUFFIX,flocktory.com    #Marketing personalization platform
-DOMAIN-SUFFIX,saas-support.com    #CDN/infrastructure for Envybox
 DOMAIN-SUFFIX,targetads.io    #Advertising verification platform
-DOMAIN-SUFFIX,whitesaas.com    #White-label product of Envybox
 DOMAIN-SUFFIX,ad.games.dmm.com
 DOMAIN-SUFFIX,bluekai.com
 DOMAIN-SUFFIX,fout.jp

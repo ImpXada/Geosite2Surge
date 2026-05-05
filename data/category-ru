@@ -593,6 +593,100 @@ DOMAIN-SUFFIX,ad-cdek.ru
 DOMAIN-SUFFIX,cdek.shopping
 DOMAIN-SUFFIX,cdek.ru
 #end include:cdek
+#include:comssone
+DOMAIN-SUFFIX,comss.club
+DOMAIN-SUFFIX,comss.info
+DOMAIN-SUFFIX,comss.me
+DOMAIN-SUFFIX,comss.net
+DOMAIN-SUFFIX,comss.news
+DOMAIN-SUFFIX,comss.one
+DOMAIN-SUFFIX,comss.online
+DOMAIN-SUFFIX,comss.org
+DOMAIN-SUFFIX,comss.ru
+#end include:comssone
+#include:envybox
+DOMAIN-SUFFIX,bananacall.ru
+DOMAIN-SUFFIX,beesbfl.ru
+DOMAIN-SUFFIX,beescrm.ru
+DOMAIN-SUFFIX,bimsaas.ru
+DOMAIN-SUFFIX,callbackkiller.com
+DOMAIN-SUFFIX,cbkiller.com
+DOMAIN-SUFFIX,envybox.company
+DOMAIN-SUFFIX,envybox.family
+DOMAIN-SUFFIX,envybox.io
+DOMAIN-SUFFIX,envybox.kg
+DOMAIN-SUFFIX,envybox.su
+DOMAIN-SUFFIX,envycdp.com
+DOMAIN-SUFFIX,envycdp.ru
+DOMAIN-SUFFIX,envycrm.com
+DOMAIN-SUFFIX,envyday.ru
+DOMAIN-SUFFIX,killercb.ru
+DOMAIN-SUFFIX,myenvy.ru
+DOMAIN-SUFFIX,quizlink.ru
+DOMAIN-SUFFIX,saas-support.com
+DOMAIN-SUFFIX,whitesaas.com
+
+# IDN ccTLD
+DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai    #энвибокс.рф
+#end include:envybox
+#include:genotek-ru
+DOMAIN-SUFFIX,genetic-technologies.am
+DOMAIN-SUFFIX,genotek.am
+DOMAIN-SUFFIX,genotek.es
+DOMAIN-SUFFIX,genotek.eu
+DOMAIN-SUFFIX,genotek.health
+DOMAIN-SUFFIX,genotek.ru
+
+# Eligens
+DOMAIN-SUFFIX,eligens.cl
+DOMAIN-SUFFIX,eligens.com.br
+DOMAIN-SUFFIX,eligens.io
+#end include:genotek-ru
+#include:gismeteo
+DOMAIN-SUFFIX,gismeteo.by
+DOMAIN-SUFFIX,gismeteo.com
+DOMAIN-SUFFIX,gismeteo.net
+DOMAIN-SUFFIX,gismeteo.ru
+DOMAIN-SUFFIX,gismeteo.st
+
+# Meteofor
+DOMAIN-SUFFIX,meteofor.com
+DOMAIN-SUFFIX,meteofor.st
+#end include:gismeteo
+#include:group-ib
+DOMAIN-SUFFIX,antiphishing.nl
+DOMAIN-SUFFIX,antiphishing.ru
+DOMAIN-SUFFIX,cert-gib.com
+DOMAIN-SUFFIX,cert-gib.ru
+DOMAIN-SUFFIX,cybercrimecon.com
+DOMAIN-SUFFIX,gibdev.net
+DOMAIN-SUFFIX,g-ib.ae
+DOMAIN-SUFFIX,g-ib.ru
+DOMAIN-SUFFIX,g-ib.sg
+DOMAIN-SUFFIX,g-ib.us
+DOMAIN-SUFFIX,gib-global.com
+DOMAIN-SUFFIX,gib.sg
+DOMAIN-SUFFIX,gibtds.ru
+DOMAIN-SUFFIX,group-ib.ae
+DOMAIN-SUFFIX,group-ib.co.uk
+DOMAIN-SUFFIX,group-ib.com
+DOMAIN-SUFFIX,group-ib.de
+DOMAIN-SUFFIX,group-ib.eu
+DOMAIN-SUFFIX,group-ib.ru
+DOMAIN-SUFFIX,group-ib.sg
+DOMAIN-SUFFIX,group-ib.us
+DOMAIN-SUFFIX,groupib.ae
+DOMAIN-SUFFIX,groupib.sg
+DOMAIN-SUFFIX,groupib.us
+
+# F.A.C.C.T.
+DOMAIN-SUFFIX,f6.dev
+DOMAIN-SUFFIX,f6.ru
+DOMAIN-SUFFIX,f6.security
+DOMAIN-SUFFIX,facct.email
+DOMAIN-SUFFIX,facct.ru
+DOMAIN-SUFFIX,future-cs.ru
+#end include:group-ib
 #include:headhunter
 DOMAIN-SUFFIX,hh.by
 DOMAIN-SUFFIX,hh.kz
@@ -603,6 +697,11 @@ DOMAIN-SUFFIX,setka.ru
 DOMAIN-SUFFIX,talantix.ru
 DOMAIN-SUFFIX,zarplata.ru
 #end include:headhunter
+#include:ideco-ru
+DOMAIN-SUFFIX,ideco.dev
+DOMAIN-SUFFIX,ideco.ru
+DOMAIN-SUFFIX,idecosoftware.ru
+#end include:ideco-ru
 #include:kaspersky
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kaspersky.com
@@ -1642,16 +1741,7 @@ DOMAIN-SUFFIX,netmonet.co
 DOMAIN-SUFFIX,tips.tips
 
 # Telecom operators
-DOMAIN-SUFFIX,beeline.ru
-DOMAIN-SUFFIX,dom.ru
-DOMAIN-SUFFIX,mts.ru
-DOMAIN-SUFFIX,mymts.ru
-DOMAIN-SUFFIX,rostelecom.ru
-DOMAIN-SUFFIX,rt.ru
-DOMAIN-SUFFIX,t2.ru
-DOMAIN-SUFFIX,tele2.ru
-
-## Megafon
+#include:megafon
 DOMAIN-SUFFIX,inplat.ru
 DOMAIN-SUFFIX,megafon.com
 DOMAIN-SUFFIX,megafon.ru
@@ -1662,10 +1752,57 @@ DOMAIN-SUFFIX,scartel.ru
 DOMAIN-SUFFIX,yota.ru
 DOMAIN-SUFFIX,yotagamer.ru
 
-### IDN ccTLD
+# IDN ccTLD
 DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai    #ёта.рф
 DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai    #ета.рф
 DOMAIN-SUFFIX,xn--80arpq.xn--p1ai    #йота.рф
+#end include:megafon
+#include:mts-ru
+DOMAIN-SUFFIX,mts-ws.net
+DOMAIN-SUFFIX,mts.ru
+DOMAIN-SUFFIX,mymts.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+
+# Ecosystem
+
+## Finance
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsbank.ru
+DOMAIN-SUFFIX,mtsdengi.ru
+DOMAIN-SUFFIX,tvoyodbo.online
+
+## Kion
+DOMAIN-SUFFIX,kion.ru
+
+## ON Media (MTS Media)
+DOMAIN-SUFFIX,mtsmedia.ru
+DOMAIN-SUFFIX,on-media.ru
+#end include:mts-ru
+#include:rostelecom
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,wink.am
+DOMAIN-SUFFIX,wink.ru
+#end include:wink
+
+DOMAIN-SUFFIX,azbukainterneta.ru
+DOMAIN-SUFFIX,rostelecom.ru
+DOMAIN-SUFFIX,rt.ru
+
+# Tracking
+DOMAIN,sentry.iptv.rt.ru
+#end include:rostelecom
+#include:t2-ru
+DOMAIN-SUFFIX,b2c-digest.ru
+DOMAIN-SUFFIX,t2.ru
+DOMAIN-SUFFIX,tele2.ru
+#end include:t2-ru
+DOMAIN-SUFFIX,beeline.ru
+DOMAIN-SUFFIX,dom.ru
 
 # Other domains
 DOMAIN-SUFFIX,apptrackpets.com    #Pet GPS tracker service (Yandex Cloud, reg.ru)
@@ -1682,13 +1819,9 @@ DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)
 
 # Other services
 DOMAIN-SUFFIX,3ebra.net    #Zebra Net Bureau, web development agency
-DOMAIN-SUFFIX,envybox.io    #Website conversion widgets
 DOMAIN-SUFFIX,flomni.com    #Omnichannel communications platform
 DOMAIN-SUFFIX,flocktory.com    #Marketing personalization platform
-DOMAIN-SUFFIX,group-ib.com    #Group-IB cybersecurity company
 DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
 DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
-DOMAIN-SUFFIX,saas-support.com    #CDN/infrastructure for Envybox
 DOMAIN-SUFFIX,targetads.io    #Advertising verification platform
-DOMAIN-SUFFIX,whitesaas.com    #White-label product of Envybox
 DOMAIN-SUFFIX,yourgood.app    #CRM for small business

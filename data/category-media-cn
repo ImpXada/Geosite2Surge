@@ -260,6 +260,8 @@ DOMAIN-SUFFIX,cqhlw.cn
 DOMAIN-SUFFIX,cqliving.com
 DOMAIN-SUFFIX,cqnews.net
 DOMAIN-SUFFIX,cqsjb.com
+# 中国质量新闻网
+DOMAIN-SUFFIX,cqn.com.cn
 # 中证网
 DOMAIN-SUFFIX,cs.com.cn
 # 极目新闻/楚天都市报
@@ -379,6 +381,8 @@ DOMAIN-SUFFIX,mydrivers.com
 DOMAIN-SUFFIX,nanyuenews.com
 # 每日经济新闻报社
 DOMAIN-SUFFIX,nbd.com.cn
+# 新周刊
+DOMAIN-SUFFIX,neweekly.com.cn
 # 新华社
 DOMAIN-SUFFIX,news.cn
 DOMAIN-SUFFIX,xinhuanet.com

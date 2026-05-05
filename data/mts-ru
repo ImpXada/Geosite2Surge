@@ -1,0 +1,22 @@
+DOMAIN-SUFFIX,mts-ws.net
+DOMAIN-SUFFIX,mts.ru
+DOMAIN-SUFFIX,mymts.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+
+# Ecosystem
+
+## Finance
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsbank.ru
+DOMAIN-SUFFIX,mtsdengi.ru
+DOMAIN-SUFFIX,tvoyodbo.online
+
+## Kion
+DOMAIN-SUFFIX,kion.ru
+
+## ON Media (MTS Media)
+DOMAIN-SUFFIX,mtsmedia.ru
+DOMAIN-SUFFIX,on-media.ru

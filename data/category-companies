@@ -1808,6 +1808,31 @@ DOMAIN-SUFFIX,ads-api.duolingo.com
 DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN-SUFFIX,metrics.duolingo.com
 #end include:duolingo
+#include:envybox
+DOMAIN-SUFFIX,bananacall.ru
+DOMAIN-SUFFIX,beesbfl.ru
+DOMAIN-SUFFIX,beescrm.ru
+DOMAIN-SUFFIX,bimsaas.ru
+DOMAIN-SUFFIX,callbackkiller.com
+DOMAIN-SUFFIX,cbkiller.com
+DOMAIN-SUFFIX,envybox.company
+DOMAIN-SUFFIX,envybox.family
+DOMAIN-SUFFIX,envybox.io
+DOMAIN-SUFFIX,envybox.kg
+DOMAIN-SUFFIX,envybox.su
+DOMAIN-SUFFIX,envycdp.com
+DOMAIN-SUFFIX,envycdp.ru
+DOMAIN-SUFFIX,envycrm.com
+DOMAIN-SUFFIX,envyday.ru
+DOMAIN-SUFFIX,killercb.ru
+DOMAIN-SUFFIX,myenvy.ru
+DOMAIN-SUFFIX,quizlink.ru
+DOMAIN-SUFFIX,saas-support.com
+DOMAIN-SUFFIX,whitesaas.com
+
+# IDN ccTLD
+DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai    #энвибокс.рф
+#end include:envybox
 #include:faronics
 DOMAIN-SUFFIX,clickedu.co.uk
 DOMAIN-SUFFIX,deepfreeze.co.uk
@@ -1829,6 +1854,19 @@ DOMAIN-SUFFIX,faronicswise.com
 
 DOMAIN,faronics.kayako.com
 #end include:faronics
+#include:genotek-ru
+DOMAIN-SUFFIX,genetic-technologies.am
+DOMAIN-SUFFIX,genotek.am
+DOMAIN-SUFFIX,genotek.es
+DOMAIN-SUFFIX,genotek.eu
+DOMAIN-SUFFIX,genotek.health
+DOMAIN-SUFFIX,genotek.ru
+
+# Eligens
+DOMAIN-SUFFIX,eligens.cl
+DOMAIN-SUFFIX,eligens.com.br
+DOMAIN-SUFFIX,eligens.io
+#end include:genotek-ru
 #include:giffgaff
 DOMAIN-SUFFIX,giffgaff.com
 DOMAIN-SUFFIX,giffgaff.design
@@ -3194,6 +3232,40 @@ DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
 DOMAIN,xn--flw351e.com
 #end include:google
+#include:group-ib
+DOMAIN-SUFFIX,antiphishing.nl
+DOMAIN-SUFFIX,antiphishing.ru
+DOMAIN-SUFFIX,cert-gib.com
+DOMAIN-SUFFIX,cert-gib.ru
+DOMAIN-SUFFIX,cybercrimecon.com
+DOMAIN-SUFFIX,gibdev.net
+DOMAIN-SUFFIX,g-ib.ae
+DOMAIN-SUFFIX,g-ib.ru
+DOMAIN-SUFFIX,g-ib.sg
+DOMAIN-SUFFIX,g-ib.us
+DOMAIN-SUFFIX,gib-global.com
+DOMAIN-SUFFIX,gib.sg
+DOMAIN-SUFFIX,gibtds.ru
+DOMAIN-SUFFIX,group-ib.ae
+DOMAIN-SUFFIX,group-ib.co.uk
+DOMAIN-SUFFIX,group-ib.com
+DOMAIN-SUFFIX,group-ib.de
+DOMAIN-SUFFIX,group-ib.eu
+DOMAIN-SUFFIX,group-ib.ru
+DOMAIN-SUFFIX,group-ib.sg
+DOMAIN-SUFFIX,group-ib.us
+DOMAIN-SUFFIX,groupib.ae
+DOMAIN-SUFFIX,groupib.sg
+DOMAIN-SUFFIX,groupib.us
+
+# F.A.C.C.T.
+DOMAIN-SUFFIX,f6.dev
+DOMAIN-SUFFIX,f6.ru
+DOMAIN-SUFFIX,f6.security
+DOMAIN-SUFFIX,facct.email
+DOMAIN-SUFFIX,facct.ru
+DOMAIN-SUFFIX,future-cs.ru
+#end include:group-ib
 #include:headhunter
 DOMAIN-SUFFIX,hh.by
 DOMAIN-SUFFIX,hh.kz
@@ -3455,6 +3527,11 @@ DOMAIN-SUFFIX,interactivebrokers.com.sg
 DOMAIN-SUFFIX,interactivebrokers.eu
 DOMAIN-SUFFIX,interactivebrokers.ie
 #end include:ibkr
+#include:ideco-ru
+DOMAIN-SUFFIX,ideco.dev
+DOMAIN-SUFFIX,ideco.ru
+DOMAIN-SUFFIX,idecosoftware.ru
+#end include:ideco-ru
 #include:inshot
 DOMAIN-SUFFIX,inshot.cc
 DOMAIN-SUFFIX,inshot.com
@@ -4407,6 +4484,22 @@ DOMAIN-SUFFIX,vkplay.live
 DOMAIN-SUFFIX,youla.io
 DOMAIN-SUFFIX,youla.ru
 #end include:mailru-group
+#include:megafon
+DOMAIN-SUFFIX,inplat.ru
+DOMAIN-SUFFIX,megafon.com
+DOMAIN-SUFFIX,megafon.ru
+DOMAIN-SUFFIX,megafonpro.ru
+DOMAIN-SUFFIX,mgfn.ru
+DOMAIN-SUFFIX,report-megafon.ru
+DOMAIN-SUFFIX,scartel.ru
+DOMAIN-SUFFIX,yota.ru
+DOMAIN-SUFFIX,yotagamer.ru
+
+# IDN ccTLD
+DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai    #ёта.рф
+DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai    #ета.рф
+DOMAIN-SUFFIX,xn--80arpq.xn--p1ai    #йота.рф
+#end include:megafon
 #include:microsoft
 #include:azure
 # All .azure domains
@@ -5265,6 +5358,30 @@ DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,msi.cn
 DOMAIN-SUFFIX,msi.com
 #end include:msi
+#include:mts-ru
+DOMAIN-SUFFIX,mts-ws.net
+DOMAIN-SUFFIX,mts.ru
+DOMAIN-SUFFIX,mymts.ru
+
+# Ads and tracking
+DOMAIN-SUFFIX,a.mts.ru
+DOMAIN-SUFFIX,obs.mts.ru
+
+# Ecosystem
+
+## Finance
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsbank.ru
+DOMAIN-SUFFIX,mtsdengi.ru
+DOMAIN-SUFFIX,tvoyodbo.online
+
+## Kion
+DOMAIN-SUFFIX,kion.ru
+
+## ON Media (MTS Media)
+DOMAIN-SUFFIX,mtsmedia.ru
+DOMAIN-SUFFIX,on-media.ru
+#end include:mts-ru
 #include:musixmatch
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,mxmcdn.net
@@ -5612,6 +5729,21 @@ DOMAIN-SUFFIX,razerzone.jp
 DOMAIN-SUFFIX,respawnbyrazer.com
 DOMAIN-SUFFIX,rzr.to
 #end include:razer
+#include:rostelecom
+DOMAIN-SUFFIX,restream-media.net
+DOMAIN-SUFFIX,restream.ru
+DOMAIN-SUFFIX,more.tv
+DOMAIN-SUFFIX,wink.am
+DOMAIN-SUFFIX,wink.ru
+#end include:wink
+
+DOMAIN-SUFFIX,azbukainterneta.ru
+DOMAIN-SUFFIX,rostelecom.ru
+DOMAIN-SUFFIX,rt.ru
+
+# Tracking
+DOMAIN,sentry.iptv.rt.ru
+#end include:rostelecom
 #include:salesforce
 DOMAIN-SUFFIX,appcloud.com
 DOMAIN-SUFFIX,appexchange.com
@@ -5922,6 +6054,11 @@ DOMAIN-SUFFIX,synology.me
 DOMAIN-SUFFIX,symantec.com
 DOMAIN-SUFFIX,symantecliveupdate.com
 #end include:symantec
+#include:t2-ru
+DOMAIN-SUFFIX,b2c-digest.ru
+DOMAIN-SUFFIX,t2.ru
+DOMAIN-SUFFIX,tele2.ru
+#end include:t2-ru
 #include:theboringcompany
 DOMAIN-SUFFIX,boringcompany.com
 #end include:theboringcompany
