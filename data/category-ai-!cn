@@ -9,22 +9,6 @@ DOMAIN-SUFFIX,claudeusercontent.com
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net
 #end include:anthropic
-#include:bytedance-ai-!cn
-#include:dola
-# Dola, formly ciciai, an AI service of bytedance
-DOMAIN-SUFFIX,cici.com
-DOMAIN-SUFFIX,ciciai.com
-DOMAIN-SUFFIX,ciciaicdn.com
-DOMAIN-SUFFIX,dola.com
-#end include:dola
-
-# related to doubao
-DOMAIN-SUFFIX,coze.com
-
-# related to trae
-DOMAIN-SUFFIX,marscode.com
-DOMAIN-SUFFIX,trae.ai
-#end include:bytedance-ai-!cn
 #include:cerebras
 DOMAIN-SUFFIX,cerebras.ai
 #end include:cerebras
@@ -59,6 +43,16 @@ DOMAIN-SUFFIX,themeforest.net
 #end include:envato
 #include:github-copilot
 DOMAIN-SUFFIX,githubcopilot.com
+
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-workspace.githubnext.com
+
+# Azure Blob Storage
+DOMAIN,copilotprodattachments.blob.core.windows.net
+
+# Ads/tracking
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 #end include:github-copilot
 #include:google-deepmind
 # Google DeepMind
@@ -210,6 +204,7 @@ DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
 
 DOMAIN-SUFFIX,agentclientprotocol.com
+DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,copilot.microsoft.com
@@ -232,5 +227,6 @@ DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,openspec.dev
 DOMAIN-SUFFIX,plannotator.ai
 DOMAIN-SUFFIX,spicywriter.com

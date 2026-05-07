@@ -671,6 +671,7 @@ DOMAIN-SUFFIX,supercellcreators.com
 DOMAIN-SUFFIX,supercellgames.com
 DOMAIN-SUFFIX,supercellid.com
 DOMAIN-SUFFIX,supercellstore.com
+DOMAIN-SUFFIX,supr.cl
 #end include:supercell
 #include:take-two
 #include:2kgames
