@@ -1049,8 +1049,14 @@ DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,yyds.co
 #end include:lkcoffee
 
+# 麦当劳中国
+
 DOMAIN-SUFFIX,3songshu.com
+
+# 海底捞
 DOMAIN-SUFFIX,haidilao.com
+DOMAIN-SUFFIX,hdlcdns.com
+DOMAIN-SUFFIX,kiwa-tech.com
 
 # 喜茶
 DOMAIN-SUFFIX,heytea.com
@@ -1072,6 +1078,39 @@ DOMAIN-SUFFIX,yst.com.cn
 # 娃哈哈
 DOMAIN-SUFFIX,wahaha.com.cn
 DOMAIN-SUFFIX,whhhealth.com
+
+# 茶百道（四川蜀信云茶）
+DOMAIN-SUFFIX,shuxinyc.com
+
+# 蜜雪冰城
+DOMAIN-SUFFIX,mxbc.com
+DOMAIN-SUFFIX,mxbc.net
+
+# 北京吉野家/DQ
+DOMAIN-SUFFIX,hophing.cn
+DOMAIN-SUFFIX,hophing.com.cn
+
+# 汉堡王
+DOMAIN-SUFFIX,bkchina.cn
+
+# 肯德基/百胜中国
+DOMAIN-SUFFIX,hwwt8.com
+DOMAIN-SUFFIX,kfc.com.cn
+DOMAIN-SUFFIX,yumchina.com
+
+# 企迈/智迈（一堆餐饮企业在用的 CRM）
+DOMAIN-SUFFIX,qmai.com
+DOMAIN-SUFFIX,qmai.cn
+DOMAIN-SUFFIX,qmimg.cn
+
+# 德克士
+DOMAIN-SUFFIX,dicos.com.cn
+
+# Tracking
+DOMAIN-SUFFIX,logger.qmai.cn
+DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,trackserver.shuxinyc.com
 #end include:category-food-cn
 # 快递物流
 #include:category-logistics-cn

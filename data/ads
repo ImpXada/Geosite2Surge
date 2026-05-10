@@ -666,6 +666,10 @@ DOMAIN-SUFFIX,wangmeng.baidu.com
 DOMAIN-SUFFIX,wkctj.baidu.com
 DOMAIN-SUFFIX,wm.baidu.com
 DOMAIN-SUFFIX,zz.bdstatic.com
+DOMAIN-SUFFIX,logger.qmai.cn
+DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,trackserver.shuxinyc.com
 DOMAIN-SUFFIX,advertising.apple.com
 DOMAIN-SUFFIX,api-adservices.apple.com
 DOMAIN-SUFFIX,iadsdk.apple.com
@@ -750,9 +754,10 @@ DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
-DOMAIN-SUFFIX,roistat.com    #Russian marketing company
-DOMAIN-SUFFIX,flocktory.com    #Marketing personalization platform
-DOMAIN-SUFFIX,targetads.io    #Advertising verification platform
+DOMAIN-SUFFIX,adriver.ru
+DOMAIN-SUFFIX,flocktory.com
+DOMAIN-SUFFIX,roistat.com
+DOMAIN-SUFFIX,targetads.io
 DOMAIN,disney.my.sentry.io
 DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,amazon-adsystem.com

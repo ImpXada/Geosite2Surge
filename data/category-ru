@@ -66,6 +66,7 @@ DOMAIN-SUFFIX,kremlin.ru    #Online representation of the President of Russia
 DOMAIN-SUFFIX,mil.ru    #Ministry of Defense of the Russian Federation
 DOMAIN-SUFFIX,nalog.ru    #Federal Tax Service
 DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai    #Honest Sign - State Labeling System
+DOMAIN-SUFFIX,xn--b1afabzvcegckfhg.xn--p1ai    #Military Registration Register
 
 #
 # Regional sites and Public Services
@@ -590,7 +591,15 @@ DOMAIN-SUFFIX,dzeninfra.ru
 DOMAIN-SUFFIX,apiok.ru
 DOMAIN-SUFFIX,insideok.ru
 DOMAIN-SUFFIX,odkl.ru
+DOMAIN-SUFFIX,odnoklasniki.by
+DOMAIN-SUFFIX,odnoklasniki.ua
+DOMAIN-SUFFIX,odnoklassniki.am
+DOMAIN-SUFFIX,odnoklassniki.by
+DOMAIN-SUFFIX,odnoklassniki.co.ee
+DOMAIN-SUFFIX,odnoklassniki.eu
+DOMAIN-SUFFIX,odnoklassniki.lv
 DOMAIN-SUFFIX,odnoklassniki.ru
+DOMAIN-SUFFIX,odnoklassniki.tj
 DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okl.lt
@@ -697,6 +706,12 @@ DOMAIN-SUFFIX,yclients.com
 # IDN ccTLD
 DOMAIN-SUFFIX,xn--80asgb.xn--p1ai    #майл.рф
 DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai    #мейл.рф
+
+# Unknown-purpose domains with DGA subdomains
+DOMAIN-SUFFIX,justveryok.com
+DOMAIN-SUFFIX,keyboardmen.com
+DOMAIN-SUFFIX,rabbitcounter.com
+DOMAIN-SUFFIX,sayeasy.eu
 
 # Ads and tracking
 DOMAIN-SUFFIX,ad.mail.ru
@@ -1532,24 +1547,29 @@ DOMAIN-SUFFIX,tele2.ru
 DOMAIN-SUFFIX,beeline.ru
 DOMAIN-SUFFIX,dom.ru
 
-# Other domains
+# Other services
+DOMAIN-SUFFIX,3ebra.net    #Zebra Net Bureau, web development agency
 DOMAIN-SUFFIX,apptrackpets.com    #Pet GPS tracker service (Yandex Cloud, reg.ru)
+DOMAIN-SUFFIX,flomni.com    #Omnichannel communications platform
 DOMAIN-SUFFIX,gazfond-pn.ru    #Non-state pension fund GAZFOND pension savings
+DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
 DOMAIN-SUFFIX,litres.ru    #E-book and audiobook service
 DOMAIN-SUFFIX,meteoinfo.ru    #Hydrometeorological Center of Russia
 DOMAIN-SUFFIX,ngenix.net    #NGENIX is a Russian provider of acceleration and security services for public web resources
+DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
 DOMAIN-SUFFIX,pochta.ru    #Russian post
 DOMAIN-SUFFIX,qms.ru    #Russian internet speed testing service
-DOMAIN-SUFFIX,roistat.com    #Russian marketing company
 DOMAIN-SUFFIX,srv-hub.org    #Website buider
 DOMAIN-SUFFIX,t1.cloud    #Russian cloud storage provider
 DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)
-
-# Other services
-DOMAIN-SUFFIX,3ebra.net    #Zebra Net Bureau, web development agency
-DOMAIN-SUFFIX,flomni.com    #Omnichannel communications platform
-DOMAIN-SUFFIX,flocktory.com    #Marketing personalization platform
-DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
-DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
-DOMAIN-SUFFIX,targetads.io    #Advertising verification platform
 DOMAIN-SUFFIX,yourgood.app    #CRM for small business
+
+## Ads and tracking
+DOMAIN-SUFFIX,adriver.ru
+DOMAIN-SUFFIX,flocktory.com
+DOMAIN-SUFFIX,roistat.com
+DOMAIN-SUFFIX,targetads.io
+
+## Planeta Zdorov'ya pharmacy
+DOMAIN-SUFFIX,planetazdorovo.ru
+DOMAIN-SUFFIX,pz.help
