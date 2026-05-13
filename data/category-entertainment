@@ -1109,7 +1109,12 @@ DOMAIN-SUFFIX,nijiyome.jp
 DOMAIN-SUFFIX,triokini.com
 #end include:dlsite
 #include:ficbook
+DOMAIN-SUFFIX,fanfictionero.com
+DOMAIN-SUFFIX,fic.fan
+DOMAIN-SUFFIX,ficador.com
 DOMAIN-SUFFIX,ficbook.net
+DOMAIN-SUFFIX,ficmania.com
+DOMAIN-SUFFIX,teinon.net
 #end include:ficbook
 #include:gimy
 DOMAIN-SUFFIX,gimy.cc
@@ -1132,6 +1137,9 @@ DOMAIN,tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN,weblive-hamivideo.cdn.hinet.net
 #end include:hamivideo
 #include:hbo
+# All .hbo domains
+DOMAIN-SUFFIX,hbo
+
 DOMAIN-SUFFIX,beforeigners.com
 DOMAIN-SUFFIX,brightline.tv
 DOMAIN-SUFFIX,cinemax.com

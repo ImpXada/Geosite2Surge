@@ -1,10 +1,5 @@
-# ucoz
+# uCoz, a Russian free web hosting with a built-in content management system
 
-DOMAIN-SUFFIX,scripts-for-ucoz.ru
-DOMAIN-SUFFIX,ucoz.ru
-DOMAIN-SUFFIX,ucozmedia.ru
-DOMAIN-SUFFIX,uguide.ru
-#end include:ucoz-ru
 DOMAIN-SUFFIX,ucoz.ae
 DOMAIN-SUFFIX,ucoz.club
 DOMAIN-SUFFIX,ucoz.co
@@ -23,21 +18,30 @@ DOMAIN-SUFFIX,ucoz.md
 DOMAIN-SUFFIX,ucoz.net
 DOMAIN-SUFFIX,ucoz.org
 DOMAIN-SUFFIX,ucoz.pl
+DOMAIN-SUFFIX,ucoz.ru
 DOMAIN-SUFFIX,ucoz.site
 DOMAIN-SUFFIX,ucoz.ua
+DOMAIN-SUFFIX,ukoz.ru
 
-# ucozmedia
-
+# uCozmedia
 DOMAIN-SUFFIX,ucozmedia.com
+DOMAIN-SUFFIX,ucozmedia.ru
 
-# ukit
+# uGuide
+DOMAIN-SUFFIX,uguide.ru
+DOMAIN-SUFFIX,uguide.su
 
+# uKit
 DOMAIN-SUFFIX,ukit.ai
 DOMAIN-SUFFIX,ukit.com
 DOMAIN-SUFFIX,ukit.group
 DOMAIN-SUFFIX,ukit.me
 
-# other
-
+# Other
 DOMAIN-SUFFIX,at.ua
+DOMAIN-SUFFIX,narod.ru
+DOMAIN-SUFFIX,scripts-for-ucoz.ru
+DOMAIN-SUFFIX,ucozmail.com
 DOMAIN-SUFFIX,ucoztemplates.com
+DOMAIN-SUFFIX,usocial.pro
+DOMAIN-SUFFIX,uweb.ru

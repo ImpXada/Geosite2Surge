@@ -8,9 +8,6 @@ DOMAIN-SUFFIX,mmstat.com
 
 DOMAIN-SUFFIX,soku.com
 
-# youku video cdn
-DOMAIN-SUFFIX,cibntv.net
-
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com
 DOMAIN-SUFFIX,ad.api.mobile.youku.com

@@ -102,6 +102,7 @@ DOMAIN-SUFFIX,hrtek.ru
 DOMAIN-SUFFIX,koddobra.ru
 DOMAIN-SUFFIX,lovina.app
 DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mcs.st
 DOMAIN-SUFFIX,mediumquality.ru
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,movika.com
@@ -114,6 +115,7 @@ DOMAIN-SUFFIX,vk-apps.ru
 DOMAIN-SUFFIX,vk-records.ru
 DOMAIN-SUFFIX,vk-stadium.ru
 DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,vk.kz
 DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,vkclips.app
 DOMAIN-SUFFIX,vkcs.cloud
@@ -121,6 +123,7 @@ DOMAIN-SUFFIX,vkfest.ru
 DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,vklive.app
 DOMAIN-SUFFIX,vkvideo.ru
+DOMAIN-SUFFIX,vkworkspace.kz
 DOMAIN-SUFFIX,yclients.com
 
 # IDN ccTLD
@@ -342,6 +345,10 @@ DOMAIN-SUFFIX,uma.media
 ## Viqeo
 DOMAIN-SUFFIX,viqeo.tv
 DOMAIN-SUFFIX,viqeotv.com
+
+## VK Cloud KZ (joint venture with QazCloud)
+DOMAIN-SUFFIX,vkcloud-static.kz
+DOMAIN-SUFFIX,vkcloud.kz
 
 ## VK Play
 DOMAIN-SUFFIX,vkplay-arena.ru

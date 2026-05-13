@@ -246,6 +246,10 @@ DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,ckxx.net
 # AET 电子技术应用
 DOMAIN-SUFFIX,chinaaet.com
+# 天极网
+DOMAIN-SUFFIX,chinabyte.com
+DOMAIN-SUFFIX,tianjimedia.com
+DOMAIN-SUFFIX,yesky.com
 # 中金在线
 DOMAIN-SUFFIX,cnfol.com
 DOMAIN-SUFFIX,cnfolimg.com
@@ -400,8 +404,10 @@ DOMAIN-SUFFIX,pconline.com.cn
 # 泡泡网
 DOMAIN-SUFFIX,pcpop.com
 # 人民网
+DOMAIN-SUFFIX,pdnews.cn
 DOMAIN-SUFFIX,people.cn
 DOMAIN-SUFFIX,people.com.cn
+DOMAIN-SUFFIX,peopleapp.com
 # 品玩
 DOMAIN-SUFFIX,pingwest.com
 # 量子位

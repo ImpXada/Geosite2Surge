@@ -1,0 +1,39 @@
+DOMAIN-SUFFIX,chinapost.com.cn
+DOMAIN-SUFFIX,chinapost.cn
+
+# 邮务/快递业务
+DOMAIN-SUFFIX,11183.com.cn
+DOMAIN-SUFFIX,11185.cn
+DOMAIN-SUFFIX,ems.com.cn
+
+# 中国邮政保险
+DOMAIN-SUFFIX,chinapost-life.com
+
+# 新闻宣传中心 中国邮政报
+DOMAIN-SUFFIX,chinapostdaily.com.cn
+DOMAIN-SUFFIX,chinapostnews.com.cn
+DOMAIN-SUFFIX,chinapostnews.cn
+DOMAIN-SUFFIX,ctvpost.com
+
+# 文史中心 中国邮政邮票博物馆
+DOMAIN-SUFFIX,chnppmuseum.com
+
+# 中邮证券
+DOMAIN-SUFFIX,cnpsec.com
+
+# 邮政集团工会
+DOMAIN-SUFFIX,cptu.cn
+DOMAIN-SUFFIX,cptu.org.cn
+
+# 其他域名
+DOMAIN-SUFFIX,postoa.com.cn
+
+# 邮储银行
+DOMAIN-SUFFIX,psbc.com
+
+# 邮乐网
+DOMAIN-SUFFIX,ule.com
+DOMAIN-SUFFIX,ulecdn.com
+
+# 未知但有中邮备案
+DOMAIN-SUFFIX,postmail.cn

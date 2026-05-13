@@ -682,6 +682,7 @@ DOMAIN-SUFFIX,hrtek.ru
 DOMAIN-SUFFIX,koddobra.ru
 DOMAIN-SUFFIX,lovina.app
 DOMAIN-SUFFIX,mail.ru
+DOMAIN-SUFFIX,mcs.st
 DOMAIN-SUFFIX,mediumquality.ru
 DOMAIN-SUFFIX,memealerts.com
 DOMAIN-SUFFIX,movika.com
@@ -694,6 +695,7 @@ DOMAIN-SUFFIX,vk-apps.ru
 DOMAIN-SUFFIX,vk-records.ru
 DOMAIN-SUFFIX,vk-stadium.ru
 DOMAIN-SUFFIX,vk.company
+DOMAIN-SUFFIX,vk.kz
 DOMAIN-SUFFIX,vk.team
 DOMAIN-SUFFIX,vkclips.app
 DOMAIN-SUFFIX,vkcs.cloud
@@ -701,6 +703,7 @@ DOMAIN-SUFFIX,vkfest.ru
 DOMAIN-SUFFIX,vkgo.app
 DOMAIN-SUFFIX,vklive.app
 DOMAIN-SUFFIX,vkvideo.ru
+DOMAIN-SUFFIX,vkworkspace.kz
 DOMAIN-SUFFIX,yclients.com
 
 # IDN ccTLD
@@ -923,6 +926,10 @@ DOMAIN-SUFFIX,uma.media
 DOMAIN-SUFFIX,viqeo.tv
 DOMAIN-SUFFIX,viqeotv.com
 
+## VK Cloud KZ (joint venture with QazCloud)
+DOMAIN-SUFFIX,vkcloud-static.kz
+DOMAIN-SUFFIX,vkcloud.kz
+
 ## VK Play
 DOMAIN-SUFFIX,vkplay-arena.ru
 DOMAIN-SUFFIX,vkplay.ru
@@ -1004,12 +1011,55 @@ DOMAIN-SUFFIX,timeweb.cloud
 DOMAIN-SUFFIX,timeweb.com
 DOMAIN-SUFFIX,twcstorage.ru
 #end include:timeweb
-#include:ucoz-ru
-DOMAIN-SUFFIX,scripts-for-ucoz.ru
+#include:ucoz
+# uCoz, a Russian free web hosting with a built-in content management system
+
+DOMAIN-SUFFIX,ucoz.ae
+DOMAIN-SUFFIX,ucoz.club
+DOMAIN-SUFFIX,ucoz.co
+DOMAIN-SUFFIX,ucoz.co.il
+DOMAIN-SUFFIX,ucoz.co.uk
+DOMAIN-SUFFIX,ucoz.com
+DOMAIN-SUFFIX,ucoz.com.br
+DOMAIN-SUFFIX,ucoz.com.ro
+DOMAIN-SUFFIX,ucoz.de
+DOMAIN-SUFFIX,ucoz.es
+DOMAIN-SUFFIX,ucoz.fr
+DOMAIN-SUFFIX,ucoz.hu
+DOMAIN-SUFFIX,ucoz.kz
+DOMAIN-SUFFIX,ucoz.lv
+DOMAIN-SUFFIX,ucoz.md
+DOMAIN-SUFFIX,ucoz.net
+DOMAIN-SUFFIX,ucoz.org
+DOMAIN-SUFFIX,ucoz.pl
 DOMAIN-SUFFIX,ucoz.ru
+DOMAIN-SUFFIX,ucoz.site
+DOMAIN-SUFFIX,ucoz.ua
+DOMAIN-SUFFIX,ukoz.ru
+
+# uCozmedia
+DOMAIN-SUFFIX,ucozmedia.com
 DOMAIN-SUFFIX,ucozmedia.ru
+
+# uGuide
 DOMAIN-SUFFIX,uguide.ru
-#end include:ucoz-ru
+DOMAIN-SUFFIX,uguide.su
+
+# uKit
+DOMAIN-SUFFIX,ukit.ai
+DOMAIN-SUFFIX,ukit.com
+DOMAIN-SUFFIX,ukit.group
+DOMAIN-SUFFIX,ukit.me
+
+# Other
+DOMAIN-SUFFIX,at.ua
+DOMAIN-SUFFIX,narod.ru
+DOMAIN-SUFFIX,scripts-for-ucoz.ru
+DOMAIN-SUFFIX,ucozmail.com
+DOMAIN-SUFFIX,ucoztemplates.com
+DOMAIN-SUFFIX,usocial.pro
+DOMAIN-SUFFIX,uweb.ru
+#end include:ucoz
 #include:whoosh
 DOMAIN-SUFFIX,whoosh-bike.ru
 DOMAIN-SUFFIX,whoosh.bike
@@ -1163,10 +1213,22 @@ DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,myapelsin.ru
 DOMAIN-SUFFIX,domain:alfabank.oavdo.amc
 
+# BBR
+DOMAIN-SUFFIX,bbr.ru
+
 # BCS bank
 DOMAIN-SUFFIX,bcs.ru
 DOMAIN-SUFFIX,bcs-bank.ru
 DOMAIN-SUFFIX,broker.ru
+
+# Deutsche Bank
+DOMAIN-SUFFIX,dbmoscow.ru
+DOMAIN-SUFFIX,deutsche-bank.ru
+DOMAIN-SUFFIX,deutschebank.ru
+
+# DOM.RF
+DOMAIN-SUFFIX,domrfbank.ru
+DOMAIN-SUFFIX,xn--d1aqf.xn--p1ai
 
 # GazpromBank
 DOMAIN-SUFFIX,gazprombank.com
@@ -1175,12 +1237,21 @@ DOMAIN-SUFFIX,gazprombank.ru
 DOMAIN-SUFFIX,gid.ru
 DOMAIN-SUFFIX,gpb.ru
 
+# Mizuho Bank
+DOMAIN-SUFFIX,mhcb.ru
+DOMAIN-SUFFIX,mhcbr.ru
+
 # MKB
 DOMAIN-SUFFIX,mkb.ru
 
-# MTS Dengi
+# MTS
 DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,mtsbank.ru
 DOMAIN-SUFFIX,mtsdengi.ru
+
+# OTP Bank
+# Feature request: implement @ru in otpbank category
+DOMAIN-SUFFIX,otpbank.ru
 
 # PSB Bank
 DOMAIN-SUFFIX,payment.ru
@@ -1190,6 +1261,11 @@ DOMAIN-SUFFIX,psbank.ru
 
 # RUSSIA Bank
 DOMAIN-SUFFIX,abr.ru
+
+# Raiffeisen
+# Feature request: implement @ru in raiffeisenbank category
+DOMAIN-SUFFIX,raiffeisen-media.ru
+DOMAIN-SUFFIX,raiffeisen.ru
 
 # Russian Agricultural Bank
 DOMAIN-SUFFIX,rshb.ru
@@ -1336,6 +1412,9 @@ DOMAIN-SUFFIX,zvuk-b2b.com
 DOMAIN-SUFFIX,zvuk.com
 #end include:sber
 
+# Sovcombank
+DOMAIN-SUFFIX,sovcombank.ru
+
 # T-Bank (Tinkoff) and RosBank
 # IDN ccTLD domains (.рф)
 DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai    #эра-инвестиций.рф
@@ -1461,7 +1540,69 @@ DOMAIN-SUFFIX,tochka.com
 
 # VTB Bank
 DOMAIN-SUFFIX,pochtabank.ru    #subsidiary
+DOMAIN-SUFFIX,vtb-direct.com
+DOMAIN-SUFFIX,vtb-grants.fut.ru
 DOMAIN-SUFFIX,vtb.ru
+DOMAIN-SUFFIX,vtbglobalperspectives.com
+
+# Zenit
+DOMAIN-SUFFIX,credit-zenit.ru
+DOMAIN-SUFFIX,zenit-card.ru
+DOMAIN-SUFFIX,zenit.ru
+
+# Other
+DOMAIN-SUFFIX,absolutbank.ru
+DOMAIN-SUFFIX,akbars.ru
+DOMAIN-SUFFIX,alefbank.com
+DOMAIN-SUFFIX,ankb.ru
+DOMAIN-SUFFIX,asia-pay.ru
+DOMAIN-SUFFIX,atb.su
+DOMAIN-SUFFIX,autokreditbank.ru
+DOMAIN-SUFFIX,avangard.ru
+DOMAIN-SUFFIX,aversbank.ru
+DOMAIN-SUFFIX,bank-arzamas.ru
+DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru
+DOMAIN-SUFFIX,bank131.com
+DOMAIN-SUFFIX,bankermak.ru
+DOMAIN-SUFFIX,bfa.ru
+DOMAIN-SUFFIX,bm-bank.ru
+DOMAIN-SUFFIX,bspb.ru
+DOMAIN-SUFFIX,commerzbank.ru
+DOMAIN-SUFFIX,finambank.ru
+DOMAIN-SUFFIX,forshtadt.ru
+DOMAIN-SUFFIX,homecredit.ru
+DOMAIN-SUFFIX,ibamoscow.ru
+DOMAIN-SUFFIX,jpmorgan.ru
+DOMAIN-SUFFIX,korona.com
+DOMAIN-SUFFIX,kubankredit.ru
+DOMAIN-SUFFIX,mfk-bank.ru
+DOMAIN-SUFFIX,mvs-bank.ru
+DOMAIN-SUFFIX,noosferabank.ru
+DOMAIN-SUFFIX,primbank.ru
+DOMAIN-SUFFIX,prvbank.ru
+DOMAIN-SUFFIX,pskb.ru
+DOMAIN-SUFFIX,pvubank.com
+DOMAIN-SUFFIX,rencapbank.ru
+DOMAIN-SUFFIX,rencredit.ru
+DOMAIN-SUFFIX,rncoluminis.ru
+DOMAIN-SUFFIX,ru.ccb.com
+DOMAIN-SUFFIX,sbibankllc.ru
+DOMAIN-SUFFIX,seb.ru
+DOMAIN-SUFFIX,selkombank.ru
+DOMAIN-SUFFIX,sinara.ru
+DOMAIN-SUFFIX,slavbank.ru
+DOMAIN-SUFFIX,smbcr-bank.ru
+DOMAIN-SUFFIX,solid.ru
+DOMAIN-SUFFIX,ssb.msk.ru
+DOMAIN-SUFFIX,tagbank.ru
+DOMAIN-SUFFIX,tatsotsbank.ru
+DOMAIN-SUFFIX,tkbbank.ru
+DOMAIN-SUFFIX,ubs.com
+DOMAIN-SUFFIX,uralsib.ru
+DOMAIN-SUFFIX,vlb100.ru
+DOMAIN-SUFFIX,westernunion.ru
+DOMAIN-SUFFIX,yoobusiness.ru
+DOMAIN-SUFFIX,ziraatbank.ru
 #end include:category-bank-ru
 ## Credit History Bureaus
 DOMAIN-SUFFIX,credistory.ru
