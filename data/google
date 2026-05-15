@@ -201,6 +201,7 @@ DOMAIN-SUFFIX,stitch.withgoogle.com
 #include:google-gemini
 # This list is for backward compatibility
 
+#include:google-deepmind
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google

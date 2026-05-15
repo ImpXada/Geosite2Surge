@@ -135,9 +135,11 @@ DOMAIN-SUFFIX,sxl.cn
 DOMAIN-SUFFIX,sxlcdn.cn
 #end include:sxl
 #include:tencent-dev
+#include:cnb
 # 腾讯 云原生构建
 DOMAIN-SUFFIX,cnb.cool
 #end include:cnb
+#include:coding
 DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coding.net
 #end include:coding

@@ -1,6 +1,255 @@
 # This list contains domains that don't have access point in China mainland. This is opposite to geolocation-cn.
 
 # AI Chat
+#include:category-ai-!cn
+#include:anthropic
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudeusercontent.com
+
+# CDN
+DOMAIN,servd-anthropic-website.b-cdn.net
+#end include:anthropic
+#include:bytedance-ai-!cn
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com
+#end include:dola
+
+# related to doubao
+DOMAIN-SUFFIX,coze.com
+
+# related to trae
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
+#end include:bytedance-ai-!cn
+#include:cerebras
+DOMAIN-SUFFIX,cerebras.ai
+#end include:cerebras
+#include:comfy
+# 绘世启动器
+DOMAIN-SUFFIX,oystermercury.top
+#end include:comfy-ui-launcher
+
+DOMAIN-SUFFIX,comfy.org
+
+# Dev
+DOMAIN-SUFFIX,comfyci.org
+
+# Redirect
+DOMAIN-SUFFIX,comfyregistry.org
+#end include:comfy
+#include:cursor
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursorapi.com
+#end include:cursor
+#include:elevenlabs
+DOMAIN-SUFFIX,elevenlabs.com
+DOMAIN-SUFFIX,elevenlabs.io
+#end include:elevenlabs
+#include:envato
+DOMAIN-SUFFIX,envato-static.com
+DOMAIN-SUFFIX,envato.com
+DOMAIN-SUFFIX,envatousercontent.com
+DOMAIN-SUFFIX,themeforest.net
+#end include:envato
+#include:github-copilot
+DOMAIN-SUFFIX,githubcopilot.com
+
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-workspace.githubnext.com
+
+# Azure Blob Storage
+DOMAIN,copilotprodattachments.blob.core.windows.net
+
+# Ads/tracking
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+#end include:github-copilot
+#include:google-deepmind
+# Google DeepMind
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+
+# Google Generative Language API
+DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+
+# Google AI Studio
+DOMAIN,ai.google.dev
+DOMAIN,alkalicore-pa.clients6.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,webchannel-alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,makersuite.google.com
+
+DOMAIN-SUFFIX,ai.studio
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,gemini.google.com
+
+# Gemini Code Assist
+# https://docs.cloud.google.com/gemini/docs/codeassist/set-up-gemini
+DOMAIN,cloudaicompanion.googleapis.com
+DOMAIN,cloudcode-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
+
+# NotebookLM
+DOMAIN,notebooklm-pa.googleapis.com
+DOMAIN,notebooklm.googleapis.com
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+
+# Jules
+DOMAIN-SUFFIX,jules.google
+DOMAIN-SUFFIX,jules.google.com
+
+# Google AI Labs
+DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+
+# Android Studio Gemini Code Assist
+DOMAIN-SUFFIX,aicode.googleapis.com
+DOMAIN-SUFFIX,aida.googleapis.com
+
+# Opal
+DOMAIN-SUFFIX,opal.google
+DOMAIN-SUFFIX,opal.google.com
+
+# Antigravity
+DOMAIN,antigravity-pa.googleapis.com
+DOMAIN,antigravity.googleapis.com
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,antigravity-unleash.goog
+
+# Stitch
+DOMAIN-SUFFIX,stitch.withgoogle.com
+#end include:google-deepmind
+#include:groq
+DOMAIN-SUFFIX,groq.com
+#end include:groq
+#include:huggingface
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.co
+#end include:huggingface
+#include:liveperson
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net
+#end include:liveperson
+#include:manus
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
+#end include:manus
+#include:openai
+# Main domain
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,crixet.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
+
+# CDN & API
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN,openaicom.imgix.net
+DOMAIN,openaicomproductionae4b.blob.core.windows.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN-WILDCARD,chatgpt-async-webps-prod-*-*.webpubsub.azure.com
+
+# tracking
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,browser-intake-datadoghq.com
+
+# Advanced Voice
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
+#end include:openai
+#include:perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+
+DOMAIN,ppl-ai-file-upload.s3.amazonaws.com
+DOMAIN,pplx-res.cloudinary.com
+#end include:perplexity
+#include:poe
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+#end include:poe
+#include:windsurf
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,windsurf.com
+#end include:windsurf
+#include:xai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,x.ai
+#end include:xai
+#include:youmind
+# Youmind
+DOMAIN-SUFFIX,youmind.ai
+DOMAIN-SUFFIX,youmind.com
+DOMAIN-SUFFIX,youmind.site
+#end include:youmind
+
+# CodeRabbit
+DOMAIN-SUFFIX,coderabbit.ai
+DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
+
+# Cohere
+DOMAIN-SUFFIX,cohere.ai
+DOMAIN-SUFFIX,cohere.com
+
+# Jasper
+DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,jasper.ai
+
+DOMAIN-SUFFIX,agentclientprotocol.com
+DOMAIN-SUFFIX,anythingllm.com
+DOMAIN-SUFFIX,chutes.ai
+DOMAIN-SUFFIX,clawhub.ai
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,crewai.com
+DOMAIN-SUFFIX,devin.ai
+DOMAIN-SUFFIX,diabrowser.com
+DOMAIN-SUFFIX,diabrowser.engineering
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,duck.ai
+DOMAIN-SUFFIX,gateway.ai.cloudflare.com
+DOMAIN-SUFFIX,h2o.ai
+DOMAIN-SUFFIX,kiro.dev
+DOMAIN-SUFFIX,langchain.com
+DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,lovart.ai
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,minimax.io
+DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,ollama.com
+DOMAIN-SUFFIX,openart.ai
+DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,openspec.dev
+DOMAIN-SUFFIX,plannotator.ai
+DOMAIN-SUFFIX,spicywriter.com
+#end include:category-ai-!cn
 
 # Advertisment & Analytics
 #include:pubmatic
@@ -85,6 +334,33 @@ DOMAIN-SUFFIX,glyphsapp.com
 #include:jiyukobo
 DOMAIN-SUFFIX,jiyu-kobo.co.jp
 #end include:jiyukobo
+#include:monotype
+DOMAIN-SUFFIX,fontexplorerx.com
+#end include:fontexplorer
+DOMAIN-SUFFIX,fonts.com
+DOMAIN-SUFFIX,fonts.net
+#end include:fonts
+DOMAIN-SUFFIX,fontbook.com
+DOMAIN-SUFFIX,fontshop.com
+DOMAIN-SUFFIX,fstopimages.com
+
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
+#end include:fontshop
+DOMAIN-SUFFIX,linotype.com
+#end include:linotype
+DOMAIN-SUFFIX,myfonts.com
+DOMAIN-SUFFIX,myfonts.net
+#end include:myfonts
+
+DOMAIN-SUFFIX,monotype.com
+DOMAIN-SUFFIX,monotypeimaging.com
+
+# Bitstream
+DOMAIN-SUFFIX,bitstream.com
+
+# International Typeface Corporation
+DOMAIN-SUFFIX,itcfonts.com
+#end include:monotype
 #include:morisawa
 DOMAIN-SUFFIX,morisawa.co.jp
 
@@ -1955,182 +2231,6 @@ DOMAIN-SUFFIX,wistia.net
 # Certificate authorities
 
 # Communications
-#include:category-communication
-DOMAIN-SUFFIX,clubhouse.com
-DOMAIN-SUFFIX,clubhouseapi.com
-DOMAIN-SUFFIX,joinclubhouse.com
-#end include:clubhouse
-# Core
-DOMAIN-SUFFIX,dis.gd
-DOMAIN-SUFFIX,discord.co
-DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,discord.design
-DOMAIN-SUFFIX,discord.dev
-DOMAIN-SUFFIX,discord.gg
-DOMAIN-SUFFIX,discord.gift
-DOMAIN-SUFFIX,discord.gifts
-DOMAIN-SUFFIX,discord.media
-DOMAIN-SUFFIX,discord.new
-DOMAIN-SUFFIX,discord.store
-DOMAIN-SUFFIX,discord.tools
-DOMAIN-SUFFIX,discord-activities.com
-DOMAIN-SUFFIX,discordactivities.com
-DOMAIN-SUFFIX,discordapp.com
-DOMAIN-SUFFIX,discordapp.net
-DOMAIN-SUFFIX,discordmerch.com
-DOMAIN-SUFFIX,discordpartygames.com
-DOMAIN-SUFFIX,discordsays.com
-DOMAIN-SUFFIX,discordstatus.com
-
-# Other
-DOMAIN-SUFFIX,airhorn.solutions
-DOMAIN-SUFFIX,airhornbot.com
-DOMAIN-SUFFIX,bigbeans.solutions
-DOMAIN-SUFFIX,watchanimeattheoffice.com
-
-# Unused
-DOMAIN-SUFFIX,discordapp.io
-DOMAIN-SUFFIX,discordcdn.com
-
-DOMAIN,discord-attachments-uploads-prd.storage.googleapis.com
-DOMAIN,hammerandchisel.ssl.zendesk.com
-#end include:discord
-DOMAIN-SUFFIX,freenode.net
-#end include:freenode
-DOMAIN-SUFFIX,intercom.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomassets.com
-DOMAIN-SUFFIX,intercomcdn.com
-#end include:intercom
-DOMAIN-SUFFIX,keybase.io
-DOMAIN-SUFFIX,keybaseapi.com
-#end include:keybase
-DOMAIN-SUFFIX,gcld-line.com
-DOMAIN-SUFFIX,lin.ee
-DOMAIN-SUFFIX,line-apps-beta.com
-DOMAIN-SUFFIX,line-apps-rc.com
-DOMAIN-SUFFIX,line-apps.com
-DOMAIN-SUFFIX,line-beta.me
-DOMAIN-SUFFIX,line-cdn.net
-DOMAIN-SUFFIX,line-scdn.net
-DOMAIN-SUFFIX,line.biz
-DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line.naver.jp
-DOMAIN-SUFFIX,linecorp.com
-DOMAIN-SUFFIX,linefriends.com
-DOMAIN-SUFFIX,linefriends.com.tw
-DOMAIN-SUFFIX,linegame.jp
-DOMAIN-SUFFIX,linemobile.com
-DOMAIN-SUFFIX,linemyshop.com
-DOMAIN-SUFFIX,lineshoppingseller.com
-DOMAIN-SUFFIX,linetv.tw
-DOMAIN-SUFFIX,nhncorp.jp
-#end include:line
-# 1&1 Mail & Media GmbH
-DOMAIN-SUFFIX,mail.com
-DOMAIN-SUFFIX,ui-portal.de
-DOMAIN-SUFFIX,uicdn.com
-DOMAIN-SUFFIX,uimserv.net
-#end include:mailcom
-DOMAIN-SUFFIX,arewereadyyet.com
-DOMAIN-SUFFIX,cinny.in
-DOMAIN-SUFFIX,element.io
-DOMAIN-SUFFIX,fluffychat.im
-DOMAIN-SUFFIX,matrix.org
-DOMAIN-SUFFIX,matrix.to
-DOMAIN-SUFFIX,modular.im
-DOMAIN-SUFFIX,riot.im
-DOMAIN-SUFFIX,vector.im
-#end include:matrix
-DOMAIN-SUFFIX,fbmessenger.com
-DOMAIN-SUFFIX,m.me
-DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,nbabot.net
-#end include:messenger
-DOMAIN-SUFFIX,nicegram.app
-DOMAIN-SUFFIX,nicegram.cloud
-# Ads
-DOMAIN-SUFFIX,adsgram.ai
-#end include:nicegram
-DOMAIN-SUFFIX,pm.me
-DOMAIN-SUFFIX,proton.me
-DOMAIN-SUFFIX,protonmail.ch
-DOMAIN-SUFFIX,protonmail.com
-DOMAIN-SUFFIX,protonstatus.com
-DOMAIN-SUFFIX,protontech.ch
-DOMAIN-SUFFIX,protonvpn.ch
-DOMAIN-SUFFIX,protonvpn.com
-DOMAIN-SUFFIX,protonweb.com
-#end include:protonmail
-DOMAIN-SUFFIX,signal.art
-DOMAIN-SUFFIX,signal.group
-DOMAIN-SUFFIX,signal.link
-DOMAIN-SUFFIX,signal.me
-DOMAIN-SUFFIX,signal.tube
-DOMAIN-SUFFIX,signal.org
-DOMAIN-SUFFIX,signalusers.org
-DOMAIN-SUFFIX,whispersystems.org
-#end include:signal
-DOMAIN-SUFFIX,slack-core.com
-DOMAIN-SUFFIX,slack-edge.com
-DOMAIN-SUFFIX,slack-files.com
-DOMAIN-SUFFIX,slack-imgs.com
-DOMAIN-SUFFIX,slack-msgs.com
-DOMAIN-SUFFIX,slack-redir.net
-DOMAIN-SUFFIX,slack.com
-DOMAIN-SUFFIX,slackb.com
-DOMAIN-SUFFIX,slackcertified.com
-DOMAIN-SUFFIX,slackdemo.com
-DOMAIN-SUFFIX,slackhq.com
-#end include:slack
-DOMAIN-SUFFIX,cdn-telegram.org
-DOMAIN-SUFFIX,comments.app
-DOMAIN-SUFFIX,contest.com
-DOMAIN-SUFFIX,fragment.com
-DOMAIN-SUFFIX,graph.org
-DOMAIN-SUFFIX,quiz.directory
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,tdesktop.com
-DOMAIN-SUFFIX,telega.one
-DOMAIN-SUFFIX,telegra.ph
-DOMAIN-SUFFIX,telegram-cdn.org
-DOMAIN-SUFFIX,telegram.dog
-DOMAIN-SUFFIX,telegram.me
-DOMAIN-SUFFIX,telegram.org
-DOMAIN-SUFFIX,telegram.space
-DOMAIN-SUFFIX,telesco.pe
-DOMAIN-SUFFIX,tg.dev
-DOMAIN-SUFFIX,ton.org
-DOMAIN-SUFFIX,tx.me
-DOMAIN-SUFFIX,usercontent.dev
-#end include:telegram
-DOMAIN-SUFFIX,temp-mail.org
-#end include:temp-mail
-DOMAIN-SUFFIX,viber.com
-DOMAIN-SUFFIX,viber.co
-DOMAIN-SUFFIX,viber.me
-
-DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
-DOMAIN-SUFFIX,vbcdn.com
-DOMAIN-SUFFIX,vbcdn.net
-#end include:viber
-DOMAIN-SUFFIX,wa.me
-DOMAIN-SUFFIX,whatsapp-plus.info
-DOMAIN-SUFFIX,whatsapp-plus.me
-DOMAIN-SUFFIX,whatsapp-plus.net
-DOMAIN-SUFFIX,whatsapp.cc
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.info
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-SUFFIX,whatsapp.org
-DOMAIN-SUFFIX,whatsapp.tv
-DOMAIN-SUFFIX,whatsappbrand.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,graph.whatsapp.com
-DOMAIN-SUFFIX,graph.whatsapp.net
-#end include:whatsapp
-#end include:category-communication
 
 # Cryptocurrency
 
@@ -2383,75 +2483,6 @@ DOMAIN-SUFFIX,wolframalpha.com
 # Entertainment & Games & Music & Podcasts & Videos
 
 # File & Image & Video hosting
-#include:category-netdisk-!cn
-#include:dropbox
-# List of all domains being operated by Dorpbox Inc.
-# Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
-DOMAIN-SUFFIX,db.tt
-DOMAIN-SUFFIX,dropbox-dns.com
-DOMAIN-SUFFIX,dropbox.com
-DOMAIN-SUFFIX,dropbox.tech
-DOMAIN-SUFFIX,dropboxapi.com
-DOMAIN-SUFFIX,dropboxbusiness.com
-DOMAIN-SUFFIX,dropboxcaptcha.com
-DOMAIN-SUFFIX,dropboxforum.com
-DOMAIN-SUFFIX,dropboxforums.com
-DOMAIN-SUFFIX,dropboxinsiders.com
-DOMAIN-SUFFIX,dropboxmail.com
-DOMAIN-SUFFIX,dropboxpartners.com
-DOMAIN-SUFFIX,dropboxstatic.com
-DOMAIN-SUFFIX,dropboxusercontent.com
-DOMAIN-SUFFIX,getdropbox.com
-
-DOMAIN,paper-attachments.s3.amazonaws.com
-#end include:dropbox
-#include:mega
-DOMAIN-SUFFIX,mega.co.nz
-DOMAIN-SUFFIX,mega.io
-DOMAIN-SUFFIX,mega.nz
-#end include:mega
-#include:onedrive
-DOMAIN-SUFFIX,1drv.com
-DOMAIN-SUFFIX,1drv.ms
-DOMAIN-SUFFIX,livefilestore.com
-DOMAIN-SUFFIX,onedrive.co
-DOMAIN-SUFFIX,onedrive.co.uk
-DOMAIN-SUFFIX,onedrive.com
-DOMAIN-SUFFIX,onedrive.eu
-DOMAIN-SUFFIX,onedrive.net
-DOMAIN-SUFFIX,onedrive.org
-
-DOMAIN-SUFFIX,onedrive.live.com
-DOMAIN-SUFFIX,storage.live.com
-#end include:onedrive
-#include:pikpak
-DOMAIN-SUFFIX,mypikpak.com
-DOMAIN-SUFFIX,mypikpak.net
-DOMAIN-SUFFIX,pickpackapp.com
-DOMAIN-SUFFIX,pikpak.io
-DOMAIN-SUFFIX,pikpak.me
-DOMAIN-SUFFIX,pikpakdrive.com
-
-# tracking
-DOMAIN,o4504926511693824.ingest.sentry.io
-#end include:pikpak
-#include:terabox
-DOMAIN-SUFFIX,1024terabox.com
-DOMAIN-SUFFIX,bestclouddrive.com
-DOMAIN-SUFFIX,freeterabox.com
-DOMAIN-SUFFIX,nephobox.com
-DOMAIN-SUFFIX,terabox.com
-DOMAIN-SUFFIX,terabox1024.com
-DOMAIN-SUFFIX,teraboxcdn.com
-#end include:terabox
-#include:usersdrive
-#Domain for generated download links:
-DOMAIN-SUFFIX,userdrive.org
-
-#Main website:
-DOMAIN-SUFFIX,usersdrive.com
-#end include:usersdrive
-#end include:category-netdisk-!cn
 
 #include:0x0
 DOMAIN-SUFFIX,0x0.st
@@ -2522,39 +2553,396 @@ DOMAIN-SUFFIX,pugpig.com
 #end include:pugpig
 
 # Organizations
+#include:category-orgs
+# This list contains organizations outside China mainland.
+
+#include:creativecommons
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,licensebuttons.net
+#end include:creativecommons
+#include:csis
+DOMAIN-SUFFIX,csis.org
+
+DOMAIN,csis-prod.s3.amazonaws.com
+#end include:csis
+#include:emojipedia
+DOMAIN-SUFFIX,emojipedia.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
+DOMAIN-SUFFIX,xn--yt8h.la    #📙.la
+#end include:emojipedia
+#include:f-droid
+DOMAIN-SUFFIX,f-dro1d.org
+DOMAIN-SUFFIX,f-droid.com
+DOMAIN-SUFFIX,f-droid.org
+DOMAIN-SUFFIX,fdroid.org
+#end include:f-droid
+#include:grapheneos
+DOMAIN-SUFFIX,attestation.app
+DOMAIN-SUFFIX,grapheneos.app
+DOMAIN-SUFFIX,grapheneos.ca
+DOMAIN-SUFFIX,grapheneos.com
+DOMAIN-SUFFIX,grapheneos.dev
+DOMAIN-SUFFIX,grapheneos.foundation
+DOMAIN-SUFFIX,grapheneos.info
+DOMAIN-SUFFIX,grapheneos.net
+DOMAIN-SUFFIX,grapheneos.network
+DOMAIN-SUFFIX,grapheneos.online
+DOMAIN-SUFFIX,grapheneos.org
+DOMAIN-SUFFIX,grapheneos.ovh
+DOMAIN-SUFFIX,grapheneos.page
+DOMAIN-SUFFIX,grapheneos.social
+DOMAIN-SUFFIX,seamlessupdate.app
+DOMAIN-SUFFIX,vanadium.app
+#end include:grapheneos
+#include:ieee
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieee.tv
+
+# Co-sponsored
+DOMAIN-SUFFIX,tryengineering.org
+
+# Conference & Event
+DOMAIN-SUFFIX,ieee-ccnc.org
+DOMAIN-SUFFIX,ieee-ecce.org
+DOMAIN-SUFFIX,ieeemce.org
+
+# Education and career
+DOMAIN-SUFFIX,standardsuniversity.org
+
+# Geographic Activities
+DOMAIN-SUFFIX,ieee-region6.org
+DOMAIN-SUFFIX,ieee.ca
+DOMAIN-SUFFIX,ieeer10.org
+DOMAIN-SUFFIX,ieeer5.org
+DOMAIN-SUFFIX,ieeer8.org
+DOMAIN-SUFFIX,ieeeusa.org
+
+# Humanitarian Program
+DOMAIN-SUFFIX,ieeefoundation.org
+
+# Other
+DOMAIN-SUFFIX,ieee-into-focus.org
+DOMAIN-SUFFIX,ieee-vics.org
+DOMAIN-SUFFIX,ieeeday.org
+
+# Publications, Products, & Services
+DOMAIN-SUFFIX,datasheets360.com
+DOMAIN-SUFFIX,globalspec.com
+DOMAIN-SUFFIX,ieee-isto.org
+DOMAIN-SUFFIX,techstreet.com
+
+# Society & Council
+DOMAIN-SUFFIX,computer.org
+DOMAIN-SUFFIX,comsoc.org
+DOMAIN-SUFFIX,embs.org
+DOMAIN-SUFFIX,emcs.org
+DOMAIN-SUFFIX,grss-ieee.org
+DOMAIN-SUFFIX,ieee-aess.org
+DOMAIN-SUFFIX,ieee-cas.org
+DOMAIN-SUFFIX,ieee-ceda.org
+DOMAIN-SUFFIX,ieee-edusociety.org
+DOMAIN-SUFFIX,ieee-ies.org
+DOMAIN-SUFFIX,ieee-ims.org
+DOMAIN-SUFFIX,ieee-npss.org
+DOMAIN-SUFFIX,ieee-pels.org
+DOMAIN-SUFFIX,ieee-pes.org
+DOMAIN-SUFFIX,ieee-ras.org
+DOMAIN-SUFFIX,ieee-sensors.org
+DOMAIN-SUFFIX,ieee-tems.org
+DOMAIN-SUFFIX,ieee-uffc.org
+DOMAIN-SUFFIX,ieeeaps.org
+DOMAIN-SUFFIX,ieeecsc.org
+DOMAIN-SUFFIX,ieeecss.org
+DOMAIN-SUFFIX,ieeedeis.org
+DOMAIN-SUFFIX,ieeemagnetics.org
+DOMAIN-SUFFIX,ieeenano.org
+DOMAIN-SUFFIX,ieeeoes.org
+DOMAIN-SUFFIX,ieeesmc.org
+DOMAIN-SUFFIX,ieeesystemscouncil.org
+DOMAIN-SUFFIX,itsoc.org
+DOMAIN-SUFFIX,mtt.org
+DOMAIN-SUFFIX,photonicssociety.org
+DOMAIN-SUFFIX,signalprocessingsociety.org
+DOMAIN-SUFFIX,technologyandsociety.org
+DOMAIN-SUFFIX,vtsociety.org
+#end include:ieee
+#include:metabrainz
+DOMAIN-SUFFIX,acousticbrainz.org
+DOMAIN-SUFFIX,bookbrainz.org
+DOMAIN-SUFFIX,coverartarchive.org
+DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,listenbrainz.org
+DOMAIN-SUFFIX,messybrainz.org
+DOMAIN-SUFFIX,metabrainz.org
+DOMAIN-SUFFIX,musicbrainz.org
+#end include:metabrainz
+#include:nist
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov
+#end include:nist
+#include:openstreetmap
+DOMAIN-SUFFIX,openmaps.org
+DOMAIN-SUFFIX,openstreetmap.com
+DOMAIN-SUFFIX,openstreetmap.net
+DOMAIN-SUFFIX,openstreetmap.org
+DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,osm.org
+DOMAIN-SUFFIX,osmfoundation.org
+
+# State of the Map
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org
+#end include:openstreetmap
+#include:paskoocheh
+DOMAIN-SUFFIX,paskoocheh.com
+#end include:paskoocheh
+#include:peppy
+# osu
+DOMAIN,a.ppy.sh
+DOMAIN,assets.ppy.sh
+DOMAIN,c.ppy.sh
+DOMAIN,osu.ppy.sh
+DOMAIN,m1.ppy.sh
+# osu lazer
+DOMAIN,lazer.ppy.sh
+DOMAIN,notify.ppy.sh
+DOMAIN,sentry.ppy.sh
+DOMAIN,spectator.ppy.sh
+#end include:osu
+
+DOMAIN-SUFFIX,ppy.sh
+#end include:peppy
+#include:ruleoflaw
+DOMAIN-SUFFIX,rolfoundation.org
+DOMAIN-SUFFIX,rolsociety.org
+#end include:ruleoflaw
+
+DOMAIN-SUFFIX,aomedia.org
+DOMAIN-SUFFIX,atypi.org
+DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,globalsecurity.org
+DOMAIN-SUFFIX,iana.org
+DOMAIN-SUFFIX,iccf.com
+DOMAIN-SUFFIX,ietf.org
+DOMAIN-SUFFIX,itu.int
+DOMAIN-SUFFIX,opte.org
+DOMAIN-SUFFIX,smpte.org
+DOMAIN-SUFFIX,un.org
+DOMAIN-SUFFIX,w3.org
+DOMAIN-SUFFIX,who.int
+DOMAIN-SUFFIX,wi-fi.org
+DOMAIN-SUFFIX,wto.org
+#end include:category-orgs
 
 # Porn
 
 # Religion
 
 # Services & Softwares
-#include:category-android-app-download
-DOMAIN-SUFFIX,apkcombo.com
-#end include:apkcombo
-DOMAIN-SUFFIX,apkmirror.com
+#include:category-antivirus
+#include:comodo
+DOMAIN-SUFFIX,comodo.com
+DOMAIN-SUFFIX,comodo.net
+#end include:comodo
+#include:drweb
+DOMAIN-SUFFIX,drweb.by
+DOMAIN-SUFFIX,drweb.cn
+DOMAIN-SUFFIX,drweb.co.jp
+DOMAIN-SUFFIX,drweb.com
+DOMAIN-SUFFIX,drweb.fr
+DOMAIN-SUFFIX,drweb.kz
+DOMAIN-SUFFIX,drweb.ru
+DOMAIN-SUFFIX,drweb.uz
+DOMAIN-SUFFIX,drweb-av.de
+DOMAIN-SUFFIX,drweb-av.es
+DOMAIN-SUFFIX,drweb-av.it
+DOMAIN-SUFFIX,drweb-av.pl
+#end include:drweb
+#include:eset
+# ESET Wiki - [KB332] Ports and addresses required to use your ESET product with a third-party firewall
+DOMAIN-SUFFIX,cn.eset.com
+DOMAIN-SUFFIX,e5.sk
+DOMAIN-SUFFIX,eset.com
+DOMAIN-SUFFIX,eset.eu
+DOMAIN-SUFFIX,eset.sk
+DOMAIN-SUFFIX,eset.systems
+DOMAIN-SUFFIX,esetsoftware.com
 
-DOMAIN,apkmirror.disqus.com
-#end include:apkmirror
-DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,apkpure.net
-DOMAIN-SUFFIX,apkpures.xyz
-DOMAIN-SUFFIX,cdnpure.com
-DOMAIN-SUFFIX,pureapk.com
-DOMAIN-SUFFIX,winudf.com
-#end include:apkpure
+# ESET Password Manager
+DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
 
-# Uptodown
-DOMAIN-SUFFIX,uptodown.com
-DOMAIN-SUFFIX,utdstc.com
-#end include:category-android-app-download
+# Connection between the Agent and ESET PROTECT
+DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
+#end include:eset
+#include:kaspersky
+DOMAIN-SUFFIX,kaspersky-labs.com
+DOMAIN-SUFFIX,kaspersky.com
+
+# Global Showcase
+DOMAIN-SUFFIX,kaspersky.be
+DOMAIN-SUFFIX,kaspersky.ca
+DOMAIN-SUFFIX,kaspersky.co.in
+DOMAIN-SUFFIX,kaspersky.co.jp
+DOMAIN-SUFFIX,kaspersky.co.kr
+DOMAIN-SUFFIX,kaspersky.co.th
+DOMAIN-SUFFIX,kaspersky.co.uk
+DOMAIN-SUFFIX,kaspersky.co.za
+DOMAIN-SUFFIX,kaspersky.com.au
+DOMAIN-SUFFIX,kaspersky.com.br
+DOMAIN-SUFFIX,kaspersky.com.cn
+DOMAIN-SUFFIX,kaspersky.com.hk
+DOMAIN-SUFFIX,kaspersky.com.hk
+DOMAIN-SUFFIX,kaspersky.com.pl
+DOMAIN-SUFFIX,kaspersky.com.tr
+DOMAIN-SUFFIX,kaspersky.com.tw
+DOMAIN-SUFFIX,kaspersky.com.vn
+DOMAIN-SUFFIX,kaspersky.cz
+DOMAIN-SUFFIX,kaspersky.de
+DOMAIN-SUFFIX,kaspersky.dk
+DOMAIN-SUFFIX,kaspersky.dz
+DOMAIN-SUFFIX,kaspersky.es
+DOMAIN-SUFFIX,kaspersky.fi
+DOMAIN-SUFFIX,kaspersky.fr
+DOMAIN-SUFFIX,kaspersky.gr
+DOMAIN-SUFFIX,kaspersky.it
+DOMAIN-SUFFIX,kaspersky.kz
+DOMAIN-SUFFIX,kaspersky.ma
+DOMAIN-SUFFIX,kaspersky.my
+DOMAIN-SUFFIX,kaspersky.nl
+DOMAIN-SUFFIX,kaspersky.pt
+DOMAIN-SUFFIX,kaspersky.ro
+DOMAIN-SUFFIX,kaspersky.rs
+DOMAIN-SUFFIX,kaspersky.ru
+DOMAIN-SUFFIX,kaspersky.se
+
+DOMAIN,activation-v2.kaspersky.com
+DOMAIN,activation-v2.geo.kaspersky.com
+DOMAIN,activate.activation-v2.kaspersky.com
+DOMAIN,refresh-bkg.activation-v2.kaspersky.com
+
+DOMAIN,crl.kaspersky.com
+DOMAIN,dc1.ksn.kaspersky-labs.com
+DOMAIN,dc1-cert.ksn.kaspersky-labs.com
+DOMAIN,dc1-file.ksn.kaspersky-labs.com
+DOMAIN,dc1-pp.ksn.kaspersky-labs.com
+DOMAIN,dc1-st.ksn.kaspersky-labs.com
+DOMAIN,dnl-00.geo.kaspersky.com
+DOMAIN,dnl-01.geo.kaspersky.com
+DOMAIN,dnl-02.geo.kaspersky.com
+DOMAIN,dnl-03.geo.kaspersky.com
+DOMAIN,dnl-04.geo.kaspersky.com
+DOMAIN,dnl-05.geo.kaspersky.com
+DOMAIN,dnl-06.geo.kaspersky.com
+DOMAIN,dnl-07.geo.kaspersky.com
+DOMAIN,dnl-08.geo.kaspersky.com
+DOMAIN,dnl-09.geo.kaspersky.com
+DOMAIN,dnl-10.geo.kaspersky.com
+DOMAIN,dnl-11.geo.kaspersky.com
+DOMAIN,dnl-12.geo.kaspersky.com
+DOMAIN,dnl-13.geo.kaspersky.com
+DOMAIN,dnl-14.geo.kaspersky.com
+DOMAIN,dnl-15.geo.kaspersky.com
+DOMAIN,dnl-16.geo.kaspersky.com
+DOMAIN,dnl-17.geo.kaspersky.com
+DOMAIN,dnl-18.geo.kaspersky.com
+DOMAIN,dnl-19.geo.kaspersky.com
+DOMAIN,edge.geo.kaspersky.com
+DOMAIN,ksn-cinfo.geoksn.kaspersky.com
+DOMAIN,ksn-cinfo-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-info-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-kas-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-tcert-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-url-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-verdict-geo.kaspersky-labs.com
+DOMAIN,ksn-crypto-wifiplus.geoksn.kaspersky.com
+DOMAIN,ksn-crypto-wifiplus-geo.kaspersky-labs.com
+DOMAIN,ksn-dc1.geoksn.kaspersky.com
+DOMAIN,ksn-dc1-cert.geoksn.kaspersky.com
+DOMAIN,ksn-dc1-file.geoksn.kaspersky.com
+DOMAIN,ksn-file.geoksn.kaspersky.com
+DOMAIN,ksn-file-geo.kaspersky-labs.com
+DOMAIN,ksn-info.geoksn.kaspersky.com
+DOMAIN,ksn-info-geo.kaspersky-labs.com
+DOMAIN,ksn-kas.geoksn.kaspersky.com
+DOMAIN,ksn-mdr.geoksn.kaspersky.com
+DOMAIN,ksn-tcert.geoksn.kaspersky.com
+DOMAIN,ksn-tcert-geo.kaspersky-labs.com
+DOMAIN,ksn-url.geoksn.kaspersky.com
+DOMAIN,ksn-url-geo.kaspersky-labs.com
+DOMAIN,ksn-verdict.geoksn.kaspersky.com
+DOMAIN,ksn-verdict-geo.kaspersky-labs.com
+DOMAIN,mdr.ksn.kaspersky-labs.com
+DOMAIN,p00.upd.kaspersky.com
+DOMAIN,p01.upd.kaspersky.com
+DOMAIN,p02.upd.kaspersky.com
+DOMAIN,p03.upd.kaspersky.com
+DOMAIN,p04.upd.kaspersky.com
+DOMAIN,p05.upd.kaspersky.com
+DOMAIN,p06.upd.kaspersky.com
+DOMAIN,p07.upd.kaspersky.com
+DOMAIN,p08.upd.kaspersky.com
+DOMAIN,p09.upd.kaspersky.com
+DOMAIN,p10.upd.kaspersky.com
+DOMAIN,p11.upd.kaspersky.com
+DOMAIN,p12.upd.kaspersky.com
+DOMAIN,p13.upd.kaspersky.com
+DOMAIN,p14.upd.kaspersky.com
+DOMAIN,p15.upd.kaspersky.com
+DOMAIN,p16.upd.kaspersky.com
+DOMAIN,p17.upd.kaspersky.com
+DOMAIN,p18.upd.kaspersky.com
+DOMAIN,p19.upd.kaspersky.com
+DOMAIN,s00.upd.kaspersky.com
+DOMAIN,s01.upd.kaspersky.com
+DOMAIN,s02.upd.kaspersky.com
+DOMAIN,s03.upd.kaspersky.com
+DOMAIN,s04.upd.kaspersky.com
+DOMAIN,s05.upd.kaspersky.com
+DOMAIN,s06.upd.kaspersky.com
+DOMAIN,s07.upd.kaspersky.com
+DOMAIN,s08.upd.kaspersky.com
+DOMAIN,s09.upd.kaspersky.com
+DOMAIN,s10.upd.kaspersky.com
+DOMAIN,s11.upd.kaspersky.com
+DOMAIN,s12.upd.kaspersky.com
+DOMAIN,s13.upd.kaspersky.com
+DOMAIN,s14.upd.kaspersky.com
+DOMAIN,s15.upd.kaspersky.com
+DOMAIN,s16.upd.kaspersky.com
+DOMAIN,s17.upd.kaspersky.com
+DOMAIN,s18.upd.kaspersky.com
+DOMAIN,s19.upd.kaspersky.com
+#end include:kaspersky
+#include:symantec
+DOMAIN-SUFFIX,symantec.com
+DOMAIN-SUFFIX,symantecliveupdate.com
+#end include:symantec
+
+DOMAIN-SUFFIX,avast.com
+DOMAIN-SUFFIX,avg.com
+DOMAIN-SUFFIX,avira.com
+DOMAIN-SUFFIX,bitdefender.com
+DOMAIN-SUFFIX,clamwin.com
+DOMAIN-SUFFIX,f-secure.com
+DOMAIN-SUFFIX,mcafee.com
+DOMAIN-SUFFIX,norton.com
+DOMAIN-SUFFIX,pandasecurity.com
+#end include:category-antivirus
 #include:category-browser-!cn
+#include:ceno
 DOMAIN-SUFFIX,censorship.no
 #end include:ceno
+#include:epicbrowser
 DOMAIN-SUFFIX,epicbrowser.com
 #end include:epicbrowser
+#include:firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 #end include:firefox
+#include:torproject
 DOMAIN-SUFFIX,torproject.org
 #end include:torproject
 
@@ -2599,34 +2987,6 @@ DOMAIN-SUFFIX,z3x-team.com
 DOMAIN-SUFFIX,androidfilehost.com
 DOMAIN-SUFFIX,unlocktool.net
 #end include:category-mobile-repair
-#include:category-web-archive
-#include:4plebs
-DOMAIN-SUFFIX,4pcdn.org
-DOMAIN-SUFFIX,4plebs.org
-#end include:4plebs
-#include:archivetoday
-DOMAIN-SUFFIX,archive.today
-
-DOMAIN-SUFFIX,archive.fo
-DOMAIN-SUFFIX,archive.is
-DOMAIN-SUFFIX,archive.li
-DOMAIN-SUFFIX,archive.md
-DOMAIN-SUFFIX,archive.ph
-DOMAIN-SUFFIX,archive.vn
-#end include:archivetoday
-#include:internet-archive
-DOMAIN-SUFFIX,archive-it.org
-DOMAIN-SUFFIX,archive.org
-DOMAIN-SUFFIX,openlibrary.org
-#end include:internet-archive
-
-DOMAIN-SUFFIX,eotarchive.org
-DOMAIN-SUFFIX,ghostarchive.org
-DOMAIN-SUFFIX,megalodon.jp
-DOMAIN-SUFFIX,mementoweb.org
-DOMAIN-SUFFIX,perma.cc
-DOMAIN-SUFFIX,webcitation.org
-#end include:category-web-archive
 
 #include:rsshub
 DOMAIN-SUFFIX,rsshub.app
@@ -3241,684 +3601,6 @@ DOMAIN-SUFFIX,osmand.net
 DOMAIN-SUFFIX,xiaomiflash.com
 
 # Software development
-#include:category-dev
-#include:anaconda
-DOMAIN-SUFFIX,anaconda.cloud
-DOMAIN-SUFFIX,anaconda.com
-DOMAIN-SUFFIX,anaconda.org
-DOMAIN-SUFFIX,conda.io
-#end include:anaconda
-#include:android
-# All .android domains
-DOMAIN-SUFFIX,android
-
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com
-
-DOMAIN,android.googlesource.com
-#end include:android
-#include:apple-dev
-DOMAIN-SUFFIX,appleswift.com
-DOMAIN-SUFFIX,swift.org
-DOMAIN-SUFFIX,swiftui.cn
-DOMAIN-SUFFIX,swiftui.com.cn
-#end include:swift
-
-# Calendar and Contact Server
-DOMAIN-SUFFIX,calendarserver.org
-
-# CloudKit
-DOMAIN-SUFFIX,apple-cloudkit.com
-
-# CUPS
-DOMAIN-SUFFIX,cups.org
-
-# Developer
-DOMAIN-SUFFIX,developer.apple.com
-DOMAIN-SUFFIX,devimages-cdn.apple.com
-DOMAIN-SUFFIX,devstreaming-cdn.apple.com
-DOMAIN-SUFFIX,developerservices2.apple.com
-DOMAIN-SUFFIX,timestamp.apple.com
-DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
-DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
-
-# FoundationDB
-DOMAIN-SUFFIX,foundationdb.org
-
-# macOS forge
-DOMAIN-SUFFIX,macosforge.org
-
-# MacRuby
-DOMAIN-SUFFIX,macruby.com
-DOMAIN-SUFFIX,macruby.net
-DOMAIN-SUFFIX,macruby.org
-
-# MapKit
-DOMAIN-SUFFIX,apple-mapkit.com
-
-# Playgrounds
-DOMAIN-SUFFIX,playgrounds-cdn.apple.com
-
-# Research & Care
-DOMAIN-SUFFIX,carekit.org
-DOMAIN-SUFFIX,researchandcare.org
-DOMAIN-SUFFIX,researchkit.cn
-DOMAIN-SUFFIX,researchkit.com.cn
-DOMAIN-SUFFIX,researchkit.hk
-DOMAIN-SUFFIX,researchkit.net
-DOMAIN-SUFFIX,researchkit.org
-DOMAIN-SUFFIX,researchkit.tv
-
-# ServiceTalk
-DOMAIN-SUFFIX,servicetalk.io
-
-# WebKit
-DOMAIN-SUFFIX,webkit.org
-DOMAIN-SUFFIX,webkitgtk.org
-DOMAIN-SUFFIX,wpewebkit.org
-
-# Other
-DOMAIN-SUFFIX,webobjects.com
-
-DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
-DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
-DOMAIN,p-events-delivery.akamaized.net
-
-#end include:apple-dev
-#include:archlinux
-DOMAIN-SUFFIX,archlinux.de
-DOMAIN-SUFFIX,archlinux.org
-DOMAIN-SUFFIX,archlinuxarm.org
-DOMAIN-SUFFIX,pkgbuild.com
-
-# Unofficial
-DOMAIN-SUFFIX,archlinuxcn.org
-#end include:archlinux
-#include:bootstrap
-DOMAIN-SUFFIX,bootstrapcdn.com
-DOMAIN-SUFFIX,getbootstrap.com
-#end include:bootstrap
-#include:braveux
-DOMAIN-SUFFIX,braventures.com
-DOMAIN-SUFFIX,braveux.com
-
-# Compass
-DOMAIN-SUFFIX,compass.is
-
-# Fight For UX
-DOMAIN-SUFFIX,fightforux.com
-
-# For the Badge
-DOMAIN-SUFFIX,forthebadge.com
-
-# Stock Against Photography
-DOMAIN-SUFFIX,stockagainstphotography.com
-#end include:braveux
-#include:category-container
-DOMAIN-SUFFIX,azurecr.io
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,ecr.aws
-DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,ghcr.io
-DOMAIN-SUFFIX,mcr.microsoft.com
-DOMAIN-SUFFIX,quay.io
-DOMAIN-SUFFIX,registry.gitlab.com
-DOMAIN-SUFFIX,registry.k8s.io
-
-
-DOMAIN-WILDCARD,*.dkr.ecr.*.amazonaws.com
-#end include:category-container
-#include:codeberg
-DOMAIN-SUFFIX,codeberg.org
-DOMAIN-SUFFIX,codeberg.page
-#end include:codeberg
-#include:dart
-DOMAIN-SUFFIX,dart.dev
-DOMAIN-SUFFIX,dartlang.org
-DOMAIN-SUFFIX,dartpad.dev
-#end include:dart
-#include:debian
-DOMAIN-SUFFIX,debian.org
-DOMAIN-SUFFIX,dotdeb.org
-#end include:debian
-#include:docker
-DOMAIN-SUFFIX,compose-spec.io
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,dockerstatic.com
-
-DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
-DOMAIN,docker-pinata-support.s3.amazonaws.com
-#end include:docker
-#include:embedly
-DOMAIN-SUFFIX,embed.ly
-DOMAIN-SUFFIX,embedly.com
-
-# Player.js
-DOMAIN-SUFFIX,playerjs.io
-#end include:embedly
-#include:facebook-dev
-DOMAIN-SUFFIX,accountkit.com
-DOMAIN-SUFFIX,atscaleconference.com
-DOMAIN-SUFFIX,botorch.org
-DOMAIN-SUFFIX,buck.build
-DOMAIN-SUFFIX,buckbuild.com
-DOMAIN-SUFFIX,componentkit.org
-DOMAIN-SUFFIX,draftjs.org
-DOMAIN-SUFFIX,f8.com
-DOMAIN-SUFFIX,facebookappcenter.info
-DOMAIN-SUFFIX,facebookappcenter.net
-DOMAIN-SUFFIX,facebookappcenter.org
-DOMAIN-SUFFIX,facebookconnect.com
-DOMAIN-SUFFIX,facebookdevelopergarage.com
-DOMAIN-SUFFIX,faciometrics.com
-DOMAIN-SUFFIX,fasttext.cc
-DOMAIN-SUFFIX,fbf8.com
-DOMAIN-SUFFIX,fbinfer.com
-DOMAIN-SUFFIX,fblitho.com
-DOMAIN-SUFFIX,fbredex.com
-DOMAIN-SUFFIX,fbrell.com
-DOMAIN-SUFFIX,flow.dev
-DOMAIN-SUFFIX,flow.org
-DOMAIN-SUFFIX,flowtype.org
-DOMAIN-SUFFIX,frescolib.org
-DOMAIN-SUFFIX,hacklang.org
-DOMAIN-SUFFIX,hhvm.com
-DOMAIN-SUFFIX,makeitopen.com
-DOMAIN-SUFFIX,mcrouter.net
-DOMAIN-SUFFIX,mcrouter.org
-DOMAIN-SUFFIX,messengerdevelopers.com
-DOMAIN-SUFFIX,ogp.me
-DOMAIN-SUFFIX,opengraphprotocol.com
-DOMAIN-SUFFIX,opengraphprotocol.org
-DOMAIN-SUFFIX,parse.com
-DOMAIN-SUFFIX,pyrobot.org
-DOMAIN-SUFFIX,react.com
-DOMAIN-SUFFIX,reactjs.com
-DOMAIN-SUFFIX,reactjs.org
-DOMAIN-SUFFIX,recoiljs.org
-DOMAIN-SUFFIX,rocksdb.com
-DOMAIN-SUFFIX,rocksdb.net
-DOMAIN-SUFFIX,rocksdb.org
-DOMAIN-SUFFIX,yogalayout.com
-
-DOMAIN,developers.facebook.com
-#end include:facebook-dev
-#include:fastlane
-DOMAIN-SUFFIX,fastlane.ci
-DOMAIN-SUFFIX,fastlane.tools
-#end include:fastlane
-#include:fedora
-DOMAIN-SUFFIX,fedoraforum.org
-DOMAIN-SUFFIX,fedorainfracloud.org
-DOMAIN-SUFFIX,fedoramagazine.org
-DOMAIN-SUFFIX,fedorapeople.org
-DOMAIN-SUFFIX,fedoraproject.org
-DOMAIN-SUFFIX,getfedora.org
-#end include:fedora
-#include:firebase
-DOMAIN-SUFFIX,firebase.com
-DOMAIN-SUFFIX,firebase.io
-DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN-SUFFIX,firebaseio.com
-
-DOMAIN,firebase-settings.crashlytics.com
-DOMAIN,firebase.google.com
-DOMAIN,firebase.googleapis.com
-DOMAIN,firebaseappcheck.googleapis.com
-DOMAIN,firebasedynamiclinks-ipv4.googleapis.com
-DOMAIN,firebasedynamiclinks-ipv6.googleapis.com
-DOMAIN,firebasedynamiclinks.googleapis.com
-DOMAIN,firebaseinappmessaging.googleapis.com
-DOMAIN,firebaseinstallations.googleapis.com
-DOMAIN,firebaselogging-pa.googleapis.com
-DOMAIN,firebaselogging.googleapis.com
-DOMAIN,firebaseperusertopics-pa.googleapis.com
-DOMAIN,firebaseremoteconfig.googleapis.com
-#end include:firebase
-#include:flatpak
-DOMAIN-SUFFIX,flathub.org
-DOMAIN-SUFFIX,flatpak.org
-#end include:flatpak
-#include:flutter
-DOMAIN-SUFFIX,flutter.dev
-DOMAIN-SUFFIX,flutterapp.com
-DOMAIN-SUFFIX,pub.dev
-#end include:flutter
-#include:fontawesome
-DOMAIN-SUFFIX,fontawesome.com
-DOMAIN-SUFFIX,fortawesome.com
-#end include:fontawesome
-#include:framer
-DOMAIN-SUFFIX,framer.com
-DOMAIN-SUFFIX,framer.website
-DOMAIN-SUFFIX,framercanvas.com
-DOMAIN-SUFFIX,framerstatic.com
-DOMAIN-SUFFIX,framerusercontent.com
-#end include:framer
-#include:gemfury
-DOMAIN-SUFFIX,fury.blog
-DOMAIN-SUFFIX,fury.co
-DOMAIN-SUFFIX,fury.dev
-DOMAIN-SUFFIX,fury.help
-DOMAIN-SUFFIX,fury.io
-DOMAIN-SUFFIX,gemfury.com
-#end include:gemfury
-#include:gitbook
-DOMAIN-SUFFIX,gitbook.com
-DOMAIN-SUFFIX,gitbook.io
-#end include:gitbook
-#include:github1s
-DOMAIN-SUFFIX,github1s.com
-DOMAIN-SUFFIX,sourcegraph.com
-#end include:github1s
-#include:gitlab
-DOMAIN-SUFFIX,gitlab.com
-DOMAIN-SUFFIX,gitlab.io
-DOMAIN-SUFFIX,gitlab.net
-DOMAIN-SUFFIX,gitlab-static.net
-
-DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-#end include:gitlab
-#include:golang
-DOMAIN-SUFFIX,go-lang.com
-DOMAIN-SUFFIX,go-lang.net
-DOMAIN-SUFFIX,go-lang.org
-DOMAIN-SUFFIX,go.dev
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.com
-DOMAIN-SUFFIX,golang.net
-DOMAIN-SUFFIX,golang.org
-#end include:golang
-#include:hashicorp
-DOMAIN-SUFFIX,consul.io
-DOMAIN-SUFFIX,hashicorp.com
-DOMAIN-SUFFIX,nomadproject.io
-DOMAIN-SUFFIX,packer.io
-DOMAIN-SUFFIX,terraform.io
-DOMAIN-SUFFIX,vagrantcloud.com
-DOMAIN-SUFFIX,vagrantup.com
-DOMAIN-SUFFIX,vaultproject.io
-#end include:hashicorp
-#include:haskell
-DOMAIN-SUFFIX,haskell.org
-DOMAIN-SUFFIX,haskellstack.org
-DOMAIN-SUFFIX,stackage.org
-#end include:haskell
-#include:homebrew
-DOMAIN-SUFFIX,brew.sh
-
-DOMAIN,homebrew.bintray.com
-#end include:homebrew
-#include:intel-dev
-DOMAIN-SUFFIX,01.org
-DOMAIN-SUFFIX,hyperscan.io
-DOMAIN-SUFFIX,intellinuxgraphics.com
-DOMAIN-SUFFIX,intellinuxgraphics.net
-DOMAIN-SUFFIX,oneapi.com
-DOMAIN-SUFFIX,oneapi.io
-DOMAIN-SUFFIX,opencas.io
-DOMAIN-SUFFIX,opendroneid.org
-DOMAIN-SUFFIX,openvino.ai
-DOMAIN-SUFFIX,openvinotoolkit.org
-DOMAIN-SUFFIX,renderingtoolkit.org
-DOMAIN-SUFFIX,snap-telemetry.io
-DOMAIN-SUFFIX,universalscalablefirmware.org
-
-# ACPI Component Architecture
-DOMAIN-SUFFIX,acpica.com
-
-# Clear Linux
-DOMAIN-SUFFIX,clearlinux.org
-
-# OSPRay
-DOMAIN-SUFFIX,ospray.net
-DOMAIN-SUFFIX,ospray.org
-#end include:intel-dev
-#include:java
-# All .java domains
-DOMAIN-SUFFIX,java
-
-DOMAIN-SUFFIX,java.com
-DOMAIN-SUFFIX,java.net
-#end include:java
-#include:jetbrains
-DOMAIN-SUFFIX,datalore.io
-DOMAIN-SUFFIX,intellij.com
-DOMAIN-SUFFIX,intellij.net
-DOMAIN-SUFFIX,intellij.org
-DOMAIN-SUFFIX,jb.gg
-DOMAIN-SUFFIX,jetbrains.cloud
-DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,jetbrains.net
-DOMAIN-SUFFIX,jetbrains.space
-DOMAIN-SUFFIX,jetbrains.team
-DOMAIN-SUFFIX,kotlinlang.org
-DOMAIN-SUFFIX,youtrack.cloud
-
-DOMAIN-SUFFIX,cdn.jetbrains.com
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
-#end include:jetbrains
-#include:jetbrains-ai
-DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,grazie.aws.intellij.net
-DOMAIN-SUFFIX,jetbrains.ai
-#end include:jetbrains-ai
-#include:jfrog
-DOMAIN-SUFFIX,jfrog.com
-DOMAIN-SUFFIX,jfrog.org
-DOMAIN-SUFFIX,bintray.com
-
-DOMAIN,d29vzk4ow07wi7.cloudfront.net
-#end include:jfrog
-#include:kubernetes
-DOMAIN-SUFFIX,kubernetes.io
-DOMAIN-SUFFIX,k8s.io
-#end include:kubernetes
-#include:microsoft-dev
-DOMAIN-SUFFIX,adaptivecards.io
-DOMAIN-SUFFIX,api-extractor.com
-DOMAIN-SUFFIX,apisof.net
-DOMAIN-SUFFIX,appcenter.ms
-DOMAIN-SUFFIX,blazor.net
-DOMAIN-SUFFIX,botframework.com
-DOMAIN-SUFFIX,codethemicrobit.com
-DOMAIN-SUFFIX,devopsassessment.net
-DOMAIN-SUFFIX,dot.net
-DOMAIN-SUFFIX,gamesstack.com
-DOMAIN-SUFFIX,graphengine.io
-DOMAIN-SUFFIX,insiderdevtour.com
-DOMAIN-SUFFIX,jwt.ms
-DOMAIN-SUFFIX,microbit.org
-DOMAIN-SUFFIX,microsoftadc.com
-DOMAIN-SUFFIX,microsoftgamestack.com
-DOMAIN-SUFFIX,microsoftiotinsiderlabs.com
-DOMAIN-SUFFIX,microsoftreactor.cn
-DOMAIN-SUFFIX,microsoftreactor.com.cn
-DOMAIN-SUFFIX,microsoftreactor.info
-DOMAIN-SUFFIX,microsoftreactor.net
-DOMAIN-SUFFIX,microsoftreactor.org
-DOMAIN-SUFFIX,microsoftsilverlight.com
-DOMAIN-SUFFIX,microsoftsilverlight.org
-DOMAIN-SUFFIX,microsoftsilverlight.net
-DOMAIN-SUFFIX,microsoftsqlserver.com
-DOMAIN-SUFFIX,mmdnn.com
-DOMAIN-SUFFIX,mono-project.com
-DOMAIN-SUFFIX,msdn.com
-DOMAIN-SUFFIX,msinnovationchallenge.com
-DOMAIN-SUFFIX,mspairlift.com
-DOMAIN-SUFFIX,msropendata.com
-DOMAIN-SUFFIX,nuget.org
-DOMAIN-SUFFIX,nugettest.org
-DOMAIN-SUFFIX,opentranslatorstothings.org
-DOMAIN-SUFFIX,poshtestgallery.com
-DOMAIN-SUFFIX,pwabuilder.com
-DOMAIN-SUFFIX,reactorms.com.cn
-DOMAIN-SUFFIX,sankie.net
-DOMAIN-SUFFIX,sqlserveronlinux.com
-DOMAIN-SUFFIX,timelinestoryteller.com
-DOMAIN-SUFFIX,uwpcommunitytoolkit.com
-DOMAIN-SUFFIX,visualstudio-staging.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,visualstudio.co
-DOMAIN-SUFFIX,visualstudio.co.uk
-DOMAIN-SUFFIX,visualstudio.eu
-DOMAIN-SUFFIX,visualstudio.net
-DOMAIN-SUFFIX,vfsforgit.com
-DOMAIN-SUFFIX,vfsforgit.org
-DOMAIN-SUFFIX,vsassets.io
-DOMAIN-SUFFIX,vscode.dev
-DOMAIN-SUFFIX,vscode-cdn.net
-DOMAIN-SUFFIX,vscode-unpkg.net
-DOMAIN-SUFFIX,xamarin.com
-
-DOMAIN,az764295.vo.msecnd.net
-DOMAIN,bingsettingssearch.trafficmanager.net
-DOMAIN,default.exp-tas.com
-DOMAIN,developer.microsoft.com
-DOMAIN,download.visualstudio.microsoft.com
-DOMAIN,dtlgalleryint.cloudapp.net
-DOMAIN,packages.microsoft.com
-DOMAIN,poshtestgallery.cloudapp.net
-DOMAIN,psg-int-centralus.cloudapp.net
-DOMAIN,psg-int-eastus.cloudapp.net
-DOMAIN,rink.hockeyapp.net
-DOMAIN,vscode-sync-insiders.trafficmanager.net
-DOMAIN,vscode-sync.trafficmanager.net
-DOMAIN,vscode.blob.core.windows.net
-DOMAIN,vscode.search.windows.net
-DOMAIN,vsmarketplacebadge.apphb.com
-#end include:microsoft-dev
-#include:mongodb
-DOMAIN-SUFFIX,mongodb.com
-DOMAIN-SUFFIX,mongodb.org
-#end include:mongodb
-#include:nginx
-DOMAIN-SUFFIX,nginx.com
-DOMAIN-SUFFIX,nginx.org
-#end include:nginx
-#include:openwrt
-DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,lede-project.org
-#end include:openwrt
-#include:perl
-DOMAIN-SUFFIX,perl.apache.org
-DOMAIN-SUFFIX,perl.org
-DOMAIN-SUFFIX,cpan.org
-DOMAIN-SUFFIX,metacpan.org
-DOMAIN-SUFFIX,modperl.pl
-#end include:perl
-#include:polymer
-DOMAIN-SUFFIX,polymer-project.org
-DOMAIN-SUFFIX,polymerproject.org
-#end include:polymer
-#include:python
-DOMAIN-SUFFIX,pycon.org
-DOMAIN-SUFFIX,pypa.io
-DOMAIN-SUFFIX,pypi.io
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,python.org
-DOMAIN-SUFFIX,pythonhosted.org
-#end include:python
-#include:qt
-DOMAIN-SUFFIX,qt.io
-DOMAIN-SUFFIX,qt-project.org
-#end include:qt
-#include:readthedocs
-DOMAIN-SUFFIX,readthedocs-hosted.com
-DOMAIN-SUFFIX,readthedocs.com
-DOMAIN-SUFFIX,readthedocs.io
-DOMAIN-SUFFIX,readthedocs.org
-#end include:readthedocs
-#include:redis
-DOMAIN-SUFFIX,redis.io
-DOMAIN-SUFFIX,redislabs.com
-#end include:redis
-#include:ruby
-DOMAIN-SUFFIX,ruby-lang.org
-DOMAIN-SUFFIX,rubygems.org
-#end include:ruby
-#include:rust
-DOMAIN-SUFFIX,rust-lang.org
-DOMAIN-SUFFIX,rustup.rs
-DOMAIN-SUFFIX,crates.io
-DOMAIN-SUFFIX,docs.rs
-#end include:rust
-#include:redhat
-DOMAIN-SUFFIX,redhat.com
-DOMAIN-SUFFIX,redhat.org
-#end include:redhat
-#include:scala
-DOMAIN-SUFFIX,scala-lang.org
-DOMAIN-SUFFIX,scala-sbt.org
-#end include:scala
-#include:sentry
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,sentry-cdn.com
-#end include:sentry
-#include:sourcehut
-DOMAIN-SUFFIX,sourcehut.org
-DOMAIN-SUFFIX,sr.ht
-#end include:sourcehut
-#include:stackexchange
-# References:
-# https://stackexchange.com/sites
-# https://meta.stackexchange.com/questions/81379/can-we-have-a-list-of-all-the-stack-exchange-domains-somewhere-for-firewall-pur
-
-DOMAIN-SUFFIX,askubuntu.com
-DOMAIN-SUFFIX,blogoverflow.com
-DOMAIN-SUFFIX,codeforaliving.io
-DOMAIN-SUFFIX,mathoverflow.net
-DOMAIN-SUFFIX,serverfault.com
-DOMAIN-SUFFIX,sstatic.net
-DOMAIN-SUFFIX,stackapps.com
-DOMAIN-SUFFIX,stackauth.com
-DOMAIN-SUFFIX,stackexchange.com
-DOMAIN-SUFFIX,stackmod.blog
-DOMAIN-SUFFIX,stackoverflow.blog
-DOMAIN-SUFFIX,stackoverflow.co
-DOMAIN-SUFFIX,stackoverflow.com
-DOMAIN-SUFFIX,stackoverflow.email
-DOMAIN-SUFFIX,stackoverflow.help
-DOMAIN-SUFFIX,stackoverflow.net
-DOMAIN-SUFFIX,stackoverflowbusiness.com
-DOMAIN-SUFFIX,stackoverflowcareers.com
-DOMAIN-SUFFIX,stackoverflowjobs.com
-DOMAIN-SUFFIX,stackoverflowsolutions.com
-DOMAIN-SUFFIX,stackoverflowteams.com
-DOMAIN-SUFFIX,stacksnippets.net
-DOMAIN-SUFFIX,superuser.com
-DOMAIN-SUFFIX,tex-talk.net
-DOMAIN-SUFFIX,thesffblog.com
-#end include:stackexchange
-#include:strikingly
-DOMAIN-SUFFIX,mystrikingly.com
-DOMAIN-SUFFIX,strikingly.com
-DOMAIN-SUFFIX,strikinglycdn.com
-#end include:strikingly
-#include:termux
-DOMAIN-SUFFIX,termux.com
-DOMAIN-SUFFIX,termux.dev
-DOMAIN-SUFFIX,termux.org
-#end include:termux
-#include:tilda
-DOMAIN-SUFFIX,tilda.cc
-DOMAIN-SUFFIX,tilda.ru
-DOMAIN-SUFFIX,tilda.ws
-DOMAIN-SUFFIX,tildaapi.com
-DOMAIN-SUFFIX,tildacdn.com
-#end include:tilda
-#include:unity
-DOMAIN-SUFFIX,unity.com
-DOMAIN-SUFFIX,unity3d.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,iads.unity3d.com
-DOMAIN-SUFFIX,unityads.unity3d.com
-#end include:unity
-#include:v8
-DOMAIN-SUFFIX,v8.dev
-DOMAIN-SUFFIX,v8project.org
-#end include:v8
-
-DOMAIN-SUFFIX,adventofcode.com
-DOMAIN-SUFFIX,alpinelinux.org
-DOMAIN-SUFFIX,apache.org
-DOMAIN-SUFFIX,artixlinux.org
-DOMAIN-SUFFIX,atom.io
-DOMAIN-SUFFIX,badgen.net
-DOMAIN-SUFFIX,bitvise.com
-DOMAIN-SUFFIX,centos.org
-DOMAIN-SUFFIX,chocolatey.org
-DOMAIN-SUFFIX,clojure.org
-DOMAIN-SUFFIX,cnpmjs.org
-DOMAIN-SUFFIX,cve.org
-DOMAIN-SUFFIX,cygwin.com
-DOMAIN-SUFFIX,cython.org
-DOMAIN-SUFFIX,deno.com
-DOMAIN-SUFFIX,deno.land
-DOMAIN-SUFFIX,dev.to
-DOMAIN-SUFFIX,elixir-lang.org
-DOMAIN-SUFFIX,elrepo.org
-DOMAIN-SUFFIX,erlang.org
-DOMAIN-SUFFIX,ffmpeg.org
-DOMAIN-SUFFIX,freebsd.org
-DOMAIN-SUFFIX,gentoo.org
-DOMAIN-SUFFIX,getcomposer.org
-DOMAIN-SUFFIX,getzola.org
-DOMAIN-SUFFIX,git-scm.com
-DOMAIN-SUFFIX,gnu.org
-DOMAIN-SUFFIX,godbolt.org
-
-# PuTTY and some software official websites.
-DOMAIN-SUFFIX,greenend.org.uk
-
-DOMAIN-SUFFIX,hex.pm
-DOMAIN-SUFFIX,hexdocs.pm
-DOMAIN-SUFFIX,imageglass.org
-DOMAIN-SUFFIX,ius.io
-DOMAIN-SUFFIX,jenkins.io
-DOMAIN-SUFFIX,js.org
-DOMAIN-SUFFIX,jupyter.org
-DOMAIN-SUFFIX,kali.org
-DOMAIN-SUFFIX,linuxfromscratch.org
-DOMAIN-SUFFIX,linuxmint.com
-DOMAIN-SUFFIX,lua.org
-DOMAIN-SUFFIX,macports.org
-DOMAIN-SUFFIX,mariadb.org
-DOMAIN-SUFFIX,mingw.org
-DOMAIN-SUFFIX,mobatek.net
-DOMAIN-SUFFIX,mpv.io
-DOMAIN-SUFFIX,mysql.com
-DOMAIN-SUFFIX,neovim.io
-DOMAIN-SUFFIX,netfilter.org
-DOMAIN-SUFFIX,newpipe.net
-DOMAIN-SUFFIX,nftables.org
-DOMAIN-SUFFIX,nixos.org
-DOMAIN-SUFFIX,nodesource.com
-DOMAIN-SUFFIX,notepad-plus-plus.org
-DOMAIN-SUFFIX,openresty.org
-DOMAIN-SUFFIX,openssl.org
-DOMAIN-SUFFIX,opensuse.org
-DOMAIN-SUFFIX,osdn.net
-DOMAIN-SUFFIX,packagecloud.io
-DOMAIN-SUFFIX,packagist.org
-DOMAIN-SUFFIX,pcre.org
-DOMAIN-SUFFIX,phantomjs.org
-DOMAIN-SUFFIX,php.net
-DOMAIN-SUFFIX,piwheels.org
-DOMAIN-SUFFIX,postgresql.org
-DOMAIN-SUFFIX,putty.org
-DOMAIN-SUFFIX,r-project.org
-DOMAIN-SUFFIX,raspberrypi.org
-DOMAIN-SUFFIX,raspbian.org
-DOMAIN-SUFFIX,regex101.com
-DOMAIN-SUFFIX,remirepo.net
-DOMAIN-SUFFIX,rpmfusion.org
-DOMAIN-SUFFIX,scientificlinux.org
-DOMAIN-SUFFIX,scoop.sh
-DOMAIN-SUFFIX,shellcheck.net
-DOMAIN-SUFFIX,shields.io
-DOMAIN-SUFFIX,sqlite.org
-DOMAIN-SUFFIX,sublimetext.com
-DOMAIN-SUFFIX,tampermonkey.net
-DOMAIN-SUFFIX,termius.com
-DOMAIN-SUFFIX,topcoder.com
-DOMAIN-SUFFIX,unpkg.com
-DOMAIN-SUFFIX,videojs.com
-DOMAIN-SUFFIX,videolan.org
-DOMAIN-SUFFIX,vim.org
-DOMAIN-SUFFIX,wapm.io
-DOMAIN-SUFFIX,wasmer.io
-DOMAIN-SUFFIX,webflow.com
-DOMAIN-SUFFIX,weblate.org
-DOMAIN-SUFFIX,wireshark.org
-DOMAIN-SUFFIX,x.org
-DOMAIN-SUFFIX,xposed.info
-DOMAIN-SUFFIX,yarnpkg.com
-DOMAIN-SUFFIX,ziglang.org
-DOMAIN-SUFFIX,zsh.org
-#end include:category-dev
 
 # Tech companies
 
@@ -3991,110 +3673,6 @@ DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,rutor.info
 
 # VPN services
-#include:category-vpnservices
-# DISCLAIMER:
-# We do NOT endorse or claim that the VPN services below are legal or safe.
-# Please use at your own risk and observe local laws, rules and regulations.
-
-# Reference: https://duyaoss.com/archives/3/
-#include:928plus
-DOMAIN-SUFFIX,928.plus
-DOMAIN-SUFFIX,zind.cloud
-#end include:928plus
-#include:boslife
-DOMAIN-SUFFIX,boslife.biz
-DOMAIN-SUFFIX,boslife.net
-#end include:boslife
-#include:cylink
-DOMAIN-SUFFIX,cylink.pro
-DOMAIN-SUFFIX,cylink0122.icu
-#end include:cylink
-#include:dlercloud
-DOMAIN-SUFFIX,dlercloud.com
-DOMAIN-SUFFIX,dlercloud.org
-DOMAIN-SUFFIX,dlercloud.me
-DOMAIN-SUFFIX,dleris.best
-#end include:dlercloud
-#include:duyaoss
-DOMAIN-SUFFIX,duyaoss.com
-DOMAIN-SUFFIX,duyaossr.com
-#end include:duyaoss
-#include:hitun
-DOMAIN-SUFFIX,hitun.io
-DOMAIN-SUFFIX,xn--90wwvt03e.com    #海豚湾.com
-#end include:hitun
-#include:justmysocks
-DOMAIN-SUFFIX,justmysocks.net
-DOMAIN-SUFFIX,justmysocks1.net
-DOMAIN-SUFFIX,justmysocks2.net
-DOMAIN-SUFFIX,justmysocks4.net
-#end include:justmysocks
-#include:n3ro
-DOMAIN-SUFFIX,n3ro.lol
-DOMAIN-SUFFIX,n3ro.net
-DOMAIN-SUFFIX,n3ro.wtf
-#end include:n3ro
-#include:nexitally
-DOMAIN-SUFFIX,nexitally.com
-DOMAIN-SUFFIX,nexitallysafe.com
-DOMAIN-SUFFIX,nexitcore.com
-#end include:nexitally
-#include:paofuyun
-DOMAIN-SUFFIX,paofu.cloud
-DOMAIN-SUFFIX,paofuyun.me
-#end include:paofuyun
-#include:shadowsockscom
-DOMAIN-SUFFIX,shadowsocks.com
-DOMAIN-SUFFIX,shadowsocks.nl
-#end include:shadowsockscom
-#include:squirrelvpn
-DOMAIN-SUFFIX,squirrelvpn.com
-DOMAIN-SUFFIX,squirrelgroup.net
-#end include:squirrelvpn
-#include:ssrcloud
-DOMAIN-SUFFIX,airport-gov-cn.com
-DOMAIN-SUFFIX,cnix-gov-cn.com
-DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com    #很有精神.com
-#end include:ssrcloud
-#include:surflite
-DOMAIN-SUFFIX,surflite.co
-DOMAIN-SUFFIX,surflite.net
-#end include:surflite
-#include:vilavpn
-DOMAIN-SUFFIX,vilavpn.com
-DOMAIN-SUFFIX,vilavpn.xyz
-DOMAIN-SUFFIX,vilavpn1.xyz
-DOMAIN-SUFFIX,vilavpn2.xyz
-DOMAIN-SUFFIX,vilavpn3.xyz
-DOMAIN-SUFFIX,vilavpn4.xyz
-DOMAIN-SUFFIX,vilavpn5.xyz
-DOMAIN-SUFFIX,vilavpn6.xyz
-DOMAIN-SUFFIX,vilavpn7.xyz
-#end include:vilavpn
-
-DOMAIN-SUFFIX,aaex.uk
-DOMAIN-SUFFIX,amytele.com
-DOMAIN-SUFFIX,ark.to
-DOMAIN-SUFFIX,baicaonetwork.com
-DOMAIN-SUFFIX,bighead.group
-DOMAIN-SUFFIX,blinkload.zone
-DOMAIN-SUFFIX,cloudn.me
-DOMAIN-SUFFIX,conair.me
-DOMAIN-SUFFIX,cordcloud.org
-DOMAIN-SUFFIX,ctyun.online
-DOMAIN-SUFFIX,geph.io
-DOMAIN-SUFFIX,gfw.press
-DOMAIN-SUFFIX,maying.co
-DOMAIN-SUFFIX,mocloudplus.com
-DOMAIN-SUFFIX,mray.club
-DOMAIN-SUFFIX,mudfish.net
-DOMAIN-SUFFIX,muncloud.dog
-DOMAIN-SUFFIX,renzhe.cloud
-DOMAIN-SUFFIX,ssplive.pw
-DOMAIN-SUFFIX,ssrpass.pw
-DOMAIN-SUFFIX,stc-server.com
-DOMAIN-SUFFIX,hutao.cloud
-#end include:category-vpnservices
 
 # Wiki
 #include:fandom

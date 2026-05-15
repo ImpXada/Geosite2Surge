@@ -1,14 +1,6 @@
-DOMAIN-SUFFIX,jd.co.th
-DOMAIN-SUFFIX,jd.hk
-DOMAIN-SUFFIX,jd.id
-DOMAIN-SUFFIX,jd.ru
-DOMAIN-SUFFIX,speedtest.hk.chinamobile.com
-DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com
-DOMAIN-SUFFIX,chinaunicom.com.hk
-DOMAIN-SUFFIX,chinaunicomglobal.com
-DOMAIN-SUFFIX,cuguplus.com
-DOMAIN-SUFFIX,cuniq.com
-DOMAIN-SUFFIX,cuniq.sg
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csci.hk
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,nebulance.io
 DOMAIN-SUFFIX,torrentleech.org
@@ -19,6 +11,14 @@ DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,mt.cc
 DOMAIN-SUFFIX,dmhy.best
 DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com
+DOMAIN-SUFFIX,vivoglobal.com
+DOMAIN-SUFFIX,iq.com
+DOMAIN-SUFFIX,deepin.io
+DOMAIN-SUFFIX,deepin.org
 DOMAIN-SUFFIX,hk.weibo.com
 DOMAIN-SUFFIX,my.weibo.com
 DOMAIN-SUFFIX,overseas.weibo.com
@@ -26,10 +26,168 @@ DOMAIN-SUFFIX,sg.weibo.com
 DOMAIN-SUFFIX,th.weibo.com
 DOMAIN-SUFFIX,tw.weibo.com
 DOMAIN-SUFFIX,us.weibo.com
-DOMAIN-SUFFIX,vivoglobal.com
-DOMAIN-SUFFIX,webnovel.com
+DOMAIN-SUFFIX,alibabacloud.co.in
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,alibabacloud.com.au
+DOMAIN-SUFFIX,alibabacloud.com.hk
+DOMAIN-SUFFIX,alibabacloud.com.my
+DOMAIN-SUFFIX,alibabacloud.com.sg
+DOMAIN-SUFFIX,alibabacloud.com.tw
+DOMAIN-SUFFIX,alicloud.com
+DOMAIN-SUFFIX,thepoizon.ru
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok-minis.com
+DOMAIN-SUFFIX,tiktok-row.net
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokd.net
+DOMAIN-SUFFIX,tiktokd.org
+DOMAIN-SUFFIX,tiktokeu-cdn.com
+DOMAIN-SUFFIX,tiktokglobalshopv.com
+DOMAIN-SUFFIX,tiktokminis.us
+DOMAIN-SUFFIX,tiktokrow-cdn.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.eu
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokw.eu
+DOMAIN-SUFFIX,tiktokw.us
+DOMAIN-SUFFIX,ttcdn-us.com
+DOMAIN-SUFFIX,ttlivecdn.com
+DOMAIN-SUFFIX,ttoverseaus.net
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
+DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
+DOMAIN-SUFFIX,tiktokv.com.edgekey.net
+DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
+DOMAIN,p16-tiktokcdn-com.akamaized.net
+DOMAIN,roovza-launches.appsflyersdk.com
+DOMAIN,roovza.inapps.appsflyersdk.com
+DOMAIN,roovza.launches.appsflyersdk.com
+DOMAIN,roovza.skadsdk.appsflyersdk.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,mtalk.google.com
+DOMAIN,community.oneplus.com
+DOMAIN-SUFFIX,didi-food.com
+DOMAIN-SUFFIX,didiaustralia.blog
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,didimobility.co.jp
+DOMAIN-SUFFIX,jd.co.th
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jd.id
+DOMAIN-SUFFIX,jd.ru
+DOMAIN-SUFFIX,pingan.com.hk
+DOMAIN-SUFFIX,ctexcel.ca
+DOMAIN-SUFFIX,ctexcel.com
+DOMAIN-SUFFIX,ctexcel.com.hk
+DOMAIN-SUFFIX,ctexcel.fr
+DOMAIN-SUFFIX,ctexcel.us
 DOMAIN-SUFFIX,cmbi.com.hk
 DOMAIN-SUFFIX,cmbwinglungbank.com
+DOMAIN-SUFFIX,webnovel.com
+DOMAIN-SUFFIX,chinaunicom.com.hk
+DOMAIN-SUFFIX,chinaunicomglobal.com
+DOMAIN-SUFFIX,cuguplus.com
+DOMAIN-SUFFIX,cuniq.com
+DOMAIN-SUFFIX,cuniq.sg
+DOMAIN-SUFFIX,ccbintl.com.hk
+DOMAIN-SUFFIX,ccbseoul.com
+DOMAIN-SUFFIX,taptap.io
+DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,huaweicloud-dns.net
+DOMAIN-SUFFIX,huaweicloud-dns.org
+DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com    #中东-阿布扎比-OP5
+DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com    #非洲-内罗毕二零一
+DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com    #非洲-开罗
+DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com    #非洲-约翰内斯堡
+DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com    #非洲-拉各斯二零一
+DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com    #亚太-东京二零一
+DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com    #中国-香港
+DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com    #亚太-曼谷
+DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com    #亚太-雅加达二零一
+DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com    #亚太-马尼拉二零一
+DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com    #亚太-吉隆坡二零一
+DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com    #亚太-新加坡
+DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com    #亚太-雅加达
+DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com    #亚太-马尼拉
+DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com    #亚太-新加坡-OP1
+DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com    #亚洲-班加罗尔二零一
+DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com    #亚洲-伊斯兰堡二零一
+DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com    #亚洲-德里二零一
+DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com    #加拿大-多伦多二零一
+DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com    #欧洲-法兰克福二零一
+DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com    #欧洲-华沙二零一
+DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com    #欧洲-斯德哥尔摩二零一
+DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com    #欧洲-巴黎
+DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com    #欧洲-阿姆斯特丹-OP1
+DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com    #欧洲-都柏林
+DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com    #欧洲-纽波特二零一
+DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com    #拉美-墨西哥城二
+DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com    #拉美-巴拿马城二零一
+DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com    #拉美-圣地亚哥
+DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com    #中东-利雅得
+DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com    #中东-迪拜二零一
+DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com    #中东-伊斯坦布尔二零一
+DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com    #中东-利雅得二零一
+DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com    #亚太-吉隆坡-OP6
+DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com    #北美-亚特兰大
+DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com    #拉美-墨西哥城一
+DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com    #俄罗斯-莫斯科-OP4
+DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com    #俄罗斯-莫斯科二
+DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com    #俄罗斯-莫斯科二零一
+DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com    #拉美-圣保罗一
+DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com    #土耳其-伊斯坦布尔
+DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com    #北美-亚特兰大-废弃
+DOMAIN-SUFFIX,ctrip.co.id
+DOMAIN-SUFFIX,ctrip.co.kr
+DOMAIN-SUFFIX,ctrip.co.th
+DOMAIN-SUFFIX,ctrip.com.hk
+DOMAIN-SUFFIX,ctrip.my
+DOMAIN-SUFFIX,ctrip.sg
+DOMAIN-SUFFIX,ctripbuy.hk
+DOMAIN-SUFFIX,hhtravel.com.tw
+DOMAIN-SUFFIX,trip.com
+DOMAIN-SUFFIX,ak-p.tripcdn.com
+DOMAIN-SUFFIX,ak-s-cw.tripcdn.com
+DOMAIN-SUFFIX,ak-s.tripcdn.com
+DOMAIN-SUFFIX,akatest.tripcdn.com
+DOMAIN-SUFFIX,aw-d.tripcdn.com
+DOMAIN-SUFFIX,aw-p.tripcdn.com
+DOMAIN-SUFFIX,aw-s.tripcdn.com
+DOMAIN-SUFFIX,speedtest.hk.chinamobile.com
+DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com
+DOMAIN-SUFFIX,emsec.hk
+DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
+DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
+DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
+DOMAIN-SUFFIX,oss-ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX,oss-ap-southeast-2.aliyuncs.com
+DOMAIN-SUFFIX,oss-ap-southeast-3.aliyuncs.com
+DOMAIN-SUFFIX,oss-ap-southeast-5.aliyuncs.com
+DOMAIN-SUFFIX,oss-ap-southeast-6.aliyuncs.com
+DOMAIN-SUFFIX,oss-ap-southeast-7.aliyuncs.com
+DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,oss-eu-central-1.aliyuncs.com
+DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
+DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
+DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
+DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,easebar.com
 DOMAIN-SUFFIX,icbc-at.com
 DOMAIN-SUFFIX,icbc-cz.com
 DOMAIN-SUFFIX,icbc-ltd.com
@@ -75,59 +233,6 @@ DOMAIN-SUFFIX,icbcswiss.com
 DOMAIN-SUFFIX,icbcthai.com
 DOMAIN-SUFFIX,icbkfs.com
 DOMAIN-SUFFIX,icbkus.com
-DOMAIN-SUFFIX,ccbintl.com.hk
-DOMAIN-SUFFIX,ccbseoul.com
-DOMAIN-SUFFIX,iq.com
-DOMAIN-SUFFIX,taptap.io
-DOMAIN-SUFFIX,huaweicloud-dns.net
-DOMAIN-SUFFIX,huaweicloud-dns.org
-DOMAIN-SUFFIX,ae-ad-1.myhuaweicloud.com    #中东-阿布扎比-OP5
-DOMAIN-SUFFIX,af-east-201.myhuaweicloud.com    #非洲-内罗毕二零一
-DOMAIN-SUFFIX,af-north-1.myhuaweicloud.com    #非洲-开罗
-DOMAIN-SUFFIX,af-south-1.myhuaweicloud.com    #非洲-约翰内斯堡
-DOMAIN-SUFFIX,af-west-202.myhuaweicloud.com    #非洲-拉各斯二零一
-DOMAIN-SUFFIX,ap-northeast-201.myhuaweicloud.com    #亚太-东京二零一
-DOMAIN-SUFFIX,ap-southeast-1.myhuaweicloud.com    #中国-香港
-DOMAIN-SUFFIX,ap-southeast-2.myhuaweicloud.com    #亚太-曼谷
-DOMAIN-SUFFIX,ap-southeast-201.myhuaweicloud.com    #亚太-雅加达二零一
-DOMAIN-SUFFIX,ap-southeast-202.myhuaweicloud.com    #亚太-马尼拉二零一
-DOMAIN-SUFFIX,ap-southeast-203.myhuaweicloud.com    #亚太-吉隆坡二零一
-DOMAIN-SUFFIX,ap-southeast-3.myhuaweicloud.com    #亚太-新加坡
-DOMAIN-SUFFIX,ap-southeast-4.myhuaweicloud.com    #亚太-雅加达
-DOMAIN-SUFFIX,ap-southeast-5.myhuaweicloud.com    #亚太-马尼拉
-DOMAIN-SUFFIX,as-south-0.myhuaweicloud.com    #亚太-新加坡-OP1
-DOMAIN-SUFFIX,as-south-201.myhuaweicloud.com    #亚洲-班加罗尔二零一
-DOMAIN-SUFFIX,as-south-205.myhuaweicloud.com    #亚洲-伊斯兰堡二零一
-DOMAIN-SUFFIX,as-south-207.myhuaweicloud.com    #亚洲-德里二零一
-DOMAIN-SUFFIX,ca-east-201.myhuaweicloud.com    #加拿大-多伦多二零一
-DOMAIN-SUFFIX,eu-central-201.myhuaweicloud.com    #欧洲-法兰克福二零一
-DOMAIN-SUFFIX,eu-central-202.myhuaweicloud.com    #欧洲-华沙二零一
-DOMAIN-SUFFIX,eu-north-201.myhuaweicloud.com    #欧洲-斯德哥尔摩二零一
-DOMAIN-SUFFIX,eu-west-0.myhuaweicloud.com    #欧洲-巴黎
-DOMAIN-SUFFIX,eu-west-1.myhuaweicloud.com    #欧洲-阿姆斯特丹-OP1
-DOMAIN-SUFFIX,eu-west-101.myhuaweicloud.com    #欧洲-都柏林
-DOMAIN-SUFFIX,eu-west-201.myhuaweicloud.com    #欧洲-纽波特二零一
-DOMAIN-SUFFIX,la-north-2.myhuaweicloud.com    #拉美-墨西哥城二
-DOMAIN-SUFFIX,la-north-205.myhuaweicloud.com    #拉美-巴拿马城二零一
-DOMAIN-SUFFIX,la-south-2.myhuaweicloud.com    #拉美-圣地亚哥
-DOMAIN-SUFFIX,me-east-1.myhuaweicloud.com    #中东-利雅得
-DOMAIN-SUFFIX,me-east-205.myhuaweicloud.com    #中东-迪拜二零一
-DOMAIN-SUFFIX,me-east-208.myhuaweicloud.com    #中东-伊斯坦布尔二零一
-DOMAIN-SUFFIX,me-east-209.myhuaweicloud.com    #中东-利雅得二零一
-DOMAIN-SUFFIX,my-kualalumpur-1.myhuaweicloud.com    #亚太-吉隆坡-OP6
-DOMAIN-SUFFIX,na-east-0.myhuaweicloud.com    #北美-亚特兰大
-DOMAIN-SUFFIX,na-mexico-1.myhuaweicloud.com    #拉美-墨西哥城一
-DOMAIN-SUFFIX,ru-moscow-1.myhuaweicloud.com    #俄罗斯-莫斯科-OP4
-DOMAIN-SUFFIX,ru-northwest-2.myhuaweicloud.com    #俄罗斯-莫斯科二
-DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com    #俄罗斯-莫斯科二零一
-DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com    #拉美-圣保罗一
-DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com    #土耳其-伊斯坦布尔
-DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com    #北美-亚特兰大-废弃
-DOMAIN-SUFFIX,pingan.com.hk
-DOMAIN-SUFFIX,citics.com.hk
-DOMAIN-SUFFIX,cncbinternational.com
-DOMAIN-SUFFIX,csci.hk
-DOMAIN-SUFFIX,thepoizon.ru
 DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com    #中国香港
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com    #新加坡
@@ -191,111 +296,7 @@ DOMAIN-SUFFIX,ca.file.myqcloud.com    #多伦多
 DOMAIN-SUFFIX,ger.file.myqcloud.com    #法兰克福
 DOMAIN-SUFFIX,rumt-sg.com    #新加坡
 DOMAIN-SUFFIX,rumt-us.com    #硅谷
-DOMAIN-SUFFIX,easebar.com
 DOMAIN-SUFFIX,myip.la
-DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
-DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok-minis.com
-DOMAIN-SUFFIX,tiktok-row.net
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn-eu.com
-DOMAIN-SUFFIX,tiktokcdn-us.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokd.net
-DOMAIN-SUFFIX,tiktokd.org
-DOMAIN-SUFFIX,tiktokeu-cdn.com
-DOMAIN-SUFFIX,tiktokglobalshopv.com
-DOMAIN-SUFFIX,tiktokminis.us
-DOMAIN-SUFFIX,tiktokrow-cdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokv.eu
-DOMAIN-SUFFIX,tiktokv.us
-DOMAIN-SUFFIX,tiktokw.eu
-DOMAIN-SUFFIX,tiktokw.us
-DOMAIN-SUFFIX,ttcdn-us.com
-DOMAIN-SUFFIX,ttlivecdn.com
-DOMAIN-SUFFIX,ttoverseaus.net
-DOMAIN-SUFFIX,ttwstatic.com
-DOMAIN-SUFFIX,tiktokcdn-us.com.edgesuite.net
-DOMAIN-SUFFIX,tiktokcdn.com.akamaized.net
-DOMAIN-SUFFIX,tiktokcdn.com.edgesuite.net
-DOMAIN-SUFFIX,tiktokv.com.edgekey.net
-DOMAIN-SUFFIX,tiktokv.com.edgesuite.net
-DOMAIN,p16-tiktokcdn-com.akamaized.net
-DOMAIN,roovza-launches.appsflyersdk.com
-DOMAIN,roovza.inapps.appsflyersdk.com
-DOMAIN,roovza.launches.appsflyersdk.com
-DOMAIN,roovza.skadsdk.appsflyersdk.com
-DOMAIN-SUFFIX,emsec.hk
-DOMAIN,alt1-mtalk.google.com
-DOMAIN,alt2-mtalk.google.com
-DOMAIN,alt3-mtalk.google.com
-DOMAIN,alt4-mtalk.google.com
-DOMAIN,alt5-mtalk.google.com
-DOMAIN,alt6-mtalk.google.com
-DOMAIN,mtalk.google.com
-DOMAIN-SUFFIX,deepin.io
-DOMAIN-SUFFIX,deepin.org
-DOMAIN-SUFFIX,ctrip.co.id
-DOMAIN-SUFFIX,ctrip.co.kr
-DOMAIN-SUFFIX,ctrip.co.th
-DOMAIN-SUFFIX,ctrip.com.hk
-DOMAIN-SUFFIX,ctrip.my
-DOMAIN-SUFFIX,ctrip.sg
-DOMAIN-SUFFIX,ctripbuy.hk
-DOMAIN-SUFFIX,hhtravel.com.tw
-DOMAIN-SUFFIX,trip.com
-DOMAIN-SUFFIX,ak-p.tripcdn.com
-DOMAIN-SUFFIX,ak-s-cw.tripcdn.com
-DOMAIN-SUFFIX,ak-s.tripcdn.com
-DOMAIN-SUFFIX,akatest.tripcdn.com
-DOMAIN-SUFFIX,aw-d.tripcdn.com
-DOMAIN-SUFFIX,aw-p.tripcdn.com
-DOMAIN-SUFFIX,aw-s.tripcdn.com
-DOMAIN,upos-hz-mirrorakam.akamaized.net
-DOMAIN,community.oneplus.com
-DOMAIN-SUFFIX,cici.com
-DOMAIN-SUFFIX,ciciai.com
-DOMAIN-SUFFIX,ciciaicdn.com
-DOMAIN-SUFFIX,dola.com
-DOMAIN-SUFFIX,dbankcloud.ru
-DOMAIN-SUFFIX,domain:dt.dbankcloud.ru
-DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-2.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-3.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-5.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-6.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-7.aliyuncs.com
-DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,oss-eu-central-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
-DOMAIN-SUFFIX,alibabacloud.co.in
-DOMAIN-SUFFIX,alibabacloud.com
-DOMAIN-SUFFIX,alibabacloud.com.au
-DOMAIN-SUFFIX,alibabacloud.com.hk
-DOMAIN-SUFFIX,alibabacloud.com.my
-DOMAIN-SUFFIX,alibabacloud.com.sg
-DOMAIN-SUFFIX,alibabacloud.com.tw
-DOMAIN-SUFFIX,alicloud.com
-DOMAIN-SUFFIX,bochk.com
-DOMAIN-SUFFIX,rednote.com
-DOMAIN-SUFFIX,rednote.com.my
-DOMAIN-SUFFIX,rednotecdn.com
-DOMAIN-SUFFIX,ctexcel.ca
-DOMAIN-SUFFIX,ctexcel.com
-DOMAIN-SUFFIX,ctexcel.com.hk
-DOMAIN-SUFFIX,ctexcel.fr
-DOMAIN-SUFFIX,ctexcel.us
 DOMAIN-SUFFIX,anker-in.com
 DOMAIN-SUFFIX,anker.com
 DOMAIN-SUFFIX,ankersolix.com
@@ -303,9 +304,10 @@ DOMAIN-SUFFIX,eufy.com
 DOMAIN-SUFFIX,eufylife.com
 DOMAIN-SUFFIX,eufymake.com
 DOMAIN-SUFFIX,soundcore.com
-DOMAIN-SUFFIX,bilibili.tv
-DOMAIN-SUFFIX,biliintl.com
-DOMAIN-SUFFIX,dreamcast.hk
+DOMAIN-SUFFIX,chinatelecomglobal.com
+DOMAIN-SUFFIX,chinatelecomhk.com
+DOMAIN-SUFFIX,c.mi.com
+DOMAIN-SUFFIX,global.market.xiaomi.com
 DOMAIN-SUFFIX,alihealth.hk
 DOMAIN-SUFFIX,ae-rus.net
 DOMAIN-SUFFIX,aedns.ru
@@ -316,25 +318,23 @@ DOMAIN-SUFFIX,alipay.hk
 DOMAIN-SUFFIX,alipaymo.com
 DOMAIN-SUFFIX,tmall.ru
 DOMAIN-SUFFIX,fliggy.hk
-DOMAIN-SUFFIX,didi-food.com
-DOMAIN-SUFFIX,didiaustralia.blog
-DOMAIN-SUFFIX,didiglobal.com
-DOMAIN-SUFFIX,didimobility.co.jp
+DOMAIN-SUFFIX,tencent.co.id
+DOMAIN-SUFFIX,tencent.com.hk
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+DOMAIN,wetv.qq.com
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk
 DOMAIN-SUFFIX,byteglb.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN,bytedance.map.fastly.net
-DOMAIN-SUFFIX,tencent.co.id
-DOMAIN-SUFFIX,tencent.com.hk
-DOMAIN-SUFFIX,wetv.vip
-DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN,wetv.qq.com
-DOMAIN-SUFFIX,c.mi.com
-DOMAIN-SUFFIX,global.market.xiaomi.com
-DOMAIN-SUFFIX,coze.com
-DOMAIN-SUFFIX,marscode.com
-DOMAIN-SUFFIX,trae.ai
-DOMAIN-SUFFIX,chinatelecomglobal.com
-DOMAIN-SUFFIX,chinatelecomhk.com
+DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
+DOMAIN-SUFFIX,rednote.com
+DOMAIN-SUFFIX,rednote.com.my
+DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,dbankcloud.ru
+DOMAIN-SUFFIX,domain:dt.dbankcloud.ru

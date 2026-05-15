@@ -1,4 +1,5 @@
 #include:yahoo
+#include:flickr
 # All .flickr domains
 DOMAIN-SUFFIX,flickr
 
