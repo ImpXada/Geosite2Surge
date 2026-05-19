@@ -775,6 +775,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | kodi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/kodi |
 | kodik | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/kodik |
 | konachan | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/konachan |
+| konami | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/konami |
 | kontur | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/kontur |
 | koolearn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/koolearn |
 | kraken | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/kraken |
