@@ -1248,6 +1248,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | tbank-ru | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tbank-ru |
 | tcl | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tcl |
 | teambition | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/teambition |
+| teamspeak | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/teamspeak |
 | teamviewer | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/teamviewer |
 | technogym | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/technogym |
 | techpowerup | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/techpowerup |

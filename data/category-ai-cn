@@ -70,6 +70,10 @@ DOMAIN-SUFFIX,qwenlm.ai
 DOMAIN-SUFFIX,tongyi.aliyun.com
 DOMAIN-SUFFIX,tongyi.com
 
+# 蚂蚁阿福
+DOMAIN-SUFFIX,antafu.com
+DOMAIN-SUFFIX,antaq.com
+
 # 文心一言
 DOMAIN-SUFFIX,yiyan.baidu.com
 

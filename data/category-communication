@@ -138,6 +138,11 @@ DOMAIN-SUFFIX,slackcertified.com
 DOMAIN-SUFFIX,slackdemo.com
 DOMAIN-SUFFIX,slackhq.com
 #end include:slack
+#include:teamspeak
+DOMAIN-SUFFIX,myteamspeak.com
+DOMAIN-SUFFIX,teamspeak.com
+DOMAIN-SUFFIX,teamspeak-services.com
+#end include:teamspeak
 #include:telegram
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,comments.app

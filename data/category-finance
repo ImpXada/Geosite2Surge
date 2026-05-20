@@ -156,6 +156,7 @@ DOMAIN-SUFFIX,ysx-mm.com
 #end include:category-bank-mm
 #include:category-bank-ru
 # Alfa Bank
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
