@@ -15,32 +15,16 @@ DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN,mdn.mozillademos.org
 #end include:mdn
 
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,extensionworkshop.com
+DOMAIN-SUFFIX,getpocket.com
 DOMAIN-SUFFIX,mozgcp.net
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
-
-# Add-ons
-DOMAIN-SUFFIX,extensionworkshop.com
-
-# Bugzilla
-DOMAIN-SUFFIX,bugzilla.org
-
-# Pocket
-DOMAIN-SUFFIX,getpocket.com
-
-# SeaMonkey
+DOMAIN-SUFFIX,mozillafoundation.org
+DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,seamonkey-project.org
-
-# Thunderbird
 DOMAIN-SUFFIX,thunderbird.net
-
-# Mozilla Location Service
-# * Overrided by above `mozilla.com`
-# * In March 2024, Mozilla announced the project was being discontinued
-#location.services.mozilla.com
-
-# Mozilla Push Service
-# * Overrided by above `mozilla.com`
-#push.services.mozilla.com
