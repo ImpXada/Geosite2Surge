@@ -592,6 +592,13 @@ DOMAIN-SUFFIX,standardchartered.com
 DOMAIN,standchartbank.sc.omtrdc.net
 DOMAIN,standchartbank.tt.omtrdc.net
 #end include:standardchartered
+#include:stripe
+DOMAIN-SUFFIX,link.com
+DOMAIN-SUFFIX,stripe-terminal-local-reader.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com
+#end include:stripe
 #include:wise
 DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX,wise.com
