@@ -211,6 +211,9 @@ DOMAIN-SUFFIX,polyclinika.ru
 
 # Vipmed
 DOMAIN-SUFFIX,vipmed.ru
+
+# Spb gorzdrav
+DOMAIN-SUFFIX,gorzdrav.spb.ru
 #end include:category-medicine-ru
 #include:category-retail-ru
 # ABC of Taste
