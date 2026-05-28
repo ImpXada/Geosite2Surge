@@ -156,6 +156,8 @@ DOMAIN-SUFFIX,anhuinews.com
 DOMAIN-SUFFIX,anhuiyun.com
 # 锋潮科技
 DOMAIN-SUFFIX,anzhuo.cn
+# 北京商报
+DOMAIN-SUFFIX,bbtnews.com.cn
 # 鞭牛士
 DOMAIN-SUFFIX,bianews.com
 # 财经网
@@ -168,12 +170,16 @@ DOMAIN-SUFFIX,caixin.com
 # 参考消息
 DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,ckxx.net
+# 改革网
+DOMAIN-SUFFIX,cfgw.net.cn
 # AET 电子技术应用
 DOMAIN-SUFFIX,chinaaet.com
 # 天极网
 DOMAIN-SUFFIX,chinabyte.com
 DOMAIN-SUFFIX,tianjimedia.com
 DOMAIN-SUFFIX,yesky.com
+# 中国发展网
+DOMAIN-SUFFIX,chinadevelopment.com.cn
 # 中金在线
 DOMAIN-SUFFIX,cnfol.com
 DOMAIN-SUFFIX,cnfolimg.com
@@ -197,6 +203,9 @@ DOMAIN-SUFFIX,ctdsb.net
 DOMAIN,ctdsb.clouddiffuse.xyz
 # 创头条
 DOMAIN-SUFFIX,ctoutiao.com
+# 中青在线/中国青年报
+DOMAIN-SUFFIX,cyol.com
+DOMAIN-SUFFIX,cyol.net
 # 创业邦
 DOMAIN-SUFFIX,cyzone.cn
 # 浙江广播电视集团/浙江卫视/新蓝网
@@ -220,6 +229,10 @@ DOMAIN-SUFFIX,donews.com
 # 大众日报
 DOMAIN-SUFFIX,dzng.com
 DOMAIN-SUFFIX,dzwww.com
+# 东方网
+DOMAIN-SUFFIX,eastday.com
+# 经济观察网
+DOMAIN-SUFFIX,eeo.com.cn
 # 超能网
 DOMAIN-SUFFIX,expreview.com
 # FreeBuf 网络安全行业门户

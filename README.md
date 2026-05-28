@@ -905,6 +905,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | morisawa | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/morisawa |
 | mortein | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mortein |
 | mosmetro | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mosmetro |
+| motorola | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/motorola |
 | movefree | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/movefree |
 | moxing | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/moxing |
 | mozilla | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/mozilla |

@@ -1,26 +1,40 @@
 # BudZdorov
 DOMAIN-SUFFIX,klinikabudzdorov.ru
 
-# Emias
-DOMAIN-SUFFIX,emias.ru
+# EMIAS – Moscow city polyclinics and medical institutions
 DOMAIN-SUFFIX,emias.info
+DOMAIN-SUFFIX,emias.mos.ru
+DOMAIN-SUFFIX,emias.ru
 
-# Medsi
+# Federal State Budgetary Institution Polyclinic No. 1 in Moscow
+DOMAIN-SUFFIX,vipmed.ru
+
+# Medical insurance policy "SMK RESO-Med"
+DOMAIN-SUFFIX,reso-med.com
+DOMAIN-SUFFIX,reso-med.ru
+## Moscow City Compulsory Medical Insurance Fund
+DOMAIN-SUFFIX,mgfoms.ru
+## St. Petersburg Territorial Compulsory Medical Insurance Fund
+DOMAIN-SUFFIX,spboms.ru
+## Territorial Compulsory Medical Insurance Fund of the Republic of Karelia
+DOMAIN-SUFFIX,oms.karelia.ru
+## The territorial fund of compulsory medical insurance of the Moscow region
+DOMAIN-SUFFIX,mofoms.ru
+
+# MEDSI – federal network of private clinics
+DOMAIN-SUFFIX,medsi-premium.ru
 DOMAIN-SUFFIX,medsi.com
 DOMAIN-SUFFIX,medsi.pro
 DOMAIN-SUFFIX,medsi.ru
-DOMAIN-SUFFIX,medsi-premium.ru
 DOMAIN-SUFFIX,smartmed.pro
 
-# Mosru-based/government
+# Moscow City Health Department
 DOMAIN-SUFFIX,mosgorzdrav.ru
-DOMAIN-SUFFIX,lk.emias.mos.ru
 
-# Polyclinika-ru
+# Polyclinika Ru – network of private medical clinics and consulting and diagnostic centers in Moscow
 DOMAIN-SUFFIX,polyclinika.ru
+## Dentistry Zub Ru – network of dental clinics in Moscow
+DOMAIN-SUFFIX,zub.ru
 
-# Vipmed
-DOMAIN-SUFFIX,vipmed.ru
-
-# Spb gorzdrav
+# St. Petersburg city polyclinics and medical institutions
 DOMAIN-SUFFIX,gorzdrav.spb.ru

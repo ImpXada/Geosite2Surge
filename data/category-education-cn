@@ -52,9 +52,19 @@ DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,shanbay.com
 #end include:shanbay
 #include:xueersi
+# 学而思
+DOMAIN-SUFFIX,100tal.com
+DOMAIN-SUFFIX,aoshu.com
+DOMAIN-SUFFIX,eduu.com
+DOMAIN-SUFFIX,eduuu.com
+DOMAIN-SUFFIX,gaokao.com
 DOMAIN-SUFFIX,speiyou.com
+DOMAIN-SUFFIX,tal.com
 DOMAIN-SUFFIX,xesimg.com
 DOMAIN-SUFFIX,xueersi.com
+DOMAIN-SUFFIX,youjiao.com
+DOMAIN-SUFFIX,zhongkao.com
+DOMAIN-SUFFIX,zuowen.com
 #end include:xueersi
 #include:yuanfudao
 DOMAIN-SUFFIX,banmaaike.com
@@ -125,6 +135,8 @@ DOMAIN-SUFFIX,zbbm.net
 DOMAIN-SUFFIX,neea.cn
 # neea.edu.cn
 
+# 二一教育
+DOMAIN-SUFFIX,21cnjy.com
 # 云校
 DOMAIN-SUFFIX,91yunxiao.com
 # 爱云校/好分数
@@ -218,6 +230,8 @@ DOMAIN-SUFFIX,wjwai.com
 DOMAIN-SUFFIX,zysn.net
 # 时代行云
 DOMAIN-SUFFIX,x-cloud.cc
+# 西瓜创客
+DOMAIN-SUFFIX,xiguacity.cn
 # 西柚英语
 DOMAIN-SUFFIX,xiyouyingyu.com
 # 学科网
@@ -233,3 +247,8 @@ DOMAIN-SUFFIX,zhan.com
 DOMAIN-SUFFIX,zhihuishu.com
 # 浙江省教育考试院
 DOMAIN-SUFFIX,zjzs.net
+# 作文素材类
+DOMAIN-SUFFIX,zuowen8.com
+DOMAIN-SUFFIX,zuowenjun.com
+DOMAIN-SUFFIX,zuowenku.net
+DOMAIN-SUFFIX,zuowenwang.net

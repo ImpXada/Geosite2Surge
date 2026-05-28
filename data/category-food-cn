@@ -78,6 +78,9 @@ DOMAIN-SUFFIX,qmimg.cn
 # 德克士
 DOMAIN-SUFFIX,dicos.com.cn
 
+# 陈克明食品
+DOMAIN-SUFFIX,kemen.cn
+
 # Tracking
 DOMAIN-SUFFIX,logger.qmai.cn
 DOMAIN-SUFFIX,tracking.mcdonalds.com.cn

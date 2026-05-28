@@ -704,6 +704,7 @@ DOMAIN-SUFFIX,cython.org
 DOMAIN-SUFFIX,deno.com
 DOMAIN-SUFFIX,deno.land
 DOMAIN-SUFFIX,dev.to
+DOMAIN-SUFFIX,elementary.io
 DOMAIN-SUFFIX,elixir-lang.org
 DOMAIN-SUFFIX,elrepo.org
 DOMAIN-SUFFIX,erlang.org
@@ -713,12 +714,10 @@ DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,git-scm.com
+DOMAIN-SUFFIX,gnome.org
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,godbolt.org
-
-# PuTTY and some software official websites.
-DOMAIN-SUFFIX,greenend.org.uk
-
+DOMAIN-SUFFIX,greenend.org.uk    #PuTTY and some software official websites
 DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,hexdocs.pm
 DOMAIN-SUFFIX,imageglass.org
@@ -727,11 +726,14 @@ DOMAIN-SUFFIX,jenkins.io
 DOMAIN-SUFFIX,js.org
 DOMAIN-SUFFIX,jupyter.org
 DOMAIN-SUFFIX,kali.org
+DOMAIN-SUFFIX,kde.org
 DOMAIN-SUFFIX,linuxfromscratch.org
 DOMAIN-SUFFIX,linuxmint.com
 DOMAIN-SUFFIX,lua.org
+DOMAIN-SUFFIX,lxqt-project.org
 DOMAIN-SUFFIX,macports.org
 DOMAIN-SUFFIX,mariadb.org
+DOMAIN-SUFFIX,mate-desktop.org
 DOMAIN-SUFFIX,mingw.org
 DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,mpv.io
@@ -753,6 +755,7 @@ DOMAIN-SUFFIX,pcre.org
 DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,php.net
 DOMAIN-SUFFIX,piwheels.org
+DOMAIN-SUFFIX,plasma-mobile.org
 DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,r-project.org
@@ -767,6 +770,7 @@ DOMAIN-SUFFIX,shellcheck.net
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,sqlite.org
 DOMAIN-SUFFIX,sublimetext.com
+DOMAIN-SUFFIX,system76.com
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,topcoder.com
@@ -780,6 +784,7 @@ DOMAIN-SUFFIX,webflow.com
 DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,wireshark.org
 DOMAIN-SUFFIX,x.org
+DOMAIN-SUFFIX,xfce.org
 DOMAIN-SUFFIX,xposed.info
 DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,ziglang.org
