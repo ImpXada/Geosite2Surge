@@ -18,7 +18,6 @@ DOMAIN-SUFFIX,privateapi.xyz
 DOMAIN-SUFFIX,todesk.cn
 DOMAIN-SUFFIX,todesk.com
 ## xEdge干将互联
-#include:xedge
 # xEdge 干将互联
 # 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
 DOMAIN-SUFFIX,xedge.cc

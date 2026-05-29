@@ -10,6 +10,7 @@ DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN,servd-anthropic-website.b-cdn.net
 #end include:anthropic
 #include:bytedance-ai-!cn
+#include:dola
 # Dola, formly ciciai, an AI service of bytedance
 DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
@@ -28,6 +29,7 @@ DOMAIN-SUFFIX,trae.ai
 DOMAIN-SUFFIX,cerebras.ai
 #end include:cerebras
 #include:comfy
+#include:comfy-ui-launcher
 # 绘世启动器
 DOMAIN-SUFFIX,oystermercury.top
 #end include:comfy-ui-launcher
@@ -221,6 +223,7 @@ DOMAIN-SUFFIX,jasper.ai
 
 DOMAIN-SUFFIX,agentclientprotocol.com
 DOMAIN-SUFFIX,anythingllm.com
+DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,clawhub.ai
 DOMAIN-SUFFIX,copilot.microsoft.com
