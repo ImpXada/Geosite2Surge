@@ -5275,6 +5275,12 @@ DOMAIN-SUFFIX,mozillafoundation.org
 DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
+
+# Ads/tracking
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming.telemetry.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
 #end include:mozilla
 #include:msi
 DOMAIN-SUFFIX,msi.cn
