@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,epicbrowser.com
 #include:firefox
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+
+DOMAIN,mozilla-ohttp.fastly-edge.com
 #end include:firefox
 #include:torproject
 DOMAIN-SUFFIX,torproject.org

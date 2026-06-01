@@ -5249,6 +5249,8 @@ DOMAIN-SUFFIX,motorolasolutions.com
 #include:mozilla
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefoxusercontent.com
+
+DOMAIN,mozilla-ohttp.fastly-edge.com
 #end include:firefox
 DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,developer.mozilla.org
