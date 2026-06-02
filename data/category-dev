@@ -693,6 +693,7 @@ DOMAIN-SUFFIX,ffmpeg.org
 DOMAIN-SUFFIX,freebsd.org
 DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,getcomposer.org
+DOMAIN-SUFFIX,getpaint.net
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,gnome.org
@@ -732,6 +733,7 @@ DOMAIN-SUFFIX,opensuse.org
 DOMAIN-SUFFIX,osdn.net
 DOMAIN-SUFFIX,packagecloud.io
 DOMAIN-SUFFIX,packagist.org
+DOMAIN-SUFFIX,paint.net
 DOMAIN-SUFFIX,pcre.org
 DOMAIN-SUFFIX,phantomjs.org
 DOMAIN-SUFFIX,php.net

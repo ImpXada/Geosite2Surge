@@ -2729,6 +2729,7 @@ DOMAIN-SUFFIX,mala.cn    #麻辣社区
 DOMAIN-SUFFIX,mcbbs.net    #MCBBS论坛
 DOMAIN-SUFFIX,pcbeta.com    #远景论坛
 DOMAIN-SUFFIX,right.com.cn    #恩山论坛
+DOMAIN-SUFFIX,tianya.net    #天涯社区
 DOMAIN-SUFFIX,touying.com    #投影网
 DOMAIN-SUFFIX,txrjy.com    #通信人家园
 DOMAIN-SUFFIX,uiwow.com    #魔兽有爱论坛
@@ -2811,6 +2812,8 @@ DOMAIN-SUFFIX,piyao.org.cn
 DOMAIN-SUFFIX,redcross.org.cn
 ## 中国殡葬网
 DOMAIN-SUFFIX,zgbznet.com.cn
+## 中国记协网
+DOMAIN-SUFFIX,zgjx.cn
 
 # Public transportation
 ## 中国国际航空
