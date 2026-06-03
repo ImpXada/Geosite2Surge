@@ -10,9 +10,6 @@ DOMAIN-SUFFIX,taobao
 # All .tmall domains
 DOMAIN-SUFFIX,tmall
 
-#include:9game
-DOMAIN-SUFFIX,9game.cn
-#end include:9game
 #include:alibabacloud
 DOMAIN-SUFFIX,alibabacloud.co.in
 DOMAIN-SUFFIX,alibabacloud.com
@@ -23,6 +20,13 @@ DOMAIN-SUFFIX,alibabacloud.com.sg
 DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,alicloud.com
 #end include:alibabacloud
+#include:aligames
+DOMAIN-SUFFIX,9game.cn
+DOMAIN-SUFFIX,aligames.com
+DOMAIN-SUFFIX,jiaoyimao.cn
+DOMAIN-SUFFIX,jiaoyimao.com
+DOMAIN-SUFFIX,lingxigames.com
+#end include:aligames
 #include:aliyun
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
@@ -38,6 +42,7 @@ DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncdn.com
 DOMAIN-SUFFIX,aliyuncdn.net
 DOMAIN-SUFFIX,aliyunfile.com
+DOMAIN-SUFFIX,aliyunidaas.com
 DOMAIN-SUFFIX,aliyunpds.com
 DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,fcapp.run
@@ -133,10 +138,14 @@ DOMAIN-SUFFIX,optimus-ads.amap.com
 DOMAIN-SUFFIX,v6-adashx.ut.amap.com
 #end include:amap
 #include:cainiao
+DOMAIN-SUFFIX,56xiniao.com
 DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cainiaoyizhan.com
+DOMAIN-SUFFIX,danniao.com
+DOMAIN-SUFFIX,dianwoda.cn
+DOMAIN-SUFFIX,dianwoda.com
 DOMAIN-SUFFIX,guoguo-app.com
 
 # Ads/tracking
@@ -169,6 +178,18 @@ DOMAIN-SUFFIX,adashx.ut.ele.me
 DOMAIN-SUFFIX,h-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 #end include:eleme
+#include:shuqi
+# 书旗/阿里文学
+DOMAIN-SUFFIX,11222.cn
+DOMAIN-SUFFIX,aliwx.com.cn
+DOMAIN-SUFFIX,aliwx.net
+DOMAIN-SUFFIX,ishuqi.com
+DOMAIN-SUFFIX,shuqi.com
+DOMAIN-SUFFIX,shuqiapi.com
+DOMAIN-SUFFIX,shuqiread.com
+DOMAIN-SUFFIX,shuqireader.com
+DOMAIN-SUFFIX,sqreader.com
+#end include:shuqi
 #include:teambition
 DOMAIN-SUFFIX,teambition.com
 DOMAIN-SUFFIX,teambition.net
@@ -226,14 +247,14 @@ DOMAIN-SUFFIX,z.gds.cnzz.com
 #end include:umeng
 #include:youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
-
+DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,kumiao.com
-DOMAIN-SUFFIX,youku.com
-
-DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,mmstat.com
-
 DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,zimgs.cn
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com
@@ -276,7 +297,7 @@ DOMAIN-SUFFIX,alibabaplanet.com
 DOMAIN-SUFFIX,alibabaued.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alifanyi.com
-DOMAIN-SUFFIX,aligames.com
+DOMAIN-SUFFIX,alihealth.cn
 DOMAIN-SUFFIX,alihealth.com.cn
 DOMAIN-SUFFIX,alihealth.hk
 DOMAIN-SUFFIX,aliimg.com
@@ -333,6 +354,7 @@ DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,liangxinyao.com
 DOMAIN-SUFFIX,m-now.cn
 DOMAIN-SUFFIX,maitix.com
+DOMAIN-SUFFIX,mappcloud.com
 DOMAIN-SUFFIX,mdeer.com
 DOMAIN-SUFFIX,mei.com
 DOMAIN-SUFFIX,miaostreet.com
@@ -341,12 +363,11 @@ DOMAIN-SUFFIX,nic.xin
 DOMAIN-SUFFIX,philanthropy.xin
 DOMAIN-SUFFIX,phpwind.com
 DOMAIN-SUFFIX,phpwind.net
+DOMAIN-SUFFIX,pp.cn
 DOMAIN-SUFFIX,qingtingtrip.com
 DOMAIN-SUFFIX,rexpos.cn
 DOMAIN-SUFFIX,saee.org.cn
 DOMAIN-SUFFIX,shenjing.com
-DOMAIN-SUFFIX,shuqi.com
-DOMAIN-SUFFIX,shuqireader.com
 DOMAIN-SUFFIX,sparenode.com
 DOMAIN-SUFFIX,supet.com
 DOMAIN-SUFFIX,tanx.com

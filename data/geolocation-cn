@@ -259,6 +259,7 @@ DOMAIN-SUFFIX,unityads.unitychina.cn
 #end include:unitychina
 
 DOMAIN-SUFFIX,aardio.com
+DOMAIN-SUFFIX,ejoy.com
 DOMAIN-SUFFIX,jinrishici.com
 DOMAIN-SUFFIX,kaihong.com
 DOMAIN-SUFFIX,openvela.com
@@ -456,9 +457,13 @@ DOMAIN-SUFFIX,yxhapi.com
 DOMAIN-SUFFIX,yxhhdl.com
 DOMAIN-SUFFIX,yxhimg.com
 #end include:4399
-#include:9game
+#include:aligames
 DOMAIN-SUFFIX,9game.cn
-#end include:9game
+DOMAIN-SUFFIX,aligames.com
+DOMAIN-SUFFIX,jiaoyimao.cn
+DOMAIN-SUFFIX,jiaoyimao.com
+DOMAIN-SUFFIX,lingxigames.com
+#end include:aligames
 #include:bilibili-game
 DOMAIN-SUFFIX,bilibiligame.cn
 DOMAIN-SUFFIX,bilibiligame.co
@@ -929,6 +934,7 @@ DOMAIN-SUFFIX,inkuai.com
 DOMAIN-SUFFIX,inkwai.com
 DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,kskwai.com
+DOMAIN-SUFFIX,kspkg.com
 DOMAIN-SUFFIX,kuaishou.cn
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,kuaishouapps.com
@@ -1082,6 +1088,18 @@ DOMAIN-SUFFIX,frp-sea.com    #浙江电信PLUS5
 DOMAIN-SUFFIX,frp-six.com    #浙江电信PLUS6
 DOMAIN-SUFFIX,frp-ski.com    #东莞双线PLUS2
 #end include:sakurafrp
+#include:shuqi
+# 书旗/阿里文学
+DOMAIN-SUFFIX,11222.cn
+DOMAIN-SUFFIX,aliwx.com.cn
+DOMAIN-SUFFIX,aliwx.net
+DOMAIN-SUFFIX,ishuqi.com
+DOMAIN-SUFFIX,shuqi.com
+DOMAIN-SUFFIX,shuqiapi.com
+DOMAIN-SUFFIX,shuqiread.com
+DOMAIN-SUFFIX,shuqireader.com
+DOMAIN-SUFFIX,sqreader.com
+#end include:shuqi
 #include:taomee
 DOMAIN-SUFFIX,61.com
 DOMAIN-SUFFIX,taomee.com
@@ -1123,14 +1141,14 @@ DOMAIN-SUFFIX,adse.ximalaya.com
 #end include:ximalaya
 #include:youku
 # youku uses some alicdn services, so this must use with domain list "alibaba"
-
+DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,kumiao.com
-DOMAIN-SUFFIX,youku.com
-
-DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,mmstat.com
-
 DOMAIN-SUFFIX,soku.com
+DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,zimgs.cn
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com
@@ -1504,10 +1522,14 @@ DOMAIN-SUFFIX,youyierp.com
 DOMAIN-SUFFIX,youyitms.com
 DOMAIN-SUFFIX,youyiwms.com
 #end include:800best
+DOMAIN-SUFFIX,56xiniao.com
 DOMAIN-SUFFIX,cainiao-inc.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cainiaoyizhan.com
+DOMAIN-SUFFIX,danniao.com
+DOMAIN-SUFFIX,dianwoda.cn
+DOMAIN-SUFFIX,dianwoda.com
 DOMAIN-SUFFIX,guoguo-app.com
 
 # Ads/tracking
@@ -2650,6 +2672,10 @@ DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,appvipshop.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vipstatic.com
+## 首旅如家/和美酒店
+DOMAIN-SUFFIX,btghotels.com
+DOMAIN-SUFFIX,bthhotels.com
+DOMAIN-SUFFIX,homeinns.com
 ## 多点新鲜
 DOMAIN-SUFFIX,dmall.com
 DOMAIN-SUFFIX,dmallcdn.com
@@ -2658,8 +2684,17 @@ DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,weidian.com
 ## 闲管家（深圳市收收科技）
 DOMAIN-SUFFIX,goofish.pro
+## 华住集团
+DOMAIN-SUFFIX,huazhu.com
+DOMAIN-SUFFIX,huazhucorp.com
+DOMAIN-SUFFIX,hworld.com
 ## 货摊网
 DOMAIN-SUFFIX,huotan.net
+## 锦江国际
+DOMAIN-SUFFIX,jinjiang.com
+DOMAIN-SUFFIX,jinjianghotels.com.cn
+DOMAIN-SUFFIX,jinjiangonline.net
+DOMAIN-SUFFIX,jjtravel.com
 ## 聚美优品
 DOMAIN-SUFFIX,jmstatic.com
 DOMAIN-SUFFIX,jumei.com
@@ -2683,6 +2718,8 @@ DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,ruseer.com
 ## 瞎买
 DOMAIN-SUFFIX,xiamai.net
+## 亚朵
+DOMAIN-SUFFIX,yaduo.com
 
 # Forums
 #include:b3log
@@ -2737,10 +2774,10 @@ DOMAIN-SUFFIX,wuyou.net    #无忧启动论坛
 DOMAIN-SUFFIX,x-station.cn    #X电站
 DOMAIN-SUFFIX,znds.com    #智能电视网
 
-# 51CTO
+## 51CTO
 DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,51ctocdn.cn
-# DCC Forum（心跳文学部中文论坛）
+## DCC Forum（心跳文学部中文论坛）
 DOMAIN-SUFFIX,edgemonix.top    #图床
 DOMAIN-SUFFIX,monika.love
 
@@ -2876,6 +2913,7 @@ DOMAIN-SUFFIX,xiamenair.com
 ## 中国民航局
 DOMAIN-SUFFIX,caac.gov.cn
 ## 信天游（航空电子客票验真）
+DOMAIN-SUFFIX,travelsky.com.cn
 DOMAIN-SUFFIX,travelskymobile.cn
 ## 航旅纵横
 DOMAIN-SUFFIX,umetrip.com
@@ -3978,6 +4016,18 @@ DOMAIN-SUFFIX,mafengwo.net
 DOMAIN-SUFFIX,meitu.com
 DOMAIN-SUFFIX,meitudata.com
 DOMAIN-SUFFIX,meitustat.com
+
+# https://www.meitu.com/zh/business
+DOMAIN-SUFFIX,designkit.cn
+DOMAIN-SUFFIX,kaipai.com
+DOMAIN-SUFFIX,meipai.com
+DOMAIN-SUFFIX,meituxiuxiu.com
+DOMAIN-SUFFIX,meiyan.com
+DOMAIN-SUFFIX,miraclevision.com
+DOMAIN-SUFFIX,roboneo.com
+DOMAIN-SUFFIX,whee.com
+DOMAIN-SUFFIX,wink.cn
+DOMAIN-SUFFIX,zcool.com.cn
 #end include:meitu
 #include:moji
 DOMAIN-SUFFIX,moji.com
@@ -4158,6 +4208,8 @@ DOMAIN-SUFFIX,miaotixing.com
 DOMAIN-SUFFIX,moseeker.com
 ## 小能智慧云客服
 DOMAIN-SUFFIX,ntalker.com
+## 排队网
+DOMAIN-SUFFIX,paidui.com
 ## 心知天气
 DOMAIN-SUFFIX,sencdn.com
 DOMAIN-SUFFIX,seniverse.com
@@ -5186,7 +5238,6 @@ DOMAIN-SUFFIX,bojianger.com
 DOMAIN-SUFFIX,bokecc.com
 DOMAIN-SUFFIX,boosj.com
 DOMAIN-SUFFIX,btgtravel.com
-DOMAIN-SUFFIX,bthhotels.com
 DOMAIN-SUFFIX,btime.com
 DOMAIN-SUFFIX,cabbagebox.com
 DOMAIN-SUFFIX,caijingwu.com
@@ -5475,7 +5526,6 @@ DOMAIN-SUFFIX,jianbihua.com
 DOMAIN-SUFFIX,jiangningwater.com    #苏ICP备11072203号-1
 DOMAIN-SUFFIX,jianzhi8.com
 DOMAIN-SUFFIX,jiaodong.net
-DOMAIN-SUFFIX,jiaoyimao.com
 DOMAIN-SUFFIX,jiasuhui.com
 DOMAIN-SUFFIX,jiathis.com
 DOMAIN-SUFFIX,jiayuan.com
@@ -5778,14 +5828,11 @@ DOMAIN-SUFFIX,tongkask.com    #苏ICP备2021040813号-1
 DOMAIN-SUFFIX,topthink.com
 DOMAIN-SUFFIX,touqikan.com
 DOMAIN-SUFFIX,touzid.com
-DOMAIN-SUFFIX,travelsky.com
 DOMAIN-SUFFIX,trjcn.com
 DOMAIN-SUFFIX,trunktech.com
 DOMAIN-SUFFIX,trustexporter.com
 DOMAIN-SUFFIX,trustutn.org
 DOMAIN-SUFFIX,ttshitu.com    #苏ICP备2024114441号-1
-DOMAIN-SUFFIX,tudou.com
-DOMAIN-SUFFIX,tudouui.com
 DOMAIN-SUFFIX,tuicool.com
 DOMAIN-SUFFIX,tuiwen.net
 DOMAIN-SUFFIX,tujia.com

@@ -1098,6 +1098,7 @@ DOMAIN-SUFFIX,b2c-digest.ru
 DOMAIN-SUFFIX,t2.ru
 DOMAIN-SUFFIX,tele2.ru
 #end include:t2-ru
+DOMAIN-SUFFIX,adygtelecom.com    #Adygea Telephone Company, regional operator
 DOMAIN-SUFFIX,beeline.ru
 DOMAIN-SUFFIX,dom.ru
 
