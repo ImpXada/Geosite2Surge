@@ -1,45 +1,3 @@
-# This file contains Russian media *based in Russia*, i.e. not prosecuted by the state
-#include:rossiyasegodnya
-# Rossiya Segodnya (lit. 'Russia Today') media group (Federal State Unitary Enterprise MIA 'Russia Today')
-
-DOMAIN-SUFFIX,jinrieluosi.cn
-DOMAIN-SUFFIX,pressria.ru
-DOMAIN-SUFFIX,rossiyasegodnya.com
-DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai    #россиясегодня.рф
-
-# Media brands
-
-## Arctic.ru
-DOMAIN-SUFFIX,arctic.ru
-
-## Baltnews
-DOMAIN-SUFFIX,baltnews.com
-DOMAIN-SUFFIX,baltnews.lt
-
-## InoSMI
-DOMAIN-SUFFIX,inosmi.ru
-
-## Prime
-DOMAIN-SUFFIX,1prime.ru
-
-## RIA Novosti
-DOMAIN-SUFFIX,ria.ru
-
-## Sputnik
-DOMAIN-SUFFIX,radiosputnik.ria.ru
-DOMAIN-SUFFIX,radiosputnik.ru
-DOMAIN-SUFFIX,sputnikglobe.com
-DOMAIN-SUFFIX,sputnikimages.com
-DOMAIN-SUFFIX,sputnikmediabank.com
-DOMAIN-SUFFIX,sputniknews.com
-
-## TOK
-DOMAIN-SUFFIX,tok.media
-
-## Ukraina.ru
-DOMAIN-SUFFIX,ukraina.ru
-#end include:rossiyasegodnya
-#include:rt
 DOMAIN-SUFFIX,asiangooglenetwork.com    #Redirect
 DOMAIN-SUFFIX,rt.com
 DOMAIN-SUFFIX,rtnewsru.com
@@ -184,12 +142,3 @@ DOMAIN-SUFFIX,rt-school.online
 DOMAIN-SUFFIX,ruptly.agency
 DOMAIN-SUFFIX,ruptly.tv
 DOMAIN-SUFFIX,ruptly.video
-#end include:rt
-
-# EurAsia Daily (EADaily, EAD), allegedly a state-controlled news outlet
-DOMAIN-SUFFIX,eadaily.com
-DOMAIN-SUFFIX,eadaily.info
-DOMAIN-SUFFIX,eadaily.net
-DOMAIN-SUFFIX,eadaily.org
-DOMAIN-SUFFIX,eadaily.su
-DOMAIN-SUFFIX,eurasiadaily.su

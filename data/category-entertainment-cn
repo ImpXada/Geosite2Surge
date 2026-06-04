@@ -757,7 +757,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zimgs.cn
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com
@@ -936,6 +935,8 @@ DOMAIN-SUFFIX,shuhai.com
 DOMAIN-SUFFIX,tadu.com
 # 江山文学
 DOMAIN-SUFFIX,vsread.com
+# 树梦
+DOMAIN-SUFFIX,xinlishumeng.com
 # 祥云游社
 DOMAIN-SUFFIX,xyys.com
 # 百合会

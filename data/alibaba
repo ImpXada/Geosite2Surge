@@ -254,7 +254,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,zimgs.cn
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com
@@ -378,6 +377,7 @@ DOMAIN-SUFFIX,yowhale.com
 DOMAIN-SUFFIX,yunos-inc.com
 DOMAIN-SUFFIX,yunos.com
 DOMAIN-SUFFIX,yushanfang.com
+DOMAIN-SUFFIX,zimgs.cn
 DOMAIN-SUFFIX,zuodao.com
 
 # AliExpress

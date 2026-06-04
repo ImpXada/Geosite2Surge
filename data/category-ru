@@ -180,13 +180,6 @@ DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
 # Regional health services
 DOMAIN-SUFFIX,zdrav10.ru    #Republic of Karelia
 #end include:category-gov-ru
-#include:category-media-ru
-# Media sites in Russia
-DOMAIN-SUFFIX,russiatoday.com
-DOMAIN-SUFFIX,rteam.tech    #IT company owned by RT's parent org (ANO TV-Novosti)
-DOMAIN-SUFFIX,shop-rt.com    #RT merchandise store
-DOMAIN-SUFFIX,swentr.site    #RT mirror domain
-#end include:category-media-ru
 #include:category-medicine-ru
 # BudZdorov
 DOMAIN-SUFFIX,klinikabudzdorov.ru
@@ -1111,6 +1104,7 @@ DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
 DOMAIN-SUFFIX,litres.ru    #E-book and audiobook service
 DOMAIN-SUFFIX,meteoinfo.ru    #Hydrometeorological Center of Russia
 DOMAIN-SUFFIX,ngenix.net    #NGENIX is a Russian provider of acceleration and security services for public web resources
+DOMAIN-SUFFIX,nplus1.ru    #N+1, popular science magazine
 DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
 DOMAIN-SUFFIX,pochta.ru    #Russian post
 DOMAIN-SUFFIX,ponyexpress.ru    #Courier delivery service

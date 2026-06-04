@@ -1056,6 +1056,192 @@ DOMAIN-SUFFIX,svoboda.org
 DOMAIN-SUFFIX,svobodnaevropa.bg
 DOMAIN-SUFFIX,szabadeuropa.hu
 #end include:rferl
+#include:rossiyasegodnya
+# Rossiya Segodnya (lit. 'Russia Today') media group (Federal State Unitary Enterprise MIA 'Russia Today')
+
+DOMAIN-SUFFIX,jinrieluosi.cn
+DOMAIN-SUFFIX,pressria.ru
+DOMAIN-SUFFIX,rossiyasegodnya.com
+DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai    #россиясегодня.рф
+
+# Media brands
+
+## Arctic.ru
+DOMAIN-SUFFIX,arctic.ru
+
+## Baltnews
+DOMAIN-SUFFIX,baltnews.com
+DOMAIN-SUFFIX,baltnews.lt
+
+## InoSMI
+DOMAIN-SUFFIX,inosmi.ru
+
+## Prime
+DOMAIN-SUFFIX,1prime.ru
+
+## RIA Novosti
+DOMAIN-SUFFIX,ria.ru
+
+## Sputnik
+DOMAIN-SUFFIX,radiosputnik.ria.ru
+DOMAIN-SUFFIX,radiosputnik.ru
+DOMAIN-SUFFIX,sputnikglobe.com
+DOMAIN-SUFFIX,sputnikimages.com
+DOMAIN-SUFFIX,sputnikmediabank.com
+DOMAIN-SUFFIX,sputniknews.com
+
+## TOK
+DOMAIN-SUFFIX,tok.media
+
+## Ukraina.ru
+DOMAIN-SUFFIX,ukraina.ru
+#end include:rossiyasegodnya
+#include:rt
+DOMAIN-SUFFIX,asiangooglenetwork.com    #Redirect
+DOMAIN-SUFFIX,rt.com
+DOMAIN-SUFFIX,rtnewsru.com
+DOMAIN-SUFFIX,rtrunews.com
+DOMAIN-SUFFIX,rtxv.ru
+DOMAIN-SUFFIX,runewsrt.com
+DOMAIN-SUFFIX,rurtnews.com
+DOMAIN-SUFFIX,russiatoday.com
+DOMAIN-SUFFIX,russiatoday.net
+DOMAIN-SUFFIX,russiatoday.tv
+DOMAIN-SUFFIX,swentr.site    #Mirror
+DOMAIN-SUFFIX,watchingthehawks.com
+
+# Language-specific websites (non-English)
+
+## Arabic
+DOMAIN-SUFFIX,arabicrt.ru
+DOMAIN-SUFFIX,rtarabic.com
+DOMAIN-SUFFIX,rtarabic.net
+DOMAIN-SUFFIX,rtarabic.org
+DOMAIN-SUFFIX,rtarabic.ru
+
+## French
+DOMAIN-SUFFIX,rtenafrique.tv
+DOMAIN-SUFFIX,rtenfrancais.tv
+DOMAIN-SUFFIX,rtenfrance.tv
+DOMAIN-SUFFIX,rtfrance.tv
+DOMAIN-SUFFIX,russieactuelle.fr
+
+## German
+DOMAIN-SUFFIX,de-rt.com
+DOMAIN-SUFFIX,de-rt.org
+DOMAIN-SUFFIX,de-rtnews.com
+DOMAIN-SUFFIX,de-rtnews.net
+DOMAIN-SUFFIX,dert.online
+DOMAIN-SUFFIX,dert.site
+DOMAIN-SUFFIX,dert.tech
+DOMAIN-SUFFIX,freeassange.tech
+DOMAIN-SUFFIX,freede.tech
+DOMAIN-SUFFIX,freedert.online
+DOMAIN-SUFFIX,rtde.agency
+DOMAIN-SUFFIX,rtde.expert
+DOMAIN-SUFFIX,rtde.express
+DOMAIN-SUFFIX,rtde.info
+DOMAIN-SUFFIX,rtde.life
+DOMAIN-SUFFIX,rtde.live
+DOMAIN-SUFFIX,rtde.me
+DOMAIN-SUFFIX,rtde.media
+DOMAIN-SUFFIX,rtde.online
+DOMAIN-SUFFIX,rtde.org
+DOMAIN-SUFFIX,rtde.press
+DOMAIN-SUFFIX,rtde.site
+DOMAIN-SUFFIX,rtde.team
+DOMAIN-SUFFIX,rtde.tech
+DOMAIN-SUFFIX,rtde.website
+DOMAIN-SUFFIX,rtde.world
+DOMAIN-SUFFIX,rtde.xyz
+DOMAIN-SUFFIX,rtdefree.info
+DOMAIN-SUFFIX,rtdefree.me
+DOMAIN-SUFFIX,rtdefree.online
+DOMAIN-SUFFIX,rtdefree.tech
+DOMAIN-SUFFIX,rtnewsde.com
+DOMAIN-SUFFIX,rtnewsde.online
+DOMAIN-SUFFIX,rtnewsde.pro
+DOMAIN-SUFFIX,rtnewsde.site
+DOMAIN-SUFFIX,rtnewsde.tech
+
+## Portugeese
+DOMAIN-SUFFIX,gazetarussa.com.br
+DOMAIN-SUFFIX,rtbrasil.com
+DOMAIN-SUFFIX,rtbrasil.info
+
+## Russian
+DOMAIN-SUFFIX,russiatoday.ru
+
+## Serbian
+DOMAIN-SUFFIX,rt.rs
+
+## Spanish
+DOMAIN-SUFFIX,actualidad-rt.com
+DOMAIN-SUFFIX,es-rt.com
+DOMAIN-SUFFIX,esrt.online
+DOMAIN-SUFFIX,esrt.press
+DOMAIN-SUFFIX,esrt.space
+DOMAIN-SUFFIX,esrt.tech
+DOMAIN-SUFFIX,noticias-rt.com
+DOMAIN-SUFFIX,notimundo.press
+DOMAIN-SUFFIX,rtespanol.com
+DOMAIN-SUFFIX,sn-esp.site
+
+# Infrastructure
+DOMAIN-SUFFIX,b37mrtl.ru
+DOMAIN-SUFFIX,esrt.site
+DOMAIN-SUFFIX,esrt.website
+DOMAIN-SUFFIX,green-box-tv.com
+DOMAIN-SUFFIX,rttv.com
+DOMAIN-SUFFIX,rttv.ru
+DOMAIN-SUFFIX,rteam.dev
+DOMAIN-SUFFIX,rteam.tech
+
+# KTECH
+DOMAIN-SUFFIX,ktech.team
+
+# Merchendise
+DOMAIN-SUFFIX,shop-rt.com
+
+# Other projects
+DOMAIN-SUFFIX,1917live.red
+DOMAIN-SUFFIX,ahilesva.info
+DOMAIN-SUFFIX,book-catalog.ru
+DOMAIN-SUFFIX,book1917.live
+DOMAIN-SUFFIX,drobbox.pro
+DOMAIN-SUFFIX,kanzlerdaddy.ru
+DOMAIN-SUFFIX,khangar.net
+DOMAIN-SUFFIX,pobeda.page
+DOMAIN-SUFFIX,premiumlive.site
+DOMAIN-SUFFIX,romanovs100.com
+DOMAIN-SUFFIX,worldcuprussia.com
+
+## Gateway to Russia project
+DOMAIN-SUFFIX,baranky.com
+DOMAIN-SUFFIX,gatewaytorussia.ru
+DOMAIN-SUFFIX,gw2ru.com
+DOMAIN-SUFFIX,oknovrossiu.ru
+DOMAIN-SUFFIX,rbth.com
+DOMAIN-SUFFIX,russiabeyond.com
+DOMAIN-SUFFIX,russiaislove.com
+DOMAIN-SUFFIX,slavicstar.com
+
+## rt.doc
+DOMAIN-SUFFIX,artel.watch
+DOMAIN-SUFFIX,arteldoc.com
+DOMAIN-SUFFIX,arteldoc.tv
+DOMAIN-SUFFIX,rtdoc.tv
+DOMAIN-SUFFIX,rtdocumentary.online
+DOMAIN-SUFFIX,rtfestival.ru
+
+## RT School
+DOMAIN-SUFFIX,rt-school.online
+
+## Ruptly
+DOMAIN-SUFFIX,ruptly.agency
+DOMAIN-SUFFIX,ruptly.tv
+DOMAIN-SUFFIX,ruptly.video
+#end include:rt
 #include:rthk
 DOMAIN-SUFFIX,etvonline.hk
 DOMAIN-SUFFIX,rthk.hk
@@ -1455,7 +1641,6 @@ DOMAIN-SUFFIX,realvision.com
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,rfi.fr
 DOMAIN-SUFFIX,rsf.org
-DOMAIN-SUFFIX,rt.com
 DOMAIN-SUFFIX,rtings.com
 DOMAIN-SUFFIX,shuziyimin.org
 DOMAIN-SUFFIX,singpao.com.hk

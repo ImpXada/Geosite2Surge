@@ -3,18 +3,6 @@ DOMAIN-SUFFIX,517lppz.com
 DOMAIN-SUFFIX,lppz.com
 DOMAIN-SUFFIX,lppzimg.com
 #end include:bestore
-#include:ddmaicai
-# 叮咚买菜 上海壹佰米网络科技有限公司
-DOMAIN-SUFFIX,100.me
-DOMAIN-SUFFIX,ddcorp.net
-DOMAIN-SUFFIX,ddfresh.net
-DOMAIN-SUFFIX,ddimg.mobi
-DOMAIN-SUFFIX,ddmaicai.net
-DOMAIN-SUFFIX,ddmc.mobi
-DOMAIN-SUFFIX,dduser.mobi
-DOMAIN-SUFFIX,ddxq.mobi
-DOMAIN-SUFFIX,imaicai.mobi
-#end include:ddmaicai
 #include:lkcoffee
 DOMAIN-SUFFIX,lkcoffee.com
 DOMAIN-SUFFIX,luckincoffeecdn.com
@@ -23,7 +11,13 @@ DOMAIN-SUFFIX,yyds.co
 
 # 麦当劳中国
 
+# 星巴克中国
+
+# 三只松鼠
 DOMAIN-SUFFIX,3songshu.com
+
+# 百草味
+DOMAIN-SUFFIX,vipbcw.com
 
 # 海底捞
 DOMAIN-SUFFIX,haidilao.com
@@ -80,6 +74,39 @@ DOMAIN-SUFFIX,dicos.com.cn
 
 # 陈克明食品
 DOMAIN-SUFFIX,kemen.cn
+
+# 中粮集团
+DOMAIN-SUFFIX,chinatea.com.cn
+DOMAIN-SUFFIX,cofco.com
+DOMAIN-SUFFIX,greatwallwine.com.cn
+
+# 北大荒
+DOMAIN-SUFFIX,chinabdh.com
+DOMAIN-SUFFIX,hacl.cn
+
+# 光明乳业
+DOMAIN-SUFFIX,4008117117.com
+DOMAIN-SUFFIX,brightdairy.com
+DOMAIN-SUFFIX,brighticecream.com
+DOMAIN-SUFFIX,chinacow.com
+
+# 伊利
+DOMAIN-SUFFIX,yili.com
+
+# 蒙牛
+DOMAIN-SUFFIX,mengniu.com.cn
+
+# 君乐宝
+DOMAIN-SUFFIX,junlebaoruye.com
+
+# 益海嘉里金龙鱼
+DOMAIN-SUFFIX,yihaikerry.net.cn
+
+# 鲁花
+DOMAIN-SUFFIX,luhua.cn
+
+# 双汇集团
+DOMAIN-SUFFIX,shuanghui.net
 
 # Tracking
 DOMAIN-SUFFIX,logger.qmai.cn

@@ -648,7 +648,6 @@ DOMAIN-SUFFIX,trackingprd.hwwt8.com
 DOMAIN-SUFFIX,trackserver.shuxinyc.com
 DOMAIN-SUFFIX,advertising.adobe.com
 DOMAIN-SUFFIX,tubemogul.com
-DOMAIN-SUFFIX,badjs.weixinbridge.com
 DOMAIN-SUFFIX,a.alimama.cn
 DOMAIN-SUFFIX,adash-c.m.taobao.com
 DOMAIN-SUFFIX,adash-c.ut.taobao.com
@@ -733,6 +732,9 @@ DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
 DOMAIN,pixel.yandex.com
 DOMAIN,report.ap.yandex-net.ru
+DOMAIN-SUFFIX,badjs.weixinbridge.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,a.market.xiaomi.com
 DOMAIN-SUFFIX,ad.intl.xiaomi.com
 DOMAIN-SUFFIX,ad.mi.com
@@ -754,8 +756,6 @@ DOMAIN-SUFFIX,tjqonline.cn
 DOMAIN-SUFFIX,tracker.ai.xiaomi.com
 DOMAIN-SUFFIX,tracker.xiaomixiaoai.com
 DOMAIN-SUFFIX,tracking.miui.com
-DOMAIN-SUFFIX,amazon-adsystem.com
-DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
 DOMAIN-SUFFIX,adv-sv-show.focus.cn

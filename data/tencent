@@ -1,3 +1,31 @@
+#include:kugou
+DOMAIN-SUFFIX,fanxingliveshow.com
+DOMAIN-SUFFIX,kgimg.com
+DOMAIN-SUFFIX,kglink.cn
+DOMAIN-SUFFIX,ktv.com
+DOMAIN-SUFFIX,kugoo.com
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kugou.net
+DOMAIN-SUFFIX,kugouaudio.com
+DOMAIN-SUFFIX,kugouipv6.com
+DOMAIN-SUFFIX,kugoukid.com
+DOMAIN-SUFFIX,kugouliveshow.com
+DOMAIN-SUFFIX,kugouringtone.com
+DOMAIN-SUFFIX,kugousenior.com
+DOMAIN-SUFFIX,kugoustore.com
+DOMAIN-SUFFIX,kugouvoice.com
+DOMAIN-SUFFIX,kugouyouth.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
+#end include:kugou
+#include:kuwo
+DOMAIN-SUFFIX,koowo.cn
+DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,kuwo.cn
+#end include:kuwo
 #include:tencent-games
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
@@ -107,6 +135,15 @@ DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,17roco.com
 DOMAIN-SUFFIX,roco.qq.com
 #end include:tencent-games
+#include:ximalaya
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
+#end include:ximalaya
 
 # qq.中国
 DOMAIN-SUFFIX,qq.xn--fiqs8s

@@ -1,3 +1,7 @@
+# https://en.wikipedia.org/wiki/Alphabet_Inc.
+# https://en.wikipedia.org/wiki/Template:Alphabet_Inc.
+
+#include:google
 # List of all domains being operated by Google Inc.
 #include:android
 # All .android domains
@@ -1241,3 +1245,15 @@ DOMAIN,www-googletagmanager.l.google.com
 DOMAIN,www.destinationurl.com
 DOMAIN,www.gstatic.com
 DOMAIN,www.pxcc.com
+#end include:google
+
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,calicolabs.com
+DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,gfiber.com
+DOMAIN-SUFFIX,gv.com
+DOMAIN-SUFFIX,isomorphiclabs.com
+DOMAIN-SUFFIX,verily.com
+DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,webpass.net    #https://en.wikipedia.org/wiki/Google_Fiber#External_links
+DOMAIN-SUFFIX,wing.com

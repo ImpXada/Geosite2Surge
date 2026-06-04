@@ -1,0 +1,38 @@
+# Rossiya Segodnya (lit. 'Russia Today') media group (Federal State Unitary Enterprise MIA 'Russia Today')
+
+DOMAIN-SUFFIX,jinrieluosi.cn
+DOMAIN-SUFFIX,pressria.ru
+DOMAIN-SUFFIX,rossiyasegodnya.com
+DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai    #россиясегодня.рф
+
+# Media brands
+
+## Arctic.ru
+DOMAIN-SUFFIX,arctic.ru
+
+## Baltnews
+DOMAIN-SUFFIX,baltnews.com
+DOMAIN-SUFFIX,baltnews.lt
+
+## InoSMI
+DOMAIN-SUFFIX,inosmi.ru
+
+## Prime
+DOMAIN-SUFFIX,1prime.ru
+
+## RIA Novosti
+DOMAIN-SUFFIX,ria.ru
+
+## Sputnik
+DOMAIN-SUFFIX,radiosputnik.ria.ru
+DOMAIN-SUFFIX,radiosputnik.ru
+DOMAIN-SUFFIX,sputnikglobe.com
+DOMAIN-SUFFIX,sputnikimages.com
+DOMAIN-SUFFIX,sputnikmediabank.com
+DOMAIN-SUFFIX,sputniknews.com
+
+## TOK
+DOMAIN-SUFFIX,tok.media
+
+## Ukraina.ru
+DOMAIN-SUFFIX,ukraina.ru

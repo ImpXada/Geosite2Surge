@@ -5,7 +5,10 @@ DOMAIN-SUFFIX,censorship.no
 DOMAIN-SUFFIX,epicbrowser.com
 #end include:epicbrowser
 #include:firefox
+DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
 
 DOMAIN,mozilla-ohttp.fastly-edge.com
