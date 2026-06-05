@@ -2422,6 +2422,8 @@ DOMAIN-SUFFIX,xingyeai.com
 DOMAIN-SUFFIX,codebuddy.cn
 # 腾讯混元
 DOMAIN-SUFFIX,hunyuan.tencent.com
+# 元宝
+DOMAIN-SUFFIX,yuanbao.tencent.com
 # 腾讯元器
 DOMAIN-SUFFIX,yuanqi.tencent.com
 
@@ -4999,3 +5001,6 @@ DOMAIN-SUFFIX,wanji.net.cn
 
 # 广州市雅望互联网服务有限公司
 DOMAIN-SUFFIX,gzyowin.com
+
+# 杭州烨彬科技有限公司 浙ICP备2024084590号
+DOMAIN-SUFFIX,yebinnet.com

@@ -254,6 +254,9 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuhonor.com
+DOMAIN-SUFFIX,youkuplay.com
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com

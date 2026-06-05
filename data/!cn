@@ -116,6 +116,8 @@ DOMAIN-SUFFIX,ru-northwest-201.myhuaweicloud.com    #俄罗斯-莫斯科二零�
 DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com    #拉美-圣保罗一
 DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com    #土耳其-伊斯坦布尔
 DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com    #北美-亚特兰大-废弃
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuplay.com
 DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,chinatelecomglobal.com
 DOMAIN-SUFFIX,chinatelecomhk.com

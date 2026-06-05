@@ -369,6 +369,13 @@ DOMAIN-SUFFIX,ssacdn.com
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
+DOMAIN-SUFFIX,ad.tencentmusic.com
+DOMAIN-SUFFIX,adstats.tencentmusic.com
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
+DOMAIN-SUFFIX,stat.y.qq.com
+DOMAIN-SUFFIX,tmead.y.qq.com
+DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,ads-api.duolingo.com
 DOMAIN-SUFFIX,analytics.vpc.duolingo.com
 DOMAIN-SUFFIX,metrics.duolingo.com
@@ -589,7 +596,6 @@ DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,ad.browser.qq.com
 DOMAIN-SUFFIX,ad.qq.com
 DOMAIN-SUFFIX,ad.qun.qq.com
-DOMAIN-SUFFIX,ad.tencentmusic.com
 DOMAIN-SUFFIX,ad.weixin.qq.com
 DOMAIN-SUFFIX,adfilter.imtt.qq.com
 DOMAIN-SUFFIX,adnet.qq.com
@@ -602,7 +608,6 @@ DOMAIN-SUFFIX,adslvfile.qq.com
 DOMAIN-SUFFIX,adslvseed.qq.com
 DOMAIN-SUFFIX,adsmind.apdcdn.tc.qq.com
 DOMAIN-SUFFIX,adsqqclick.qq.com
-DOMAIN-SUFFIX,adstats.tencentmusic.com
 DOMAIN-SUFFIX,adstestview.qq.com
 DOMAIN-SUFFIX,adsview.qq.com
 DOMAIN-SUFFIX,adsview2.qq.com
@@ -620,7 +625,6 @@ DOMAIN-SUFFIX,htrace.wetvinfo.com
 DOMAIN-SUFFIX,isdspeed.qq.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,mdt.qq.com
-DOMAIN-SUFFIX,monitor.music.qq.com
 DOMAIN-SUFFIX,monitor.uu.qq.com
 DOMAIN-SUFFIX,mpush.qq.com
 DOMAIN-SUFFIX,mtrace.qq.com
@@ -630,14 +634,10 @@ DOMAIN-SUFFIX,pmir.3g.qq.com
 DOMAIN-SUFFIX,push.qq.com
 DOMAIN-SUFFIX,qqdata.ab.qq.com
 DOMAIN-SUFFIX,report.qqweb.qq.com
-DOMAIN-SUFFIX,report.tencentmusic.com
 DOMAIN-SUFFIX,rmonitor.qq.com
 DOMAIN-SUFFIX,sngmta.qq.com
-DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tajs.qq.com
 DOMAIN-SUFFIX,tcss.qq.com
-DOMAIN-SUFFIX,tmead.y.qq.com
-DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 DOMAIN-SUFFIX,tpstelemetry.tencent.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,ugdtimg.com

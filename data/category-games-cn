@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,yingxiong.com
 #end include:herogame
 #include:kurogames
 DOMAIN-SUFFIX,kurogames.com
+DOMAIN-SUFFIX,kurogames.net
 
 # Wuthering Waves
 DOMAIN-SUFFIX,aki-game.com
