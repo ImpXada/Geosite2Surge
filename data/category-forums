@@ -95,6 +95,8 @@ DOMAIN-SUFFIX,poecdn.net
 DOMAIN-SUFFIX,qr.ae
 DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,quoracdn.net
+
+DOMAIN,www.quora.com.cdn.cloudflare.net
 #end include:quora
 #include:reddit
 DOMAIN-SUFFIX,redd.it

@@ -161,6 +161,7 @@ DOMAIN-SUFFIX,openxadexchange.com
 DOMAIN-SUFFIX,openxcdn.net
 DOMAIN-SUFFIX,openxenterprise.com
 DOMAIN-SUFFIX,openxmarket.asia
+DOMAIN,stats.avito.ru
 DOMAIN-SUFFIX,samsungads.com
 DOMAIN,ad-channel.diwodiwo.xyz
 DOMAIN,ad-display.diwodiwo.xyz
@@ -727,6 +728,7 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,informer.yandex.ru
+DOMAIN,log.strm.yandex.ru
 DOMAIN,mc.yandex.com
 DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com

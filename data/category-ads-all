@@ -98,6 +98,9 @@ DOMAIN-SUFFIX,pbmp.ali213.net
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 
+# AppsFlyer
+DOMAIN-SUFFIX,appsflyersdk.com
+
 # Caixin
 # regexp:^pinggai\d\.caixin\.com$
 DOMAIN,pinggai0.caixin.com
@@ -152,6 +155,9 @@ DOMAIN-SUFFIX,ad.unimhk.com
 
 # UCloud
 DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
+
+# Vungle
+DOMAIN,logs.ads.vungle.com
 
 # 数字精准广告
 DOMAIN-SUFFIX,telecome.cn
