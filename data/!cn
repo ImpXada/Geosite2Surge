@@ -260,23 +260,9 @@ DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN,wetv.qq.com
 DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
-DOMAIN-SUFFIX,alihealth.hk
-DOMAIN-SUFFIX,ae-rus.net
-DOMAIN-SUFFIX,aedns.ru
-DOMAIN-SUFFIX,aeplatform.ru
-DOMAIN-SUFFIX,aestatic.net
-DOMAIN-SUFFIX,aliexpress.ru
-DOMAIN-SUFFIX,alipay.hk
-DOMAIN-SUFFIX,alipaymo.com
-DOMAIN-SUFFIX,tmall.ru
-DOMAIN-SUFFIX,fliggy.hk
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,dreamcast.hk
-DOMAIN-SUFFIX,c.mi.com
-DOMAIN-SUFFIX,global.market.xiaomi.com
-DOMAIN-SUFFIX,dbankcloud.ru
-DOMAIN-SUFFIX,domain:dt.dbankcloud.ru
 DOMAIN-SUFFIX,intltencentcos.com
 DOMAIN-SUFFIX,ap-hongkong.myqcloud.com    #中国香港
 DOMAIN-SUFFIX,ap-singapore.myqcloud.com    #新加坡
@@ -340,3 +326,17 @@ DOMAIN-SUFFIX,ca.file.myqcloud.com    #多伦多
 DOMAIN-SUFFIX,ger.file.myqcloud.com    #法兰克福
 DOMAIN-SUFFIX,rumt-sg.com    #新加坡
 DOMAIN-SUFFIX,rumt-us.com    #硅谷
+DOMAIN-SUFFIX,c.mi.com
+DOMAIN-SUFFIX,global.market.xiaomi.com
+DOMAIN-SUFFIX,alihealth.hk
+DOMAIN-SUFFIX,ae-rus.net
+DOMAIN-SUFFIX,aedns.ru
+DOMAIN-SUFFIX,aeplatform.ru
+DOMAIN-SUFFIX,aestatic.net
+DOMAIN-SUFFIX,aliexpress.ru
+DOMAIN-SUFFIX,alipay.hk
+DOMAIN-SUFFIX,alipaymo.com
+DOMAIN-SUFFIX,tmall.ru
+DOMAIN-SUFFIX,fliggy.hk
+DOMAIN-SUFFIX,dbankcloud.ru
+DOMAIN-SUFFIX,domain:dt.dbankcloud.ru

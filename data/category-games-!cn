@@ -432,6 +432,11 @@ DOMAIN-SUFFIX,zenlesszonezero.com
 # ads/tracking
 DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
 #end include:hoyoverse
+#include:humblebundle
+DOMAIN-SUFFIX,humblebundle.com
+
+DOMAIN,hb.imgix.net
+#end include:humblebundle
 # Dead include:illusion
 #include:itchio
 DOMAIN-SUFFIX,itch.io
@@ -928,6 +933,32 @@ DOMAIN-SUFFIX,supercellid.com
 DOMAIN-SUFFIX,supercellstore.com
 DOMAIN-SUFFIX,supr.cl
 #end include:supercell
+#include:take-two
+#include:2kgames
+DOMAIN-SUFFIX,2k.com
+DOMAIN-SUFFIX,2kcoretech.online
+DOMAIN-SUFFIX,2kct.onl
+DOMAIN-SUFFIX,2kgames.com
+DOMAIN-SUFFIX,2ksports.com
+DOMAIN-SUFFIX,2kweb.online
+#end include:2kgames
+#include:rockstar
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rockstarnorth.com
+DOMAIN-SUFFIX,rsg.sc
+
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,media-rockstargames-com.akamaized.net
+DOMAIN,videos-rockstargames-com.akamaized.net
+#end include:rockstar
+#include:zynga
+DOMAIN-SUFFIX,zynga.com
+DOMAIN-SUFFIX,zyngaplayersupport.com
+DOMAIN-SUFFIX,zyngapoker.com
+#end include:zynga
+
+DOMAIN-SUFFIX,take2games.com
+#end include:take-two
 #include:ubisoft
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com
@@ -1016,7 +1047,6 @@ DOMAIN-SUFFIX,fabricmc.net
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
 DOMAIN-SUFFIX,game-repack.site
-DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,joinsquad.com
 DOMAIN-SUFFIX,loverslab.com
 DOMAIN-SUFFIX,minecraft.wiki

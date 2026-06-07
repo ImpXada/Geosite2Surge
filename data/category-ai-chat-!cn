@@ -147,6 +147,7 @@ DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaistatsig.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,sora.com
@@ -240,6 +241,8 @@ DOMAIN-SUFFIX,openclaw.ai
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,openspec.dev
 DOMAIN-SUFFIX,plannotator.ai
+DOMAIN-SUFFIX,qoder.com
+DOMAIN-SUFFIX,sider.ai
 DOMAIN-SUFFIX,spicywriter.com
 DOMAIN-SUFFIX,tapnow.ai
 #end include:category-ai-!cn

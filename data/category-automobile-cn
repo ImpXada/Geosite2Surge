@@ -31,9 +31,14 @@ DOMAIN-SUFFIX,byd.com    #比亚迪
 DOMAIN-SUFFIX,geely.com    #吉利
 DOMAIN-SUFFIX,gwm.com.cn    #长城
 DOMAIN-SUFFIX,lixiang.com    #理想
-DOMAIN-SUFFIX,nio.cn    #蔚来
 DOMAIN-SUFFIX,xiaopeng.com    #小鹏
-DOMAIN-SUFFIX,zeekrlife.com    #极氪
+## 蔚来
+DOMAIN-SUFFIX,nio.cn
+DOMAIN-SUFFIX,nio.com
+DOMAIN-SUFFIX,niohome.com
+## 极氪
+DOMAIN-SUFFIX,zeekrgroup.com
+DOMAIN-SUFFIX,zeekrlife.com
 
 ## 瓜子二手车
 DOMAIN-SUFFIX,gzurl.cn

@@ -1,40 +1,4 @@
 # Entertainment(games) oriented media should be added in category-entertainment[-cn]
-#include:category-tech-media
-#include:9to5
-DOMAIN-SUFFIX,9to5google.com
-DOMAIN-SUFFIX,9to5mac.com
-DOMAIN-SUFFIX,9to5terminal.com
-DOMAIN-SUFFIX,9to5toys.com
-DOMAIN-SUFFIX,dronedj.com
-DOMAIN-SUFFIX,electrek.co
-DOMAIN-SUFFIX,spaceexplored.com
-#end include:9to5
-#include:thetype
-DOMAIN-SUFFIX,thetype.cloud
-DOMAIN-SUFFIX,thetype.com
-DOMAIN-SUFFIX,typeisbeautiful.com
-#end include:thetype
-#include:ycombinator
-DOMAIN-SUFFIX,startupschool.org
-DOMAIN-SUFFIX,ycombinator.com
-#end include:ycombinator
-
-DOMAIN-SUFFIX,androidauthority.com
-DOMAIN-SUFFIX,androidpolice.com
-DOMAIN-SUFFIX,appleinsider.com
-DOMAIN-SUFFIX,digitaltrends.com
-DOMAIN-SUFFIX,engadget.com
-DOMAIN-SUFFIX,macrumors.com
-DOMAIN-SUFFIX,slashdot.org
-DOMAIN-SUFFIX,technews.tw
-DOMAIN-SUFFIX,techradar.com
-DOMAIN-SUFFIX,theverge.com
-DOMAIN-SUFFIX,tomsguide.com
-
-# zdnet
-DOMAIN-SUFFIX,zdnet.com
-DOMAIN-SUFFIX,zdnet.redvideo.io
-#end include:category-tech-media
 
 #include:6park
 DOMAIN-SUFFIX,6park.com

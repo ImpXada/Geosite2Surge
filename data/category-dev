@@ -568,45 +568,6 @@ DOMAIN-SUFFIX,termux.com
 DOMAIN-SUFFIX,termux.dev
 DOMAIN-SUFFIX,termux.org
 #end include:termux
-#include:thelinuxfoundation
-#include:kernel
-DOMAIN-SUFFIX,kernel.org
-#end include:kernel
-#include:linux
-DOMAIN-SUFFIX,linux.org
-#end include:linux
-#include:openjsfoundation
-#include:amp
-DOMAIN-SUFFIX,amp.dev
-DOMAIN-SUFFIX,ampproject.com
-DOMAIN-SUFFIX,ampproject.net
-DOMAIN-SUFFIX,ampproject.org
-
-DOMAIN,cdn.ampproject.org
-
-DOMAIN,amp.akamaized.net
-#end include:amp
-#include:electron
-DOMAIN-SUFFIX,electronjs.org
-#end include:electron
-#include:jquery
-DOMAIN-SUFFIX,jquery.com
-DOMAIN-SUFFIX,jquerymobile.com
-DOMAIN-SUFFIX,jqueryui.com
-#end include:jquery
-#include:mocha
-DOMAIN-SUFFIX,mochajs.org
-#end include:mocha
-#include:nodejs
-DOMAIN-SUFFIX,nodejs.org
-#end include:nodejs
-
-DOMAIN-SUFFIX,openjsf.org
-#end include:openjsfoundation
-
-DOMAIN-SUFFIX,lfai.foundation
-DOMAIN-SUFFIX,linuxfoundation.org
-#end include:thelinuxfoundation
 #include:tilda
 DOMAIN-SUFFIX,tilda.cc
 DOMAIN-SUFFIX,tilda.ru
@@ -634,6 +595,7 @@ DOMAIN-SUFFIX,artixlinux.org
 DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,badgen.net
 DOMAIN-SUFFIX,bitvise.com
+DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
 DOMAIN-SUFFIX,clojure.org
@@ -649,12 +611,14 @@ DOMAIN-SUFFIX,elixir-lang.org
 DOMAIN-SUFFIX,elrepo.org
 DOMAIN-SUFFIX,erlang.org
 DOMAIN-SUFFIX,ffmpeg.org
+DOMAIN-SUFFIX,filezilla-project.org
 DOMAIN-SUFFIX,freebsd.org
 DOMAIN-SUFFIX,gentoo.org
 DOMAIN-SUFFIX,getcomposer.org
 DOMAIN-SUFFIX,getpaint.net
 DOMAIN-SUFFIX,getzola.org
 DOMAIN-SUFFIX,git-scm.com
+DOMAIN-SUFFIX,gitgud.io
 DOMAIN-SUFFIX,gnome.org
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,godbolt.org
@@ -679,6 +643,7 @@ DOMAIN-SUFFIX,mingw.org
 DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,mysql.com
+DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,neovim.io
 DOMAIN-SUFFIX,netfilter.org
 DOMAIN-SUFFIX,newpipe.net
