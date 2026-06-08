@@ -4,9 +4,7 @@ DOMAIN,certs-lb.apple.com.akadns.net
 DOMAIN,certs.apple.com
 DOMAIN,crl-lb.apple.com.akadns.net
 DOMAIN,crl.apple.com
-DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
-DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,valid.apple.com
 DOMAIN,valid.origin-apple.com.akadns.net
@@ -1675,7 +1673,7 @@ DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: f6a2093b254a7d2baca959bd16581666ca394303
+# Revision: 888c12fd0708f2fafc562b0652429a25eef5b6ba
 # Duplicates removed
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
@@ -1694,6 +1692,7 @@ DOMAIN,cds.apple.com
 DOMAIN,cds.apple.com.akadns.net
 DOMAIN,cdsassets.apple.com
 DOMAIN,cl2-cn.apple.com
+DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,cl4-cn.apple.com
 DOMAIN,clientflow.apple.com
 DOMAIN,clientflow.apple.com.akadns.net
@@ -1711,6 +1710,7 @@ DOMAIN,experiments.apple.com
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,gs-loc.apple.com
 DOMAIN,gsp10-ssl-cn.ls.apple.com
+DOMAIN,gsp11-cn.ls.apple.com
 DOMAIN,gsp12-cn.ls.apple.com
 DOMAIN,gsp13-cn.ls.apple.com
 DOMAIN,gsp4-cn.ls.apple.com
@@ -1728,8 +1728,6 @@ DOMAIN,gspe79-cn-ssl.ls.apple.com
 DOMAIN,guzzoni-apple-com.v.aaplimg.com
 DOMAIN,guzzoni.apple.com
 DOMAIN,guzzoni.smoot.apple.com
-DOMAIN,icloud-cdn.icloud.com.akadns.net
-DOMAIN,icloud.cdn-apple.com
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,init-kt.apple.com
 DOMAIN,init-p01md-lb.push-apple.com.akadns.net
@@ -1756,12 +1754,10 @@ DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
 DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN,pancake.apple.com
-DOMAIN,pancake.cdn-apple.com.akadns.net
 DOMAIN,pba0.apple.com
 DOMAIN,probe.siri.apple.com
 DOMAIN,prod-support.apple-support.akadns.net
 DOMAIN,publicassets.cdn-apple.com
-DOMAIN,reserve-prime.apple.com
 DOMAIN,seed-sequoia.siri.apple.com
 DOMAIN,seed-swallow.siri.apple.com
 DOMAIN,seed.siri.apple.com

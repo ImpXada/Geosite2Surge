@@ -1,5 +1,7 @@
+# Connectivity Check, default is used for checking global connectivity. use geosite:connectivity-check@cn for CHN network direct testing
+
 # Apple
-DOMAIN-SUFFIX,captive.apple.com
+DOMAIN-SUFFIX,captive.apple.com    #Apple captive portal default direct
 
 # Arch Linux
 DOMAIN,ping.archlinux.org
@@ -14,8 +16,13 @@ DOMAIN-SUFFIX,network-test.debian.org
 # Firefox
 DOMAIN-SUFFIX,detectportal.firefox.com
 
+# GNOME
+DOMAIN,nmcheck.gnome.org
+
 # Google
-DOMAIN-SUFFIX,connectivitycheck.gstatic.com
+DOMAIN,connectivitycheck.gstatic.com
+DOMAIN,www.gstatic.com
+DOMAIN,www.google.com
 
 # Honor
 DOMAIN,connectivitycheck.platform.hihonorcloud.com
@@ -24,10 +31,27 @@ DOMAIN,connectivitycheck.platform.hihonorcloud.com
 DOMAIN,connectivitycheck.platform.hicloud.com
 
 # KDE
-DOMAIN-SUFFIX,networkcheck.kde.org
+DOMAIN,networkcheck.kde.org
+
+# Kuketz.DE
+DOMAIN-SUFFIX,kuketz.de
+
+# MicroSoft Edge
+DOMAIN,edge-http.microsoft.com
 
 # MIUI
 DOMAIN,connect.rom.miui.com
+
+# OPPO
+DOMAIN,conn1.oppomobile.com
+DOMAIN,conn2.oppomobile.com
+
+# Quadcolmm
+DOMAIN,www.qualcomm.cn
+DOMAIN,www.qualcomm.com
+
+# Samsung
+DOMAIN,connectivity.samsung.com.cn
 
 # Steam
 DOMAIN-SUFFIX,ipv6check-http.steamserver.net
@@ -36,6 +60,9 @@ DOMAIN-SUFFIX,test.steampowered.com
 
 # Ubuntu
 DOMAIN,connectivity-check.ubuntu.com
+
+# Vivo
+DOMAIN,wifi.vivo.com.cn
 
 # Windows
 DOMAIN-SUFFIX,msftconnecttest.com
