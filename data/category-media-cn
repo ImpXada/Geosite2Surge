@@ -242,6 +242,9 @@ DOMAIN-SUFFIX,eeo.com.cn
 DOMAIN-SUFFIX,expreview.com
 # FreeBuf 网络安全行业门户
 DOMAIN-SUFFIX,freebuf.com
+# 极客邦
+DOMAIN-SUFFIX,geekbang.org
+DOMAIN-SUFFIX,infoq.cn
 # 极客公园
 DOMAIN-SUFFIX,geekpark.net
 # 光明网

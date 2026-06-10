@@ -1352,6 +1352,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | udemy | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/udemy |
 | udn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/udn |
 | umeng | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/umeng |
+| unext | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/unext |
 | unionpay | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/unionpay |
 | unity | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/unity |
 | unitychina | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/unitychina |

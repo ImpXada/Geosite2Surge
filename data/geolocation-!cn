@@ -6279,6 +6279,12 @@ DOMAIN,dqrpb9wgowsf5.cloudfront.net
 DOMAIN,ds0h3roq6wcgc.cloudfront.net
 DOMAIN,dykkng5hnh52u.cloudfront.net
 #end include:twitch
+#include:unext
+DOMAIN-SUFFIX,nxtv.jp
+DOMAIN-SUFFIX,unext-info.jp
+DOMAIN-SUFFIX,unext.co.jp
+DOMAIN-SUFFIX,unext.jp
+#end include:unext
 #include:vimeo
 DOMAIN-SUFFIX,vhx.tv
 DOMAIN-SUFFIX,vhxqa1.com
