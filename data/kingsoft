@@ -1,3 +1,4 @@
+#include:cheetahmobile
 DOMAIN-SUFFIX,cmcm.com
 DOMAIN-SUFFIX,cmcmcdn.com
 DOMAIN-SUFFIX,liebao.cn
@@ -7,6 +8,7 @@ DOMAIN-SUFFIX,duba.com
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,ijinshan.com
 #end include:cheetahmobile
+#include:seasun
 DOMAIN-SUFFIX,seasungames.com
 DOMAIN-SUFFIX,xishanju.com
 DOMAIN-SUFFIX,xoyo.com
@@ -18,6 +20,7 @@ DOMAIN-SUFFIX,cbjq.com
 # Testplus
 DOMAIN-SUFFIX,testplus.cn
 #end include:seasun
+#include:wps
 DOMAIN-SUFFIX,wps.cn
 DOMAIN-SUFFIX,wps.com
 DOMAIN-SUFFIX,wpscdn.cn

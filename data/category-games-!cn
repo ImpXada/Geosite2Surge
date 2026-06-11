@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,umamusume.akamaized.net
 #end include:cygames
 #include:ea
+#include:origin
 DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,eastore.com
 DOMAIN-SUFFIX,lordofultima.com
@@ -305,10 +306,6 @@ DOMAIN-SUFFIX,embark-studios.com
 DOMAIN-SUFFIX,embark.games
 DOMAIN-SUFFIX,reachthefinals.com
 #end include:embark
-#include:eneba
-DOMAIN-SUFFIX,eneba.com
-DOMAIN-SUFFIX,eneba.games
-#end include:eneba
 #include:epicgames
 DOMAIN-SUFFIX,3lateral.com
 DOMAIN-SUFFIX,artstation.com
@@ -368,6 +365,12 @@ DOMAIN-SUFFIX,star-conflict.com
 DOMAIN-SUFFIX,warthunder.com
 DOMAIN-SUFFIX,wtmobile.com
 #end include:gaijin
+#include:gamesplanet
+# Gamesplanet/GameTap (Metaboli)
+DOMAIN-SUFFIX,gamesplanet.com
+DOMAIN-SUFFIX,gametap.com
+DOMAIN-SUFFIX,gpstatic.com
+#end include:gamesplanet
 #include:garena
 DOMAIN,avatargarenanow-a.akamaihd.net
 DOMAIN,cdngarenanow-a.akamaihd.net
@@ -476,7 +479,9 @@ DOMAIN-SUFFIX,modrinth.com
 DOMAIN-SUFFIX,nexon.co.jp
 DOMAIN-SUFFIX,nexon.com
 DOMAIN-SUFFIX,nexon.io
+DOMAIN-SUFFIX,nexon.net
 DOMAIN-SUFFIX,nexoncdn.co.kr
+DOMAIN-SUFFIX,nexongames.co.kr
 #end include:nexon
 #include:nikke
 DOMAIN-SUFFIX,nikke-de.com
@@ -823,7 +828,11 @@ DOMAIN-SUFFIX,steamserver.net
 DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,steamusercontent.com
 DOMAIN-SUFFIX,underlords.com
+DOMAIN-SUFFIX,valve.net
 DOMAIN-SUFFIX,valvesoftware.com
+
+# Dota 2
+DOMAIN-SUFFIX,dota2.com
 
 # edgecast
 DOMAIN-SUFFIX,edge.steam-dns.top.comcast.net
@@ -933,32 +942,6 @@ DOMAIN-SUFFIX,supercellid.com
 DOMAIN-SUFFIX,supercellstore.com
 DOMAIN-SUFFIX,supr.cl
 #end include:supercell
-#include:take-two
-#include:2kgames
-DOMAIN-SUFFIX,2k.com
-DOMAIN-SUFFIX,2kcoretech.online
-DOMAIN-SUFFIX,2kct.onl
-DOMAIN-SUFFIX,2kgames.com
-DOMAIN-SUFFIX,2ksports.com
-DOMAIN-SUFFIX,2kweb.online
-#end include:2kgames
-#include:rockstar
-DOMAIN-SUFFIX,rockstargames.com
-DOMAIN-SUFFIX,rockstarnorth.com
-DOMAIN-SUFFIX,rsg.sc
-
-DOMAIN,gamedownloads-rockstargames-com.akamaized.net
-DOMAIN,media-rockstargames-com.akamaized.net
-DOMAIN,videos-rockstargames-com.akamaized.net
-#end include:rockstar
-#include:zynga
-DOMAIN-SUFFIX,zynga.com
-DOMAIN-SUFFIX,zyngaplayersupport.com
-DOMAIN-SUFFIX,zyngapoker.com
-#end include:zynga
-
-DOMAIN-SUFFIX,take2games.com
-#end include:take-two
 #include:ubisoft
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,ubisoft.com
@@ -1021,6 +1004,66 @@ DOMAIN-SUFFIX,wbagora.com
 DOMAIN-SUFFIX,wbgames.com
 DOMAIN-SUFFIX,wbinsights.com
 #end include:wbgames
+#include:xbox
+DOMAIN-SUFFIX,asobostudio.com
+DOMAIN-SUFFIX,flightsimulator.com
+
+DOMAIN,flightsimulator.azureedge.net
+#end include:asobo
+DOMAIN-SUFFIX,beth.games
+DOMAIN-SUFFIX,bethesda.net
+DOMAIN-SUFFIX,bethesdagamestudios.com
+DOMAIN-SUFFIX,bethsoft.com
+
+# Doom
+DOMAIN-SUFFIX,doom.com
+
+# The Elder Scrolls
+DOMAIN-SUFFIX,elderscrolls.com
+#end include:bethesda
+DOMAIN-SUFFIX,forza.net
+DOMAIN-SUFFIX,forzamotorsport.net
+DOMAIN-SUFFIX,forzaracingchampionship.com
+DOMAIN-SUFFIX,forzarc.com
+
+DOMAIN,prodforza.blob.core.windows.net
+#end include:forza
+DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,minecraft-services.net
+DOMAIN-SUFFIX,minecraft.net
+DOMAIN-SUFFIX,minecraftservices.com
+DOMAIN-SUFFIX,minecraftshop.com
+DOMAIN-SUFFIX,mojang.com
+#end include:mojang
+
+# All .xbox domains
+DOMAIN-SUFFIX,xbox
+
+DOMAIN-SUFFIX,gamepass.com
+DOMAIN-SUFFIX,orithegame.com
+DOMAIN-SUFFIX,renovacionxboxlive.com
+DOMAIN-SUFFIX,tellmewhygame.com
+DOMAIN-SUFFIX,xbox.co
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xbox.eu
+DOMAIN-SUFFIX,xbox.org
+DOMAIN-SUFFIX,xbox360.co
+DOMAIN-SUFFIX,xbox360.com
+DOMAIN-SUFFIX,xbox360.eu
+DOMAIN-SUFFIX,xbox360.org
+DOMAIN-SUFFIX,xboxab.com
+DOMAIN-SUFFIX,xboxgamepass.com
+DOMAIN-SUFFIX,xboxgamestudios.com
+DOMAIN-SUFFIX,xboxlive.cn
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,xboxone.co
+DOMAIN-SUFFIX,xboxone.com
+DOMAIN-SUFFIX,xboxone.eu
+DOMAIN-SUFFIX,xboxplayanywhere.com
+DOMAIN-SUFFIX,xboxservices.com
+DOMAIN-SUFFIX,xboxstudios.com
+DOMAIN-SUFFIX,xbx.lv
+#end include:xbox
 #include:ynoproject
 DOMAIN-SUFFIX,ynoproject.net
 #end include:ynoproject
@@ -1045,6 +1088,7 @@ DOMAIN-SUFFIX,dodi-repacks.download
 DOMAIN-SUFFIX,dodi-repacks.site
 DOMAIN-SUFFIX,fabricmc.net
 DOMAIN-SUFFIX,fanatical.com
+DOMAIN-SUFFIX,ficgs.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
 DOMAIN-SUFFIX,game-repack.site
 DOMAIN-SUFFIX,joinsquad.com

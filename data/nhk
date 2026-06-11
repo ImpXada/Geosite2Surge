@@ -1,0 +1,7 @@
+# https://en.wikipedia.org/wiki/NHK#External_links
+# https://nic.nhk/
+
+DOMAIN-SUFFIX,nhk
+DOMAIN-SUFFIX,nhk.jp
+DOMAIN-SUFFIX,nhk.or.jp
+DOMAIN-SUFFIX,nhkworld.jp

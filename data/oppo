@@ -1,4 +1,3 @@
-#include:oneplus
 DOMAIN-SUFFIX,oneplus.com
 DOMAIN-SUFFIX,oneplus.cn
 DOMAIN-SUFFIX,oneplus.net
@@ -9,6 +8,7 @@ DOMAIN-SUFFIX,h2os.com
 
 DOMAIN,community.oneplus.com
 #end include:oneplus
+
 DOMAIN-SUFFIX,allawnfs.com
 DOMAIN-SUFFIX,allawno.com
 DOMAIN-SUFFIX,allawntech.com
@@ -39,6 +39,7 @@ DOMAIN-SUFFIX,oppopay.com
 DOMAIN-SUFFIX,opposhop.cn
 DOMAIN-SUFFIX,oppowork.com
 DOMAIN-SUFFIX,realme.com
+DOMAIN-SUFFIX,realme.net
 DOMAIN-SUFFIX,realmebbs.com
 DOMAIN-SUFFIX,realmemobile.com
 DOMAIN-SUFFIX,shopoppo.cn

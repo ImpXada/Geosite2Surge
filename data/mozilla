@@ -1,6 +1,7 @@
 # https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
 # https://support.mozilla.org/fr/questions/1352614
 
+#include:firefox
 DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
@@ -9,6 +10,7 @@ DOMAIN-SUFFIX,firefoxusercontent.com
 
 DOMAIN,mozilla-ohttp.fastly-edge.com
 #end include:firefox
+#include:mdn
 DOMAIN-SUFFIX,developer.allizom.org
 DOMAIN-SUFFIX,developer.mozilla.org
 DOMAIN-SUFFIX,mdn.allizom.net

@@ -1,3 +1,26 @@
+#include:tencent-dev
+# 腾讯 云原生构建
+DOMAIN-SUFFIX,cnb.cool
+#end include:cnb
+DOMAIN-SUFFIX,coding.me
+DOMAIN-SUFFIX,coding.net
+#end include:coding
+
+DOMAIN-SUFFIX,openmidas.com
+DOMAIN-SUFFIX,qq.design
+DOMAIN-SUFFIX,qqgamedesign.com
+DOMAIN-SUFFIX,tencent-cloud.cn
+DOMAIN-SUFFIX,tencent-cloud.com
+DOMAIN-SUFFIX,tencent.design
+DOMAIN-SUFFIX,tencentcloud.com
+DOMAIN-SUFFIX,tjstats.com
+DOMAIN-SUFFIX,wegamedeveloper.com
+DOMAIN-SUFFIX,weixinbridge.com
+DOMAIN-SUFFIX,weui.io
+
+# Ads/tracking
+DOMAIN-SUFFIX,badjs.weixinbridge.com
+#end include:tencent-dev
 #include:tencent-games
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
@@ -109,6 +132,7 @@ DOMAIN-SUFFIX,roco.qq.com
 #end include:tencent-games
 #include:tencent-tme
 # 腾讯音乐娱乐集团/TME
+#include:kugou
 DOMAIN-SUFFIX,fanxingliveshow.com
 DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,kglink.cn
@@ -131,10 +155,12 @@ DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,adserviceretry.kglink.cn
 DOMAIN-SUFFIX,adserviceretry.kugou.com
 #end include:kugou
+#include:kuwo
 DOMAIN-SUFFIX,koowo.cn
 DOMAIN-SUFFIX,koowo.com
 DOMAIN-SUFFIX,kuwo.cn
 #end include:kuwo
+#include:ximalaya
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 
@@ -166,6 +192,20 @@ DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tmead.y.qq.com
 DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 #end include:tencent-tme
+#include:yuewen
+
+DOMAIN-SUFFIX,hongxiu.com
+DOMAIN-SUFFIX,qdmm.com
+DOMAIN-SUFFIX,qidian.com
+DOMAIN-SUFFIX,readnovel.com
+DOMAIN-SUFFIX,rongshuxia.com
+DOMAIN-SUFFIX,tingbook.com
+DOMAIN-SUFFIX,wting.info
+DOMAIN-SUFFIX,xs.cn
+DOMAIN-SUFFIX,xs8.cn
+DOMAIN-SUFFIX,xxsy.net
+DOMAIN-SUFFIX,yuewen.com
+#end include:yuewen
 
 DOMAIN-SUFFIX,qq.xn--fiqs8s    #qq.中国
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s    #腾讯.中国

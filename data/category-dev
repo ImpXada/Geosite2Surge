@@ -13,6 +13,74 @@ DOMAIN-SUFFIX,androidify.com
 
 DOMAIN,android.googlesource.com
 #end include:android
+#include:apple-dev
+DOMAIN-SUFFIX,appleswift.com
+DOMAIN-SUFFIX,swift.org
+DOMAIN-SUFFIX,swiftui.cn
+DOMAIN-SUFFIX,swiftui.com.cn
+#end include:swift
+
+# Calendar and Contact Server
+DOMAIN-SUFFIX,calendarserver.org
+
+# CloudKit
+DOMAIN-SUFFIX,apple-cloudkit.com
+
+# CUPS
+DOMAIN-SUFFIX,cups.org
+
+# Developer
+DOMAIN-SUFFIX,developer.apple.com
+DOMAIN-SUFFIX,devimages-cdn.apple.com
+DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+DOMAIN-SUFFIX,developerservices2.apple.com
+DOMAIN-SUFFIX,timestamp.apple.com
+DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
+DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
+
+# FoundationDB
+DOMAIN-SUFFIX,foundationdb.org
+
+# macOS forge
+DOMAIN-SUFFIX,macosforge.org
+
+# MacRuby
+DOMAIN-SUFFIX,macruby.com
+DOMAIN-SUFFIX,macruby.net
+DOMAIN-SUFFIX,macruby.org
+
+# MapKit
+DOMAIN-SUFFIX,apple-mapkit.com
+
+# Playgrounds
+DOMAIN-SUFFIX,playgrounds-cdn.apple.com
+
+# Research & Care
+DOMAIN-SUFFIX,carekit.org
+DOMAIN-SUFFIX,researchandcare.org
+DOMAIN-SUFFIX,researchkit.cn
+DOMAIN-SUFFIX,researchkit.com.cn
+DOMAIN-SUFFIX,researchkit.hk
+DOMAIN-SUFFIX,researchkit.net
+DOMAIN-SUFFIX,researchkit.org
+DOMAIN-SUFFIX,researchkit.tv
+
+# ServiceTalk
+DOMAIN-SUFFIX,servicetalk.io
+
+# WebKit
+DOMAIN-SUFFIX,webkit.org
+DOMAIN-SUFFIX,webkitgtk.org
+DOMAIN-SUFFIX,wpewebkit.org
+
+# Other
+DOMAIN-SUFFIX,webobjects.com
+
+DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
+DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
+DOMAIN,p-events-delivery.akamaized.net
+
+#end include:apple-dev
 #include:archlinux
 DOMAIN-SUFFIX,archlinux.de
 DOMAIN-SUFFIX,archlinux.org
@@ -70,6 +138,11 @@ DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,dotdeb.org
 #end include:debian
+#include:discourse
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,discourse.group
+DOMAIN-SUFFIX,discourse.org
+#end include:discourse
 #include:docker
 DOMAIN-SUFFIX,compose-spec.io
 DOMAIN-SUFFIX,docker.com
@@ -219,6 +292,7 @@ DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,dependabot.com
 DOMAIN-SUFFIX,gh.io
 DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
@@ -587,6 +661,18 @@ DOMAIN-SUFFIX,unityads.unity3d.com
 DOMAIN-SUFFIX,v8.dev
 DOMAIN-SUFFIX,v8project.org
 #end include:v8
+#include:wordpress
+DOMAIN-SUFFIX,videopress.com
+DOMAIN-SUFFIX,w.org
+DOMAIN-SUFFIX,wordcamp.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.net
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,wpvip.com
+#end include:wordpress
 
 DOMAIN-SUFFIX,adventofcode.com
 DOMAIN-SUFFIX,alpinelinux.org
@@ -696,3 +782,9 @@ DOMAIN-SUFFIX,xposed.info
 DOMAIN-SUFFIX,yarnpkg.com
 DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zsh.org
+
+# WordPress plugins
+DOMAIN-SUFFIX,elegantthemes.com
+DOMAIN-SUFFIX,hivepress.io
+DOMAIN-SUFFIX,motopress.com
+DOMAIN-SUFFIX,wpmailsmtp.com

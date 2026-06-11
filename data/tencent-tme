@@ -1,4 +1,5 @@
 # 腾讯音乐娱乐集团/TME
+#include:kugou
 DOMAIN-SUFFIX,fanxingliveshow.com
 DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,kglink.cn
@@ -21,10 +22,12 @@ DOMAIN-SUFFIX,ads.service.kugou.com
 DOMAIN-SUFFIX,adserviceretry.kglink.cn
 DOMAIN-SUFFIX,adserviceretry.kugou.com
 #end include:kugou
+#include:kuwo
 DOMAIN-SUFFIX,koowo.cn
 DOMAIN-SUFFIX,koowo.com
 DOMAIN-SUFFIX,kuwo.cn
 #end include:kuwo
+#include:ximalaya
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
 

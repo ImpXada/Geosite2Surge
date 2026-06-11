@@ -488,7 +488,6 @@ DOMAIN-SUFFIX,coupangcdn.com
 DOMAIN-SUFFIX,craigslist.org
 #end include:craigslist
 #include:dmm
-#include:dmm-porn
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmmrex.com
 #end include:dmm-porn
@@ -896,6 +895,10 @@ DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com
 DOMAIN-SUFFIX,ebuyer.com
 #ebyrcdn.net
 #end include:ebuyer
+#include:eneba
+DOMAIN-SUFFIX,eneba.com
+DOMAIN-SUFFIX,eneba.games
+#end include:eneba
 #include:farfetch
 DOMAIN-SUFFIX,farfetch-apps.com
 DOMAIN-SUFFIX,farfetch-contents.com
@@ -1303,6 +1306,8 @@ DOMAIN,ecapi-pchome.cdn.hinet.net
 DOMAIN,pchomeonline.com.tw
 #end include:pchome
 #include:rakuten
+# https://global.rakuten.com/corp/about/
+DOMAIN-SUFFIX,buyservices.com
 DOMAIN-SUFFIX,r10s.com
 DOMAIN-SUFFIX,r10s.jp
 DOMAIN-SUFFIX,rakuten-static.com
@@ -1311,9 +1316,38 @@ DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,rakuten.com
 DOMAIN-SUFFIX,rakuten.com.tw
 DOMAIN-SUFFIX,rakuten.ne.jp
+DOMAIN-SUFFIX,rakuten.tv
 DOMAIN-SUFFIX,rakuten.tw
+DOMAIN-SUFFIX,rakutenadvertising.com
+DOMAIN-SUFFIX,rakutengiftcards.ca
+
+# Ebates/Rakuten Rewards
+DOMAIN-SUFFIX,bfads.net
+DOMAIN-SUFFIX,ebates.ca
+DOMAIN-SUFFIX,ebates.kr
+DOMAIN-SUFFIX,ebates.sg
+DOMAIN-SUFFIX,ebatescanada.com
+DOMAIN-SUFFIX,ecbsn.com
+DOMAIN-SUFFIX,fatwallet.com
 DOMAIN-SUFFIX,rclon.com
 DOMAIN-SUFFIX,rebates.jp
+DOMAIN-SUFFIX,rrcbsn.com
+
+# https://en.wikipedia.org/wiki/Kobo_Inc.
+DOMAIN-SUFFIX,kobo.com
+
+# Rakuten Viber
+DOMAIN-SUFFIX,viber.com
+DOMAIN-SUFFIX,viber.co
+DOMAIN-SUFFIX,viber.me
+
+DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
+DOMAIN-SUFFIX,vbcdn.com
+DOMAIN-SUFFIX,vbcdn.net
+#end include:viber
+
+# Rakuten Viki
+DOMAIN-SUFFIX,viki.com
 #end include:rakuten
 #include:ruten
 DOMAIN-SUFFIX,rimg.com.tw
@@ -1392,8 +1426,11 @@ DOMAIN-SUFFIX,wmt.co
 DOMAIN-SUFFIX,wish.com
 #end include:wish
 
+DOMAIN-SUFFIX,allkeyshop.com
 DOMAIN-SUFFIX,axbdoll.com.tw
+DOMAIN-SUFFIX,gg.deals
 DOMAIN-SUFFIX,i69.com.tw
+DOMAIN-SUFFIX,kinguin.net
 DOMAIN-SUFFIX,pornhubapparel.com
 DOMAIN-SUFFIX,readmoo.com
 DOMAIN-SUFFIX,redino.tw

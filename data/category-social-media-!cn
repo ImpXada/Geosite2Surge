@@ -1,11 +1,9 @@
 # This list contains social media platforms outside China mainland.
 
-#include:bluesky
 DOMAIN-SUFFIX,bsky.app
 DOMAIN-SUFFIX,bsky.network
 DOMAIN-SUFFIX,bsky.social
 #end include:bluesky
-#include:facebook
 DOMAIN-SUFFIX,aboutfacebook.com
 DOMAIN-SUFFIX,accessfacebookfromschool.com
 DOMAIN-SUFFIX,acebooik.com
@@ -409,7 +407,6 @@ DOMAIN-SUFFIX,analytics.facebook.com
 DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,pixel.facebook.com
 #end include:facebook
-#include:instagram
 DOMAIN-SUFFIX,achat-followers-instagram.com
 DOMAIN-SUFFIX,acheter-followers-instagram.com
 DOMAIN-SUFFIX,acheterdesfollowersinstagram.com
@@ -487,7 +484,6 @@ DOMAIN-SUFFIX,wwwinstagram.com
 DOMAIN-SUFFIX,graph.instagram.com
 DOMAIN-SUFFIX,graph-fallback.instagram.com
 #end include:instagram
-#include:linkedin
 DOMAIN-SUFFIX,bizographics.com
 DOMAIN-SUFFIX,l-0005.dc-msedge.net
 DOMAIN-SUFFIX,l-0005.l-msedge.net
@@ -504,12 +500,52 @@ DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
 #end include:linkedin
-#include:mixi
+DOMAIN-SUFFIX,misskey.io
+DOMAIN-SUFFIX,misskeyusercontent.jp
+
+# please DO NOT include domains that are only meant to serve static files
+# e.g.
+#    mediaproxy-mi.mashiro.site
+#    misskey-white.s3.ap-northeast-1.amazonaws.com
+
+DOMAIN-SUFFIX,9ineverse.com
+DOMAIN-SUFFIX,buicha.social
+DOMAIN-SUFFIX,gyutte.site
+DOMAIN-SUFFIX,labo.wovs.tk
+DOMAIN-SUFFIX,maniakey.homes
+DOMAIN-SUFFIX,mfmf.club
+DOMAIN-SUFFIX,mi.kochudaho.me
+DOMAIN-SUFFIX,mi.mashiro.site
+DOMAIN-SUFFIX,mi.nakn.jp
+DOMAIN-SUFFIX,misskey-square.net
+DOMAIN-SUFFIX,misskey.04.si
+DOMAIN-SUFFIX,misskey.always-we-need.games
+DOMAIN-SUFFIX,misskey.art
+DOMAIN-SUFFIX,misskey.cloud
+DOMAIN-SUFFIX,misskey.design
+DOMAIN-SUFFIX,misskey.flowers
+DOMAIN-SUFFIX,misskey.gamelore.fun
+DOMAIN-SUFFIX,misskey.gg
+DOMAIN-SUFFIX,misskey.noellabo.jp
+DOMAIN-SUFFIX,misskey.ranranhome.info
+DOMAIN-SUFFIX,misskey.stream
+DOMAIN-SUFFIX,misskey.yukineko.me
+DOMAIN-SUFFIX,mk.shrimpia.network
+DOMAIN-SUFFIX,mk.yopo.work
+DOMAIN-SUFFIX,mof.kemomi.me
+DOMAIN-SUFFIX,msk.ilnk.info
+DOMAIN-SUFFIX,msk.kitazawa.me
+DOMAIN-SUFFIX,nijimiss.moe
+DOMAIN-SUFFIX,oekakiskey.com
+DOMAIN-SUFFIX,submarin.online
+DOMAIN-SUFFIX,sushi.ski
+DOMAIN-SUFFIX,trpger.us
+#end include:misskey-universe
+#end include:misskey
 DOMAIN-SUFFIX,mixi.co.jp
 DOMAIN-SUFFIX,mixi.jp
 DOMAIN-SUFFIX,mixi.net
 #end include:mixi
-#include:ok
 DOMAIN-SUFFIX,apiok.ru
 DOMAIN-SUFFIX,insideok.ru
 DOMAIN-SUFFIX,odkl.ru
@@ -532,11 +568,9 @@ DOMAIN-SUFFIX,okcdn.ru
 DOMAIN,st-ok-pts.cdn-vk.ru
 DOMAIN,st-ok.cdn-vk.ru
 #end include:ok
-#include:threads
 DOMAIN-SUFFIX,threads.com
 DOMAIN-SUFFIX,threads.net
 #end include:threads
-#include:twitter
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,periscope.tv
@@ -562,7 +596,6 @@ DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,x.com
 #end include:twitter
-#include:vk
 # Use `geosite:mailru-group` if you want to match the entire VK Group
 DOMAIN-SUFFIX,mvk.com
 DOMAIN-SUFFIX,vk.cc
