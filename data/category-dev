@@ -219,11 +219,13 @@ DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,getfedora.org
 #end include:fedora
 #include:firebase
+DOMAIN-SUFFIX,crashlytics.com
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,firebaseio.com
 
+DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebase-settings.crashlytics.com
 DOMAIN,firebase.google.com
 DOMAIN,firebase.googleapis.com
@@ -237,6 +239,7 @@ DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,firebaselogging.googleapis.com
 DOMAIN,firebaseperusertopics-pa.googleapis.com
 DOMAIN,firebaseremoteconfig.googleapis.com
+DOMAIN,update.crashlytics.com
 #end include:firebase
 #include:flatpak
 DOMAIN-SUFFIX,flathub.org
@@ -654,7 +657,15 @@ DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
 
 # Ads/tracking
+# https://github.com/v2fly/domain-list-community/pull/3716
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,api2.amplitude.com
+DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
+DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
 DOMAIN-SUFFIX,iads.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
 DOMAIN-SUFFIX,unityads.unity3d.com
 #end include:unity
 #include:v8
