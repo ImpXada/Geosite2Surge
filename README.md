@@ -838,6 +838,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | linuxdo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/linuxdo |
 | lisiku | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lisiku |
 | litv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/litv |
+| livejournal | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/livejournal |
 | liveperson | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/liveperson |
 | lizhi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lizhi |
 | lkcoffee | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lkcoffee |

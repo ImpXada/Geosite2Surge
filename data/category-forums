@@ -59,6 +59,10 @@ DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,ldstatic.com
 #end include:linuxdo
+#include:livejournal
+DOMAIN-SUFFIX,livejournal.com
+DOMAIN-SUFFIX,livejournal.net
+#end include:livejournal
 #include:mobile01
 DOMAIN-SUFFIX,5i01.com
 DOMAIN-SUFFIX,mobile01.com
@@ -143,8 +147,6 @@ DOMAIN-SUFFIX,doom9.org
 DOMAIN-SUFFIX,eyny.com
 DOMAIN-SUFFIX,gab.com
 DOMAIN-SUFFIX,hydrogenaud.io
-DOMAIN-SUFFIX,livejournal.com
-DOMAIN-SUFFIX,livejournal.net
 DOMAIN-SUFFIX,mewe.com
 DOMAIN-SUFFIX,parler.com
 DOMAIN-SUFFIX,pincong.rocks

@@ -345,6 +345,9 @@ DOMAIN-SUFFIX,credit-zenit.ru
 DOMAIN-SUFFIX,zenit-card.ru
 DOMAIN-SUFFIX,zenit.ru
 
+# NSPK (QR-code payments)
+DOMAIN-SUFFIX,nspk.ru
+
 # Other
 DOMAIN-SUFFIX,absolutbank.ru
 DOMAIN-SUFFIX,akbars.ru
