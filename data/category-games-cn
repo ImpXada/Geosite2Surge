@@ -94,13 +94,6 @@ DOMAIN-SUFFIX,heroesports.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,yingxiong.com
 #end include:herogame
-#include:kurogames
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,kurogames.net
-
-# Wuthering Waves
-DOMAIN-SUFFIX,aki-game.com
-#end include:kurogames
 #include:mihoyo-cn
 # 米哈游
 DOMAIN-SUFFIX,mhystatic.com

@@ -428,13 +428,6 @@ DOMAIN-SUFFIX,heroesports.com
 DOMAIN-SUFFIX,shyxhy.com
 DOMAIN-SUFFIX,yingxiong.com
 #end include:herogame
-#include:kurogames
-DOMAIN-SUFFIX,kurogames.com
-DOMAIN-SUFFIX,kurogames.net
-
-# Wuthering Waves
-DOMAIN-SUFFIX,aki-game.com
-#end include:kurogames
 #include:mihoyo-cn
 # 米哈游
 DOMAIN-SUFFIX,mhystatic.com
@@ -5096,6 +5089,11 @@ DOMAIN-SUFFIX,suzuki-china.com    #铃木中国官网
 DOMAIN-SUFFIX,udesk.cn    #沃丰科技
 DOMAIN-SUFFIX,ysjf.com    #影视飓风
 
+## 厦门 沧鹏电子科技/杉鹭信息技术
+DOMAIN-SUFFIX,allday.work
+DOMAIN-SUFFIX,cangpeng.com
+DOMAIN-SUFFIX,erp198.com
+DOMAIN-SUFFIX,sunrocks.cn
 ## 曹操出行
 DOMAIN-SUFFIX,caocao.com.cn
 DOMAIN-SUFFIX,caocaokeji.cn

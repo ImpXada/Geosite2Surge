@@ -875,6 +875,7 @@ DOMAIN,steamvideo-a.akamaihd.net
 
 # Azure
 DOMAIN,steamcloudsweden.blob.core.windows.net
+DOMAIN,steamugcquincy.blob.core.windows.net
 
 # 完美
 DOMAIN-SUFFIX,csgo.wmsj.cn
