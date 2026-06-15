@@ -8550,6 +8550,12 @@ DOMAIN-SUFFIX,prismlive.com
 #include:neuralink
 DOMAIN-SUFFIX,neuralink.com
 #end include:neuralink
+#include:nic-ru
+DOMAIN-SUFFIX,nichost.ru
+DOMAIN-SUFFIX,nic.ru
+DOMAIN-SUFFIX,r01.ru
+DOMAIN-SUFFIX,sweb.ru
+#end include:nic-ru
 #include:nvidia
 DOMAIN-SUFFIX,geforce.cn
 DOMAIN-SUFFIX,geforce.co.kr
@@ -8812,6 +8818,11 @@ DOMAIN-SUFFIX,razerzone.jp
 DOMAIN-SUFFIX,respawnbyrazer.com
 DOMAIN-SUFFIX,rzr.to
 #end include:razer
+#include:regru
+DOMAIN-SUFFIX,reg.cloud
+DOMAIN-SUFFIX,reg.com
+DOMAIN-SUFFIX,reg.ru
+#end include:regru
 #include:rostelecom
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru

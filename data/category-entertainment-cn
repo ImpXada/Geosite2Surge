@@ -133,6 +133,21 @@ DOMAIN-WILDCARD,*-mihayo.akamaized.net
 # Ads/tracking
 DOMAIN-SUFFIX,log-upload.mihoyo.com
 #end include:mihoyo-cn
+#include:seasun
+# 西山居
+DOMAIN-SUFFIX,seasungames.cn
+DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,seasunwbl.com
+DOMAIN-SUFFIX,xishanju.com
+DOMAIN-SUFFIX,xoyo.com
+DOMAIN-SUFFIX,xoyocdn.com
+
+# 尘白禁区
+DOMAIN-SUFFIX,cbjq.com
+
+# Testplus
+DOMAIN-SUFFIX,testplus.cn
+#end include:seasun
 #include:tencent-games
 DOMAIN-SUFFIX,battlecare.net
 DOMAIN-SUFFIX,gameitop.com
@@ -266,6 +281,11 @@ DOMAIN-SUFFIX,yokaverse.com
 DOMAIN-SUFFIX,zhuoyou.com
 #end include:yokaverse
 
+# 三七互娱
+DOMAIN-SUFFIX,37.com
+DOMAIN-SUFFIX,37.com.cn
+DOMAIN-SUFFIX,37wan.net
+DOMAIN-SUFFIX,37wanimg.com
 # 北京奇客创想科技有限公司
 DOMAIN-SUFFIX,7k7k.com
 # 刀锋盒子 皖B2-20190103-4
@@ -274,6 +294,10 @@ DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX,astral-vector.com
+# 畅游 (sohu)
+DOMAIN-SUFFIX,changyou.com
+DOMAIN-SUFFIX,cy.com
+DOMAIN-SUFFIX,playcool.com
 # 终末地-协议终端
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -834,6 +858,10 @@ DOMAIN-SUFFIX,172mix.com
 DOMAIN-SUFFIX,17k.com
 # https://github.com/supzhang/epg
 DOMAIN-SUFFIX,51zmt.top
+# 六间房
+DOMAIN-SUFFIX,6.cn
+DOMAIN-SUFFIX,6rooms.com
+DOMAIN-SUFFIX,xiu123.cn
 # 动画巡礼
 DOMAIN-SUFFIX,anitabi.cn
 # 暴风影音
@@ -863,8 +891,15 @@ DOMAIN-SUFFIX,muwai.com
 # 懂球帝
 DOMAIN-SUFFIX,dongdianqiu.com
 DOMAIN-SUFFIX,dongqiudi.com
+# 直播吧
+DOMAIN-SUFFIX,duoduocdn.com
+DOMAIN-SUFFIX,zhibo8.cc
+DOMAIN-SUFFIX,zhibo8.com
 # 飞卢小说
 DOMAIN-SUFFIX,faloo.com
+# 蜂鸟网
+DOMAIN-SUFFIX,fengniao.com
+DOMAIN-SUFFIX,img-space.com
 # 三国杀打小抄官网
 DOMAIN-SUFFIX,goka.top
 # 海读文学
@@ -944,8 +979,9 @@ DOMAIN-SUFFIX,tgbus.com
 DOMAIN-SUFFIX,vgtime.com
 #end include:vgtime
 
-## 17173网
+## 17173网 (sohu)
 DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,17173cdn.com
 ## 18183网
 DOMAIN-SUFFIX,18183.com
 ## 3DM游戏网
@@ -974,6 +1010,8 @@ DOMAIN-SUFFIX,ign.com.cn
 DOMAIN-SUFFIX,nadianshi.com
 ## 游戏日报
 DOMAIN-SUFFIX,news.yxrb.net
+## 超级玩家游戏网
+DOMAIN-SUFFIX,sgamer.com
 ## 手谈姬
 DOMAIN-SUFFIX,shoutanjjj.com
 ## 游戏机实用技术

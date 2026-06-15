@@ -38,6 +38,11 @@ DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 
+# 北京雷盟盛通文化发展有限公司
+DOMAIN-SUFFIX,laiyagushi.com
+DOMAIN-SUFFIX,vzuu.com
+
+# Ads/tracking
 DOMAIN-SUFFIX,crash2.zhihu.com
 DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 #end include:zhihu

@@ -9,7 +9,10 @@ DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,ijinshan.com
 #end include:cheetahmobile
 #include:seasun
+# 西山居
+DOMAIN-SUFFIX,seasungames.cn
 DOMAIN-SUFFIX,seasungames.com
+DOMAIN-SUFFIX,seasunwbl.com
 DOMAIN-SUFFIX,xishanju.com
 DOMAIN-SUFFIX,xoyo.com
 DOMAIN-SUFFIX,xoyocdn.com
