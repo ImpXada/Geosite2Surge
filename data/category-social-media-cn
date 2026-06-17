@@ -57,6 +57,11 @@ DOMAIN-SUFFIX,dandanvoice.com
 # 饭否
 DOMAIN-SUFFIX,fanfou.com
 
+# 最右
+DOMAIN-SUFFIX,izuiyou.com
+DOMAIN-SUFFIX,ixiaochuan.cn
+DOMAIN-SUFFIX,xiaochuankeji.cn
+
 # 脉脉
 DOMAIN-SUFFIX,maimai.cn
 DOMAIN-SUFFIX,taou.com

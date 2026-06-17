@@ -1261,6 +1261,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | synology | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/synology |
 | t2-ru | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/t2-ru |
 | taboola | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/taboola |
+| taihe | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/taihe |
 | taikang | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/taikang |
 | tailscale | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tailscale |
 | take-two | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/take-two |

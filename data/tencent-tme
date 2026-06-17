@@ -37,13 +37,17 @@ DOMAIN-SUFFIX,adse.wsa.ximalaya.com
 DOMAIN-SUFFIX,adse.ximalaya.com
 #end include:ximalaya
 
-DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,qqmusic.com
 DOMAIN-SUFFIX,tencentmusic.com
 
 DOMAIN-SUFFIX,kg.qq.com
 DOMAIN-SUFFIX,music.qq.com
 DOMAIN-SUFFIX,y.qq.com
+
+# 懒人听书
+DOMAIN-SUFFIX,lrts.me
+DOMAIN-SUFFIX,mting.info
+DOMAIN-SUFFIX,wting.info
 
 # 爱听卓乐
 DOMAIN-SUFFIX,97ting.com
