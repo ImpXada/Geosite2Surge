@@ -998,13 +998,15 @@ DOMAIN-SUFFIX,mo.co
 DOMAIN-SUFFIX,seeurlpcl.com
 DOMAIN-SUFFIX,squadbusters.com
 DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,supercell.helpshift.com
 DOMAIN-SUFFIX,supercell.net
 DOMAIN-SUFFIX,supercellcreators.com
 DOMAIN-SUFFIX,supercellgames.com
 DOMAIN-SUFFIX,supercellid.com
 DOMAIN-SUFFIX,supercellstore.com
 DOMAIN-SUFFIX,supr.cl
+
+DOMAIN,supercell.helpshift.com
+DOMAIN,supercell.zendesk.com
 #end include:supercell
 #include:take-two
 #include:2kgames

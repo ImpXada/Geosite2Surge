@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,intellij.org
 DOMAIN-SUFFIX,jb.gg
 DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-SUFFIX,jetbrains.net
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
@@ -12,4 +13,3 @@ DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,youtrack.cloud
 
 DOMAIN-SUFFIX,cdn.jetbrains.com
-DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn

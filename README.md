@@ -238,6 +238,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | category-collaborate-cn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-collaborate-cn |
 | category-communication | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-communication |
 | category-companies | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-companies |
+| category-consent-management | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-consent-management |
 | category-container | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-container |
 | category-cryptocurrency | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-cryptocurrency |
 | category-ddns | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/category-ddns |
