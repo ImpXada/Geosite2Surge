@@ -3623,11 +3623,13 @@ DOMAIN-SUFFIX,zeibit.ai
 DOMAIN-SUFFIX,ztrendlab.com
 #end include:gmo-internet
 #include:godaddy
-DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,x.co    #GoDaddy URL Shortener
-
 # All .godaddy domains
 DOMAIN-SUFFIX,godaddy
+
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
+DOMAIN-SUFFIX,wsimg.com
+DOMAIN-SUFFIX,x.co    #GoDaddy URL Shortener
 #end include:godaddy
 #include:group-ib
 DOMAIN-SUFFIX,antiphishing.nl
@@ -6481,7 +6483,9 @@ DOMAIN-SUFFIX,opentimetable.jp
 DOMAIN-SUFFIX,popcornjs.org
 DOMAIN-SUFFIX,publicsuffix.org
 DOMAIN-SUFFIX,seamonkey-project.org
+DOMAIN-SUFFIX,tb.pro
 DOMAIN-SUFFIX,thunderbird.net
+DOMAIN-SUFFIX,thundermail.com
 DOMAIN-SUFFIX,webmademovies.org
 
 # Ads/tracking

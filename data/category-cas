@@ -80,11 +80,13 @@ DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,crl.globalsign.net
 #end include:globalsign
 #include:godaddy
-DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,x.co    #GoDaddy URL Shortener
-
 # All .godaddy domains
 DOMAIN-SUFFIX,godaddy
+
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
+DOMAIN-SUFFIX,wsimg.com
+DOMAIN-SUFFIX,x.co    #GoDaddy URL Shortener
 #end include:godaddy
 #include:google-trust-services
 DOMAIN-SUFFIX,pki.goog

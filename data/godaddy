@@ -1,5 +1,7 @@
-DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,x.co    #GoDaddy URL Shortener
-
 # All .godaddy domains
 DOMAIN-SUFFIX,godaddy
+
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
+DOMAIN-SUFFIX,wsimg.com
+DOMAIN-SUFFIX,x.co    #GoDaddy URL Shortener
