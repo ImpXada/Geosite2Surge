@@ -1,0 +1,24 @@
+# 完美世界
+# Note: There're some domains in data/steam, not here.
+DOMAIN-SUFFIX,laohu.com
+DOMAIN-SUFFIX,pwrd.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,wmsj.cn
+DOMAIN-SUFFIX,wmupd.com
+
+# 全历史
+DOMAIN-SUFFIX,allhistory.com
+# 成家相亲
+DOMAIN-SUFFIX,chengjiaxiangqin.cn
+# 完美语言
+DOMAIN-SUFFIX,perfectlingo.com
+# 完美世界院线
+DOMAIN-SUFFIX,pwcinema.com
+# 完美世界电竞
+DOMAIN-SUFFIX,pwesports.cn
+
+# 完美邮箱
+DOMAIN-SUFFIX,111.com
+DOMAIN-SUFFIX,88.com
+DOMAIN-SUFFIX,88y.cn
+DOMAIN-SUFFIX,email.cn

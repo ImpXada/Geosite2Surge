@@ -391,11 +391,17 @@ DOMAIN-SUFFIX,seagroup.com
 #end include:garena
 #include:gog
 DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gog-services.com
 DOMAIN-SUFFIX,gog-statics.com
+DOMAIN-SUFFIX,gogalaxy.com
 
 DOMAIN,gog.qtlglb.com
 DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
+
+# Ads/tracking
+## https://www.gog.com/forum/general/telemetry_in_gog_galaxy_20/page1
+DOMAIN-SUFFIX,insights-collector.gog.com
 #end include:gog
 #include:hoyoverse
 # 原神
@@ -869,7 +875,9 @@ DOMAIN,steamcloudsweden.blob.core.windows.net
 DOMAIN,steamugcquincy.blob.core.windows.net
 
 # 完美
+DOMAIN-SUFFIX,csgo.com.cn
 DOMAIN-SUFFIX,csgo.wmsj.cn
+DOMAIN-SUFFIX,dota2.com.cn
 DOMAIN-SUFFIX,dota2.wmsj.cn
 DOMAIN-SUFFIX,wmsjsteam.com
 

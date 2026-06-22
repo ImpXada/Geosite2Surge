@@ -1,6 +1,7 @@
 DOMAIN,stats.avito.ru
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN-SUFFIX,insights-collector.gog.com
 DOMAIN-SUFFIX,analytics.cloud.unity3d.com
 DOMAIN-SUFFIX,api2.amplitude.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
@@ -323,6 +324,7 @@ DOMAIN-SUFFIX,ssacdn.com
 DOMAIN-SUFFIX,supersonic.com
 DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,supersonicads-a.akamaihd.net
+DOMAIN-SUFFIX,browser.events.data.msn.cn
 DOMAIN-SUFFIX,browser.events.data.msn.com
 DOMAIN-SUFFIX,clearbit.com
 DOMAIN-SUFFIX,clearbitjs.com
@@ -360,6 +362,7 @@ DOMAIN-SUFFIX,pb.i.sogou.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,uranus.sogou.com
 DOMAIN-SUFFIX,wuliao.epro.sogou.com
+DOMAIN-SUFFIX,youdaoads.com
 DOMAIN-SUFFIX,a.youdao.com
 DOMAIN-SUFFIX,admusicpic.music.126.net
 DOMAIN-SUFFIX,ads.music.126.net
@@ -489,6 +492,7 @@ DOMAIN-SUFFIX,httpdns.yunxindns.com
 DOMAIN-SUFFIX,httpdns.zhihu.com
 DOMAIN-SUFFIX,httpdns.zybang.com
 DOMAIN-SUFFIX,badjs.weixinbridge.com
+DOMAIN-SUFFIX,domain:dt.dbankcloud.ru
 DOMAIN-SUFFIX,e.mindbox.ru
 DOMAIN-SUFFIX,g.mindbox.ru
 DOMAIN-SUFFIX,s.mindbox.ru

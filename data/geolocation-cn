@@ -251,6 +251,9 @@ DOMAIN-SUFFIX,u3d.cn
 DOMAIN-SUFFIX,unity.cn
 DOMAIN-SUFFIX,unitychina.cn
 
+# 上海蓝云网络科技有限公司 (世纪互联)
+DOMAIN-SUFFIX,unity3dcloud.cn
+
 # Ads/tracking
 DOMAIN-SUFFIX,ads.unitychina.cn
 DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
@@ -260,6 +263,7 @@ DOMAIN-SUFFIX,unityads.unitychina.cn
 #end include:unitychina
 
 DOMAIN-SUFFIX,aardio.com
+DOMAIN-SUFFIX,cocos.com
 DOMAIN-SUFFIX,ejoy.com
 DOMAIN-SUFFIX,jinrishici.com
 DOMAIN-SUFFIX,kaihong.com
@@ -708,6 +712,8 @@ DOMAIN-SUFFIX,ynet.com.cn
 
 # 21世纪经济报
 DOMAIN-SUFFIX,21jingji.com
+# 三易生活
+DOMAIN-SUFFIX,3elife.net
 # 站长网
 DOMAIN-SUFFIX,admin5.com
 # 安徽财经网
@@ -726,6 +732,12 @@ DOMAIN-SUFFIX,bandao.cn
 DOMAIN-SUFFIX,bbtnews.com.cn
 # 鞭牛士
 DOMAIN-SUFFIX,bianews.com
+# 新京报
+DOMAIN-SUFFIX,bjnews.com.cn
+DOMAIN-SUFFIX,bkeconomy.com
+DOMAIN-SUFFIX,qianlong.com
+# 北京时间
+DOMAIN-SUFFIX,btime.com
 # 财经网
 DOMAIN-SUFFIX,caijing.com.cn
 # 财新网
@@ -735,6 +747,8 @@ DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,ckxx.net
 # 电脑商情在线
 DOMAIN-SUFFIX,cbinews.com
+# 中国经济网
+DOMAIN-SUFFIX,ce.cn
 # 改革网
 DOMAIN-SUFFIX,cfgw.net.cn
 # 中国家电网
@@ -754,6 +768,9 @@ DOMAIN-SUFFIX,cnfolimg.com
 DOMAIN-SUFFIX,cnr.cn
 # 上海证券报
 DOMAIN-SUFFIX,cnstock.com
+# 陕西新闻网
+DOMAIN-SUFFIX,cnwest.com
+DOMAIN-SUFFIX,sxtvs.com
 # 重庆晨报/上游新闻
 DOMAIN-SUFFIX,cqcb.com
 # 重庆华龙网
@@ -785,6 +802,8 @@ DOMAIN-SUFFIX,dahe.cn
 # 大河报
 DOMAIN-SUFFIX,daheapp.com
 DOMAIN-SUFFIX,dahebao.cn
+# 广州日报大洋网
+DOMAIN-SUFFIX,dayoo.com
 # 读特新闻
 DOMAIN-SUFFIX,dutenews.com
 # 大智慧
@@ -802,8 +821,12 @@ DOMAIN-SUFFIX,dzwww.com
 DOMAIN-SUFFIX,eastday.com
 # 经济观察网
 DOMAIN-SUFFIX,eeo.com.cn
+# 爱活网
+DOMAIN-SUFFIX,evolife.cn
 # 超能网
 DOMAIN-SUFFIX,expreview.com
+# 东南网
+DOMAIN-SUFFIX,fjsen.com
 # FreeBuf 网络安全行业门户
 DOMAIN-SUFFIX,freebuf.com
 # 极客邦
@@ -811,6 +834,8 @@ DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,infoq.cn
 # 极客公园
 DOMAIN-SUFFIX,geekpark.net
+# 机锋网
+DOMAIN-SUFFIX,gfan.com
 # 光明日报
 DOMAIN-SUFFIX,gmdaily.cn
 DOMAIN-SUFFIX,gmw.cn
@@ -928,6 +953,8 @@ DOMAIN-SUFFIX,news.cn
 DOMAIN-SUFFIX,newsimg.cn
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xinhuaxmt.com
+# 四川新闻网
+DOMAIN-SUFFIX,newssc.org
 # 奥一新闻
 DOMAIN-SUFFIX,oeeee.com
 # 维科网
@@ -962,6 +989,8 @@ DOMAIN-SUFFIX,qingdaonews.com
 DOMAIN-SUFFIX,qianzhan.com
 # 青岛之窗
 DOMAIN-SUFFIX,qingdaochina.org
+# 红网
+DOMAIN-SUFFIX,rednet.cn
 # 四川网络广播电视台
 DOMAIN-SUFFIX,scgchc.com
 DOMAIN-SUFFIX,sctv-tf.com
@@ -1017,6 +1046,9 @@ DOMAIN-SUFFIX,woshipm.com
 DOMAIN-SUFFIX,xhby.net
 # 西陆网
 DOMAIN-SUFFIX,xilu.com
+# 新民报
+DOMAIN-SUFFIX,xinmin.cn
+DOMAIN-SUFFIX,xinminweekly.com.cn
 # 新快报
 DOMAIN-SUFFIX,xkb.com.cn
 # 金羊网/羊城晚报
@@ -1035,6 +1067,8 @@ DOMAIN-SUFFIX,zgjtb.com
 DOMAIN-SUFFIX,zhichanli.com
 # 至顶网
 DOMAIN-SUFFIX,zhiding.cn
+# 浙江在线
+DOMAIN-SUFFIX,zjol.com.cn
 # 中关村在线
 DOMAIN-SUFFIX,zol-img.com.cn
 DOMAIN-SUFFIX,zol.com.cn
@@ -1607,7 +1641,6 @@ DOMAIN-SUFFIX,funcdn.com
 # 北京知道创宇信息技术股份有限公司
 DOMAIN-SUFFIX,jiashule.com
 DOMAIN-SUFFIX,jiasule.com
-DOMAIN-SUFFIX,yunaq.com
 #end include:category-cdn-cn
 
 #include:aws-cn
@@ -1831,6 +1864,8 @@ DOMAIN-SUFFIX,suufun.com
 DOMAIN-SUFFIX,suu-fun.com
 
 # Cloud Service
+## 华栖云
+DOMAIN-SUFFIX,chinamcloud.com
 ## 安徽大家网络科技
 DOMAIN-SUFFIX,cnwza.cn
 DOMAIN-SUFFIX,govwza.cn
@@ -1927,7 +1962,10 @@ DOMAIN-SUFFIX,ddxq.mobi
 DOMAIN-SUFFIX,imaicai.mobi
 #end include:ddmaicai
 
+DOMAIN-SUFFIX,51ping.com
+DOMAIN-SUFFIX,baobaoaichi.cn
 DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meituan.net
@@ -2187,6 +2225,8 @@ DOMAIN-SUFFIX,hdfimg.com
 DOMAIN-SUFFIX,jsehealth.com
 ## 仁科医疗科技有限公司服务域名，为北大口腔和一些其他国内医院小程序提供服务
 DOMAIN-SUFFIX,mingxuan.store
+## 爱问医生
+DOMAIN-SUFFIX,wenwo.com
 ## 牙医管家
 DOMAIN-SUFFIX,yayi360.com
 ## 有来医生
@@ -2834,6 +2874,15 @@ DOMAIN-SUFFIX,antaq.com
 
 # 文心一言
 DOMAIN-SUFFIX,yiyan.baidu.com
+
+# DuMate
+DOMAIN-SUFFIX,dumate.cn
+
+# 秒哒
+DOMAIN-SUFFIX,miaoda.cn
+
+# MCP World
+DOMAIN-SUFFIX,mcpworld.com
 
 # 天工AI
 DOMAIN-SUFFIX,tiangong.cn
@@ -3534,6 +3583,7 @@ DOMAIN-SUFFIX,kookong.com
 DOMAIN-SUFFIX,dida365.com
 ## 豆果美食
 DOMAIN-SUFFIX,douguo.com
+DOMAIN-SUFFIX,douguo.net
 ## 短书
 DOMAIN-SUFFIX,duanshu.com
 ## 兑吧
@@ -3548,6 +3598,7 @@ DOMAIN-SUFFIX,gongxiangjizhang.com
 ## 快应用
 DOMAIN-SUFFIX,hapjs.org
 DOMAIN-SUFFIX,quickapp.cn
+DOMAIN-SUFFIX,so-quick.cn
 ## 乐播投屏
 DOMAIN-SUFFIX,hpplay.cn
 DOMAIN-SUFFIX,lbtp.com
@@ -3593,6 +3644,8 @@ DOMAIN-SUFFIX,sangfor.com.cn
 ## 心知天气
 DOMAIN-SUFFIX,sencdn.com
 DOMAIN-SUFFIX,seniverse.com
+## 声网
+DOMAIN-SUFFIX,shengwang.cn
 ## 实习僧
 DOMAIN-SUFFIX,shixiseng.com
 DOMAIN-SUFFIX,sxsimg.com
@@ -3666,6 +3719,13 @@ DOMAIN-SUFFIX,ulecdn.com
 # 未知但有中邮备案
 DOMAIN-SUFFIX,postmail.cn
 #end include:chinapost
+#include:petrochina
+# 中石油
+DOMAIN-SUFFIX,95504.net
+DOMAIN-SUFFIX,95504test.com
+DOMAIN-SUFFIX,cnpc.com.cn
+DOMAIN-SUFFIX,petrochina.com.cn
+#end include:petrochina
 #include:sinopec
 DOMAIN-SUFFIX,sinopec-usa.com
 DOMAIN-SUFFIX,sinopec.com
@@ -3754,12 +3814,15 @@ DOMAIN-SUFFIX,xiaodutv.com
 DOMAIN-SUFFIX,yoojia.com
 
 # 度小满
+DOMAIN-SUFFIX,combofin.com
 DOMAIN-SUFFIX,duxiaoman-int.com
 DOMAIN-SUFFIX,duxiaoman.com
 DOMAIN-SUFFIX,duxiaomanfintech.com
+DOMAIN-SUFFIX,duxiaomanfund.com
 DOMAIN-SUFFIX,duxiaomantech.com
 DOMAIN-SUFFIX,dxm-cdn.com
 DOMAIN-SUFFIX,dxm-int.com
+DOMAIN-SUFFIX,dxmbaoxian.com
 DOMAIN-SUFFIX,dxmjinr.com
 DOMAIN-SUFFIX,dxmlcf.com
 DOMAIN-SUFFIX,dxmlcfintech.com
@@ -3898,6 +3961,7 @@ DOMAIN-SUFFIX,iflyink.com
 DOMAIN-SUFFIX,iflyrec.com
 DOMAIN-SUFFIX,iflysec.com
 DOMAIN-SUFFIX,iflytek.com
+DOMAIN-SUFFIX,voicecloud.cn
 DOMAIN-SUFFIX,xfyun.cn
 DOMAIN-SUFFIX,xunfei.cn
 
@@ -3907,10 +3971,10 @@ DOMAIN-SUFFIX,ets100.com
 # 智学网
 DOMAIN-SUFFIX,zhixue.com
 
-#畅言教育开放平台
+# 畅言教育开放平台
 DOMAIN-SUFFIX,changyan.com
 
-#科大讯飞AI学习机官网
+# 科大讯飞AI学习机官网
 DOMAIN-SUFFIX,xunfeixxj.com
 #end include:iflytek
 #include:jushuitan
@@ -4259,6 +4323,20 @@ DOMAIN-SUFFIX,euads-o.api.leiniao.com
 DOMAIN-SUFFIX,hwads-t.api.my7v.com
 DOMAIN-SUFFIX,testads.api.my7v.com
 #end include:tcl
+#include:trustasia
+# 亚数信息科技
+DOMAIN-SUFFIX,51ssl.cn
+DOMAIN-SUFFIX,51ssl.com
+DOMAIN-SUFFIX,geossl.cn
+DOMAIN-SUFFIX,litessl.cn
+DOMAIN-SUFFIX,litessl.com
+DOMAIN-SUFFIX,myssl-uri.com
+DOMAIN-SUFFIX,myssl.com
+DOMAIN-SUFFIX,trustasia.cn
+DOMAIN-SUFFIX,trustasia.com
+DOMAIN-SUFFIX,trustasia.com.cn
+DOMAIN-SUFFIX,trustasia.net
+#end include:trustasia
 #include:tongfang
 # 同方股份
 DOMAIN-SUFFIX,thtf.com.cn
@@ -4267,6 +4345,32 @@ DOMAIN-SUFFIX,tongfangpc.com
 # 机械革命
 DOMAIN-SUFFIX,mechrevo.com
 #end include:tongfang
+#include:wanmei
+# 完美世界
+# Note: There're some domains in data/steam, not here.
+DOMAIN-SUFFIX,laohu.com
+DOMAIN-SUFFIX,pwrd.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,wmsj.cn
+DOMAIN-SUFFIX,wmupd.com
+
+# 全历史
+DOMAIN-SUFFIX,allhistory.com
+# 成家相亲
+DOMAIN-SUFFIX,chengjiaxiangqin.cn
+# 完美语言
+DOMAIN-SUFFIX,perfectlingo.com
+# 完美世界院线
+DOMAIN-SUFFIX,pwcinema.com
+# 完美世界电竞
+DOMAIN-SUFFIX,pwesports.cn
+
+# 完美邮箱
+DOMAIN-SUFFIX,111.com
+DOMAIN-SUFFIX,88.com
+DOMAIN-SUFFIX,88y.cn
+DOMAIN-SUFFIX,email.cn
+#end include:wanmei
 #include:xunlei
 DOMAIN-SUFFIX,8uri.cn
 DOMAIN-SUFFIX,kanimg.com
@@ -4318,6 +4422,10 @@ DOMAIN-SUFFIX,allday.work
 DOMAIN-SUFFIX,cangpeng.com
 DOMAIN-SUFFIX,erp198.com
 DOMAIN-SUFFIX,sunrocks.cn
+## 知道创宇
+DOMAIN-SUFFIX,anquan.org
+DOMAIN-SUFFIX,knownsec.com
+DOMAIN-SUFFIX,yunaq.com
 ## 曹操出行
 DOMAIN-SUFFIX,caocao.com.cn
 DOMAIN-SUFFIX,caocaokeji.cn
@@ -4510,7 +4618,6 @@ DOMAIN-SUFFIX,365azw.com
 DOMAIN-SUFFIX,365dmp.com
 DOMAIN-SUFFIX,3733.com
 DOMAIN-SUFFIX,3d66.com
-DOMAIN-SUFFIX,3elife.net
 DOMAIN-SUFFIX,3h3.com
 DOMAIN-SUFFIX,3type.cn
 DOMAIN-SUFFIX,3yx.com
@@ -4590,7 +4697,6 @@ DOMAIN-SUFFIX,aldwx.com    #京ICP备17030349号-1
 DOMAIN-SUFFIX,alittle-tea.com
 DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,anfensi.com
-DOMAIN-SUFFIX,anquan.org
 DOMAIN-SUFFIX,anruan.com
 DOMAIN-SUFFIX,aotrip.net
 DOMAIN-SUFFIX,aoyou.com
@@ -4636,7 +4742,6 @@ DOMAIN-SUFFIX,bojianger.com
 DOMAIN-SUFFIX,bokecc.com
 DOMAIN-SUFFIX,boosj.com
 DOMAIN-SUFFIX,btgtravel.com
-DOMAIN-SUFFIX,btime.com
 DOMAIN-SUFFIX,cabbagebox.com
 DOMAIN-SUFFIX,caijingwu.com
 DOMAIN-SUFFIX,caiyun.com
@@ -4753,7 +4858,6 @@ DOMAIN-SUFFIX,douxie.com
 DOMAIN-SUFFIX,downcc.com
 DOMAIN-SUFFIX,downxia.com
 DOMAIN-SUFFIX,downyi.com
-DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,dreams-travel.com
 DOMAIN-SUFFIX,drivergenius.com
 DOMAIN-SUFFIX,duomai.com
@@ -4811,7 +4915,6 @@ DOMAIN-SUFFIX,gdliontech.com
 DOMAIN-SUFFIX,gdrc.com
 DOMAIN-SUFFIX,geektool.top    #极客Tool 蜀ICP备2024086015号-2
 DOMAIN-SUFFIX,gezida.com
-DOMAIN-SUFFIX,gfan.com
 DOMAIN-SUFFIX,globrand.com
 DOMAIN-SUFFIX,gm86.com
 DOMAIN-SUFFIX,gmz88.com
@@ -5427,9 +5530,6 @@ DOMAIN-SUFFIX,merach.com
 # 珠海太川云社区技术股份有限公司 粤ICP备10213128号
 DOMAIN-SUFFIX,taichuan.com
 DOMAIN-SUFFIX,taichuan.net
-
-# 中国石油支付宝小程序
-DOMAIN-SUFFIX,95504test.com
 
 # 北京鸿合智能系统股份有限公司
 DOMAIN-SUFFIX,hitevision-solutions.com

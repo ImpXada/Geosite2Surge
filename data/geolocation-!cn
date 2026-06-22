@@ -9542,7 +9542,7 @@ DOMAIN,s4.mzstatic.com
 DOMAIN,s5.mzstatic.com
 
 # The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
-# Revision: 888c12fd0708f2fafc562b0652429a25eef5b6ba
+# Revision: c3c9839e5e71f04fc170b5645d7a162631985e2d
 # Duplicates removed
 # According to the consensus in #503, do not include the domain name apps.apple.com directly.
 # Use in config file like this: "geosite:apple@cn"
@@ -9614,6 +9614,7 @@ DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
 DOMAIN,itunes-apple.com.akadns.net
 DOMAIN,itunes.apple.com
 DOMAIN,itunesconnect.apple.com
+DOMAIN,mensura.cdn-apple.com
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mesu.apple.com
@@ -13252,6 +13253,9 @@ DOMAIN-SUFFIX,meta.com
 # All .azure domains
 DOMAIN-SUFFIX,azure
 
+# Note: some 21Vianet (世纪互联) domains are taken from:
+# https://learn.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges-21vianet?view=o365-worldwide
+
 DOMAIN-SUFFIX,21vbc.com
 DOMAIN-SUFFIX,21vbluecloud.com
 DOMAIN-SUFFIX,21vbluecloud.net
@@ -13274,6 +13278,7 @@ DOMAIN-SUFFIX,azure-devices-int.net
 DOMAIN-SUFFIX,azure-devices-provisioning.cn
 DOMAIN-SUFFIX,azure-devices.cn
 DOMAIN-SUFFIX,azure-devices.net
+DOMAIN-SUFFIX,azure-mobile.cn
 DOMAIN-SUFFIX,azure-mobile.net
 DOMAIN-SUFFIX,azure-sphere.com
 DOMAIN-SUFFIX,azure-test.net
@@ -13351,11 +13356,14 @@ DOMAIN-SUFFIX,msn.net
 DOMAIN-SUFFIX,playfab.com
 DOMAIN-SUFFIX,playfabapi.com
 DOMAIN-SUFFIX,serverlesslibrary.net
+DOMAIN-SUFFIX,sovcloud-mx.cn
+DOMAIN-SUFFIX,sovcloud-static.cn
+DOMAIN-SUFFIX,sovcloud-usercontent.cn
+DOMAIN-SUFFIX,sovcloud.cn
 DOMAIN-SUFFIX,trafficmanager.cn
 DOMAIN-SUFFIX,trafficmanager.net
 DOMAIN-SUFFIX,trustcenter.cn
 DOMAIN-SUFFIX,tryfunctions.com
-DOMAIN-SUFFIX,unity3dcloud.cn
 DOMAIN-SUFFIX,windowsazure.cn
 DOMAIN-SUFFIX,windowsazure.com
 DOMAIN-SUFFIX,windowsazurestatus.cn
@@ -13792,7 +13800,6 @@ DOMAIN-SUFFIX,cortanaskills.com
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crossborderexpansion.com
-DOMAIN-SUFFIX,dcg.microsoft.com
 DOMAIN-SUFFIX,docs.com
 DOMAIN-SUFFIX,dynamics.cn
 DOMAIN-SUFFIX,dynamics.com
@@ -14003,9 +14010,16 @@ DOMAIN-SUFFIX,winhec.com
 DOMAIN-SUFFIX,winhec.net
 DOMAIN-SUFFIX,yammer.com
 
-# Skype CDN
+# CDN
 DOMAIN-SUFFIX,skype-edf.akadns.net
 DOMAIN-SUFFIX,skypedata.akadns.net
+DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
+DOMAIN,img-s-msn-com.akamaized.net
+DOMAIN,mwf-service.akamaized.net
+DOMAIN,officecdn-microsoft-com.akamaized.net
+DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
+DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
+DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
 
 # Ads/tracking
 DOMAIN-SUFFIX,clarity.ms
@@ -14015,46 +14029,61 @@ DOMAIN-SUFFIX,nelreports.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:microsoft@cn"
+DOMAIN-SUFFIX,dcg.microsoft.com    #2105
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,download.windowsupdate.com
+# The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/accelerated-domains.china.conf
+# sed -n -e '/\.microsoft\.com/p' -e '/\.office\.net/p' -e '/\.windowssearch\.com/p' -e '/\.windowsupdate\.com/p' ./accelerated-domains.china.conf
+# Revision: 8041ef38432a4ae92a769fbb280165b9d76d5ab0
+DOMAIN,azuremigrate.download.prss.microsoft.com
+DOMAIN,azuremigratetest.download.prss.microsoft.com
+DOMAIN,azurestackhub.download.prss.microsoft.com
+DOMAIN,azurestackhubuat.download.prss.microsoft.com
 DOMAIN,b.c2r.ts.cdn.office.net
-DOMAIN,bg.v4.a.dl.ws.microsoft.com
-DOMAIN,bg4.v4.a.dl.ws.microsoft.com
-DOMAIN,build.microsoft.com
-DOMAIN,cdn.marketplaceimages.windowsphone.com
+DOMAIN,cbdstest.download.prss.microsoft.com
 DOMAIN,cn.windowssearch.com
+DOMAIN,collaborate.download.prss.microsoft.com
+DOMAIN,collaborateppe.download.prss.microsoft.com
 DOMAIN,ctldl.windowsupdate.com
-DOMAIN,devblogs.microsoft.com
 DOMAIN,developer.microsoft.com
-DOMAIN,docs.microsoft.com
 DOMAIN,download.microsoft.com
 DOMAIN,download.visualstudio.microsoft.com
+DOMAIN,dreamspark.download.prss.microsoft.com
+DOMAIN,dreamsparkuat.download.prss.microsoft.com
 DOMAIN,f.c2r.ts.cdn.office.net
-DOMAIN,fs.microsoft.com
-DOMAIN,learn.microsoft.com
+DOMAIN,itacademy.download.prss.microsoft.com
+DOMAIN,itacademyuat.download.prss.microsoft.com
+DOMAIN,lex.download.prss.microsoft.com
+DOMAIN,lexuat.download.prss.microsoft.com
+DOMAIN,mbs.download.prss.microsoft.com
+DOMAIN,mpnbenefits.download.prss.microsoft.com
+DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
+DOMAIN,mpnbenefitsrtluat.download.prss.microsoft.com
+DOMAIN,msdn.download.prss.microsoft.com
+DOMAIN,msdprod-ad.download.prss.microsoft.com
+DOMAIN,msproduct.download.prss.microsoft.com
 DOMAIN,myvs.download.prss.microsoft.com
 DOMAIN,oemsoc.download.prss.microsoft.com
+DOMAIN,oemsocuat.download.prss.microsoft.com
 DOMAIN,officecdn.microsoft.com
-DOMAIN,res-1.cdn.office.net
-DOMAIN,res.cdn.office.net
+DOMAIN,officemkt.download.prss.microsoft.com
+DOMAIN,officemktuat.download.prss.microsoft.com
+DOMAIN,osrelease.download.prss.microsoft.com
+DOMAIN,rsm.download.prss.microsoft.com
 DOMAIN,sdx.microsoft.com
 DOMAIN,shell.cdn.office.net
 DOMAIN,software.download.prss.microsoft.com
 DOMAIN,statics.teams.cdn.office.net
+DOMAIN,storecorefulfillment.download.prss.microsoft.com
+DOMAIN,storeedge.microsoft.com
 DOMAIN,storeedgefd.dsx.mp.microsoft.com
+DOMAIN,surface.download.prss.microsoft.com
 DOMAIN,surface.downloads.prss.microsoft.com
+DOMAIN,vlportal.download.prss.microsoft.com
+DOMAIN,volic.download.prss.microsoft.com
 DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vz.download.prss.microsoft.com
-DOMAIN,wscont1.apps.microsoft.com
-DOMAIN,wscont2.apps.microsoft.com
-
-DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
-DOMAIN,img-s-msn-com.akamaized.net
-DOMAIN,mwf-service.akamaized.net
-DOMAIN,officecdn-microsoft-com.akamaized.net
-DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
-DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
-DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
+DOMAIN,windbg.download.prss.microsoft.com
 #end include:microsoft
 #include:mikrotik
 DOMAIN-SUFFIX,mikrotik.com

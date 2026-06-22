@@ -192,6 +192,8 @@ DOMAIN-SUFFIX,ynet.com.cn
 
 # 21世纪经济报
 DOMAIN-SUFFIX,21jingji.com
+# 三易生活
+DOMAIN-SUFFIX,3elife.net
 # 站长网
 DOMAIN-SUFFIX,admin5.com
 # 安徽财经网
@@ -210,6 +212,12 @@ DOMAIN-SUFFIX,bandao.cn
 DOMAIN-SUFFIX,bbtnews.com.cn
 # 鞭牛士
 DOMAIN-SUFFIX,bianews.com
+# 新京报
+DOMAIN-SUFFIX,bjnews.com.cn
+DOMAIN-SUFFIX,bkeconomy.com
+DOMAIN-SUFFIX,qianlong.com
+# 北京时间
+DOMAIN-SUFFIX,btime.com
 # 财经网
 DOMAIN-SUFFIX,caijing.com.cn
 # 财新网
@@ -219,6 +227,8 @@ DOMAIN-SUFFIX,cankaoxiaoxi.com
 DOMAIN-SUFFIX,ckxx.net
 # 电脑商情在线
 DOMAIN-SUFFIX,cbinews.com
+# 中国经济网
+DOMAIN-SUFFIX,ce.cn
 # 改革网
 DOMAIN-SUFFIX,cfgw.net.cn
 # 中国家电网
@@ -238,6 +248,9 @@ DOMAIN-SUFFIX,cnfolimg.com
 DOMAIN-SUFFIX,cnr.cn
 # 上海证券报
 DOMAIN-SUFFIX,cnstock.com
+# 陕西新闻网
+DOMAIN-SUFFIX,cnwest.com
+DOMAIN-SUFFIX,sxtvs.com
 # 重庆晨报/上游新闻
 DOMAIN-SUFFIX,cqcb.com
 # 重庆华龙网
@@ -269,6 +282,8 @@ DOMAIN-SUFFIX,dahe.cn
 # 大河报
 DOMAIN-SUFFIX,daheapp.com
 DOMAIN-SUFFIX,dahebao.cn
+# 广州日报大洋网
+DOMAIN-SUFFIX,dayoo.com
 # 读特新闻
 DOMAIN-SUFFIX,dutenews.com
 # 大智慧
@@ -286,8 +301,12 @@ DOMAIN-SUFFIX,dzwww.com
 DOMAIN-SUFFIX,eastday.com
 # 经济观察网
 DOMAIN-SUFFIX,eeo.com.cn
+# 爱活网
+DOMAIN-SUFFIX,evolife.cn
 # 超能网
 DOMAIN-SUFFIX,expreview.com
+# 东南网
+DOMAIN-SUFFIX,fjsen.com
 # FreeBuf 网络安全行业门户
 DOMAIN-SUFFIX,freebuf.com
 # 极客邦
@@ -295,6 +314,8 @@ DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,infoq.cn
 # 极客公园
 DOMAIN-SUFFIX,geekpark.net
+# 机锋网
+DOMAIN-SUFFIX,gfan.com
 # 光明日报
 DOMAIN-SUFFIX,gmdaily.cn
 DOMAIN-SUFFIX,gmw.cn
@@ -412,6 +433,8 @@ DOMAIN-SUFFIX,news.cn
 DOMAIN-SUFFIX,newsimg.cn
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,xinhuaxmt.com
+# 四川新闻网
+DOMAIN-SUFFIX,newssc.org
 # 奥一新闻
 DOMAIN-SUFFIX,oeeee.com
 # 维科网
@@ -446,6 +469,8 @@ DOMAIN-SUFFIX,qingdaonews.com
 DOMAIN-SUFFIX,qianzhan.com
 # 青岛之窗
 DOMAIN-SUFFIX,qingdaochina.org
+# 红网
+DOMAIN-SUFFIX,rednet.cn
 # 四川网络广播电视台
 DOMAIN-SUFFIX,scgchc.com
 DOMAIN-SUFFIX,sctv-tf.com
@@ -501,6 +526,9 @@ DOMAIN-SUFFIX,woshipm.com
 DOMAIN-SUFFIX,xhby.net
 # 西陆网
 DOMAIN-SUFFIX,xilu.com
+# 新民报
+DOMAIN-SUFFIX,xinmin.cn
+DOMAIN-SUFFIX,xinminweekly.com.cn
 # 新快报
 DOMAIN-SUFFIX,xkb.com.cn
 # 金羊网/羊城晚报
@@ -519,6 +547,8 @@ DOMAIN-SUFFIX,zgjtb.com
 DOMAIN-SUFFIX,zhichanli.com
 # 至顶网
 DOMAIN-SUFFIX,zhiding.cn
+# 浙江在线
+DOMAIN-SUFFIX,zjol.com.cn
 # 中关村在线
 DOMAIN-SUFFIX,zol-img.com.cn
 DOMAIN-SUFFIX,zol.com.cn

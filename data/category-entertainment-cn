@@ -359,10 +359,12 @@ DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,aliwx.com.cn
 DOMAIN-SUFFIX,aliwx.net
 DOMAIN-SUFFIX,ishuqi.com
+DOMAIN-SUFFIX,newstjk.com
 DOMAIN-SUFFIX,shuqi.com
 DOMAIN-SUFFIX,shuqiapi.com
 DOMAIN-SUFFIX,shuqiread.com
 DOMAIN-SUFFIX,shuqireader.com
+DOMAIN-SUFFIX,shuqistat.com
 DOMAIN-SUFFIX,sqreader.com
 #end include:shuqi
 #include:taihe
@@ -550,6 +552,9 @@ DOMAIN-SUFFIX,6rooms.com
 DOMAIN-SUFFIX,xiu123.cn
 # 动画巡礼
 DOMAIN-SUFFIX,anitabi.cn
+# 咔叽相机
+DOMAIN-SUFFIX,b612kaji.com
+DOMAIN-SUFFIX,kajicam.com
 # 暴风影音
 DOMAIN-SUFFIX,baofeng.com
 DOMAIN-SUFFIX,baofeng.net
@@ -604,8 +609,6 @@ DOMAIN-SUFFIX,inke.cn
 DOMAIN-SUFFIX,ikstatic.cn
 # 晋江文学城
 DOMAIN-SUFFIX,jjwxc.net
-# 咔叽相机
-DOMAIN-SUFFIX,kajicam.com
 # 酷匠网
 DOMAIN-SUFFIX,kjcdn.com
 DOMAIN-SUFFIX,kujiang.com

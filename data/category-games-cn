@@ -310,6 +310,11 @@ DOMAIN-SUFFIX,gameabc.com
 DOMAIN-SUFFIX,gamemei.com
 # Enhance Gaming
 DOMAIN-SUFFIX,heavenlywind.cc
+# 完美世界 (Note: geosite:wanmei contains more non-game domains)
+DOMAIN-SUFFIX,laohu.com
+DOMAIN-SUFFIX,wanmei.com
+DOMAIN-SUFFIX,wmsj.cn
+DOMAIN-SUFFIX,wmupd.com
 # 乐都网 浙ICP备2024091002号-2
 DOMAIN-SUFFIX,ledu.com
 # 龙图游戏 京ICP备11023195号
@@ -327,9 +332,6 @@ DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
 # 途游
 DOMAIN-SUFFIX,tuyoo.com
-# 完美世界
-DOMAIN-SUFFIX,wanmei.com
-DOMAIN-SUFFIX,wmsj.cn
 # Wine游戏助手 京ICP备18041936号
 DOMAIN-SUFFIX,winegame.net
 # 畅玩空间 冀ICP备20019223号

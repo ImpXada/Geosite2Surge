@@ -184,10 +184,12 @@ DOMAIN-SUFFIX,11222.cn
 DOMAIN-SUFFIX,aliwx.com.cn
 DOMAIN-SUFFIX,aliwx.net
 DOMAIN-SUFFIX,ishuqi.com
+DOMAIN-SUFFIX,newstjk.com
 DOMAIN-SUFFIX,shuqi.com
 DOMAIN-SUFFIX,shuqiapi.com
 DOMAIN-SUFFIX,shuqiread.com
 DOMAIN-SUFFIX,shuqireader.com
+DOMAIN-SUFFIX,shuqistat.com
 DOMAIN-SUFFIX,sqreader.com
 #end include:shuqi
 #include:teambition
@@ -196,8 +198,11 @@ DOMAIN-SUFFIX,teambition.net
 DOMAIN-SUFFIX,teambitionapis.com
 #end include:teambition
 #include:uc
+DOMAIN-SUFFIX,open-uc.cn
+DOMAIN-SUFFIX,uc-engine.cn
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,uc123.com
+DOMAIN-SUFFIX,ucfly.com
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uczzd.cn
 
@@ -292,16 +297,20 @@ DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,alibabacapital.com
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,alibabacorp.com
+DOMAIN-SUFFIX,alibabadesign.com
 DOMAIN-SUFFIX,alibabadoctor.com
 DOMAIN-SUFFIX,alibabafuturehotel.com
 DOMAIN-SUFFIX,alibabagroup.com
+DOMAIN-SUFFIX,alibabapictures.com
 DOMAIN-SUFFIX,alibabaplanet.com
 DOMAIN-SUFFIX,alibabaued.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alifanyi.com
+DOMAIN-SUFFIX,aligenie.com
 DOMAIN-SUFFIX,alihealth.cn
 DOMAIN-SUFFIX,alihealth.com.cn
 DOMAIN-SUFFIX,alihealth.hk
+DOMAIN-SUFFIX,alihive.com
 DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alikmd.com
 DOMAIN-SUFFIX,alimama.cn
@@ -346,11 +355,13 @@ DOMAIN-SUFFIX,dongting.com
 DOMAIN-SUFFIX,dratio.com
 DOMAIN-SUFFIX,emas-poc.com
 DOMAIN-SUFFIX,gongyi.xin
+DOMAIN-SUFFIX,hupan.com
 DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,iconfont.cn
 DOMAIN-SUFFIX,ics.design
 DOMAIN-SUFFIX,imgcook.com
 DOMAIN-SUFFIX,jhgtgb.com
+DOMAIN-SUFFIX,jiyoujia.com
 DOMAIN-SUFFIX,kanbox.com
 DOMAIN-SUFFIX,lazada.com
 DOMAIN-SUFFIX,liangxinyao.com
@@ -360,6 +371,7 @@ DOMAIN-SUFFIX,mappcloud.com
 DOMAIN-SUFFIX,mdeer.com
 DOMAIN-SUFFIX,mei.com
 DOMAIN-SUFFIX,miaostreet.com
+DOMAIN-SUFFIX,miaoya.cn
 DOMAIN-SUFFIX,mshare.cc
 DOMAIN-SUFFIX,nic.xin
 DOMAIN-SUFFIX,philanthropy.xin
@@ -369,6 +381,7 @@ DOMAIN-SUFFIX,pp.cn
 DOMAIN-SUFFIX,qingtingtrip.com
 DOMAIN-SUFFIX,rexpos.cn
 DOMAIN-SUFFIX,saee.org.cn
+DOMAIN-SUFFIX,shejijia.com
 DOMAIN-SUFFIX,shenjing.com
 DOMAIN-SUFFIX,sparenode.com
 DOMAIN-SUFFIX,supet.com
@@ -425,6 +438,7 @@ DOMAIN-SUFFIX,sm.cn
 
 # 淘宝
 DOMAIN-SUFFIX,1688.com
+DOMAIN-SUFFIX,duanqu.com
 DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,juhuasuan.com
 DOMAIN-SUFFIX,lingshoujia.com

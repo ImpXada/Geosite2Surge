@@ -77,6 +77,15 @@ DOMAIN-SUFFIX,antaq.com
 # 文心一言
 DOMAIN-SUFFIX,yiyan.baidu.com
 
+# DuMate
+DOMAIN-SUFFIX,dumate.cn
+
+# 秒哒
+DOMAIN-SUFFIX,miaoda.cn
+
+# MCP World
+DOMAIN-SUFFIX,mcpworld.com
+
 # 天工AI
 DOMAIN-SUFFIX,tiangong.cn
 
