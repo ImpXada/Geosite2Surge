@@ -299,6 +299,7 @@ DOMAIN-SUFFIX,ghe.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
@@ -483,8 +484,8 @@ DOMAIN-SUFFIX,microsoftreactor.info
 DOMAIN-SUFFIX,microsoftreactor.net
 DOMAIN-SUFFIX,microsoftreactor.org
 DOMAIN-SUFFIX,microsoftsilverlight.com
-DOMAIN-SUFFIX,microsoftsilverlight.org
 DOMAIN-SUFFIX,microsoftsilverlight.net
+DOMAIN-SUFFIX,microsoftsilverlight.org
 DOMAIN-SUFFIX,microsoftsqlserver.com
 DOMAIN-SUFFIX,mmdnn.com
 DOMAIN-SUFFIX,mono-project.com
@@ -502,18 +503,21 @@ DOMAIN-SUFFIX,sankie.net
 DOMAIN-SUFFIX,sqlserveronlinux.com
 DOMAIN-SUFFIX,timelinestoryteller.com
 DOMAIN-SUFFIX,uwpcommunitytoolkit.com
-DOMAIN-SUFFIX,visualstudio-staging.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,visualstudio.co
-DOMAIN-SUFFIX,visualstudio.co.uk
-DOMAIN-SUFFIX,visualstudio.eu
-DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
+DOMAIN-SUFFIX,visualstudio-staging.com
+DOMAIN-SUFFIX,visualstudio.co
+DOMAIN-SUFFIX,visualstudio.co.uk
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,visualstudio.eu
+DOMAIN-SUFFIX,visualstudio.net
 DOMAIN-SUFFIX,vsassets.io
-DOMAIN-SUFFIX,vscode.dev
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
+DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,xamarin.com
 
 DOMAIN,az764295.vo.msecnd.net
@@ -697,6 +701,7 @@ DOMAIN-SUFFIX,wpvip.com
 #end include:wordpress
 
 DOMAIN-SUFFIX,adventofcode.com
+DOMAIN-SUFFIX,almalinux.org
 DOMAIN-SUFFIX,alpinelinux.org
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,artixlinux.org
@@ -704,6 +709,7 @@ DOMAIN-SUFFIX,atom.io
 DOMAIN-SUFFIX,badgen.net
 DOMAIN-SUFFIX,bitvise.com
 DOMAIN-SUFFIX,bugsnag.com
+DOMAIN-SUFFIX,busybox.net
 DOMAIN-SUFFIX,centos.org
 DOMAIN-SUFFIX,chocolatey.org
 DOMAIN-SUFFIX,clojure.org
@@ -745,13 +751,14 @@ DOMAIN-SUFFIX,linuxmint.com
 DOMAIN-SUFFIX,lua.org
 DOMAIN-SUFFIX,lxqt-project.org
 DOMAIN-SUFFIX,macports.org
+DOMAIN-SUFFIX,manjaro.org
 DOMAIN-SUFFIX,mariadb.org
 DOMAIN-SUFFIX,mate-desktop.org
 DOMAIN-SUFFIX,mingw.org
 DOMAIN-SUFFIX,mobatek.net
 DOMAIN-SUFFIX,mpv.io
-DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,msys2.org
+DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,neovim.io
 DOMAIN-SUFFIX,netfilter.org
 DOMAIN-SUFFIX,newpipe.net
@@ -778,6 +785,7 @@ DOMAIN-SUFFIX,raspberrypi.org
 DOMAIN-SUFFIX,raspbian.org
 DOMAIN-SUFFIX,regex101.com
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,rockylinux.org
 DOMAIN-SUFFIX,rpmfusion.org
 DOMAIN-SUFFIX,scientificlinux.org
 DOMAIN-SUFFIX,scoop.sh
