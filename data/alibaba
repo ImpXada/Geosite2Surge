@@ -19,6 +19,11 @@ DOMAIN-SUFFIX,alibabacloud.com.my
 DOMAIN-SUFFIX,alibabacloud.com.sg
 DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,alicloud.com
+
+DOMAIN,account-cn.alibabacloud.com
+DOMAIN,api.alibabacloud.com
+DOMAIN,cn.alibabacloud.com
+DOMAIN,status.alibabacloud.com
 #end include:alibabacloud
 #include:aligames
 DOMAIN-SUFFIX,9game.cn
@@ -71,6 +76,10 @@ DOMAIN-SUFFIX,kunlunwe.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
 
+#865 #882 aliyuncs.com
+DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com

@@ -6,3 +6,8 @@ DOMAIN-SUFFIX,alibabacloud.com.my
 DOMAIN-SUFFIX,alibabacloud.com.sg
 DOMAIN-SUFFIX,alibabacloud.com.tw
 DOMAIN-SUFFIX,alicloud.com
+
+DOMAIN,account-cn.alibabacloud.com
+DOMAIN,api.alibabacloud.com
+DOMAIN,cn.alibabacloud.com
+DOMAIN,status.alibabacloud.com
