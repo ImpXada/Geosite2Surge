@@ -5,7 +5,11 @@ DOMAIN-SUFFIX,faradars.org
 DOMAIN-SUFFIX,git.ir
 DOMAIN-SUFFIX,learnby.ir
 DOMAIN-SUFFIX,maktabkhooneh.org
+DOMAIN-SUFFIX,newdars.com
 DOMAIN-SUFFIX,toplearn.com
+
+# Music
+DOMAIN-SUFFIX,melotar.com
 
 # Webinar
 DOMAIN-SUFFIX,done.ir

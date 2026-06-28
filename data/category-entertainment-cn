@@ -26,10 +26,6 @@ DOMAIN-SUFFIX,aixifan.com
 # Ads/tracking
 DOMAIN,apilog-web.acfun.cn
 #end include:acfun
-#include:acplay
-DOMAIN-SUFFIX,acplay.net
-DOMAIN-SUFFIX,dandanplay.com
-#end include:acplay
 #include:ciweimao
 DOMAIN-SUFFIX,ciweimao.com
 DOMAIN-SUFFIX,hbooker.com

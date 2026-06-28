@@ -76,13 +76,18 @@ DOMAIN-SUFFIX,aloys233.top    #蜀ICP备2023035383号-1
 DOMAIN-SUFFIX,fanmingming.com    #范明明's Blog 蒙ICP备18004194号
 DOMAIN-SUFFIX,huangyuhui.net    #粤ICP备18071565号-1
 DOMAIN-SUFFIX,lg3000.top    #立更君的壁纸博客 粤ICP备2021128603号-1
+DOMAIN-SUFFIX,misaka-net.top    #Misaka Network 浙ICP备2026032951号-1
+DOMAIN-SUFFIX,moliranran.com    #莫离然然
 DOMAIN-SUFFIX,mryys.cn
 DOMAIN-SUFFIX,mryys.com
 DOMAIN-SUFFIX,mysqil.com    #有希日记 粤ICP备 2021059948号
+DOMAIN-SUFFIX,pljzy.top    #ZY知识库 湘ICP备2024053728号
 DOMAIN-SUFFIX,skywt.cn    #浙 ICP 备 2021019606 号
 DOMAIN-SUFFIX,soulteary.com    #苏洋博客 晋ICP备13006057号-1
 DOMAIN-SUFFIX,tai3.cn    #粤ICP备2024275151号-1
+DOMAIN-SUFFIX,tianhw.top    #THW's Blog 鲁ICP备2026002442号-1
 DOMAIN-SUFFIX,topwd.top    #典典丹丹 桂ICP备19003645号-1
+DOMAIN-SUFFIX,vtdd.vip    #Zero 粤ICP备2025451620号
 DOMAIN-SUFFIX,zway.top    #longjuan's Blog 粤ICP备2020094784号-1
 #end include:category-blog-cn
 # Software development related
@@ -267,6 +272,7 @@ DOMAIN-SUFFIX,cocos.com
 DOMAIN-SUFFIX,ejoy.com
 DOMAIN-SUFFIX,jinrishici.com
 DOMAIN-SUFFIX,kaihong.com
+DOMAIN-SUFFIX,oend.net
 DOMAIN-SUFFIX,openvela.com
 DOMAIN-SUFFIX,php.cn
 DOMAIN-SUFFIX,pingcode.com
@@ -714,6 +720,10 @@ DOMAIN-SUFFIX,ynet.com.cn
 DOMAIN-SUFFIX,21jingji.com
 # 三易生活
 DOMAIN-SUFFIX,3elife.net
+# 奇艺事
+DOMAIN-SUFFIX,71shi.net
+DOMAIN-SUFFIX,goodq.top
+DOMAIN-SUFFIX,haowenti.net
 # 站长网
 DOMAIN-SUFFIX,admin5.com
 # 安徽财经网
@@ -2499,6 +2509,8 @@ DOMAIN-SUFFIX,dearedu.com
 DOMAIN-SUFFIX,dgjy.net
 # 海词词典
 DOMAIN-SUFFIX,dict.cn
+# 对分易
+DOMAIN-SUFFIX,duifene.com
 # 在职研究生教育信息网
 DOMAIN-SUFFIX,eduei.com
 # 中公
@@ -2551,6 +2563,8 @@ DOMAIN-SUFFIX,neoschool.com
 DOMAIN-SUFFIX,oldboyedu.com
 # 批改网
 DOMAIN-SUFFIX,pigai.org
+# 蜻蜓志愿
+DOMAIN-SUFFIX,qingtingai.net
 # 公考知识库
 DOMAIN-SUFFIX,saduck.top
 # 外研在线
@@ -2575,6 +2589,8 @@ DOMAIN-SUFFIX,zxxk.com
 DOMAIN-SUFFIX,yunzhuxue.com
 # “叶圣陶杯”全国中学生新作文大赛
 DOMAIN-SUFFIX,ystbds.com
+# 中国高校在线
+DOMAIN-SUFFIX,zggx100.com
 # 小站教育
 DOMAIN-SUFFIX,zhan.com
 # 智慧树
@@ -3462,6 +3478,7 @@ DOMAIN-SUFFIX,hecdn.net
 DOMAIN-SUFFIX,heweather.net
 DOMAIN-SUFFIX,qweather.com
 DOMAIN-SUFFIX,qweather.net
+DOMAIN-SUFFIX,qweatherapi.com
 #end include:qweather
 #include:renren
 DOMAIN-SUFFIX,renren.com
@@ -3551,6 +3568,8 @@ DOMAIN-SUFFIX,7moor.com
 DOMAIN-SUFFIX,air-matters.com
 ## Alook 浏览器
 DOMAIN-SUFFIX,alookweb.com
+## AniXPlayer
+DOMAIN-SUFFIX,anixplayer.net
 ## 安兔兔
 DOMAIN-SUFFIX,antutu.com
 DOMAIN-SUFFIX,antutu.net
@@ -4438,6 +4457,8 @@ DOMAIN-SUFFIX,vcgapi.com
 DOMAIN-SUFFIX,fnnas.com
 DOMAIN-SUFFIX,fnnas.net
 DOMAIN-SUFFIX,fnos.net
+## 咕咕数据
+DOMAIN-SUFFIX,gugudata.com
 ## 稿定（厦门）信息服务有限公司
 ### 花瓣网 闽ICP备2021013850号
 DOMAIN-SUFFIX,huaban.com
@@ -4530,6 +4551,10 @@ DOMAIN-SUFFIX,51kim.com
 DOMAIN-SUFFIX,zhuye.kim
 ## 乐游导航主页
 DOMAIN-SUFFIX,6-u.com
+## 磁力搜索
+DOMAIN-SUFFIX,cilisouou.com
+DOMAIN-SUFFIX,jigecili.com
+DOMAIN-SUFFIX,wsjqnmmrmv.world
 ## imsYY起始页
 DOMAIN-SUFFIX,imsyy.com
 ## Infinity Pro
@@ -4664,6 +4689,7 @@ DOMAIN-SUFFIX,818ps.com
 DOMAIN-SUFFIX,8264.com
 DOMAIN-SUFFIX,84399.com
 DOMAIN-SUFFIX,885.com
+DOMAIN-SUFFIX,8m2.net
 DOMAIN-SUFFIX,900.la
 DOMAIN-SUFFIX,900cha.com    #冀ICP备2024081752号-2
 DOMAIN-SUFFIX,917.com
@@ -5012,6 +5038,7 @@ DOMAIN-SUFFIX,iyunmu.com
 DOMAIN-SUFFIX,jb51.com
 DOMAIN-SUFFIX,jb51.net
 DOMAIN-SUFFIX,jduoduo.com    #粤ICP备2022046650号-1
+DOMAIN-SUFFIX,jfcoop.com
 DOMAIN-SUFFIX,jiameng.com
 DOMAIN-SUFFIX,jianbihua.com
 DOMAIN-SUFFIX,jiangningwater.com    #苏ICP备11072203号-1
@@ -5507,35 +5534,29 @@ DOMAIN-SUFFIX,zuhaowan.com
 DOMAIN-SUFFIX,zysou.com    #苏ICP备2024112174号-1
 DOMAIN-SUFFIX,zztfly.com
 
-# 建始网 鄂ICP备05004864号-1
-DOMAIN-SUFFIX,jsw118.com
-
-# 陕西城乡劳动就业网 陕ICP备19016945号-1
-DOMAIN-SUFFIX,sxcxldjy.com
-
-# 陕西建筑资质代办 陕ICP备17011269号
-DOMAIN-SUFFIX,shanxijianzhuzizhi.com
-
-# 纬横数据 鲁ICP备17051601号-1
-DOMAIN-SUFFIX,vhengdata.com
+# 布丁猫(岩池科技)
+DOMAIN-SUFFIX,bdcat.top    #黑ICP备2022002729号-2
+DOMAIN-SUFFIX,bdmozon.com    #黑ICP备2024018807号-1
 
 # 湖南智擎科技有限公司
 DOMAIN-SUFFIX,educoder.net
-DOMAIN-SUFFIX,tokcoder.com
+DOMAIN-SUFFIX,proj101.cn
 DOMAIN-SUFFIX,trustie.net
 
-# 浙江御鹿电子科技有限公司 麦瑞克健身设备 & 超燃脂APP 浙ICP备2021003090号-2
-DOMAIN-SUFFIX,merach.com
-
-# 珠海太川云社区技术股份有限公司 粤ICP备10213128号
-DOMAIN-SUFFIX,taichuan.com
-DOMAIN-SUFFIX,taichuan.net
+# 广州市雅望互联网服务有限公司
+DOMAIN-SUFFIX,gzyowin.com
 
 # 北京鸿合智能系统股份有限公司
 DOMAIN-SUFFIX,hitevision-solutions.com
 
 # 捷顺科技
 DOMAIN-SUFFIX,jslife.net
+
+# 建始网 鄂ICP备05004864号-1
+DOMAIN-SUFFIX,jsw118.com
+
+# 浙江御鹿电子科技有限公司 麦瑞克健身设备 & 超燃脂APP 浙ICP备2021003090号-2
+DOMAIN-SUFFIX,merach.com
 
 # 南海控股有限公司
 DOMAIN-SUFFIX,nanhaicorp.com
@@ -5547,25 +5568,24 @@ DOMAIN-SUFFIX,ozonabc.com
 DOMAIN-SUFFIX,qingping.co
 DOMAIN-SUFFIX,cleargrass.com
 
-# 布丁猫(岩池科技)
-# 黑ICP备2024018807号
-DOMAIN-SUFFIX,bdmozon.com
-DOMAIN-SUFFIX,bdmyandex.com
-# 黑ICP备2022002729号
-DOMAIN-SUFFIX,bdcat.top
-DOMAIN-SUFFIX,puddingcat.top
-
 # 海南东勤网络科技有限公司 琼ICP备18003843号
 DOMAIN-SUFFIX,qunliao.info
 
-# 陕ICP备2024035828号
-DOMAIN-SUFFIX,ao-x.ac.cn
+# 陕西建筑资质代办 陕ICP备17011269号
+DOMAIN-SUFFIX,shanxijianzhuzizhi.com
+
+# 陕西城乡劳动就业网 陕ICP备19016945号-1
+DOMAIN-SUFFIX,sxcxldjy.com
+
+# 珠海太川云社区技术股份有限公司 粤ICP备10213128号
+DOMAIN-SUFFIX,taichuan.com
+DOMAIN-SUFFIX,taichuan.net
+
+# 纬横数据 鲁ICP备17051601号-1
+DOMAIN-SUFFIX,vhengdata.com
 
 # 万集科技 京ICP备18036282号-2
 DOMAIN-SUFFIX,wanji.net.cn
-
-# 广州市雅望互联网服务有限公司
-DOMAIN-SUFFIX,gzyowin.com
 
 # 杭州烨彬科技有限公司 浙ICP备2024084590号
 DOMAIN-SUFFIX,yebinnet.com
