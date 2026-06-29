@@ -45,23 +45,31 @@ DOMAIN-SUFFIX,zhuque.in
 # Non-Chinese trackers
 DOMAIN-SUFFIX,myanonamouse.net
 DOMAIN-SUFFIX,nebulance.io
+DOMAIN-SUFFIX,torrentleech.cc
 DOMAIN-SUFFIX,torrentleech.org
 ## TODO: add annotations
+DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,bibliotik.me
 DOMAIN-SUFFIX,blutopia.cc
 DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,cinemaz.to
+DOMAIN-SUFFIX,digitalcore.club
 DOMAIN-SUFFIX,exoticaz.to
 DOMAIN-SUFFIX,filelist.io
+DOMAIN-SUFFIX,gazellegames.net
 DOMAIN-SUFFIX,hdbits.org
 DOMAIN-SUFFIX,iptorrents.com
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,jptv.club
 DOMAIN-SUFFIX,morethantv.me
+DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,passthepopcorn.me
 DOMAIN-SUFFIX,privatehd.to
+DOMAIN-SUFFIX,redacted.sh
+DOMAIN-SUFFIX,sportscult.org
+DOMAIN-SUFFIX,superbits.org
 DOMAIN-SUFFIX,uhdbits.org
 
 
