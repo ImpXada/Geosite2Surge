@@ -198,6 +198,8 @@ DOMAIN-SUFFIX,3elife.net
 DOMAIN-SUFFIX,71shi.net
 DOMAIN-SUFFIX,goodq.top
 DOMAIN-SUFFIX,haowenti.net
+# 中国军网
+DOMAIN-SUFFIX,81.cn
 # 站长网
 DOMAIN-SUFFIX,admin5.com
 # 安徽财经网
@@ -303,6 +305,8 @@ DOMAIN-SUFFIX,dzng.com
 DOMAIN-SUFFIX,dzwww.com
 # 东方网
 DOMAIN-SUFFIX,eastday.com
+# 亿邦动力
+DOMAIN-SUFFIX,ebrun.com
 # 经济观察网
 DOMAIN-SUFFIX,eeo.com.cn
 # 爱活网
@@ -410,6 +414,9 @@ DOMAIN-SUFFIX,kankanews.com
 DOMAIN-SUFFIX,kankannews.com
 DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,statickksmg.com
+# 中国科技网/科技日报
+DOMAIN-SUFFIX,kjrb.com.cn
+DOMAIN-SUFFIX,stdaily.com
 # 新智派
 DOMAIN-SUFFIX,knewsmart.com
 # 晚点
@@ -524,6 +531,8 @@ DOMAIN-SUFFIX,tidenews.com.cn
 # 动脉网
 DOMAIN-SUFFIX,vbdata.cn
 DOMAIN-SUFFIX,vcbeat.top
+# 中工网/工人日报社
+DOMAIN-SUFFIX,workercn.cn
 # 人人都是产品经理
 DOMAIN-SUFFIX,woshipm.com
 # 新华日报

@@ -253,6 +253,7 @@ DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.com.cn
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,imqq.com
+DOMAIN-SUFFIX,iot-tencent.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,qlivecdn.com
 DOMAIN-SUFFIX,qlogo.cn
@@ -278,11 +279,13 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,wechatpay.cn
 DOMAIN-SUFFIX,weishi.com
 DOMAIN-SUFFIX,weixin.com
+DOMAIN-SUFFIX,weixinsxy.com
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,wxaurl.cn
 DOMAIN-SUFFIX,wxcloudrun.com
 DOMAIN-SUFFIX,wxgateway.com
 DOMAIN-SUFFIX,wxlivecdn.com
+DOMAIN-SUFFIX,wxmpurl.cn
 
 # 腾讯视频海外版
 DOMAIN-SUFFIX,wetv.vip

@@ -92,11 +92,14 @@ DOMAIN-SUFFIX,123pan.cn
 DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,123panpay.com
 
+# 光鸭云盘
+DOMAIN-SUFFIX,guangyacdn.com
+DOMAIN-SUFFIX,guangyapan.com
+
 DOMAIN-SUFFIX,cloud.189.cn    #天翼云盘
 DOMAIN-SUFFIX,ctfile.com    #城通网盘
 DOMAIN-SUFFIX,feimaoyun.com    #飞猫盘
 DOMAIN-SUFFIX,filez.com    #联想企业网盘
-DOMAIN-SUFFIX,guangyapan.com    #光鸭云盘
 DOMAIN-SUFFIX,jianguoyun.com    #坚果云
 DOMAIN-SUFFIX,pan.baidu.com    #百度网盘
 DOMAIN-SUFFIX,pan.quark.cn    #夸克网盘

@@ -291,6 +291,9 @@ DOMAIN-SUFFIX,9xgame.com
 DOMAIN-SUFFIX,arcaea.cn
 # 《异象回声》游戏官网 沪ICP备2023010411号-1
 DOMAIN-SUFFIX,astral-vector.com
+# 橙光
+DOMAIN-SUFFIX,66rpg.com
+DOMAIN-SUFFIX,cgyouxi.com
 # 畅游 (sohu)
 DOMAIN-SUFFIX,changyou.com
 DOMAIN-SUFFIX,cy.com
@@ -321,6 +324,9 @@ DOMAIN-SUFFIX,ledu.com
 DOMAIN-SUFFIX,longtugame.com
 # 北京慕飞科技 京ICP备20006112号-2
 DOMAIN-SUFFIX,morefreegame.com
+# 途游
+DOMAIN-SUFFIX,nalrer.cn
+DOMAIN-SUFFIX,tuyoo.com
 # Phira
 DOMAIN-SUFFIX,phira.cn
 # 盛趣游戏 浙ICP备17039406号-1
@@ -330,11 +336,13 @@ DOMAIN-SUFFIX,zjshulong.com
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net
-# 途游
-DOMAIN-SUFFIX,tuyoo.com
 # Wine游戏助手 京ICP备18041936号
 DOMAIN-SUFFIX,winegame.net
 # 畅玩空间 冀ICP备20019223号
 DOMAIN-SUFFIX,wo1wan.com
 # 云蟾游戏 沪ICP备11009299号
 DOMAIN-SUFFIX,ycgame.com
+# 永劫无间
+DOMAIN-SUFFIX,yjwujian.cn
+# 燕云十六声
+DOMAIN-SUFFIX,yysls.cn

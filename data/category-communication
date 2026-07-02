@@ -195,3 +195,5 @@ DOMAIN-SUFFIX,whatsappbrand.com
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
 #end include:whatsapp
+
+DOMAIN-SUFFIX,botim.me

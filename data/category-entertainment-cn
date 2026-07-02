@@ -114,6 +114,9 @@ DOMAIN-SUFFIX,wohst8.com
 
 # 抖音支付
 DOMAIN-SUFFIX,douyinpay.com
+
+# 抖音开放平台
+DOMAIN-SUFFIX,open-douyin.com
 #end include:douyin
 #include:douyu
 DOMAIN-SUFFIX,douyu.com
