@@ -347,8 +347,9 @@ DOMAIN-SUFFIX,euads-o.api.leiniao.com
 DOMAIN-SUFFIX,hwads-t.api.my7v.com
 DOMAIN-SUFFIX,testads.api.my7v.com
 DOMAIN-SUFFIX,syh.zybang.com
-DOMAIN,o33249.ingest.sentry.io
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai.qualtrics.com
 DOMAIN,sentry.iptv.rt.ru
 DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net

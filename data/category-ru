@@ -634,6 +634,11 @@ DOMAIN-SUFFIX,nic.ru
 DOMAIN-SUFFIX,r01.ru
 DOMAIN-SUFFIX,sweb.ru
 #end include:nic-ru
+#include:positive-technologies
+DOMAIN-SUFFIX,ptcloud.ru
+DOMAIN-SUFFIX,ptsecurity.com
+DOMAIN-SUFFIX,standoff365.com
+#end include:positive-technologies
 #include:regru
 DOMAIN-SUFFIX,reg.cloud
 DOMAIN-SUFFIX,reg.com
@@ -665,6 +670,11 @@ DOMAIN-SUFFIX,vscale.blog
 DOMAIN-SUFFIX,vscale.io
 DOMAIN-SUFFIX,vscale.ru
 #end include:selectel
+#include:servicepipe
+# Digital Fraud Protection
+DOMAIN-SUFFIX,servicepipe.tech
+DOMAIN-SUFFIX,servicepipe.ru
+#end include:servicepipe
 #include:skyeng
 DOMAIN-SUFFIX,sky.pro
 DOMAIN-SUFFIX,skyeng.ru
@@ -1373,6 +1383,7 @@ DOMAIN-SUFFIX,dom.ru
 DOMAIN-SUFFIX,3ebra.net    #Zebra Net Bureau, web development agency
 DOMAIN-SUFFIX,apptrackpets.com    #Pet GPS tracker service (Yandex Cloud, reg.ru)
 DOMAIN-SUFFIX,flomni.com    #Omnichannel communications platform
+DOMAIN-SUFFIX,foto-planeta.com    #Photo encyclopedia of settlements
 DOMAIN-SUFFIX,gazfond-pn.ru    #Non-state pension fund GAZFOND pension savings
 DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
 DOMAIN-SUFFIX,litres.ru    #E-book and audiobook service
@@ -1383,6 +1394,7 @@ DOMAIN-SUFFIX,ognihome.com    #OGNI HOME resident portal
 DOMAIN-SUFFIX,pochta.ru    #Russian post
 DOMAIN-SUFFIX,ponyexpress.ru    #Courier delivery service
 DOMAIN-SUFFIX,qms.ru    #Russian internet speed testing service
+DOMAIN-SUFFIX,randomgodbot.com    #Telegram randomizer bot
 DOMAIN-SUFFIX,srv-hub.org    #Website buider
 DOMAIN-SUFFIX,t1.cloud    #Russian cloud storage provider
 DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)

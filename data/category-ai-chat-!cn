@@ -152,6 +152,7 @@ DOMAIN-SUFFIX,sora.com
 # CDN & API
 DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openaiassets.blob.core.windows.net
 DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 DOMAIN,openaicom.imgix.net
 DOMAIN,openaicomproductionae4b.blob.core.windows.net
@@ -159,8 +160,9 @@ DOMAIN,production-openaicom-storage.azureedge.net
 DOMAIN-WILDCARD,chatgpt-async-webps-prod-*-*.webpubsub.azure.com
 
 # tracking
-DOMAIN,o33249.ingest.sentry.io
 DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai.qualtrics.com
 
 # Advanced Voice
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
@@ -205,6 +207,10 @@ DOMAIN-SUFFIX,coderabbit.gallery.vsassets.io
 DOMAIN-SUFFIX,cohere.ai
 DOMAIN-SUFFIX,cohere.com
 
+# Copilot
+DOMAIN-SUFFIX,copilot.com
+DOMAIN-SUFFIX,copilot.microsoft.com
+
 # Jasper
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,jasper.ai
@@ -214,7 +220,6 @@ DOMAIN-SUFFIX,anythingllm.com
 DOMAIN-SUFFIX,arena.ai
 DOMAIN-SUFFIX,chutes.ai
 DOMAIN-SUFFIX,clawhub.ai
-DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,crewai.com
 DOMAIN-SUFFIX,devin.ai
 DOMAIN-SUFFIX,diabrowser.com
