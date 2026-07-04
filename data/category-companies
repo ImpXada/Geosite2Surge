@@ -950,7 +950,6 @@ DOMAIN-SUFFIX,itun.es
 DOMAIN-SUFFIX,itunbes.com
 DOMAIN-SUFFIX,ituneas.com
 DOMAIN-SUFFIX,itunes-apple.cn
-DOMAIN-SUFFIX,itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,itunes-radio.net
 DOMAIN-SUFFIX,itunes.ca
 DOMAIN-SUFFIX,itunes.co
@@ -981,6 +980,58 @@ DOMAIN-SUFFIX,itunesu.com
 DOMAIN-SUFFIX,itunesu.net
 DOMAIN-SUFFIX,iutunes.com
 DOMAIN-SUFFIX,wwwitunes.com
+
+DOMAIN-SUFFIX,itunes-apple.com.akadns.net
+DOMAIN-SUFFIX,itunes.apple.com
+
+# Domains with access point in China mainland
+# Avoid adding `[domain:]itunes.apple.com @cn` directly, as some subdomains not resolve to a cn IP address
+# See #2228 and #2259
+DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
+DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
+DOMAIN,aod-ssl.itunes.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,apptrailers.itunes.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,bookkeeper.itunes.apple.com
+DOMAIN,client-api.itunes.apple.com
+DOMAIN,cma.itunes.apple.com
+DOMAIN,downloaddispatch.itunes.apple.com
+DOMAIN,entitlements-edge.itunes.apple.com
+DOMAIN,fpinit.itunes.apple.com
+DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
+DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
+DOMAIN,inappcheck.itunes.apple.com
+DOMAIN,init.itunes.apple.com
+DOMAIN,iosapps.itunes.apple.com
+DOMAIN,misc-assets.itunes.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,myapp.itunes.apple.com
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,osxapps.itunes.apple.com
+DOMAIN,pd-nk.itunes.apple.com
+DOMAIN,pd.itunes.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,se-edge.itunes.apple.com
+DOMAIN,se2.itunes.apple.com
+DOMAIN,search.itunes.apple.com
+DOMAIN,sf-api-token-service.itunes.apple.com
+DOMAIN,sp.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN,su.itunes.apple.com
+DOMAIN,sync.itunes.apple.com
+DOMAIN,tf-feedback.itunes.apple.com
+DOMAIN,universal-activity-service.itunes.apple.com
+DOMAIN,upp.itunes.apple.com
+
+# The rules below are from https://github.com/felixonmars/dnsmasq-china-list/blob/master/apple.china.conf
+DOMAIN,bag-cdn.itunes-apple.com.akadns.net
+DOMAIN,iosapps.itunes.g.aaplimg.com
+DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
+DOMAIN,itunes-apple.com.akadns.net
+DOMAIN,itunes.apple.com
+DOMAIN,itunesconnect.apple.com
+DOMAIN,osxapps.itunes.g.aaplimg.com
 #end include:itunes
 
 # All .apple domains
@@ -1453,9 +1504,6 @@ DOMAIN-SUFFIX,appleone.website
 # Shazam
 DOMAIN-SUFFIX,shazam.com
 
-# Apple Health Studies
-DOMAIN,ingest.apple-studies.com    #采集心率、运动、听力等传感器数据，以及用户填报的研究问卷，将其加密后上传至 Apple 后端
-
 # Others
 DOMAIN-SUFFIX,1to1computing.com.au
 DOMAIN-SUFFIX,1to1conference.com.au
@@ -1496,6 +1544,7 @@ DOMAIN-SUFFIX,apple-livephotoskit.com
 DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-maps.cn
 DOMAIN-SUFFIX,apple-online.com
+DOMAIN-SUFFIX,apple-studies.com
 DOMAIN-SUFFIX,apple-usa.net
 DOMAIN-SUFFIX,appleafrica.com
 DOMAIN-SUFFIX,appleantilles.com
@@ -1729,61 +1778,27 @@ DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:apple@cn"
-DOMAIN,amp-api-edge-lb-cn.itunes-apple.com.akadns.net
-DOMAIN,amp-api-edge-lb.itunes-apple.com.akadns.net
 DOMAIN,amp-api-edge.apps.apple.com
 DOMAIN,amp-api-edge.music.apple.com
 DOMAIN,amp-api-search-edge.apps.apple.com
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,amp-api.music.apple.com
-DOMAIN,aod-ssl.itunes.apple.com
-DOMAIN,aod.itunes.apple.com
 DOMAIN,api-edge.apps.apple.com
-DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,auth.music.apple.com
-DOMAIN,bag.itunes.apple.com
-DOMAIN,bookkeeper.itunes.apple.com
-DOMAIN,client-api.itunes.apple.com
-DOMAIN,cma.itunes.apple.com
 DOMAIN,communities.apple.com
 DOMAIN,discussionschinese.apple.com
-DOMAIN,downloaddispatch.itunes.apple.com
 DOMAIN,fides-pol.apple.com
 DOMAIN,gspe11-2-cn-ssl.ls.apple.com
 DOMAIN,gspe12-cn-ssl.ls.apple.com
 DOMAIN,gspe85-cn-ssl.ls.apple.com
-DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
-DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
-DOMAIN,inappcheck.itunes.apple.com
 DOMAIN,init.gc-lb.apple.com.akadns.net
 DOMAIN,init.gc.apple.com
-DOMAIN,init.itunes.apple.com
-DOMAIN,iosapps.itunes.apple.com
 DOMAIN,js-cdn.music.apple.com
 DOMAIN,km.support.apple.com
 DOMAIN,maps.apple.com
-DOMAIN,misc-assets.itunes.apple.com
 DOMAIN,musicstatus.music.apple.com
-DOMAIN,mvod.itunes.apple.com
-DOMAIN,myapp.itunes.apple.com
-DOMAIN,np-edge.itunes.apple.com
-DOMAIN,osxapps.itunes.apple.com
-DOMAIN,pd-nk.itunes.apple.com
-DOMAIN,pd.itunes.apple.com
-DOMAIN,play.itunes.apple.com
 DOMAIN,play.music.apple.com
-DOMAIN,se-edge.itunes.apple.com
-DOMAIN,se2.itunes.apple.com
-DOMAIN,search.itunes.apple.com
-DOMAIN,sf-api-token-service.itunes.apple.com
-DOMAIN,sp.itunes.apple.com
 DOMAIN,speedysub.music.apple.com
-DOMAIN,streamingaudio.itunes.apple.com
-DOMAIN,su.itunes.apple.com
-DOMAIN,sync.itunes.apple.com
-DOMAIN,tf-feedback.itunes.apple.com
-DOMAIN,universal-activity-service.itunes.apple.com
-DOMAIN,upp.itunes.apple.com
 DOMAIN,www.support.apple.com
 
 # regexp:^a[1-5]\.mzstatic\.com$ @cn
@@ -1853,7 +1868,6 @@ DOMAIN,appldnld.apple.com
 DOMAIN,appldnld.g.aaplimg.com
 DOMAIN,appleid.cdn-apple.com
 DOMAIN,apps.mzstatic.com
-DOMAIN,bag-cdn.itunes-apple.com.akadns.net
 DOMAIN,cds-cdn.v.aaplimg.com
 DOMAIN,cds.apple.com
 DOMAIN,cds.apple.com.akadns.net
@@ -1904,14 +1918,9 @@ DOMAIN,init-p01st.push.apple.com
 DOMAIN,init-s01st-lb.push-apple.com.akadns.net
 DOMAIN,init-s01st.push.apple.com
 DOMAIN,init.ess.apple.com
-DOMAIN,iosapps.itunes.g.aaplimg.com
 DOMAIN,ipcdn.apple.com
 DOMAIN,iphone-ld.apple.com
 DOMAIN,iphone-ld.origin-apple.com.akadns.net
-DOMAIN,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net
-DOMAIN,itunes-apple.com.akadns.net
-DOMAIN,itunes.apple.com
-DOMAIN,itunesconnect.apple.com
 DOMAIN,mensura.cdn-apple.com
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
@@ -1920,7 +1929,6 @@ DOMAIN,ml.cdn-apple.com
 DOMAIN,music.apple.com
 DOMAIN,oscdn.apple.com
 DOMAIN,oscdn.origin-apple.com.akadns.net
-DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN,pancake.apple.com
 DOMAIN,pba0.apple.com
 DOMAIN,probe.siri.apple.com
@@ -5542,6 +5550,7 @@ DOMAIN-SUFFIX,graph.whatsapp.com
 DOMAIN-SUFFIX,graph.whatsapp.net
 #end include:whatsapp
 
+DOMAIN-SUFFIX,atmeta.com
 DOMAIN-SUFFIX,llama.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
@@ -5568,6 +5577,7 @@ DOMAIN-SUFFIX,azk8s.cn
 DOMAIN-SUFFIX,aznbcontent.cn
 DOMAIN-SUFFIX,aztask.cn
 DOMAIN-SUFFIX,azure-api.cn
+DOMAIN-SUFFIX,azure-api.net
 DOMAIN-SUFFIX,azure-apihub.cn
 DOMAIN-SUFFIX,azure-automation.cn
 DOMAIN-SUFFIX,azure-connectedvehicles-stage.cn
@@ -5616,6 +5626,7 @@ DOMAIN-SUFFIX,azuresandbox.cn
 DOMAIN-SUFFIX,azureserviceprofiler.com
 DOMAIN-SUFFIX,azuresmartspaces.net
 DOMAIN-SUFFIX,azurestackvalidation.com
+DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,azurewebsites.net
 DOMAIN-SUFFIX,b2clogin.cn
 DOMAIN-SUFFIX,b3itech.cn
@@ -5742,6 +5753,7 @@ DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
 
 # Copilot
+DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN,location.microsoft.com

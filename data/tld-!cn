@@ -1,5 +1,6 @@
 # References:
 # https://icannwiki.org/Country_code_top-level_domain
+# https://www.iana.org/domains/root/db
 # https://www.101domain.com/branded_domains.htm
 
 ## DO NOT RE-INTRODUCE!
@@ -239,7 +240,6 @@ DOMAIN-SUFFIX,pl    #Poland
 DOMAIN-SUFFIX,pm    #Saint-Pierre and Miquelon
 DOMAIN-SUFFIX,pn    #Pitcairn Islands
 DOMAIN-SUFFIX,pr    #Puerto Rico
-DOMAIN-SUFFIX,ps    #Gaza Strip (Gaza)
 DOMAIN-SUFFIX,ps    #Palestine
 DOMAIN-SUFFIX,pt    #Portugal
 DOMAIN-SUFFIX,py    #Paraguay
@@ -262,7 +262,6 @@ DOMAIN-SUFFIX,sl    #Sierra Leone
 DOMAIN-SUFFIX,sm    #San Marino
 DOMAIN-SUFFIX,sn    #Senegal
 DOMAIN-SUFFIX,so    #Somalia
-DOMAIN-SUFFIX,so    #Somaliland
 DOMAIN-SUFFIX,sr    #Suriname
 DOMAIN-SUFFIX,ss    #South Sudan
 DOMAIN-SUFFIX,st    #São Tomé and Príncipe
@@ -476,10 +475,8 @@ DOMAIN-SUFFIX,woodside    #Woodside Petroleum Limited
 DOMAIN-SUFFIX,zara    #Inditex, SA
 
 # Miscellaneous Domains
-DOMAIN-SUFFIX,africamagic    #Electronic Media Network Limited
 DOMAIN-SUFFIX,agakhan    #Aga Khan Foundation
 DOMAIN-SUFFIX,akdn    #Aga Khan Foundation
-DOMAIN-SUFFIX,bar    #A place which provide liquor
 DOMAIN-SUFFIX,bharti    #Bharti Enterprises
 DOMAIN-SUFFIX,bingo    #Bingo
 DOMAIN-SUFFIX,casa    #Casa (Home)
@@ -503,7 +500,6 @@ DOMAIN-SUFFIX,style    #though the comment actually seems to be about .tattoo
 DOMAIN-SUFFIX,sucks    #Vox Populi Registry
 DOMAIN-SUFFIX,tattoo    #Tattoo
 DOMAIN-SUFFIX,vana    #Scripps Networks Interactive, Inc.
-DOMAIN-SUFFIX,virgin    #Virgin Enterprises Limited
 DOMAIN-SUFFIX,vodka    #Alcohol
 DOMAIN-SUFFIX,wine    #Alcohol
 DOMAIN-SUFFIX,wme    #William Morris Endeavor Entertainment, LLC
@@ -778,6 +774,7 @@ DOMAIN-SUFFIX,amazon    #Technology Domains
 DOMAIN-SUFFIX,aol    #AOL Inc.
 DOMAIN-SUFFIX,aws    #Amazon
 DOMAIN-SUFFIX,azure    #Microsoft
+DOMAIN-SUFFIX,bing    #Microsoft
 DOMAIN-SUFFIX,chrome    #Google
 DOMAIN-SUFFIX,cisco    #Cisco Technology, Inc.
 DOMAIN-SUFFIX,dclk    #Google
@@ -838,7 +835,6 @@ DOMAIN-SUFFIX,richardli    #Pacific Century Asset Management (HK) Limited
 DOMAIN-SUFFIX,ricoh    #Ricoh Company, Ltd.
 DOMAIN-SUFFIX,rogers    #Rogers Communications Partnership
 DOMAIN-SUFFIX,sakura    #Sakura Internet Inc.
-DOMAIN-SUFFIX,sas    #Scandinavian Airlines System Group
 DOMAIN-SUFFIX,sfr    #Societe Francaise du Radiotelephone
 DOMAIN-SUFFIX,shaw    #Shaw Cablesystems G.P.
 DOMAIN-SUFFIX,skype    #Microsoft

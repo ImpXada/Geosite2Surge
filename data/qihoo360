@@ -27,6 +27,12 @@ DOMAIN-SUFFIX,wztsy.com
 DOMAIN-SUFFIX,yiwanzhushou.com
 #end include:starworld
 
+# TLDs
+DOMAIN-SUFFIX,anquan
+DOMAIN-SUFFIX,shouji
+DOMAIN-SUFFIX,xihuan
+DOMAIN-SUFFIX,yun
+
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360.net
