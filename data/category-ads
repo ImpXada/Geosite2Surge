@@ -209,3 +209,6 @@ DOMAIN-SUFFIX,logs.chelaile.net.cn
 # 航旅纵横
 DOMAIN-SUFFIX,analytics.umetrip.com
 DOMAIN-SUFFIX,sensors.umetrip.com.cn
+
+# Freestar ads
+DOMAIN-SUFFIX,pub.network
