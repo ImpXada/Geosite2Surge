@@ -454,6 +454,10 @@ DOMAIN-SUFFIX,nudevista.es
 DOMAIN-SUFFIX,nudevista.net
 DOMAIN-SUFFIX,nudevista.vip
 #end include:nudevista
+#include:pawchive
+DOMAIN-SUFFIX,pawchive.pw
+DOMAIN-SUFFIX,pawchive.st
+#end include:pawchive
 #include:picacg
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz

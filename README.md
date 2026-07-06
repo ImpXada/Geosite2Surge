@@ -1029,6 +1029,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | paskoocheh | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/paskoocheh |
 | pastebin | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pastebin |
 | patreon | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/patreon |
+| pawchive | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pawchive |
 | paypal | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/paypal |
 | pbs | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pbs |
 | pccw | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/pccw |
