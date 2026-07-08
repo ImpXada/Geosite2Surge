@@ -82,6 +82,16 @@ DOMAIN-SUFFIX,biligame.net
 # From reverse 1999
 DOMAIN-SUFFIX,sl916.com
 #end include:bluepoch-games
+#include:changyou
+# 搜狐畅游
+DOMAIN-SUFFIX,17173.com
+DOMAIN-SUFFIX,17173cdn.com
+DOMAIN-SUFFIX,changyou.com
+DOMAIN-SUFFIX,cy.com
+DOMAIN-SUFFIX,playcool.com
+DOMAIN-SUFFIX,yeyou.com
+DOMAIN-SUFFIX,yeyoucdn.com
+#end include:changyou
 #include:cowlevel
 DOMAIN-SUFFIX,cowlevel.net
 DOMAIN-SUFFIX,cdncl.net
@@ -294,10 +304,6 @@ DOMAIN-SUFFIX,astral-vector.com
 # 橙光
 DOMAIN-SUFFIX,66rpg.com
 DOMAIN-SUFFIX,cgyouxi.com
-# 畅游 (sohu)
-DOMAIN-SUFFIX,changyou.com
-DOMAIN-SUFFIX,cy.com
-DOMAIN-SUFFIX,playcool.com
 # 终末地-协议终端
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -327,12 +333,22 @@ DOMAIN-SUFFIX,morefreegame.com
 # 途游
 DOMAIN-SUFFIX,nalrer.cn
 DOMAIN-SUFFIX,tuyoo.com
+# 叠纸游戏
+DOMAIN-SUFFIX,nikkigames.cn
+DOMAIN-SUFFIX,nikkigames.com.cn
+DOMAIN-SUFFIX,papegames.cn
+DOMAIN-SUFFIX,papegames.com
 # Phira
 DOMAIN-SUFFIX,phira.cn
 # 盛趣游戏 浙ICP备17039406号-1
 DOMAIN-SUFFIX,sdo.com
 DOMAIN-SUFFIX,shengqugames.com
 DOMAIN-SUFFIX,zjshulong.com
+# 贪玩游戏
+DOMAIN-SUFFIX,tanwan.com
+DOMAIN-SUFFIX,twyx.cn
+DOMAIN-SUFFIX,twyxh.com
+DOMAIN-SUFFIX,zx.com
 # 沪ICP备18041304号-1
 DOMAIN-SUFFIX,tgpro.top
 DOMAIN-SUFFIX,tgprocs.net

@@ -240,6 +240,30 @@ DOMAIN-SUFFIX,stat.y.qq.com
 DOMAIN-SUFFIX,tmead.y.qq.com
 DOMAIN-SUFFIX,tmeadcomm.y.qq.com
 #end include:tencent-tme
+#include:yuewen
+
+DOMAIN-SUFFIX,aireads.cn
+DOMAIN-SUFFIX,chatdrama.cn
+DOMAIN-SUFFIX,chatdrama.net
+DOMAIN-SUFFIX,chatqidian.cn
+DOMAIN-SUFFIX,chatqidian.net
+DOMAIN-SUFFIX,chattext.cn
+DOMAIN-SUFFIX,chatwrite.net
+DOMAIN-SUFFIX,chatxiaoxiang.com
+DOMAIN-SUFFIX,chatyuewen.cn
+DOMAIN-SUFFIX,dishu3.com
+DOMAIN-SUFFIX,hongxiu.com
+DOMAIN-SUFFIX,qdmm.com
+DOMAIN-SUFFIX,qidian.com
+DOMAIN-SUFFIX,readnovel.com
+DOMAIN-SUFFIX,rongshuxia.com
+DOMAIN-SUFFIX,tingbook.com
+DOMAIN-SUFFIX,xs.cn
+DOMAIN-SUFFIX,xs8.cn
+DOMAIN-SUFFIX,xxsy.net
+DOMAIN-SUFFIX,xxsypro.com
+DOMAIN-SUFFIX,yuewen.com
+#end include:yuewen
 
 DOMAIN-SUFFIX,qq.xn--fiqs8s    #qq.中国
 DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s    #腾讯.中国
