@@ -18,6 +18,7 @@ DOMAIN-SUFFIX,moliranran.com    #莫离然然
 DOMAIN-SUFFIX,mryys.cn
 DOMAIN-SUFFIX,mryys.com
 DOMAIN-SUFFIX,mysqil.com    #有希日记 粤ICP备 2021059948号
+DOMAIN-SUFFIX,mystery0.vip    #蜀ICP备19031621号-1
 DOMAIN-SUFFIX,pljzy.top    #ZY知识库 湘ICP备2024053728号
 DOMAIN-SUFFIX,runningcheese.com    #奔跑中的奶酪 粤ICP备18015107号
 DOMAIN-SUFFIX,skywt.cn    #浙 ICP 备 2021019606 号
@@ -307,6 +308,9 @@ DOMAIN-SUFFIX,szlcsc.com
 DOMAIN-SUFFIX,zs-jlc.com
 DOMAIN-SUFFIX,zxhgroup.com
 #end include:jlc
+
+# 聆思科技
+DOMAIN-SUFFIX,listenai.com
 
 # 移远通信
 DOMAIN-SUFFIX,quecmall.cn
@@ -1527,6 +1531,9 @@ DOMAIN-SUFFIX,luhua.cn
 # 双汇集团
 DOMAIN-SUFFIX,shuanghui.net
 
+# 米村拌饭
+DOMAIN-SUFFIX,micun.com
+
 # Tracking
 DOMAIN-SUFFIX,logger.qmai.cn
 DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
@@ -2657,6 +2664,8 @@ DOMAIN-SUFFIX,taikangzhijia.com
 DOMAIN-SUFFIX,tkhealthcare.com
 #end include:taikang
 
+## 北汽金融
+DOMAIN-SUFFIX,baicaf.com
 ## 航财通·校园付
 DOMAIN-SUFFIX,cc-pay.cn
 ## 易鑫金融
@@ -3674,6 +3683,8 @@ DOMAIN-SUFFIX,burningvocabulary.com
 DOMAIN-SUFFIX,centuryenglish.com
 # 中国地质大学 继续教育学院
 DOMAIN-SUFFIX,cugbonline.cn
+# 大连财经学院 大财校园
+DOMAIN-SUFFIX,dcshfu.com
 # 第二教育网
 DOMAIN-SUFFIX,dearedu.com
 # 莞教通
@@ -5385,6 +5396,10 @@ DOMAIN-SUFFIX,xsbapp.cn
 ## 凯迪仕
 DOMAIN-SUFFIX,juziwulian.com
 DOMAIN-SUFFIX,kaadas.com
+## UGREEN绿联
+DOMAIN-SUFFIX,lulian.cn
+DOMAIN-SUFFIX,ugnas.cloud
+DOMAIN-SUFFIX,ugnas.com
 ## 微步在线 / 步刻科技
 DOMAIN-SUFFIX,onedns.net
 #safeskill.cn
@@ -5855,6 +5870,7 @@ DOMAIN-SUFFIX,gdliontech.com
 DOMAIN-SUFFIX,gdrc.com
 DOMAIN-SUFFIX,geektool.top    #极客Tool 蜀ICP备2024086015号-2
 DOMAIN-SUFFIX,gezida.com
+DOMAIN-SUFFIX,gifpay.com    #苏ICP备2021037684号-1
 DOMAIN-SUFFIX,globrand.com
 DOMAIN-SUFFIX,gm86.com
 DOMAIN-SUFFIX,gmz88.com
@@ -5916,6 +5932,7 @@ DOMAIN-SUFFIX,hongsanban.com
 DOMAIN-SUFFIX,hongyuanqh.com
 DOMAIN-SUFFIX,houdao.com
 DOMAIN-SUFFIX,houyuantuan.com
+DOMAIN-SUFFIX,hprtupgrade.com    #闽ICP备17017244号-4
 DOMAIN-SUFFIX,hteacher.net
 DOMAIN-SUFFIX,huashengdaili.com
 DOMAIN-SUFFIX,huize.com
@@ -5938,8 +5955,10 @@ DOMAIN-SUFFIX,im-cc.com
 DOMAIN-SUFFIX,imacos.top    #黑苹果屋 滇ICP备20000138号-1
 DOMAIN-SUFFIX,imgcdc.com
 DOMAIN-SUFFIX,imooc.com
+DOMAIN-SUFFIX,indeedpower.com    #沪ICP备17014357号-3
 DOMAIN-SUFFIX,indienova.com
 DOMAIN-SUFFIX,infini-fantasy.com    #沪ICP备2025147287号-3
+DOMAIN-SUFFIX,iposl.com    #冀ICP备2025135750号-4
 DOMAIN-SUFFIX,iranshao.com
 DOMAIN-SUFFIX,irs01.com
 DOMAIN-SUFFIX,istoreos.com    #粤ICP备20024441号-9
@@ -6233,6 +6252,8 @@ DOMAIN-SUFFIX,tao123.com
 DOMAIN-SUFFIX,taoche.com
 DOMAIN-SUFFIX,te5.com
 DOMAIN-SUFFIX,tenxcloud.com
+DOMAIN-SUFFIX,tggfl.com    #粤ICP备20037988号-1
+DOMAIN-SUFFIX,thispx.com    #粤ICP备2021020067号-2
 DOMAIN-SUFFIX,thmnet.com    #粤ICP备10240765号-2
 DOMAIN-SUFFIX,tianlailive.com
 DOMAIN-SUFFIX,tianlala.com
@@ -6244,6 +6265,7 @@ DOMAIN-SUFFIX,tingyun.com
 DOMAIN-SUFFIX,titanar.com
 DOMAIN-SUFFIX,tjjt360.com
 DOMAIN-SUFFIX,tmcdn.net
+DOMAIN-SUFFIX,tmwanba.com    #渝ICP备20006035号-4
 DOMAIN-SUFFIX,tobosu.com
 DOMAIN-SUFFIX,tom.com
 DOMAIN-SUFFIX,tongdun.net
