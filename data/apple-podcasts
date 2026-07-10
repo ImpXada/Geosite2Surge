@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,applepodcasts.com
+
+DOMAIN-SUFFIX,podcasts.apple.com
+
+# Domains and services below are available in China mainland
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com

@@ -746,6 +746,7 @@ DOMAIN-SUFFIX,mariadb.org
 DOMAIN-SUFFIX,mate-desktop.org
 DOMAIN-SUFFIX,mingw.org
 DOMAIN-SUFFIX,mobatek.net
+DOMAIN-SUFFIX,motocms.com
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,mysql.com
@@ -804,6 +805,7 @@ DOMAIN-SUFFIX,ziglang.org
 DOMAIN-SUFFIX,zsh.org
 
 # WordPress plugins
+DOMAIN-SUFFIX,crocoblock.com
 DOMAIN-SUFFIX,elegantthemes.com
 DOMAIN-SUFFIX,hivepress.io
 DOMAIN-SUFFIX,motopress.com

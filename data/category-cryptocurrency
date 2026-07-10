@@ -4,6 +4,11 @@
 DOMAIN-SUFFIX,asproex.com
 DOMAIN-SUFFIX,asproexapi.com
 #end include:asproex
+#include:bestchange
+DOMAIN-SUFFIX,bestchange.com
+DOMAIN-SUFFIX,bestchange.net
+DOMAIN-SUFFIX,bestchange.ru
+#end include:bestchange
 #include:binance
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.charity
@@ -235,6 +240,7 @@ DOMAIN-SUFFIX,cryptomus.com
 DOMAIN-SUFFIX,curve.fi
 DOMAIN-SUFFIX,cyberx.com
 DOMAIN-SUFFIX,debank.com
+DOMAIN-SUFFIX,delets.online
 DOMAIN-SUFFIX,dogecoin.com
 DOMAIN-SUFFIX,drpc.org
 DOMAIN-SUFFIX,dydx.exchange
@@ -262,11 +268,16 @@ DOMAIN-SUFFIX,mexcsensors.com
 DOMAIN-SUFFIX,mytokenapi.com
 DOMAIN-SUFFIX,nodereal.io
 DOMAIN-SUFFIX,oasis.io
+DOMAIN-SUFFIX,onemoment.cc
 DOMAIN-SUFFIX,onfinality.io
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,osl.com
 DOMAIN-SUFFIX,paxful.com
+DOMAIN-SUFFIX,payget.pro
+DOMAIN-SUFFIX,platov.co
 DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,ramon.cash
+DOMAIN-SUFFIX,ramon.money
 DOMAIN-SUFFIX,ripple.com
 DOMAIN-SUFFIX,rsk.co
 DOMAIN-SUFFIX,satoshilabs.com
