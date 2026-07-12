@@ -553,7 +553,6 @@ DOMAIN-SUFFIX,icphoto.cn
 DOMAIN-SUFFIX,iluckysf.net
 DOMAIN-SUFFIX,itmanager.club
 DOMAIN-SUFFIX,itoutiaoliving.com
-DOMAIN-SUFFIX,jianying.com
 DOMAIN-SUFFIX,jokecommunity.cn
 DOMAIN-SUFFIX,jokecommunity.com
 DOMAIN-SUFFIX,jokecommunity.net
@@ -660,6 +659,13 @@ DOMAIN-SUFFIX,zjgslb.com
 DOMAIN-SUFFIX,zlinkurl.cn
 
 DOMAIN,bytedance.map.fastly.net
+
+# 即梦/剪映
+DOMAIN-SUFFIX,jianying.com
+DOMAIN-SUFFIX,jimeng.com
+DOMAIN-SUFFIX,vlabimg.com
+DOMAIN-SUFFIX,vlabstatic.com
+DOMAIN-SUFFIX,vlabvod.com
 
 # 今日头条
 DOMAIN-SUFFIX,toutiao.com

@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,56img.com
 
+# 快站
+DOMAIN-SUFFIX,kuaizhan.com
+
 # Ads/tracking
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com

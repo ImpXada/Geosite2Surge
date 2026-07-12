@@ -601,6 +601,8 @@ DOMAIN-SUFFIX,scala-lang.org
 DOMAIN-SUFFIX,scala-sbt.org
 #end include:scala
 #include:sentry
+DOMAIN-SUFFIX,getsentry.com
+DOMAIN-SUFFIX,sentry.dev
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sentry-cdn.com
 #end include:sentry

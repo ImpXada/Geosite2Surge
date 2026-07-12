@@ -150,6 +150,9 @@ DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,56img.com
 
+# 快站
+DOMAIN-SUFFIX,kuaizhan.com
+
 # Ads/tracking
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,ads.sohu.com
@@ -250,6 +253,9 @@ DOMAIN-SUFFIX,ce.cn
 DOMAIN-SUFFIX,cfgw.net.cn
 # 中国家电网
 DOMAIN-SUFFIX,cheaa.com
+# 潇湘晨报
+DOMAIN-SUFFIX,chenshipin.com
+DOMAIN-SUFFIX,xxcb.cn
 # AET 电子技术应用
 DOMAIN-SUFFIX,chinaaet.com
 # 天极网
@@ -258,9 +264,16 @@ DOMAIN-SUFFIX,tianjimedia.com
 DOMAIN-SUFFIX,yesky.com
 # 中国发展网
 DOMAIN-SUFFIX,chinadevelopment.com.cn
+# 四川日报
+DOMAIN-SUFFIX,chuanbaoguancha.cn
+DOMAIN-SUFFIX,scol.com.cn
+DOMAIN-SUFFIX,scdaily.cn
 # 中金在线
 DOMAIN-SUFFIX,cnfol.com
 DOMAIN-SUFFIX,cnfolimg.com
+# 荆楚网/湖北日报
+DOMAIN-SUFFIX,cnhubei.com
+DOMAIN-SUFFIX,hubeidaily.net
 # 央广网
 DOMAIN-SUFFIX,cnr.cn
 # 上海证券报
@@ -328,6 +341,8 @@ DOMAIN-SUFFIX,expreview.com
 DOMAIN-SUFFIX,fjsen.com
 # FreeBuf 网络安全行业门户
 DOMAIN-SUFFIX,freebuf.com
+# 极客网
+DOMAIN-SUFFIX,fromgeek.com
 # 极客邦
 DOMAIN-SUFFIX,geekbang.org
 DOMAIN-SUFFIX,infoq.cn
@@ -491,6 +506,8 @@ DOMAIN-SUFFIX,qingdaonews.com
 DOMAIN-SUFFIX,qianzhan.com
 # 青岛之窗
 DOMAIN-SUFFIX,qingdaochina.org
+# 泉州晚报
+DOMAIN-SUFFIX,qzwb.com
 # 红网
 DOMAIN-SUFFIX,rednet.cn
 # 四川网络广播电视台
@@ -505,6 +522,10 @@ DOMAIN-SUFFIX,secrss.com
 DOMAIN-SUFFIX,sfccn.com
 # 商业新知
 DOMAIN-SUFFIX,shangyexinzhi.com
+# 上海教育传媒网
+DOMAIN-SUFFIX,shedunews.net
+# 遂宁新闻网
+DOMAIN-SUFFIX,snxw.com
 # 奇客资讯网
 DOMAIN-SUFFIX,solidot.org
 # 速途网

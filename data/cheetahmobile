@@ -1,8 +1,12 @@
+# 猎豹移动
+DOMAIN-SUFFIX,cheetahfun.com
 DOMAIN-SUFFIX,cmcm.com
 DOMAIN-SUFFIX,cmcmcdn.com
 DOMAIN-SUFFIX,liebao.cn
 
-# Antivirus
+# Products
+DOMAIN-SUFFIX,drivergenius.com
 DOMAIN-SUFFIX,duba.com
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,ijinshan.com
+DOMAIN-SUFFIX,keniu.com

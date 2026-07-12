@@ -304,6 +304,11 @@ DOMAIN-SUFFIX,astral-vector.com
 # 橙光
 DOMAIN-SUFFIX,66rpg.com
 DOMAIN-SUFFIX,cgyouxi.com
+# 多益网络
+DOMAIN-SUFFIX,duoyi.com
+DOMAIN-SUFFIX,duoyigroup.cn
+DOMAIN-SUFFIX,duoyiwangluo.com
+DOMAIN-SUFFIX,ygduoyi.com
 # 终末地-协议终端
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -317,6 +322,9 @@ DOMAIN-SUFFIX,fxt365.com
 DOMAIN-SUFFIX,gameabc.com
 # 游戏魅 合肥启云软件 皖B2-20160087-3
 DOMAIN-SUFFIX,gamemei.com
+# 乐元素
+DOMAIN-SUFFIX,happyelements.com
+DOMAIN-SUFFIX,leyuansu.com
 # Enhance Gaming
 DOMAIN-SUFFIX,heavenlywind.cc
 # 完美世界 (Note: geosite:wanmei contains more non-game domains)
