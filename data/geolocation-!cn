@@ -143,6 +143,7 @@ DOMAIN-SUFFIX,manuscdn.com
 # Main domain
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaistatsig.com
@@ -4554,11 +4555,6 @@ DOMAIN-SUFFIX,avxlive.icu
 DOMAIN-SUFFIX,xsava.xyz
 DOMAIN-SUFFIX,zavat.pw
 #end include:avaxhome
-#include:espressif
-DOMAIN-SUFFIX,espressif.com
-DOMAIN-SUFFIX,esp32.com
-DOMAIN-SUFFIX,esp8266.com
-#end include:espressif
 #include:familymart
 DOMAIN-SUFFIX,famifun.com.tw
 DOMAIN-SUFFIX,family.co.jp
