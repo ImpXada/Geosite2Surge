@@ -577,9 +577,6 @@ DOMAIN-SUFFIX,gle
 # All .gmail domains
 DOMAIN-SUFFIX,gmail
 
-# All .goo domains
-DOMAIN-SUFFIX,goo
-
 # All .goog domains
 DOMAIN-SUFFIX,goog
 

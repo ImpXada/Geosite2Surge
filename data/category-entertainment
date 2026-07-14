@@ -504,9 +504,6 @@ DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
 #end include:itchio
 #include:konami
-# All .konami domains
-DOMAIN-SUFFIX,konami
-
 DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kiwi.jp
@@ -1711,6 +1708,9 @@ DOMAIN,osxapps.itunes.g.aaplimg.com
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,yfsp.tv
 #end include:iyf
+#include:kick
+DOMAIN-SUFFIX,kick.com
+#end include:kick
 #include:kingkonglive
 DOMAIN-SUFFIX,kingkong.com.tw
 DOMAIN-SUFFIX,kingkongapp.com

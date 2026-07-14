@@ -243,7 +243,6 @@ DOMAIN-SUFFIX,omsk.ru    #Omsk Region
 DOMAIN-SUFFIX,orb.ru    #Orenburg Region
 DOMAIN-SUFFIX,oryol.ru    #Orel Region
 DOMAIN-SUFFIX,penza.ru    #Penza Region
-DOMAIN-SUFFIX,psk    #Pskov's local TLD
 DOMAIN-SUFFIX,psk.ru    #Pskov Region
 DOMAIN-SUFFIX,pskov.ru    #Pskov Region
 DOMAIN-SUFFIX,rnd.ru    #Rostov-on-Don City, Rostov Region
@@ -927,7 +926,6 @@ DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
 DOMAIN-SUFFIX,alfadirect.ru
 DOMAIN-SUFFIX,myapelsin.ru
-DOMAIN-SUFFIX,domain:alfabank.oavdo.amc
 
 # BBR
 DOMAIN-SUFFIX,bbr.ru

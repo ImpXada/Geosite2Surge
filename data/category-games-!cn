@@ -442,9 +442,6 @@ DOMAIN-SUFFIX,itch.io
 DOMAIN-SUFFIX,itch.zone
 #end include:itchio
 #include:konami
-# All .konami domains
-DOMAIN-SUFFIX,konami
-
 DOMAIN-SUFFIX,573.jp
 DOMAIN-SUFFIX,kgisystems.com
 DOMAIN-SUFFIX,kiwi.jp
