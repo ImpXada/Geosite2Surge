@@ -838,6 +838,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | ligastavok | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ligastavok |
 | lighter | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lighter |
 | lihkg | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lihkg |
+| likee | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/likee |
 | limelight | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/limelight |
 | linakesi | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/linakesi |
 | line | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/line |
