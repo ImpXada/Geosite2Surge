@@ -53,6 +53,7 @@ DOMAIN-SUFFIX,azuredns-prd.info
 DOMAIN-SUFFIX,azuredns-prd.org
 DOMAIN-SUFFIX,azureedge-test.net
 DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azureedge.us
 DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurehdinsight.cn
 DOMAIN-SUFFIX,azureiotcentral.com
@@ -195,6 +196,7 @@ DOMAIN-SUFFIX,renovacionoffice.com
 DOMAIN-SUFFIX,sprinklesapp.com
 
 # Copilot
+DOMAIN-SUFFIX,copilot-stg.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.com
 DOMAIN-SUFFIX,copilot.microsoft.com

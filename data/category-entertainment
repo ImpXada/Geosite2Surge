@@ -1797,6 +1797,7 @@ DOMAIN,agb9r0ad.qllfkl.com
 #end include:likee
 #include:manhuagui
 DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,mhgui.com
 #end include:manhuagui
 #include:metacritic
 DOMAIN-SUFFIX,metacritic.com
