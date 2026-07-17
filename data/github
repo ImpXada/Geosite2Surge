@@ -1,3 +1,4 @@
+#include:github-copilot
 DOMAIN-SUFFIX,githubcopilot.com
 
 DOMAIN,copilot-proxy.githubusercontent.com
@@ -10,6 +11,7 @@ DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
 #end include:github-copilot
+#include:npmjs
 DOMAIN-SUFFIX,npm.community
 DOMAIN-SUFFIX,npmjs.com
 DOMAIN-SUFFIX,npmjs.org

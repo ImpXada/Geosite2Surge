@@ -1,109 +1,5 @@
 # This list contains scholarly domains that don't have access point in China Mainland.
 
-#include:category-scholar-hk
-# This list contains scholarly domains that in HK
-
-#include:cityu-hk
-# City University of Hong Kong (CityU)
-DOMAIN-SUFFIX,cityu.hk
-DOMAIN-SUFFIX,cityu.edu.hk
-
-# https://www.whois.com/whois/cityu.hk
-# 城大.香港
-DOMAIN-SUFFIX,xn--uis44a.xn--j6w193g
-
-# https://www.whois.com/whois/cityu.edu.hk
-# 城市大學-香港.教育.香港
-DOMAIN-SUFFIX,xn----fr0b94b15d2ue8q7a1o3e.xn--wcvs22d.xn--j6w193g
-#end include:cityu-hk
-#include:cuhk
-# The Chinese University of Hong Kong (CUHK)
-DOMAIN-SUFFIX,cuhk.hk
-DOMAIN-SUFFIX,cuhk.edu.hk
-# 中大.香港 / 中文大學.香港
-DOMAIN-SUFFIX,xn--mxtq18a.hk
-DOMAIN-SUFFIX,xn--mxtq18a.xn--j6w193g
-DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.hk
-DOMAIN-SUFFIX,xn--fiqs8s1byzqyvl.xn--j6w193g
-# 香港中文大學.香港
-DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.hk
-DOMAIN-SUFFIX,xn--pssu7cv61ahwcb1p2yk.xn--j6w193g
-#end include:cuhk
-#include:eduhk
-# The Education University of Hong Kong (EdUHK)
-DOMAIN-SUFFIX,eduhk.hk
-DOMAIN-SUFFIX,eduhk.edu.hk
-# 教大.香港 / 教育大學.香港
-DOMAIN-SUFFIX,xn--wcv22d.hk
-DOMAIN-SUFFIX,xn--wcv22d.xn--j6w193g
-DOMAIN-SUFFIX,xn--wcvs22d1m.hk
-DOMAIN-SUFFIX,xn--wcvs22d1m.xn--j6w193g
-# 香港教育大學.香港
-DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.hk
-DOMAIN-SUFFIX,xn--pssu7cv61af1tcs59bnvd.xn--j6w193g
-#end include:eduhk
-#include:hkbu
-# Hong Kong Baptist University (HKBU)
-DOMAIN-SUFFIX,hkbu.hk
-DOMAIN-SUFFIX,hkbu.edu.hk
-# 浸大.香港 / 浸會大學.香港
-DOMAIN-SUFFIX,xn--gdt08a.hk
-DOMAIN-SUFFIX,xn--gdt08a.xn--j6w193g
-DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.hk
-DOMAIN-SUFFIX,xn--fiqs8s1bxp3anr7a.xn--j6w193g
-# 香港浸會大學.香港
-DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.hk
-DOMAIN-SUFFIX,xn--pssu7cv61ahw8aq79bztd.xn--j6w193g
-#end include:hkbu
-#include:hku
-# The University of Hong Kong (HKU)
-DOMAIN-SUFFIX,hku.hk
-DOMAIN-SUFFIX,hku.edu.hk
-
-# https://www.whois.com/whois/hku.hk
-# 香港大學.HK / .香港
-DOMAIN-SUFFIX,xn--pssu7cv61af44b.hk
-DOMAIN-SUFFIX,xn--pssu7cv61af44b.xn--j6w193g
-#end include:hku
-#include:hkust
-# The Hong Kong University of Science and Technology
-DOMAIN-SUFFIX,hkust.hk
-DOMAIN-SUFFIX,hkust.edu.hk
-
-# https://www.whois.com/whois/hkust.hk
-# 香港科技大學.HK /.香港
-DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.hk
-DOMAIN-SUFFIX,xn--pssu7ci2j23mp9ny48b.xn--j6w193g
-#end include:hkust
-#include:polyu
-# The Hong Kong Polytechnic University
-DOMAIN-SUFFIX,polyu.hk
-DOMAIN-SUFFIX,polyu.edu.hk
-# xxxx-polyu.edu.hk (such as cpce-polyu.edu.hk)
-DOMAIN-SUFFIX,cpce-polyu.edu.hk
-DOMAIN-SUFFIX,speed-polyu.edu.hk
-DOMAIN-SUFFIX,hkcc-polyu.edu.hk
-# keyword:-polyu.hk
-# keyword:-polyu.edu.hk
-
-# https://www.whois.com/whois/polyu.edu.hk
-# 理工大學.教育.香港(Bundled but not reachable)
-# xn--pssu7cgzco90b.xn--wcvs22d.xn--j6w193g
-
-# https://www.whois.com/whois/polyu.hk
-# 香港-理工大學.香港(Bundled but not reachable)
-# xn----5b1b34e6wdxz4al6hzt2e.xn--j6w193g
-#end include:polyu
-
-# https://www.hkdnr.hk/en/register/eligibility-required-documents/
-# https://www.jucc.edu.hk/shared-services-platforms/
-# https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/institutions/index.html
-
-DOMAIN-SUFFIX,edu.hk
-
-# 教育.香港
-DOMAIN-SUFFIX,xn--wcvs22d.xn--j6w193g
-#end include:category-scholar-hk
 #include:category-scholar-ir
 # Iranian scholar websites
 
@@ -183,18 +79,6 @@ DOMAIN-SUFFIX,ac.uk
 DOMAIN-SUFFIX,apa.org
 DOMAIN-SUFFIX,psyccareers.com
 #end include:apa
-#include:clarivate
-# Clarivate Analytics is a company that owns and operates a collection of subscription-based services focused largely on analytics, including scientific and academic research, patent analytics, regulatory standards, trademark protection, pharmaceutical and biotechnology intelligence, domain brand protection and intellectual property management.
-
-#include:sci
-DOMAIN-SUFFIX,newisiknowledge.com
-DOMAIN-SUFFIX,isiknowledge.com
-#end include:sci
-
-DOMAIN-SUFFIX,clarivate.com
-DOMAIN-SUFFIX,webofknowledge.com
-DOMAIN-SUFFIX,webofscience.com
-#end include:clarivate
 #include:doi
 DOMAIN-SUFFIX,doi.org
 DOMAIN-SUFFIX,doi.info

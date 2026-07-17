@@ -1,3 +1,4 @@
+#include:category-mooc-cn
 DOMAIN-SUFFIX,chinesemooc.org
 DOMAIN-SUFFIX,cnmooc.org
 DOMAIN-SUFFIX,icourse163.org
@@ -12,37 +13,45 @@ DOMAIN,opencourse.pku.edu.cn
 DOMAIN,study.163.com
 #end include:category-mooc-cn
 
+#include:17zuoye
 DOMAIN-SUFFIX,17zuoye.cn
 DOMAIN-SUFFIX,17zuoye.com
 DOMAIN-SUFFIX,17zuoye.net
 #end include:17zuoye
+#include:applysquare
 DOMAIN-SUFFIX,applysquare.com
 DOMAIN-SUFFIX,applysquare.net
 #end include:applysquare
+#include:hugecore
 DOMAIN-SUFFIX,hugecore.net
 DOMAIN-SUFFIX,shareintelli.com
 
 # MOJi辞書
 DOMAIN-SUFFIX,mojidict.com
 #end include:hugecore
+#include:hujiang
 DOMAIN-SUFFIX,cctalk.com
 DOMAIN-SUFFIX,hjapi.com
 DOMAIN-SUFFIX,hjfile.cn
 DOMAIN-SUFFIX,hujiang.com
 DOMAIN-SUFFIX,yeshj.com
 #end include:hujiang
+#include:koolearn
 DOMAIN-SUFFIX,koocdn.com
 DOMAIN-SUFFIX,koolearn.com
 DOMAIN-SUFFIX,koopass.com
 #end include:koolearn
+#include:schoopia
 # 翻转校园 河南昱荣教育科技有限公司 豫ICP备2021021028号
 DOMAIN-SUFFIX,schoopia.com
 # 同学派 翻转校园app内置服务
 DOMAIN-SUFFIX,tongxuepie.com
 #end include:schoopia
+#include:shanbay
 DOMAIN-SUFFIX,baydn.com
 DOMAIN-SUFFIX,shanbay.com
 #end include:shanbay
+#include:xueersi
 # 学而思
 DOMAIN-SUFFIX,100tal.com
 DOMAIN-SUFFIX,aoshu.com
@@ -57,6 +66,7 @@ DOMAIN-SUFFIX,youjiao.com
 DOMAIN-SUFFIX,zhongkao.com
 DOMAIN-SUFFIX,zuowen.com
 #end include:xueersi
+#include:yuanfudao
 DOMAIN-SUFFIX,banmaaike.com
 DOMAIN-SUFFIX,xiaoyuankousuan.com
 DOMAIN-SUFFIX,ybccode.com
@@ -76,6 +86,7 @@ DOMAIN-SUFFIX,fenbilantian.com
 DOMAIN-SUFFIX,edu.cn
 
 # 雨课堂
+#include:yuketang
 DOMAIN-SUFFIX,rainclassroom.com
 DOMAIN-SUFFIX,yuketang.cn
 #end include:yuketang

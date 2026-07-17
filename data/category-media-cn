@@ -125,52 +125,6 @@ DOMAIN-SUFFIX,win7china.com
 DOMAIN-SUFFIX,win8china.com
 DOMAIN-SUFFIX,zuihuimai.com
 #end include:ruanmei
-#include:sohu
-# All .sohu domains
-DOMAIN-SUFFIX,sohu
-
-#include:changyou
-# 搜狐畅游
-DOMAIN-SUFFIX,17173.com
-DOMAIN-SUFFIX,17173cdn.com
-DOMAIN-SUFFIX,changyou.com
-DOMAIN-SUFFIX,cy.com
-DOMAIN-SUFFIX,playcool.com
-DOMAIN-SUFFIX,yeyou.com
-DOMAIN-SUFFIX,yeyoucdn.com
-#end include:changyou
-
-DOMAIN-SUFFIX,focus-img.cn
-DOMAIN-SUFFIX,focus.cn
-DOMAIN-SUFFIX,itc.cn
-DOMAIN-SUFFIX,sohu.com
-DOMAIN-SUFFIX,sohucs.com
-
-# 56网
-DOMAIN-SUFFIX,56.com
-DOMAIN-SUFFIX,56img.com
-
-# 快站
-DOMAIN-SUFFIX,kuaizhan.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,adnet.sohu.com
-DOMAIN-SUFFIX,ads.sohu.com
-DOMAIN-SUFFIX,adv-sv-show.focus.cn
-DOMAIN-SUFFIX,adv-sv-stat.focus.cn
-DOMAIN-SUFFIX,assp.sohu.com
-DOMAIN-SUFFIX,bdu.focus.cn
-DOMAIN-SUFFIX,fpb.sohu.com
-DOMAIN-SUFFIX,imp.go.sohu.com
-DOMAIN-SUFFIX,m.aty.sohu.com
-DOMAIN-SUFFIX,p.aty.sohu.com
-DOMAIN-SUFFIX,pv.hd.sohu.com
-DOMAIN-SUFFIX,pv.sohu.com
-DOMAIN-SUFFIX,qpb.sohu.com
-DOMAIN-SUFFIX,qpb1.sohu.com
-DOMAIN-SUFFIX,reke.at.sohu.com
-DOMAIN-SUFFIX,track.sohu.com
-#end include:sohu
 #include:tmtpost
 # Domains belong to 北京灵动新程信息科技有限公司 (京ICP备13040123号)
 

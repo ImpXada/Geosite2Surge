@@ -55,19 +55,23 @@ DOMAIN-SUFFIX,rugpt.io
 DOMAIN-SUFFIX,tokenator.top
 #end include:category-ai-ru
 #include:category-betting-ru
+#include:betboom
 DOMAIN-SUFFIX,betboom.ru
 DOMAIN-SUFFIX,mobile-bb.com
 #end include:betboom
+#include:fonbet
 DOMAIN-SUFFIX,bk6bba-resources.com
 DOMAIN-SUFFIX,bk6bba-resources.ru
 DOMAIN-SUFFIX,fon.bet
 DOMAIN-SUFFIX,fon.promo
 #end include:fonbet
+#include:ligastavok
 DOMAIN-SUFFIX,ligadobra.ru
 DOMAIN-SUFFIX,ligastavok-csr.ru
 DOMAIN-SUFFIX,ligastavok.ru
 DOMAIN-SUFFIX,sozvezdie-dobra.ru
 #end include:ligastavok
+#include:winline
 DOMAIN-SUFFIX,win-line.ru
 DOMAIN-SUFFIX,winline.ru
 DOMAIN-SUFFIX,winlinebet.ru
@@ -279,6 +283,203 @@ DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
 # Regional health services
 DOMAIN-SUFFIX,zdrav10.ru    #Republic of Karelia
 #end include:category-gov-ru
+#include:category-media-ru
+# This file contains Russian media *based in Russia*, i.e. not prosecuted by the state
+#include:rossiyasegodnya
+# Rossiya Segodnya (lit. 'Russia Today') media group (Federal State Unitary Enterprise MIA 'Russia Today')
+
+DOMAIN-SUFFIX,jinrieluosi.cn
+DOMAIN-SUFFIX,pressria.ru
+DOMAIN-SUFFIX,rossiyasegodnya.com
+DOMAIN-SUFFIX,xn--c1acbl2abdlkab1og.xn--p1ai    #россиясегодня.рф
+
+# Media brands
+
+## Arctic.ru
+DOMAIN-SUFFIX,arctic.ru
+
+## Baltnews
+DOMAIN-SUFFIX,baltnews.com
+DOMAIN-SUFFIX,baltnews.lt
+
+## InoSMI
+DOMAIN-SUFFIX,inosmi.ru
+
+## Prime
+DOMAIN-SUFFIX,1prime.ru
+
+## RIA Novosti
+DOMAIN-SUFFIX,ria.ru
+
+## Sputnik
+DOMAIN-SUFFIX,radiosputnik.ria.ru
+DOMAIN-SUFFIX,radiosputnik.ru
+DOMAIN-SUFFIX,sputnikglobe.com
+DOMAIN-SUFFIX,sputnikimages.com
+DOMAIN-SUFFIX,sputnikmediabank.com
+DOMAIN-SUFFIX,sputniknews.com
+
+## TOK
+DOMAIN-SUFFIX,tok.media
+
+## Ukraina.ru
+DOMAIN-SUFFIX,ukraina.ru
+#end include:rossiyasegodnya
+#include:rt
+DOMAIN-SUFFIX,asiangooglenetwork.com    #Redirect
+DOMAIN-SUFFIX,rt.com
+DOMAIN-SUFFIX,rtnewsru.com
+DOMAIN-SUFFIX,rtrunews.com
+DOMAIN-SUFFIX,rtxv.ru
+DOMAIN-SUFFIX,runewsrt.com
+DOMAIN-SUFFIX,rurtnews.com
+DOMAIN-SUFFIX,russiatoday.com
+DOMAIN-SUFFIX,russiatoday.net
+DOMAIN-SUFFIX,russiatoday.tv
+DOMAIN-SUFFIX,swentr.site    #Mirror
+DOMAIN-SUFFIX,watchingthehawks.com
+
+# Language-specific websites (non-English)
+
+## Arabic
+DOMAIN-SUFFIX,arabicrt.ru
+DOMAIN-SUFFIX,rtarabic.com
+DOMAIN-SUFFIX,rtarabic.net
+DOMAIN-SUFFIX,rtarabic.org
+DOMAIN-SUFFIX,rtarabic.ru
+
+## French
+DOMAIN-SUFFIX,rtenafrique.tv
+DOMAIN-SUFFIX,rtenfrancais.tv
+DOMAIN-SUFFIX,rtenfrance.tv
+DOMAIN-SUFFIX,rtfrance.tv
+DOMAIN-SUFFIX,russieactuelle.fr
+
+## German
+DOMAIN-SUFFIX,de-rt.com
+DOMAIN-SUFFIX,de-rt.org
+DOMAIN-SUFFIX,de-rtnews.com
+DOMAIN-SUFFIX,de-rtnews.net
+DOMAIN-SUFFIX,dert.online
+DOMAIN-SUFFIX,dert.site
+DOMAIN-SUFFIX,dert.tech
+DOMAIN-SUFFIX,freeassange.tech
+DOMAIN-SUFFIX,freede.tech
+DOMAIN-SUFFIX,freedert.online
+DOMAIN-SUFFIX,rtde.agency
+DOMAIN-SUFFIX,rtde.expert
+DOMAIN-SUFFIX,rtde.express
+DOMAIN-SUFFIX,rtde.info
+DOMAIN-SUFFIX,rtde.life
+DOMAIN-SUFFIX,rtde.live
+DOMAIN-SUFFIX,rtde.me
+DOMAIN-SUFFIX,rtde.media
+DOMAIN-SUFFIX,rtde.online
+DOMAIN-SUFFIX,rtde.org
+DOMAIN-SUFFIX,rtde.press
+DOMAIN-SUFFIX,rtde.site
+DOMAIN-SUFFIX,rtde.team
+DOMAIN-SUFFIX,rtde.tech
+DOMAIN-SUFFIX,rtde.website
+DOMAIN-SUFFIX,rtde.world
+DOMAIN-SUFFIX,rtde.xyz
+DOMAIN-SUFFIX,rtdefree.info
+DOMAIN-SUFFIX,rtdefree.me
+DOMAIN-SUFFIX,rtdefree.online
+DOMAIN-SUFFIX,rtdefree.tech
+DOMAIN-SUFFIX,rtnewsde.com
+DOMAIN-SUFFIX,rtnewsde.online
+DOMAIN-SUFFIX,rtnewsde.pro
+DOMAIN-SUFFIX,rtnewsde.site
+DOMAIN-SUFFIX,rtnewsde.tech
+
+## Portugeese
+DOMAIN-SUFFIX,gazetarussa.com.br
+DOMAIN-SUFFIX,rtbrasil.com
+DOMAIN-SUFFIX,rtbrasil.info
+
+## Russian
+DOMAIN-SUFFIX,russiatoday.ru
+
+## Serbian
+DOMAIN-SUFFIX,rt.rs
+
+## Spanish
+DOMAIN-SUFFIX,actualidad-rt.com
+DOMAIN-SUFFIX,es-rt.com
+DOMAIN-SUFFIX,esrt.online
+DOMAIN-SUFFIX,esrt.press
+DOMAIN-SUFFIX,esrt.space
+DOMAIN-SUFFIX,esrt.tech
+DOMAIN-SUFFIX,noticias-rt.com
+DOMAIN-SUFFIX,notimundo.press
+DOMAIN-SUFFIX,rtespanol.com
+DOMAIN-SUFFIX,sn-esp.site
+
+# Infrastructure
+DOMAIN-SUFFIX,b37mrtl.ru
+DOMAIN-SUFFIX,esrt.site
+DOMAIN-SUFFIX,esrt.website
+DOMAIN-SUFFIX,green-box-tv.com
+DOMAIN-SUFFIX,rttv.com
+DOMAIN-SUFFIX,rttv.ru
+DOMAIN-SUFFIX,rteam.dev
+DOMAIN-SUFFIX,rteam.tech
+
+# KTECH
+DOMAIN-SUFFIX,ktech.team
+
+# Merchendise
+DOMAIN-SUFFIX,shop-rt.com
+
+# Other projects
+DOMAIN-SUFFIX,1917live.red
+DOMAIN-SUFFIX,ahilesva.info
+DOMAIN-SUFFIX,book-catalog.ru
+DOMAIN-SUFFIX,book1917.live
+DOMAIN-SUFFIX,drobbox.pro
+DOMAIN-SUFFIX,kanzlerdaddy.ru
+DOMAIN-SUFFIX,khangar.net
+DOMAIN-SUFFIX,pobeda.page
+DOMAIN-SUFFIX,premiumlive.site
+DOMAIN-SUFFIX,romanovs100.com
+DOMAIN-SUFFIX,worldcuprussia.com
+
+## Gateway to Russia project
+DOMAIN-SUFFIX,baranky.com
+DOMAIN-SUFFIX,gatewaytorussia.ru
+DOMAIN-SUFFIX,gw2ru.com
+DOMAIN-SUFFIX,oknovrossiu.ru
+DOMAIN-SUFFIX,rbth.com
+DOMAIN-SUFFIX,russiabeyond.com
+DOMAIN-SUFFIX,russiaislove.com
+DOMAIN-SUFFIX,slavicstar.com
+
+## rt.doc
+DOMAIN-SUFFIX,artel.watch
+DOMAIN-SUFFIX,arteldoc.com
+DOMAIN-SUFFIX,arteldoc.tv
+DOMAIN-SUFFIX,rtdoc.tv
+DOMAIN-SUFFIX,rtdocumentary.online
+DOMAIN-SUFFIX,rtfestival.ru
+
+## RT School
+DOMAIN-SUFFIX,rt-school.online
+
+## Ruptly
+DOMAIN-SUFFIX,ruptly.agency
+DOMAIN-SUFFIX,ruptly.tv
+DOMAIN-SUFFIX,ruptly.video
+#end include:rt
+
+# EurAsia Daily (EADaily, EAD), allegedly a state-controlled news outlet
+DOMAIN-SUFFIX,eadaily.com
+DOMAIN-SUFFIX,eadaily.info
+DOMAIN-SUFFIX,eadaily.net
+DOMAIN-SUFFIX,eadaily.org
+DOMAIN-SUFFIX,eadaily.su
+DOMAIN-SUFFIX,eurasiadaily.su
+#end include:category-media-ru
 #include:category-medicine-ru
 # BudZdorov
 DOMAIN-SUFFIX,klinikabudzdorov.ru
@@ -321,6 +522,206 @@ DOMAIN-SUFFIX,zub.ru
 # St. Petersburg city polyclinics and medical institutions
 DOMAIN-SUFFIX,gorzdrav.spb.ru
 #end include:category-medicine-ru
+#include:category-retail-ru
+# ABC of Taste
+DOMAIN-SUFFIX,av.ru
+
+# Auchan
+DOMAIN-SUFFIX,auchan.ru
+
+# AudioHead
+DOMAIN-SUFFIX,audiohead.ru
+
+# Bristol
+DOMAIN-SUFFIX,bristol.ru
+
+# Children's World
+DOMAIN-SUFFIX,detmir.ru
+
+# Coolera
+DOMAIN-SUFFIX,coolera.ru
+
+# Dixie
+DOMAIN-SUFFIX,dixy.ru
+
+# Dodo Pizza
+DOMAIN-SUFFIX,dodois.com
+DOMAIN-SUFFIX,dodois.io
+DOMAIN-SUFFIX,dodopizza.com
+DOMAIN-SUFFIX,dodopizza.ru
+DOMAIN-SUFFIX,dodostatic.net
+
+# Dostaevsky
+DOMAIN-SUFFIX,dostaevsky.ru
+
+# Dr.Head / Doctorhead
+DOMAIN-SUFFIX,doctorhead.ru
+
+# Eurasia
+DOMAIN-SUFFIX,evrasia.rest
+
+# Fast food restaurant chain "Vkusno i tochka"
+DOMAIN-SUFFIX,vkusnoitochka.ru
+
+# Fix Price
+DOMAIN-SUFFIX,fix-price.com
+
+# Lamoda
+DOMAIN-SUFFIX,lamoda.ru
+
+# Lenta
+DOMAIN-SUFFIX,lenta.com
+DOMAIN-SUFFIX,lenta.tech
+
+# Magnit
+#include:magnit
+DOMAIN-SUFFIX,kazanexpress.ru
+DOMAIN-SUFFIX,magnit.com
+DOMAIN-SUFFIX,magnit.ru
+DOMAIN-SUFFIX,mm.ru
+#end include:magnit
+
+# M.Video
+#include:mvideo
+DOMAIN-SUFFIX,acmvid.com
+DOMAIN-SUFFIX,mvideo.ru
+DOMAIN,mvideo.edna.io
+#end include:mvideo
+
+# Metro
+DOMAIN-SUFFIX,metro-cc.ru
+
+# NOTIK
+DOMAIN-SUFFIX,notik.ru
+
+# OSKELLY
+#include:oskelly
+DOMAIN-SUFFIX,oskelly.co
+DOMAIN-SUFFIX,oskelly.ru
+#end include:oskelly
+
+# Pyaterochka, Perekrestok, Chizhik
+#include:x5
+DOMAIN-SUFFIX,5ka.ru
+DOMAIN-SUFFIX,5post.market
+DOMAIN-SUFFIX,abonementx5.ru
+DOMAIN-SUFFIX,chizhik.club
+DOMAIN-SUFFIX,clubx5.ru
+DOMAIN-SUFFIX,dialogx5.ru
+DOMAIN-SUFFIX,e5.ru
+DOMAIN-SUFFIX,fivepost.ru
+DOMAIN-SUFFIX,idx5.ru
+DOMAIN-SUFFIX,jx5.ru
+DOMAIN-SUFFIX,keyx5.ru
+DOMAIN-SUFFIX,mnogolososya.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,okolo.app
+DOMAIN-SUFFIX,perekrestok.com
+DOMAIN-SUFFIX,perekrestok.ru
+DOMAIN-SUFFIX,x5.ai
+DOMAIN-SUFFIX,x5.com
+DOMAIN-SUFFIX,x5.digital
+DOMAIN-SUFFIX,x5.group
+DOMAIN-SUFFIX,x5.media
+DOMAIN-SUFFIX,x5.ru
+DOMAIN-SUFFIX,x5.team
+DOMAIN-SUFFIX,x5.tech
+DOMAIN-SUFFIX,x5club.ru
+DOMAIN-SUFFIX,x5id.ru
+DOMAIN-SUFFIX,x5l.ru
+DOMAIN-SUFFIX,x5media.ru
+DOMAIN-SUFFIX,x5paket.ru
+DOMAIN-SUFFIX,x5q.ru
+DOMAIN-SUFFIX,x5static.net
+DOMAIN-SUFFIX,x5w.ru
+
+# Ads and tracking
+DOMAIN,ads.x5.ru
+DOMAIN,ads.x5media.ru
+DOMAIN,sentry.x5.ru
+#end include:x5
+
+# Red and White
+DOMAIN-SUFFIX,krasnoeibeloe.ru
+
+# Regard
+DOMAIN-SUFFIX,regard.ru
+
+# Rostics
+DOMAIN-SUFFIX,rostics.ru
+DOMAIN-SUFFIX,uni.rest
+DOMAIN-SUFFIX,unirest.tech
+
+# Sakura
+DOMAIN-SUFFIX,ilovesakura.ru
+
+# Spar
+DOMAIN-SUFFIX,myspar.ru
+
+# SOKOLOV
+#include:sokolov
+DOMAIN-SUFFIX,sokolov.io
+DOMAIN-SUFFIX,sokolov.ru
+#end include:sokolov
+
+# Sushi Wok
+DOMAIN-SUFFIX,sushiwok.ru
+
+# Vinlab
+DOMAIN-SUFFIX,winelab.ru
+
+# VkusVill
+DOMAIN-SUFFIX,vkusvill.ru
+#end include:category-retail-ru
+#include:category-travel-ru
+# Aviasales
+#include:aviasales
+DOMAIN-SUFFIX,avs.io
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,aviasales.com
+#end include:aviasales
+
+# BlaBlaCar
+DOMAIN-SUFFIX,blablacar.ru
+
+# Bus stations
+DOMAIN-SUFFIX,avtovokzaly.ru
+
+# Ostrovok
+DOMAIN-SUFFIX,ostrovok.ru
+
+# Othello / Otello from 2GIS and Sber
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,sber.ru
+
+# Public transport and ticketing
+#include:mosmetro
+DOMAIN-SUFFIX,mosmetro.ru
+DOMAIN-SUFFIX,mosmetro.tech
+#end include:mosmetro
+DOMAIN,bilet.nspk.ru
+DOMAIN,metro.spb.ru
+DOMAIN,mos.transport.vtb.ru
+DOMAIN,podorozhnik.spb.ru
+DOMAIN,transport.mos.ru
+DOMAIN-SUFFIX,gorodpay.ru
+DOMAIN-SUFFIX,rrtp.ru
+
+# Russian Railways
+DOMAIN-SUFFIX,rzd-bonus.ru
+DOMAIN-SUFFIX,rzd.ru
+
+# Tutu
+DOMAIN-SUFFIX,tutu.ru
+
+# Yandex Rent
+DOMAIN,arenda.yandex.ru
+
+# Yandex Taxi
+DOMAIN,taxi.yandex.ru
+DOMAIN-SUFFIX,fasten.ru
+#end include:category-travel-ru
 
 # Russian companies
 #include:beget
@@ -1387,21 +1788,6 @@ DOMAIN-SUFFIX,kion.ru
 DOMAIN-SUFFIX,mtsmedia.ru
 DOMAIN-SUFFIX,on-media.ru
 #end include:mts-ru
-#include:rostelecom
-DOMAIN-SUFFIX,restream-media.net
-DOMAIN-SUFFIX,restream.ru
-DOMAIN-SUFFIX,more.tv
-DOMAIN-SUFFIX,wink.am
-DOMAIN-SUFFIX,wink.ru
-#end include:wink
-
-DOMAIN-SUFFIX,azbukainterneta.ru
-DOMAIN-SUFFIX,rostelecom.ru
-DOMAIN-SUFFIX,rt.ru
-
-# Tracking
-DOMAIN,sentry.iptv.rt.ru
-#end include:rostelecom
 #include:t2-ru
 DOMAIN-SUFFIX,b2c-digest.ru
 DOMAIN-SUFFIX,t2.ru

@@ -1,6 +1,8 @@
+#include:comodo
 DOMAIN-SUFFIX,comodo.com
 DOMAIN-SUFFIX,comodo.net
 #end include:comodo
+#include:drweb
 DOMAIN-SUFFIX,drweb.by
 DOMAIN-SUFFIX,drweb.cn
 DOMAIN-SUFFIX,drweb.co.jp
@@ -14,6 +16,7 @@ DOMAIN-SUFFIX,drweb-av.es
 DOMAIN-SUFFIX,drweb-av.it
 DOMAIN-SUFFIX,drweb-av.pl
 #end include:drweb
+#include:eset
 # ESET Wiki - [KB332] Ports and addresses required to use your ESET product with a third-party firewall
 DOMAIN-SUFFIX,cn.eset.com
 DOMAIN-SUFFIX,e5.sk
@@ -29,6 +32,7 @@ DOMAIN,eset-prod-ca48648d0ce7cadf.elb.eu-central-1.amazonaws.com
 # Connection between the Agent and ESET PROTECT
 DOMAIN,epc-de-agent-proxy.germanywestcentral.cloudapp.azure.com
 #end include:eset
+#include:kaspersky
 DOMAIN-SUFFIX,kaspersky-labs.com
 DOMAIN-SUFFIX,kaspersky.com
 
@@ -167,6 +171,7 @@ DOMAIN,s17.upd.kaspersky.com
 DOMAIN,s18.upd.kaspersky.com
 DOMAIN,s19.upd.kaspersky.com
 #end include:kaspersky
+#include:symantec
 DOMAIN-SUFFIX,symantec.com
 DOMAIN-SUFFIX,symantecliveupdate.com
 #end include:symantec

@@ -16,19 +16,6 @@ DOMAIN,servd-anthropic-website.b-cdn.net
 #include:cerebras
 DOMAIN-SUFFIX,cerebras.ai
 #end include:cerebras
-#include:comfy
-# 绘世启动器
-DOMAIN-SUFFIX,oystermercury.top
-#end include:comfy-ui-launcher
-
-DOMAIN-SUFFIX,comfy.org
-
-# Dev
-DOMAIN-SUFFIX,comfyci.org
-
-# Redirect
-DOMAIN-SUFFIX,comfyregistry.org
-#end include:comfy
 #include:cursor
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com
