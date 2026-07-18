@@ -121,7 +121,7 @@ DOMAIN-SUFFIX,126.100.in-addr.arpa
 DOMAIN-SUFFIX,127.100.in-addr.arpa
 
 # Dotless domains
-DOMAIN-WILDCARD,?*
+# SKIPPED (unconvertible regexp): ^[a-z]([a-z0-9-]{0,61}[a-z0-9])?$
 
 # Aruba router
 DOMAIN,instant.arubanetworks.com

@@ -6,6 +6,22 @@ import sre_constants
 
 unfinished_files = []
 finished_files = []
+skipped_regexps = []
+
+def wildcard_has_literal(wildcard: str) -> bool:
+    """
+    Return True if the wildcard pattern is constrained by at least one
+    literal (non-wildcard) domain character.
+
+    A pattern built only from the wildcard metacharacters '*' and '?'
+    (e.g. "?*", "*", "**") matches (almost) every hostname. Emitting such
+    a pattern as a DOMAIN-WILDCARD rule would silently swallow all traffic
+    and turn every rule below it — including FINAL — into dead code, so
+    these must never be written out. An empty string (produced when a regex
+    fails to parse) is likewise treated as having no literal.
+    """
+    stripped = wildcard.replace("*", "").replace("?", "")
+    return any(c.isalnum() for c in stripped)
 
 def regex_ast_to_wildcard(regex: str) -> str:
     """
@@ -54,8 +70,11 @@ def convert_node_to_wildcard(node) -> str:
         elif op == sre_constants.BRANCH:
             return "*"
         elif op == sre_constants.SUBPATTERN:
-            # SUBPATTERN structure: (group_number, [(op, val), ...])
-            subpattern = value[1]
+            # SUBPATTERN structure varies by Python version:
+            #   <3.6: (group_number, subpattern)
+            #   >=3.6: (group_number, add_flags, del_flags, subpattern)
+            # The actual sub-pattern is always the last element.
+            subpattern = value[-1]
             return convert_node_to_wildcard(subpattern)
         elif op in (sre_constants.MAX_REPEAT, sre_constants.MIN_REPEAT):
             # MIN_REPEAT/MAX_REPEAT structure: (min_count, max_count, subpattern)
@@ -160,7 +179,18 @@ def process_line(line: str):
     
     # Process the line based on its prefix
     if line.startswith("regexp:"):
-        res = f"DOMAIN-WILDCARD,{regex_ast_to_wildcard(line[7:])}{formatted_comment}"
+        pattern = line[7:]
+        wildcard = regex_ast_to_wildcard(pattern)
+        if wildcard_has_literal(wildcard):
+            res = f"DOMAIN-WILDCARD,{wildcard}{formatted_comment}"
+        else:
+            # The regex converts to an unconstrained wildcard (e.g. "?*" from
+            # a dotless-domain regex) that would match every hostname. Skip it
+            # instead of emitting a catch-all rule; leave a comment for
+            # visibility. Surge/Shadowrocket wildcard syntax cannot faithfully
+            # express such patterns anyway.
+            skipped_regexps.append(pattern)
+            res = f"# SKIPPED (unconvertible regexp): {pattern}\n"
     elif line.startswith("full:"):
         res = f"DOMAIN,{line[5:]}{formatted_comment}"
     else:
@@ -254,7 +284,33 @@ def convert_unfinished_files(geosite_dir: str, output_dir: str):
         unfinished_files.remove(file)
         finished_files.append(file)
         print(f"转换完成: {file} → {surge_file}")
-        
+
+def validate_output(output_dir: str):
+    """
+    Build guard: fail the conversion if any emitted DOMAIN-WILDCARD rule is an
+    unconstrained catch-all (no literal characters), e.g. "DOMAIN-WILDCARD,?*".
+    Such a rule matches every hostname and would silently swallow all traffic.
+    """
+    offenders = []
+    for file in os.listdir(output_dir):
+        file_path = os.path.join(output_dir, file)
+        if not os.path.isfile(file_path):
+            continue
+        with open(file_path, "r", encoding="utf-8") as f:
+            for lineno, raw in enumerate(f, 1):
+                stripped = raw.strip()
+                if not stripped.startswith("DOMAIN-WILDCARD,"):
+                    continue
+                # value is everything after the type, before any trailing comment
+                value = stripped[len("DOMAIN-WILDCARD,"):].split("#", 1)[0].strip()
+                if not wildcard_has_literal(value):
+                    offenders.append(f"{file}:{lineno}: {stripped}")
+    if offenders:
+        raise ValueError(
+            "Refusing to emit catch-all DOMAIN-WILDCARD rules "
+            "(no literal characters):\n" + "\n".join(offenders)
+        )
+
 if __name__ == "__main__":
     geosite_dir = "test/data"
     geosite_dir = "domain-list-community/data"
@@ -268,6 +324,10 @@ if __name__ == "__main__":
     convert_geosite_to_surge(geosite_dir, output_dir)
     while unfinished_files:
         convert_unfinished_files(geosite_dir, output_dir)
+
+    if skipped_regexps:
+        print(f"跳过 {len(skipped_regexps)} 条无法转换的 regexp（避免生成 catch-all 规则）")
+    validate_output(output_dir)
 
     finished_files = list(set(finished_files))
     finished_files.sort()
