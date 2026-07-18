@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,segmenthub.com
 DOMAIN-SUFFIX,segmentify.com
 DOMAIN-SUFFIX,analytics.tiktok.com
-DOMAIN-WILDCARD,speed..ad.*.prod.hosts.ooklaserver.net
+DOMAIN-WILDCARD,speed.*.ad.*.prod.hosts.ooklaserver.net
 DOMAIN-SUFFIX,ads-uo.api.leiniao.com
 DOMAIN-SUFFIX,ads-ut.api.leiniao.com
 DOMAIN-SUFFIX,ads.api.my7v.com

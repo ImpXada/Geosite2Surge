@@ -4,4 +4,4 @@ DOMAIN-SUFFIX,bili2.cc
 DOMAIN-SUFFIX,bili888.com
 DOMAIN-SUFFIX,bili999.com
 
-DOMAIN-WILDCARD,bilibili3.xyz
+DOMAIN-WILDCARD,*bilibili3*.xyz

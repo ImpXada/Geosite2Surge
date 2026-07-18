@@ -732,10 +732,10 @@ DOMAIN-SUFFIX,netflixdnstest9.com
 DOMAIN-SUFFIX,netflixdnstest10.com
 
 # regular expression
-DOMAIN-WILDCARD,apiproxy-device-prod-nlb-*.amazonaws.com
-DOMAIN-WILDCARD,apiproxy-website-nlb-prod-*.amazonaws.com
-DOMAIN-WILDCARD,dualstack.apiproxy-*.amazonaws.com
-DOMAIN-WILDCARD,dualstack.ichnaea-web-*.amazonaws.com
+DOMAIN-WILDCARD,*apiproxy-device-prod-nlb-*.amazonaws.com
+DOMAIN-WILDCARD,*apiproxy-website-nlb-prod-*.amazonaws.com
+DOMAIN-WILDCARD,*dualstack.apiproxy-*.amazonaws.com
+DOMAIN-WILDCARD,*dualstack.ichnaea-web-*.amazonaws.com
 
 # Full
 DOMAIN,netflix.com.edgesuite.net

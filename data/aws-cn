@@ -28,5 +28,5 @@ DOMAIN-SUFFIX,amzndns-cn.cn
 DOMAIN-SUFFIX,amzndns-cn.com
 DOMAIN-SUFFIX,amzndns-cn.net
 
-DOMAIN-WILDCARD,*.awsdns-cn-??.
+DOMAIN-WILDCARD,*.awsdns-cn-??.*
 DOMAIN-WILDCARD,*.awsdns-cn-??.cn

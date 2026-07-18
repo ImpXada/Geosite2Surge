@@ -74,7 +74,7 @@ DOMAIN-SUFFIX,amzndns-cn.cn
 DOMAIN-SUFFIX,amzndns-cn.com
 DOMAIN-SUFFIX,amzndns-cn.net
 
-DOMAIN-WILDCARD,*.awsdns-cn-??.
+DOMAIN-WILDCARD,*.awsdns-cn-??.*
 DOMAIN-WILDCARD,*.awsdns-cn-??.cn
 #end include:aws-cn
 
@@ -133,7 +133,7 @@ DOMAIN-SUFFIX,amzndns.com
 DOMAIN-SUFFIX,amzndns.net
 DOMAIN-SUFFIX,amzndns.org
 
-DOMAIN-WILDCARD,*.awsdns-??.
+DOMAIN-WILDCARD,*.awsdns-??.*
 #end include:aws
 #include:imdb
 # All .imdb domains

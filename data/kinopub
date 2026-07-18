@@ -21,4 +21,4 @@ DOMAIN-SUFFIX,cdn2site.com
 DOMAIN-SUFFIX,pushbr.com    #poster images CDN
 DOMAIN-SUFFIX,smarttvcdn.online
 
-DOMAIN-WILDCARD,-static-*.cdntogo.net
+DOMAIN-WILDCARD,*-static-*.cdntogo.net

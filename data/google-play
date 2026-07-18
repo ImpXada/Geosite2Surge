@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 # if connect to services.googleapis.cn directly,
 # then these domains will be used.
 # 北京 (2x3)、上海 (ni5)、广州 (j5o)
-DOMAIN-WILDCARD,**sn-*.xn--ngstr-lra8j.com
+DOMAIN-WILDCARD,***sn-**.xn--ngstr-lra8j.com
 # the same but DNS pollution in China mainland.
-DOMAIN-WILDCARD,**sn-*.googlevideo.com
+DOMAIN-WILDCARD,***sn-**.googlevideo.com
 
 DOMAIN,redirector.c.play.google.com
