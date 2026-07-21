@@ -519,6 +519,10 @@ DOMAIN-SUFFIX,polyclinika.ru
 ## Dentistry Zub Ru – network of dental clinics in Moscow
 DOMAIN-SUFFIX,zub.ru
 
+# Reaviz
+DOMAIN-SUFFIX,reaviz.com
+DOMAIN-SUFFIX,reaviz.ru
+
 # St. Petersburg city polyclinics and medical institutions
 DOMAIN-SUFFIX,gorzdrav.spb.ru
 #end include:category-medicine-ru
@@ -1684,6 +1688,7 @@ DOMAIN-SUFFIX,bank-arzamas.ru
 DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru
 DOMAIN-SUFFIX,bank131.com
 DOMAIN-SUFFIX,bankermak.ru
+DOMAIN-SUFFIX,best2pay.net
 DOMAIN-SUFFIX,bfa.ru
 DOMAIN-SUFFIX,blanc.ru
 DOMAIN-SUFFIX,bm-bank.ru
@@ -1692,6 +1697,7 @@ DOMAIN-SUFFIX,commerzbank.ru
 DOMAIN-SUFFIX,finambank.ru
 DOMAIN-SUFFIX,forshtadt.ru
 DOMAIN-SUFFIX,homecredit.ru
+DOMAIN-SUFFIX,hva.im    #Sovcombank Halva
 DOMAIN-SUFFIX,ibamoscow.ru
 DOMAIN-SUFFIX,jpmorgan.ru
 DOMAIN-SUFFIX,korona.com
@@ -1703,6 +1709,8 @@ DOMAIN-SUFFIX,primbank.ru
 DOMAIN-SUFFIX,prvbank.ru
 DOMAIN-SUFFIX,pskb.ru
 DOMAIN-SUFFIX,pvubank.com
+DOMAIN-SUFFIX,rbsgate.com
+DOMAIN-SUFFIX,rbsuat.com
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,rencredit.ru
 DOMAIN-SUFFIX,rncoluminis.ru
@@ -1796,6 +1804,7 @@ DOMAIN-SUFFIX,tele2.ru
 DOMAIN-SUFFIX,adygtelecom.com    #Adygea Telephone Company, regional operator
 DOMAIN-SUFFIX,beeline.ru
 DOMAIN-SUFFIX,dom.ru
+DOMAIN-SUFFIX,mcc250.pub.3gppnetwork.org    #Mobile IMS
 
 # Other services
 DOMAIN-SUFFIX,3ebra.net    #Zebra Net Bureau, web development agency

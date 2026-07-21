@@ -36,5 +36,9 @@ DOMAIN-SUFFIX,polyclinika.ru
 ## Dentistry Zub Ru – network of dental clinics in Moscow
 DOMAIN-SUFFIX,zub.ru
 
+# Reaviz
+DOMAIN-SUFFIX,reaviz.com
+DOMAIN-SUFFIX,reaviz.ru
+
 # St. Petersburg city polyclinics and medical institutions
 DOMAIN-SUFFIX,gorzdrav.spb.ru
