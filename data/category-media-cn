@@ -186,6 +186,8 @@ DOMAIN-SUFFIX,bandao.cn
 DOMAIN-SUFFIX,bbtnews.com.cn
 # 鞭牛士
 DOMAIN-SUFFIX,bianews.com
+# 京报网
+DOMAIN-SUFFIX,bjd.com.cn
 # 新京报
 DOMAIN-SUFFIX,bjnews.com.cn
 DOMAIN-SUFFIX,bkeconomy.com
@@ -218,6 +220,8 @@ DOMAIN-SUFFIX,tianjimedia.com
 DOMAIN-SUFFIX,yesky.com
 # 中国发展网
 DOMAIN-SUFFIX,chinadevelopment.com.cn
+# 品牌网
+DOMAIN-SUFFIX,chinapp.com
 # 四川日报
 DOMAIN-SUFFIX,chuanbaoguancha.cn
 DOMAIN-SUFFIX,scol.com.cn
@@ -263,6 +267,8 @@ DOMAIN-SUFFIX,cztvcloud.com
 DOMAIN-SUFFIX,zjstv.com
 # 大河网
 DOMAIN-SUFFIX,dahe.cn
+DOMAIN-SUFFIX,dingxinwen.cn
+DOMAIN-SUFFIX,topnews.cn
 # 大河报
 DOMAIN-SUFFIX,daheapp.com
 DOMAIN-SUFFIX,dahebao.cn
@@ -337,6 +343,10 @@ DOMAIN-SUFFIX,voc.com.cn
 DOMAIN-SUFFIX,hntv.tv
 DOMAIN-SUFFIX,hndt.com    #河南广播网
 DOMAIN-SUFFIX,dianzhenkeji.com    #河南广电融媒
+# 华商网
+DOMAIN-SUFFIX,huashangtop.com
+DOMAIN-SUFFIX,hsw.cn
+DOMAIN-SUFFIX,myhsw.cn
 # 环球网
 DOMAIN-SUFFIX,huanqiu.com
 DOMAIN-SUFFIX,huanqiucdn.cn
@@ -358,6 +368,8 @@ DOMAIN-SUFFIX,ikanchai.com
 # 南方周末
 DOMAIN-SUFFIX,infzm.com
 DOMAIN-SUFFIX,nfpeople.com
+# 齐鲁网
+DOMAIN-SUFFIX,iqilu.com
 # 艾瑞咨询
 DOMAIN-SUFFIX,iresearch.cn
 # 科技视讯
@@ -394,6 +406,8 @@ DOMAIN-SUFFIX,kankanews.com
 DOMAIN-SUFFIX,kankannews.com
 DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,statickksmg.com
+# 开封网
+DOMAIN-SUFFIX,kf.cn
 # 中国科技网/科技日报
 DOMAIN-SUFFIX,kjrb.com.cn
 DOMAIN-SUFFIX,stdaily.com

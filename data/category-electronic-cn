@@ -32,6 +32,22 @@ DOMAIN-SUFFIX,hqpcb.com
 DOMAIN-SUFFIX,infineon.cn
 #infineon.com
 
+# 紫光集团
+DOMAIN-SUFFIX,gosinoic.com
+DOMAIN-SUFFIX,h3c.com
+DOMAIN-SUFFIX,moedu.com
+DOMAIN-SUFFIX,thunis.com
+DOMAIN-SUFFIX,tsinghuaic.com
+DOMAIN-SUFFIX,tsingtengms.com
+DOMAIN-SUFFIX,unicloud.com
+DOMAIN-SUFFIX,unigroup.com.cn
+DOMAIN-SUFFIX,uniscan.cn
+DOMAIN-SUFFIX,unisdigital.com
+DOMAIN-SUFFIX,unisemicon.com
+DOMAIN-SUFFIX,unisoc.com
+DOMAIN-SUFFIX,unispc.com
+DOMAIN-SUFFIX,uniswdc.com
+
 # 嘉立创集团
 #include:jlc
 # 嘉立创

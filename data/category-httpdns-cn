@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,kuaishou.httpdns.pro
 
 # Meituan
 DOMAIN-SUFFIX,httpdns.meituan.com
+DOMAIN-SUFFIX,httpdnsmultiapivip.meituan.com
 DOMAIN-SUFFIX,httpdnsvip.meituan.com
 
 # NetEase
