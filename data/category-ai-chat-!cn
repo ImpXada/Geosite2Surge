@@ -13,9 +13,38 @@ DOMAIN-SUFFIX,claudeusercontent.com
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net
 #end include:anthropic
+#include:bytedance-ai-!cn
+#include:dola
+# Dola, formly ciciai, an AI service of bytedance
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com
+#end include:dola
+
+# related to doubao
+DOMAIN-SUFFIX,coze.com
+
+# related to trae
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
+#end include:bytedance-ai-!cn
 #include:cerebras
 DOMAIN-SUFFIX,cerebras.ai
 #end include:cerebras
+#include:comfy
+# 绘世启动器
+DOMAIN-SUFFIX,oystermercury.top
+#end include:comfy-ui-launcher
+
+DOMAIN-SUFFIX,comfy.org
+
+# Dev
+DOMAIN-SUFFIX,comfyci.org
+
+# Redirect
+DOMAIN-SUFFIX,comfyregistry.org
+#end include:comfy
 #include:cursor
 DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN-SUFFIX,cursor.com

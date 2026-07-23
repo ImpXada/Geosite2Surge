@@ -7,14 +7,17 @@ DOMAIN-SUFFIX,trbcdn.net
 DOMAIN-SUFFIX,kinorium.com
 
 # Streaming services for watching TV series and movies
+#include:kinopoisk
 DOMAIN-SUFFIX,kinopoisk.ru
 DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
 #end include:kinopoisk
+#include:okko
 DOMAIN-SUFFIX,okkoapi.tv
 DOMAIN-SUFFIX,playfamily.ru
 DOMAIN-SUFFIX,okko.sport
 DOMAIN-SUFFIX,okko.tv
 #end include:okko
+#include:wink
 DOMAIN-SUFFIX,restream-media.net
 DOMAIN-SUFFIX,restream.ru
 DOMAIN-SUFFIX,more.tv
@@ -35,6 +38,7 @@ DOMAIN-SUFFIX,viju.ru
 DOMAIN-SUFFIX,promodj.com    #Electronic music and DJ community platform
 
 # Video hosting
+#include:rutube
 DOMAIN-SUFFIX,rutube.ru
 DOMAIN-SUFFIX,rutubelist.ru
 DOMAIN-SUFFIX,rtbcdn.ru

@@ -293,7 +293,6 @@ DOMAIN-SUFFIX,coupangcdn.com
 DOMAIN-SUFFIX,craigslist.org
 #end include:craigslist
 #include:dmm
-#include:dmm-porn
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,dmmrex.com
 #end include:dmm-porn
@@ -1111,50 +1110,6 @@ DOMAIN-SUFFIX,toget.com.tw
 DOMAIN,ecapi-pchome.cdn.hinet.net
 DOMAIN,pchomeonline.com.tw
 #end include:pchome
-#include:rakuten
-# https://global.rakuten.com/corp/about/
-DOMAIN-SUFFIX,buyservices.com
-DOMAIN-SUFFIX,r10s.com
-DOMAIN-SUFFIX,r10s.jp
-DOMAIN-SUFFIX,rakuten-static.com
-DOMAIN-SUFFIX,rakuten.ca
-DOMAIN-SUFFIX,rakuten.co.jp
-DOMAIN-SUFFIX,rakuten.com
-DOMAIN-SUFFIX,rakuten.com.tw
-DOMAIN-SUFFIX,rakuten.ne.jp
-DOMAIN-SUFFIX,rakuten.tv
-DOMAIN-SUFFIX,rakuten.tw
-DOMAIN-SUFFIX,rakutenadvertising.com
-DOMAIN-SUFFIX,rakutengiftcards.ca
-
-# Ebates/Rakuten Rewards
-DOMAIN-SUFFIX,bfads.net
-DOMAIN-SUFFIX,ebates.ca
-DOMAIN-SUFFIX,ebates.kr
-DOMAIN-SUFFIX,ebates.sg
-DOMAIN-SUFFIX,ebatescanada.com
-DOMAIN-SUFFIX,ecbsn.com
-DOMAIN-SUFFIX,fatwallet.com
-DOMAIN-SUFFIX,rclon.com
-DOMAIN-SUFFIX,rebates.jp
-DOMAIN-SUFFIX,rrcbsn.com
-
-# https://en.wikipedia.org/wiki/Kobo_Inc.
-DOMAIN-SUFFIX,kobo.com
-
-# Rakuten Viber
-DOMAIN-SUFFIX,viber.com
-DOMAIN-SUFFIX,viber.co
-DOMAIN-SUFFIX,viber.me
-
-DOMAIN-SUFFIX,s-bid.rmp.rakuten.com
-DOMAIN-SUFFIX,vbcdn.com
-DOMAIN-SUFFIX,vbcdn.net
-#end include:viber
-
-# Rakuten Viki
-DOMAIN-SUFFIX,viki.com
-#end include:rakuten
 #include:ruten
 DOMAIN-SUFFIX,rimg.com.tw
 DOMAIN-SUFFIX,ruten.com.tw

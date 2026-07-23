@@ -1,10 +1,12 @@
 # This list contains scholarly domains that have access point in China Mainland.
 
+#include:cas
 # some website in China Academy of Science
 DOMAIN-SUFFIX,csdl.ac.cn
 DOMAIN-SUFFIX,iscas.ac.cn
 DOMAIN-SUFFIX,las.ac.cn
 #end include:cas
+#include:chaoxing
 DOMAIN-SUFFIX,16q.cn
 DOMAIN-SUFFIX,5read.com
 DOMAIN-SUFFIX,aichaoxing.com
@@ -39,12 +41,14 @@ DOMAIN-SUFFIX,zaifan.com
 DOMAIN-SUFFIX,zaifan.com.cn
 DOMAIN-SUFFIX,zhihang100.com
 #end include:chaoxing
+#include:cnki
 DOMAIN-SUFFIX,cnki.com.cn
 DOMAIN-SUFFIX,cnki.net
 
 # 国际 DOI 中国注册与服务中心
 DOMAIN-SUFFIX,chndoi.org
 #end include:cnki
+#include:wanfang
 DOMAIN-SUFFIX,wanfangdata.com.cn
 DOMAIN-SUFFIX,wf.pub
 #end include:wanfang
