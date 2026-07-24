@@ -379,6 +379,72 @@ DOMAIN-SUFFIX,th-music.com
 DOMAIN-SUFFIX,61.com
 DOMAIN-SUFFIX,taomee.com
 #end include:taomee
+#include:tencent-tme
+# 腾讯音乐娱乐集团/TME
+#include:kugou
+DOMAIN-SUFFIX,fanxingliveshow.com
+DOMAIN-SUFFIX,kgimg.com
+DOMAIN-SUFFIX,kglink.cn
+DOMAIN-SUFFIX,ktv.com
+DOMAIN-SUFFIX,kugoo.com
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kugou.net
+DOMAIN-SUFFIX,kugouaudio.com
+DOMAIN-SUFFIX,kugouipv6.com
+DOMAIN-SUFFIX,kugoukid.com
+DOMAIN-SUFFIX,kugouliveshow.com
+DOMAIN-SUFFIX,kugouringtone.com
+DOMAIN-SUFFIX,kugousenior.com
+DOMAIN-SUFFIX,kugoustore.com
+DOMAIN-SUFFIX,kugouvoice.com
+DOMAIN-SUFFIX,kugouyouth.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com
+#end include:kugou
+#include:kuwo
+DOMAIN-SUFFIX,koowo.cn
+DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,kuwo.cn
+#end include:kuwo
+#include:ximalaya
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
+
+# Ads/tracking
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
+#end include:ximalaya
+
+DOMAIN-SUFFIX,qqmusic.com
+DOMAIN-SUFFIX,tencentmusic.com
+
+DOMAIN-SUFFIX,kg.qq.com
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,y.qq.com
+
+# 懒人听书
+DOMAIN-SUFFIX,lrts.me
+DOMAIN-SUFFIX,mting.info
+DOMAIN-SUFFIX,wting.info
+
+# 爱听卓乐
+DOMAIN-SUFFIX,97ting.com
+DOMAIN-SUFFIX,tingmall.com
+DOMAIN-SUFFIX,ultimatemusic.cn
+
+# Ads/tracking
+DOMAIN-SUFFIX,ad.tencentmusic.com
+DOMAIN-SUFFIX,adstats.tencentmusic.com
+DOMAIN-SUFFIX,monitor.music.qq.com
+DOMAIN-SUFFIX,report.tencentmusic.com
+DOMAIN-SUFFIX,stat.y.qq.com
+DOMAIN-SUFFIX,tmead.y.qq.com
+DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+#end include:tencent-tme
 #include:u17
 DOMAIN-SUFFIX,u17.com
 DOMAIN-SUFFIX,u17i.com
@@ -406,6 +472,7 @@ DOMAIN-SUFFIX,xiaoyuzhoufm.com
 DOMAIN-SUFFIX,podcast.xyz
 #end include:xiaoyuzhou
 #include:yy
+#include:duowan
 DOMAIN-SUFFIX,duowan.com
 DOMAIN-SUFFIX,dwstatic.com
 #end include:duowan

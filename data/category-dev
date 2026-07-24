@@ -111,27 +111,6 @@ DOMAIN-SUFFIX,forthebadge.com
 # Stock Against Photography
 DOMAIN-SUFFIX,stockagainstphotography.com
 #end include:braveux
-#include:canonical
-#include:launchpad
-DOMAIN-SUFFIX,launchpad.net
-DOMAIN-SUFFIX,launchpadcontent.net
-DOMAIN-SUFFIX,launchpadlibrarian.com
-DOMAIN-SUFFIX,launchpadlibrarian.net
-DOMAIN-SUFFIX,launchpadlibrarian.org
-#end include:launchpad
-#include:snapcraft
-DOMAIN-SUFFIX,snapcraft.io
-DOMAIN-SUFFIX,snapstore.io
-#end include:snapcraft
-#include:ubuntu
-DOMAIN-SUFFIX,ubuntu.com
-DOMAIN-SUFFIX,ubuntu.net
-DOMAIN-SUFFIX,ubuntuforums.org
-DOMAIN-SUFFIX,ubuntu-touch.io
-#end include:ubuntu
-
-DOMAIN-SUFFIX,canonical.com
-#end include:canonical
 #include:category-container
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,docker.io

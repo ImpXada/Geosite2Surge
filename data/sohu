@@ -1,6 +1,7 @@
 # All .sohu domains
 DOMAIN-SUFFIX,sohu
 
+#include:changyou
 # 搜狐畅游
 DOMAIN-SUFFIX,17173.com
 DOMAIN-SUFFIX,17173cdn.com

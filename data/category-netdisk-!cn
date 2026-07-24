@@ -1,3 +1,4 @@
+#include:dropbox
 # List of all domains being operated by Dorpbox Inc.
 # Source: https://help.dropbox.com/zh-cn/accounts-billing/security/official-domains
 DOMAIN-SUFFIX,db.tt
@@ -18,10 +19,12 @@ DOMAIN-SUFFIX,getdropbox.com
 
 DOMAIN,paper-attachments.s3.amazonaws.com
 #end include:dropbox
+#include:mega
 DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 #end include:mega
+#include:onedrive
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,livefilestore.com
@@ -35,6 +38,7 @@ DOMAIN-SUFFIX,onedrive.org
 DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,storage.live.com
 #end include:onedrive
+#include:pikpak
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
 DOMAIN-SUFFIX,pickpackapp.com
@@ -45,6 +49,7 @@ DOMAIN-SUFFIX,pikpakdrive.com
 # tracking
 DOMAIN,o4504926511693824.ingest.sentry.io
 #end include:pikpak
+#include:terabox
 DOMAIN-SUFFIX,1024terabox.com
 DOMAIN-SUFFIX,bestclouddrive.com
 DOMAIN-SUFFIX,freeterabox.com
@@ -53,6 +58,7 @@ DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,terabox1024.com
 DOMAIN-SUFFIX,teraboxcdn.com
 #end include:terabox
+#include:usersdrive
 #Domain for generated download links:
 DOMAIN-SUFFIX,userdrive.org
 

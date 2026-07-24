@@ -866,7 +866,6 @@ DOMAIN-SUFFIX,yourmonsterbeats.com
 DOMAIN,beatselectronicsllc.tt.omtrdc.net
 #end include:beats
 #include:icloud
-#include:icloudprivaterelay
 DOMAIN-SUFFIX,mask-api.icloud.com
 DOMAIN-SUFFIX,mask-h2.icloud.com
 DOMAIN-SUFFIX,mask.icloud.com

@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,worldflipper.akamaized.net
 DOMAIN-SUFFIX,umamusume.akamaized.net
 #end include:cygames
 #include:ea
+#include:origin
 DOMAIN-SUFFIX,dawngate.com
 DOMAIN-SUFFIX,eastore.com
 DOMAIN-SUFFIX,lordofultima.com
