@@ -1,3 +1,4 @@
+#include:huawei-dev
 DOMAIN-SUFFIX,bisheng.cn
 DOMAIN-SUFFIX,bishengcompiler.cn
 DOMAIN-SUFFIX,devui.design
@@ -22,6 +23,7 @@ DOMAIN-SUFFIX,owsgo.com
 DOMAIN-SUFFIX,saasops.tech
 DOMAIN-SUFFIX,teleows.com
 #end include:huawei-dev
+#include:huaweicloud
 DOMAIN-SUFFIX,aadcloud.cn
 DOMAIN-SUFFIX,aadcloud.com
 DOMAIN-SUFFIX,ami-alliance.org.cn

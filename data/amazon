@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,awstrust.com
 DOMAIN-SUFFIX,ss2.us
 #end include:amazontrust
 #include:aws
+#include:aws-cn
 DOMAIN-SUFFIX,a2z.org.cn
 DOMAIN-SUFFIX,amazonaws.cn
 DOMAIN-SUFFIX,amazonaws.com.cn

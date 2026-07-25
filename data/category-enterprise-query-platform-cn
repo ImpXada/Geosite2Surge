@@ -1,16 +1,12 @@
-#include:aiqicha
 DOMAIN-SUFFIX,aiqicha.baidu.com
 DOMAIN-SUFFIX,aiqicha.cn
 DOMAIN-SUFFIX,aiqicha.com
 #end include:aiqicha
-#include:qcc
 DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qichacha.com
 #end include:qcc
-#include:qixin
 DOMAIN-SUFFIX,qixin.com
 #end include:qixin
-#include:tianyancha
 DOMAIN-SUFFIX,jindidata.com
 DOMAIN-SUFFIX,tianyancha.com
 #end include:tianyancha

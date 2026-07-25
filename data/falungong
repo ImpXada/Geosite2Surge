@@ -1,3 +1,4 @@
+#include:epochmediagroup
 DOMAIN-SUFFIX,dajiyuan.com
 DOMAIN-SUFFIX,dajiyuan.eu
 DOMAIN-SUFFIX,edninfo.com
@@ -67,6 +68,7 @@ DOMAIN-SUFFIX,theepochtimes.com
 DOMAIN-SUFFIX,theepochtimessubscribe.com
 DOMAIN-SUFFIX,velkaepocha.cz
 #end include:epochmediagroup
+#include:kanzhongguo
 DOMAIN-SUFFIX,es-visiontimes.com
 DOMAIN-SUFFIX,kannewyork.com
 DOMAIN-SUFFIX,kanzhongguo.com
@@ -84,6 +86,7 @@ DOMAIN-SUFFIX,visiontimesjp.com
 DOMAIN-SUFFIX,vtvan.com
 DOMAIN-SUFFIX,watchinese.com
 #end include:kanzhongguo
+#include:soundofhope
 DOMAIN-SUFFIX,bayvoice.net
 DOMAIN-SUFFIX,ozvoice.org
 DOMAIN-SUFFIX,sohcradio.com
