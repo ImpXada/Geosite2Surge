@@ -218,7 +218,7 @@ DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
 DOMAIN-SUFFIX,zdrav10.ru    #Republic of Karelia
 #end include:category-gov-ru
 #include:category-medicine-ru
-# BudZdorov
+# BudZdorov – network of multidisciplinary medical clinics
 DOMAIN-SUFFIX,klinikabudzdorov.ru
 
 # EMIAS – Moscow city polyclinics and medical institutions
@@ -256,12 +256,47 @@ DOMAIN-SUFFIX,polyclinika.ru
 ## Dentistry Zub Ru – network of dental clinics in Moscow
 DOMAIN-SUFFIX,zub.ru
 
-# Reaviz
+# Reaviz - private medical clinics of the university
 DOMAIN-SUFFIX,reaviz.com
 DOMAIN-SUFFIX,reaviz.ru
 
 # St. Petersburg city polyclinics and medical institutions
 DOMAIN-SUFFIX,gorzdrav.spb.ru
+
+#
+# Pharmacies
+#
+
+# Apteka
+DOMAIN-SUFFIX,apteka.ru
+
+# Apteka April
+DOMAIN-SUFFIX,apteka-april.ru
+
+# Apteki Plus
+DOMAIN-SUFFIX,aptekiplus.ru
+
+# Farmlend
+DOMAIN-SUFFIX,farmlend.ru
+
+# GorZdrav
+DOMAIN-SUFFIX,gorzdrav.org
+
+# Megapteka
+DOMAIN-SUFFIX,megapteka.ru
+
+# Planeta Zdorov'ya
+DOMAIN-SUFFIX,planetazdorovo.ru
+DOMAIN-SUFFIX,pz.help
+
+# Stolichki
+DOMAIN-SUFFIX,stolichki.ru
+
+# Uteka
+DOMAIN-SUFFIX,uteka.ru
+
+# Zdravcity
+DOMAIN-SUFFIX,zdravcity.ru
 #end include:category-medicine-ru
 #include:category-retail-ru
 # ABC of Taste
@@ -340,6 +375,9 @@ DOMAIN-SUFFIX,notik.ru
 DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,oskelly.ru
 #end include:oskelly
+
+# O'STIN
+DOMAIN-SUFFIX,ostin.com
 
 # Pyaterochka, Perekrestok, Chizhik
 #include:x5
@@ -1119,6 +1157,18 @@ DOMAIN,sentry.popmechanic.ru
 DOMAIN-SUFFIX,myoffice.ru
 DOMAIN-SUFFIX,myoffice.team
 #end include:myoffice-ru
+#include:netcraze
+# Netcraze (formerly Keenetic in Russia)
+
+## CrazeDNS service
+DOMAIN-SUFFIX,crazedns.ru
+DOMAIN-SUFFIX,netcraze.club
+DOMAIN-SUFFIX,netcraze.link
+DOMAIN-SUFFIX,netcraze.pro
+
+## Official website
+DOMAIN-SUFFIX,netcraze.ru
+#end include:netcraze
 #include:nic-ru
 DOMAIN-SUFFIX,nichost.ru
 DOMAIN-SUFFIX,nic.ru
@@ -1317,7 +1367,6 @@ DOMAIN-SUFFIX,apptrackpets.com    #Pet GPS tracker service (Yandex Cloud, reg.ru
 DOMAIN-SUFFIX,flomni.com    #Omnichannel communications platform
 DOMAIN-SUFFIX,foto-planeta.com    #Photo encyclopedia of settlements
 DOMAIN-SUFFIX,gazfond-pn.ru    #Non-state pension fund GAZFOND pension savings
-DOMAIN-SUFFIX,kinescopecdn.net    #Kinescope video hosting CDN
 DOMAIN-SUFFIX,litres.ru    #E-book and audiobook service
 DOMAIN-SUFFIX,meteoinfo.ru    #Hydrometeorological Center of Russia
 DOMAIN-SUFFIX,ngenix.net    #NGENIX is a Russian provider of acceleration and security services for public web resources
@@ -1330,14 +1379,21 @@ DOMAIN-SUFFIX,randomgodbot.com    #Telegram randomizer bot
 DOMAIN-SUFFIX,srv-hub.org    #Website buider
 DOMAIN-SUFFIX,t1.cloud    #Russian cloud storage provider
 DOMAIN-SUFFIX,taxsee.com    #Taxi for business (self-employed drivers)
+DOMAIN-SUFFIX,vimu.tv    #Vimu Media Player
 DOMAIN-SUFFIX,yourgood.app    #CRM for small business
+
+## eXpress corporate messenger
+DOMAIN-SUFFIX,corp.express
+DOMAIN-SUFFIX,express.ms
+DOMAIN-SUFFIX,public.express
+DOMAIN-SUFFIX,xlnk.ms
+
+## Russian 2FA/MFA provider
+DOMAIN-SUFFIX,mfa.center
+DOMAIN-SUFFIX,multifactor.ru
 
 ## Ads and tracking
 DOMAIN-SUFFIX,adriver.ru
 DOMAIN-SUFFIX,flocktory.com
 DOMAIN-SUFFIX,roistat.com
 DOMAIN-SUFFIX,targetads.io
-
-## Planeta Zdorov'ya pharmacy
-DOMAIN-SUFFIX,planetazdorovo.ru
-DOMAIN-SUFFIX,pz.help

@@ -208,6 +208,7 @@ DOMAIN-SUFFIX,windsurf.com
 #include:xai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,x.ai
 #end include:xai
 #include:youmind

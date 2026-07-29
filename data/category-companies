@@ -1437,6 +1437,7 @@ DOMAIN-SUFFIX,beget.com
 DOMAIN-SUFFIX,beget.ru
 #end include:beget
 #include:blurams
+DOMAIN-SUFFIX,blurams.app
 DOMAIN-SUFFIX,blurams.com
 #end include:blurams
 #include:broadcom

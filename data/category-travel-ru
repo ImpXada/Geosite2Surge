@@ -11,6 +11,9 @@ DOMAIN-SUFFIX,blablacar.ru
 # Bus stations
 DOMAIN-SUFFIX,avtovokzaly.ru
 
+# Grey Wall Pass (Business lounges)
+DOMAIN-SUFFIX,greywallpass.com
+
 # Ostrovok
 DOMAIN-SUFFIX,ostrovok.ru
 

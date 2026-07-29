@@ -1,4 +1,4 @@
-# BudZdorov
+# BudZdorov – network of multidisciplinary medical clinics
 DOMAIN-SUFFIX,klinikabudzdorov.ru
 
 # EMIAS – Moscow city polyclinics and medical institutions
@@ -36,9 +36,44 @@ DOMAIN-SUFFIX,polyclinika.ru
 ## Dentistry Zub Ru – network of dental clinics in Moscow
 DOMAIN-SUFFIX,zub.ru
 
-# Reaviz
+# Reaviz - private medical clinics of the university
 DOMAIN-SUFFIX,reaviz.com
 DOMAIN-SUFFIX,reaviz.ru
 
 # St. Petersburg city polyclinics and medical institutions
 DOMAIN-SUFFIX,gorzdrav.spb.ru
+
+#
+# Pharmacies
+#
+
+# Apteka
+DOMAIN-SUFFIX,apteka.ru
+
+# Apteka April
+DOMAIN-SUFFIX,apteka-april.ru
+
+# Apteki Plus
+DOMAIN-SUFFIX,aptekiplus.ru
+
+# Farmlend
+DOMAIN-SUFFIX,farmlend.ru
+
+# GorZdrav
+DOMAIN-SUFFIX,gorzdrav.org
+
+# Megapteka
+DOMAIN-SUFFIX,megapteka.ru
+
+# Planeta Zdorov'ya
+DOMAIN-SUFFIX,planetazdorovo.ru
+DOMAIN-SUFFIX,pz.help
+
+# Stolichki
+DOMAIN-SUFFIX,stolichki.ru
+
+# Uteka
+DOMAIN-SUFFIX,uteka.ru
+
+# Zdravcity
+DOMAIN-SUFFIX,zdravcity.ru

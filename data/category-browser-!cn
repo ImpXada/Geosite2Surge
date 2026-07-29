@@ -1,4 +1,5 @@
 #include:ceno
+DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
 #end include:ceno
 #include:epicbrowser

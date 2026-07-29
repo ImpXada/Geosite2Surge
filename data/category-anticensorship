@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,nftstorage.link
 DOMAIN-SUFFIX,via0.com
 #end include:category-ipfs
 #include:ceno
+DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
 #end include:ceno
 #include:citizenlab

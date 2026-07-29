@@ -75,6 +75,9 @@ DOMAIN-SUFFIX,oskelly.co
 DOMAIN-SUFFIX,oskelly.ru
 #end include:oskelly
 
+# O'STIN
+DOMAIN-SUFFIX,ostin.com
+
 # Pyaterochka, Perekrestok, Chizhik
 #include:x5
 DOMAIN-SUFFIX,5ka.ru
