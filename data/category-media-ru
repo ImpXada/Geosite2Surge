@@ -186,6 +186,13 @@ DOMAIN-SUFFIX,ruptly.tv
 DOMAIN-SUFFIX,ruptly.video
 #end include:rt
 
+DOMAIN-SUFFIX,72.ru    #News from Tyumen and the Tyumen region
+DOMAIN-SUFFIX,amic.ru    #News from the Altai Krai
+DOMAIN-SUFFIX,e1.ru    #News from Yekaterinburg and the Sverdlovsk region
+DOMAIN-SUFFIX,ekat.ru    #e1`s alternative domain
+DOMAIN-SUFFIX,gazeta.ru    #A media outlet owned by Russian It giant "Sber"
+DOMAIN-SUFFIX,rambler.ru    #A media outlet owned by Russian It giant "Sber"
+
 # EurAsia Daily (EADaily, EAD), allegedly a state-controlled news outlet
 DOMAIN-SUFFIX,eadaily.com
 DOMAIN-SUFFIX,eadaily.info
@@ -193,7 +200,3 @@ DOMAIN-SUFFIX,eadaily.net
 DOMAIN-SUFFIX,eadaily.org
 DOMAIN-SUFFIX,eadaily.su
 DOMAIN-SUFFIX,eurasiadaily.su
-
-# iXBT
-DOMAIN-SUFFIX,ixbt.com
-DOMAIN-SUFFIX,ixbt.site

@@ -1,17 +1,25 @@
 # Federal Gov.
-DOMAIN-SUFFIX,government.ru
-DOMAIN-SUFFIX,gov.ru
+DOMAIN-SUFFIX,gov.ru    #Russian government server
+DOMAIN-SUFFIX,government.ru    #The official website of the Russian government
 
 # Federal Public Services
-DOMAIN-SUFFIX,gosuslugi.ru
-DOMAIN-SUFFIX,gu-st.ru
+DOMAIN-SUFFIX,gosuslugi.ru    #Government services portal
+DOMAIN-SUFFIX,gu-st.ru    #Government services portal old version
 
 # Federal Healthcare Services
-DOMAIN-SUFFIX,emias.info
-DOMAIN-SUFFIX,mgfoms.ru
+DOMAIN-SUFFIX,emias.info    #Making an appointment at a municipal clinic in Moscow
+DOMAIN-SUFFIX,mgfoms.ru    #The mandatory health insurance system in Moscow
 
 # Federal Educational Services
-DOMAIN-SUFFIX,edu.ru
+DOMAIN-SUFFIX,edu-74.ru    #Education in the Chelyabinsk region
+DOMAIN-SUFFIX,edu.ru    #Russian digital school
+DOMAIN-SUFFIX,edu22.info    #Official portal of the Altai krai education system
+DOMAIN-SUFFIX,netschool.website    #Students online journal
+DOMAIN-SUFFIX,ooc-school.ru    #"Schooll" general education portal
+DOMAIN-SUFFIX,prim-edu.ru    #Primorsky Krai education services portal
+DOMAIN-SUFFIX,ro-edu.ru    #Russian education federal portal
+DOMAIN-SUFFIX,tomedu.ru    #Tomsk education portal
+DOMAIN-SUFFIX,zabedu.ru    #Education portal of the Trans-baikal region
 
 # Other Federal Resources
 DOMAIN-SUFFIX,cbr.ru    #Central Bank of Russia
@@ -24,7 +32,9 @@ DOMAIN-SUFFIX,kremlin.ru    #Online representation of the President of Russia
 DOMAIN-SUFFIX,mil.ru    #Ministry of Defense of the Russian Federation
 DOMAIN-SUFFIX,nalog.ru    #Federal Tax Service
 DOMAIN-SUFFIX,xn--80ajghhoc2aj1c8b.xn--p1ai    #Honest Sign - State Labeling System
+DOMAIN-SUFFIX,xn--90aivcdt6dxbc.xn--p1ai    #Explaining Russia - A website with answers to questions
 DOMAIN-SUFFIX,xn--b1afabzvcegckfhg.xn--p1ai    #Military Registration Register
+DOMAIN-SUFFIX,xn--d1acchc3adyj9k.xn--p1ai    #Achievements of the counrty and regions
 
 #
 # Regional sites and Public Services
@@ -42,22 +52,25 @@ DOMAIN-SUFFIX,xn--b1afabzvcegckfhg.xn--p1ai    #Military Registration Register
 # Federal Cities (Cities of Federal Importance)
 DOMAIN-SUFFIX,mos.ru    #Moscow
 DOMAIN-SUFFIX,mosreg.ru    #Moscow Region
-DOMAIN-SUFFIX,spb.ru    #St. Petersburg
 DOMAIN-SUFFIX,sevastopol.ru    #Sevastopol
+DOMAIN-SUFFIX,spb.ru    #St. Petersburg
 
 # Republics
 DOMAIN-SUFFIX,adygeya.ru    #Republic of Adygea
 DOMAIN-SUFFIX,bashkiria.ru    #Republic of Bashkortostan
 DOMAIN-SUFFIX,buryatia.ru    #Republic of Buryatia
+DOMAIN-SUFFIX,cap.ru    #Chuvash Republic
 DOMAIN-SUFFIX,chuvashia.ru    #Chuvash Republic
 DOMAIN-SUFFIX,crimea.ru    #Republic of Crimea
 DOMAIN-SUFFIX,dagestan.ru    #Republic of Dagestan
+DOMAIN-SUFFIX,e-yakutia.ru    #Republic of Sakha (Yakutia)
 DOMAIN-SUFFIX,grozny.ru    #Grozny City, Chechen Republic
 DOMAIN-SUFFIX,i-ola.ru    #Yoshkar-Ola City, Republic of Mari El
 DOMAIN-SUFFIX,izhevsk.ru    #Izhevsk City, Republic of Udmurtia
 DOMAIN-SUFFIX,kalmykia.ru    #Republic of Kalmykia
 DOMAIN-SUFFIX,karelia.ru    #Republic of Karelia
 DOMAIN-SUFFIX,kazan.ru    #Kazan City, Republic of Tatarstan
+DOMAIN-SUFFIX,kchgov.ru    #Karachay-Cherkess Republic
 DOMAIN-SUFFIX,kchr.ru    #Karachay-Cherkessia
 DOMAIN-SUFFIX,khakassia.ru    #Republic of Khakassia
 DOMAIN-SUFFIX,mari-el.ru    #Republic of Mari El
@@ -101,7 +114,6 @@ DOMAIN-SUFFIX,cbg.ru    #Voronezh Region
 DOMAIN-SUFFIX,chel.ru    #Chelyabinsk Region
 DOMAIN-SUFFIX,chelyabinsk.ru    #Chelyabinsk Region
 DOMAIN-SUFFIX,ekburg.ru    #Ekaterinburg City, Sverdlovsk Region
-DOMAIN-SUFFIX,xn--80acgfbsl1azdqr.xn--p1ai    #екатеринбург.рф / Ekaterinburg City, Sverdlovsk Region
 DOMAIN-SUFFIX,irk.ru    #Irkutsk Region
 DOMAIN-SUFFIX,irkutsk.ru    #Irkutsk Region
 DOMAIN-SUFFIX,ivanovo.ru    #Ivanovo Region
@@ -143,11 +155,13 @@ DOMAIN-SUFFIX,tver.ru    #Tver Region
 DOMAIN-SUFFIX,tyumen.ru    #Tyumen Region
 DOMAIN-SUFFIX,vladimir.ru    #Vladimir Region
 DOMAIN-SUFFIX,vlg.ru    #Volgograd Region
+DOMAIN-SUFFIX,volganet.net    #Volgograd Oblast
 DOMAIN-SUFFIX,volgograd.ru    #Volgograd Region
 DOMAIN-SUFFIX,vologda.ru    #Vologda Region
 DOMAIN-SUFFIX,voronezh.ru    #Voronezh Region
 DOMAIN-SUFFIX,vrn.ru    #Voronezh Region
 DOMAIN-SUFFIX,vyatka.ru    #Kirov Region
+DOMAIN-SUFFIX,xn--80acgfbsl1azdqr.xn--p1ai    #екатеринбург.рф / Ekaterinburg City, Sverdlovsk Region
 DOMAIN-SUFFIX,yaroslavl.ru    #Yaroslavl Region
 DOMAIN-SUFFIX,yuzhno-sakhalinsk.ru    #Yuzhno-Sakhalinsk City, Sakhalin Region
 
@@ -156,6 +170,7 @@ DOMAIN-SUFFIX,chukotka.ru    #Chukotka Autonomous Area
 DOMAIN-SUFFIX,jamal.ru    #Yamal-Nenets Autonomous Area
 DOMAIN-SUFFIX,surgut.ru    #Khanty-Mansi Autonomous Area – Yugra
 DOMAIN-SUFFIX,yamal.ru    #Yamal-Nenets Autonomous Area
+DOMAIN-SUFFIX,yanao.ru    #Yamalo-Nenets Autonomous Okrug
 
 # Regional health services
 DOMAIN-SUFFIX,zdrav10.ru    #Republic of Karelia

@@ -269,6 +269,19 @@ DOMAIN-SUFFIX,lizhiinc.com
 DOMAIN-SUFFIX,lz310.com
 DOMAIN-SUFFIX,lzpipi.com
 #end include:lizhi
+#include:manhuaren
+# 漫画人/动漫屋 瑞安市我喜欢网络有限公司
+DOMAIN-SUFFIX,1kkk.com
+DOMAIN-SUFFIX,cdndm5.com
+DOMAIN-SUFFIX,dm5.cn
+DOMAIN-SUFFIX,dm5.com
+DOMAIN-SUFFIX,dm9.com
+DOMAIN-SUFFIX,gmanhua.com
+DOMAIN-SUFFIX,hkmanga.com
+DOMAIN-SUFFIX,manben.com
+DOMAIN-SUFFIX,manbenapi.com
+DOMAIN-SUFFIX,manhuaren.com
+#end include:manhuaren
 #include:pptv
 DOMAIN-SUFFIX,pplive.cn
 DOMAIN-SUFFIX,pplive.com

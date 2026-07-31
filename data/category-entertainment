@@ -1380,6 +1380,10 @@ DOMAIN-SUFFIX,wwr-stardom.com
 DOMAIN-SUFFIX,catchplay.com
 DOMAIN-SUFFIX,tra-ww000-cp.akamaized.net
 #end include:catchplay
+#include:chesscom
+DOMAIN-SUFFIX,chess.com
+DOMAIN-SUFFIX,chesscomfiles.com
+#end include:chesscom
 #include:copymanga
 DOMAIN-SUFFIX,2025copy.com
 DOMAIN-SUFFIX,copy-manga.com

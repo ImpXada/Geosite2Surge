@@ -1,7 +1,6 @@
 # youku uses some alicdn services, so this must use with domain list "alibaba"
 DOMAIN-SUFFIX,9xsecndns.cn
 DOMAIN-SUFFIX,kumiao.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,ykimg.com
@@ -9,6 +8,8 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,youku.tv
 DOMAIN-SUFFIX,youkuhonor.com
 DOMAIN-SUFFIX,youkuplay.com
+
+DOMAIN,ykimg.alicdn.com
 
 # Ads/tracking
 DOMAIN-SUFFIX,ad.api.3g.youku.com

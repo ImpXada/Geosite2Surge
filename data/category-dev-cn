@@ -45,10 +45,6 @@ DOMAIN-SUFFIX,kaifayun.com
 DOMAIN-SUFFIX,programmer.com.cn
 DOMAIN-SUFFIX,programmer.net.cn
 #end include:csdn
-#include:gitee
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,gitee.io
-#end include:gitee
 #include:goproxy
 # go mod proxy
 DOMAIN-SUFFIX,goproxy.cn
