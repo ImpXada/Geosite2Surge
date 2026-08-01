@@ -269,6 +269,8 @@ DOMAIN-SUFFIX,zxxk.com
 DOMAIN-SUFFIX,yunzhuxue.com
 # “叶圣陶杯”全国中学生新作文大赛
 DOMAIN-SUFFIX,ystbds.com
+# 易班优课
+DOMAIN-SUFFIX,yooc.me
 # 中国高校在线
 DOMAIN-SUFFIX,zggx100.com
 # 小站教育
@@ -282,3 +284,7 @@ DOMAIN-SUFFIX,zuowen8.com
 DOMAIN-SUFFIX,zuowenjun.com
 DOMAIN-SUFFIX,zuowenku.net
 DOMAIN-SUFFIX,zuowenwang.net
+# 千学教育 # 京ICP备2021026895号-5
+DOMAIN-SUFFIX,qianxuecloud.com
+DOMAIN-SUFFIX,qianxueyunke.com
+DOMAIN-SUFFIX,zhixingyunke.com
