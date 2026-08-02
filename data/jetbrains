@@ -1,3 +1,10 @@
+# https://www.jetbrains.com/legal/websites/
+#include:jetbrains-ai
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,jetbrains.ai
+#end include:jetbrains-ai
+
 DOMAIN-SUFFIX,datalore.io
 DOMAIN-SUFFIX,intellij.com
 DOMAIN-SUFFIX,intellij.net
@@ -6,10 +13,18 @@ DOMAIN-SUFFIX,jb.gg
 DOMAIN-SUFFIX,jetbrains.cloud
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,jetbrains.dev
 DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.ru
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jetbrains.team
+DOMAIN-SUFFIX,kotl.in
+DOMAIN-SUFFIX,kotlinconf.com
 DOMAIN-SUFFIX,kotlinlang.org
+DOMAIN-SUFFIX,ktor.io
+DOMAIN-SUFFIX,myjetbrains.com
+DOMAIN-SUFFIX,talkingkotlin.com
 DOMAIN-SUFFIX,youtrack.cloud
 
 DOMAIN-SUFFIX,cdn.jetbrains.com

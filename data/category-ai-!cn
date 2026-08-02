@@ -10,22 +10,6 @@ DOMAIN-SUFFIX,claudeusercontent.com
 # CDN
 DOMAIN,servd-anthropic-website.b-cdn.net
 #end include:anthropic
-#include:bytedance-ai-!cn
-#include:dola
-# Dola, formly ciciai, an AI service of bytedance
-DOMAIN-SUFFIX,cici.com
-DOMAIN-SUFFIX,ciciai.com
-DOMAIN-SUFFIX,ciciaicdn.com
-DOMAIN-SUFFIX,dola.com
-#end include:dola
-
-# related to doubao
-DOMAIN-SUFFIX,coze.com
-
-# related to trae
-DOMAIN-SUFFIX,marscode.com
-DOMAIN-SUFFIX,trae.ai
-#end include:bytedance-ai-!cn
 #include:cerebras
 DOMAIN-SUFFIX,cerebras.ai
 #end include:cerebras
@@ -106,6 +90,7 @@ DOMAIN,daily-cloudcode-pa.googleapis.com
 # NotebookLM
 DOMAIN,notebooklm-pa.googleapis.com
 DOMAIN,notebooklm.googleapis.com
+DOMAIN-SUFFIX,notebook.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 
@@ -144,6 +129,11 @@ DOMAIN-SUFFIX,hf.co
 DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,huggingface.co
 #end include:huggingface
+#include:jetbrains-ai
+DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
+DOMAIN-SUFFIX,jetbrains.ai
+#end include:jetbrains-ai
 #include:liveperson
 DOMAIN-SUFFIX,liveperson.net
 DOMAIN-SUFFIX,lpsnmedia.net

@@ -269,15 +269,11 @@ DOMAIN-SUFFIX,dbankcloud.ru
 DOMAIN-SUFFIX,rednote.com
 DOMAIN-SUFFIX,rednote.com.my
 DOMAIN-SUFFIX,rednotecdn.com
-DOMAIN-SUFFIX,byteglb.com
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,byteoversea.net
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ibyteimg.com
-DOMAIN,bytedance.map.fastly.net
-DOMAIN-SUFFIX,coze.com
-DOMAIN-SUFFIX,marscode.com
-DOMAIN-SUFFIX,trae.ai
+DOMAIN-SUFFIX,tencent.co.id
+DOMAIN-SUFFIX,tencent.com.hk
+DOMAIN-SUFFIX,wetv.vip
+DOMAIN-SUFFIX,wetvinfo.com
+DOMAIN,wetv.qq.com
 DOMAIN-SUFFIX,alihealth.hk
 DOMAIN-SUFFIX,ae-rus.net
 DOMAIN-SUFFIX,aedns.ru
@@ -352,8 +348,12 @@ DOMAIN-SUFFIX,ca.file.myqcloud.com    #多伦多
 DOMAIN-SUFFIX,ger.file.myqcloud.com    #法兰克福
 DOMAIN-SUFFIX,rumt-sg.com    #新加坡
 DOMAIN-SUFFIX,rumt-us.com    #硅谷
-DOMAIN-SUFFIX,tencent.co.id
-DOMAIN-SUFFIX,tencent.com.hk
-DOMAIN-SUFFIX,wetv.vip
-DOMAIN-SUFFIX,wetvinfo.com
-DOMAIN,wetv.qq.com
+DOMAIN-SUFFIX,byteglb.com
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,byteoversea.net
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN,bytedance.map.fastly.net
+DOMAIN-SUFFIX,coze.com
+DOMAIN-SUFFIX,marscode.com
+DOMAIN-SUFFIX,trae.ai
