@@ -5340,7 +5340,7 @@ DOMAIN-SUFFIX,xpccdn.com
 # Telecommunication
 #include:chinabroadnet
 DOMAIN-SUFFIX,10099.com.cn
-DOMAIN-SUFFIX,chn.cn
+DOMAIN-SUFFIX,cbn.cn
 
 # 安徽省
 DOMAIN-SUFFIX,ahitv.com

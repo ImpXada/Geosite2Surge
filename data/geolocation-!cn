@@ -6301,6 +6301,11 @@ DOMAIN-SUFFIX,feedly.com
 #include:figma
 DOMAIN-SUFFIX,figma.com
 #end include:figma
+#include:flyio
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,fly.io
+DOMAIN-SUFFIX,flyio.net
+#end include:flyio
 #include:gofundme
 DOMAIN-SUFFIX,gofundme.com
 #end include:gofundme

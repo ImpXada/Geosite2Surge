@@ -1007,6 +1007,23 @@ DOMAIN-SUFFIX,sling.com
 DOMAIN-SUFFIX,movenetworks.com
 DOMAIN-SUFFIX,movetv.com
 #end include:sling
+#include:sonemic
+# Glitchwave, video game database
+DOMAIN-SUFFIX,glitchwave.com
+
+# Rate Your Music
+DOMAIN-SUFFIX,rateyourmusic.com
+
+# Rate Your Music forums
+DOMAIN-SUFFIX,rym.fm
+
+# Image and static asset CDN
+DOMAIN-SUFFIX,snmc.io
+DOMAIN-SUFFIX,sonematic.net
+
+# Sonemic project site
+DOMAIN-SUFFIX,sonemic.com
+#end include:sonemic
 #include:sonypictures
 DOMAIN-SUFFIX,imageworks.com
 DOMAIN-SUFFIX,motionpictureser.com
