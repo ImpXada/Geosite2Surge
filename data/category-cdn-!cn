@@ -93,9 +93,6 @@ DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
-
-# Video.js CDN
-DOMAIN-SUFFIX,zencdn.net
 #end include:fastly
 #include:imgix
 DOMAIN-SUFFIX,imgix.com

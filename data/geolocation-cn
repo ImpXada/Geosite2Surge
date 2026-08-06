@@ -1441,6 +1441,9 @@ DOMAIN-SUFFIX,36dianping.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com
+
+# Ads
+DOMAIN-SUFFIX,adx.36kr.com
 #end include:36kr
 #include:cctv
 DOMAIN-SUFFIX,cctv.cn
@@ -4497,6 +4500,17 @@ DOMAIN-SUFFIX,sinopecgroup.com
 DOMAIN-SUFFIX,sinopecnews.com.cn
 DOMAIN-SUFFIX,sinopecsales.com
 #end include:sinopec
+
+## 国家电网
+DOMAIN-SUFFIX,95598.cn
+DOMAIN-SUFFIX,95598pay.com
+DOMAIN-SUFFIX,echargenet.com
+DOMAIN-SUFFIX,esgcc.com.cn
+DOMAIN-SUFFIX,sgcc.com.cn
+## 南方电网
+DOMAIN-SUFFIX,csg.cn
+DOMAIN-SUFFIX,ecsg.com.cn
+DOMAIN-SUFFIX,poweremarket.com
 
 # Tech companies & Orginations
 #include:baidu

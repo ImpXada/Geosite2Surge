@@ -1,4 +1,10 @@
 # Forums & Social network
+#include:2ch
+DOMAIN-SUFFIX,2ch.hk
+DOMAIN-SUFFIX,2ch.life
+DOMAIN-SUFFIX,2ch.org
+DOMAIN-SUFFIX,2ch.su
+#end include:2ch
 #include:4chan
 DOMAIN-SUFFIX,4cdn.org
 DOMAIN-SUFFIX,4chan.org

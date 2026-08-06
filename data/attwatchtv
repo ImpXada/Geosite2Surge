@@ -1,6 +1,8 @@
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
 DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attwatchtv.com
-DOMAIN-SUFFIX,directv.com
 DOMAIN-SUFFIX,dtvce.com
 DOMAIN-SUFFIX,nettyinternet.com

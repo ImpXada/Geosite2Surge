@@ -37,6 +37,18 @@ DOMAIN-SUFFIX,macruby.org
 # MapKit
 DOMAIN-SUFFIX,apple-mapkit.com
 
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn1.apple-mapkit.com
+DOMAIN,cdn2.apple-mapkit.com
+DOMAIN,cdn3.apple-mapkit.com
+DOMAIN,cdn4.apple-mapkit.com
+DOMAIN,cdn-cn.apple-mapkit.com
+DOMAIN,cdn-cn1.apple-mapkit.com
+DOMAIN,cdn-cn2.apple-mapkit.com
+DOMAIN,cdn-cn3.apple-mapkit.com
+DOMAIN,cdn-cn4.apple-mapkit.com
+
 # Playgrounds
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com
 
@@ -1534,7 +1546,6 @@ DOMAIN-SUFFIX,apple-hk.com
 DOMAIN-SUFFIX,apple-ibooks.cn
 DOMAIN-SUFFIX,apple-inc.net
 DOMAIN-SUFFIX,apple-livephotoskit.com
-DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-maps.cn
 DOMAIN-SUFFIX,apple-online.com
 DOMAIN-SUFFIX,apple-studies.com
@@ -1791,18 +1802,6 @@ DOMAIN,a2.mzstatic.com
 DOMAIN,a3.mzstatic.com
 DOMAIN,a4.mzstatic.com
 DOMAIN,a5.mzstatic.com
-
-# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
-DOMAIN,cdn.apple-mapkit.com
-DOMAIN,cdn1.apple-mapkit.com
-DOMAIN,cdn2.apple-mapkit.com
-DOMAIN,cdn3.apple-mapkit.com
-DOMAIN,cdn4.apple-mapkit.com
-DOMAIN,cdn-cn.apple-mapkit.com
-DOMAIN,cdn-cn1.apple-mapkit.com
-DOMAIN,cdn-cn2.apple-mapkit.com
-DOMAIN,cdn-cn3.apple-mapkit.com
-DOMAIN,cdn-cn4.apple-mapkit.com
 
 # regexp:^cl[1-5]-cdn\.origin-apple\.com\.akadns\.net$ @cn
 DOMAIN,cl1-cdn.origin-apple.com.akadns.net

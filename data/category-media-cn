@@ -3,6 +3,9 @@ DOMAIN-SUFFIX,36dianping.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com
+
+# Ads
+DOMAIN-SUFFIX,adx.36kr.com
 #end include:36kr
 #include:cctv
 DOMAIN-SUFFIX,cctv.cn

@@ -46,10 +46,6 @@ DOMAIN-SUFFIX,ts.net
 #end include:category-proxy-tunnels
 
 # Art & Design & Photography
-#include:artstation
-DOMAIN-SUFFIX,artstation.com
-DOMAIN-SUFFIX,artstationmedia.com
-#end include:artstation
 #include:dribbble
 DOMAIN-SUFFIX,drbl.in
 DOMAIN-SUFFIX,dribbble.com
@@ -1785,9 +1781,6 @@ DOMAIN-SUFFIX,travelexmoneycard.com
 # World Currency Card
 DOMAIN-SUFFIX,bidvestbank.co.za
 DOMAIN-SUFFIX,worldcurrencycard.co.za
-
-DOMAIN,nab.demdex.net
-DOMAIN,nationalaustraliaban.tt.omtrdc.net
 #end include:mastercard
 #include:paypal
 DOMAIN-SUFFIX,account-paypal.info
@@ -2343,9 +2336,6 @@ DOMAIN-SUFFIX,fastly.io
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fastlylabs.com
 DOMAIN-SUFFIX,fastlylb.net
-
-# Video.js CDN
-DOMAIN-SUFFIX,zencdn.net
 #end include:fastly
 #include:imgix
 DOMAIN-SUFFIX,imgix.com
@@ -3470,7 +3460,6 @@ DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
-DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
@@ -4249,8 +4238,6 @@ DOMAIN-SUFFIX,foxuv.com
 DOMAIN-SUFFIX,foxweatherwatch.com
 DOMAIN-SUFFIX,fssta.com
 DOMAIN-SUFFIX,fxn.ws
-DOMAIN-SUFFIX,fxnetwork.com
-DOMAIN-SUFFIX,fxnetworks.com
 
 # Bento Box Entertainment
 DOMAIN-SUFFIX,bentobox.tv
@@ -4454,10 +4441,6 @@ DOMAIN-SUFFIX,hketgroup.com
 DOMAIN-SUFFIX,ulifestyle.com.hk
 DOMAIN-SUFFIX,umagazine.com.hk
 #end include:hketgroup
-#include:hkopentv
-DOMAIN-SUFFIX,hkopentv.com
-DOMAIN-SUFFIX,fantv.hk
-#end include:hkopentv
 #include:huffpost
 DOMAIN-SUFFIX,huffingtonpost.ca
 DOMAIN-SUFFIX,huffingtonpost.co.uk
@@ -5267,12 +5250,12 @@ DOMAIN-SUFFIX,tospo-keiba.jp
 #end include:tokyo-sports
 #include:tvb
 DOMAIN-SUFFIX,mytvsuper.com
-DOMAIN-SUFFIX,tvb.com
 #end include:mytvsuper
 
 DOMAIN-SUFFIX,bigbigchannel.com.hk
 DOMAIN-SUFFIX,bigbigshop.com
 DOMAIN-SUFFIX,encoretvb.com
+DOMAIN-SUFFIX,neigbuy.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tvb.com.au
 DOMAIN-SUFFIX,tvbanywhere.com
@@ -5401,7 +5384,6 @@ DOMAIN-SUFFIX,the-japan-news.com
 DOMAIN-SUFFIX,ync.ne.jp
 DOMAIN-SUFFIX,yomikyo.or.jp
 DOMAIN-SUFFIX,yomilogi.com
-DOMAIN-SUFFIX,yomiuri-johkai.co.jp
 DOMAIN-SUFFIX,yomiuri-johkai.co.jp
 DOMAIN-SUFFIX,yomiuri-ryokou.co.jp
 DOMAIN-SUFFIX,yomiuri-shimbun.pressreader.com
@@ -5771,7 +5753,6 @@ DOMAIN-SUFFIX,kaspersky.co.za
 DOMAIN-SUFFIX,kaspersky.com.au
 DOMAIN-SUFFIX,kaspersky.com.br
 DOMAIN-SUFFIX,kaspersky.com.cn
-DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,kaspersky.com.hk
 DOMAIN-SUFFIX,kaspersky.com.pl
 DOMAIN-SUFFIX,kaspersky.com.tr
@@ -6747,6 +6728,18 @@ DOMAIN-SUFFIX,macruby.org
 
 # MapKit
 DOMAIN-SUFFIX,apple-mapkit.com
+
+# regexp:^cdn(-cn)?[1-4]?\.apple-mapkit\.com$ @cn
+DOMAIN,cdn.apple-mapkit.com
+DOMAIN,cdn1.apple-mapkit.com
+DOMAIN,cdn2.apple-mapkit.com
+DOMAIN,cdn3.apple-mapkit.com
+DOMAIN,cdn4.apple-mapkit.com
+DOMAIN,cdn-cn.apple-mapkit.com
+DOMAIN,cdn-cn1.apple-mapkit.com
+DOMAIN,cdn-cn2.apple-mapkit.com
+DOMAIN,cdn-cn3.apple-mapkit.com
+DOMAIN,cdn-cn4.apple-mapkit.com
 
 # Playgrounds
 DOMAIN-SUFFIX,playgrounds-cdn.apple.com

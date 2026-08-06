@@ -1,4 +1,13 @@
 # AT&T Inc.
+# AT&T WatchTV was a discontinued standalone streaming service and no longer exists
+# We may remove this list.
+
+DOMAIN-SUFFIX,att.tv
+DOMAIN-SUFFIX,atttvnow.com
+DOMAIN-SUFFIX,attwatchtv.com
+DOMAIN-SUFFIX,dtvce.com
+DOMAIN-SUFFIX,nettyinternet.com
+#end include:attwatchtv
 
 DOMAIN-SUFFIX,accbusiness.com
 DOMAIN-SUFFIX,atandt.com
@@ -11,7 +20,6 @@ DOMAIN-SUFFIX,att.cn
 DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,att.jobs
 DOMAIN-SUFFIX,att.net
-DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,attalascom.com
 DOMAIN-SUFFIX,attbelieves.com
 DOMAIN-SUFFIX,attbusiness.net
@@ -33,7 +41,6 @@ DOMAIN-SUFFIX,attspecial.com
 DOMAIN-SUFFIX,attssl.com
 DOMAIN-SUFFIX,attstadium.com
 DOMAIN-SUFFIX,attsuppliers.com
-DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attuverseoffers.com
 DOMAIN-SUFFIX,attuverseonline.com
 DOMAIN-SUFFIX,attvoip.com
@@ -51,7 +58,6 @@ DOMAIN-SUFFIX,enterprisepaging.com
 DOMAIN-SUFFIX,itcanwait.com
 DOMAIN-SUFFIX,mymmode.com
 DOMAIN-SUFFIX,naturalvoices.com
-DOMAIN-SUFFIX,nettyinternet.com
 DOMAIN-SUFFIX,openapiplatform.com
 DOMAIN-SUFFIX,openapiservice.com
 DOMAIN-SUFFIX,patentgold.net
@@ -72,6 +78,8 @@ DOMAIN-SUFFIX,attdns.net
 DOMAIN-SUFFIX,na-att-idns.net
 
 # Direct TV
+# AT&T and DIRECTV are completely separate companies now.
+# We may add a separate list for DIRECTV
 DOMAIN-SUFFIX,audiencenetwork.com
 DOMAIN-SUFFIX,audiencenetwork.tv
 DOMAIN-SUFFIX,cabletvdirectv.com

@@ -22,7 +22,6 @@ DOMAIN-SUFFIX,aaxads.com
 DOMAIN-SUFFIX,ad-srv.net
 DOMAIN-SUFFIX,ad.wang502.com
 DOMAIN-SUFFIX,adbutter.net
-DOMAIN-SUFFIX,addthisedge.com
 DOMAIN-SUFFIX,ads.huan.tv
 DOMAIN-SUFFIX,ads.huantest.com
 DOMAIN-SUFFIX,ads.trafficjunky.net
@@ -31,7 +30,6 @@ DOMAIN-SUFFIX,adservice.sigmob.cn
 DOMAIN-SUFFIX,adtechus.com
 DOMAIN-SUFFIX,adtrue.com
 DOMAIN-SUFFIX,adxprtz.com
-DOMAIN-SUFFIX,cdn.advertserve.com
 DOMAIN-SUFFIX,cdn.banclip.com
 DOMAIN-SUFFIX,cfts1tifqr.com
 DOMAIN-SUFFIX,contentabc.com
@@ -80,9 +78,6 @@ DOMAIN-SUFFIX,wwads.cn
 # 12306
 DOMAIN-SUFFIX,ad.12306.cn
 
-# 36Kr
-DOMAIN-SUFFIX,adx.36kr.com
-
 # AdHub
 DOMAIN-SUFFIX,hubcloud.com.cn
 
@@ -99,23 +94,6 @@ DOMAIN-SUFFIX,applvn.com
 
 # AppsFlyer
 DOMAIN-SUFFIX,appsflyersdk.com
-
-# Caixin
-# regexp:^pinggai\d\.caixin\.com$
-DOMAIN,pinggai0.caixin.com
-DOMAIN,pinggai1.caixin.com
-DOMAIN,pinggai2.caixin.com
-DOMAIN,pinggai3.caixin.com
-DOMAIN,pinggai4.caixin.com
-DOMAIN,pinggai5.caixin.com
-DOMAIN,pinggai6.caixin.com
-DOMAIN,pinggai7.caixin.com
-DOMAIN,pinggai8.caixin.com
-DOMAIN,pinggai9.caixin.com
-
-# Chinaso
-DOMAIN-SUFFIX,adq.chinaso.com
-DOMAIN-SUFFIX,stat.chinaso.com
 
 # hiido
 DOMAIN-SUFFIX,mlog.hiido.com
@@ -138,22 +116,9 @@ DOMAIN-SUFFIX,ironbeast.io
 DOMAIN-SUFFIX,advapi.joyplus.tv
 DOMAIN-SUFFIX,advapikj.joyplus.tv
 
-# pocoiq
-DOMAIN-SUFFIX,cdn.pocoiq.cn
-DOMAIN-SUFFIX,oct.pocoiq.cn
-
-# Qiniu
-DOMAIN-SUFFIX,dn-growing.qbox.me
-
 # tagtic
 DOMAIN-SUFFIX,g1.tagtic.cn
 DOMAIN-SUFFIX,xy-log.tagtic.cn
-
-# UNI Marketing
-DOMAIN-SUFFIX,ad.unimhk.com
-
-# UCloud
-DOMAIN-SUFFIX,das-rpt-log.ucloud.cn
 
 # Vungle
 DOMAIN,logs.ads.vungle.com
@@ -215,6 +180,11 @@ DOMAIN-SUFFIX,sensors.umetrip.com.cn
 DOMAIN-SUFFIX,pub.network
 #end include:category-ads
 
+#include:addthis
+DOMAIN-SUFFIX,addthis.com
+DOMAIN-SUFFIX,addthiscdn.com
+DOMAIN-SUFFIX,addthisedge.com
+#end include:addthis
 #include:adjust
 DOMAIN-SUFFIX,adjust.com
 DOMAIN-SUFFIX,adjust.io
@@ -285,13 +255,11 @@ DOMAIN-SUFFIX,ad-delivery.net
 DOMAIN-SUFFIX,adcolony.com
 DOMAIN-SUFFIX,adinplay.com
 DOMAIN-SUFFIX,adnxs.com
-DOMAIN-SUFFIX,ads.trafficjunky.net
 DOMAIN-SUFFIX,advertserve.com
 DOMAIN-SUFFIX,adview.cn
 DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,contextual.media.net
 DOMAIN-SUFFIX,cpmstar.com
-DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,httpool.com
 DOMAIN-SUFFIX,lijit.com
 DOMAIN-SUFFIX,mfadsrvr.com

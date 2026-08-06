@@ -668,6 +668,10 @@ DOMAIN-SUFFIX,vlabimg.com
 DOMAIN-SUFFIX,vlabstatic.com
 DOMAIN-SUFFIX,vlabvod.com
 
+# CapCut
+DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,capcutcdn-us.com
+
 # 今日头条
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiaoapi.com

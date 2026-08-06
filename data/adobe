@@ -193,7 +193,6 @@ DOMAIN-SUFFIX,authorxml.com
 DOMAIN-SUFFIX,businesscatalyst.com
 DOMAIN-SUFFIX,ccnsite.com
 DOMAIN-SUFFIX,ccpsx.com
-DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,dollarfotoclub.com
 DOMAIN-SUFFIX,dollarphotoclub.com
 DOMAIN-SUFFIX,dollarphotosclub.com
@@ -289,4 +288,5 @@ DOMAIN-SUFFIX,adobestats.io
 
 # Ads/tracking
 DOMAIN-SUFFIX,advertising.adobe.com
+DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,tubemogul.com

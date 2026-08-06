@@ -208,7 +208,6 @@ DOMAIN-SUFFIX,sa-brazil-1.myhuaweicloud.com    #拉美-圣保罗一
 DOMAIN-SUFFIX,tr-west-1.myhuaweicloud.com    #土耳其-伊斯坦布尔
 DOMAIN-SUFFIX,us-east-1.myhuaweicloud.com    #北美-亚特兰大-废弃
 DOMAIN-SUFFIX,bytedapm.com
-DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,tik-tokapi.com
@@ -354,6 +353,8 @@ DOMAIN-SUFFIX,byteoversea.net
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN,bytedance.map.fastly.net
+DOMAIN-SUFFIX,capcut.com
+DOMAIN-SUFFIX,capcutcdn-us.com
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,trae.ai

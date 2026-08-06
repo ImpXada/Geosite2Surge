@@ -294,6 +294,7 @@ DOMAIN,public.ns.nwps.fi
 DOMAIN,kids.ns.nwps.fi
 
 ## ASTRACAT DNS
+DOMAIN,dns.astracat.ru
 DOMAIN,frd4wvnobp.cloudflare-gateway.com
 
 ## DNSGuard
@@ -301,3 +302,16 @@ DOMAIN,dnsguard.pub
 
 ## 18Bit DNS
 DOMAIN,doh.18bit.cn
+
+## Malw DNS
+DOMAIN,5u35p8m9i7.cloudflare-gateway.com
+DOMAIN,dns.malw.link
+
+## Mafioznik DNS
+DOMAIN,dns.mafioznik.xyz
+
+## GeoHide
+DOMAIN,dns.geohide.ru
+
+## XBox DNS
+DOMAIN,xbox-dns.ru
