@@ -112,8 +112,15 @@ DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com
 
+# 抖音电商
+DOMAIN-SUFFIX,douyinec.com
+
 # 抖音支付
 DOMAIN-SUFFIX,douyinpay.com
+DOMAIN-SUFFIX,ulpay.com
+
+# 抖音生活服务
+DOMAIN-SUFFIX,lifexue.com
 
 # 抖音开放平台
 DOMAIN-SUFFIX,open-douyin.com

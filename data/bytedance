@@ -528,6 +528,7 @@ DOMAIN-SUFFIX,bytetos.com
 DOMAIN-SUFFIX,bytetraffic.net
 DOMAIN-SUFFIX,bytetstatic.com
 DOMAIN-SUFFIX,bytetstatic.net
+DOMAIN-SUFFIX,byteurl.cn
 DOMAIN-SUFFIX,bytevalk.com
 DOMAIN-SUFFIX,bytevcloudapi.com
 DOMAIN-SUFFIX,bytevcloudvod.com
@@ -669,6 +670,7 @@ DOMAIN-SUFFIX,vlabstatic.com
 DOMAIN-SUFFIX,vlabvod.com
 
 # CapCut
+DOMAIN-SUFFIX,capcut.cn
 DOMAIN-SUFFIX,capcut.com
 DOMAIN-SUFFIX,capcutcdn-us.com
 
@@ -748,20 +750,30 @@ DOMAIN-SUFFIX,ppxstatic.com
 DOMAIN-SUFFIX,ppxvod.com
 DOMAIN-SUFFIX,xiaoxiaapi.com
 
+# 朝夕光年
+DOMAIN-SUFFIX,dailygn.com
+DOMAIN-SUFFIX,nvsgames.cn
+
 # 上海格物致品
-DOMAIN-SUFFIX,douyinec.com
+DOMAIN-SUFFIX,buydouke.com
 DOMAIN-SUFFIX,ecombdapi.com
+DOMAIN-SUFFIX,ecombdimg.com
 DOMAIN-SUFFIX,ecombdstatic.com
+DOMAIN-SUFFIX,ecombdvod.com
 DOMAIN-SUFFIX,jinritemai.com
 
-# faceu
+# FaceU激萌
 DOMAIN-SUFFIX,faceu.com
+DOMAIN-SUFFIX,faceu.mobi
 
 # 轻颜相机
 DOMAIN-SUFFIX,ulikecam.com
 
 # RsProxy 镜像
 DOMAIN-SUFFIX,rsproxy.cn
+
+# 巨量引擎
+DOMAIN-SUFFIX,oceanengine.com
 
 # 半次元 (dead)
 # 沪ICP备2021005742号
