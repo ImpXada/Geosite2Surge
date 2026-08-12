@@ -1,17 +1,14 @@
-#include:autoru
 DOMAIN-SUFFIX,apiauto.ru
 DOMAIN-SUFFIX,auto.ru
 DOMAIN-SUFFIX,autoru.me
 DOMAIN-SUFFIX,avto.ru
 DOMAIN-SUFFIX,cm.expert
 #end include:autoru
-#include:avito
 DOMAIN-SUFFIX,avito.ru
 DOMAIN-SUFFIX,avito.st
 
 DOMAIN,stats.avito.ru
 #end include:avito
-#include:cian
 DOMAIN-SUFFIX,cian.ru
 DOMAIN-SUFFIX,cian.site
 DOMAIN-SUFFIX,ciangroup.ru
@@ -20,16 +17,13 @@ DOMAIN-SUFFIX,poudobnee.com
 DOMAIN-SUFFIX,xn--80aaafbpzn5blfby1p.xn--p1ai
 DOMAIN-SUFFIX,xn--80aaeib8abrryx4k.xn--p1ai
 #end include:cian
-#include:flowwow
 DOMAIN-SUFFIX,flowwow-images.com
 DOMAIN-SUFFIX,flowwow.com
 #end include:flowwow
-#include:funpay
 DOMAIN-SUFFIX,funpay.com
 DOMAIN-SUFFIX,funpay.ru
 DOMAIN-SUFFIX,sfunpay.com
 #end include:funpay
-#include:ozon
 DOMAIN-SUFFIX,ewisdom.us.kg
 DOMAIN-SUFFIX,o3.ru
 DOMAIN-SUFFIX,o3t.ru
@@ -98,7 +92,6 @@ DOMAIN,xapi.ozon.kz
 DOMAIN,xapi.ozon.ru
 DOMAIN,xapi.ozonru.me
 #end include:ozon
-#include:wildberries
 DOMAIN-SUFFIX,digital-wb.ru
 DOMAIN-SUFFIX,digitalwb.ru
 DOMAIN-SUFFIX,etradebook.ru

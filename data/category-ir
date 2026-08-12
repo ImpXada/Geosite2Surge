@@ -326,6 +326,7 @@ DOMAIN-SUFFIX,srttu.edu
 #end include:category-scholar-ir
 #include:category-shopping-ir
 # Iranian shopping websites
+#include:divar
 DOMAIN-SUFFIX,divar.cloud
 DOMAIN-SUFFIX,divar.ir
 DOMAIN-SUFFIX,divarcdn.com

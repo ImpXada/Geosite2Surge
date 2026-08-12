@@ -215,10 +215,14 @@ DOMAIN-SUFFIX,weishi.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinsxy.com
 DOMAIN-SUFFIX,weiyun.com
-DOMAIN-SUFFIX,wxaurl.cn
 DOMAIN-SUFFIX,wxcloudrun.com
 DOMAIN-SUFFIX,wxgateway.com
 DOMAIN-SUFFIX,wxlivecdn.com
+
+# Short URL
+DOMAIN-SUFFIX,mmbizurl.cn
+DOMAIN-SUFFIX,url.cn
+DOMAIN-SUFFIX,wxaurl.cn
 DOMAIN-SUFFIX,wxmpurl.cn
 
 # 腾讯视频海外版

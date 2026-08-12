@@ -294,7 +294,6 @@ DOMAIN-SUFFIX,forbesimg.com
 # All .fox domains
 DOMAIN-SUFFIX,fox
 
-#include:tubi
 DOMAIN-SUFFIX,tubi.io
 DOMAIN-SUFFIX,tubi.tv
 DOMAIN-SUFFIX,tubi.video
@@ -1479,24 +1478,6 @@ DOMAIN-SUFFIX,tr.com
 DOMAIN-SUFFIX,tokyo-sports.co.jp
 DOMAIN-SUFFIX,tospo-keiba.jp
 #end include:tokyo-sports
-#include:tvb
-DOMAIN-SUFFIX,mytvsuper.com
-#end include:mytvsuper
-
-DOMAIN-SUFFIX,bigbigchannel.com.hk
-DOMAIN-SUFFIX,bigbigshop.com
-DOMAIN-SUFFIX,encoretvb.com
-DOMAIN-SUFFIX,neigbuy.com
-DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,tvb.com.au
-DOMAIN-SUFFIX,tvbanywhere.com
-DOMAIN-SUFFIX,tvbanywhere.com.sg
-DOMAIN-SUFFIX,tvbc.com.cn
-DOMAIN-SUFFIX,tvbeventpower.com.hk
-DOMAIN-SUFFIX,tvbusa.com
-DOMAIN-SUFFIX,tvbweekly.com
-DOMAIN-SUFFIX,tvmedia.net.au
-#end include:tvb
 #include:udn
 DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,udn.com.tw

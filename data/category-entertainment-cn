@@ -425,14 +425,6 @@ DOMAIN-SUFFIX,xyzcdn.net
 DOMAIN-SUFFIX,xiaoyuzhoufm.com
 DOMAIN-SUFFIX,podcast.xyz
 #end include:xiaoyuzhou
-#include:yy
-DOMAIN-SUFFIX,duowan.com
-DOMAIN-SUFFIX,dwstatic.com
-#end include:duowan
-
-DOMAIN-SUFFIX,yy.com
-DOMAIN-SUFFIX,yystatic.com
-#end include:yy
 
 # Android Emulator
 DOMAIN-SUFFIX,ldmnq.com

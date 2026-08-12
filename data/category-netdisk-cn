@@ -1,3 +1,4 @@
+#include:115
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
@@ -13,6 +14,7 @@ DOMAIN-SUFFIX,116cd.net
 DOMAIN-SUFFIX,anxia.com
 DOMAIN-SUFFIX,sq.cc
 #end include:115
+#include:aliyun-drive
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,aliyundrive.cloud
@@ -20,6 +22,7 @@ DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,yunpan.aliyun.com
 #end include:aliyun-drive
+#include:cowtransfer
 # 奶牛快传
 ## 蜀ICP备14008877号
 DOMAIN-SUFFIX,c-t.work
@@ -27,6 +30,7 @@ DOMAIN-SUFFIX,c-t.work
 DOMAIN-SUFFIX,cowcs.com
 DOMAIN-SUFFIX,cowtransfer.com
 #end include:cowtransfer
+#include:lanzou
 DOMAIN-SUFFIX,baidupan.com
 DOMAIN-SUFFIX,ilanzou.com
 DOMAIN-SUFFIX,lanosso.com
@@ -56,6 +60,7 @@ DOMAIN-SUFFIX,lanzouy.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,woozooo.com
 #end include:lanzou
+#include:wenshushu
 # 成都字节星云科技有限公司 蜀ICP备19024011号
 DOMAIN-SUFFIX,wenshushu.cn
 DOMAIN-SUFFIX,wenshushu.com

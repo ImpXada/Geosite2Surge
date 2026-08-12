@@ -1,3 +1,4 @@
+# Use `geosite:activision-blizzard` if you want to match more domains
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blizzardgearstore.com
 DOMAIN-SUFFIX,blz-contentstack.com
@@ -12,7 +13,9 @@ DOMAIN,bnetproduct-a.akamaihd.net
 DOMAIN,bnetshopus.akamaized.net
 
 # Diablo
+DOMAIN-SUFFIX,diablo.com
 DOMAIN-SUFFIX,diablo3.com
+DOMAIN-SUFFIX,diablo4.com
 DOMAIN-SUFFIX,diabloimmortal.com
 
 # Hearthstone
