@@ -220,6 +220,7 @@ DOMAIN-SUFFIX,ku6img.com
 #include:kuaikan
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,kuaikanmanhua.com
+DOMAIN-SUFFIX,v3mh.com
 #end include:kuaikan
 #include:kuaishou
 DOMAIN-SUFFIX,ecukwai.com
@@ -488,6 +489,8 @@ DOMAIN-SUFFIX,wasumedia.cn
 DOMAIN-SUFFIX,172mix.com
 # 17K小说
 DOMAIN-SUFFIX,17k.com
+# 西影网
+DOMAIN-SUFFIX,1958xy.com
 # https://github.com/supzhang/epg
 DOMAIN-SUFFIX,51zmt.top
 # 六间房
@@ -583,6 +586,8 @@ DOMAIN-SUFFIX,mtime.com
 DOMAIN-SUFFIX,pearvideo.com
 # 皮皮网
 DOMAIN-SUFFIX,pipi.cn
+# 腾飞网
+DOMAIN-SUFFIX,qqtf.com
 # 人人视频
 DOMAIN-SUFFIX,rrmj.plus
 DOMAIN-SUFFIX,rrsp.app

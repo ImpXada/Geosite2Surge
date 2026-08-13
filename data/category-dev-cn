@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,phpweblog.net
 DOMAIN-SUFFIX,teachblog.net
 #end include:cnblogs
 #include:csdn
+DOMAIN-SUFFIX,atomgit.com
 DOMAIN-SUFFIX,codechina.net
 DOMAIN-SUFFIX,csdn.com
 DOMAIN-SUFFIX,csdn.net

@@ -7,6 +7,9 @@ DOMAIN-SUFFIX,sseinfo.com
 DOMAIN-SUFFIX,szse.cn
 DOMAIN-SUFFIX,cninfo.com.cn
 
+# 中国证券登记结算有限责任公司
+DOMAIN-SUFFIX,chinaclear.cn
+
 # Securities Company 证券公司
 #include:hsbc-cn
 DOMAIN-SUFFIX,hsbc.com.cn

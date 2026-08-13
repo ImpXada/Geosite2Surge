@@ -1,5 +1,6 @@
 #include:36kr
 DOMAIN-SUFFIX,36dianping.com
+DOMAIN-SUFFIX,36linkr.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36krcnd.com
@@ -187,6 +188,8 @@ DOMAIN-SUFFIX,anhuiyun.com
 DOMAIN-SUFFIX,anzhuo.cn
 # 半岛网
 DOMAIN-SUFFIX,bandao.cn
+# 半月谈
+DOMAIN-SUFFIX,banyuetan.org
 # 北京商报
 DOMAIN-SUFFIX,bbtnews.com.cn
 # 鞭牛士
@@ -210,6 +213,11 @@ DOMAIN-SUFFIX,ckxx.net
 DOMAIN-SUFFIX,cbinews.com
 # 通信产业网
 DOMAIN-SUFFIX,ccidcom.com
+# 广东时代传媒
+DOMAIN-SUFFIX,ccreports.com.cn
+DOMAIN-SUFFIX,tfcaijing.com
+DOMAIN-SUFFIX,time-weekly.com
+DOMAIN-SUFFIX,timesmedia.com.cn
 # 中国经济网
 DOMAIN-SUFFIX,ce.cn
 # 改革网
@@ -233,6 +241,8 @@ DOMAIN-SUFFIX,chinapp.com
 DOMAIN-SUFFIX,chuanbaoguancha.cn
 DOMAIN-SUFFIX,scol.com.cn
 DOMAIN-SUFFIX,scdaily.cn
+# 中指云
+DOMAIN-SUFFIX,cih-index.com
 # 中金在线
 DOMAIN-SUFFIX,cnfol.com
 DOMAIN-SUFFIX,cnfolimg.com
@@ -424,6 +434,8 @@ DOMAIN-SUFFIX,kankanews.com
 DOMAIN-SUFFIX,kankannews.com
 DOMAIN-SUFFIX,kksmg.com
 DOMAIN-SUFFIX,statickksmg.com
+# 商界
+DOMAIN-SUFFIX,kanshangjie.com
 # 开封网
 DOMAIN-SUFFIX,kf.cn
 # 中国科技网/科技日报

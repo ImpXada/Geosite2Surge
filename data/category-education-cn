@@ -102,6 +102,8 @@ DOMAIN-SUFFIX,cbern.com.cn
 DOMAIN-SUFFIX,smartedu.cn
 # 国家教育资源公共服务平台
 DOMAIN-SUFFIX,eduyun.cn
+# 教育部中国大学生在线
+DOMAIN-SUFFIX,univs.cn
 
 # 教育部学生服务与素质发展中心
 # 京ICP备19004913号
@@ -136,6 +138,13 @@ DOMAIN-SUFFIX,zbbm.net
 # 京ICP备05064772号
 DOMAIN-SUFFIX,neea.cn
 # neea.edu.cn
+
+# 高等教育出版社
+DOMAIN-SUFFIX,hep.com.cn
+# 人民教育出版社
+DOMAIN-SUFFIX,mypep.cn
+DOMAIN-SUFFIX,peeavp.com.cn
+DOMAIN-SUFFIX,pep.com.cn
 
 # 二一教育
 DOMAIN-SUFFIX,21cnjy.com

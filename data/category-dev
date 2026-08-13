@@ -590,6 +590,24 @@ DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,nginx.com
 DOMAIN-SUFFIX,nginx.org
 #end include:nginx
+#include:nixos
+DOMAIN-SUFFIX,nix.dev
+DOMAIN-SUFFIX,nix.store
+DOMAIN-SUFFIX,nixcon.org
+DOMAIN-SUFFIX,nixcon2017.org
+DOMAIN-SUFFIX,nixlang.com
+DOMAIN-SUFFIX,nixos.org
+DOMAIN-SUFFIX,nixpkgs.org
+
+# Unofficial
+
+DOMAIN,nix-community.github.io
+
+DOMAIN-SUFFIX,builtwithnix.org
+DOMAIN-SUFFIX,mynixos.com
+DOMAIN-SUFFIX,nix-community.org
+DOMAIN-SUFFIX,nixos.wiki
+#end include:nixos
 #include:openwrt
 DOMAIN-SUFFIX,openwrt.org
 DOMAIN-SUFFIX,lede-project.org
@@ -801,7 +819,6 @@ DOMAIN-SUFFIX,neovim.io
 DOMAIN-SUFFIX,netfilter.org
 DOMAIN-SUFFIX,newpipe.net
 DOMAIN-SUFFIX,nftables.org
-DOMAIN-SUFFIX,nixos.org
 DOMAIN-SUFFIX,nodesource.com
 DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,openresty.org
