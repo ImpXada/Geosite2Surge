@@ -2385,6 +2385,7 @@ DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,ankiuser.net
 DOMAIN-SUFFIX,ankiweb.net
 DOMAIN-SUFFIX,chemequations.com    #线上化学方程式！
+DOMAIN-SUFFIX,divdyn.com
 DOMAIN-SUFFIX,geogebra.org
 DOMAIN-SUFFIX,wolframalpha.com
 
@@ -2583,6 +2584,7 @@ DOMAIN-SUFFIX,rutracker.me
 DOMAIN-SUFFIX,rutracker.net
 DOMAIN-SUFFIX,rutracker.nl
 DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutracker.wiki
 DOMAIN-SUFFIX,rutrk.org
 #end include:rutracker
 #include:soyjakparty
