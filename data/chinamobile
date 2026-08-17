@@ -23,7 +23,8 @@ DOMAIN-SUFFIX,cmpay.com
 DOMAIN-SUFFIX,cmcc-cs.cn
 DOMAIN-SUFFIX,online-cmcc.cn
 
-# 中移互联
+# 中移互联网
+DOMAIN-SUFFIX,5gxcx.net
 DOMAIN-SUFFIX,andfx.cn
 DOMAIN-SUFFIX,andfx.net
 DOMAIN-SUFFIX,cmicapm.com
@@ -33,8 +34,12 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cytxl.com.cn
 DOMAIN-SUFFIX,fetion-portal.com
 DOMAIN-SUFFIX,fetionpic.com
+DOMAIN-SUFFIX,hfx.net
 DOMAIN-SUFFIX,mmarket.com
 DOMAIN-SUFFIX,mmarket6.com
+
+# 移动爱家
+DOMAIN-SUFFIX,komect.com
 
 # 中国移动通信集团终端有限公司
 # 京ICP备17049465号

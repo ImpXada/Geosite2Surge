@@ -560,6 +560,7 @@ DOMAIN-SUFFIX,jokecommunity.com
 DOMAIN-SUFFIX,jokecommunity.net
 DOMAIN-SUFFIX,jstti.com
 DOMAIN-SUFFIX,jtamac.com
+DOMAIN-SUFFIX,letsign.com
 DOMAIN-SUFFIX,livecdnstatic.com
 DOMAIN-SUFFIX,local-ip.online
 DOMAIN-SUFFIX,luckysf.net
@@ -633,6 +634,8 @@ DOMAIN-SUFFIX,volcdns-test.com
 DOMAIN-SUFFIX,volcdns-test.net
 DOMAIN-SUFFIX,voleai.com
 DOMAIN-SUFFIX,wtturl.cn
+DOMAIN-SUFFIX,xiaohe.cn
+DOMAIN-SUFFIX,xingtu.cn
 DOMAIN-SUFFIX,xsgtvacct.com
 DOMAIN-SUFFIX,yhgfb-cn-static.com
 DOMAIN-SUFFIX,zijieapi.cn
@@ -768,7 +771,8 @@ DOMAIN-SUFFIX,jinritemai.com
 DOMAIN-SUFFIX,faceu.com
 DOMAIN-SUFFIX,faceu.mobi
 
-# 轻颜相机
+# 轻颜相机/可颂
+DOMAIN-SUFFIX,kesong.co
 DOMAIN-SUFFIX,ulikecam.com
 
 # RsProxy 镜像
