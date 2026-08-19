@@ -1001,6 +1001,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | nodeseek | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nodeseek |
 | noip | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/noip |
 | nordstrom | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nordstrom |
+| nordvpn | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nordvpn |
 | notion | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/notion |
 | now | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/now |
 | nowcoder | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nowcoder |

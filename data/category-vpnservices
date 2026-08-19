@@ -45,6 +45,10 @@ DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nexitallysafe.com
 DOMAIN-SUFFIX,nexitcore.com
 #end include:nexitally
+#include:nordvpn
+DOMAIN-SUFFIX,nordcdn.com
+DOMAIN-SUFFIX,nordvpn.com
+#end include:nordvpn
 #include:paofuyun
 DOMAIN-SUFFIX,paofu.cloud
 DOMAIN-SUFFIX,paofuyun.me
