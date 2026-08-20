@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,4channel.org
 #end include:4chan
 #include:5ch
 DOMAIN-SUFFIX,2ch.net
+DOMAIN-SUFFIX,5ch.io
 DOMAIN-SUFFIX,5ch.net
 #end include:5ch
 #include:6park

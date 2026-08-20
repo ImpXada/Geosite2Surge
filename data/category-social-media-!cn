@@ -669,6 +669,7 @@ DOMAIN-SUFFIX,vkpay.io
 DOMAIN-SUFFIX,vkpay.ru
 #end include:vk
 
+DOMAIN-SUFFIX,fansly.com
 DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,truthsocial.com
 

@@ -209,7 +209,6 @@ DOMAIN-SUFFIX,ditu.live.com
 DOMAIN-SUFFIX,r.bing.com
 DOMAIN-SUFFIX,th.bing.com
 DOMAIN,bj1.api.bing.com
-DOMAIN,emoi-cncdn.bing.com
 #end include:bing
 #include:github
 #include:github-copilot
