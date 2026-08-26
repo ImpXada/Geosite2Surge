@@ -161,14 +161,17 @@ DOMAIN-SUFFIX,yahoo.vg
 DOMAIN-SUFFIX,yahoo.ws
 
 # Others
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,maktoob.com
 DOMAIN-SUFFIX,myguide.hk
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
 DOMAIN-SUFFIX,yahoohealth.com
+DOMAIN-SUFFIX,yahooinc.com
 DOMAIN-SUFFIX,yahoomusic.com
 DOMAIN-SUFFIX,yahoosandbox.com
 DOMAIN-SUFFIX,yahoosportsbook.com
