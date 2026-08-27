@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,maxgo.com
 DOMAIN-SUFFIX,redbyhbo.com
 
 # CDNs
+DOMAIN-SUFFIX,h264.io
 DOMAIN-SUFFIX,hbo.com.c.footprint.net
 DOMAIN-SUFFIX,hbo.com.edgesuite.net
 DOMAIN-SUFFIX,hbo.map.fastly.net

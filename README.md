@@ -978,6 +978,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | netlify | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/netlify |
 | neuralink | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/neuralink |
 | newegg | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/newegg |
+| newgrounds | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/newgrounds |
 | newscorp | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/newscorp |
 | newsmax | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/newsmax |
 | nexitally | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nexitally |

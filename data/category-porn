@@ -448,6 +448,10 @@ DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,netflav1.com
 DOMAIN-SUFFIX,netflav5.com
 #end include:netflav
+#include:newgrounds
+DOMAIN-SUFFIX,newgrounds.com
+DOMAIN-SUFFIX,ngfiles.com
+#end include:newgrounds
 #include:nudevista
 DOMAIN-SUFFIX,nudevista.com
 DOMAIN-SUFFIX,nudevista.es
@@ -4246,7 +4250,6 @@ DOMAIN-SUFFIX,new-redtube.com
 DOMAIN-SUFFIX,new3dcomics.com
 DOMAIN-SUFFIX,newbienudes.com
 DOMAIN-SUFFIX,newbrazz.com
-DOMAIN-SUFFIX,newgrounds.com
 DOMAIN-SUFFIX,newhentai.org
 DOMAIN-SUFFIX,newlineporn.com
 DOMAIN-SUFFIX,newsensations.com
