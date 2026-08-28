@@ -2708,6 +2708,8 @@ DOMAIN-SUFFIX,ziroomapartment.com
 
 ## 无忧易售
 DOMAIN-SUFFIX,51selling.com
+## 凡米克思 FURMIX（江苏艾格家具）
+DOMAIN-SUFFIX,aigefurniture.com
 ## 爱回收
 DOMAIN-SUFFIX,aihuishou.com
 ## 唯品会
@@ -2771,6 +2773,8 @@ DOMAIN-SUFFIX,linkheer.com
 ## 法律快车
 DOMAIN-SUFFIX,lawtime.cn
 DOMAIN-SUFFIX,lawtimeimg.com
+## 领星（跨境电商亚马逊ERP）
+DOMAIN-SUFFIX,lingxing.com
 ## 卢米埃影院
 DOMAIN-SUFFIX,lumiai.com
 ## 慢慢买
@@ -2805,6 +2809,8 @@ DOMAIN-SUFFIX,xiamai.net
 DOMAIN-SUFFIX,yaduo.com
 ## 诸葛找房
 DOMAIN-SUFFIX,zhuge.com
+## 紫鸟浏览器
+DOMAIN-SUFFIX,ziniao.com
 
 # Forums
 #include:b3log
@@ -5024,6 +5030,7 @@ DOMAIN-SUFFIX,19yxw.com
 DOMAIN-SUFFIX,1nongjing.com
 DOMAIN-SUFFIX,1ting.com
 DOMAIN-SUFFIX,1zhe.com
+DOMAIN-SUFFIX,20130123.com    #深圳市掌信传媒
 DOMAIN-SUFFIX,2265.com
 DOMAIN-SUFFIX,2288.org
 DOMAIN-SUFFIX,258.com

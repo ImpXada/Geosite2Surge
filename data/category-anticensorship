@@ -80,6 +80,7 @@ DOMAIN-SUFFIX,vpngate.net
 #include:remnawave
 DOMAIN-SUFFIX,docs.rw
 DOMAIN-SUFFIX,log.rw
+DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,try.rw
 #end include:remnawave
 
