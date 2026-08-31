@@ -1807,6 +1807,10 @@ DOMAIN-SUFFIX,xiaochuankeji.cn
 DOMAIN-SUFFIX,maimai.cn
 DOMAIN-SUFFIX,taou.com
 
+# 与你
+DOMAIN-SUFFIX,uneed.com
+DOMAIN-SUFFIX,uneedx.com
+
 # 知识星球
 DOMAIN-SUFFIX,zsxq.com
 #end include:category-social-media-cn
@@ -2907,6 +2911,9 @@ DOMAIN-SUFFIX,cd120.info
 
 # 海南复星互联网医院 # 琼ICP备2022019306号-1
 DOMAIN-SUFFIX,hnxzctec.com
+
+# 东莞市第八人民医院 # 粤ICP备07513705号-2
+DOMAIN-SUFFIX,ba-hospital.com
 #end include:category-hospital-cn
 ## 39健康网
 DOMAIN-SUFFIX,39.net
@@ -5034,6 +5041,7 @@ DOMAIN-SUFFIX,20130123.com    #深圳市掌信传媒
 DOMAIN-SUFFIX,2265.com
 DOMAIN-SUFFIX,2288.org
 DOMAIN-SUFFIX,258.com
+DOMAIN-SUFFIX,25mao.com    #粤ICP备17115456号-2
 DOMAIN-SUFFIX,263.net
 DOMAIN-SUFFIX,289.com
 DOMAIN-SUFFIX,2cto.com
@@ -5082,12 +5090,14 @@ DOMAIN-SUFFIX,52jiawei.com    #lanyun.net
 DOMAIN-SUFFIX,52miji.com
 DOMAIN-SUFFIX,52muban.com    #粤ICP备2020135806号-2
 DOMAIN-SUFFIX,52pk.com
+DOMAIN-SUFFIX,52youzai.com    #沪ICP备18001352号-3
 DOMAIN-SUFFIX,52z.com
 DOMAIN-SUFFIX,53kf.com
 DOMAIN-SUFFIX,55.com
 DOMAIN-SUFFIX,55555.ink    #琼ICP备2023002894号-1
 DOMAIN-SUFFIX,5577.com
 DOMAIN-SUFFIX,55bbs.com
+DOMAIN-SUFFIX,56tvc.com    #冀ICP备2024095542号-1
 DOMAIN-SUFFIX,5bite.com
 DOMAIN-SUFFIX,5ddd.com    #粤ICP备2023020469号-2
 DOMAIN-SUFFIX,5fun.com
@@ -5128,6 +5138,9 @@ DOMAIN-SUFFIX,9xu.com
 DOMAIN-SUFFIX,a9vg.com
 DOMAIN-SUFFIX,acetaffy.club    #粤ICP备2022042304号
 DOMAIN-SUFFIX,acepanel.net    #津ICP备2022009678号-1
+DOMAIN-SUFFIX,acgdraw.com    #湘ICP备16008280号-1
+DOMAIN-SUFFIX,adhuanxiao.com    #京ICP备2024063371号-1
+DOMAIN-SUFFIX,adosmo.com    #浙ICP备18000384号-2
 DOMAIN-SUFFIX,adxvip.com
 DOMAIN-SUFFIX,afeica.com    #粤ICP备2022092546号-1
 DOMAIN-SUFFIX,afzhan.com
@@ -5145,12 +5158,14 @@ DOMAIN-SUFFIX,alittle-tea.com
 DOMAIN-SUFFIX,allyes.com
 DOMAIN-SUFFIX,anfensi.com
 DOMAIN-SUFFIX,anruan.com
+DOMAIN-SUFFIX,anvnjmc.com    #京ICP备2025111416号-22
 DOMAIN-SUFFIX,anycubic.com    #粤ICP备17062658号-2
 DOMAIN-SUFFIX,aotrip.net
 DOMAIN-SUFFIX,aoyou.com
 DOMAIN-SUFFIX,apk3.com
 DOMAIN-SUFFIX,apk8.com
 DOMAIN-SUFFIX,aplaybox.com
+DOMAIN-SUFFIX,appracle.com    #粤ICP备17084964号-9
 DOMAIN-SUFFIX,arpun.com
 DOMAIN-SUFFIX,atticus.vip    #苏ICP备2021025652号-1
 DOMAIN-SUFFIX,awstme.top    #浙ICP备2024120639号
@@ -5192,8 +5207,10 @@ DOMAIN-SUFFIX,bochaai.com    #浙ICP备2025165343号-4
 DOMAIN-SUFFIX,bojianger.com
 DOMAIN-SUFFIX,bokecc.com
 DOMAIN-SUFFIX,boosj.com
+DOMAIN-SUFFIX,bowenkj.com    #蜀ICP备09010985号-17
 DOMAIN-SUFFIX,boyuemobile.com    #琼ICP备16003259号-1
 DOMAIN-SUFFIX,btgtravel.com
+DOMAIN-SUFFIX,bvmlt.top    #粤ICP备2025445830号-1
 DOMAIN-SUFFIX,cabbagebox.com
 DOMAIN-SUFFIX,caijingwu.com
 DOMAIN-SUFFIX,caiyun.com
@@ -5201,6 +5218,7 @@ DOMAIN-SUFFIX,cang.com
 DOMAIN-SUFFIX,canghaiip.com    #皖ICP备2024030830号-2
 DOMAIN-SUFFIX,cardbaobao.com
 DOMAIN-SUFFIX,carnoc.com
+DOMAIN-SUFFIX,cdut.top    #蜀ICP备15026594号-1
 DOMAIN-SUFFIX,cecdc.com
 DOMAIN-SUFFIX,cecport.com
 DOMAIN-SUFFIX,centanet.com
@@ -5274,6 +5292,7 @@ DOMAIN-SUFFIX,cubead.com
 DOMAIN-SUFFIX,cwxzx.com
 DOMAIN-SUFFIX,cyagen.com
 DOMAIN-SUFFIX,cybtc.com
+DOMAIN-SUFFIX,cydiabc.top    #豫ICP备19039225号-1
 DOMAIN-SUFFIX,cyts.com
 DOMAIN-SUFFIX,dadajiasu.com
 DOMAIN-SUFFIX,dadighost.com
@@ -5361,13 +5380,16 @@ DOMAIN-SUFFIX,feiniaomy.com
 DOMAIN-SUFFIX,feizhiyi.com    #京ICP备2022003976号-1
 DOMAIN-SUFFIX,fengsutb.com    #鲁ICP备17049695号-1
 DOMAIN-SUFFIX,fengxian110.com
+DOMAIN-SUFFIX,fffff.games    #苏ICP备2022004384号-1
 DOMAIN-SUFFIX,fhldns.com
 DOMAIN-SUFFIX,fimmu.com
 DOMAIN-SUFFIX,finchina.com
 DOMAIN-SUFFIX,fixdown.com
 DOMAIN-SUFFIX,fofuai.com    #粤ICP备2025416511号-1
 DOMAIN-SUFFIX,fqjob.net
+DOMAIN-SUFFIX,fsjiaoyubang.com    #粤ICP备2021041726号-3
 DOMAIN-SUFFIX,fugetech.com
+DOMAIN-SUFFIX,funmob.top    #京ICP备2024060488号-1
 DOMAIN-SUFFIX,fuwj.com
 DOMAIN-SUFFIX,fxxz.com
 DOMAIN-SUFFIX,fzaqjy.com
@@ -5383,6 +5405,7 @@ DOMAIN-SUFFIX,gdjdxy.com
 DOMAIN-SUFFIX,gdliontech.com
 DOMAIN-SUFFIX,gdrc.com
 DOMAIN-SUFFIX,geektool.top    #极客Tool 蜀ICP备2024086015号-2
+DOMAIN-SUFFIX,gei6.com    #苏ICP备12063221号-7
 DOMAIN-SUFFIX,gelaiyun.net    #闽ICP备2025091442号-2
 DOMAIN-SUFFIX,gezida.com
 DOMAIN-SUFFIX,ghoxz.com    #京ICP备2023011471号-2
@@ -5417,6 +5440,7 @@ DOMAIN-SUFFIX,gvgoo.com    #湘ICP备17004131号-1
 DOMAIN-SUFFIX,gwdang.com
 DOMAIN-SUFFIX,gxb.io
 DOMAIN-SUFFIX,gzcqs.com
+DOMAIN-SUFFIX,gzjkoa.com    #粤ICP备13090175号-1
 DOMAIN-SUFFIX,gzwanju.com
 DOMAIN-SUFFIX,h5uc.com
 DOMAIN-SUFFIX,hack520.com
@@ -5426,6 +5450,7 @@ DOMAIN-SUFFIX,haishun.com
 DOMAIN-SUFFIX,hanboshi.com
 DOMAIN-SUFFIX,handanjob.com
 DOMAIN-SUFFIX,hangjiayun.com
+DOMAIN-SUFFIX,hanqiuming888.com    #鄂ICP备2026027193号-1
 DOMAIN-SUFFIX,haojieyun.com    #鲁ICP备2023012684号-1
 DOMAIN-SUFFIX,haolietou.com
 DOMAIN-SUFFIX,haote.com
@@ -5440,8 +5465,10 @@ DOMAIN-SUFFIX,henha.com
 DOMAIN-SUFFIX,henkuai.com
 DOMAIN-SUFFIX,herostart.com
 DOMAIN-SUFFIX,hezuvip.com    #皖ICP备2021015677号-2
+DOMAIN-SUFFIX,higgsweb.com    #蜀ICP备2020034814号-2
 DOMAIN-SUFFIX,hiido.com
 DOMAIN-SUFFIX,hijin.vip    #沪ICP备19030579号-1
+DOMAIN-SUFFIX,hiocloud.com    #浙ICP备2020040255号-2
 DOMAIN-SUFFIX,hitokoto.cn
 DOMAIN-SUFFIX,hiyd.com
 DOMAIN-SUFFIX,hktheone.com
@@ -5542,11 +5569,13 @@ DOMAIN-SUFFIX,kameng98.com
 DOMAIN-SUFFIX,kantianqi.net
 DOMAIN-SUFFIX,kanzhun.com
 DOMAIN-SUFFIX,kaopu001.com
+DOMAIN-SUFFIX,kcttpa.com    #皖ICP备2026006852号-3
 DOMAIN-SUFFIX,kejet.net
 DOMAIN-SUFFIX,keyoo.com    #粤ICP备11037858号-3
 DOMAIN-SUFFIX,kf5.com
 DOMAIN-SUFFIX,kimiss.com
 DOMAIN-SUFFIX,kingdee.com
+DOMAIN-SUFFIX,kiwiot.com    #粤ICP备14028808号-1
 DOMAIN-SUFFIX,kiyuu.club    #沪ICP备2022004023号-1
 DOMAIN-SUFFIX,kkzj.com
 DOMAIN-SUFFIX,kmeila.com    #浙ICP备17007890号-2
@@ -5558,6 +5587,8 @@ DOMAIN-SUFFIX,kuaaa.com
 DOMAIN-SUFFIX,kuaicha888.com    #粤ICP备2024259763号-2
 DOMAIN-SUFFIX,kuaihou.com
 DOMAIN-SUFFIX,kuaiji.com
+DOMAIN-SUFFIX,kudashi.com    #浙ICP备12022366号-10
+DOMAIN-SUFFIX,kukongjian.com    #浙ICP备16010401号-8
 DOMAIN-SUFFIX,kuqin.com
 DOMAIN-SUFFIX,kuyiso.com
 DOMAIN-SUFFIX,lady8844.com
@@ -5600,6 +5631,7 @@ DOMAIN-SUFFIX,longre.com
 DOMAIN-SUFFIX,longzhu.com
 DOMAIN-SUFFIX,lotpc.com
 DOMAIN-SUFFIX,loupan.com
+DOMAIN-SUFFIX,loveutips.com    #粤ICP备15011739号-1
 DOMAIN-SUFFIX,lsbj365.com    #浙ICP备2022032995号-2
 DOMAIN-SUFFIX,lunwengo.net
 DOMAIN-SUFFIX,luyouqi.com
@@ -5620,6 +5652,7 @@ DOMAIN-SUFFIX,mdpda.com
 DOMAIN-SUFFIX,mechina.org
 DOMAIN-SUFFIX,megawords.cc    #沪ICP备2024095475号-1
 DOMAIN-SUFFIX,meifang.com
+DOMAIN-SUFFIX,meijian.com    #浙ICP备16010401号-5
 DOMAIN-SUFFIX,meika360.com
 DOMAIN-SUFFIX,meilishuo.com
 DOMAIN-SUFFIX,meimingteng.com
@@ -5639,12 +5672,14 @@ DOMAIN-SUFFIX,miyatech.com
 DOMAIN-SUFFIX,mjia.cc
 DOMAIN-SUFFIX,mmbang.com
 DOMAIN-SUFFIX,mmbang.info
+DOMAIN-SUFFIX,modaiyun.com    #浙ICP备12022366号-11
 DOMAIN-SUFFIX,mofang.com
 DOMAIN-SUFFIX,mofazhu.com
 DOMAIN-SUFFIX,mokahr.com
 DOMAIN-SUFFIX,moleecel.com
 DOMAIN-SUFFIX,moocollege.com
 DOMAIN-SUFFIX,mop.com
+DOMAIN-SUFFIX,mrtdephoto.net    #粤ICP备10020005号-2
 DOMAIN-SUFFIX,msanjia.com
 DOMAIN-SUFFIX,mscbsc.com
 DOMAIN-SUFFIX,mslmc.net    #粤ICP备2023129252号-3
@@ -5686,6 +5721,8 @@ DOMAIN-SUFFIX,onlinedown.net
 DOMAIN-SUFFIX,onlinesjtu.com
 DOMAIN-SUFFIX,onlylady.com
 DOMAIN-SUFFIX,opdown.com
+DOMAIN-SUFFIX,openevai.com    #苏ICP备2024092536号-1
+DOMAIN-SUFFIX,orence.net    #滇ICP备2024024433号-4
 DOMAIN-SUFFIX,oupeng.com
 DOMAIN-SUFFIX,ourschool.cc    #沪ICP备16014031号-8
 DOMAIN-SUFFIX,p2peye.com
@@ -5694,6 +5731,7 @@ DOMAIN-SUFFIX,paipaibang.com
 DOMAIN-SUFFIX,paopaoche.net
 DOMAIN-SUFFIX,paperang.com    #粤ICP备2023029972号-10
 DOMAIN-SUFFIX,pc6.com
+DOMAIN-SUFFIX,pcwatch.com    #藏ICP备17000062号-12
 DOMAIN-SUFFIX,peccn.com
 DOMAIN-SUFFIX,pgzs.com
 DOMAIN-SUFFIX,pharmacodia.com
@@ -5705,6 +5743,7 @@ DOMAIN-SUFFIX,pintu360.com
 DOMAIN-SUFFIX,pipaw.com
 DOMAIN-SUFFIX,pipaw.net
 DOMAIN-SUFFIX,pixcheese.com    #闽ICP备2023024039号-2
+DOMAIN-SUFFIX,ppt28.com    #浙ICP备2021016136号-3
 DOMAIN-SUFFIX,pptbest.com
 DOMAIN-SUFFIX,pubyun.com
 DOMAIN-SUFFIX,pwithe.com    #粤ICP备14074374号-1
@@ -5721,6 +5760,7 @@ DOMAIN-SUFFIX,qiaobutang.com
 DOMAIN-SUFFIX,qie.tv
 DOMAIN-SUFFIX,qifeiye.com
 DOMAIN-SUFFIX,qijiayoudao.net
+DOMAIN-SUFFIX,qingjiansoft.com    #粤ICP备2025497372号-1
 DOMAIN-SUFFIX,qinglue.com    #黑ICP备16006175号-4
 DOMAIN-SUFFIX,qingsongchou.com
 DOMAIN-SUFFIX,qiumibao.com
@@ -5752,7 +5792,9 @@ DOMAIN-SUFFIX,scoregg.com
 DOMAIN-SUFFIX,scratch5.com    #粤ICP备19139956号-5
 DOMAIN-SUFFIX,scyol.com    #蜀ICP备05014943号-1
 DOMAIN-SUFFIX,sczsxx.com
+DOMAIN-SUFFIX,senachina.com    #粤ICP备2021006420号-1
 DOMAIN-SUFFIX,senlinjimore.com    #鲁ICP备20001333号 森林集
+DOMAIN-SUFFIX,senmuse.com    #赣ICP备2023016010号-3
 DOMAIN-SUFFIX,shang360.com
 DOMAIN-SUFFIX,shangc.net
 DOMAIN-SUFFIX,shanghairc.com
@@ -5819,8 +5861,10 @@ DOMAIN-SUFFIX,tggfl.com    #粤ICP备20037988号-1
 DOMAIN-SUFFIX,thinkerride.com    #渝ICP备2022011487号-2
 DOMAIN-SUFFIX,thispx.com    #粤ICP备2021020067号-2
 DOMAIN-SUFFIX,thmnet.com    #粤ICP备10240765号-2
+DOMAIN-SUFFIX,threep.top    #粤ICP备2021139944号-2
 DOMAIN-SUFFIX,tianlailive.com
 DOMAIN-SUFFIX,tianlala.com
+DOMAIN-SUFFIX,tianruo.xyz    #鲁ICP备2026015069号-1
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tiexue.net
 DOMAIN-SUFFIX,timbrd.com    #苏ICP备20004163号-1
@@ -5874,6 +5918,7 @@ DOMAIN-SUFFIX,vic18.com
 DOMAIN-SUFFIX,videojj.com
 DOMAIN-SUFFIX,vobao.com
 DOMAIN-SUFFIX,vpgame.com
+DOMAIN-SUFFIX,vpsjyz.com    #豫ICP备2022010808号-1
 DOMAIN-SUFFIX,vpsvs.com    #沪ICP备2022013949号-4 VPS测评网
 DOMAIN-SUFFIX,wangyangyang.vip
 DOMAIN-SUFFIX,wannianli8.com
@@ -5971,6 +6016,7 @@ DOMAIN-SUFFIX,yaoyl.com
 DOMAIN-SUFFIX,yaozh.com
 DOMAIN-SUFFIX,yeepay.com
 DOMAIN-SUFFIX,yh31.com
+DOMAIN-SUFFIX,yibanbianji.com    #鄂ICP备18027658号-3
 DOMAIN-SUFFIX,yigao.com
 DOMAIN-SUFFIX,yigoonet.com
 DOMAIN-SUFFIX,yihedoors.com
@@ -5989,6 +6035,7 @@ DOMAIN-SUFFIX,yixi.tv
 DOMAIN-SUFFIX,yizhibo.com
 DOMAIN-SUFFIX,yjbys.com
 DOMAIN-SUFFIX,ynhr.com
+DOMAIN-SUFFIX,ynsj001.com    #粤ICP备2020133131号-1
 DOMAIN-SUFFIX,yocajr.com
 DOMAIN-SUFFIX,youboy.com
 DOMAIN-SUFFIX,youke.co
@@ -6047,15 +6094,20 @@ DOMAIN-SUFFIX,zhuanyewanjia.com
 DOMAIN-SUFFIX,zhuayoukong.com
 DOMAIN-SUFFIX,zixiaomao.com
 DOMAIN-SUFFIX,zixuntop.com
+DOMAIN-SUFFIX,zjjslawyer.com    #浙ICP备2022035077号-1
 DOMAIN-SUFFIX,zjxhedu.com    #浙ICP备10024215号-5
+DOMAIN-SUFFIX,zllinks.com    #苏ICP备2022000672号-1
 DOMAIN-SUFFIX,zmengzhu.com
 DOMAIN-SUFFIX,znnu.com    #粤ICP备2024296504号-3
 DOMAIN-SUFFIX,znztv.com    #苏ICP备18050492号-4
 DOMAIN-SUFFIX,zpb365.com
 DOMAIN-SUFFIX,zuhaowan.com
 DOMAIN-SUFFIX,zysou.com    #苏ICP备2024112174号-1
+DOMAIN-SUFFIX,zyyct.com    #蜀ICP备2024114257号-1
 DOMAIN-SUFFIX,zzclass.com    #琼ICP备2021006312号-1
 DOMAIN-SUFFIX,zztfly.com
+DOMAIN-SUFFIX,zzzcaculator.top    #浙ICP备2026054969号-1
+DOMAIN-SUFFIX,zzzmap.com    #鄂ICP备2021021921号-9
 
 # 布丁猫(岩池科技)
 DOMAIN-SUFFIX,bdcat.top    #黑ICP备2022002729号-2
