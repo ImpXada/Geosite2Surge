@@ -4,8 +4,8 @@ DOMAIN-SUFFIX,askdiandian.com
 DOMAIN-SUFFIX,diandianlife.top
 #end include:askdiandian
 #include:deepseek
-# Main domain
 DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com
 #end include:deepseek
 #include:doubao
 # 北京春田知韵科技有限公司 京ICP备2023020373号
@@ -115,8 +115,9 @@ DOMAIN-SUFFIX,hailuoai.com
 DOMAIN-SUFFIX,minimaxi.com
 DOMAIN-SUFFIX,xingyeai.com
 
-# WorkBuddy 腾讯云代码助手
+# WorkBuddy
 DOMAIN-SUFFIX,codebuddy.cn
+DOMAIN-SUFFIX,workbuddy.cn
 # 腾讯混元
 DOMAIN-SUFFIX,hunyuan.tencent.com
 # 元宝

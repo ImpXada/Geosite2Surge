@@ -1423,6 +1423,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | visualarts | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/visualarts |
 | viu | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/viu |
 | vivo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/vivo |
+| vixengroup | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/vixengroup |
 | vk | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/vk |
 | vmware | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/vmware |
 | voanews | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/voanews |
