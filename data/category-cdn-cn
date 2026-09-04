@@ -1,7 +1,9 @@
+#include:baishancloud
 DOMAIN-SUFFIX,bsclink.cn
 DOMAIN-SUFFIX,qingcdn.com
 DOMAIN-SUFFIX,trpcdn.net
 #end include:baishancloud
+#include:bootcdn
 DOMAIN-SUFFIX,bootcdn.cn
 DOMAIN-SUFFIX,bootcdn.net
 
@@ -12,6 +14,7 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,phpcomposer.com
 
 #end include:bootcdn
+#include:cloudflare-cn
 DOMAIN-SUFFIX,cf-china.info
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
@@ -32,6 +35,7 @@ DOMAIN-SUFFIX,cloudflareprod.com
 DOMAIN-SUFFIX,cloudflarestaging.com
 DOMAIN-SUFFIX,cloudflarestoragegw.com
 #end include:cloudflare-cn
+#include:dwion
 # 上海帝联网络科技有限公司
 DOMAIN-SUFFIX,acadn.cn
 DOMAIN-SUFFIX,acadn.com
@@ -48,6 +52,7 @@ DOMAIN-SUFFIX,mcadn.cn
 DOMAIN-SUFFIX,tlgslb.cn
 DOMAIN-SUFFIX,tlgslb.com
 #end include:dwion
+#include:qiniu
 DOMAIN-SUFFIX,staticfile.net
 DOMAIN-SUFFIX,staticfile.org
 #end include:staticfile
@@ -61,6 +66,7 @@ DOMAIN-SUFFIX,qiniup.com
 DOMAIN-SUFFIX,qnsdk.com
 DOMAIN-SUFFIX,qnssl.com
 #end include:qiniu
+#include:upai
 DOMAIN-SUFFIX,aicdn.com
 DOMAIN-SUFFIX,upai.com
 DOMAIN-SUFFIX,upaiyun.com
@@ -68,6 +74,7 @@ DOMAIN-SUFFIX,upcdn.net
 DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,oncdp.com
 #end include:upai
+#include:wangsu
 DOMAIN-SUFFIX,51cdn.com
 DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,cdn20.com

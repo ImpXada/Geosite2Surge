@@ -29,7 +29,6 @@ DOMAIN-SUFFIX,rrcbsn.com
 DOMAIN-SUFFIX,kobo.com
 
 # Rakuten Viber
-#include:viber
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,viber.co
 DOMAIN-SUFFIX,viber.me

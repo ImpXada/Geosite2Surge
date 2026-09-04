@@ -1,3 +1,4 @@
+#include:playstation
 # All .playstation domains
 DOMAIN-SUFFIX,playstation
 
@@ -5,6 +6,7 @@ DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 #end include:playstation
+#include:sonypictures
 DOMAIN-SUFFIX,imageworks.com
 DOMAIN-SUFFIX,motionpictureser.com
 DOMAIN-SUFFIX,playshow.io
