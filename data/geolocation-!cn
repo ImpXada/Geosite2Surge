@@ -7510,6 +7510,7 @@ DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,last.fm
 
 DOMAIN,lastfm.freetls.fastly.net
+DOMAIN,lastfm-img.freetls.fastly.net
 
 # API endpoint
 DOMAIN,ws.audioscrobbler.com
