@@ -1,11 +1,3 @@
-DOMAIN-SUFFIX,zuoyebang.cc
-DOMAIN-SUFFIX,zuoyebang.com
-DOMAIN-SUFFIX,zybang.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,syh.zybang.com
-#end include:zuoyebang
-
 # All .baidu domains
 DOMAIN-SUFFIX,baidu
 

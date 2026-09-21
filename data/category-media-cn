@@ -179,6 +179,8 @@ DOMAIN-SUFFIX,admin5.com
 # 安徽财经网
 DOMAIN-SUFFIX,ahcjw.com
 DOMAIN-SUFFIX,ahcaijing.com
+# 安徽新闻网/安徽日报
+DOMAIN-SUFFIX,ahnews.com.cn
 # 安徽网
 DOMAIN-SUFFIX,ahwang.cn
 # 安徽新闻
@@ -186,6 +188,8 @@ DOMAIN-SUFFIX,anhuinews.com
 DOMAIN-SUFFIX,anhuiyun.com
 # 锋潮科技
 DOMAIN-SUFFIX,anzhuo.cn
+# 中商情报网
+DOMAIN-SUFFIX,askci.com
 # 半岛网
 DOMAIN-SUFFIX,bandao.cn
 # 半月谈
@@ -213,6 +217,8 @@ DOMAIN-SUFFIX,ckxx.net
 DOMAIN-SUFFIX,cbinews.com
 # 通信产业网
 DOMAIN-SUFFIX,ccidcom.com
+# 中国消费网
+DOMAIN-SUFFIX,ccn.com.cn
 # 广东时代传媒
 DOMAIN-SUFFIX,ccreports.com.cn
 DOMAIN-SUFFIX,tfcaijing.com
@@ -222,11 +228,23 @@ DOMAIN-SUFFIX,timesmedia.com.cn
 DOMAIN-SUFFIX,ce.cn
 # 改革网
 DOMAIN-SUFFIX,cfgw.net.cn
+# 中国财经信息网
+DOMAIN-SUFFIX,cfi.cn
+DOMAIN-SUFFIX,cfi.net.cn
+# 中国食品安全网
+DOMAIN-SUFFIX,cfsn.cn
 # 中国家电网
 DOMAIN-SUFFIX,cheaa.com
 # 潇湘晨报
 DOMAIN-SUFFIX,chenshipin.com
 DOMAIN-SUFFIX,xxcb.cn
+# 中国网（中国互联网新闻中心）
+DOMAIN-SUFFIX,china.cn
+DOMAIN-SUFFIX,china.com.cn
+DOMAIN-SUFFIX,china.org.cn
+# 中华网
+DOMAIN-SUFFIX,china.com
+DOMAIN-SUFFIX,imgcdc.com
 # AET 电子技术应用
 DOMAIN-SUFFIX,chinaaet.com
 # 天极网
@@ -237,20 +255,27 @@ DOMAIN-SUFFIX,yesky.com
 DOMAIN-SUFFIX,chinadevelopment.com.cn
 # 品牌网
 DOMAIN-SUFFIX,chinapp.com
+# 中国基金报
+DOMAIN-SUFFIX,chnfund.com
 # 四川日报
 DOMAIN-SUFFIX,chuanbaoguancha.cn
 DOMAIN-SUFFIX,scol.com.cn
 DOMAIN-SUFFIX,scdaily.cn
 # 中指云
 DOMAIN-SUFFIX,cih-index.com
+# 企业观察网
+DOMAIN-SUFFIX,cneo.com.cn
 # 中金在线
 DOMAIN-SUFFIX,cnfol.com
 DOMAIN-SUFFIX,cnfolimg.com
 # 荆楚网/湖北日报
 DOMAIN-SUFFIX,cnhubei.com
 DOMAIN-SUFFIX,hubeidaily.net
+# CNMO
+DOMAIN-SUFFIX,cnmo.com
 # 央广网
 DOMAIN-SUFFIX,cnr.cn
+DOMAIN-SUFFIX,radio.cn
 # 上海证券报
 DOMAIN-SUFFIX,cnstock.com
 # 陕西新闻网
@@ -291,8 +316,14 @@ DOMAIN-SUFFIX,topnews.cn
 # 大河报
 DOMAIN-SUFFIX,daheapp.com
 DOMAIN-SUFFIX,dahebao.cn
+# 与非网
+DOMAIN-SUFFIX,datasheet5.com
+DOMAIN-SUFFIX,eefcdn.com
+DOMAIN-SUFFIX,eefocus.com
 # 广州日报大洋网
 DOMAIN-SUFFIX,dayoo.com
+# 中国国家地理网
+DOMAIN-SUFFIX,dili360.com
 # 读特新闻
 DOMAIN-SUFFIX,dutenews.com
 # 大智慧
@@ -364,8 +395,10 @@ DOMAIN-SUFFIX,thsi.cn
 DOMAIN-SUFFIX,hexun.com
 # 华声在线/湖南在线
 DOMAIN-SUFFIX,hnol.net
+DOMAIN-SUFFIX,hunantoday.cn
 DOMAIN-SUFFIX,voc.com.cn
 # 河南广播电视台/大象网
+DOMAIN-SUFFIX,hnr.cn
 DOMAIN-SUFFIX,hntv.tv
 DOMAIN-SUFFIX,hndt.com    #河南广播网
 DOMAIN-SUFFIX,dianzhenkeji.com    #河南广电融媒
@@ -402,17 +435,20 @@ DOMAIN-SUFFIX,iresearch.cn
 DOMAIN-SUFFIX,istv.cn
 # IT168
 DOMAIN-SUFFIX,it168.com
+# 上观新闻/解放日报
+DOMAIN-SUFFIX,jfdaily.com
+DOMAIN-SUFFIX,jfdaily.com.cn
+DOMAIN-SUFFIX,shobserver.cn
+DOMAIN-SUFFIX,shobserver.com
 # 华尔街见闻
 DOMAIN-SUFFIX,jianyuweb.com
 DOMAIN-SUFFIX,wallstcn.com
 DOMAIN-SUFFIX,wallstreetcn.com
 # 金十数据
 DOMAIN-SUFFIX,jin10.com
-# 上观新闻/解放日报
-DOMAIN-SUFFIX,jfdaily.com
-DOMAIN-SUFFIX,jfdaily.com.cn
-DOMAIN-SUFFIX,shobserver.cn
-DOMAIN-SUFFIX,shobserver.com
+# 经济日报
+DOMAIN-SUFFIX,jingjiribao.cn
+DOMAIN-SUFFIX,jjrbs.cn
 # 新黄河/济南时报
 DOMAIN-SUFFIX,jinantimes.com.cn
 # 机器之心
@@ -441,6 +477,9 @@ DOMAIN-SUFFIX,kf.cn
 # 中国科技网/科技日报
 DOMAIN-SUFFIX,kjrb.com.cn
 DOMAIN-SUFFIX,stdaily.com
+# 快科技
+DOMAIN-SUFFIX,kkj.cn
+DOMAIN-SUFFIX,mydrivers.com
 # 新智派
 DOMAIN-SUFFIX,knewsmart.com
 # 晚点
@@ -449,12 +488,13 @@ DOMAIN-SUFFIX,latepost.com
 DOMAIN-SUFFIX,leikeji.com
 # 雷峰网
 DOMAIN-SUFFIX,leiphone.com
+# 三联生活周刊/三联书店
+DOMAIN-SUFFIX,lifeweek.com.cn
+DOMAIN-SUFFIX,sdxjpc.com
 # 今日观察网
 DOMAIN-SUFFIX,miercn.com
 # 闽南网
 DOMAIN-SUFFIX,mnw.cn
-# 快科技
-DOMAIN-SUFFIX,mydrivers.com
 # ZAKER新闻
 DOMAIN-SUFFIX,myzaker.com
 # 南岳新闻网
@@ -491,6 +531,8 @@ DOMAIN-SUFFIX,pdnews.cn
 DOMAIN-SUFFIX,people.cn
 DOMAIN-SUFFIX,people.com.cn
 DOMAIN-SUFFIX,peopleapp.com
+# 投资界
+DOMAIN-SUFFIX,pedaily.cn
 # 品玩
 DOMAIN-SUFFIX,pingwest.com
 # 量子位
@@ -514,6 +556,8 @@ DOMAIN-SUFFIX,rednet.cn
 DOMAIN-SUFFIX,scgchc.com
 DOMAIN-SUFFIX,sctv-tf.com
 DOMAIN-SUFFIX,sctv.com
+# 科学网/中国科学报
+DOMAIN-SUFFIX,sciencenet.cn
 # 四川手机报
 DOMAIN-SUFFIX,scsjb.cn
 # 安全内参
@@ -558,6 +602,8 @@ DOMAIN-SUFFIX,thepaper.cn
 # 潮新闻/浙江日报
 DOMAIN-SUFFIX,8531.cn
 DOMAIN-SUFFIX,tidenews.com.cn
+# 理想生活实验室
+DOMAIN-SUFFIX,toodaylab.com
 # 动脉网
 DOMAIN-SUFFIX,vbdata.cn
 DOMAIN-SUFFIX,vcbeat.top
@@ -576,14 +622,17 @@ DOMAIN-SUFFIX,xinminweekly.com.cn
 DOMAIN-SUFFIX,xkb.com.cn
 # 学习强国
 DOMAIN-SUFFIX,xuexi.cn
+# 扬子晚报
+DOMAIN-SUFFIX,yangtse.com
+DOMAIN-SUFFIX,yzwb.net
 # 金羊网/羊城晚报
 DOMAIN-SUFFIX,ycwb.com
 # 第一财经
 DOMAIN-SUFFIX,yicai.com
+# 中国青年网
+DOMAIN-SUFFIX,youth.cn
 # 云南网
 DOMAIN-SUFFIX,yunnan.cn
-# 扬子晚报
-DOMAIN-SUFFIX,yzwb.net
 # ZEALER
 DOMAIN-SUFFIX,zealer.com
 # 中国交通新闻网

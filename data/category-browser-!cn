@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,epicbrowser.com
 #end include:epicbrowser
 #include:firefox
 DOMAIN-SUFFIX,extendfirefox.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com

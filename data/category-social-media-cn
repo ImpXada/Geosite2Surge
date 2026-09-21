@@ -50,25 +50,56 @@ DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
 DOMAIN-SUFFIX,tieba.baidu.com
 DOMAIN-SUFFIX,tieba.com
 
+# 百合网
+DOMAIN-SUFFIX,baihe.com
+
 # 杭州蛋蛋语音科技有限公司
 DOMAIN-SUFFIX,dandan818.com
 DOMAIN-SUFFIX,dandanvoice.com
 
+# 朵朵校友圈
+DOMAIN-SUFFIX,duoduo.link
+DOMAIN-SUFFIX,hammi.cn
+DOMAIN-SUFFIX,uboxs.com
+
 # 饭否
 DOMAIN-SUFFIX,fanfou.com
+
+# 陌陌
+DOMAIN-SUFFIX,immomo.com
+DOMAIN-SUFFIX,momocdn.com
 
 # 最右
 DOMAIN-SUFFIX,izuiyou.com
 DOMAIN-SUFFIX,ixiaochuan.cn
 DOMAIN-SUFFIX,xiaochuankeji.cn
+DOMAIN-SUFFIX,zuiyou.tv
+
+# 世纪佳缘
+DOMAIN-SUFFIX,jiayuan.com
 
 # 脉脉
 DOMAIN-SUFFIX,maimai.cn
 DOMAIN-SUFFIX,taou.com
 
+# 千聊
+DOMAIN-SUFFIX,qianliaowang.com
+DOMAIN-SUFFIX,qlchat.com
+
+# Soul
+DOMAIN-SUFFIX,soulapp.cn
+
+# 探探
+DOMAIN-SUFFIX,tancdn.com
+DOMAIN-SUFFIX,tantanapp.com
+
 # 与你
 DOMAIN-SUFFIX,uneed.com
 DOMAIN-SUFFIX,uneedx.com
+
+# 珍爱网
+DOMAIN-SUFFIX,zastatic.com
+DOMAIN-SUFFIX,zhenai.com
 
 # 知识星球
 DOMAIN-SUFFIX,zsxq.com

@@ -15,6 +15,7 @@ DOMAIN-SUFFIX,network-test.debian.org
 
 # Firefox
 DOMAIN-SUFFIX,detectportal.firefox.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
 
 # GNOME
 DOMAIN,nmcheck.gnome.org

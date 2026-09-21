@@ -607,6 +607,8 @@ DOMAIN-SUFFIX,faloo.com
 # 蜂鸟网
 DOMAIN-SUFFIX,fengniao.com
 DOMAIN-SUFFIX,img-space.com
+# 游戏狗
+DOMAIN-SUFFIX,gamedog.cn
 # 三国杀打小抄官网
 DOMAIN-SUFFIX,goka.top
 # 海读文学
@@ -623,6 +625,9 @@ DOMAIN-SUFFIX,huajiao.com
 # 映客直播
 DOMAIN-SUFFIX,inke.cn
 DOMAIN-SUFFIX,ikstatic.cn
+# 图虫网
+DOMAIN-SUFFIX,ituchong.com
+DOMAIN-SUFFIX,tuchong.com
 # 晋江文学城
 DOMAIN-SUFFIX,jjwxc.net
 # 酷匠网
@@ -679,10 +684,16 @@ DOMAIN-SUFFIX,xczim.com
 DOMAIN-SUFFIX,xinlishumeng.com
 # 祥云游社
 DOMAIN-SUFFIX,xyys.com
+# 星座屋
+DOMAIN-SUFFIX,xzw.com
 # 百合会
 DOMAIN-SUFFIX,yamibo.com
 # 易有料
 DOMAIN-SUFFIX,yiyouliao.com
+# 游戏宝
+DOMAIN-SUFFIX,youxibao.com
+# 游戏鸟手游网
+DOMAIN-SUFFIX,youxiniao.com
 # 游迅网
 DOMAIN-SUFFIX,yxdown.com
 # 战旗直播

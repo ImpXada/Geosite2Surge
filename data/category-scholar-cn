@@ -64,7 +64,10 @@ DOMAIN-SUFFIX,bjinfobank.com    #高校数据财经库
 DOMAIN-SUFFIX,blyun.com    #百链云图书馆
 DOMAIN-SUFFIX,medalink.cn    #百链学术搜索
 
+DOMAIN-SUFFIX,cae.cn    #中国工程院
+DOMAIN-SUFFIX,cas.cn    #中国科学院
 DOMAIN-SUFFIX,chinabooktrading.com    #中国历代典籍总目
+DOMAIN-SUFFIX,chinaxiv.org    #中国科学院科技论文预发布平台
 DOMAIN-SUFFIX,cidp.com.cn    #CIDP制造业数字资源平台
 DOMAIN-SUFFIX,cnbksy.com    #全国报刊索引
 
@@ -116,3 +119,4 @@ DOMAIN-SUFFIX,unihan.com.cn    #书同文
 DOMAIN-SUFFIX,wenxin-ge.com    #文心阁古籍全文数据库
 DOMAIN-SUFFIX,wind.com.cn    #Wind 资讯金融
 DOMAIN-SUFFIX,yiigle.com    #中华医学期刊全文数据库
+DOMAIN-SUFFIX,zsyyb.cn    #哲学社会科学预印本平台

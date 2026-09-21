@@ -6,6 +6,7 @@ DOMAIN-SUFFIX,ctexcel.us
 #end include:ctexcel
 
 DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,189cube.com
 DOMAIN-SUFFIX,189smarthome.com
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,bestpay.cn
@@ -17,4 +18,5 @@ DOMAIN-SUFFIX,chinatelecomhk.com
 DOMAIN-SUFFIX,chntel.com
 DOMAIN-SUFFIX,dlife.cn
 DOMAIN-SUFFIX,play.cn
+DOMAIN-SUFFIX,tv189.com
 DOMAIN-SUFFIX,vnet.cn
