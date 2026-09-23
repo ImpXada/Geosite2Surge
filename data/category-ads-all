@@ -1,4 +1,5 @@
-# This file contains domains of all ads providers, including both the domains that serves ads, and the domains of providers themselves.
+# This file contains domains of all ads/tracking providers,
+# including both the domains that serves ads/tracking, and the domains of providers themselves.
 
 #include:addthis
 DOMAIN-SUFFIX,addthis.com
@@ -85,6 +86,7 @@ DOMAIN-SUFFIX,lijit.com
 DOMAIN-SUFFIX,mfadsrvr.com
 DOMAIN-SUFFIX,mgid.com
 DOMAIN-SUFFIX,ns1p.net
+DOMAIN-SUFFIX,sigmob.cn
 DOMAIN-SUFFIX,sigmob.com
 DOMAIN-SUFFIX,spotxchange.com
 DOMAIN-SUFFIX,unimhk.com

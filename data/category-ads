@@ -1,4 +1,5 @@
-# This file contains domains that clearly serving ads
+# This file contains domains that clearly serving for ads or tracking.
+# We can not seperate ads and tracking domains clearly, so they are mixed together.
 #include:category-ads-ir
 # Iranian Advertising websites
 
@@ -24,7 +25,6 @@ DOMAIN-SUFFIX,ads.huan.tv
 DOMAIN-SUFFIX,ads.huantest.com
 DOMAIN-SUFFIX,ads.trafficjunky.net
 DOMAIN-SUFFIX,ads.wteam.xyz
-DOMAIN-SUFFIX,adservice.sigmob.cn
 DOMAIN-SUFFIX,adtechus.com
 DOMAIN-SUFFIX,adtrue.com
 DOMAIN-SUFFIX,adxprtz.com

@@ -646,6 +646,8 @@ DOMAIN-SUFFIX,amd.com.cn
 DOMAIN-SUFFIX,amdfanstore.com
 DOMAIN-SUFFIX,amdgaming.com
 DOMAIN-SUFFIX,radeon.com
+
+DOMAIN,drivers.amd.com
 #end include:amd
 #include:anexia
 DOMAIN-SUFFIX,bestsrv.de
