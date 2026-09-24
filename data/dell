@@ -1,7 +1,3 @@
-# All .dell domains
-DOMAIN-SUFFIX,dell
-
-# Alienware
 DOMAIN-SUFFIX,alienware.ae
 DOMAIN-SUFFIX,alienware.at
 DOMAIN-SUFFIX,alienware.be
@@ -39,9 +35,11 @@ DOMAIN-SUFFIX,alienware.ps
 DOMAIN-SUFFIX,alienware.ro
 DOMAIN-SUFFIX,alienware.se
 DOMAIN-SUFFIX,alienware.us
-
+DOMAIN-SUFFIX,dataframeworks.com
 DOMAIN-SUFFIX,del.com
 DOMAIN-SUFFIX,del.com.br
+DOMAIN-SUFFIX,dell
+DOMAIN-SUFFIX,dell-alw.com
 DOMAIN-SUFFIX,dell-brand.com
 DOMAIN-SUFFIX,dell.ac
 DOMAIN-SUFFIX,dell.am
@@ -181,9 +179,6 @@ DOMAIN-SUFFIX,dell.ug
 DOMAIN-SUFFIX,dell.uz
 DOMAIN-SUFFIX,dell.vg
 DOMAIN-SUFFIX,dell.vn
-
-DOMAIN-SUFFIX,dataframeworks.com
-DOMAIN-SUFFIX,dell-alw.com
 DOMAIN-SUFFIX,dellcdn.com
 DOMAIN-SUFFIX,dellcommunity.com
 DOMAIN-SUFFIX,dellcomunidade.com
@@ -207,10 +202,8 @@ DOMAIN-SUFFIX,delltechnologiescapital.com
 DOMAIN-SUFFIX,delltechnologiesworld.com
 DOMAIN-SUFFIX,earthdell.com
 DOMAIN-SUFFIX,emc.com
-DOMAIN-SUFFIX,platform.dell.com
 DOMAIN-SUFFIX,shopalienware.com
 DOMAIN-SUFFIX,solutionstation.com
 DOMAIN-SUFFIX,studiodell.com
 DOMAIN-SUFFIX,vce.com
-
 DOMAIN,dell.my.site.com

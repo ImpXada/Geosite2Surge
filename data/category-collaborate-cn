@@ -1,48 +1,26 @@
-# 远程桌面/远程组网
-
-## 连连控
 DOMAIN-SUFFIX,asklink.com
-## EasyTier
 DOMAIN-SUFFIX,easytier.cn
-## 飞衡HTTP
 DOMAIN-SUFFIX,feihengip.com
-## Oray
+DOMAIN-SUFFIX,ganjiangvpn.com
+DOMAIN-SUFFIX,glxcc.net
+DOMAIN-SUFFIX,nlark.com
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,orayer.com
 DOMAIN-SUFFIX,orayimg.com
-DOMAIN-SUFFIX,sunlogin.net
-## 叮当猫脚本管理系统 懒人精灵远程调试
 DOMAIN-SUFFIX,privateapi.xyz
-## ToDesk
-DOMAIN-SUFFIX,todesk.cn
-DOMAIN-SUFFIX,todesk.com
-## xEdge干将互联
-#include:xedge
-# xEdge 干将互联
-# 苏州星汉云联网络技术有限公司 苏ICP备2022017953号
-DOMAIN-SUFFIX,xedge.cc
-DOMAIN-SUFFIX,glxcc.net
-DOMAIN-SUFFIX,xn0.cc
-DOMAIN-SUFFIX,ganjiangvpn.com
-#end include:xedge
-
-# 文档协作
-
-## 语雀
-DOMAIN-SUFFIX,nlark.com
-DOMAIN-SUFFIX,yuque.com
-## 石墨文档
 DOMAIN-SUFFIX,shimo.im
 DOMAIN-SUFFIX,shimonote.com
 DOMAIN-SUFFIX,smgv.cn
-## Tower 团队协作
+DOMAIN-SUFFIX,sunlogin.net
+DOMAIN-SUFFIX,todesk.cn
+DOMAIN-SUFFIX,todesk.com
 DOMAIN-SUFFIX,tower.im
-## 秀米编辑器
 DOMAIN-SUFFIX,tritoninfo.net
+DOMAIN-SUFFIX,woodo.cn
+DOMAIN-SUFFIX,worktile.com
+DOMAIN-SUFFIX,xedge.cc
 DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,xiumius.com
-## 吾道
-DOMAIN-SUFFIX,woodo.cn
-## Worktile
-DOMAIN-SUFFIX,worktile.com
+DOMAIN-SUFFIX,xn0.cc
+DOMAIN-SUFFIX,yuque.com

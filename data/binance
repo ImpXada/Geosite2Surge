@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,binance.net
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binance.vision
+DOMAIN-SUFFIX,binanceapi.com
 DOMAIN-SUFFIX,binancecnt.com
+DOMAIN-SUFFIX,binanceru.net
 DOMAIN-SUFFIX,binancezh.be
 DOMAIN-SUFFIX,binancezh.biz
 DOMAIN-SUFFIX,binancezh.cc
@@ -25,26 +27,19 @@ DOMAIN-SUFFIX,binancezh.net
 DOMAIN-SUFFIX,binancezh.pro
 DOMAIN-SUFFIX,binancezh.sh
 DOMAIN-SUFFIX,binancezh.top
-
-# API
-DOMAIN-SUFFIX,binanceapi.com
-DOMAIN-SUFFIX,binanceru.net
 DOMAIN-SUFFIX,bmwweb.solutions
 DOMAIN-SUFFIX,bnappweb.black
-DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bnbchain.org
+DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,bsappapi.cc
 DOMAIN-SUFFIX,bsappapi.com
 DOMAIN-SUFFIX,bscdnweb.com
 DOMAIN-SUFFIX,nftstatic.com
-
-# saas
 DOMAIN-SUFFIX,saasexch.cc
 DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,saasexch.info
 DOMAIN-SUFFIX,saasexch.io
-
 DOMAIN,zftksc.cdn-settings.appsflyersdk.com
 DOMAIN,zftksc.launches.appsflyersdk.com

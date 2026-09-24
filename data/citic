@@ -1,11 +1,6 @@
-# All .citic domains
-DOMAIN-SUFFIX,citic
-
-# All .中信 domains
-DOMAIN-SUFFIX,xn--fiq64b
-
 DOMAIN-SUFFIX,cfc108.com
 DOMAIN-SUFFIX,chinaamc.com
+DOMAIN-SUFFIX,citic
 DOMAIN-SUFFIX,citic-prudential.com.cn
 DOMAIN-SUFFIX,citicbank.com
 DOMAIN-SUFFIX,citiccapital.com
@@ -19,3 +14,4 @@ DOMAIN-SUFFIX,cncbinternational.com
 DOMAIN-SUFFIX,csc108.com
 DOMAIN-SUFFIX,csci.hk
 DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,xn--fiq64b

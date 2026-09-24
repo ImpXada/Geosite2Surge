@@ -1,11 +1,9 @@
-DOMAIN-SUFFIX,meitu.com
-DOMAIN-SUFFIX,meitudata.com
-DOMAIN-SUFFIX,meitustat.com
-
-# https://www.meitu.com/zh/business
 DOMAIN-SUFFIX,designkit.cn
 DOMAIN-SUFFIX,kaipai.com
 DOMAIN-SUFFIX,meipai.com
+DOMAIN-SUFFIX,meitu.com
+DOMAIN-SUFFIX,meitudata.com
+DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,meituxiuxiu.com
 DOMAIN-SUFFIX,meiyan.com
 DOMAIN-SUFFIX,miraclevision.com

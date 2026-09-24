@@ -1,9 +1,3 @@
-# All .unicom domains
-DOMAIN-SUFFIX,unicom
-
-# All .联通 domains
-DOMAIN-SUFFIX,xn--8y0a063a
-
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10010.com.cn
 DOMAIN-SUFFIX,10155.com
@@ -19,6 +13,7 @@ DOMAIN-SUFFIX,cuniq.com
 DOMAIN-SUFFIX,cuniq.sg
 DOMAIN-SUFFIX,mychinaunicom.com
 DOMAIN-SUFFIX,smartont.net
+DOMAIN-SUFFIX,unicom
 DOMAIN-SUFFIX,unicompayment.com
 DOMAIN-SUFFIX,wo-adv.cn
 DOMAIN-SUFFIX,wo.cn
@@ -27,3 +22,4 @@ DOMAIN-SUFFIX,wo116114.com
 DOMAIN-SUFFIX,wocloud.com.cn
 DOMAIN-SUFFIX,woread.com.cn
 DOMAIN-SUFFIX,wosms.cn
+DOMAIN-SUFFIX,xn--8y0a063a

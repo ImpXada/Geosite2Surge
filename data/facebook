@@ -109,6 +109,7 @@ DOMAIN-SUFFIX,facebook30.com
 DOMAIN-SUFFIX,facebook30.net
 DOMAIN-SUFFIX,facebook30.org
 DOMAIN-SUFFIX,facebook4business.com
+DOMAIN-SUFFIX,facebookads.com
 DOMAIN-SUFFIX,facebookadvertisingsecrets.com
 DOMAIN-SUFFIX,facebookatschool.com
 DOMAIN-SUFFIX,facebookawards.com
@@ -198,6 +199,7 @@ DOMAIN-SUFFIX,facebooktv.net
 DOMAIN-SUFFIX,facebooktv.org
 DOMAIN-SUFFIX,facebookvacation.com
 DOMAIN-SUFFIX,facebookw.com
+DOMAIN-SUFFIX,facebookwork.com
 DOMAIN-SUFFIX,facebookworld.com
 DOMAIN-SUFFIX,facebool.com
 DOMAIN-SUFFIX,facebool.info
@@ -368,6 +370,7 @@ DOMAIN-SUFFIX,nextstop.com
 DOMAIN-SUFFIX,online-deals.net
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,reachtheworldonfacebook.com
+DOMAIN-SUFFIX,redkix.com
 DOMAIN-SUFFIX,shopfacebook.com
 DOMAIN-SUFFIX,sportsfacebook.com
 DOMAIN-SUFFIX,sportstream.com
@@ -380,6 +383,8 @@ DOMAIN-SUFFIX,thefind.com
 DOMAIN-SUFFIX,toplayerserver.com
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
 DOMAIN-SUFFIX,whyfacebook.com
+DOMAIN-SUFFIX,workplace.com
+DOMAIN-SUFFIX,workplaceusecases.com
 DOMAIN-SUFFIX,worldhack.com
 DOMAIN-SUFFIX,www-facebook.com
 DOMAIN-SUFFIX,wwwfacebok.com
@@ -387,16 +392,4 @@ DOMAIN-SUFFIX,wwwfacebook.com
 DOMAIN-SUFFIX,wwwmfacebook.com
 DOMAIN-SUFFIX,zuckerberg.com
 DOMAIN-SUFFIX,zuckerberg.net
-
-# Workplace
-DOMAIN-SUFFIX,facebookwork.com
-DOMAIN-SUFFIX,redkix.com
-DOMAIN-SUFFIX,workplace.com
-DOMAIN-SUFFIX,workplaceusecases.com
-
 DOMAIN,fbcdn-a.akamaihd.net
-
-# Ads/tracking
-DOMAIN-SUFFIX,analytics.facebook.com
-DOMAIN-SUFFIX,facebookads.com
-DOMAIN-SUFFIX,pixel.facebook.com

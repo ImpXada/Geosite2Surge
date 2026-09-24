@@ -1,9 +1,4 @@
 DOMAIN-SUFFIX,bootcdn.cn
 DOMAIN-SUFFIX,bootcdn.net
-
-# BootCSS
 DOMAIN-SUFFIX,bootcss.com
-
-# Packagist / Composer
 DOMAIN-SUFFIX,phpcomposer.com
-

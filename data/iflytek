@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,changyan.com
+DOMAIN-SUFFIX,ets100.com
 DOMAIN-SUFFIX,iflyink.com
 DOMAIN-SUFFIX,iflyrec.com
 DOMAIN-SUFFIX,iflysec.com
@@ -5,15 +7,5 @@ DOMAIN-SUFFIX,iflytek.com
 DOMAIN-SUFFIX,voicecloud.cn
 DOMAIN-SUFFIX,xfyun.cn
 DOMAIN-SUFFIX,xunfei.cn
-
-# e听说中学
-DOMAIN-SUFFIX,ets100.com
-
-# 智学网
-DOMAIN-SUFFIX,zhixue.com
-
-# 畅言教育开放平台
-DOMAIN-SUFFIX,changyan.com
-
-# 科大讯飞AI学习机官网
 DOMAIN-SUFFIX,xunfeixxj.com
+DOMAIN-SUFFIX,zhixue.com

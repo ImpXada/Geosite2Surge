@@ -1,6 +1,3 @@
-# All .theguardian domains
-# theguardian (never delegated)
-
 DOMAIN-SUFFIX,dev-guardianapis.com
 DOMAIN-SUFFIX,dev-theguardian.com
 DOMAIN-SUFFIX,gu-web.net

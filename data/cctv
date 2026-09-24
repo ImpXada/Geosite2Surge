@@ -31,16 +31,13 @@ DOMAIN-SUFFIX,olympicchannelchina.cn
 DOMAIN-SUFFIX,ottcn.com
 DOMAIN-SUFFIX,tvcc.cn
 DOMAIN-SUFFIX,tvcc.com.cn
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn    #中国广播电视总台.cn
-DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s    #中国广播电视总台.中国
-DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn    #中央广播电视总台.cn
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn    #国家广播电视总台.cn
-DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s    #国家广播电视总台.中国
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--fiq53l6wcx3kp9bc7joo6apn8a.xn--fiqs8s
+DOMAIN-SUFFIX,xn--fiq53l90et9fpncc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.cn
+DOMAIN-SUFFIX,xn--kprv4ewxfr9cpxcc7joo6apn8a.xn--fiqs8s
 DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,zggbdszt.cn
 DOMAIN-SUFFIX,zggbdszt.com.cn
 DOMAIN-SUFFIX,zggbdszt.net.cn
 DOMAIN-SUFFIX,zygbdszt.net.cn
-
-# Ads/tracking
-DOMAIN-SUFFIX,ad.cctv.com

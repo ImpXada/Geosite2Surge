@@ -1,9 +1,14 @@
+DOMAIN-SUFFIX,aufit-air.com
+DOMAIN-SUFFIX,aux-global.com
 DOMAIN-SUFFIX,aux-home.com
+DOMAIN-SUFFIX,auxair.com
 DOMAIN-SUFFIX,auxauto.com.cn
+DOMAIN-SUFFIX,auxcac.cn
 DOMAIN-SUFFIX,auxcss.com
 DOMAIN-SUFFIX,auxgroup.com
 DOMAIN-SUFFIX,auxshop.cn
 DOMAIN-SUFFIX,auxshop.com
+DOMAIN-SUFFIX,auxsmart.com
 DOMAIN-SUFFIX,auxsmart.com.cn
 DOMAIN-SUFFIX,auxsol.com
 DOMAIN-SUFFIX,auxsolar.com.cn
@@ -20,14 +25,7 @@ DOMAIN-SUFFIX,nbmzyl.com
 DOMAIN-SUFFIX,nbmzyy.com
 DOMAIN-SUFFIX,nbyzfeyy.com
 DOMAIN-SUFFIX,sanxing.com
-DOMAIN-SUFFIX,shuyifuwu.com.cn
-DOMAIN-SUFFIX,solarcloud.top
-
-# outside China mainland
-DOMAIN-SUFFIX,aufit-air.com
-DOMAIN-SUFFIX,aux-global.com
-DOMAIN-SUFFIX,auxair.com
-DOMAIN-SUFFIX,auxcac.cn
-DOMAIN-SUFFIX,auxsmart.com
 DOMAIN-SUFFIX,sanxingelectric.com
 DOMAIN-SUFFIX,shinflow.com
+DOMAIN-SUFFIX,shuyifuwu.com.cn
+DOMAIN-SUFFIX,solarcloud.top

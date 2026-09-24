@@ -1,25 +1,14 @@
+DOMAIN-SUFFIX,bitstream.com
+DOMAIN-SUFFIX,fontbook.com
 DOMAIN-SUFFIX,fontexplorerx.com
-#end include:fontexplorer
 DOMAIN-SUFFIX,fonts.com
 DOMAIN-SUFFIX,fonts.net
-#end include:fonts
-DOMAIN-SUFFIX,fontbook.com
 DOMAIN-SUFFIX,fontshop.com
 DOMAIN-SUFFIX,fstopimages.com
-
-DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com
-#end include:fontshop
+DOMAIN-SUFFIX,itcfonts.com
 DOMAIN-SUFFIX,linotype.com
-#end include:linotype
-DOMAIN-SUFFIX,myfonts.com
-DOMAIN-SUFFIX,myfonts.net
-#end include:myfonts
-
 DOMAIN-SUFFIX,monotype.com
 DOMAIN-SUFFIX,monotypeimaging.com
-
-# Bitstream
-DOMAIN-SUFFIX,bitstream.com
-
-# International Typeface Corporation
-DOMAIN-SUFFIX,itcfonts.com
+DOMAIN-SUFFIX,myfonts.com
+DOMAIN-SUFFIX,myfonts.net
+DOMAIN,fontshop-prod-responsive-images.s3.amazonaws.com

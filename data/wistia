@@ -1,4 +1,3 @@
-# https://support.wistia.com/en/articles/8233530-firewall-and-network-allowlist-settings
 DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
 DOMAIN-SUFFIX,wistia.com
 DOMAIN-SUFFIX,wistia.net

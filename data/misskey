@@ -1,11 +1,3 @@
-DOMAIN-SUFFIX,misskey.io
-DOMAIN-SUFFIX,misskeyusercontent.jp
-
-# please DO NOT include domains that are only meant to serve static files
-# e.g.
-#    mediaproxy-mi.mashiro.site
-#    misskey-white.s3.ap-northeast-1.amazonaws.com
-
 DOMAIN-SUFFIX,9ineverse.com
 DOMAIN-SUFFIX,buicha.social
 DOMAIN-SUFFIX,gyutte.site
@@ -24,10 +16,12 @@ DOMAIN-SUFFIX,misskey.design
 DOMAIN-SUFFIX,misskey.flowers
 DOMAIN-SUFFIX,misskey.gamelore.fun
 DOMAIN-SUFFIX,misskey.gg
+DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,misskey.noellabo.jp
 DOMAIN-SUFFIX,misskey.ranranhome.info
 DOMAIN-SUFFIX,misskey.stream
 DOMAIN-SUFFIX,misskey.yukineko.me
+DOMAIN-SUFFIX,misskeyusercontent.jp
 DOMAIN-SUFFIX,mk.shrimpia.network
 DOMAIN-SUFFIX,mk.yopo.work
 DOMAIN-SUFFIX,mof.kemomi.me
@@ -38,4 +32,3 @@ DOMAIN-SUFFIX,oekakiskey.com
 DOMAIN-SUFFIX,submarin.online
 DOMAIN-SUFFIX,sushi.ski
 DOMAIN-SUFFIX,trpger.us
-#end include:misskey-universe

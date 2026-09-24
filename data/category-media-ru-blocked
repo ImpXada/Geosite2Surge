@@ -1,6 +1,3 @@
-# Media sites blocked in Russia
-# source: https://ru.wikipedia.org/wiki/Список_заблокированных_в_России_СМИ
-
 DOMAIN-SUFFIX,24.kg
 DOMAIN-SUFFIX,9tv.co.il
 DOMAIN-SUFFIX,activatica.org

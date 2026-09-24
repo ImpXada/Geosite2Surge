@@ -1,105 +1,88 @@
-# This list contains social media platforms inside China mainland.
-
-#include:coolapk
+DOMAIN-SUFFIX,97973.com
+DOMAIN-SUFFIX,askdiandian.com
+DOMAIN-SUFFIX,baihe.com
 DOMAIN-SUFFIX,coolapk.com
 DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,coolapkmarket.net
-#end include:coolapk
-#include:douban
+DOMAIN-SUFFIX,dandan818.com
+DOMAIN-SUFFIX,dandanvoice.com
+DOMAIN-SUFFIX,diandianlife.top
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,douban.fm
 DOMAIN-SUFFIX,doubanio.com
-#end include:douban
-#include:gracg
+DOMAIN-SUFFIX,duoduo.link
+DOMAIN-SUFFIX,fanfou.com
 DOMAIN-SUFFIX,gracg.com
-DOMAIN-SUFFIX,procg.cn
-#end include:gracg
-#include:hupu
+DOMAIN-SUFFIX,hammi.cn
 DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,hupu.com
 DOMAIN-SUFFIX,hupucdn.com
-DOMAIN-SUFFIX,shihuo.cn
-#end include:hupu
-#include:meipian
-# 美篇
+DOMAIN-SUFFIX,immomo.com
 DOMAIN-SUFFIX,ivwen.com
-DOMAIN-SUFFIX,meipian.cn
-DOMAIN-SUFFIX,meipian.me
-#end include:meipian
-#include:okjike
-# 即刻 沪ICP备15000478号
+DOMAIN-SUFFIX,ixiaochuan.cn
+DOMAIN-SUFFIX,izuiyou.com
+DOMAIN-SUFFIX,jiayuan.com
 DOMAIN-SUFFIX,jike.city
 DOMAIN-SUFFIX,jikecdn.com
+DOMAIN-SUFFIX,krcom.cn
+DOMAIN-SUFFIX,laiyagushi.com
+DOMAIN-SUFFIX,maimai.cn
+DOMAIN-SUFFIX,meipian.cn
+DOMAIN-SUFFIX,meipian.me
+DOMAIN-SUFFIX,momocdn.com
 DOMAIN-SUFFIX,okjike.com
 DOMAIN-SUFFIX,okjk.co
-DOMAIN-SUFFIX,ruguoapp.com
-#end include:okjike
-#include:zhihu
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhimg.com
-
-# 北京雷盟盛通文化发展有限公司
-DOMAIN-SUFFIX,laiyagushi.com
-DOMAIN-SUFFIX,vzuu.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,crash2.zhihu.com
-DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
-#end include:zhihu
-
-DOMAIN-SUFFIX,tieba.baidu.com
-DOMAIN-SUFFIX,tieba.com
-
-# 百合网
-DOMAIN-SUFFIX,baihe.com
-
-# 杭州蛋蛋语音科技有限公司
-DOMAIN-SUFFIX,dandan818.com
-DOMAIN-SUFFIX,dandanvoice.com
-
-# 朵朵校友圈
-DOMAIN-SUFFIX,duoduo.link
-DOMAIN-SUFFIX,hammi.cn
-DOMAIN-SUFFIX,uboxs.com
-
-# 饭否
-DOMAIN-SUFFIX,fanfou.com
-
-# 陌陌
-DOMAIN-SUFFIX,immomo.com
-DOMAIN-SUFFIX,momocdn.com
-
-# 最右
-DOMAIN-SUFFIX,izuiyou.com
-DOMAIN-SUFFIX,ixiaochuan.cn
-DOMAIN-SUFFIX,xiaochuankeji.cn
-DOMAIN-SUFFIX,zuiyou.tv
-
-# 世纪佳缘
-DOMAIN-SUFFIX,jiayuan.com
-
-# 脉脉
-DOMAIN-SUFFIX,maimai.cn
-DOMAIN-SUFFIX,taou.com
-
-# 千聊
+DOMAIN-SUFFIX,picself.cn
+DOMAIN-SUFFIX,procg.cn
 DOMAIN-SUFFIX,qianliaowang.com
 DOMAIN-SUFFIX,qlchat.com
-
-# Soul
+DOMAIN-SUFFIX,redelight.cn
+DOMAIN-SUFFIX,rnote.com
+DOMAIN-SUFFIX,ruguoapp.com
+DOMAIN-SUFFIX,shihuo.cn
+DOMAIN-SUFFIX,sina
+DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sina.net
+DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,sinaedge.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,sinajs.cn
+DOMAIN-SUFFIX,sinajs.com
 DOMAIN-SUFFIX,soulapp.cn
-
-# 探探
+DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,tancdn.com
 DOMAIN-SUFFIX,tantanapp.com
-
-# 与你
+DOMAIN-SUFFIX,taou.com
+DOMAIN-SUFFIX,tieba.baidu.com
+DOMAIN-SUFFIX,tieba.com
+DOMAIN-SUFFIX,uboxs.com
 DOMAIN-SUFFIX,uneed.com
 DOMAIN-SUFFIX,uneedx.com
-
-# 珍爱网
+DOMAIN-SUFFIX,videoself.cn
+DOMAIN-SUFFIX,vzuu.com
+DOMAIN-SUFFIX,wbimg.cn
+DOMAIN-SUFFIX,wbimg.com
+DOMAIN-SUFFIX,wcdn.cn
+DOMAIN-SUFFIX,weibo
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.com.cn
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,weibopay.com
+DOMAIN-SUFFIX,xhaiwai.com
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhscdn.net
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,xhsrcdn.com
+DOMAIN-SUFFIX,xiaochuankeji.cn
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xn--9krt00a
 DOMAIN-SUFFIX,zastatic.com
 DOMAIN-SUFFIX,zhenai.com
-
-# 知识星球
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zsxq.com
+DOMAIN-SUFFIX,zuiyou.tv

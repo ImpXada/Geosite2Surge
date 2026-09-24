@@ -1,5 +1,7 @@
 DOMAIN-SUFFIX,ads-twitter.com
 DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,t.co
@@ -21,10 +23,5 @@ DOMAIN-SUFFIX,twttr.com
 DOMAIN-SUFFIX,twttr.net
 DOMAIN-SUFFIX,twvid.com
 DOMAIN-SUFFIX,vine.co
-DOMAIN-SUFFIX,x.com
-#end include:twitter
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,grok.x.com
-DOMAIN-SUFFIX,grokipedia.com
 DOMAIN-SUFFIX,x.ai
-#end include:xai
+DOMAIN-SUFFIX,x.com

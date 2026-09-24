@@ -1,119 +1,58 @@
-#include:bestore
-DOMAIN-SUFFIX,517lppz.com
-DOMAIN-SUFFIX,lppz.com
-DOMAIN-SUFFIX,lppzimg.com
-#end include:bestore
-#include:lkcoffee
-DOMAIN-SUFFIX,lkcoffee.com
-DOMAIN-SUFFIX,luckincoffeecdn.com
-DOMAIN-SUFFIX,yyds.co
-#end include:lkcoffee
-
-# 麦当劳中国
-
-# 星巴克中国
-
-# 三只松鼠
 DOMAIN-SUFFIX,3songshu.com
-
-# 百草味
-DOMAIN-SUFFIX,vipbcw.com
-
-# 海底捞
-DOMAIN-SUFFIX,haidilao.com
-DOMAIN-SUFFIX,hdlcdns.com
-DOMAIN-SUFFIX,kiwa-tech.com
-
-# 喜茶
-DOMAIN-SUFFIX,heytea.com
-
-# 俺来也（上海）网络科技有限公司
+DOMAIN-SUFFIX,4008-517-517.cn
+DOMAIN-SUFFIX,4008117117.com
+DOMAIN-SUFFIX,517lppz.com
 DOMAIN-SUFFIX,anlaiye.com
 DOMAIN-SUFFIX,anlaiye.com.cn
-DOMAIN-SUFFIX,imcoming.com
-DOMAIN-SUFFIX,imcome.net
-
-# 美餐
-DOMAIN-SUFFIX,meican.com
-DOMAIN-SUFFIX,meicanstatic.com
-
-# 农夫山泉/养生堂
-DOMAIN-SUFFIX,nongfuspring.com
-DOMAIN-SUFFIX,yst.com.cn
-
-# 娃哈哈
-DOMAIN-SUFFIX,wahaha.com.cn
-DOMAIN-SUFFIX,whhhealth.com
-
-# 茶百道（四川蜀信云茶）
-DOMAIN-SUFFIX,shuxinyc.com
-
-# 蜜雪冰城
-DOMAIN-SUFFIX,mxbc.com
-DOMAIN-SUFFIX,mxbc.net
-
-# 北京吉野家/DQ
-DOMAIN-SUFFIX,hophing.cn
-DOMAIN-SUFFIX,hophing.com.cn
-
-# 汉堡王
 DOMAIN-SUFFIX,bkchina.cn
-
-# 肯德基/百胜中国
-DOMAIN-SUFFIX,hwwt8.com
-DOMAIN-SUFFIX,kfc.com.cn
-DOMAIN-SUFFIX,yumchina.com
-
-# 企迈/智迈（一堆餐饮企业在用的 CRM）
-DOMAIN-SUFFIX,qmai.com
-DOMAIN-SUFFIX,qmai.cn
-DOMAIN-SUFFIX,qmimg.cn
-
-# 德克士
-DOMAIN-SUFFIX,dicos.com.cn
-
-# 陈克明食品
-DOMAIN-SUFFIX,kemen.cn
-
-# 中粮集团
-DOMAIN-SUFFIX,chinatea.com.cn
-DOMAIN-SUFFIX,cofco.com
-DOMAIN-SUFFIX,greatwallwine.com.cn
-
-# 北大荒
-DOMAIN-SUFFIX,chinabdh.com
-DOMAIN-SUFFIX,hacl.cn
-
-# 光明乳业
-DOMAIN-SUFFIX,4008117117.com
 DOMAIN-SUFFIX,brightdairy.com
 DOMAIN-SUFFIX,brighticecream.com
+DOMAIN-SUFFIX,chinabdh.com
 DOMAIN-SUFFIX,chinacow.com
-
-# 伊利
-DOMAIN-SUFFIX,yili.com
-
-# 蒙牛
-DOMAIN-SUFFIX,mengniu.com.cn
-DOMAIN-SUFFIX,telunsu.net
-
-# 君乐宝
+DOMAIN-SUFFIX,chinatea.com.cn
+DOMAIN-SUFFIX,cofco.com
+DOMAIN-SUFFIX,dicos.com.cn
+DOMAIN-SUFFIX,greatwallwine.com.cn
+DOMAIN-SUFFIX,hacl.cn
+DOMAIN-SUFFIX,haidilao.com
+DOMAIN-SUFFIX,hdlcdns.com
+DOMAIN-SUFFIX,heytea.com
+DOMAIN-SUFFIX,hophing.cn
+DOMAIN-SUFFIX,hophing.com.cn
+DOMAIN-SUFFIX,hwwt8.com
+DOMAIN-SUFFIX,imcome.net
+DOMAIN-SUFFIX,imcoming.com
 DOMAIN-SUFFIX,junlebaoruye.com
-
-# 益海嘉里金龙鱼
-DOMAIN-SUFFIX,yihaikerry.net.cn
-
-# 鲁花
+DOMAIN-SUFFIX,kemen.cn
+DOMAIN-SUFFIX,kfc.com.cn
+DOMAIN-SUFFIX,kiwa-tech.com
+DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,lppz.com
+DOMAIN-SUFFIX,lppzimg.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
 DOMAIN-SUFFIX,luhua.cn
-
-# 双汇集团
-DOMAIN-SUFFIX,shuanghui.net
-
-# 米村拌饭
+DOMAIN-SUFFIX,mcd.cn
+DOMAIN-SUFFIX,mcdchina.net
+DOMAIN-SUFFIX,mcdonalds.com.cn
+DOMAIN-SUFFIX,meican.com
+DOMAIN-SUFFIX,meicanstatic.com
+DOMAIN-SUFFIX,mengniu.com.cn
 DOMAIN-SUFFIX,micun.com
-
-# Tracking
-DOMAIN-SUFFIX,logger.qmai.cn
-DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
-DOMAIN-SUFFIX,trackingprd.hwwt8.com
-DOMAIN-SUFFIX,trackserver.shuxinyc.com
+DOMAIN-SUFFIX,mxbc.com
+DOMAIN-SUFFIX,mxbc.net
+DOMAIN-SUFFIX,nongfuspring.com
+DOMAIN-SUFFIX,qmai.cn
+DOMAIN-SUFFIX,qmai.com
+DOMAIN-SUFFIX,qmimg.cn
+DOMAIN-SUFFIX,shuanghui.net
+DOMAIN-SUFFIX,shuxinyc.com
+DOMAIN-SUFFIX,starbucks.com.cn
+DOMAIN-SUFFIX,telunsu.net
+DOMAIN-SUFFIX,vipbcw.com
+DOMAIN-SUFFIX,wahaha.com.cn
+DOMAIN-SUFFIX,whhhealth.com
+DOMAIN-SUFFIX,yihaikerry.net.cn
+DOMAIN-SUFFIX,yili.com
+DOMAIN-SUFFIX,yst.com.cn
+DOMAIN-SUFFIX,yumchina.com
+DOMAIN-SUFFIX,yyds.co

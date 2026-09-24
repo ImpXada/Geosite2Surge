@@ -1,10 +1,11 @@
-# Iranian shopping websites
+DOMAIN-SUFFIX,digi-kala.com
+DOMAIN-SUFFIX,digikala.com
+DOMAIN-SUFFIX,digikalabusiness.com
+DOMAIN-SUFFIX,digikalajet.com
+DOMAIN-SUFFIX,digistyle.com
 DOMAIN-SUFFIX,divar.cloud
 DOMAIN-SUFFIX,divar.ir
 DOMAIN-SUFFIX,divarcdn.com
-#end include:divar
-
-DOMAIN-SUFFIX,digi-kala.com
 DOMAIN-SUFFIX,emalls.ir
 DOMAIN-SUFFIX,esam.ir
 DOMAIN-SUFFIX,janebi.com
@@ -12,9 +13,3 @@ DOMAIN-SUFFIX,janebi.ir
 DOMAIN-SUFFIX,sheypoor.com
 DOMAIN-SUFFIX,torob.com
 DOMAIN-SUFFIX,zanbil.ir
-
-# Digikala
-DOMAIN-SUFFIX,digikala.com
-DOMAIN-SUFFIX,digikalabusiness.com
-DOMAIN-SUFFIX,digikalajet.com
-DOMAIN-SUFFIX,digistyle.com

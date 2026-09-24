@@ -15,9 +15,4 @@ DOMAIN-SUFFIX,xhcdn.com
 DOMAIN-SUFFIX,xhnews.live
 DOMAIN-SUFFIX,xhpingcdn.com
 DOMAIN-SUFFIX,xhreal5.com
-
-# xhamsterlive thumbnails
 DOMAIN,widgets.stripst.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,collector.xhamster.com

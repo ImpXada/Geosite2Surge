@@ -1,5 +1,3 @@
-# Best Buy Co., Inc
-
 DOMAIN-SUFFIX,bby.com
 DOMAIN-SUFFIX,bbycastatic.ca
 DOMAIN-SUFFIX,bbycloud.com
@@ -45,22 +43,8 @@ DOMAIN-SUFFIX,besztbuy.com
 DOMAIN-SUFFIX,bextbuy.com
 DOMAIN-SUFFIX,bienvenuechezbestbuy.ca
 DOMAIN-SUFFIX,cowboom.com
+DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,futureshop.ca
-DOMAIN-SUFFIX,initproducts.com
-DOMAIN-SUFFIX,magnoliaav.com.cn
-DOMAIN-SUFFIX,mybestbuy.com
-DOMAIN-SUFFIX,mybestbuyclaims.com
-DOMAIN-SUFFIX,myrewardzone.com
-DOMAIN-SUFFIX,myrz.com
-DOMAIN-SUFFIX,pacifickitchenandhome.com
-DOMAIN-SUFFIX,tiendabestbuy.com
-DOMAIN-SUFFIX,unbrandedproducts.com
-DOMAIN-SUFFIX,welcometobestbuy.ca
-DOMAIN-SUFFIX,wolfatbestbuy.com
-DOMAIN-SUFFIX,wolfatbestbuy.net
-DOMAIN-SUFFIX,www-bestbuystores.com
-
-# Geek Squad
 DOMAIN-SUFFIX,geek-squad-support.com
 DOMAIN-SUFFIX,geek-squad.net
 DOMAIN-SUFFIX,geek-squad.org
@@ -80,11 +64,19 @@ DOMAIN-SUFFIX,geeksquadwebroot.org
 DOMAIN-SUFFIX,gscanada.info
 DOMAIN-SUFFIX,gsccdn.com
 DOMAIN-SUFFIX,gslink.us
+DOMAIN-SUFFIX,initproducts.com
+DOMAIN-SUFFIX,magnoliaav.com.cn
+DOMAIN-SUFFIX,mybestbuy.com
+DOMAIN-SUFFIX,mybestbuyclaims.com
+DOMAIN-SUFFIX,myrewardzone.com
+DOMAIN-SUFFIX,myrz.com
 DOMAIN-SUFFIX,onlinegeeksquad.com
-
-# RocketFish
+DOMAIN-SUFFIX,pacifickitchenandhome.com
 DOMAIN-SUFFIX,rocketfishproducts.com
-
-# Tech Liquidators
-DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,techliquidators.com
+DOMAIN-SUFFIX,tiendabestbuy.com
+DOMAIN-SUFFIX,unbrandedproducts.com
+DOMAIN-SUFFIX,welcometobestbuy.ca
+DOMAIN-SUFFIX,wolfatbestbuy.com
+DOMAIN-SUFFIX,wolfatbestbuy.net
+DOMAIN-SUFFIX,www-bestbuystores.com

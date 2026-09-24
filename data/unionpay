@@ -9,8 +9,6 @@ DOMAIN-SUFFIX,cup.com.cn
 DOMAIN-SUFFIX,cup62.cn
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpay.net
-DOMAIN-SUFFIX,unionpaysecure.com
-
-# UnionPay International
 DOMAIN-SUFFIX,unionpayintl.cn
 DOMAIN-SUFFIX,unionpayintl.com
+DOMAIN-SUFFIX,unionpaysecure.com

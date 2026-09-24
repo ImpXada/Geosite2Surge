@@ -1,58 +1,25 @@
-# Electronic store/company's website with access point in China
-
-# Analog
 DOMAIN-SUFFIX,analog.com
-
-# 艾睿电子
 DOMAIN-SUFFIX,arrow.cn
-
-# 圆刚科技
 DOMAIN-SUFFIX,avermedia.cn
-
-# 京东方
 DOMAIN-SUFFIX,boe.com
 DOMAIN-SUFFIX,boe.com.cn
-
-# 博流智能
 DOMAIN-SUFFIX,bouffalolab.com
-
-# 长鑫存储
 DOMAIN-SUFFIX,cxmt.com
-
-# 乐鑫信息科技
-
-# 华秋电子
 DOMAIN-SUFFIX,eda.cn
 DOMAIN-SUFFIX,elecfans.com
+DOMAIN-SUFFIX,esp8266.cn
+DOMAIN-SUFFIX,esp8266.com.cn
+DOMAIN-SUFFIX,espressif.cn
+DOMAIN-SUFFIX,espressif.com.cn
+DOMAIN-SUFFIX,fa-part.com
+DOMAIN-SUFFIX,forface3d.com
+DOMAIN-SUFFIX,gosinoic.com
+DOMAIN-SUFFIX,h3c.com
 DOMAIN-SUFFIX,hqchip.com
 DOMAIN-SUFFIX,hqdoc.com
 DOMAIN-SUFFIX,hqpcb.com
-
-# 英飞凌
 DOMAIN-SUFFIX,infineon.cn
-#infineon.com
-
-# 紫光集团
-DOMAIN-SUFFIX,gosinoic.com
-DOMAIN-SUFFIX,h3c.com
-DOMAIN-SUFFIX,moedu.com
-DOMAIN-SUFFIX,thunis.com
-DOMAIN-SUFFIX,tsinghuaic.com
-DOMAIN-SUFFIX,tsingtengms.com
-DOMAIN-SUFFIX,unicloud.com
-DOMAIN-SUFFIX,unigroup.com.cn
-DOMAIN-SUFFIX,uniscan.cn
-DOMAIN-SUFFIX,unisdigital.com
-DOMAIN-SUFFIX,unisemicon.com
-DOMAIN-SUFFIX,unisoc.com
-DOMAIN-SUFFIX,unispc.com
-DOMAIN-SUFFIX,uniswdc.com
-
-# 嘉立创集团
-#include:jlc
-# 嘉立创
-DOMAIN-SUFFIX,fa-part.com
-DOMAIN-SUFFIX,forface3d.com
+DOMAIN-SUFFIX,iotronic.tech
 DOMAIN-SUFFIX,jlc-3dp.cn
 DOMAIN-SUFFIX,jlc-3dp.com
 DOMAIN-SUFFIX,jlc-bbs.com
@@ -87,48 +54,38 @@ DOMAIN-SUFFIX,jlcsj.com
 DOMAIN-SUFFIX,jlcsmt.com
 DOMAIN-SUFFIX,lceda.cn
 DOMAIN-SUFFIX,lckfb.com
+DOMAIN-SUFFIX,listenai.com
+DOMAIN-SUFFIX,maixhub.com
+DOMAIN-SUFFIX,moedu.com
 DOMAIN-SUFFIX,oshwhub.com
+DOMAIN-SUFFIX,quecmall.cn
+DOMAIN-SUFFIX,quectel.com.cn
+DOMAIN-SUFFIX,rock-chips.com
 DOMAIN-SUFFIX,sanweihou.com
+DOMAIN-SUFFIX,seeed.cc
+DOMAIN-SUFFIX,seeed.cn
+DOMAIN-SUFFIX,seeed.com.cn
+DOMAIN-SUFFIX,seeedstudio.com.cn
+DOMAIN-SUFFIX,sipeed.com
 DOMAIN-SUFFIX,sz-jlc.com
 DOMAIN-SUFFIX,szjlc.cn
 DOMAIN-SUFFIX,szlcsc.com
-DOMAIN-SUFFIX,zs-jlc.com
-DOMAIN-SUFFIX,zxhgroup.com
-#end include:jlc
-
-# 聆思科技
-DOMAIN-SUFFIX,listenai.com
-
-# 移远通信
-DOMAIN-SUFFIX,quecmall.cn
-DOMAIN-SUFFIX,quectel.com.cn
-DOMAIN-SUFFIX,iotronic.tech
-
-# 瑞芯微电子
-DOMAIN-SUFFIX,rock-chips.com
-
-# 矽递科技
-DOMAIN-SUFFIX,seeed.cn
-DOMAIN-SUFFIX,seeed.cc
-DOMAIN-SUFFIX,seeed.com.cn
-DOMAIN-SUFFIX,seeedstudio.com.cn
-
-# 矽速科技
-DOMAIN-SUFFIX,sipeed.com
-DOMAIN-SUFFIX,maixhub.com
-
-# 德州仪器
-#ti.com
+DOMAIN-SUFFIX,thunis.com
 DOMAIN-SUFFIX,ti.com.cn
-
-# 沁恒微电子
-DOMAIN-SUFFIX,wch.cn
+DOMAIN-SUFFIX,tsinghuaic.com
+DOMAIN-SUFFIX,tsingtengms.com
+DOMAIN-SUFFIX,unicloud.com
+DOMAIN-SUFFIX,unigroup.com.cn
+DOMAIN-SUFFIX,uniscan.cn
+DOMAIN-SUFFIX,unisdigital.com
+DOMAIN-SUFFIX,unisemicon.com
+DOMAIN-SUFFIX,unisoc.com
+DOMAIN-SUFFIX,unispc.com
+DOMAIN-SUFFIX,uniswdc.com
 DOMAIN-SUFFIX,wch-ic.com
-
-# 长江存储
-#include:ymtc
-# 长江存储
+DOMAIN-SUFFIX,wch.cn
+DOMAIN-SUFFIX,ymtc.cn
 DOMAIN-SUFFIX,ymtc.com
 DOMAIN-SUFFIX,ymtc.com.cn
-DOMAIN-SUFFIX,ymtc.cn
-#end include:ymtc
+DOMAIN-SUFFIX,zs-jlc.com
+DOMAIN-SUFFIX,zxhgroup.com

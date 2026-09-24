@@ -1,10 +1,12 @@
 DOMAIN-SUFFIX,21centuryaccess.com
 DOMAIN-SUFFIX,4ebaytraders.com
+DOMAIN-SUFFIX,achievementanalytics.com
 DOMAIN-SUFFIX,adcommerce.cn
 DOMAIN-SUFFIX,adcommerce.tv
 DOMAIN-SUFFIX,appforebay.cn
 DOMAIN-SUFFIX,appsonebay.net
 DOMAIN-SUFFIX,asebay.com
+DOMAIN-SUFFIX,automobile.fr
 DOMAIN-SUFFIX,baazee.com
 DOMAIN-SUFFIX,bidbay.com
 DOMAIN-SUFFIX,bidorbuyindia.com
@@ -24,6 +26,7 @@ DOMAIN-SUFFIX,buyitnowshop.net
 DOMAIN-SUFFIX,cafr.ca
 DOMAIN-SUFFIX,carebay.com
 DOMAIN-SUFFIX,cargigileads.com
+DOMAIN-SUFFIX,cdn-terapeak.com
 DOMAIN-SUFFIX,cebay.com
 DOMAIN-SUFFIX,collective99.com
 DOMAIN-SUFFIX,commerceos.com
@@ -252,6 +255,9 @@ DOMAIN-SUFFIX,expertmaker.com
 DOMAIN-SUFFIX,fairmarket.com
 DOMAIN-SUFFIX,fragrancebay.com
 DOMAIN-SUFFIX,francemail.com
+DOMAIN-SUFFIX,gittigidiyor.net
+DOMAIN-SUFFIX,gittigidiyorsikayet.com
+DOMAIN-SUFFIX,gumtree.sg
 DOMAIN-SUFFIX,half.com
 DOMAIN-SUFFIX,half.com.cn
 DOMAIN-SUFFIX,half.tv
@@ -261,68 +267,6 @@ DOMAIN-SUFFIX,handbagsoutletebay.com
 DOMAIN-SUFFIX,iebay.com
 DOMAIN-SUFFIX,irribay.com
 DOMAIN-SUFFIX,itsbetterwhenyouwinit.com
-DOMAIN-SUFFIX,liketwice.com
-DOMAIN-SUFFIX,liveauction.com
-DOMAIN-SUFFIX,milofetch.com
-DOMAIN-SUFFIX,musicbay.net
-DOMAIN-SUFFIX,myconstructionworld.net
-DOMAIN-SUFFIX,myebay.com
-DOMAIN-SUFFIX,nebay.net
-DOMAIN-SUFFIX,paisapay.cc
-DOMAIN-SUFFIX,paisapay.info
-DOMAIN-SUFFIX,paisapay.tv
-DOMAIN-SUFFIX,premobay.com
-DOMAIN-SUFFIX,privatemarketplaces.net
-DOMAIN-SUFFIX,privatemarketplaces.us
-DOMAIN-SUFFIX,prostores.cn
-DOMAIN-SUFFIX,prostores.com
-DOMAIN-SUFFIX,prostores.com.cn
-DOMAIN-SUFFIX,rethink.net
-DOMAIN-SUFFIX,shopibay.net
-DOMAIN-SUFFIX,shoping.com
-DOMAIN-SUFFIX,sourcingforebay.com.cn
-DOMAIN-SUFFIX,sourcingforebay.net
-DOMAIN-SUFFIX,sourcingforebay.tv
-DOMAIN-SUFFIX,speybay.com
-DOMAIN-SUFFIX,storesense.com
-DOMAIN-SUFFIX,svpply.com
-DOMAIN-SUFFIX,telebay.com
-DOMAIN-SUFFIX,telesell.com
-DOMAIN-SUFFIX,texttobuy.org
-DOMAIN-SUFFIX,theebayshop.com
-DOMAIN-SUFFIX,theopportunityproject.org
-DOMAIN-SUFFIX,towerauction.com
-DOMAIN-SUFFIX,vendu.com
-DOMAIN-SUFFIX,watch-ebay.org
-DOMAIN-SUFFIX,weareebay.com
-DOMAIN-SUFFIX,wwwdecide.com
-DOMAIN-SUFFIX,wwwebay.com
-DOMAIN-SUFFIX,wwwebay.net
-DOMAIN-SUFFIX,wwwwebay.com
-DOMAIN-SUFFIX,xindelu.com
-DOMAIN-SUFFIX,xn--3et96bj49ahpq.com    #巴特菲尔.com
-DOMAIN-SUFFIX,xn--4vq475g.com    #益倍.com
-DOMAIN-SUFFIX,xn--4vq477m.com    #逸倍.com
-DOMAIN-SUFFIX,xn--7hv594h.com    #易钡.com
-DOMAIN-SUFFIX,xn--7hvy28f.cn    #易贝.cn
-DOMAIN-SUFFIX,xn--hb4aw0g.com    #逸钡.com
-DOMAIN-SUFFIX,xn--q41am8x.com    #藝鋇.com
-DOMAIN-SUFFIX,xn--qoq462m.com    #伊贝.com
-DOMAIN-SUFFIX,xn--tkry91n.com    #半額.com
-DOMAIN-SUFFIX,xn--ubt498knmf.com    #客集齐.com
-DOMAIN-SUFFIX,xn--xsq421m.com    #依贝.com
-DOMAIN-SUFFIX,xn--xsq605n.com    #依鋇.com
-DOMAIN-SUFFIX,xn--xsq959n.com    #依钡.com
-DOMAIN-SUFFIX,xn--yf1at58a.com    #艺钡.com
-DOMAIN-SUFFIX,xxbay.com
-DOMAIN-SUFFIX,yibei.org
-
-# GittiGidiyor
-DOMAIN-SUFFIX,gittigidiyor.net
-DOMAIN-SUFFIX,gittigidiyorsikayet.com
-
-# kijiji
-DOMAIN-SUFFIX,gumtree.sg
 DOMAIN-SUFFIX,jijiji.ca
 DOMAIN-SUFFIX,kiji.ca
 DOMAIN-SUFFIX,kijii.ca
@@ -337,23 +281,45 @@ DOMAIN-SUFFIX,kijijii.ca
 DOMAIN-SUFFIX,kijijiraps.ca
 DOMAIN-SUFFIX,kijji.ca
 DOMAIN-SUFFIX,kijjiji.ca
-
-# Mobile.de
-DOMAIN-SUFFIX,automobile.fr
+DOMAIN-SUFFIX,liketwice.com
+DOMAIN-SUFFIX,listinganalytics.net
+DOMAIN-SUFFIX,liveauction.com
+DOMAIN-SUFFIX,marketexecutive.net
+DOMAIN-SUFFIX,milofetch.com
 DOMAIN-SUFFIX,mobile.de
 DOMAIN-SUFFIX,mobileinternational.com
 DOMAIN-SUFFIX,mobileinternational.com.cn
-
-# Qoo10
+DOMAIN-SUFFIX,musicbay.net
+DOMAIN-SUFFIX,myconstructionworld.net
+DOMAIN-SUFFIX,myebay.com
+DOMAIN-SUFFIX,nebay.net
+DOMAIN-SUFFIX,nexcat.com
+DOMAIN-SUFFIX,nexpart.com
+DOMAIN-SUFFIX,nexpart.tv
+DOMAIN-SUFFIX,paisapay.cc
+DOMAIN-SUFFIX,paisapay.info
+DOMAIN-SUFFIX,paisapay.tv
+DOMAIN-SUFFIX,premobay.com
+DOMAIN-SUFFIX,privatemarketplaces.net
+DOMAIN-SUFFIX,privatemarketplaces.us
+DOMAIN-SUFFIX,prostores.cn
+DOMAIN-SUFFIX,prostores.com
+DOMAIN-SUFFIX,prostores.com.cn
 DOMAIN-SUFFIX,q10.jp
 DOMAIN-SUFFIX,qoo10.jp
-
-# Terapeak
-DOMAIN-SUFFIX,achievementanalytics.com
-DOMAIN-SUFFIX,cdn-terapeak.com
-DOMAIN-SUFFIX,listinganalytics.net
-DOMAIN-SUFFIX,marketexecutive.net
+DOMAIN-SUFFIX,renchead.com
+DOMAIN-SUFFIX,rethink.net
+DOMAIN-SUFFIX,shopibay.net
+DOMAIN-SUFFIX,shoping.com
+DOMAIN-SUFFIX,sourcingforebay.com.cn
+DOMAIN-SUFFIX,sourcingforebay.net
+DOMAIN-SUFFIX,sourcingforebay.tv
+DOMAIN-SUFFIX,speybay.com
+DOMAIN-SUFFIX,storesense.com
+DOMAIN-SUFFIX,svpply.com
 DOMAIN-SUFFIX,tearapeak.com
+DOMAIN-SUFFIX,telebay.com
+DOMAIN-SUFFIX,telesell.com
 DOMAIN-SUFFIX,terapeack.com
 DOMAIN-SUFFIX,terapeak.ca
 DOMAIN-SUFFIX,terapeak.cn
@@ -363,14 +329,35 @@ DOMAIN-SUFFIX,terapeak.hk
 DOMAIN-SUFFIX,terapeak.info
 DOMAIN-SUFFIX,teraperk.com
 DOMAIN-SUFFIX,terrapeak.com
+DOMAIN-SUFFIX,texttobuy.org
 DOMAIN-SUFFIX,thebayuk.com
-
-# WHI
-DOMAIN-SUFFIX,nexcat.com
-DOMAIN-SUFFIX,nexpart.com
-DOMAIN-SUFFIX,nexpart.tv
-DOMAIN-SUFFIX,renchead.com
+DOMAIN-SUFFIX,theebayshop.com
+DOMAIN-SUFFIX,theopportunityproject.org
+DOMAIN-SUFFIX,towerauction.com
+DOMAIN-SUFFIX,vendu.com
+DOMAIN-SUFFIX,watch-ebay.org
+DOMAIN-SUFFIX,weareebay.com
 DOMAIN-SUFFIX,whisolutions.com
 DOMAIN-SUFFIX,wrenchead.com
-
+DOMAIN-SUFFIX,wwwdecide.com
+DOMAIN-SUFFIX,wwwebay.com
+DOMAIN-SUFFIX,wwwebay.net
+DOMAIN-SUFFIX,wwwwebay.com
+DOMAIN-SUFFIX,xindelu.com
+DOMAIN-SUFFIX,xn--3et96bj49ahpq.com
+DOMAIN-SUFFIX,xn--4vq475g.com
+DOMAIN-SUFFIX,xn--4vq477m.com
+DOMAIN-SUFFIX,xn--7hv594h.com
+DOMAIN-SUFFIX,xn--7hvy28f.cn
+DOMAIN-SUFFIX,xn--hb4aw0g.com
+DOMAIN-SUFFIX,xn--q41am8x.com
+DOMAIN-SUFFIX,xn--qoq462m.com
+DOMAIN-SUFFIX,xn--tkry91n.com
+DOMAIN-SUFFIX,xn--ubt498knmf.com
+DOMAIN-SUFFIX,xn--xsq421m.com
+DOMAIN-SUFFIX,xn--xsq605n.com
+DOMAIN-SUFFIX,xn--xsq959n.com
+DOMAIN-SUFFIX,xn--yf1at58a.com
+DOMAIN-SUFFIX,xxbay.com
+DOMAIN-SUFFIX,yibei.org
 DOMAIN,ebay-25-assets.s3-us-west-1.amazonaws.com

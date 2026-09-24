@@ -1,5 +1,3 @@
-# Beijing Danmu Network Technology Co., Ltd.
-
 DOMAIN-SUFFIX,ac.fun
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,acfun.net
@@ -7,6 +5,3 @@ DOMAIN-SUFFIX,acfunchina.cn
 DOMAIN-SUFFIX,acfunchina.com
 DOMAIN-SUFFIX,acfunchina.net
 DOMAIN-SUFFIX,aixifan.com
-
-# Ads/tracking
-DOMAIN,apilog-web.acfun.cn

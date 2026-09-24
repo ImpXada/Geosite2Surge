@@ -3,13 +3,19 @@ DOMAIN-SUFFIX,antiphishing.ru
 DOMAIN-SUFFIX,cert-gib.com
 DOMAIN-SUFFIX,cert-gib.ru
 DOMAIN-SUFFIX,cybercrimecon.com
-DOMAIN-SUFFIX,gibdev.net
+DOMAIN-SUFFIX,f6.dev
+DOMAIN-SUFFIX,f6.ru
+DOMAIN-SUFFIX,f6.security
+DOMAIN-SUFFIX,facct.email
+DOMAIN-SUFFIX,facct.ru
+DOMAIN-SUFFIX,future-cs.ru
 DOMAIN-SUFFIX,g-ib.ae
 DOMAIN-SUFFIX,g-ib.ru
 DOMAIN-SUFFIX,g-ib.sg
 DOMAIN-SUFFIX,g-ib.us
 DOMAIN-SUFFIX,gib-global.com
 DOMAIN-SUFFIX,gib.sg
+DOMAIN-SUFFIX,gibdev.net
 DOMAIN-SUFFIX,gibtds.ru
 DOMAIN-SUFFIX,group-ib.ae
 DOMAIN-SUFFIX,group-ib.co.uk
@@ -22,11 +28,3 @@ DOMAIN-SUFFIX,group-ib.us
 DOMAIN-SUFFIX,groupib.ae
 DOMAIN-SUFFIX,groupib.sg
 DOMAIN-SUFFIX,groupib.us
-
-# F.A.C.C.T.
-DOMAIN-SUFFIX,f6.dev
-DOMAIN-SUFFIX,f6.ru
-DOMAIN-SUFFIX,f6.security
-DOMAIN-SUFFIX,facct.email
-DOMAIN-SUFFIX,facct.ru
-DOMAIN-SUFFIX,future-cs.ru

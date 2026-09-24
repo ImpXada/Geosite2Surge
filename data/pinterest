@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,pin.it
 DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinimg.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,pinterest.at
 DOMAIN-SUFFIX,pinterest.be
 DOMAIN-SUFFIX,pinterest.ca
@@ -34,6 +35,7 @@ DOMAIN-SUFFIX,pinterest.info
 DOMAIN-SUFFIX,pinterest.it
 DOMAIN-SUFFIX,pinterest.jp
 DOMAIN-SUFFIX,pinterest.kr
+DOMAIN-SUFFIX,pinterest.map.fastly.net
 DOMAIN-SUFFIX,pinterest.mx
 DOMAIN-SUFFIX,pinterest.net
 DOMAIN-SUFFIX,pinterest.nl
@@ -48,7 +50,3 @@ DOMAIN-SUFFIX,pinterest.tw
 DOMAIN-SUFFIX,pinterest.uk
 DOMAIN-SUFFIX,pinterest.vn
 DOMAIN-SUFFIX,pinterestmail.com
-
-#CDN
-DOMAIN-SUFFIX,pinimg.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,pinterest.map.fastly.net

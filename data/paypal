@@ -15,13 +15,30 @@ DOMAIN-SUFFIX,billmelater.com
 DOMAIN-SUFFIX,billmelater.info
 DOMAIN-SUFFIX,billmelater.net
 DOMAIN-SUFFIX,bml.info
+DOMAIN-SUFFIX,braintreegateway.com
+DOMAIN-SUFFIX,braintreegateway.tv
+DOMAIN-SUFFIX,braintreepayments.com
+DOMAIN-SUFFIX,braintreepayments.info
+DOMAIN-SUFFIX,braintreepayments.org
+DOMAIN-SUFFIX,braintreepayments.tv
+DOMAIN-SUFFIX,braintreepaymentsolutions.com
+DOMAIN-SUFFIX,braintreeps.com
+DOMAIN-SUFFIX,briantreepayments.net
+DOMAIN-SUFFIX,briantreepayments.tv
 DOMAIN-SUFFIX,buyfast-paysmart.net
+DOMAIN-SUFFIX,card.io
+DOMAIN-SUFFIX,cash2.com
 DOMAIN-SUFFIX,cashify.com
+DOMAIN-SUFFIX,cashify.net
 DOMAIN-SUFFIX,devtools-paypal.com
 DOMAIN-SUFFIX,experiencebillmelater.com
+DOMAIN-SUFFIX,filipino-music.net
 DOMAIN-SUFFIX,fundpaypal.com
+DOMAIN-SUFFIX,getbraintree.com
 DOMAIN-SUFFIX,gmoney.org
 DOMAIN-SUFFIX,i-o-u.info
+DOMAIN-SUFFIX,krakenjs.com
+DOMAIN-SUFFIX,loanbuilder.com
 DOMAIN-SUFFIX,login-paypal.com
 DOMAIN-SUFFIX,login-paypal.info
 DOMAIN-SUFFIX,mywaytopay.info
@@ -125,10 +142,10 @@ DOMAIN-SUFFIX,paypal-signin.us
 DOMAIN-SUFFIX,paypal-special.com
 DOMAIN-SUFFIX,paypal-specialoffers.com
 DOMAIN-SUFFIX,paypal-sptam.com
+DOMAIN-SUFFIX,paypal-status.com
 DOMAIN-SUFFIX,paypal-support.com
 DOMAIN-SUFFIX,paypal-survey.com
 DOMAIN-SUFFIX,paypal-survey.org
-DOMAIN-SUFFIX,paypal-status.com
 DOMAIN-SUFFIX,paypal-team.com
 DOMAIN-SUFFIX,paypal-viewpoints.net
 DOMAIN-SUFFIX,paypal.ca
@@ -195,66 +212,34 @@ DOMAIN-SUFFIX,pypl.com
 DOMAIN-SUFFIX,pypl.info
 DOMAIN-SUFFIX,pypl.net
 DOMAIN-SUFFIX,pypl.tv
+DOMAIN-SUFFIX,s-xoom.com
 DOMAIN-SUFFIX,secure-paypal.info
 DOMAIN-SUFFIX,securepaypal.info
-DOMAIN-SUFFIX,sslpaypal.org
-DOMAIN-SUFFIX,thepaypalshop.com
-DOMAIN-SUFFIX,theshoppingexpresslane.net
-DOMAIN-SUFFIX,www-paypal.info
-DOMAIN-SUFFIX,www-paypal.us
-DOMAIN-SUFFIX,xn--bnq297cix3a.cn    #易付通.cn
-
-# Braintree
-DOMAIN-SUFFIX,braintreegateway.com
-DOMAIN-SUFFIX,braintreegateway.tv
-DOMAIN-SUFFIX,braintreepayments.com
-DOMAIN-SUFFIX,braintreepayments.info
-DOMAIN-SUFFIX,braintreepayments.org
-DOMAIN-SUFFIX,braintreepayments.tv
-DOMAIN-SUFFIX,braintreepaymentsolutions.com
-DOMAIN-SUFFIX,braintreeps.com
-DOMAIN-SUFFIX,briantreepayments.net
-DOMAIN-SUFFIX,briantreepayments.tv
-DOMAIN-SUFFIX,card.io
-DOMAIN-SUFFIX,getbraintree.com
-
-# krakenjs
-DOMAIN-SUFFIX,krakenjs.com
-
-# LoanBuilder
-DOMAIN-SUFFIX,loanbuilder.com
-DOMAIN-SUFFIX,swiftcapital.com
-
-# Simility
 DOMAIN-SUFFIX,simility.com
-
-# Swift Financial
-DOMAIN-SUFFIX,cashify.net
+DOMAIN-SUFFIX,sslpaypal.org
 DOMAIN-SUFFIX,swiftbank.info
 DOMAIN-SUFFIX,swiftbank.us
+DOMAIN-SUFFIX,swiftcapital.com
 DOMAIN-SUFFIX,swiftfinancial.com
 DOMAIN-SUFFIX,swiftfinancial.info
 DOMAIN-SUFFIX,swiftfinancial.net
-
-# Venmo
+DOMAIN-SUFFIX,thepaypalshop.com
+DOMAIN-SUFFIX,theshoppingexpresslane.net
 DOMAIN-SUFFIX,venmo-touch.com
 DOMAIN-SUFFIX,venmo.com
 DOMAIN-SUFFIX,venmo.info
 DOMAIN-SUFFIX,venmo.net
 DOMAIN-SUFFIX,venmo.org
-
-# Xoom
-DOMAIN-SUFFIX,cash2.com
-DOMAIN-SUFFIX,filipino-music.net
-DOMAIN-SUFFIX,s-xoom.com
 DOMAIN-SUFFIX,webmoneyinfo.com
 DOMAIN-SUFFIX,wiremoneytoirelandwithxoomeasierandcheaper.com
+DOMAIN-SUFFIX,www-paypal.info
+DOMAIN-SUFFIX,www-paypal.us
 DOMAIN-SUFFIX,wwwxoom.com
+DOMAIN-SUFFIX,xn--bnq297cix3a.cn
 DOMAIN-SUFFIX,xoom-experience.com
 DOMAIN-SUFFIX,xoom.com
 DOMAIN-SUFFIX,xoom.io
 DOMAIN-SUFFIX,xoom.net.cn
 DOMAIN-SUFFIX,xoom.us
 DOMAIN-SUFFIX,xoomcom.com
-
 DOMAIN,venmo.s3.amazonaws.com

@@ -1,41 +1,15 @@
-#include:playstation
-# All .playstation domains
-DOMAIN-SUFFIX,playstation
-
-DOMAIN-SUFFIX,playstation.com
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-#end include:playstation
-#include:sonypictures
+DOMAIN-SUFFIX,ginzasonypark.jp
 DOMAIN-SUFFIX,imageworks.com
 DOMAIN-SUFFIX,motionpictureser.com
+DOMAIN-SUFFIX,nuro.jp
 DOMAIN-SUFFIX,playshow.io
 DOMAIN-SUFFIX,playshowtv.com
-DOMAIN-SUFFIX,sonyclassics.com
-DOMAIN-SUFFIX,sonypictures.com
-DOMAIN-SUFFIX,sonypicturesanimation.com
-DOMAIN-SUFFIX,sonypicturesmuseum.com
-DOMAIN-SUFFIX,sonypicturesstudios.com
-DOMAIN-SUFFIX,sonypicturestelevision.com
-DOMAIN-SUFFIX,sonypicturestelevisiongames.com
-DOMAIN-SUFFIX,wheelpop.com
-DOMAIN-SUFFIX,wwtbam.com
-DOMAIN-SUFFIX,yourfantasybeginsnow.com
-#end include:sonypictures
-
-# All .sony domains
-DOMAIN-SUFFIX,sony
-
-# Sony Network Communications Inc.
-DOMAIN-SUFFIX,sonynetwork.co.jp
-DOMAIN-SUFFIX,nuro.jp
+DOMAIN-SUFFIX,playstation
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
 DOMAIN-SUFFIX,so-net.ne.jp
-
-# Sony Semiconductor Solutions Corporation
-DOMAIN-SUFFIX,sony-semicon.co.jp
-DOMAIN-SUFFIX,sony-semicon.com
-
-DOMAIN-SUFFIX,ginzasonypark.jp
+DOMAIN-SUFFIX,so-net.net.tw
+DOMAIN-SUFFIX,sony
 DOMAIN-SUFFIX,sony-africa.com
 DOMAIN-SUFFIX,sony-asia.com
 DOMAIN-SUFFIX,sony-europe.com
@@ -44,6 +18,8 @@ DOMAIN-SUFFIX,sony-latin.com
 DOMAIN-SUFFIX,sony-mea.com
 DOMAIN-SUFFIX,sony-olympus-medical.com
 DOMAIN-SUFFIX,sony-promotion.eu
+DOMAIN-SUFFIX,sony-semicon.co.jp
+DOMAIN-SUFFIX,sony-semicon.com
 DOMAIN-SUFFIX,sony.at
 DOMAIN-SUFFIX,sony.ba
 DOMAIN-SUFFIX,sony.be
@@ -115,14 +91,25 @@ DOMAIN-SUFFIX,sony.ua
 DOMAIN-SUFFIX,sonybo.co.jp
 DOMAIN-SUFFIX,sonybsc.com
 DOMAIN-SUFFIX,sonybuilding.jp
+DOMAIN-SUFFIX,sonyclassics.com
 DOMAIN-SUFFIX,sonydesign.com
-DOMAIN-SUFFIX,sonydna.com    #Sony Digital Network Applications Inc.
+DOMAIN-SUFFIX,sonydna.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 DOMAIN-SUFFIX,sonyglobalsolutions.jp
 DOMAIN-SUFFIX,sonykigyo.jp
 DOMAIN-SUFFIX,sonylatvija.com
+DOMAIN-SUFFIX,sonynetwork.co.jp
 DOMAIN-SUFFIX,sonypcl.jp
+DOMAIN-SUFFIX,sonypictures.com
+DOMAIN-SUFFIX,sonypicturesanimation.com
+DOMAIN-SUFFIX,sonypicturesmuseum.com
+DOMAIN-SUFFIX,sonypicturesstudios.com
+DOMAIN-SUFFIX,sonypicturestelevision.com
+DOMAIN-SUFFIX,sonypicturestelevisiongames.com
 DOMAIN-SUFFIX,sonyprotechnosupport.co.jp
-DOMAIN-SUFFIX,sonystoragemedia.co.jp    #Sony Storage Media Solutions Corporation
+DOMAIN-SUFFIX,sonystoragemedia.co.jp
 DOMAIN-SUFFIX,sonytc.co.jp
 DOMAIN-SUFFIX,sovec.net
-DOMAIN-SUFFIX,so-net.net.tw
+DOMAIN-SUFFIX,wheelpop.com
+DOMAIN-SUFFIX,wwtbam.com
+DOMAIN-SUFFIX,yourfantasybeginsnow.com

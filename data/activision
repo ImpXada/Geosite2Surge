@@ -1,4 +1,3 @@
-# Use `geosite:activision-blizzard` if you want to match more domains
 DOMAIN-SUFFIX,activision.com
 DOMAIN-SUFFIX,callofduty.com
 DOMAIN-SUFFIX,callofdutyendowment.com

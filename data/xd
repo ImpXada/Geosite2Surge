@@ -1,4 +1,4 @@
-#include:taptap
+DOMAIN-SUFFIX,ro.com
 DOMAIN-SUFFIX,tapapks.com
 DOMAIN-SUFFIX,tapimg.com
 DOMAIN-SUFFIX,tapimg.net
@@ -6,9 +6,6 @@ DOMAIN-SUFFIX,taptap.cn
 DOMAIN-SUFFIX,taptap.com
 DOMAIN-SUFFIX,taptap.io
 DOMAIN-SUFFIX,taptapdada.com
-#end include:taptap
-
-DOMAIN-SUFFIX,ro.com
 DOMAIN-SUFFIX,xd.cn
 DOMAIN-SUFFIX,xd.com
 DOMAIN-SUFFIX,xdcdn.net

@@ -1,4 +1,7 @@
+DOMAIN-SUFFIX,band.us
+DOMAIN-SUFFIX,clova.ai
 DOMAIN-SUFFIX,gcld-line.com
+DOMAIN-SUFFIX,grafolio.com
 DOMAIN-SUFFIX,lin.ee
 DOMAIN-SUFFIX,line-apps-beta.com
 DOMAIN-SUFFIX,line-apps-rc.com
@@ -8,7 +11,6 @@ DOMAIN-SUFFIX,line-cdn.net
 DOMAIN-SUFFIX,line-scdn.net
 DOMAIN-SUFFIX,line.biz
 DOMAIN-SUFFIX,line.me
-DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,linecorp.com
 DOMAIN-SUFFIX,linefriends.com
 DOMAIN-SUFFIX,linefriends.com.tw
@@ -17,53 +19,31 @@ DOMAIN-SUFFIX,linemobile.com
 DOMAIN-SUFFIX,linemyshop.com
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linetv.tw
-DOMAIN-SUFFIX,nhncorp.jp
-#end include:line
-
-# Naver Corp.
-
+DOMAIN-SUFFIX,modoo.at
 DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,naver.com.akadns.net
+DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,naver.me
 DOMAIN-SUFFIX,naver.net
-DOMAIN-SUFFIX,naver.com.akadns.net
-DOMAIN-SUFFIX,navercorp.com
-DOMAIN-SUFFIX,nheos.com
-DOMAIN-SUFFIX,pstatic.net
-
-# Naver Cloud
-
-DOMAIN-SUFFIX,clova.ai
+DOMAIN-SUFFIX,naverads.com
+DOMAIN-SUFFIX,naverads.com.akadns.net
 DOMAIN-SUFFIX,navercloudcorp.com
+DOMAIN-SUFFIX,navercorp.com
+DOMAIN-SUFFIX,naverfincorp.com
+DOMAIN-SUFFIX,naverlabs.com
 DOMAIN-SUFFIX,naverncp.com
 DOMAIN-SUFFIX,ncloud.com
-DOMAIN-SUFFIX,worksmobile.com
-
-# Naver Financial
-
-DOMAIN-SUFFIX,naverfincorp.com
-
-# Snow
-
+DOMAIN-SUFFIX,nheos.com
+DOMAIN-SUFFIX,nhncorp.jp
+DOMAIN-SUFFIX,plug.game
+DOMAIN-SUFFIX,prismlive.com
+DOMAIN-SUFFIX,pstatic.net
 DOMAIN-SUFFIX,snow.me
 DOMAIN-SUFFIX,snowcorp.com
-DOMAIN-SUFFIX,vday.io
-
-# Webtoons Corp
-
 DOMAIN-SUFFIX,studiolico.com
 DOMAIN-SUFFIX,studioncorp.com
+DOMAIN-SUFFIX,vday.io
 DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,webtoons.com
 DOMAIN-SUFFIX,webtoonscorp.com
-
-# Other Services and Subsidiaries
-
-DOMAIN-SUFFIX,band.us
-DOMAIN-SUFFIX,grafolio.com
-DOMAIN-SUFFIX,modoo.at
-DOMAIN-SUFFIX,naver.jp
-DOMAIN-SUFFIX,naverads.com
-DOMAIN-SUFFIX,naverads.com.akadns.net
-DOMAIN-SUFFIX,naverlabs.com
-DOMAIN-SUFFIX,plug.game
-DOMAIN-SUFFIX,prismlive.com
+DOMAIN-SUFFIX,worksmobile.com

@@ -1,5 +1,3 @@
-# 北京抖音科技有限公司 京ICP备16016397号
-# 抖音、抖音火山版、汽水音乐
 DOMAIN-SUFFIX,activity-wbsj.com
 DOMAIN-SUFFIX,aihst8.com
 DOMAIN-SUFFIX,amemv.cn
@@ -16,9 +14,11 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyinact.com
 DOMAIN-SUFFIX,douyinact.net
 DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinec.com
 DOMAIN-SUFFIX,douyinfe.com
 DOMAIN-SUFFIX,douyinliving.com
 DOMAIN-SUFFIX,douyinmusicpromotion.com
+DOMAIN-SUFFIX,douyinpay.com
 DOMAIN-SUFFIX,douyinpic.com
 DOMAIN-SUFFIX,douyinstatic.com
 DOMAIN-SUFFIX,douyinvod.com
@@ -54,7 +54,9 @@ DOMAIN-SUFFIX,ihuoshanlive.com
 DOMAIN-SUFFIX,ihuoshanstatic.com
 DOMAIN-SUFFIX,ihuoshanvod.com
 DOMAIN-SUFFIX,kolbuyer.cn
+DOMAIN-SUFFIX,lifexue.com
 DOMAIN-SUFFIX,nextvid.net
+DOMAIN-SUFFIX,open-douyin.com
 DOMAIN-SUFFIX,ppkankan01.com
 DOMAIN-SUFFIX,qishui.cn
 DOMAIN-SUFFIX,qishui.com
@@ -63,19 +65,7 @@ DOMAIN-SUFFIX,qishuimusic.cn
 DOMAIN-SUFFIX,qishuimusic.com.cn
 DOMAIN-SUFFIX,supercachenet.com
 DOMAIN-SUFFIX,supercachenode.com
+DOMAIN-SUFFIX,ulpay.com
 DOMAIN-SUFFIX,ultracachenode.com
 DOMAIN-SUFFIX,woaihuoshan.com
 DOMAIN-SUFFIX,wohst8.com
-
-# 抖音电商
-DOMAIN-SUFFIX,douyinec.com
-
-# 抖音支付
-DOMAIN-SUFFIX,douyinpay.com
-DOMAIN-SUFFIX,ulpay.com
-
-# 抖音生活服务
-DOMAIN-SUFFIX,lifexue.com
-
-# 抖音开放平台
-DOMAIN-SUFFIX,open-douyin.com

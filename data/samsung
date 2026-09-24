@@ -1,14 +1,9 @@
-# All .samsung domains
-DOMAIN-SUFFIX,samsung
-
-# All .삼성 domains
-DOMAIN-SUFFIX,xn--cg4bki
-
 DOMAIN-SUFFIX,galaxyappstore.com
 DOMAIN-SUFFIX,galaxymobile.jp
 DOMAIN-SUFFIX,game-platform.net
 DOMAIN-SUFFIX,knoxemm.com
 DOMAIN-SUFFIX,ospserver.net
+DOMAIN-SUFFIX,samsung
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,samsung.com.cn
 DOMAIN-SUFFIX,samsungadhub.com
@@ -29,3 +24,4 @@ DOMAIN-SUFFIX,samsungosp.com
 DOMAIN-SUFFIX,samsungqbe.com
 DOMAIN-SUFFIX,samsungrs.com
 DOMAIN-SUFFIX,smartthings.com
+DOMAIN-SUFFIX,xn--cg4bki

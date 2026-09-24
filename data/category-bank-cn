@@ -1,83 +1,135 @@
-#include:hsbc-cn
-DOMAIN-SUFFIX,hsbc.com.cn
-DOMAIN-SUFFIX,hsbcqh.com.cn
-DOMAIN-SUFFIX,hsbcinsurance.com.cn
-#end include:hsbc-cn
-#include:unionpay
+DOMAIN-SUFFIX,8008205555.cn
+DOMAIN-SUFFIX,8008205555.com
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,95516.net
+DOMAIN-SUFFIX,95588.com
+DOMAIN-SUFFIX,95588.com.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bank-of-china.com
+DOMAIN-SUFFIX,bankcomm.cn
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,bankofbeijing.com.cn
+DOMAIN-SUFFIX,bankofchina.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,bocamchina.com
+DOMAIN-SUFFIX,bocaviation.com
+DOMAIN-SUFFIX,boccfc.cc
+DOMAIN-SUFFIX,boccfc.cn
+DOMAIN-SUFFIX,bocfullertonbank.com
+DOMAIN-SUFFIX,bocgi.com
+DOMAIN-SUFFIX,bocgins.com
+DOMAIN-SUFFIX,bocichina.cn
+DOMAIN-SUFFIX,bocichina.com
+DOMAIN-SUFFIX,bocichina.com.cn
+DOMAIN-SUFFIX,bocifunds.cn
+DOMAIN-SUFFIX,bocifunds.com
+DOMAIN-SUFFIX,bocifunds.com.cn
+DOMAIN-SUFFIX,bocigroup.com
+DOMAIN-SUFFIX,bocim.com
+DOMAIN-SUFFIX,bocservices.com.cn
+DOMAIN-SUFFIX,bosc.cn
+DOMAIN-SUFFIX,bsb.com.cn
+DOMAIN-SUFFIX,ccb-life.com.cn
+DOMAIN-SUFFIX,ccb.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,ccb.com.cn
+DOMAIN-SUFFIX,ccbcos.com
+DOMAIN-SUFFIX,ccbfund.cn
+DOMAIN-SUFFIX,ccbfund.com
+DOMAIN-SUFFIX,ccbfund.com.cn
+DOMAIN-SUFFIX,ccbfutures.cn
+DOMAIN-SUFFIX,ccbfutures.com
+DOMAIN-SUFFIX,ccbleasing.com
+DOMAIN-SUFFIX,ccblife-test.com.cn
+DOMAIN-SUFFIX,ccbtrust.com.cn
+DOMAIN-SUFFIX,ccbxt.com
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,cfc108.com
+DOMAIN-SUFFIX,cgbchina.com.cn
+DOMAIN-SUFFIX,chinaamc.com
 DOMAIN-SUFFIX,chinapay.com
 DOMAIN-SUFFIX,chinaums.com
 DOMAIN-SUFFIX,chinaunionpay.com
 DOMAIN-SUFFIX,chinaunionpay.com.cn
 DOMAIN-SUFFIX,chinaunionpay.net
+DOMAIN-SUFFIX,cib.com.cn
+DOMAIN-SUFFIX,cignacmb-ipmi.com
+DOMAIN-SUFFIX,cignacmb.com
+DOMAIN-SUFFIX,cignacmbamc.com
+DOMAIN-SUFFIX,citibank.com.cn
+DOMAIN-SUFFIX,citic
+DOMAIN-SUFFIX,citic-prudential.com.cn
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,citiccapital.com
+DOMAIN-SUFFIX,citiciam.com
+DOMAIN-SUFFIX,citicifh.com
+DOMAIN-SUFFIX,citicprufunds.com.cn
+DOMAIN-SUFFIX,citicsf.com
+DOMAIN-SUFFIX,clsa.com
+DOMAIN-SUFFIX,cmb-leasing.com
+DOMAIN-SUFFIX,cmbc.com.cn
+DOMAIN-SUFFIX,cmbchina.biz
+DOMAIN-SUFFIX,cmbchina.cn
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.cn
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,cmbt.cn
+DOMAIN-SUFFIX,cmbuat.com
+DOMAIN-SUFFIX,cmburl.cn
+DOMAIN-SUFFIX,cmf.biz
+DOMAIN-SUFFIX,cmf.ltd
+DOMAIN-SUFFIX,cmfchina.com
+DOMAIN-SUFFIX,cmfunds.cn
+DOMAIN-SUFFIX,csc108.com
+DOMAIN-SUFFIX,csxbank.com
 DOMAIN-SUFFIX,cup.com.cn
 DOMAIN-SUFFIX,cup62.cn
+DOMAIN-SUFFIX,dccnet.com.cn
+DOMAIN-SUFFIX,ecitic.com
+DOMAIN-SUFFIX,fbank.com
+DOMAIN-SUFFIX,hsbc.com.cn
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
+DOMAIN-SUFFIX,hsbcqh.com.cn
+DOMAIN-SUFFIX,hxb.com.cn
+DOMAIN-SUFFIX,icbc
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,icbccs.com.cn
+DOMAIN-SUFFIX,icbccstz.com.cn
+DOMAIN-SUFFIX,icbcina.com
+DOMAIN-SUFFIX,icbcmanila.com.cn
+DOMAIN-SUFFIX,icbcstandard.com
+DOMAIN-SUFFIX,icbcstandardbank.com
+DOMAIN-SUFFIX,icbcstandardresources.com
+DOMAIN-SUFFIX,icbcstandardsecurities.com
+DOMAIN-SUFFIX,joying.com
+DOMAIN-SUFFIX,kcbebank.com
+DOMAIN-SUFFIX,kshbank.cn
+DOMAIN-SUFFIX,ms-bank.cn
+DOMAIN-SUFFIX,mybank.cn
+DOMAIN-SUFFIX,newupbank.com
+DOMAIN-SUFFIX,njcb.com.cn
+DOMAIN-SUFFIX,onebank.com.cn
+DOMAIN-SUFFIX,psbc.com
+DOMAIN-SUFFIX,shrbank.com
+DOMAIN-SUFFIX,spdb.com.cn
+DOMAIN-SUFFIX,suningbank.com
+DOMAIN-SUFFIX,tctpwebankcdn.net
+DOMAIN-SUFFIX,test-cignacmb.com
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,unionpay.net
-DOMAIN-SUFFIX,unionpaysecure.com
-
-# UnionPay International
 DOMAIN-SUFFIX,unionpayintl.cn
 DOMAIN-SUFFIX,unionpayintl.com
-#end include:unionpay
-
-DOMAIN-SUFFIX,abchina.com
-DOMAIN-SUFFIX,bankcomm.cn
-DOMAIN-SUFFIX,bankcomm.com
-DOMAIN-SUFFIX,bankofbeijing.com.cn
-DOMAIN-SUFFIX,bosc.cn
-DOMAIN-SUFFIX,bsb.com.cn
-DOMAIN-SUFFIX,cebbank.com
-DOMAIN-SUFFIX,cgbchina.com.cn
-DOMAIN-SUFFIX,cib.com.cn
-DOMAIN-SUFFIX,citibank.com.cn
-DOMAIN-SUFFIX,cmbc.com.cn
-DOMAIN-SUFFIX,hxb.com.cn
-DOMAIN-SUFFIX,njcb.com.cn
-DOMAIN-SUFFIX,psbc.com
-DOMAIN-SUFFIX,spdb.com.cn
-DOMAIN-SUFFIX,whccb.com
-
-# 中国19家民营银行
-# 天津金城银行股份有限公司 Kincheng Bank of Tianjin Co., Ltd.
-DOMAIN-SUFFIX,kcbebank.com
-# 上海华瑞银行股份有限公司 Shanghai HuaRui Bank Co., LTD.
-DOMAIN-SUFFIX,shrbank.com
-# 浙江网商银行股份有限公司 ZHEJIANG E-COMMERCE BANK CO.,LTD
-DOMAIN-SUFFIX,mybank.cn
-# 温州民商银行股份有限公司 WENZHOU MINSHANG BANK CO.,LTD
-DOMAIN-SUFFIX,ms-bank.cn
-# 深圳前海微众银行股份有限公司 WeBank Co.,Ltd
-DOMAIN-SUFFIX,tctpwebankcdn.net
+DOMAIN-SUFFIX,unionpaysecure.com
 DOMAIN-SUFFIX,wbweilicai.com
 DOMAIN-SUFFIX,webank.com
 DOMAIN-SUFFIX,webankcdn.net
-# 湖南三湘银行股份有限公司 BANK OF SANXIANG
-DOMAIN-SUFFIX,csxbank.com
-# 重庆富民银行股份有限公司 Chongqing Fumin Bank Co.,Ltd.
-DOMAIN-SUFFIX,fbank.com
-# 四川新网银行股份有限公司 SICHUAN XW BANK CORP.,LTD.
-DOMAIN-SUFFIX,xwbank.com
-# 北京中关村银行股份有限公司 Beijing Zhongguancun Bank Corporation Limited
-DOMAIN-SUFFIX,zgcbank.com
-# 吉林亿联银行股份有限公司 JILIN YILLION BANK CO.，LTD.
-DOMAIN-SUFFIX,yillionbank.com
-# 武汉众邦银行股份有限公司 WUHANZBANK CO.,LTD.
-DOMAIN-SUFFIX,z-bank.com
-# 福建华通银行股份有限公司 Fujian OneBank Company Limited
-DOMAIN-SUFFIX,onebank.com.cn
-# 威海蓝海银行股份有限公司 WEIHAI BLUE OCEAN BANK CO.,LTD.
 DOMAIN-SUFFIX,wegobank.cn
-# 江苏苏宁银行股份有限公司 JIANGSU SUNING BANK CO.,LTD.
-DOMAIN-SUFFIX,suningbank.com
-# 梅州客商银行股份有限公司 MEIZHOU HAKKA BANK CO., LTD.
-DOMAIN-SUFFIX,kshbank.cn
-# 安徽新安银行股份有限公司 Anhui xin’an bank Co.,Ltd.
-DOMAIN-SUFFIX,xa-bank.com
-# 辽宁振兴银行股份有限公司 NewUp Bank of Liaoning Co.,Ltd.
-DOMAIN-SUFFIX,newupbank.com
-# 江西裕民银行股份有限公司 JIANGXI YUMIN BANK CO., LTD.
-DOMAIN-SUFFIX,ymbank.com
-# 无锡锡商银行股份有限公司 WUXI XISHANG BANK CO.，LTD.
+DOMAIN-SUFFIX,whccb.com
 DOMAIN-SUFFIX,wxsbank.com
+DOMAIN-SUFFIX,xa-bank.com
+DOMAIN-SUFFIX,xn--fiq64b
+DOMAIN-SUFFIX,xwbank.com
+DOMAIN-SUFFIX,yillionbank.com
+DOMAIN-SUFFIX,ymbank.com
+DOMAIN-SUFFIX,z-bank.com
+DOMAIN-SUFFIX,zgcbank.com

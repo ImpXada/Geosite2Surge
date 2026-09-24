@@ -33,27 +33,10 @@ DOMAIN-SUFFIX,static163.net
 DOMAIN-SUFFIX,weiyang.cn
 DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeah.net
+DOMAIN-SUFFIX,yjwujian.cn
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,youdaoads.com
 DOMAIN-SUFFIX,yunxindns.com
 DOMAIN-SUFFIX,yunxinfw.com
-DOMAIN-SUFFIX,zhuanzfx.com
-
-# 永劫无间
-DOMAIN-SUFFIX,yjwujian.cn
-# 燕云十六声
 DOMAIN-SUFFIX,yysls.cn
-
-# Ads/tracking
-DOMAIN-SUFFIX,a.youdao.com
-DOMAIN-SUFFIX,admusicpic.music.126.net
-DOMAIN-SUFFIX,ads.music.126.net
-DOMAIN-SUFFIX,analytics.163.com
-DOMAIN-SUFFIX,crash.163.com
-DOMAIN-SUFFIX,crashlytics.163.com
-DOMAIN-SUFFIX,g.163.com
-DOMAIN-SUFFIX,iadmat.nosdn.127.net
-DOMAIN-SUFFIX,iadmatapk.nosdn.127.net
-DOMAIN-SUFFIX,iadmusicmat.music.126.net
-DOMAIN-SUFFIX,iadmusicmatvideo.music.126.net
-DOMAIN-SUFFIX,sentry.music.163.com
+DOMAIN-SUFFIX,zhuanzfx.com

@@ -1,9 +1,3 @@
-# IDN ccTLD domains (.рф)
-DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai    #эра-инвестиций.рф
-DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai    #фрод-рулетка.рф
-DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai    #ит-каток.рф
-DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf    #тбизнес.рус
-
 DOMAIN-SUFFIX,2w.ru
 DOMAIN-SUFFIX,4c.ru
 DOMAIN-SUFFIX,4epenaxa.com
@@ -15,7 +9,9 @@ DOMAIN-SUFFIX,booking-tec.ru
 DOMAIN-SUFFIX,capitalt.ru
 DOMAIN-SUFFIX,cardsmobile.ru
 DOMAIN-SUFFIX,cdn-tinkoff.ru
+DOMAIN-SUFFIX,centraluniversity.ru
 DOMAIN-SUFFIX,codeseason.by
+DOMAIN-SUFFIX,cu.ru
 DOMAIN-SUFFIX,custody.ru
 DOMAIN-SUFFIX,data-tscbank.ru
 DOMAIN-SUFFIX,deltacredit.ru
@@ -44,6 +40,7 @@ DOMAIN-SUFFIX,mfk-t-finance.ru
 DOMAIN-SUFFIX,my-tbank.ru
 DOMAIN-SUFFIX,phoenix-ca.ru
 DOMAIN-SUFFIX,private-banking.ru
+DOMAIN-SUFFIX,prodcontest.com
 DOMAIN-SUFFIX,rbcollect.ru
 DOMAIN-SUFFIX,rbcredit.ru
 DOMAIN-SUFFIX,rf-sim-mobile.ru
@@ -88,6 +85,7 @@ DOMAIN-SUFFIX,tconf.ru
 DOMAIN-SUFFIX,tcsbank.ru
 DOMAIN-SUFFIX,tdev.by
 DOMAIN-SUFFIX,time-messenger.ru
+DOMAIN-SUFFIX,tinkoff-edu.ru
 DOMAIN-SUFFIX,tinkoff-group.com
 DOMAIN-SUFFIX,tinkoff.ai
 DOMAIN-SUFFIX,tinkoff.ru
@@ -102,15 +100,11 @@ DOMAIN-SUFFIX,tmiaf.ru
 DOMAIN-SUFFIX,tpension.ru
 DOMAIN-SUFFIX,travel-tec.ru
 DOMAIN-SUFFIX,unidraw.io
+DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
 DOMAIN-SUFFIX,xn--90aifd0az.shop
+DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
 DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
 DOMAIN-SUFFIX,xn--d1abkf4ap.fun
 DOMAIN-SUFFIX,xn--h1ao.site
-
-# Education
-DOMAIN-SUFFIX,centraluniversity.ru
-DOMAIN-SUFFIX,cu.ru
-DOMAIN-SUFFIX,prodcontest.com
-DOMAIN-SUFFIX,tinkoff-edu.ru
-DOMAIN,edu.tinkoff.ru
-DOMAIN,education.tbank.ru

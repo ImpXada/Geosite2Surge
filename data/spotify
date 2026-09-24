@@ -15,7 +15,6 @@ DOMAIN-SUFFIX,spotifyforbrands.com
 DOMAIN-SUFFIX,spotifyforvendors.com
 DOMAIN-SUFFIX,spotifyjobs.com
 DOMAIN-SUFFIX,tospotify.com
-
 DOMAIN,audio-ak-spotify-com.akamaized.net
 DOMAIN,audio4-ak-spotify-com.akamaized.net
 DOMAIN,cdn-spotify-experiments.conductrics.com
@@ -24,8 +23,3 @@ DOMAIN,heads4-ak-spotify-com.akamaized.net
 DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
-
-# Ads/tracking
-DOMAIN,adeventtracker.spotify.com
-DOMAIN,adstudio-assets.scdn.co
-DOMAIN,bloodhound.spotify.com

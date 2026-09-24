@@ -1,9 +1,7 @@
-# All .icbc domains
-DOMAIN-SUFFIX,icbc
-
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn
 DOMAIN-SUFFIX,dccnet.com.cn
+DOMAIN-SUFFIX,icbc
 DOMAIN-SUFFIX,icbc-at.com
 DOMAIN-SUFFIX,icbc-cz.com
 DOMAIN-SUFFIX,icbc-ltd.com

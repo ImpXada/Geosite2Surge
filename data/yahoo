@@ -1,15 +1,15 @@
-# All .flickr domains
-DOMAIN-SUFFIX,flickr
-
+DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,flic.kr
+DOMAIN-SUFFIX,flickr
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,maktoob.com
+DOMAIN-SUFFIX,myguide.hk
+DOMAIN-SUFFIX,ouryahoo.com
 DOMAIN-SUFFIX,staticflickr.com
-#end include:flickr
-
-# All .yahoo domains
+DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,yahoo
-
+DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yahoo.ae
 DOMAIN-SUFFIX,yahoo.am
 DOMAIN-SUFFIX,yahoo.as
@@ -159,14 +159,6 @@ DOMAIN-SUFFIX,yahoo.tm
 DOMAIN-SUFFIX,yahoo.tn
 DOMAIN-SUFFIX,yahoo.vg
 DOMAIN-SUFFIX,yahoo.ws
-
-# Others
-DOMAIN-SUFFIX,aolcdn.com
-DOMAIN-SUFFIX,maktoob.com
-DOMAIN-SUFFIX,myguide.hk
-DOMAIN-SUFFIX,ouryahoo.com
-DOMAIN-SUFFIX,techcrunch.com
-DOMAIN-SUFFIX,yahoo-news.com.hk
 DOMAIN-SUFFIX,yahooapis.com
 DOMAIN-SUFFIX,yahoodns.net
 DOMAIN-SUFFIX,yahoofinance.com
@@ -180,10 +172,4 @@ DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,yimg.jp
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,yusercontent.com
-
 DOMAIN,cdn.js7k.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,ads.yahoo.com
-DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,ysm.yahoo.com

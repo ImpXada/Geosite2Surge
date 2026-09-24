@@ -1,5 +1,6 @@
 DOMAIN-SUFFIX,airgonetworks.com
 DOMAIN-SUFFIX,berkanawireless.com
+DOMAIN-SUFFIX,brewmp.com
 DOMAIN-SUFFIX,cdmatech.com
 DOMAIN-SUFFIX,dragoniscoming.com
 DOMAIN-SUFFIX,gobianywhere.com
@@ -45,8 +46,4 @@ DOMAIN-SUFFIX,wipower.com
 DOMAIN-SUFFIX,wirelessreach.com
 DOMAIN-SUFFIX,xtracloud.cn
 DOMAIN-SUFFIX,xtracloud.net
-
-# brew
-DOMAIN-SUFFIX,brewmp.com
-
 DOMAIN,qualcomm.sc.omtrdc.net

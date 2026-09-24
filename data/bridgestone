@@ -1,10 +1,9 @@
-# All .bridgestone domains
-DOMAIN-SUFFIX,bridgestone
-
 DOMAIN-SUFFIX,bandag.cc
 DOMAIN-SUFFIX,bandag.com
+DOMAIN-SUFFIX,bastropfirestone.com
 DOMAIN-SUFFIX,blizzak-juken.jp
 DOMAIN-SUFFIX,bookmybridgestonetyre.com
+DOMAIN-SUFFIX,bridgestone
 DOMAIN-SUFFIX,bridgestone-asiapacific.com
 DOMAIN-SUFFIX,bridgestone-bandag.com
 DOMAIN-SUFFIX,bridgestone-brand.com
@@ -58,27 +57,10 @@ DOMAIN-SUFFIX,bs-awh.ne.jp
 DOMAIN-SUFFIX,bsw.co.jp
 DOMAIN-SUFFIX,bsw.jp
 DOMAIN-SUFFIX,carcare-and-tireshop.jp
+DOMAIN-SUFFIX,cfna.com
+DOMAIN-SUFFIX,crossfitfirestone.com
 DOMAIN-SUFFIX,daytontrucktires.com
 DOMAIN-SUFFIX,ecoforme.jp
-DOMAIN-SUFFIX,gcrtires.com
-DOMAIN-SUFFIX,jsbridgestone.com
-DOMAIN-SUFFIX,menshin-channel.com
-DOMAIN-SUFFIX,monitrix.net
-DOMAIN-SUFFIX,mr-tireman.jp
-DOMAIN-SUFFIX,mybridgestoneeducation.com
-DOMAIN-SUFFIX,playz.jp
-DOMAIN-SUFFIX,potenza.jp
-DOMAIN-SUFFIX,prodrive-japan.com
-DOMAIN-SUFFIX,store-bridgestonesports.com
-DOMAIN-SUFFIX,thetread.com
-DOMAIN-SUFFIX,tiresplus.com
-
-# Credit First National Association
-DOMAIN-SUFFIX,cfna.com
-
-# Firestone
-DOMAIN-SUFFIX,bastropfirestone.com
-DOMAIN-SUFFIX,crossfitfirestone.com
 DOMAIN-SUFFIX,firestone.cl
 DOMAIN-SUFFIX,firestone.co.cr
 DOMAIN-SUFFIX,firestone.com.ar
@@ -98,9 +80,19 @@ DOMAIN-SUFFIX,firestoneip.com
 DOMAIN-SUFFIX,firestonerewards.com
 DOMAIN-SUFFIX,firestonetire.ca
 DOMAIN-SUFFIX,firestonetire.com
+DOMAIN-SUFFIX,gcrtires.com
 DOMAIN-SUFFIX,hibdontire.com
-DOMAIN-SUFFIX,wheelworks.net
-
-# Nokian Tyres
+DOMAIN-SUFFIX,jsbridgestone.com
+DOMAIN-SUFFIX,menshin-channel.com
+DOMAIN-SUFFIX,monitrix.net
+DOMAIN-SUFFIX,mr-tireman.jp
+DOMAIN-SUFFIX,mybridgestoneeducation.com
 DOMAIN-SUFFIX,nokiantyres.cn
 DOMAIN-SUFFIX,nokiantyres.com
+DOMAIN-SUFFIX,playz.jp
+DOMAIN-SUFFIX,potenza.jp
+DOMAIN-SUFFIX,prodrive-japan.com
+DOMAIN-SUFFIX,store-bridgestonesports.com
+DOMAIN-SUFFIX,thetread.com
+DOMAIN-SUFFIX,tiresplus.com
+DOMAIN-SUFFIX,wheelworks.net

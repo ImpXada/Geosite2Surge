@@ -12,10 +12,8 @@ DOMAIN-SUFFIX,odnoklassniki.ru
 DOMAIN-SUFFIX,odnoklassniki.tj
 DOMAIN-SUFFIX,ok.me
 DOMAIN-SUFFIX,ok.ru
+DOMAIN-SUFFIX,okcdn.ru
 DOMAIN-SUFFIX,okl.lt
 DOMAIN-SUFFIX,oktech.ru
-
-# CDN
-DOMAIN-SUFFIX,okcdn.ru
 DOMAIN,st-ok-pts.cdn-vk.ru
 DOMAIN,st-ok.cdn-vk.ru

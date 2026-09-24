@@ -1,25 +1,18 @@
+DOMAIN-SUFFIX,ahc.ovh
+DOMAIN-SUFFIX,api.alador.space
+DOMAIN-SUFFIX,cdn-service.space
+DOMAIN-SUFFIX,cdn2cdn.com
+DOMAIN-SUFFIX,cdn2site.com
+DOMAIN-SUFFIX,gfw.ovh
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kino.watch
 DOMAIN-SUFFIX,kinopub.online
 DOMAIN-SUFFIX,kpdl.link
-
-# Mirror sites
-DOMAIN-SUFFIX,ahc.ovh    #sub domains mirror
-DOMAIN-SUFFIX,gfw.ovh    #sub domains mirror
-DOMAIN-SUFFIX,tsx.ovh    #sub domains mirror
-DOMAIN-SUFFIX,mos-gorsud.co    #kinopub domain to generate a mirror site through gfw.ovh
-
-# kinopub API services
-DOMAIN-SUFFIX,api.alador.space
 DOMAIN-SUFFIX,m.alador.space
+DOMAIN-SUFFIX,mos-gorsud.co
+DOMAIN-SUFFIX,pushbr.com
+DOMAIN-SUFFIX,smarttvcdn.online
 DOMAIN-SUFFIX,support-kp.com
 DOMAIN-SUFFIX,teleos.club
-
-# kinopub CDN servers
-DOMAIN-SUFFIX,cdn-service.space
-DOMAIN-SUFFIX,cdn2cdn.com
-DOMAIN-SUFFIX,cdn2site.com
-DOMAIN-SUFFIX,pushbr.com    #poster images CDN
-DOMAIN-SUFFIX,smarttvcdn.online
-
-DOMAIN-WILDCARD,*-static-*.cdntogo.net
+DOMAIN-SUFFIX,tsx.ovh
+DOMAIN-WILDCARD,?*-static-?*.cdntogo.net

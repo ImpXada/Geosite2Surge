@@ -1,17 +1,13 @@
 DOMAIN-SUFFIX,betboom.ru
-DOMAIN-SUFFIX,mobile-bb.com
-#end include:betboom
 DOMAIN-SUFFIX,bk6bba-resources.com
 DOMAIN-SUFFIX,bk6bba-resources.ru
 DOMAIN-SUFFIX,fon.bet
 DOMAIN-SUFFIX,fon.promo
-#end include:fonbet
 DOMAIN-SUFFIX,ligadobra.ru
 DOMAIN-SUFFIX,ligastavok-csr.ru
 DOMAIN-SUFFIX,ligastavok.ru
+DOMAIN-SUFFIX,mobile-bb.com
 DOMAIN-SUFFIX,sozvezdie-dobra.ru
-#end include:ligastavok
 DOMAIN-SUFFIX,win-line.ru
 DOMAIN-SUFFIX,winline.ru
 DOMAIN-SUFFIX,winlinebet.ru
-#end include:winline

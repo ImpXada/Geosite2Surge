@@ -1,82 +1,34 @@
-# BudZdorov – network of multidisciplinary medical clinics
-DOMAIN-SUFFIX,klinikabudzdorov.ru
-
-# EMIAS – Moscow city polyclinics and medical institutions
+DOMAIN-SUFFIX,apteka-april.ru
+DOMAIN-SUFFIX,apteka.ru
+DOMAIN-SUFFIX,aptekiplus.ru
+DOMAIN-SUFFIX,b17.ru
 DOMAIN-SUFFIX,emias.info
 DOMAIN-SUFFIX,emias.mos.ru
 DOMAIN-SUFFIX,emias.ru
-
-# Federal State Budgetary Institution Polyclinic No. 1 in Moscow
-DOMAIN-SUFFIX,vipmed.ru
-
-# Medical insurance policy "SMK RESO-Med"
-DOMAIN-SUFFIX,reso-med.com
-DOMAIN-SUFFIX,reso-med.ru
-## Moscow City Compulsory Medical Insurance Fund
-DOMAIN-SUFFIX,mgfoms.ru
-## St. Petersburg Territorial Compulsory Medical Insurance Fund
-DOMAIN-SUFFIX,spboms.ru
-## Territorial Compulsory Medical Insurance Fund of the Republic of Karelia
-DOMAIN-SUFFIX,oms.karelia.ru
-## The territorial fund of compulsory medical insurance of the Moscow region
-DOMAIN-SUFFIX,mofoms.ru
-
-# MEDSI – federal network of private clinics
+DOMAIN-SUFFIX,farmlend.ru
+DOMAIN-SUFFIX,gorzdrav.org
+DOMAIN-SUFFIX,gorzdrav.spb.ru
+DOMAIN-SUFFIX,klinikabudzdorov.ru
 DOMAIN-SUFFIX,medsi-premium.ru
 DOMAIN-SUFFIX,medsi.com
 DOMAIN-SUFFIX,medsi.pro
 DOMAIN-SUFFIX,medsi.ru
-DOMAIN-SUFFIX,smartmed.pro
-
-# Moscow City Health Department
+DOMAIN-SUFFIX,megapteka.ru
+DOMAIN-SUFFIX,mgfoms.ru
+DOMAIN-SUFFIX,mofoms.ru
 DOMAIN-SUFFIX,mosgorzdrav.ru
-
-# Polyclinika Ru – network of private medical clinics and consulting and diagnostic centers in Moscow
+DOMAIN-SUFFIX,oms.karelia.ru
+DOMAIN-SUFFIX,planetazdorovo.ru
 DOMAIN-SUFFIX,polyclinika.ru
-## Dentistry Zub Ru – network of dental clinics in Moscow
-DOMAIN-SUFFIX,zub.ru
-
-# Psychologists' website
-DOMAIN-SUFFIX,b17.ru
-
-# Reaviz - private medical clinics of the university
+DOMAIN-SUFFIX,pz.help
 DOMAIN-SUFFIX,reaviz.com
 DOMAIN-SUFFIX,reaviz.ru
-
-# St. Petersburg city polyclinics and medical institutions
-DOMAIN-SUFFIX,gorzdrav.spb.ru
-
-#
-# Pharmacies
-#
-
-# Apteka
-DOMAIN-SUFFIX,apteka.ru
-
-# Apteka April
-DOMAIN-SUFFIX,apteka-april.ru
-
-# Apteki Plus
-DOMAIN-SUFFIX,aptekiplus.ru
-
-# Farmlend
-DOMAIN-SUFFIX,farmlend.ru
-
-# GorZdrav
-DOMAIN-SUFFIX,gorzdrav.org
-
-# Megapteka
-DOMAIN-SUFFIX,megapteka.ru
-
-# Planeta Zdorov'ya
-DOMAIN-SUFFIX,planetazdorovo.ru
-DOMAIN-SUFFIX,pz.help
-
-# Stolichki
+DOMAIN-SUFFIX,reso-med.com
+DOMAIN-SUFFIX,reso-med.ru
+DOMAIN-SUFFIX,smartmed.pro
+DOMAIN-SUFFIX,spboms.ru
 DOMAIN-SUFFIX,stolichki.ru
-
-# Uteka
 DOMAIN-SUFFIX,uteka.ru
-
-# Zdravcity
+DOMAIN-SUFFIX,vipmed.ru
 DOMAIN-SUFFIX,zdravcity.ru
+DOMAIN-SUFFIX,zub.ru

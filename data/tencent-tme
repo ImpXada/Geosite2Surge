@@ -1,7 +1,10 @@
-# 腾讯音乐娱乐集团/TME
+DOMAIN-SUFFIX,97ting.com
 DOMAIN-SUFFIX,fanxingliveshow.com
+DOMAIN-SUFFIX,kg.qq.com
 DOMAIN-SUFFIX,kgimg.com
 DOMAIN-SUFFIX,kglink.cn
+DOMAIN-SUFFIX,koowo.cn
+DOMAIN-SUFFIX,koowo.com
 DOMAIN-SUFFIX,ktv.com
 DOMAIN-SUFFIX,kugoo.com
 DOMAIN-SUFFIX,kugou.com
@@ -15,47 +18,15 @@ DOMAIN-SUFFIX,kugousenior.com
 DOMAIN-SUFFIX,kugoustore.com
 DOMAIN-SUFFIX,kugouvoice.com
 DOMAIN-SUFFIX,kugouyouth.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,ads.service.kugou.com
-DOMAIN-SUFFIX,adserviceretry.kglink.cn
-DOMAIN-SUFFIX,adserviceretry.kugou.com
-#end include:kugou
-DOMAIN-SUFFIX,koowo.cn
-DOMAIN-SUFFIX,koowo.com
 DOMAIN-SUFFIX,kuwo.cn
-#end include:kuwo
-DOMAIN-SUFFIX,ximalaya.com
-DOMAIN-SUFFIX,xmcdn.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,adbehavior.ximalaya.com
-DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-DOMAIN-SUFFIX,adse.ximalaya.com
-#end include:ximalaya
-
-DOMAIN-SUFFIX,qqmusic.com
-DOMAIN-SUFFIX,tencentmusic.com
-
-DOMAIN-SUFFIX,kg.qq.com
-DOMAIN-SUFFIX,music.qq.com
-DOMAIN-SUFFIX,y.qq.com
-
-# 懒人听书
 DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,mting.info
-DOMAIN-SUFFIX,wting.info
-
-# 爱听卓乐
-DOMAIN-SUFFIX,97ting.com
+DOMAIN-SUFFIX,music.qq.com
+DOMAIN-SUFFIX,qqmusic.com
+DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tingmall.com
 DOMAIN-SUFFIX,ultimatemusic.cn
-
-# Ads/tracking
-DOMAIN-SUFFIX,ad.tencentmusic.com
-DOMAIN-SUFFIX,adstats.tencentmusic.com
-DOMAIN-SUFFIX,monitor.music.qq.com
-DOMAIN-SUFFIX,report.tencentmusic.com
-DOMAIN-SUFFIX,stat.y.qq.com
-DOMAIN-SUFFIX,tmead.y.qq.com
-DOMAIN-SUFFIX,tmeadcomm.y.qq.com
+DOMAIN-SUFFIX,wting.info
+DOMAIN-SUFFIX,ximalaya.com
+DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,y.qq.com

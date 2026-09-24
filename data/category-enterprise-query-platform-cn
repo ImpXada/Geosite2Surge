@@ -1,24 +1,13 @@
-#include:aiqicha
 DOMAIN-SUFFIX,aiqicha.baidu.com
 DOMAIN-SUFFIX,aiqicha.cn
 DOMAIN-SUFFIX,aiqicha.com
-#end include:aiqicha
-#include:qcc
+DOMAIN-SUFFIX,jindidata.com
 DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qichacha.com
-#end include:qcc
-#include:qixin
-DOMAIN-SUFFIX,qixin.com
-#end include:qixin
-#include:tianyancha
-DOMAIN-SUFFIX,jindidata.com
-DOMAIN-SUFFIX,tianyancha.com
-#end include:tianyancha
-
 DOMAIN-SUFFIX,qichamao.com
+DOMAIN-SUFFIX,qixin.com
 DOMAIN-SUFFIX,qyyjt.cn
+DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,x315.com
-
-# 信查查
 DOMAIN-SUFFIX,xcc.cn
 DOMAIN-SUFFIX,xinchacha.com

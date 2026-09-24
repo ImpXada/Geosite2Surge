@@ -1,35 +1,18 @@
-#include:playcover
+DOMAIN-SUFFIX,battleye.com
+DOMAIN-SUFFIX,bluestacks.com
+DOMAIN-SUFFIX,fflogs.com
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,ldmnq.com
+DOMAIN-SUFFIX,lsplayer.com
+DOMAIN-SUFFIX,maa.plus
 DOMAIN-SUFFIX,playcover.io
 DOMAIN-SUFFIX,playcover.workers.dev
-#end include:playcover
-#include:fflogs
-DOMAIN-SUFFIX,fflogs.com
-DOMAIN-SUFFIX,rpglogs.com
-
+DOMAIN-SUFFIX,poi.moe
+DOMAIN-SUFFIX,prts.plus
 DOMAIN-SUFFIX,rpglogs.cn
-#end include:fflogs
-#include:trackernetwork
+DOMAIN-SUFFIX,rpglogs.com
+DOMAIN-SUFFIX,steampp.net
 DOMAIN-SUFFIX,thetrackernetwork.com
 DOMAIN-SUFFIX,tracker.gg
 DOMAIN-SUFFIX,tracker.network
-#end include:trackernetwork
-
-# Anti-Cheat
-DOMAIN-SUFFIX,battleye.com
-
-# Android Emulator
-DOMAIN-SUFFIX,bluestacks.com
-DOMAIN-SUFFIX,ldmnq.com
-DOMAIN-SUFFIX,lsplayer.com
 DOMAIN-SUFFIX,yeshen.com
-
-# Arknights
-DOMAIN-SUFFIX,maa.plus
-DOMAIN-SUFFIX,prts.plus
-
-# KanColle
-DOMAIN-SUFFIX,heavenlywind.cc
-DOMAIN-SUFFIX,poi.moe
-
-# Steam++ / Watt Toolkit
-DOMAIN-SUFFIX,steampp.net

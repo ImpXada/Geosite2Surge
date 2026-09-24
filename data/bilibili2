@@ -1,7 +1,15 @@
-# bilibili2 is a pornographic website. Do not add bilibili domain in here.
-
 DOMAIN-SUFFIX,bili2.cc
 DOMAIN-SUFFIX,bili888.com
 DOMAIN-SUFFIX,bili999.com
-
-DOMAIN-WILDCARD,*bilibili3*.xyz
+DOMAIN-SUFFIX,bilibili301.xyz
+DOMAIN-SUFFIX,bilibili302.xyz
+DOMAIN-SUFFIX,bilibili303.xyz
+DOMAIN-SUFFIX,bilibili304.xyz
+DOMAIN-SUFFIX,bilibili305.xyz
+DOMAIN-SUFFIX,bilibili306.xyz
+DOMAIN-SUFFIX,bilibili307.xyz
+DOMAIN-SUFFIX,bilibili308.xyz
+DOMAIN-SUFFIX,bilibili309.xyz
+DOMAIN-SUFFIX,bilibili310.xyz
+DOMAIN-SUFFIX,bilibili311.xyz
+DOMAIN-SUFFIX,bilibili312.xyz

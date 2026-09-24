@@ -1,19 +1,13 @@
-DOMAIN-SUFFIX,8uri.cn
-DOMAIN-SUFFIX,kanimg.com
-DOMAIN-SUFFIX,sandai.net
-DOMAIN-SUFFIX,thunderurl.com
-DOMAIN-SUFFIX,xunlei.com
-
-# 烽动cdn
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com
-DOMAIN-SUFFIX,p2cdn.com
-DOMAIN-SUFFIX,thundercdn.com
-
-# 星域云
-DOMAIN-SUFFIX,xycloud.com
-DOMAIN-SUFFIX,xycdn.com
-
-# 光鸭云盘
+DOMAIN-SUFFIX,8uri.cn
 DOMAIN-SUFFIX,guangyacdn.com
 DOMAIN-SUFFIX,guangyapan.com
+DOMAIN-SUFFIX,kanimg.com
+DOMAIN-SUFFIX,p2cdn.com
+DOMAIN-SUFFIX,sandai.net
+DOMAIN-SUFFIX,thundercdn.com
+DOMAIN-SUFFIX,thunderurl.com
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,xycloud.com

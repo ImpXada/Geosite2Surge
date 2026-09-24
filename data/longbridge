@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
 DOMAIN-SUFFIX,longbridge.cloud
 DOMAIN-SUFFIX,longbridge.cn
 DOMAIN-SUFFIX,longbridge.com
@@ -7,8 +9,4 @@ DOMAIN-SUFFIX,longbridge.sg
 DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longportapp.com
-
-# Site Assets
-DOMAIN-SUFFIX,lbctrl.com
-DOMAIN-SUFFIX,lbkrs.com
 DOMAIN-SUFFIX,wbrks.com

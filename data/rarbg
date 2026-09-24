@@ -1,13 +1,8 @@
-# RARBG image hosting site
 DOMAIN-SUFFIX,dyncdn.me
-
-# RARBG official site
-DOMAIN-SUFFIX,rarbg.me
-DOMAIN-SUFFIX,rarbg.to
-
-# RARBG proxy sites
 DOMAIN-SUFFIX,proxyrarbg.org
 DOMAIN-SUFFIX,rarbg.is
+DOMAIN-SUFFIX,rarbg.me
+DOMAIN-SUFFIX,rarbg.to
 DOMAIN-SUFFIX,rarbgaccess.org
 DOMAIN-SUFFIX,rarbgaccessed.org
 DOMAIN-SUFFIX,rarbgget.org

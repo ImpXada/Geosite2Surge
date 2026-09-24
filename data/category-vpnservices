@@ -1,76 +1,60 @@
-# DISCLAIMER:
-# We do NOT endorse or claim that the VPN services below are legal or safe.
-# Please use at your own risk and observe local laws, rules and regulations.
-
-# Reference: https://duyaoss.com/archives/3/
-#include:928plus
 DOMAIN-SUFFIX,928.plus
-DOMAIN-SUFFIX,zind.cloud
-#end include:928plus
-#include:boslife
+DOMAIN-SUFFIX,aaex.uk
+DOMAIN-SUFFIX,airport-gov-cn.com
+DOMAIN-SUFFIX,amytele.com
+DOMAIN-SUFFIX,ark.to
+DOMAIN-SUFFIX,baicaonetwork.com
+DOMAIN-SUFFIX,bighead.group
+DOMAIN-SUFFIX,blinkload.zone
 DOMAIN-SUFFIX,boslife.biz
 DOMAIN-SUFFIX,boslife.net
-#end include:boslife
-#include:cylink
+DOMAIN-SUFFIX,cloudn.me
+DOMAIN-SUFFIX,cnix-gov-cn.com
+DOMAIN-SUFFIX,conair.me
+DOMAIN-SUFFIX,cordcloud.org
+DOMAIN-SUFFIX,ctyun.online
 DOMAIN-SUFFIX,cylink.pro
 DOMAIN-SUFFIX,cylink0122.icu
-#end include:cylink
-#include:dlercloud
+DOMAIN-SUFFIX,dfvpn.com
 DOMAIN-SUFFIX,dlercloud.com
-DOMAIN-SUFFIX,dlercloud.org
 DOMAIN-SUFFIX,dlercloud.me
+DOMAIN-SUFFIX,dlercloud.org
 DOMAIN-SUFFIX,dleris.best
-#end include:dlercloud
-#include:duyaoss
 DOMAIN-SUFFIX,duyaoss.com
 DOMAIN-SUFFIX,duyaossr.com
-#end include:duyaoss
-#include:hitun
+DOMAIN-SUFFIX,geph.io
+DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,hitun.io
-DOMAIN-SUFFIX,xn--90wwvt03e.com    #海豚湾.com
-#end include:hitun
-#include:justmysocks
+DOMAIN-SUFFIX,hutao.cloud
 DOMAIN-SUFFIX,justmysocks.net
 DOMAIN-SUFFIX,justmysocks1.net
 DOMAIN-SUFFIX,justmysocks2.net
 DOMAIN-SUFFIX,justmysocks4.net
-#end include:justmysocks
-#include:n3ro
+DOMAIN-SUFFIX,maying.co
+DOMAIN-SUFFIX,mocloudplus.com
+DOMAIN-SUFFIX,mray.club
+DOMAIN-SUFFIX,mudfish.net
+DOMAIN-SUFFIX,muncloud.dog
 DOMAIN-SUFFIX,n3ro.lol
 DOMAIN-SUFFIX,n3ro.net
 DOMAIN-SUFFIX,n3ro.wtf
-#end include:n3ro
-#include:nexitally
 DOMAIN-SUFFIX,nexitally.com
 DOMAIN-SUFFIX,nexitallysafe.com
 DOMAIN-SUFFIX,nexitcore.com
-#end include:nexitally
-#include:nordvpn
 DOMAIN-SUFFIX,nordcdn.com
 DOMAIN-SUFFIX,nordvpn.com
-#end include:nordvpn
-#include:paofuyun
 DOMAIN-SUFFIX,paofu.cloud
 DOMAIN-SUFFIX,paofuyun.me
-#end include:paofuyun
-#include:shadowsockscom
+DOMAIN-SUFFIX,renzhe.cloud
 DOMAIN-SUFFIX,shadowsocks.com
 DOMAIN-SUFFIX,shadowsocks.nl
-#end include:shadowsockscom
-#include:squirrelvpn
-DOMAIN-SUFFIX,squirrelvpn.com
 DOMAIN-SUFFIX,squirrelgroup.net
-#end include:squirrelvpn
-#include:ssrcloud
-DOMAIN-SUFFIX,airport-gov-cn.com
-DOMAIN-SUFFIX,cnix-gov-cn.com
-DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com    #很有精神.com
-#end include:ssrcloud
-#include:surflite
+DOMAIN-SUFFIX,squirrelvpn.com
+DOMAIN-SUFFIX,ssplive.pw
+DOMAIN-SUFFIX,ssrpass.pw
+DOMAIN-SUFFIX,stc-server.com
 DOMAIN-SUFFIX,surflite.co
 DOMAIN-SUFFIX,surflite.net
-#end include:surflite
-#include:vilavpn
 DOMAIN-SUFFIX,vilavpn.com
 DOMAIN-SUFFIX,vilavpn.xyz
 DOMAIN-SUFFIX,vilavpn1.xyz
@@ -80,28 +64,6 @@ DOMAIN-SUFFIX,vilavpn4.xyz
 DOMAIN-SUFFIX,vilavpn5.xyz
 DOMAIN-SUFFIX,vilavpn6.xyz
 DOMAIN-SUFFIX,vilavpn7.xyz
-#end include:vilavpn
-
-DOMAIN-SUFFIX,aaex.uk
-DOMAIN-SUFFIX,amytele.com
-DOMAIN-SUFFIX,ark.to
-DOMAIN-SUFFIX,baicaonetwork.com
-DOMAIN-SUFFIX,bighead.group
-DOMAIN-SUFFIX,blinkload.zone
-DOMAIN-SUFFIX,cloudn.me
-DOMAIN-SUFFIX,conair.me
-DOMAIN-SUFFIX,cordcloud.org
-DOMAIN-SUFFIX,ctyun.online
-DOMAIN-SUFFIX,dfvpn.com
-DOMAIN-SUFFIX,geph.io
-DOMAIN-SUFFIX,gfw.press
-DOMAIN-SUFFIX,maying.co
-DOMAIN-SUFFIX,mocloudplus.com
-DOMAIN-SUFFIX,mray.club
-DOMAIN-SUFFIX,mudfish.net
-DOMAIN-SUFFIX,muncloud.dog
-DOMAIN-SUFFIX,renzhe.cloud
-DOMAIN-SUFFIX,ssplive.pw
-DOMAIN-SUFFIX,ssrpass.pw
-DOMAIN-SUFFIX,stc-server.com
-DOMAIN-SUFFIX,hutao.cloud
+DOMAIN-SUFFIX,xn--90wwvt03e.com
+DOMAIN-SUFFIX,xn--d4ty0ojsqzfd.com
+DOMAIN-SUFFIX,zind.cloud

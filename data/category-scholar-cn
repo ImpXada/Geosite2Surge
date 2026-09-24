@@ -1,26 +1,66 @@
-# This list contains scholarly domains that have access point in China Mainland.
-
-#include:cas
-# some website in China Academy of Science
-DOMAIN-SUFFIX,csdl.ac.cn
-DOMAIN-SUFFIX,iscas.ac.cn
-DOMAIN-SUFFIX,las.ac.cn
-#end include:cas
-#include:chaoxing
 DOMAIN-SUFFIX,16q.cn
+DOMAIN-SUFFIX,51ccd.com
 DOMAIN-SUFFIX,5read.com
 DOMAIN-SUFFIX,aichaoxing.com
+DOMAIN-SUFFIX,airitilibrary.cn
+DOMAIN-SUFFIX,ancientbooks.cn
+DOMAIN-SUFFIX,apabi.com
+DOMAIN-SUFFIX,bjinfobank.com
+DOMAIN-SUFFIX,blyun.com
+DOMAIN-SUFFIX,cae.cn
+DOMAIN-SUFFIX,cas.cn
+DOMAIN-SUFFIX,ccf.org.cn
 DOMAIN-SUFFIX,chaoxing.cc
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chaoxingv.com
+DOMAIN-SUFFIX,chinabooktrading.com
+DOMAIN-SUFFIX,chinaxiv.org
+DOMAIN-SUFFIX,chndoi.org
+DOMAIN-SUFFIX,cidp.com.cn
+DOMAIN-SUFFIX,cnbksy.com
+DOMAIN-SUFFIX,cnki.com.cn
+DOMAIN-SUFFIX,cnki.net
+DOMAIN-SUFFIX,cnsciedu.com
+DOMAIN-SUFFIX,cnthinkers.com
+DOMAIN-SUFFIX,cqvip.com
+DOMAIN-SUFFIX,crggcn.com
+DOMAIN-SUFFIX,csdl.ac.cn
+DOMAIN-SUFFIX,cspro.org
 DOMAIN-SUFFIX,cxbiji.com
+DOMAIN-SUFFIX,data.pharmacodia.com
 DOMAIN-SUFFIX,dayainfo.com
+DOMAIN-SUFFIX,drcnet.com.cn
+DOMAIN-SUFFIX,duxiu.com
+DOMAIN-SUFFIX,er07.com
+DOMAIN-SUFFIX,ersjk.com
+DOMAIN-SUFFIX,gtarsc.com
 DOMAIN-SUFFIX,hongbo100.com
+DOMAIN-SUFFIX,htcases.com
+DOMAIN-SUFFIX,hwshu.com
+DOMAIN-SUFFIX,hytung.cn
+DOMAIN-SUFFIX,ibcet.org
+DOMAIN-SUFFIX,incopat.com
+DOMAIN-SUFFIX,iscas.ac.cn
+DOMAIN-SUFFIX,las.ac.cn
+DOMAIN-SUFFIX,lawyee.org
+DOMAIN-SUFFIX,libvideo.com
 DOMAIN-SUFFIX,lnlib.net
+DOMAIN-SUFFIX,medalink.cn
+DOMAIN-SUFFIX,medicexam.net
 DOMAIN-SUFFIX,mndqlib.net
 DOMAIN-SUFFIX,mti100.com
+DOMAIN-SUFFIX,neohytung.com
 DOMAIN-SUFFIX,nihaoafrica.org
 DOMAIN-SUFFIX,nihaorwanda.cn
+DOMAIN-SUFFIX,nmrdata.com
+DOMAIN-SUFFIX,noi.cn
+DOMAIN-SUFFIX,nssd.cn
+DOMAIN-SUFFIX,pishu.com.cn
+DOMAIN-SUFFIX,pkulaw.com
+DOMAIN-SUFFIX,rdfybk.com
+DOMAIN-SUFFIX,resset.com
+DOMAIN-SUFFIX,sbsjk.com
+DOMAIN-SUFFIX,sciencechina.cn
 DOMAIN-SUFFIX,sslawy.com
 DOMAIN-SUFFIX,sslibrary.com
 DOMAIN-SUFFIX,ssreader.cn
@@ -30,93 +70,25 @@ DOMAIN-SUFFIX,ssvideo.com.cn
 DOMAIN-SUFFIX,study360.com.cn
 DOMAIN-SUFFIX,superlib.com
 DOMAIN-SUFFIX,superlib.net
+DOMAIN-SUFFIX,tokyotrial.cn
+DOMAIN-SUFFIX,tongxianghuicn.com
+DOMAIN-SUFFIX,twscholar.com
+DOMAIN-SUFFIX,umajor.net
+DOMAIN-SUFFIX,unihan.com.cn
 DOMAIN-SUFFIX,uonline-sh.com
 DOMAIN-SUFFIX,uonline-sh.net
+DOMAIN-SUFFIX,vipexam.org
+DOMAIN-SUFFIX,wanfangdata.com.cn
+DOMAIN-SUFFIX,wenxin-ge.com
+DOMAIN-SUFFIX,wf.pub
+DOMAIN-SUFFIX,wind.com.cn
 DOMAIN-SUFFIX,xuexi365.com
 DOMAIN-SUFFIX,xuexi365.com.cn
 DOMAIN-SUFFIX,xuexi365.net
 DOMAIN-SUFFIX,xxtmail.com
+DOMAIN-SUFFIX,yiigle.com
 DOMAIN-SUFFIX,ylike.net
 DOMAIN-SUFFIX,zaifan.com
 DOMAIN-SUFFIX,zaifan.com.cn
 DOMAIN-SUFFIX,zhihang100.com
-#end include:chaoxing
-#include:cnki
-DOMAIN-SUFFIX,cnki.com.cn
-DOMAIN-SUFFIX,cnki.net
-
-# 国际 DOI 中国注册与服务中心
-DOMAIN-SUFFIX,chndoi.org
-#end include:cnki
-#include:wanfang
-DOMAIN-SUFFIX,wanfangdata.com.cn
-DOMAIN-SUFFIX,wf.pub
-#end include:wanfang
-
-DOMAIN-SUFFIX,51ccd.com    #商务数据库-进出口货物贸易数据分库
-DOMAIN-SUFFIX,airitilibrary.cn    #华艺学术文献数据库
-DOMAIN-SUFFIX,ancientbooks.cn    #籍合网
-
-DOMAIN-SUFFIX,apabi.com
-DOMAIN-SUFFIX,bjinfobank.com    #高校数据财经库
-
-# 北京百链网源信息技术有限公司
-DOMAIN-SUFFIX,blyun.com    #百链云图书馆
-DOMAIN-SUFFIX,medalink.cn    #百链学术搜索
-
-DOMAIN-SUFFIX,cae.cn    #中国工程院
-DOMAIN-SUFFIX,cas.cn    #中国科学院
-DOMAIN-SUFFIX,chinabooktrading.com    #中国历代典籍总目
-DOMAIN-SUFFIX,chinaxiv.org    #中国科学院科技论文预发布平台
-DOMAIN-SUFFIX,cidp.com.cn    #CIDP制造业数字资源平台
-DOMAIN-SUFFIX,cnbksy.com    #全国报刊索引
-
-# CCF 中国计算机学会
-DOMAIN-SUFFIX,ccf.org.cn
-DOMAIN-SUFFIX,cspro.org    #CCF 计算机职业资格认证管理系统
-DOMAIN-SUFFIX,noi.cn    #NOI 全国青少年信息学奥林匹克竞赛
-
-# 中科软股教育科技
-DOMAIN-SUFFIX,cnsciedu.com
-DOMAIN-SUFFIX,ibcet.org    #中科IBCET大学英语四六级网考系统
-DOMAIN-SUFFIX,medicexam.net    #中科MedicExam医学三基培训考核数据库
-DOMAIN-SUFFIX,umajor.net    #中科UMajor专业课学习系统
-DOMAIN-SUFFIX,vipexam.org    #中科VIPExam考试学习系统
-
-DOMAIN-SUFFIX,cnthinkers.com
-DOMAIN-SUFFIX,cqvip.com
-DOMAIN-SUFFIX,crggcn.com    #CRGG国别区域与全球治理数据平台（原列国志数据库）
-DOMAIN-SUFFIX,data.pharmacodia.com    #药渡经纬全球药物信息平台系统
-DOMAIN-SUFFIX,drcnet.com.cn    #国研网
-DOMAIN-SUFFIX,duxiu.com    #读秀搜索
-
-# 北京爱如生
-DOMAIN-SUFFIX,er07.com
-DOMAIN-SUFFIX,ersjk.com    #爱如生典海数字平台
-DOMAIN-SUFFIX,sbsjk.com    #爱如生申报数据库
-
-# CSMAR经济金融研究数据库
-DOMAIN-SUFFIX,gtarsc.com    #国泰安数据库
-
-DOMAIN-SUFFIX,htcases.com    #全球案例发现
-DOMAIN-SUFFIX,hwshu.com    #瀚文民国书库
-DOMAIN-SUFFIX,hytung.cn    #瀚堂典藏古籍
-DOMAIN-SUFFIX,incopat.com    #incoPat 专利数据库
-DOMAIN-SUFFIX,lawyee.org    #北大法意网 中国法律资料库
-DOMAIN-SUFFIX,libvideo.com    #知识视界 武汉缘来文化
-DOMAIN-SUFFIX,neohytung.com    #瀚堂近代报刊
-DOMAIN-SUFFIX,nmrdata.com    #微谱数据
-DOMAIN-SUFFIX,nssd.cn    #国家哲学社会科学学术期刊数据库
-DOMAIN-SUFFIX,pishu.com.cn    #皮书数据库（社会科学文献出版社）
-DOMAIN-SUFFIX,pkulaw.com    #北大法宝
-DOMAIN-SUFFIX,rdfybk.com    #人大复印报刊资料
-DOMAIN-SUFFIX,resset.com    #锐思数据库
-DOMAIN-SUFFIX,sciencechina.cn    #中国科学文献服务系统
-DOMAIN-SUFFIX,tokyotrial.cn    #东京审判文献数据库
-DOMAIN-SUFFIX,tongxianghuicn.com    #台湾大陆同乡会文献数据库
-DOMAIN-SUFFIX,twscholar.com    #TWS台湾学术期刊在线数据库
-DOMAIN-SUFFIX,unihan.com.cn    #书同文
-DOMAIN-SUFFIX,wenxin-ge.com    #文心阁古籍全文数据库
-DOMAIN-SUFFIX,wind.com.cn    #Wind 资讯金融
-DOMAIN-SUFFIX,yiigle.com    #中华医学期刊全文数据库
-DOMAIN-SUFFIX,zsyyb.cn    #哲学社会科学预印本平台
+DOMAIN-SUFFIX,zsyyb.cn

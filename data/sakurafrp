@@ -1,64 +1,58 @@
-# Sakura Frp 由 南京帕斯琪信息科技有限公司 运营
-# 苏ICP备2020068177号
 DOMAIN-SUFFIX,13a.com
+DOMAIN-SUFFIX,frp-act.com
+DOMAIN-SUFFIX,frp-air.com
+DOMAIN-SUFFIX,frp-all.com
+DOMAIN-SUFFIX,frp-any.com
+DOMAIN-SUFFIX,frp-arm.com
+DOMAIN-SUFFIX,frp-bag.com
+DOMAIN-SUFFIX,frp-bar.com
+DOMAIN-SUFFIX,frp-bid.com
+DOMAIN-SUFFIX,frp-box.com
+DOMAIN-SUFFIX,frp-boy.com
+DOMAIN-SUFFIX,frp-bus.com
+DOMAIN-SUFFIX,frp-dad.com
+DOMAIN-SUFFIX,frp-dog.com
+DOMAIN-SUFFIX,frp-egg.com
+DOMAIN-SUFFIX,frp-end.com
+DOMAIN-SUFFIX,frp-era.com
+DOMAIN-SUFFIX,frp-fan.com
+DOMAIN-SUFFIX,frp-fee.com
+DOMAIN-SUFFIX,frp-fog.com
+DOMAIN-SUFFIX,frp-fox.com
+DOMAIN-SUFFIX,frp-fun.com
+DOMAIN-SUFFIX,frp-gap.com
+DOMAIN-SUFFIX,frp-gas.com
+DOMAIN-SUFFIX,frp-gym.com
+DOMAIN-SUFFIX,frp-hat.com
+DOMAIN-SUFFIX,frp-hen.com
+DOMAIN-SUFFIX,frp-hip.com
+DOMAIN-SUFFIX,frp-hub.com
+DOMAIN-SUFFIX,frp-ice.com
+DOMAIN-SUFFIX,frp-jar.com
+DOMAIN-SUFFIX,frp-key.com
+DOMAIN-SUFFIX,frp-kit.com
+DOMAIN-SUFFIX,frp-lab.com
+DOMAIN-SUFFIX,frp-leg.com
+DOMAIN-SUFFIX,frp-mad.com
+DOMAIN-SUFFIX,frp-mix.com
+DOMAIN-SUFFIX,frp-mom.com
+DOMAIN-SUFFIX,frp-net.com
+DOMAIN-SUFFIX,frp-now.com
+DOMAIN-SUFFIX,frp-nut.com
+DOMAIN-SUFFIX,frp-off.com
+DOMAIN-SUFFIX,frp-oil.com
+DOMAIN-SUFFIX,frp-one.com
+DOMAIN-SUFFIX,frp-own.com
+DOMAIN-SUFFIX,frp-pen.com
+DOMAIN-SUFFIX,frp-put.com
+DOMAIN-SUFFIX,frp-rib.com
+DOMAIN-SUFFIX,frp-rug.com
+DOMAIN-SUFFIX,frp-run.com
+DOMAIN-SUFFIX,frp-say.com
+DOMAIN-SUFFIX,frp-sea.com
+DOMAIN-SUFFIX,frp-shy.com
+DOMAIN-SUFFIX,frp-six.com
+DOMAIN-SUFFIX,frp-ski.com
+DOMAIN-SUFFIX,frp-sun.com
+DOMAIN-SUFFIX,frp-tag.com
 DOMAIN-SUFFIX,natfrp.com
-
-# VIP节点(内地)
-DOMAIN-SUFFIX,frp-air.com    #宿迁电信1
-DOMAIN-SUFFIX,frp-all.com    #宿迁电信2
-DOMAIN-SUFFIX,frp-arm.com    #西安三线PLUS1
-DOMAIN-SUFFIX,frp-bag.com    #合肥三线PLUS1
-DOMAIN-SUFFIX,frp-bid.com    #南宁移动1
-DOMAIN-SUFFIX,frp-dog.com    #重庆三线PLUS1
-DOMAIN-SUFFIX,frp-egg.com    #徐州双线PLUS2
-DOMAIN-SUFFIX,frp-era.com    #长沙三线PLUS2
-DOMAIN-SUFFIX,frp-fan.com    #浙江三线PLUS5
-DOMAIN-SUFFIX,frp-fee.com    #徐州双线PLUS1
-DOMAIN-SUFFIX,frp-fog.com    #浙江三线PLUS2
-DOMAIN-SUFFIX,frp-fox.com    #重庆三线PLUS2
-DOMAIN-SUFFIX,frp-gas.com    #昆明电信1
-DOMAIN-SUFFIX,frp-gym.com    #长沙三线PLUS1
-DOMAIN-SUFFIX,frp-hat.com    #广州联通2
-DOMAIN-SUFFIX,frp-hen.com    #广州联通3
-DOMAIN-SUFFIX,frp-hip.com    #辽宁三线PLUS1
-DOMAIN-SUFFIX,frp-hub.com    #浙江三线PLUS3
-DOMAIN-SUFFIX,frp-ice.com    #徐州双线1
-DOMAIN-SUFFIX,frp-jar.com    #郑州三线PLUS1
-DOMAIN-SUFFIX,frp-key.com    #天津联通1
-DOMAIN-SUFFIX,frp-kit.com    #广东电信4
-DOMAIN-SUFFIX,frp-lab.com    #广东电信3
-DOMAIN-SUFFIX,frp-leg.com    #广州联通1
-DOMAIN-SUFFIX,frp-mad.com    #广东电信5
-DOMAIN-SUFFIX,frp-mix.com    #天津联通PLUS2
-DOMAIN-SUFFIX,frp-mom.com    #济南联通1
-DOMAIN-SUFFIX,frp-nut.com    #天津联通3
-DOMAIN-SUFFIX,frp-one.com    #南昌三线PLUS1
-DOMAIN-SUFFIX,frp-own.com    #石家庄三线PLUS1
-DOMAIN-SUFFIX,frp-pen.com    #东莞三线PLUS1
-DOMAIN-SUFFIX,frp-rug.com    #济南三线PLUS1
-DOMAIN-SUFFIX,frp-run.com    #浙江三线PLUS4
-DOMAIN-SUFFIX,frp-say.com    #长沙三线PLUS3
-DOMAIN-SUFFIX,frp-shy.com    #浙江三线PLUS1
-DOMAIN-SUFFIX,frp-sun.com    #宁波多线PLUS1
-DOMAIN-SUFFIX,frp-tag.com    #湖北多线PLUS1
-
-# 普通节点(内地)
-DOMAIN-SUFFIX,frp-act.com    #天津联通PLUS1
-DOMAIN-SUFFIX,frp-any.com    #成都移动2
-DOMAIN-SUFFIX,frp-bar.com    #浙江联通PLUS1
-DOMAIN-SUFFIX,frp-box.com    #济南联通3
-DOMAIN-SUFFIX,frp-boy.com    #济南联通PLUS1
-DOMAIN-SUFFIX,frp-bus.com    #济南联通PLUS2
-DOMAIN-SUFFIX,frp-dad.com    #长沙移动PLUS1
-DOMAIN-SUFFIX,frp-end.com    #合肥电信PLUS2
-DOMAIN-SUFFIX,frp-fun.com    #长沙电信PLUS4
-DOMAIN-SUFFIX,frp-gap.com    #重庆电信PLUS1
-DOMAIN-SUFFIX,frp-net.com    #徐州双线-扩容1
-DOMAIN-SUFFIX,frp-now.com    #天津联通2
-DOMAIN-SUFFIX,frp-off.com    #济南联通PLUS-扩容1
-DOMAIN-SUFFIX,frp-oil.com    #长沙电信PLUS2
-DOMAIN-SUFFIX,frp-put.com    #重庆电信PLUS2
-DOMAIN-SUFFIX,frp-rib.com    #石家庄联通PLUS1
-DOMAIN-SUFFIX,frp-sea.com    #浙江电信PLUS5
-DOMAIN-SUFFIX,frp-six.com    #浙江电信PLUS6
-DOMAIN-SUFFIX,frp-ski.com    #东莞双线PLUS2

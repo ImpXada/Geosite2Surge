@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,adash.man.aliyuncs.com
 DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alicloudapi.com
@@ -14,9 +15,17 @@ DOMAIN-SUFFIX,aliyuncdn.net
 DOMAIN-SUFFIX,aliyunfile.com
 DOMAIN-SUFFIX,aliyunidaas.com
 DOMAIN-SUFFIX,aliyunpds.com
+DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,cdngslb.com
+DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,fcapp.run
 DOMAIN-SUFFIX,hichina.com
+DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
 DOMAIN-SUFFIX,ica-alliance.org
 DOMAIN-SUFFIX,kunlunaq.com
 DOMAIN-SUFFIX,kunlunar.com
@@ -38,19 +47,9 @@ DOMAIN-SUFFIX,kunlunso.com
 DOMAIN-SUFFIX,kunlunta.com
 DOMAIN-SUFFIX,kunlunvi.com
 DOMAIN-SUFFIX,kunlunwe.com
+DOMAIN-SUFFIX,log-global.aliyuncs.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myalicdn.com
-
-#869 #882 aliyuncs.com
-DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
-DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
-DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
-DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
-DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
-DOMAIN-SUFFIX,cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
-DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
-DOMAIN-SUFFIX,log-global.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
 DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
@@ -79,14 +78,3 @@ DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,registry.aliyuncs.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,acjs.aliyun.com
-DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
-DOMAIN-SUFFIX,adash.man.aliyuncs.com
-DOMAIN-SUFFIX,alimama.alicdn.com
-DOMAIN-SUFFIX,atanx.alicdn.com
-DOMAIN-SUFFIX,atanx2.alicdn.com
-DOMAIN-SUFFIX,baichuan-sdk.alicdn.com
-DOMAIN-SUFFIX,nbsdk-baichuan.alicdn.com
-DOMAIN-SUFFIX,tce.alicdn.com

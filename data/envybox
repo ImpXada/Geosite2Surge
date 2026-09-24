@@ -18,6 +18,4 @@ DOMAIN-SUFFIX,myenvy.ru
 DOMAIN-SUFFIX,quizlink.ru
 DOMAIN-SUFFIX,saas-support.com
 DOMAIN-SUFFIX,whitesaas.com
-
-# IDN ccTLD
-DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai    #энвибокс.рф
+DOMAIN-SUFFIX,xn--90absjljw3g.xn--p1ai

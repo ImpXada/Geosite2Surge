@@ -1,11 +1,7 @@
-# Reference: https://ipfs.github.io/public-gateway-checker/
-
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-#end include:cloudflare-ipfs
-
 DOMAIN-SUFFIX,4everland.io
 DOMAIN-SUFFIX,c4rex.co
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,crustwebsites.net
 DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,gateway.pinata.cloud

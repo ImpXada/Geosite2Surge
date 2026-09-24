@@ -1,7 +1,13 @@
-DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hotstar-cdn.net
 DOMAIN-SUFFIX,hotstar-labs.com
+DOMAIN-SUFFIX,hotstar.com
 DOMAIN-SUFFIX,hotstarext.com
 DOMAIN-SUFFIX,hsprepack.akamaized.net
-
-DOMAIN-WILDCARD,hses*.akamaized.net
+DOMAIN,hses.akamaized.net
+DOMAIN,hses1.akamaized.net
+DOMAIN,hses2.akamaized.net
+DOMAIN,hses3.akamaized.net
+DOMAIN,hses4.akamaized.net
+DOMAIN,hses5.akamaized.net
+DOMAIN,hses6.akamaized.net
+DOMAIN,hses7.akamaized.net

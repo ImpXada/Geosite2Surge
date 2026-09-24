@@ -1,22 +1,11 @@
-DOMAIN-SUFFIX,fuwai.com
-DOMAIN-SUFFIX,pkuh6.cn
-DOMAIN-SUFFIX,puh3.net.cn
-
-DOMAIN,hospital.pku.edu.cn
-DOMAIN,ss.bjmu.edu.cn
-
-# 运城同德医院 晋ICP备15008538号-1
-DOMAIN-SUFFIX,yctdyy.com
-
-# 南方医科大学深圳医院
-DOMAIN-SUFFIX,smuszh.com
-
-# 四川大学华西医院
+DOMAIN-SUFFIX,ba-hospital.com
 DOMAIN-SUFFIX,cd120.com
 DOMAIN-SUFFIX,cd120.info
-
-# 海南复星互联网医院 # 琼ICP备2022019306号-1
+DOMAIN-SUFFIX,fuwai.com
 DOMAIN-SUFFIX,hnxzctec.com
-
-# 东莞市第八人民医院 # 粤ICP备07513705号-2
-DOMAIN-SUFFIX,ba-hospital.com
+DOMAIN-SUFFIX,pkuh6.cn
+DOMAIN-SUFFIX,puh3.net.cn
+DOMAIN-SUFFIX,smuszh.com
+DOMAIN-SUFFIX,yctdyy.com
+DOMAIN,hospital.pku.edu.cn
+DOMAIN,ss.bjmu.edu.cn

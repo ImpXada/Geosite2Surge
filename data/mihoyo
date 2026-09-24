@@ -1,33 +1,13 @@
-#include:hoyoverse
-# 原神
+DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,bhsr.com
 DOMAIN-SUFFIX,genshinimpact.com
-
-# 崩壞3
 DOMAIN-SUFFIX,honkaiimpact3.com
-
-# 星穹鐵道
 DOMAIN-SUFFIX,honkaistarrail.com
-
-# 短網址
 DOMAIN-SUFFIX,hoyo.link
-
-# HoYoLab
 DOMAIN-SUFFIX,hoyolab.com
-
-# HoYoverse
 DOMAIN-SUFFIX,hoyoverse.com
-
-# n0va
-DOMAIN-SUFFIX,n0vadesktop.com
-
-# 絕區零(Zenless Zone Zero)
-DOMAIN-SUFFIX,zenlesszonezero.com
-
-# ads/tracking
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
-#end include:hoyoverse
-#include:mihoyo-cn
-# 米哈游
+DOMAIN-SUFFIX,juequling.com
 DOMAIN-SUFFIX,mhystatic.com
 DOMAIN-SUFFIX,mhyurl.cn
 DOMAIN-SUFFIX,mihayo.com
@@ -37,28 +17,8 @@ DOMAIN-SUFFIX,mihoyocg.com
 DOMAIN-SUFFIX,mihoyogift.com
 DOMAIN-SUFFIX,mihoyomall.com
 DOMAIN-SUFFIX,miyoushe.com
-
-# 崩坏2
-DOMAIN-SUFFIX,benghuai.com
-
-# 崩坏3
-DOMAIN-SUFFIX,bh3.com
-
-# 星穹铁道
-DOMAIN-SUFFIX,bhsr.com
-
-# 未定事件簿
+DOMAIN-SUFFIX,n0vadesktop.com
 DOMAIN-SUFFIX,themisweeps.com
-
-# 原神
 DOMAIN-SUFFIX,yuanshen.com
-
-#绝区零
-DOMAIN-SUFFIX,juequling.com
-
-# Akamai
-DOMAIN-WILDCARD,*-mihayo.akamaized.net
-
-# Ads/tracking
-DOMAIN-SUFFIX,log-upload.mihoyo.com
-#end include:mihoyo-cn
+DOMAIN-SUFFIX,zenlesszonezero.com
+DOMAIN-WILDCARD,?*-mihayo.akamaized.net

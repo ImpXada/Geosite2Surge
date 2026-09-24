@@ -1,167 +1,132 @@
-# DONOT include:category-bank-cn
-#include:category-bank-ir
-# Iranian bank websites
-
-DOMAIN-SUFFIX,agri-bank.com
-DOMAIN-SUFFIX,ansarbank.com
-DOMAIN-SUFFIX,bank-maskan.ir
-DOMAIN-SUFFIX,bankmellat.ir
-DOMAIN-SUFFIX,banksepah.ir
-DOMAIN-SUFFIX,bim.ir
-DOMAIN-SUFFIX,blubank.com
-DOMAIN-SUFFIX,bmi.ir
-DOMAIN-SUFFIX,bpi.ir
-DOMAIN-SUFFIX,bsi.ir
-DOMAIN-SUFFIX,cbi.ir
-DOMAIN-SUFFIX,day24.ir
-DOMAIN-SUFFIX,edbi.ir
-DOMAIN-SUFFIX,enbank.ir
-DOMAIN-SUFFIX,ghbi.ir
-DOMAIN-SUFFIX,hibank24.com
-DOMAIN-SUFFIX,izbank.ir
-DOMAIN-SUFFIX,karafarinbank.ir
-DOMAIN-SUFFIX,mebank.ir
-DOMAIN-SUFFIX,mresalat.ir
-DOMAIN-SUFFIX,parsian-bank.com
-DOMAIN-SUFFIX,postbank.ir
-DOMAIN-SUFFIX,qmb.ir
-DOMAIN-SUFFIX,rb24.ir
-DOMAIN-SUFFIX,refah-bank.ir
-DOMAIN-SUFFIX,rqbank.ir
-DOMAIN-SUFFIX,sb24.com
-DOMAIN-SUFFIX,sbank.ir
-DOMAIN-SUFFIX,shahr-bank.ir
-DOMAIN-SUFFIX,shaparak.ir
-DOMAIN-SUFFIX,sinabank.ir
-DOMAIN-SUFFIX,tejaratbank.ir
-#end include:category-bank-ir
-#include:category-bank-jp
-DOMAIN-SUFFIX,114bank.co.jp    #株式会社百十四銀行
-DOMAIN-SUFFIX,77bank.co.jp    #株式会社七十七銀行
-DOMAIN-SUFFIX,82bank.co.jp    #株式会社八十二銀行
-DOMAIN-SUFFIX,a-bank.jp    #株式会社青森銀行
-DOMAIN-SUFFIX,akita-bank.co.jp    #株式会社秋田銀行
-DOMAIN-SUFFIX,aozorabank.co.jp    #株式会社あおぞら銀行
-DOMAIN-SUFFIX,ashikagabank.co.jp    #株式会社足利銀行
-DOMAIN-SUFFIX,awabank.co.jp    #株式会社阿波銀行
-DOMAIN-SUFFIX,bk.mufg.jp    #株式会社三菱東京UFJ銀行
-DOMAIN-SUFFIX,boj.or.jp    #日本銀行
-DOMAIN-SUFFIX,chibabank.co.jp    #株式会社千葉銀行
-DOMAIN-SUFFIX,chibakogyo-bank.co.jp    #株式会社千葉興業銀行
-DOMAIN-SUFFIX,chikubank.co.jp    #株式会社筑邦銀行
-DOMAIN-SUFFIX,chugokubank.co.jp    #株式会社中国銀行
-DOMAIN-SUFFIX,citibank.co.jp    #シティバンク銀行株式会社
-DOMAIN-SUFFIX,daiichibank.co.jp    #株式会社第四銀行
-DOMAIN-SUFFIX,fukuibank.co.jp    #株式会社福井銀行
-DOMAIN-SUFFIX,fukuokabank.co.jp    #株式会社福岡銀行
-DOMAIN-SUFFIX,gunmabank.co.jp    #株式会社群馬銀行
-DOMAIN-SUFFIX,higobank.co.jp    #株式会社肥後銀行
-DOMAIN-SUFFIX,hiroshimabank.co.jp    #株式会社広島銀行
-DOMAIN-SUFFIX,hokkoku.co.jp    #株式会社北國銀行
-DOMAIN-SUFFIX,hokuetsubank.co.jp    #株式会社北越銀行
-DOMAIN-SUFFIX,hokutobank.co.jp    #株式会社北都銀行
-DOMAIN-SUFFIX,hokuyobank.co.jp    #株式会社北海道銀行
-DOMAIN-SUFFIX,hyakugo.co.jp    #株式会社百五銀行
-DOMAIN-SUFFIX,ikedashinsen.co.jp    #株式会社池田泉州銀行
-DOMAIN-SUFFIX,iwatebank.co.jp    #株式会社岩手銀行
-DOMAIN-SUFFIX,iyobank.co.jp    #株式会社伊予銀行
-DOMAIN-SUFFIX,jfc.go.jp    #日本政策金融公庫
-DOMAIN-SUFFIX,jibunbank.co.jp    #株式会社じぶん銀行
-DOMAIN-SUFFIX,joyobank.co.jp    #株式会社常陽銀行
-DOMAIN-SUFFIX,jp-bank.japanpost.jp    #株式会社ゆうちょ銀行
-DOMAIN-SUFFIX,juhachibank.co.jp    #株式会社十八銀行
-DOMAIN-SUFFIX,juroku.co.jp    #株式会社十六銀行
-DOMAIN-SUFFIX,kagobank.co.jp    #株式会社鹿児島銀行
-DOMAIN-SUFFIX,kinki.co.jp    #株式会社近畿大阪銀行
-DOMAIN-SUFFIX,kitakyushubank.co.jp    #株式会社北九州銀行
-DOMAIN-SUFFIX,kiyobank.co.jp    #株式会社紀陽銀行
-DOMAIN-SUFFIX,kyotobank.co.jp    #株式会社京都銀行
-DOMAIN-SUFFIX,michinokubank.co.jp    #株式会社みちのく銀行
-DOMAIN-SUFFIX,mie.co.jp    #株式会社三重銀行
-DOMAIN-SUFFIX,miyazakibank.co.jp    #株式会社宮崎銀行
-DOMAIN-SUFFIX,mizuhobank.co.jp    #株式会社みずほ銀行
-DOMAIN-SUFFIX,musashinobank.co.jp    #株式会社武蔵野銀行
-DOMAIN-SUFFIX,nantobank.co.jp    #株式会社南都銀行
-DOMAIN-SUFFIX,nishinipponbank.co.jp    #株式会社西日本シティ銀行
-DOMAIN-SUFFIX,nochubank.or.jp    #農林中央金庫
-DOMAIN-SUFFIX,ogakikyoritsu.co.jp    #株式会社大垣共立銀行
-DOMAIN-SUFFIX,oitabank.co.jp    #株式会社大分銀行
-DOMAIN-SUFFIX,okinawabank.co.jp    #株式会社沖縄銀行
-DOMAIN-SUFFIX,paypay-bank.co.jp    #株式会社PayPay銀行
-DOMAIN-SUFFIX,rakuten-bank.co.jp    #株式会社楽天銀行
-DOMAIN-SUFFIX,resonabank.co.jp    #株式会社りそな銀行
-DOMAIN-SUFFIX,ryukyubank.co.jp    #株式会社琉球銀行
-DOMAIN-SUFFIX,sagabank.co.jp    #株式会社佐賀銀行
-DOMAIN-SUFFIX,saitama-resona.co.jp    #株式会社埼玉りそな銀行
-DOMAIN-SUFFIX,saninbank.co.jp    #株式会社山陰合同銀行
-DOMAIN-SUFFIX,sbishinseibank.co.jp    #SBI新生銀行
-DOMAIN-SUFFIX,sevenbank.co.jp    #株式会社セブン銀行
-DOMAIN-SUFFIX,shigagin.co.jp    #株式会社滋賀銀行
-DOMAIN-SUFFIX,shikokubank.co.jp    #株式会社四国銀行
-DOMAIN-SUFFIX,shimizubank.co.jp    #株式会社清水銀行
-DOMAIN-SUFFIX,shinwabank.co.jp    #株式会社親和銀行
-DOMAIN-SUFFIX,shizuokabank.co.jp    #株式会社静岡銀行
-DOMAIN-SUFFIX,shokochukin.co.jp    #商工組合中央金庫
-DOMAIN-SUFFIX,shonai.co.jp    #株式会社荘内銀行
-DOMAIN-SUFFIX,smbc.co.jp    #株式会社三井住友銀行
-DOMAIN-SUFFIX,smbctb.co.jp    #SMBC信託銀行株式会社
-DOMAIN-SUFFIX,smtb.jp    #株式会社三井住友信託銀行
-DOMAIN-SUFFIX,sonybank.jp    #ソニーバンク株式会社
-DOMAIN-SUFFIX,surugabank.co.jp    #株式会社スルガ銀行
-DOMAIN-SUFFIX,tajimabank.co.jp    #株式会社但馬銀行
-DOMAIN-SUFFIX,tochigibank.co.jp    #株式会社栃木銀行
-DOMAIN-SUFFIX,tohobank.co.jp    #株式会社東邦銀行
-DOMAIN-SUFFIX,tohoku-bank.co.jp    #株式会社東北銀行
-DOMAIN-SUFFIX,tomibank.co.jp    #株式会社東京都民銀行
-DOMAIN-SUFFIX,tottoribank.co.jp    #株式会社鳥取銀行
-DOMAIN-SUFFIX,toyobank.co.jp    #株式会社富山銀行
-DOMAIN-SUFFIX,tsukubabank.co.jp    #株式会社筑波銀行
-DOMAIN-SUFFIX,yamagatabank.co.jp    #株式会社山形銀行
-DOMAIN-SUFFIX,yamaguchibank.co.jp    #株式会社山口銀行
-DOMAIN-SUFFIX,yamanashibank.co.jp    #株式会社山梨中央銀行
-DOMAIN-SUFFIX,yokohamabank.co.jp    #株式会社横浜銀行
-#end include:category-bank-jp
-#include:category-bank-mm
-#Banking website in Myanmar
+DOMAIN-SUFFIX,114bank.co.jp
+DOMAIN-SUFFIX,21-school.ru
+DOMAIN-SUFFIX,2gis.ae
+DOMAIN-SUFFIX,2gis.am
+DOMAIN-SUFFIX,2gis.az
+DOMAIN-SUFFIX,2gis.by
+DOMAIN-SUFFIX,2gis.com
+DOMAIN-SUFFIX,2gis.com.cy
+DOMAIN-SUFFIX,2gis.cz
+DOMAIN-SUFFIX,2gis.ge
+DOMAIN-SUFFIX,2gis.kg
+DOMAIN-SUFFIX,2gis.kz
+DOMAIN-SUFFIX,2gis.ru
+DOMAIN-SUFFIX,2gis.tech
+DOMAIN-SUFFIX,2gis.tj
+DOMAIN-SUFFIX,2gis.uz
+DOMAIN-SUFFIX,2w.ru
+DOMAIN-SUFFIX,4c.ru
+DOMAIN-SUFFIX,4epenaxa.com
+DOMAIN-SUFFIX,77bank.co.jp
+DOMAIN-SUFFIX,82bank.co.jp
+DOMAIN-SUFFIX,a-bank.jp
 DOMAIN-SUFFIX,abank.com.mm
 DOMAIN-SUFFIX,ablmm.com
+DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,abr.ru
+DOMAIN-SUFFIX,absolutbank.ru
+DOMAIN-SUFFIX,accesspoint.uz
+DOMAIN-SUFFIX,afisha.ru
 DOMAIN-SUFFIX,agdbank.com
+DOMAIN-SUFFIX,agri-bank.com
+DOMAIN-SUFFIX,akbars.ru
+DOMAIN-SUFFIX,akita-bank.co.jp
+DOMAIN-SUFFIX,alefbank.com
+DOMAIN-SUFFIX,alfa.me
+DOMAIN-SUFFIX,alfabank.ru
+DOMAIN-SUFFIX,alfabank.st
+DOMAIN-SUFFIX,alfadirect.ru
+DOMAIN-SUFFIX,ankb.ru
+DOMAIN-SUFFIX,ansarbank.com
+DOMAIN-SUFFIX,aozorabank.co.jp
+DOMAIN-SUFFIX,ashikagabank.co.jp
+DOMAIN-SUFFIX,asia-pay.ru
+DOMAIN-SUFFIX,atb.su
+DOMAIN-SUFFIX,atomyze.ru
+DOMAIN-SUFFIX,atomyze.tech
+DOMAIN-SUFFIX,autokreditbank.ru
+DOMAIN-SUFFIX,avangard.ru
+DOMAIN-SUFFIX,aversbank.ru
+DOMAIN-SUFFIX,awabank.co.jp
 DOMAIN-SUFFIX,ayabank.com
+DOMAIN-SUFFIX,babki.ru
+DOMAIN-SUFFIX,bank-arzamas.ru
+DOMAIN-SUFFIX,bank-credit-suisse-moscow.ru
+DOMAIN-SUFFIX,bank-maskan.ir
+DOMAIN-SUFFIX,bank131.com
+DOMAIN-SUFFIX,bankermak.ru
+DOMAIN-SUFFIX,bankline.ru
+DOMAIN-SUFFIX,bankmellat.ir
+DOMAIN-SUFFIX,banksepah.ir
+DOMAIN-SUFFIX,bbr.ru
+DOMAIN-SUFFIX,bcs-bank.ru
+DOMAIN-SUFFIX,bcs.ru
+DOMAIN-SUFFIX,best2pay.net
+DOMAIN-SUFFIX,bfa.ru
+DOMAIN-SUFFIX,bim.ir
+DOMAIN-SUFFIX,bk.mufg.jp
+DOMAIN-SUFFIX,blanc.ru
+DOMAIN-SUFFIX,blubank.com
+DOMAIN-SUFFIX,bm-bank.ru
+DOMAIN-SUFFIX,bmi.ir
+DOMAIN-SUFFIX,boj.or.jp
+DOMAIN-SUFFIX,booking-tec.ru
+DOMAIN-SUFFIX,bpi.ir
+DOMAIN-SUFFIX,bps-sberbank.by
+DOMAIN-SUFFIX,broker.ru
+DOMAIN-SUFFIX,bsi.ir
+DOMAIN-SUFFIX,bspb.ru
+DOMAIN-SUFFIX,capitalt.ru
+DOMAIN-SUFFIX,cardsmobile.ru
 DOMAIN-SUFFIX,cbbank.com.mm
+DOMAIN-SUFFIX,cbi.ir
 DOMAIN-SUFFIX,cbm.com.mm
+DOMAIN-SUFFIX,cdn-tinkoff.ru
+DOMAIN-SUFFIX,centraluniversity.ru
+DOMAIN-SUFFIX,chibabank.co.jp
+DOMAIN-SUFFIX,chibakogyo-bank.co.jp
 DOMAIN-SUFFIX,chid.com.mm
-DOMAIN-SUFFIX,firstprivatebank.com.mm
-DOMAIN-SUFFIX,gbank.com.mm
-DOMAIN-SUFFIX,kbzbank.com
-DOMAIN-SUFFIX,kbzpay.com
-DOMAIN-SUFFIX,mabbank.com
-DOMAIN-SUFFIX,mcb.com.mm
-DOMAIN-SUFFIX,mdbankpublic.com
-DOMAIN-SUFFIX,meb.gov.mm
-DOMAIN-SUFFIX,micb.gov.mm
-DOMAIN-SUFFIX,mmbbank.com.mm
-DOMAIN-SUFFIX,mmftb.gov.mm
-DOMAIN-SUFFIX,mminsurance.gov.mm
-DOMAIN-SUFFIX,mmtourismbank.com
-DOMAIN-SUFFIX,mobmyanmar.com
-DOMAIN-SUFFIX,mwdbank.com
-DOMAIN-SUFFIX,nptsibinbank.com
-DOMAIN-SUFFIX,shwebank.com
-DOMAIN-SUFFIX,smedevelopmentbank.com.mm
-DOMAIN-SUFFIX,tuncommercialbank.com
-DOMAIN-SUFFIX,uab.com.mm
-DOMAIN-SUFFIX,waveomoney.com.mm
-DOMAIN-SUFFIX,yomabank.com
-DOMAIN-SUFFIX,ysx-mm.com
-#end include:category-bank-mm
-
-#include:fibank
+DOMAIN-SUFFIX,chikubank.co.jp
+DOMAIN-SUFFIX,chugokubank.co.jp
+DOMAIN-SUFFIX,citibank.co.jp
+DOMAIN-SUFFIX,citydrive.ru
+DOMAIN-SUFFIX,cloud.ru
+DOMAIN-SUFFIX,cloudru.cn
+DOMAIN-SUFFIX,codeseason.by
+DOMAIN-SUFFIX,commerzbank.ru
+DOMAIN-SUFFIX,cplsb.ru
+DOMAIN-SUFFIX,credit-zenit.ru
+DOMAIN-SUFFIX,cu.ru
+DOMAIN-SUFFIX,custody.ru
+DOMAIN-SUFFIX,daiichibank.co.jp
+DOMAIN-SUFFIX,data-tscbank.ru
+DOMAIN-SUFFIX,day24.ir
+DOMAIN-SUFFIX,dbmoscow.ru
+DOMAIN-SUFFIX,dbo-dengi.online
+DOMAIN-SUFFIX,deltacredit.ru
+DOMAIN-SUFFIX,depository.ru
+DOMAIN-SUFFIX,deutsche-bank.ru
+DOMAIN-SUFFIX,deutschebank.ru
+DOMAIN-SUFFIX,dolyame.ru
+DOMAIN-SUFFIX,domrfbank.ru
+DOMAIN-SUFFIX,eaptechka.online
+DOMAIN-SUFFIX,eapteka.ru
+DOMAIN-SUFFIX,edbi.ir
+DOMAIN-SUFFIX,electronicsignature.ru
+DOMAIN-SUFFIX,enbank.ir
+DOMAIN-SUFFIX,enterly.ru
+DOMAIN-SUFFIX,era-invest.ru
+DOMAIN-SUFFIX,etna.ai
 DOMAIN-SUFFIX,fibank.bg
-DOMAIN-SUFFIX,meawallet.app
-DOMAIN-SUFFIX,myfin.bg
-#end include:fibank
-#include:futu
-# 富途证券
+DOMAIN-SUFFIX,finambank.ru
+DOMAIN-SUFFIX,firstprivatebank.com.mm
+DOMAIN-SUFFIX,forshtadt.ru
+DOMAIN-SUFFIX,fsmone.com
+DOMAIN-SUFFIX,fsmone.com.hk
+DOMAIN-SUFFIX,fsmone.com.my
+DOMAIN-SUFFIX,fukuibank.co.jp
+DOMAIN-SUFFIX,fukuokabank.co.jp
+DOMAIN-SUFFIX,fundsupermart.com
 DOMAIN-SUFFIX,futu.cn
 DOMAIN-SUFFIX,futu.link
 DOMAIN-SUFFIX,futu5.com
@@ -180,86 +145,78 @@ DOMAIN-SUFFIX,futuoa.com
 DOMAIN-SUFFIX,futusg.com
 DOMAIN-SUFFIX,futustatic.com
 DOMAIN-SUFFIX,fututrade.com
-
-# 富途 moomoo 证券
-DOMAIN-SUFFIX,moomoo.com
-DOMAIN-SUFFIX,moomooequity.com
-DOMAIN-SUFFIX,moomootrustee.com
-#end include:futu
-#include:hsbc
-# TLD
+DOMAIN-SUFFIX,fxcorporate.com
+DOMAIN-SUFFIX,gainstech.ru
+DOMAIN-SUFFIX,gazprombank.com
+DOMAIN-SUFFIX,gazprombank.investments
+DOMAIN-SUFFIX,gazprombank.ru
+DOMAIN-SUFFIX,gbank.com.mm
+DOMAIN-SUFFIX,getsynapse.io
+DOMAIN-SUFFIX,ghbi.ir
+DOMAIN-SUFFIX,gid.ru
+DOMAIN-SUFFIX,giga.chat
+DOMAIN-SUFFIX,gitverse.ru
+DOMAIN-SUFFIX,gosdolgi.ru
+DOMAIN-SUFFIX,gpb.ru
+DOMAIN-SUFFIX,gunmabank.co.jp
+DOMAIN-SUFFIX,hibank24.com
+DOMAIN-SUFFIX,higobank.co.jp
+DOMAIN-SUFFIX,hiroshimabank.co.jp
+DOMAIN-SUFFIX,hokkoku.co.jp
+DOMAIN-SUFFIX,hokuetsubank.co.jp
+DOMAIN-SUFFIX,hokutobank.co.jp
+DOMAIN-SUFFIX,hokuyobank.co.jp
+DOMAIN-SUFFIX,homecredit.ru
 DOMAIN-SUFFIX,hsbc
-
-# General
-DOMAIN-SUFFIX,hsbc.com
-DOMAIN-SUFFIX,hsbc.net
-DOMAIN-SUFFIX,hsbcinnovationbanking.com
-DOMAIN-SUFFIX,hsbcnet.com
-DOMAIN-SUFFIX,hsbcprivatebank.com
-
-# Active Branches
+DOMAIN-SUFFIX,hsbc-alternatives.de
+DOMAIN-SUFFIX,hsbc-transactionservices.de
+DOMAIN-SUFFIX,hsbc-zertifikate.de
 DOMAIN-SUFFIX,hsbc.ae
 DOMAIN-SUFFIX,hsbc.am
 DOMAIN-SUFFIX,hsbc.bm
+DOMAIN-SUFFIX,hsbc.ca
 DOMAIN-SUFFIX,hsbc.co.id
 DOMAIN-SUFFIX,hsbc.co.in
+DOMAIN-SUFFIX,hsbc.co.jp
 DOMAIN-SUFFIX,hsbc.co.kr
 DOMAIN-SUFFIX,hsbc.co.mu
 DOMAIN-SUFFIX,hsbc.co.nz
 DOMAIN-SUFFIX,hsbc.co.th
-
-## HSBC UK
 DOMAIN-SUFFIX,hsbc.co.uk
-DOMAIN-SUFFIX,hsbc.uk
-
+DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,hsbc.com.ar
 DOMAIN-SUFFIX,hsbc.com.au
 DOMAIN-SUFFIX,hsbc.com.bd
 DOMAIN-SUFFIX,hsbc.com.bh
 DOMAIN-SUFFIX,hsbc.com.br
-
-## HSBC CN
-#include:hsbc-cn
 DOMAIN-SUFFIX,hsbc.com.cn
-DOMAIN-SUFFIX,hsbcqh.com.cn
-DOMAIN-SUFFIX,hsbcinsurance.com.cn
-#end include:hsbc-cn
-
 DOMAIN-SUFFIX,hsbc.com.eg
 DOMAIN-SUFFIX,hsbc.com.hk
 DOMAIN-SUFFIX,hsbc.com.mo
 DOMAIN-SUFFIX,hsbc.com.mt
 DOMAIN-SUFFIX,hsbc.com.mx
-
-## HSBC MY
 DOMAIN-SUFFIX,hsbc.com.my
-DOMAIN-SUFFIX,hsbcamanah.com.my
-
 DOMAIN-SUFFIX,hsbc.com.ph
 DOMAIN-SUFFIX,hsbc.com.sg
 DOMAIN-SUFFIX,hsbc.com.tr
 DOMAIN-SUFFIX,hsbc.com.tw
 DOMAIN-SUFFIX,hsbc.com.uy
 DOMAIN-SUFFIX,hsbc.com.vn
-
-## HSBC DE
 DOMAIN-SUFFIX,hsbc.de
-DOMAIN-SUFFIX,hsbc-alternatives.de
-DOMAIN-SUFFIX,hsbc-transactionservices.de
-DOMAIN-SUFFIX,hsbc-zertifikate.de
-
-DOMAIN-SUFFIX,hsbc.lk
-
-# Inactive Branches
-DOMAIN-SUFFIX,hsbc.ca
-DOMAIN-SUFFIX,hsbc.co.jp
 DOMAIN-SUFFIX,hsbc.fr
+DOMAIN-SUFFIX,hsbc.lk
+DOMAIN-SUFFIX,hsbc.net
+DOMAIN-SUFFIX,hsbc.uk
+DOMAIN-SUFFIX,hsbcamanah.com.my
+DOMAIN-SUFFIX,hsbcinnovationbanking.com
+DOMAIN-SUFFIX,hsbcinsurance.com.cn
+DOMAIN-SUFFIX,hsbcnet.com
+DOMAIN-SUFFIX,hsbcprivatebank.com
+DOMAIN-SUFFIX,hsbcqh.com.cn
 DOMAIN-SUFFIX,hsbctrinkaus.de
-
-# PayMe by HSBC
-DOMAIN-SUFFIX,vv1865.com
-#end include:hsbc
-#include:ibkr
+DOMAIN-SUFFIX,hva.im
+DOMAIN-SUFFIX,hyakugo.co.jp
+DOMAIN-SUFFIX,ibamoscow.ru
 DOMAIN-SUFFIX,ibkr.ca
 DOMAIN-SUFFIX,ibkr.co.in
 DOMAIN-SUFFIX,ibkr.co.uk
@@ -271,6 +228,18 @@ DOMAIN-SUFFIX,ibkr.eu
 DOMAIN-SUFFIX,ibkr.ie
 DOMAIN-SUFFIX,ibkrguides.com
 DOMAIN-SUFFIX,ibllc.com
+DOMAIN-SUFFIX,id.ru
+DOMAIN-SUFFIX,ifastcapital.com.my
+DOMAIN-SUFFIX,ifastcorp.com
+DOMAIN-SUFFIX,ifastfinancial.co.in
+DOMAIN-SUFFIX,ifastfinancial.com.hk
+DOMAIN-SUFFIX,ifastgb.com
+DOMAIN-SUFFIX,ifastgp.com
+DOMAIN-SUFFIX,ifastgp.com.hk
+DOMAIN-SUFFIX,ifastnetwork.com
+DOMAIN-SUFFIX,ifastps.com.cn
+DOMAIN-SUFFIX,ifasttv.com
+DOMAIN-SUFFIX,ikedashinsen.co.jp
 DOMAIN-SUFFIX,interactivebrokers.ca
 DOMAIN-SUFFIX,interactivebrokers.co.in
 DOMAIN-SUFFIX,interactivebrokers.co.jp
@@ -281,36 +250,62 @@ DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,interactivebrokers.com.sg
 DOMAIN-SUFFIX,interactivebrokers.eu
 DOMAIN-SUFFIX,interactivebrokers.ie
-#end include:ibkr
-#include:ifast
-DOMAIN-SUFFIX,fsmone.com
-DOMAIN-SUFFIX,fsmone.com.hk
-DOMAIN-SUFFIX,fsmone.com.my
-DOMAIN-SUFFIX,fundsupermart.com
-DOMAIN-SUFFIX,ifastcapital.com.my
-DOMAIN-SUFFIX,ifastcorp.com
-DOMAIN-SUFFIX,ifastfinancial.com.hk
-DOMAIN-SUFFIX,ifastfinancial.co.in
-DOMAIN-SUFFIX,ifastgb.com
-DOMAIN-SUFFIX,ifastgp.com
-DOMAIN-SUFFIX,ifastgp.com.hk
-DOMAIN-SUFFIX,ifastnetwork.com
-DOMAIN-SUFFIX,ifastps.com.cn
-DOMAIN-SUFFIX,ifasttv.com
-#end include:ifast
-#include:itiger
-# 老虎证券
+DOMAIN-SUFFIX,it-katok.ru
+DOMAIN-SUFFIX,it-picnic.ru
+DOMAIN-SUFFIX,it-piknik.ru
 DOMAIN-SUFFIX,itiger.com
 DOMAIN-SUFFIX,itigergrowth.com
 DOMAIN-SUFFIX,itigergrowtha.com
 DOMAIN-SUFFIX,itigerup.com
+DOMAIN-SUFFIX,iwatebank.co.jp
+DOMAIN-SUFFIX,iyobank.co.jp
+DOMAIN-SUFFIX,izbank.ir
+DOMAIN-SUFFIX,jfc.go.jp
+DOMAIN-SUFFIX,jfn.su
+DOMAIN-SUFFIX,jibunbank.co.jp
+DOMAIN-SUFFIX,jira-tcsbank.ru
+DOMAIN-SUFFIX,jivara.global
+DOMAIN-SUFFIX,jivo.chat
+DOMAIN-SUFFIX,jivo.ru
+DOMAIN-SUFFIX,jivochat.co.in
+DOMAIN-SUFFIX,jivochat.co.za
+DOMAIN-SUFFIX,jivochat.com
+DOMAIN-SUFFIX,jivochat.com.br
+DOMAIN-SUFFIX,jivochat.com.co
+DOMAIN-SUFFIX,jivochat.com.pe
+DOMAIN-SUFFIX,jivochat.com.tr
+DOMAIN-SUFFIX,jivochat.de
+DOMAIN-SUFFIX,jivochat.es
+DOMAIN-SUFFIX,jivochat.ng
+DOMAIN-SUFFIX,jivochat.ru
+DOMAIN-SUFFIX,jivosite.com
+DOMAIN-SUFFIX,jivosite.ru
+DOMAIN-SUFFIX,joyobank.co.jp
+DOMAIN-SUFFIX,jp-bank.japanpost.jp
+DOMAIN-SUFFIX,jpmorgan.ru
+DOMAIN-SUFFIX,juhachibank.co.jp
+DOMAIN-SUFFIX,jump.taxi
+DOMAIN-SUFFIX,jumpwork.ru
+DOMAIN-SUFFIX,juroku.co.jp
+DOMAIN-SUFFIX,kagobank.co.jp
+DOMAIN-SUFFIX,karafarinbank.ir
+DOMAIN-SUFFIX,karmahelp.ru
+DOMAIN-SUFFIX,karta-banka-rf.ru
+DOMAIN-SUFFIX,kbzbank.com
+DOMAIN-SUFFIX,kbzpay.com
+DOMAIN-SUFFIX,kinki.co.jp
+DOMAIN-SUFFIX,kitakyushubank.co.jp
+DOMAIN-SUFFIX,kiyobank.co.jp
+DOMAIN-SUFFIX,korona.com
+DOMAIN-SUFFIX,koshelek.app
+DOMAIN-SUFFIX,kubankredit.ru
+DOMAIN-SUFFIX,kuper.ru
+DOMAIN-SUFFIX,kyotobank.co.jp
 DOMAIN-SUFFIX,laohu8.com
-DOMAIN-SUFFIX,skytigris.cn
-DOMAIN-SUFFIX,tigerbbs.cn
-DOMAIN-SUFFIX,tigerbbs.com
-DOMAIN-SUFFIX,xiaohu8.com
-#end include:itiger
-#include:longbridge
+DOMAIN-SUFFIX,lbctrl.com
+DOMAIN-SUFFIX,lbkrs.com
+DOMAIN-SUFFIX,lifestyle-tec.ru
+DOMAIN-SUFFIX,link.com
 DOMAIN-SUFFIX,longbridge.cloud
 DOMAIN-SUFFIX,longbridge.cn
 DOMAIN-SUFFIX,longbridge.com
@@ -320,35 +315,184 @@ DOMAIN-SUFFIX,longbridge.sg
 DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longportapp.com
-
-# Site Assets
-DOMAIN-SUFFIX,lbctrl.com
-DOMAIN-SUFFIX,lbkrs.com
-DOMAIN-SUFFIX,wbrks.com
-#end include:longbridge
-#include:n26
+DOMAIN-SUFFIX,mabbank.com
+DOMAIN-SUFFIX,malotogo.ru
+DOMAIN-SUFFIX,max-tcs.ru
+DOMAIN-SUFFIX,mcb.com.mm
+DOMAIN-SUFFIX,mdbankpublic.com
+DOMAIN-SUFFIX,meawallet.app
+DOMAIN-SUFFIX,meb.gov.mm
+DOMAIN-SUFFIX,mebank.ir
+DOMAIN-SUFFIX,megamarket.ru
+DOMAIN-SUFFIX,megamarket.tech
+DOMAIN-SUFFIX,mfk-bank.ru
+DOMAIN-SUFFIX,mfk-t-finance.ru
+DOMAIN-SUFFIX,mhcb.ru
+DOMAIN-SUFFIX,mhcbr.ru
+DOMAIN-SUFFIX,micb.gov.mm
+DOMAIN-SUFFIX,michinokubank.co.jp
+DOMAIN-SUFFIX,mie.co.jp
+DOMAIN-SUFFIX,miyazakibank.co.jp
+DOMAIN-SUFFIX,mizuhobank.co.jp
+DOMAIN-SUFFIX,mkb.ru
+DOMAIN-SUFFIX,mmbbank.com.mm
+DOMAIN-SUFFIX,mmftb.gov.mm
+DOMAIN-SUFFIX,mminsurance.gov.mm
+DOMAIN-SUFFIX,mmtourismbank.com
+DOMAIN-SUFFIX,mobmyanmar.com
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,moomooequity.com
+DOMAIN-SUFFIX,moomootrustee.com
+DOMAIN-SUFFIX,mql5.com
+DOMAIN-SUFFIX,mresalat.ir
+DOMAIN-SUFFIX,mtsbank.ru
+DOMAIN-SUFFIX,mtsdengi.ru
+DOMAIN-SUFFIX,musashinobank.co.jp
+DOMAIN-SUFFIX,mvs-bank.ru
+DOMAIN-SUFFIX,mwdbank.com
+DOMAIN-SUFFIX,my-tbank.ru
+DOMAIN-SUFFIX,myapelsin.ru
+DOMAIN-SUFFIX,myfin.bg
 DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,nantobank.co.jp
+DOMAIN-SUFFIX,neon.click
+DOMAIN-SUFFIX,nishinipponbank.co.jp
+DOMAIN-SUFFIX,nochubank.or.jp
+DOMAIN-SUFFIX,noosferabank.ru
+DOMAIN-SUFFIX,nptsibinbank.com
+DOMAIN-SUFFIX,nspk.ru
 DOMAIN-SUFFIX,number26.de
-DOMAIN-SUFFIX,tech26.de
-#end include:n26
-#include:schwab
-# 嘉信理财
-DOMAIN-SUFFIX,aboutschwab.com
+DOMAIN-SUFFIX,ogakikyoritsu.co.jp
+DOMAIN-SUFFIX,oitabank.co.jp
+DOMAIN-SUFFIX,okinawabank.co.jp
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,okkoapi.tv
+DOMAIN-SUFFIX,otello.ru
+DOMAIN-SUFFIX,otpbank.ru
+DOMAIN-SUFFIX,parsian-bank.com
+DOMAIN-SUFFIX,payecom.ru
+DOMAIN-SUFFIX,payment.ru
+DOMAIN-SUFFIX,paypay-bank.co.jp
+DOMAIN-SUFFIX,phoenix-ca.ru
+DOMAIN-SUFFIX,platiecom.ru
+DOMAIN-SUFFIX,playfamily.ru
+DOMAIN-SUFFIX,pochtabank.ru
+DOMAIN-SUFFIX,postbank.ir
+DOMAIN-SUFFIX,primbank.ru
+DOMAIN-SUFFIX,private-banking.ru
+DOMAIN-SUFFIX,prodcontest.com
+DOMAIN-SUFFIX,prvbank.ru
+DOMAIN-SUFFIX,psb-ocenka.ru
+DOMAIN-SUFFIX,psb.ru
+DOMAIN-SUFFIX,psbank.ru
+DOMAIN-SUFFIX,pskb.ru
+DOMAIN-SUFFIX,pvubank.com
+DOMAIN-SUFFIX,qmb.ir
+DOMAIN-SUFFIX,raiffeisen-media.ru
+DOMAIN-SUFFIX,raiffeisen.ru
+DOMAIN-SUFFIX,rakuten-bank.co.jp
+DOMAIN-SUFFIX,rb24.ir
+DOMAIN-SUFFIX,rbcollect.ru
+DOMAIN-SUFFIX,rbcredit.ru
+DOMAIN-SUFFIX,rbsgate.com
+DOMAIN-SUFFIX,rbsuat.com
+DOMAIN-SUFFIX,refah-bank.ir
+DOMAIN-SUFFIX,rencapbank.ru
+DOMAIN-SUFFIX,rencredit.ru
+DOMAIN-SUFFIX,resonabank.co.jp
+DOMAIN-SUFFIX,restnproducts.ru
+DOMAIN-SUFFIX,rf-sim-mobile.ru
+DOMAIN-SUFFIX,rncoluminis.ru
+DOMAIN-SUFFIX,rosbank-auto.ru
+DOMAIN-SUFFIX,rosbank-capital.ru
+DOMAIN-SUFFIX,rosbank-credit.com
+DOMAIN-SUFFIX,rosbank-dom.ru
+DOMAIN-SUFFIX,rosbank-leasing.ru
+DOMAIN-SUFFIX,rosbank.ru
+DOMAIN-SUFFIX,rqbank.ir
+DOMAIN-SUFFIX,rshb.ru
+DOMAIN-SUFFIX,ru.ccb.com
+DOMAIN-SUFFIX,rusfinance.ru
+DOMAIN-SUFFIX,rusfinancebank.ru
+DOMAIN-SUFFIX,ryukyubank.co.jp
+DOMAIN-SUFFIX,safeliner.tech
+DOMAIN-SUFFIX,sagabank.co.jp
+DOMAIN-SUFFIX,sage-observability.tech
+DOMAIN-SUFFIX,saitama-resona.co.jp
+DOMAIN-SUFFIX,samokat.ru
+DOMAIN-SUFFIX,saninbank.co.jp
+DOMAIN-SUFFIX,sb24.com
+DOMAIN-SUFFIX,sbank.ir
+DOMAIN-SUFFIX,sber-bank.by
+DOMAIN-SUFFIX,sber.pro
+DOMAIN-SUFFIX,sber.ru
+DOMAIN-SUFFIX,sberauto.com
+DOMAIN-SUFFIX,sberbank-insurance.ru
+DOMAIN-SUFFIX,sberbank-tele.com
+DOMAIN-SUFFIX,sberbank.com
+DOMAIN-SUFFIX,sberbank.ru
+DOMAIN-SUFFIX,sberbankaktivno.ru
+DOMAIN-SUFFIX,sberbankins.ru
+DOMAIN-SUFFIX,sbercloud.ru
+DOMAIN-SUFFIX,sbercloud.tech
+DOMAIN-SUFFIX,sberdevices.ru
+DOMAIN-SUFFIX,sberdisk.ru
+DOMAIN-SUFFIX,sberfactoring.ru
+DOMAIN-SUFFIX,sberhealth.ru
+DOMAIN-SUFFIX,sberindex.ru
+DOMAIN-SUFFIX,sberleasing.ru
+DOMAIN-SUFFIX,sberlogistics.ru
+DOMAIN-SUFFIX,sbermarketing.ru
+DOMAIN-SUFFIX,sbermegamarket.ru
+DOMAIN-SUFFIX,sbermobile.ru
+DOMAIN-SUFFIX,sberpb.ru
+DOMAIN-SUFFIX,sberspasibo.ru
+DOMAIN-SUFFIX,sbertech.ru
+DOMAIN-SUFFIX,sbertroika.ru
+DOMAIN-SUFFIX,sbibankllc.ru
+DOMAIN-SUFFIX,sbishinseibank.co.jp
+DOMAIN-SUFFIX,sbrf.ru
+DOMAIN-SUFFIX,sc.com
 DOMAIN-SUFFIX,schwab.co.uk
 DOMAIN-SUFFIX,schwab.com
 DOMAIN-SUFFIX,schwab.com.hk
 DOMAIN-SUFFIX,schwab.com.sg
 DOMAIN-SUFFIX,schwabassetmanagement.com
 DOMAIN-SUFFIX,schwabplan.com
-#end include:schwab
-#include:standardchartered
-DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,seb.ru
+DOMAIN-SUFFIX,selkombank.ru
+DOMAIN-SUFFIX,sevenbank.co.jp
+DOMAIN-SUFFIX,sgcheck.ru
+DOMAIN-SUFFIX,shahr-bank.ir
+DOMAIN-SUFFIX,shaparak.ir
+DOMAIN-SUFFIX,shigagin.co.jp
+DOMAIN-SUFFIX,shikokubank.co.jp
+DOMAIN-SUFFIX,shimizubank.co.jp
+DOMAIN-SUFFIX,shinwabank.co.jp
+DOMAIN-SUFFIX,shizuokabank.co.jp
+DOMAIN-SUFFIX,shokochukin.co.jp
+DOMAIN-SUFFIX,shonai.co.jp
+DOMAIN-SUFFIX,shwebank.com
+DOMAIN-SUFFIX,sinabank.ir
+DOMAIN-SUFFIX,sinara.ru
+DOMAIN-SUFFIX,skytigris.cn
+DOMAIN-SUFFIX,slavbank.ru
+DOMAIN-SUFFIX,smbc.co.jp
+DOMAIN-SUFFIX,smbcr-bank.ru
+DOMAIN-SUFFIX,smbctb.co.jp
+DOMAIN-SUFFIX,smedevelopmentbank.com.mm
+DOMAIN-SUFFIX,smtb.jp
+DOMAIN-SUFFIX,solid.ru
+DOMAIN-SUFFIX,sonybank.jp
+DOMAIN-SUFFIX,sovcombank.ru
+DOMAIN-SUFFIX,spasibo.digital
+DOMAIN-SUFFIX,spasibo.market
+DOMAIN-SUFFIX,spasibobonus.ru
+DOMAIN-SUFFIX,spasibosb.ru
+DOMAIN-SUFFIX,spasibosberbank.ru
+DOMAIN-SUFFIX,ssb.msk.ru
 DOMAIN-SUFFIX,standardchartered.com
-DOMAIN,standchartbank.sc.omtrdc.net
-DOMAIN,standchartbank.tt.omtrdc.net
-#end include:standardchartered
-#include:stripe
-DOMAIN-SUFFIX,link.com
 DOMAIN-SUFFIX,stripe-terminal-local-reader.net
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,stripe.dev
@@ -356,13 +500,107 @@ DOMAIN-SUFFIX,stripe.events
 DOMAIN-SUFFIX,stripe.global
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
-#end include:stripe
-#include:wise
-DOMAIN-SUFFIX,transferwise.com
-DOMAIN-SUFFIX,wise.com
-#end include:wise
-
-DOMAIN-SUFFIX,fxcorporate.com
-DOMAIN-SUFFIX,jivara.global
-DOMAIN-SUFFIX,mql5.com
+DOMAIN-SUFFIX,surugabank.co.jp
+DOMAIN-SUFFIX,t-access.ru
+DOMAIN-SUFFIX,t-bank-app.ru
+DOMAIN-SUFFIX,t-bank-app.su
+DOMAIN-SUFFIX,t-bank.by
+DOMAIN-SUFFIX,t-calls.ru
+DOMAIN-SUFFIX,t-capital-funds.ru
+DOMAIN-SUFFIX,t-cpa.ru
+DOMAIN-SUFFIX,t-dengi.ru
+DOMAIN-SUFFIX,t-finance.group
+DOMAIN-SUFFIX,t-finance.ru
+DOMAIN-SUFFIX,t-human.ru
+DOMAIN-SUFFIX,t-investlab.ru
+DOMAIN-SUFFIX,t-j.ru
+DOMAIN-SUFFIX,t-ofp.ru
+DOMAIN-SUFFIX,t-pulse.ru
+DOMAIN-SUFFIX,t-static.ru
+DOMAIN-SUFFIX,t-stekovka.ru
+DOMAIN-SUFFIX,t-tech.dev
+DOMAIN-SUFFIX,t-tech.ru
+DOMAIN-SUFFIX,t-tech.team
+DOMAIN-SUFFIX,t-technologies.ru
+DOMAIN-SUFFIX,t-tolk.ru
+DOMAIN-SUFFIX,t.finance
+DOMAIN-SUFFIX,tagbank.ru
+DOMAIN-SUFFIX,tajimabank.co.jp
+DOMAIN-SUFFIX,tatsotsbank.ru
+DOMAIN-SUFFIX,tb-esim.ru
+DOMAIN-SUFFIX,tbank-online.com
+DOMAIN-SUFFIX,tbank.ru
+DOMAIN-SUFFIX,tconf.ru
+DOMAIN-SUFFIX,tcsbank.ru
+DOMAIN-SUFFIX,tdev.by
+DOMAIN-SUFFIX,tech26.de
+DOMAIN-SUFFIX,tejaratbank.ir
+DOMAIN-SUFFIX,tigerbbs.cn
+DOMAIN-SUFFIX,tigerbbs.com
+DOMAIN-SUFFIX,time-messenger.ru
+DOMAIN-SUFFIX,tinkoff-edu.ru
+DOMAIN-SUFFIX,tinkoff-group.com
+DOMAIN-SUFFIX,tinkoff.ai
+DOMAIN-SUFFIX,tinkoff.ru
+DOMAIN-SUFFIX,tinkoffcapital.ru
+DOMAIN-SUFFIX,tinkoffinsurance.ru
+DOMAIN-SUFFIX,tinkoffinsurancefuture.ru
+DOMAIN-SUFFIX,tinkoffjournal.ru
+DOMAIN-SUFFIX,tinkoffmobile.com
+DOMAIN-SUFFIX,tinsurance.ru
+DOMAIN-SUFFIX,tinsurancefuture.ru
+DOMAIN-SUFFIX,tkbbank.ru
+DOMAIN-SUFFIX,tmiaf.ru
+DOMAIN-SUFFIX,tochigibank.co.jp
+DOMAIN-SUFFIX,tochka-tech.com
+DOMAIN-SUFFIX,tochka.com
+DOMAIN-SUFFIX,tohobank.co.jp
+DOMAIN-SUFFIX,tohoku-bank.co.jp
+DOMAIN-SUFFIX,tomibank.co.jp
+DOMAIN-SUFFIX,tottoribank.co.jp
+DOMAIN-SUFFIX,toyobank.co.jp
+DOMAIN-SUFFIX,tpension.ru
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,travel-tec.ru
+DOMAIN-SUFFIX,tsukubabank.co.jp
+DOMAIN-SUFFIX,tuncommercialbank.com
+DOMAIN-SUFFIX,uab.com.mm
+DOMAIN-SUFFIX,ubs.com
+DOMAIN-SUFFIX,unidraw.io
+DOMAIN-SUFFIX,uralsib.ru
+DOMAIN-SUFFIX,vlb100.ru
+DOMAIN-SUFFIX,vtb-direct.com
+DOMAIN-SUFFIX,vtb-grants.fut.ru
+DOMAIN-SUFFIX,vtb.ru
+DOMAIN-SUFFIX,vtbglobalperspectives.com
+DOMAIN-SUFFIX,vv1865.com
+DOMAIN-SUFFIX,waveomoney.com.mm
+DOMAIN-SUFFIX,wbrks.com
+DOMAIN-SUFFIX,westernunion.ru
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,xiaohu8.com
+DOMAIN-SUFFIX,xn----7sbhmncai5a0arm7c1e.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbkfzespdwig.xn--p1ai
+DOMAIN-SUFFIX,xn----8sbwjbxyd.xn--p1ai
+DOMAIN-SUFFIX,xn--90aifd0az.shop
+DOMAIN-SUFFIX,xn--90aifd0azb.xn--p1acf
+DOMAIN-SUFFIX,xn--b1aechhj6bof8g5a.site
+DOMAIN-SUFFIX,xn--d1abkf4ap.fun
+DOMAIN-SUFFIX,xn--d1aqf.xn--p1ai
+DOMAIN-SUFFIX,xn--h1ao.site
+DOMAIN-SUFFIX,yamagatabank.co.jp
+DOMAIN-SUFFIX,yamaguchibank.co.jp
+DOMAIN-SUFFIX,yamanashibank.co.jp
+DOMAIN-SUFFIX,yokohamabank.co.jp
+DOMAIN-SUFFIX,yomabank.com
+DOMAIN-SUFFIX,yoobusiness.ru
+DOMAIN-SUFFIX,ysx-mm.com
+DOMAIN-SUFFIX,zenit-card.ru
+DOMAIN-SUFFIX,zenit.ru
+DOMAIN-SUFFIX,ziraatbank.ru
+DOMAIN-SUFFIX,zvuk-b2b.com
+DOMAIN-SUFFIX,zvuk.com
+DOMAIN,sberpro.vedomosti.ru
+DOMAIN,standchartbank.sc.omtrdc.net
+DOMAIN,standchartbank.tt.omtrdc.net

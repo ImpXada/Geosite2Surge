@@ -1,11 +1,11 @@
 DOMAIN-SUFFIX,ewisdom.us.kg
+DOMAIN-SUFFIX,o-courier.ru
 DOMAIN-SUFFIX,o3.ru
 DOMAIN-SUFFIX,o3t.ru
 DOMAIN-SUFFIX,o3team.ru
-DOMAIN-SUFFIX,o-courier.ru
 DOMAIN-SUFFIX,ocourier.ru
-DOMAIN-SUFFIX,ozon-dostavka.ru
 DOMAIN-SUFFIX,ozon-credit.ru
+DOMAIN-SUFFIX,ozon-dostavka.ru
 DOMAIN-SUFFIX,ozon-tech.ru
 DOMAIN-SUFFIX,ozon.app
 DOMAIN-SUFFIX,ozon.by
@@ -40,28 +40,6 @@ DOMAIN-SUFFIX,ozonsport.ru
 DOMAIN-SUFFIX,ozonstatus.ru
 DOMAIN-SUFFIX,ozonusercontent.com
 DOMAIN-SUFFIX,rocketozon.by
-
-# IDN ccTLD
-DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai    #озон-доставка.рф
-DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai    #озондоставка.рф
-DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais    #озонрокет.бел
-
-# Advertising and tracking
-DOMAIN,ad.ozone.ru
-DOMAIN,adv.ozon.ru
-DOMAIN,agency-adv.ozon.ru
-DOMAIN,analytics-adv.ozon.ru
-DOMAIN,beginners-adv.ozon.ru
-DOMAIN,google-analytics-suite.ozon.ru
-DOMAIN,loyalnost-adv.ozon.ru
-DOMAIN,new-adv.ozon.ru
-DOMAIN,prodvizhenie-adv.ozon.ru
-DOMAIN,questions-adv.ozon.ru
-DOMAIN,sentry.ozon.ru
-DOMAIN,xapi.ozon.by
-DOMAIN,xapi.ozon.com
-DOMAIN,xapi.ozon.com.by
-DOMAIN,xapi.ozon.com.kz
-DOMAIN,xapi.ozon.kz
-DOMAIN,xapi.ozon.ru
-DOMAIN,xapi.ozonru.me
+DOMAIN-SUFFIX,xn----8sbahiqzthbd0bn.xn--p1ai
+DOMAIN-SUFFIX,xn--80aafgovrgbc7am.xn--p1ai
+DOMAIN-SUFFIX,xn--e1adjldbbpv.xn--90ais

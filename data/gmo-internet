@@ -1,13 +1,36 @@
-# https://ja.wikipedia.org/wiki/GMO%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97
-# group.gmo #GMOインターネットグループ コーポレートサイト
-# internet.gmo #GMOインターネット（日本語事業説明）
-
-#	ブランドgTLD	GMO Internet, Inc.	GMOインターネットグループおよび関係者向けブランドTLD
-DOMAIN-SUFFIX,gmo
-
-#include:globalsign
+DOMAIN-SUFFIX,1-account.com
+DOMAIN-SUFFIX,30d.jp
+DOMAIN-SUFFIX,adam.jp
+DOMAIN-SUFFIX,alive-project.com
 DOMAIN-SUFFIX,alphassl.com
+DOMAIN-SUFFIX,animary.jp
+DOMAIN-SUFFIX,atokara.jp
+DOMAIN-SUFFIX,banksy.tokyo
+DOMAIN-SUFFIX,brantect.com
+DOMAIN-SUFFIX,cashmart.jp
+DOMAIN-SUFFIX,chintaidx.com
+DOMAIN-SUFFIX,click-sec.com
+DOMAIN-SUFFIX,cloudec.jp
+DOMAIN-SUFFIX,coeteco.jp
+DOMAIN-SUFFIX,colleee.net
+DOMAIN-SUFFIX,colorme-repeat.jp
+DOMAIN-SUFFIX,conoha.jp
+DOMAIN-SUFFIX,coreserver.jp
+DOMAIN-SUFFIX,decopri.net
+DOMAIN-SUFFIX,dentry.jp
+DOMAIN-SUFFIX,e-estate.jp
 DOMAIN-SUFFIX,easy-signing.com
+DOMAIN-SUFFIX,ekiten.jp
+DOMAIN-SUFFIX,enpay.co.jp
+DOMAIN-SUFFIX,epsilon.jp
+DOMAIN-SUFFIX,fanspot.jp
+DOMAIN-SUFFIX,fincode.jp
+DOMAIN-SUFFIX,find-a.jp
+DOMAIN-SUFFIX,flatt.tech
+DOMAIN-SUFFIX,fulloutsourcing.jp
+DOMAIN-SUFFIX,gaikaex.com
+DOMAIN-SUFFIX,gesoten.com
+DOMAIN-SUFFIX,get.shop
 DOMAIN-SUFFIX,globalsign-media.com
 DOMAIN-SUFFIX,globalsign.be
 DOMAIN-SUFFIX,globalsign.ch
@@ -25,52 +48,7 @@ DOMAIN-SUFFIX,globalsign.fr
 DOMAIN-SUFFIX,globalsign.net
 DOMAIN-SUFFIX,globalsign.nl
 DOMAIN-SUFFIX,globalsigncdn.com
-
-DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
-DOMAIN,crl.globalsign.net
-#end include:globalsign
-
-# https://group.gmo/service/search/1/
-# https://group.gmo/service/search/2/
-# https://group.gmo/service/search/3/
-# https://group.gmo/service/search/4/
-# https://group.gmo/service/search/5/
-# https://group.gmo/service/search/6/
-DOMAIN-SUFFIX,1-account.com
-DOMAIN-SUFFIX,30d.jp
-DOMAIN-SUFFIX,adam.jp
-DOMAIN-SUFFIX,ai-robotics.gmo
-DOMAIN-SUFFIX,ai-web3.gmo
-DOMAIN-SUFFIX,alive-project.com
-DOMAIN-SUFFIX,animary.jp
-DOMAIN-SUFFIX,atokara.jp
-DOMAIN-SUFFIX,banksy.tokyo
-DOMAIN-SUFFIX,brandsecurity.gmo
-DOMAIN-SUFFIX,brantect.com
-DOMAIN-SUFFIX,cashmart.jp
-DOMAIN-SUFFIX,chintaidx.com
-DOMAIN-SUFFIX,click-sec.com
-DOMAIN-SUFFIX,cloudec.jp
-DOMAIN-SUFFIX,coeteco.jp
-DOMAIN-SUFFIX,colleee.net
-DOMAIN-SUFFIX,colorme-repeat.jp
-DOMAIN-SUFFIX,conoha.jp
-DOMAIN-SUFFIX,coreserver.jp
-DOMAIN-SUFFIX,decopri.net
-DOMAIN-SUFFIX,dentry.jp
-DOMAIN-SUFFIX,e-estate.jp
-DOMAIN-SUFFIX,ekiten.jp
-DOMAIN-SUFFIX,enpay.co.jp
-DOMAIN-SUFFIX,epsilon.jp
-DOMAIN-SUFFIX,fanspot.jp
-DOMAIN-SUFFIX,fincode.jp
-DOMAIN-SUFFIX,find-a.jp
-DOMAIN-SUFFIX,flatt.tech
-DOMAIN-SUFFIX,fulloutsourcing.jp
-DOMAIN-SUFFIX,gaikaex.com
-DOMAIN-SUFFIX,gesoten.com
-DOMAIN-SUFFIX,get.shop
-DOMAIN-SUFFIX,global-studio.gmo
+DOMAIN-SUFFIX,gmo
 DOMAIN-SUFFIX,gmo-aozora.com
 DOMAIN-SUFFIX,gmo-app.jp
 DOMAIN-SUFFIX,gmo-c.jp
@@ -102,21 +80,16 @@ DOMAIN-SUFFIX,gmosign.com
 DOMAIN-SUFFIX,gmossp.jp
 DOMAIN-SUFFIX,good-apps.jp
 DOMAIN-SUFFIX,goope.jp
-DOMAIN-SUFFIX,gpucloud.gmo
-DOMAIN-SUFFIX,group.gmo
 DOMAIN-SUFFIX,hakaru.ai
 DOMAIN-SUFFIX,heteml.jp
 DOMAIN-SUFFIX,hotel-reviewn.com
-DOMAIN-SUFFIX,i4u.gmo
 DOMAIN-SUFFIX,infoq.jp
 DOMAIN-SUFFIX,iprad-ryoma.com
 DOMAIN-SUFFIX,ird.co.jp
 DOMAIN-SUFFIX,jword.jp
 DOMAIN-SUFFIX,kaipoke.jp
 DOMAIN-SUFFIX,kantan.game
-DOMAIN-SUFFIX,kantan.gmo
 DOMAIN-SUFFIX,karabako-gmo.com
-DOMAIN-SUFFIX,kigyo.gmo
 DOMAIN-SUFFIX,kireipass.jp
 DOMAIN-SUFFIX,koukoku.jp
 DOMAIN-SUFFIX,kumagai.com
@@ -144,16 +117,13 @@ DOMAIN-SUFFIX,playads.jp
 DOMAIN-SUFFIX,pointtown.com
 DOMAIN-SUFFIX,prcm.jp
 DOMAIN-SUFFIX,pricesearch.jp
-DOMAIN-SUFFIX,product.gmo
 DOMAIN-SUFFIX,renshu.com
-DOMAIN-SUFFIX,security24.gmo
 DOMAIN-SUFFIX,seo-dash.net
 DOMAIN-SUFFIX,seodirector.ai
 DOMAIN-SUFFIX,seotimes.jp
 DOMAIN-SUFFIX,shisho.dev
 DOMAIN-SUFFIX,shop-pro.jp
 DOMAIN-SUFFIX,shuminavi.net
-DOMAIN-SUFFIX,slide2web.gmo
 DOMAIN-SUFFIX,smaad.net
 DOMAIN-SUFFIX,sokuresu.ai
 DOMAIN-SUFFIX,suzuri.jp
@@ -171,3 +141,4 @@ DOMAIN-SUFFIX,xrea.com
 DOMAIN-SUFFIX,z.com
 DOMAIN-SUFFIX,zeibit.ai
 DOMAIN-SUFFIX,ztrendlab.com
+DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net

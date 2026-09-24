@@ -1,9 +1,3 @@
-#include:icloudprivaterelay
-DOMAIN-SUFFIX,mask-api.icloud.com
-DOMAIN-SUFFIX,mask-h2.icloud.com
-DOMAIN-SUFFIX,mask.icloud.com
-#end include:icloudprivaterelay
-
 DOMAIN-SUFFIX,apple-icloud.cn
 DOMAIN-SUFFIX,appleicloud.cn
 DOMAIN-SUFFIX,applemx-icloud.com
@@ -43,12 +37,12 @@ DOMAIN-SUFFIX,icloudhome.com
 DOMAIN-SUFFIX,icloudmail.net
 DOMAIN-SUFFIX,icloudmusic.net
 DOMAIN-SUFFIX,icloudnet.net
-DOMAIN-SUFFIX,icloudpay.net
 DOMAIN-SUFFIX,icloudo.com
 DOMAIN-SUFFIX,icloudo.de
 DOMAIN-SUFFIX,icloudo.net
 DOMAIN-SUFFIX,icloudos.de
 DOMAIN-SUFFIX,icloudos.net
+DOMAIN-SUFFIX,icloudpay.net
 DOMAIN-SUFFIX,icloudsecure.net
 DOMAIN-SUFFIX,icloudsetup.com
 DOMAIN-SUFFIX,ios-icloud.com
@@ -56,5 +50,4 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,myicloud.net
 DOMAIN-SUFFIX,mylcloud.net
 DOMAIN-SUFFIX,wwwicloud.com
-
 DOMAIN,www-cdn.icloud.com.akadns.net

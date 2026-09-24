@@ -1,10 +1,6 @@
-# https://www.iana.org/domains/root/db/cbs.html
-# cbs (Revoked)
-
-# https://www.iana.org/domains/root/db/showtime.html
-# showtime (Revoked)
-
+DOMAIN-SUFFIX,amlg.io
 DOMAIN-SUFFIX,cbs.com
+DOMAIN-SUFFIX,cbsaavideo.com
 DOMAIN-SUFFIX,cbscorporation.com
 DOMAIN-SUFFIX,cbsi.com
 DOMAIN-SUFFIX,cbsi.video
@@ -19,20 +15,14 @@ DOMAIN-SUFFIX,cbspressexpress.com
 DOMAIN-SUFFIX,cbssports.com
 DOMAIN-SUFFIX,cbsstatic.com
 DOMAIN-SUFFIX,cbssvideo.com
+DOMAIN-SUFFIX,mtvnservices.com
+DOMAIN-SUFFIX,paramount.com
+DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,viacbs.com
 DOMAIN-SUFFIX,viacom.com
 DOMAIN-SUFFIX,viacomcbs.com
 DOMAIN-SUFFIX,viacomcbspressexpress.com
-
-# Paramount
-DOMAIN-SUFFIX,paramount.com
-
-# Paramount Plus
-DOMAIN-SUFFIX,amlg.io
-DOMAIN-SUFFIX,cbsaavideo.com
-DOMAIN-SUFFIX,mtvnservices.com
-DOMAIN-SUFFIX,paramountplus.com
-DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN,cbsi.live.ott.irdeto.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsservice.aws.syncbak.com

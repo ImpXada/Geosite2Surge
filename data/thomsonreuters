@@ -1,16 +1,13 @@
-#include:reuters
-DOMAIN-SUFFIX,reut.rs
-DOMAIN-SUFFIX,reuters.com
-DOMAIN-SUFFIX,reuters.tv
-DOMAIN-SUFFIX,reutersmedia.net
-#end include:reuters
-
 DOMAIN-SUFFIX,aranzadi.es
 DOMAIN-SUFFIX,corepublishingsolutions.com
 DOMAIN-SUFFIX,elite.com
 DOMAIN-SUFFIX,legaltracker.com
 DOMAIN-SUFFIX,livrariart.com.br
+DOMAIN-SUFFIX,reut.rs
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,reuters.tv
 DOMAIN-SUFFIX,reutersagency.cn
+DOMAIN-SUFFIX,reutersmedia.net
 DOMAIN-SUFFIX,sweetandmaxwell.co.uk
 DOMAIN-SUFFIX,thomsonreuters.ca
 DOMAIN-SUFFIX,thomsonreuters.cn

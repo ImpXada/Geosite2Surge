@@ -64,13 +64,9 @@ DOMAIN-SUFFIX,intagrm.com
 DOMAIN-SUFFIX,intgram.com
 DOMAIN-SUFFIX,kingstagram.com
 DOMAIN-SUFFIX,lnstagram-help.com
-DOMAIN-SUFFIX,theinstagramhack.com
 DOMAIN-SUFFIX,oninstagram.com
 DOMAIN-SUFFIX,online-instagram.com
 DOMAIN-SUFFIX,onlineinstagram.com
+DOMAIN-SUFFIX,theinstagramhack.com
 DOMAIN-SUFFIX,web-instagram.net
 DOMAIN-SUFFIX,wwwinstagram.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,graph.instagram.com
-DOMAIN-SUFFIX,graph-fallback.instagram.com

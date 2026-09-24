@@ -1,11 +1,6 @@
 DOMAIN-SUFFIX,githubcopilot.com
-
 DOMAIN,copilot-proxy.githubusercontent.com
-DOMAIN,copilot-workspace.githubnext.com
-
-# Azure Blob Storage
-DOMAIN,copilotprodattachments.blob.core.windows.net
-
-# Ads/tracking
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,copilot-workspace.githubnext.com
+DOMAIN,copilotprodattachments.blob.core.windows.net

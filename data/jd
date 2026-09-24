@@ -94,8 +94,10 @@ DOMAIN-SUFFIX,cloudzhuhai.com
 DOMAIN-SUFFIX,dao123.com
 DOMAIN-SUFFIX,dd-advisor.com
 DOMAIN-SUFFIX,duiou.com.cn
+DOMAIN-SUFFIX,duolabao.com
 DOMAIN-SUFFIX,goselling.com
 DOMAIN-SUFFIX,healthjd.com
+DOMAIN-SUFFIX,imdada.cn
 DOMAIN-SUFFIX,isvjcloud.com
 DOMAIN-SUFFIX,isvjd.com
 DOMAIN-SUFFIX,jcloud-cache.com
@@ -243,19 +245,3 @@ DOMAIN-SUFFIX,yizhitou.com
 DOMAIN-SUFFIX,yunpei.com
 DOMAIN-SUFFIX,yunxiu.com
 DOMAIN-SUFFIX,zhongyouex.com
-
-# 达达
-DOMAIN-SUFFIX,imdada.cn
-
-# 哆啦宝
-DOMAIN-SUFFIX,duolabao.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,ads-union.jd.com
-DOMAIN-SUFFIX,ads.union.jd.com
-DOMAIN-SUFFIX,c-nfa.jd.com
-DOMAIN-SUFFIX,cps.360buy.com
-DOMAIN-SUFFIX,gia.jd.com
-DOMAIN-SUFFIX,img-x.jd.com
-DOMAIN-SUFFIX,jzt.jd.com
-DOMAIN-SUFFIX,stat.m.jd.com

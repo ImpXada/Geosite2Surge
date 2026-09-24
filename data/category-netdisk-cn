@@ -1,4 +1,3 @@
-#include:115
 DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,115cdn.com
 DOMAIN-SUFFIX,115cdn.net
@@ -11,28 +10,38 @@ DOMAIN-SUFFIX,115vod.com
 DOMAIN-SUFFIX,116cd.cn
 DOMAIN-SUFFIX,116cd.com
 DOMAIN-SUFFIX,116cd.net
-DOMAIN-SUFFIX,anxia.com
-DOMAIN-SUFFIX,sq.cc
-#end include:115
-#include:aliyun-drive
+DOMAIN-SUFFIX,123245.com
+DOMAIN-SUFFIX,123254.com
+DOMAIN-SUFFIX,123278.com
+DOMAIN-SUFFIX,123294.com
+DOMAIN-SUFFIX,123624.com
+DOMAIN-SUFFIX,123641.com
+DOMAIN-SUFFIX,123842.com
+DOMAIN-SUFFIX,123860.com
+DOMAIN-SUFFIX,123912.com
+DOMAIN-SUFFIX,123952.com
+DOMAIN-SUFFIX,123957.com
+DOMAIN-SUFFIX,123pan.cn
+DOMAIN-SUFFIX,123pan.com
+DOMAIN-SUFFIX,123panpay.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,aliyundrive.cloud
 DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyundrive.net
-DOMAIN-SUFFIX,yunpan.aliyun.com
-#end include:aliyun-drive
-#include:cowtransfer
-# 奶牛快传
-## 蜀ICP备14008877号
+DOMAIN-SUFFIX,anxia.com
+DOMAIN-SUFFIX,baidupan.com
 DOMAIN-SUFFIX,c-t.work
-## 闽ICP备2021013850号
+DOMAIN-SUFFIX,cloud.189.cn
 DOMAIN-SUFFIX,cowcs.com
 DOMAIN-SUFFIX,cowtransfer.com
-#end include:cowtransfer
-#include:lanzou
-DOMAIN-SUFFIX,baidupan.com
+DOMAIN-SUFFIX,ctfile.com
+DOMAIN-SUFFIX,feimaoyun.com
+DOMAIN-SUFFIX,filez.com
+DOMAIN-SUFFIX,guangyacdn.com
+DOMAIN-SUFFIX,guangyapan.com
 DOMAIN-SUFFIX,ilanzou.com
+DOMAIN-SUFFIX,jianguoyun.com
 DOMAIN-SUFFIX,lanosso.com
 DOMAIN-SUFFIX,lanrar.com
 DOMAIN-SUFFIX,lanzou.com
@@ -58,15 +67,18 @@ DOMAIN-SUFFIX,lanzouw.com
 DOMAIN-SUFFIX,lanzoux.com
 DOMAIN-SUFFIX,lanzouy.com
 DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,woozooo.com
-#end include:lanzou
-#include:wenshushu
-# 成都字节星云科技有限公司 蜀ICP备19024011号
+DOMAIN-SUFFIX,pan.baidu.com
+DOMAIN-SUFFIX,pan.quark.cn
+DOMAIN-SUFFIX,pan.xunlei.com
+DOMAIN-SUFFIX,share123.top
+DOMAIN-SUFFIX,sq.cc
+DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,wenshushu.cn
 DOMAIN-SUFFIX,wenshushu.com
 DOMAIN-SUFFIX,wenxiaozhan.cn
 DOMAIN-SUFFIX,wenxiaozhan.com
 DOMAIN-SUFFIX,wenxiaozhan.net
+DOMAIN-SUFFIX,woozooo.com
 DOMAIN-SUFFIX,wss.cc
 DOMAIN-SUFFIX,wss.email
 DOMAIN-SUFFIX,wss.ink
@@ -74,37 +86,6 @@ DOMAIN-SUFFIX,wss.pet
 DOMAIN-SUFFIX,wss.show
 DOMAIN-SUFFIX,wss.zone
 DOMAIN-SUFFIX,wss1.cn
-#end include:wenshushu
-
-# 123云盘
-DOMAIN-SUFFIX,123245.com
-DOMAIN-SUFFIX,123254.com
-DOMAIN-SUFFIX,123278.com
-DOMAIN-SUFFIX,123294.com
-DOMAIN-SUFFIX,123624.com
-DOMAIN-SUFFIX,123641.com
-DOMAIN-SUFFIX,123842.com
-DOMAIN-SUFFIX,123860.com
-DOMAIN-SUFFIX,123912.com
-DOMAIN-SUFFIX,123952.com
-DOMAIN-SUFFIX,123957.com
-DOMAIN-SUFFIX,123pan.cn
-DOMAIN-SUFFIX,123pan.com
-DOMAIN-SUFFIX,123panpay.com
-
-# 光鸭云盘
-DOMAIN-SUFFIX,guangyacdn.com
-DOMAIN-SUFFIX,guangyapan.com
-
-DOMAIN-SUFFIX,cloud.189.cn    #天翼云盘
-DOMAIN-SUFFIX,ctfile.com    #城通网盘
-DOMAIN-SUFFIX,feimaoyun.com    #飞猫盘
-DOMAIN-SUFFIX,filez.com    #联想企业网盘
-DOMAIN-SUFFIX,jianguoyun.com    #坚果云
-DOMAIN-SUFFIX,pan.baidu.com    #百度网盘
-DOMAIN-SUFFIX,pan.quark.cn    #夸克网盘
-DOMAIN-SUFFIX,pan.xunlei.com    #迅雷云盘
-DOMAIN-SUFFIX,share123.top    #奇妙快传
-DOMAIN-SUFFIX,weiyun.com    #微云
-DOMAIN-SUFFIX,yun.139.com    #中国移动云盘
-DOMAIN-SUFFIX,yunpan.com    #360安全云盘
+DOMAIN-SUFFIX,yun.139.com
+DOMAIN-SUFFIX,yunpan.aliyun.com
+DOMAIN-SUFFIX,yunpan.com

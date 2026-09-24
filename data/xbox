@@ -1,46 +1,26 @@
-#include:activision-blizzard
-#include:asobo
 DOMAIN-SUFFIX,asobostudio.com
-DOMAIN-SUFFIX,flightsimulator.com
-
-DOMAIN,flightsimulator.azureedge.net
-#end include:asobo
-#include:bethesda
 DOMAIN-SUFFIX,beth.games
 DOMAIN-SUFFIX,bethesda.net
 DOMAIN-SUFFIX,bethesdagamestudios.com
 DOMAIN-SUFFIX,bethsoft.com
-
-# Doom
+DOMAIN-SUFFIX,callersbane.com
 DOMAIN-SUFFIX,doom.com
-
-# The Elder Scrolls
 DOMAIN-SUFFIX,elderscrolls.com
-#end include:bethesda
-#include:forza
+DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,forza.net
 DOMAIN-SUFFIX,forzamotorsport.net
 DOMAIN-SUFFIX,forzaracingchampionship.com
 DOMAIN-SUFFIX,forzarc.com
-
-DOMAIN,prodforza.blob.core.windows.net
-#end include:forza
-#include:mojang
-DOMAIN-SUFFIX,callersbane.com
+DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,minecraft-services.net
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,minecraftservices.com
 DOMAIN-SUFFIX,minecraftshop.com
 DOMAIN-SUFFIX,mojang.com
-#end include:mojang
-
-# All .xbox domains
-DOMAIN-SUFFIX,xbox
-
-DOMAIN-SUFFIX,gamepass.com
 DOMAIN-SUFFIX,orithegame.com
 DOMAIN-SUFFIX,renovacionxboxlive.com
 DOMAIN-SUFFIX,tellmewhygame.com
+DOMAIN-SUFFIX,xbox
 DOMAIN-SUFFIX,xbox.co
 DOMAIN-SUFFIX,xbox.com
 DOMAIN-SUFFIX,xbox.eu
@@ -61,3 +41,5 @@ DOMAIN-SUFFIX,xboxplayanywhere.com
 DOMAIN-SUFFIX,xboxservices.com
 DOMAIN-SUFFIX,xboxstudios.com
 DOMAIN-SUFFIX,xbx.lv
+DOMAIN,flightsimulator.azureedge.net
+DOMAIN,prodforza.blob.core.windows.net

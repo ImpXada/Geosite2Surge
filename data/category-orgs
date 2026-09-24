@@ -1,30 +1,27 @@
-# This list contains organizations outside China mainland.
-
-#include:creativecommons
+DOMAIN-SUFFIX,acousticbrainz.org
+DOMAIN-SUFFIX,aomedia.org
+DOMAIN-SUFFIX,attestation.app
+DOMAIN-SUFFIX,atypi.org
+DOMAIN-SUFFIX,bookbrainz.org
 DOMAIN-SUFFIX,ccstatic.org
-DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,change.org
+DOMAIN-SUFFIX,computer.org
+DOMAIN-SUFFIX,comsoc.org
+DOMAIN-SUFFIX,coverartarchive.org
 DOMAIN-SUFFIX,creativecommons.engineering
-DOMAIN-SUFFIX,licensebuttons.net
-#end include:creativecommons
-#include:csis
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,critiquebrainz.org
 DOMAIN-SUFFIX,csis.org
-
-DOMAIN,csis-prod.s3.amazonaws.com
-#end include:csis
-#include:emojipedia
+DOMAIN-SUFFIX,datasheets360.com
+DOMAIN-SUFFIX,embs.org
+DOMAIN-SUFFIX,emcs.org
 DOMAIN-SUFFIX,emojipedia.org
-DOMAIN-SUFFIX,worldemojiawards.com
-DOMAIN-SUFFIX,worldemojiday.com
-DOMAIN-SUFFIX,xn--yt8h.la    #📙.la
-#end include:emojipedia
-#include:f-droid
 DOMAIN-SUFFIX,f-dro1d.org
 DOMAIN-SUFFIX,f-droid.com
 DOMAIN-SUFFIX,f-droid.org
 DOMAIN-SUFFIX,fdroid.org
-#end include:f-droid
-#include:grapheneos
-DOMAIN-SUFFIX,attestation.app
+DOMAIN-SUFFIX,globalsecurity.org
+DOMAIN-SUFFIX,globalspec.com
 DOMAIN-SUFFIX,grapheneos.app
 DOMAIN-SUFFIX,grapheneos.ca
 DOMAIN-SUFFIX,grapheneos.com
@@ -38,145 +35,88 @@ DOMAIN-SUFFIX,grapheneos.org
 DOMAIN-SUFFIX,grapheneos.ovh
 DOMAIN-SUFFIX,grapheneos.page
 DOMAIN-SUFFIX,grapheneos.social
-DOMAIN-SUFFIX,seamlessupdate.app
-DOMAIN-SUFFIX,vanadium.app
-#end include:grapheneos
-#include:ieee
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,ieee.tv
-
-# Co-sponsored
-DOMAIN-SUFFIX,tryengineering.org
-
-# Conference & Event
-DOMAIN-SUFFIX,ieee-ccnc.org
-DOMAIN-SUFFIX,ieee-ecce.org
-DOMAIN-SUFFIX,ieeemce.org
-
-# Education and career
-DOMAIN-SUFFIX,standardsuniversity.org
-
-# Geographic Activities
-DOMAIN-SUFFIX,ieee-region6.org
-DOMAIN-SUFFIX,ieee.ca
-DOMAIN-SUFFIX,ieeer10.org
-DOMAIN-SUFFIX,ieeer5.org
-DOMAIN-SUFFIX,ieeer8.org
-DOMAIN-SUFFIX,ieeeusa.org
-
-# Humanitarian Program
-DOMAIN-SUFFIX,ieeefoundation.org
-
-# Other
-DOMAIN-SUFFIX,ieee-into-focus.org
-DOMAIN-SUFFIX,ieee-vics.org
-DOMAIN-SUFFIX,ieeeday.org
-
-# Publications, Products, & Services
-DOMAIN-SUFFIX,datasheets360.com
-DOMAIN-SUFFIX,globalspec.com
-DOMAIN-SUFFIX,ieee-isto.org
-DOMAIN-SUFFIX,techstreet.com
-
-# Society & Council
-DOMAIN-SUFFIX,computer.org
-DOMAIN-SUFFIX,comsoc.org
-DOMAIN-SUFFIX,embs.org
-DOMAIN-SUFFIX,emcs.org
 DOMAIN-SUFFIX,grss-ieee.org
+DOMAIN-SUFFIX,iana.org
+DOMAIN-SUFFIX,iccf.com
 DOMAIN-SUFFIX,ieee-aess.org
 DOMAIN-SUFFIX,ieee-cas.org
+DOMAIN-SUFFIX,ieee-ccnc.org
 DOMAIN-SUFFIX,ieee-ceda.org
+DOMAIN-SUFFIX,ieee-ecce.org
 DOMAIN-SUFFIX,ieee-edusociety.org
 DOMAIN-SUFFIX,ieee-ies.org
 DOMAIN-SUFFIX,ieee-ims.org
+DOMAIN-SUFFIX,ieee-into-focus.org
+DOMAIN-SUFFIX,ieee-isto.org
 DOMAIN-SUFFIX,ieee-npss.org
 DOMAIN-SUFFIX,ieee-pels.org
 DOMAIN-SUFFIX,ieee-pes.org
 DOMAIN-SUFFIX,ieee-ras.org
+DOMAIN-SUFFIX,ieee-region6.org
 DOMAIN-SUFFIX,ieee-sensors.org
 DOMAIN-SUFFIX,ieee-tems.org
 DOMAIN-SUFFIX,ieee-uffc.org
+DOMAIN-SUFFIX,ieee-vics.org
+DOMAIN-SUFFIX,ieee.ca
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieee.tv
 DOMAIN-SUFFIX,ieeeaps.org
 DOMAIN-SUFFIX,ieeecsc.org
 DOMAIN-SUFFIX,ieeecss.org
+DOMAIN-SUFFIX,ieeeday.org
 DOMAIN-SUFFIX,ieeedeis.org
+DOMAIN-SUFFIX,ieeefoundation.org
 DOMAIN-SUFFIX,ieeemagnetics.org
+DOMAIN-SUFFIX,ieeemce.org
 DOMAIN-SUFFIX,ieeenano.org
 DOMAIN-SUFFIX,ieeeoes.org
+DOMAIN-SUFFIX,ieeer10.org
+DOMAIN-SUFFIX,ieeer5.org
+DOMAIN-SUFFIX,ieeer8.org
 DOMAIN-SUFFIX,ieeesmc.org
 DOMAIN-SUFFIX,ieeesystemscouncil.org
+DOMAIN-SUFFIX,ieeeusa.org
+DOMAIN-SUFFIX,ietf.org
 DOMAIN-SUFFIX,itsoc.org
-DOMAIN-SUFFIX,mtt.org
-DOMAIN-SUFFIX,photonicssociety.org
-DOMAIN-SUFFIX,signalprocessingsociety.org
-DOMAIN-SUFFIX,technologyandsociety.org
-DOMAIN-SUFFIX,vtsociety.org
-#end include:ieee
-#include:metabrainz
-DOMAIN-SUFFIX,acousticbrainz.org
-DOMAIN-SUFFIX,bookbrainz.org
-DOMAIN-SUFFIX,coverartarchive.org
-DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,itu.int
+DOMAIN-SUFFIX,licensebuttons.net
 DOMAIN-SUFFIX,listenbrainz.org
 DOMAIN-SUFFIX,messybrainz.org
 DOMAIN-SUFFIX,metabrainz.org
+DOMAIN-SUFFIX,mtt.org
 DOMAIN-SUFFIX,musicbrainz.org
-#end include:metabrainz
-#include:nist
 DOMAIN-SUFFIX,nist.gov
-DOMAIN-SUFFIX,time.gov
-#end include:nist
-#include:openstreetmap
 DOMAIN-SUFFIX,openmaps.org
 DOMAIN-SUFFIX,openstreetmap.com
 DOMAIN-SUFFIX,openstreetmap.net
 DOMAIN-SUFFIX,openstreetmap.org
 DOMAIN-SUFFIX,openstreetmaps.org
+DOMAIN-SUFFIX,opte.org
 DOMAIN-SUFFIX,osm.org
 DOMAIN-SUFFIX,osmfoundation.org
-
-# State of the Map
-DOMAIN-SUFFIX,stateofthemap.com
-DOMAIN-SUFFIX,stateofthemap.org
-#end include:openstreetmap
-#include:paskoocheh
 DOMAIN-SUFFIX,paskoocheh.com
-#end include:paskoocheh
-#include:peppy
-#include:osu
-# osu
-DOMAIN,a.ppy.sh
-DOMAIN,assets.ppy.sh
-DOMAIN,c.ppy.sh
-DOMAIN,osu.ppy.sh
-DOMAIN,m1.ppy.sh
-# osu lazer
-DOMAIN,lazer.ppy.sh
-DOMAIN,notify.ppy.sh
-DOMAIN,sentry.ppy.sh
-DOMAIN,spectator.ppy.sh
-#end include:osu
-
+DOMAIN-SUFFIX,photonicssociety.org
 DOMAIN-SUFFIX,ppy.sh
-#end include:peppy
-#include:ruleoflaw
 DOMAIN-SUFFIX,rolfoundation.org
 DOMAIN-SUFFIX,rolsociety.org
-#end include:ruleoflaw
-
-DOMAIN-SUFFIX,aomedia.org
-DOMAIN-SUFFIX,atypi.org
-DOMAIN-SUFFIX,change.org
-DOMAIN-SUFFIX,globalsecurity.org
-DOMAIN-SUFFIX,iana.org
-DOMAIN-SUFFIX,iccf.com
-DOMAIN-SUFFIX,ietf.org
-DOMAIN-SUFFIX,itu.int
-DOMAIN-SUFFIX,opte.org
+DOMAIN-SUFFIX,seamlessupdate.app
+DOMAIN-SUFFIX,signalprocessingsociety.org
 DOMAIN-SUFFIX,smpte.org
+DOMAIN-SUFFIX,standardsuniversity.org
+DOMAIN-SUFFIX,stateofthemap.com
+DOMAIN-SUFFIX,stateofthemap.org
+DOMAIN-SUFFIX,technologyandsociety.org
+DOMAIN-SUFFIX,techstreet.com
+DOMAIN-SUFFIX,time.gov
+DOMAIN-SUFFIX,tryengineering.org
 DOMAIN-SUFFIX,un.org
+DOMAIN-SUFFIX,vanadium.app
+DOMAIN-SUFFIX,vtsociety.org
 DOMAIN-SUFFIX,w3.org
 DOMAIN-SUFFIX,who.int
 DOMAIN-SUFFIX,wi-fi.org
+DOMAIN-SUFFIX,worldemojiawards.com
+DOMAIN-SUFFIX,worldemojiday.com
 DOMAIN-SUFFIX,wto.org
+DOMAIN-SUFFIX,xn--yt8h.la
+DOMAIN,csis-prod.s3.amazonaws.com

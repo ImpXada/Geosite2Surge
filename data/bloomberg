@@ -1,10 +1,8 @@
-# All .bloomberg domains
-DOMAIN-SUFFIX,bloomberg
-
 DOMAIN-SUFFIX,bbgevent.com
 DOMAIN-SUFFIX,bbhub.io
 DOMAIN-SUFFIX,bbthat.com
 DOMAIN-SUFFIX,bgov.com
+DOMAIN-SUFFIX,bloomberg
 DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.co.jp
 DOMAIN-SUFFIX,bloomberg.co.kr

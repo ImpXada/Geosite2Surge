@@ -1,21 +1,14 @@
-# 汽车资讯
-## 车质网
 DOMAIN-SUFFIX,12365auto.com
-## 汽车之家
+DOMAIN-SUFFIX,1hai.cn
 DOMAIN-SUFFIX,autohome.com
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,autohome.tel
 DOMAIN-SUFFIX,autoimg.cn
 DOMAIN-SUFFIX,autoimg.com.cn
-## 易车‌
 DOMAIN-SUFFIX,bitauto.com
 DOMAIN-SUFFIX,bitautoimg.com
+DOMAIN-SUFFIX,byd.com
 DOMAIN-SUFFIX,cheyisou.com
-DOMAIN-SUFFIX,yiche.com
-DOMAIN-SUFFIX,yccdn.com
-#end include:bitauto
-## 懂车帝
-# 渝ICP备2023013619号
 DOMAIN-SUFFIX,dcarapi.com
 DOMAIN-SUFFIX,dcarimg.com
 DOMAIN-SUFFIX,dcarlive.com
@@ -24,37 +17,23 @@ DOMAIN-SUFFIX,dcarvod.com
 DOMAIN-SUFFIX,dcdapp.com
 DOMAIN-SUFFIX,dongchedi.com
 DOMAIN-SUFFIX,dongchediapp.com
-#end include:dongchedi
-
-# 汽车品牌
-DOMAIN-SUFFIX,byd.com    #比亚迪
-DOMAIN-SUFFIX,geely.com    #吉利
-DOMAIN-SUFFIX,gwm.com.cn    #长城
-DOMAIN-SUFFIX,lixiang.com    #理想
-DOMAIN-SUFFIX,xiaopeng.com    #小鹏
-## 蔚来
+DOMAIN-SUFFIX,geely.com
+DOMAIN-SUFFIX,guazi.com
+DOMAIN-SUFFIX,guazi.net
+DOMAIN-SUFFIX,guazistatic.com
+DOMAIN-SUFFIX,gwm.com.cn
+DOMAIN-SUFFIX,gzurl.cn
+DOMAIN-SUFFIX,izuche.com
+DOMAIN-SUFFIX,izuchebao.com
+DOMAIN-SUFFIX,lixiang.com
 DOMAIN-SUFFIX,nio.cn
 DOMAIN-SUFFIX,nio.com
 DOMAIN-SUFFIX,niohome.com
-## 极氪
+DOMAIN-SUFFIX,wkzuche.com
+DOMAIN-SUFFIX,xiaopeng.com
+DOMAIN-SUFFIX,yccdn.com
+DOMAIN-SUFFIX,yiche.com
 DOMAIN-SUFFIX,zeekrgroup.com
 DOMAIN-SUFFIX,zeekrlife.com
-
-## 瓜子二手车
-DOMAIN-SUFFIX,gzurl.cn
-DOMAIN-SUFFIX,guazi.com
-DOMAIN-SUFFIX,guazistatic.com
-DOMAIN-SUFFIX,guazi.net
-
-# 租车平台
-## 一嗨租车
-DOMAIN-SUFFIX,1hai.cn
-## 首汽租车
-DOMAIN-SUFFIX,izuche.com
-## 租车宝
-DOMAIN-SUFFIX,izuchebao.com
-## 悟空租车
-DOMAIN-SUFFIX,wkzuche.com
-## 神州租车
 DOMAIN-SUFFIX,zuche.com
 DOMAIN-SUFFIX,zuchecdn.com

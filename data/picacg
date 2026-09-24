@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,bikac.xyz
 DOMAIN-SUFFIX,bikaios.xyz
+DOMAIN-SUFFIX,diwodiwo.xyz
 DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,picacgp.com
 DOMAIN-SUFFIX,picacgy.com
@@ -8,10 +9,3 @@ DOMAIN-SUFFIX,picacn.xyz
 DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,wikawika.xyz
-
-# Image Resource Domain like `img.diwodiwo.xyz` `s3.diwodiwo.xyz` `storage.diwodiwo.xyz` `storage-b.diwodiwo.xyz`
-DOMAIN-SUFFIX,diwodiwo.xyz
-
-# Ad Domain
-DOMAIN,ad-channel.diwodiwo.xyz
-DOMAIN,ad-display.diwodiwo.xyz

@@ -1,18 +1,13 @@
-#include:acfun
-# Beijing Danmu Network Technology Co., Ltd.
-
 DOMAIN-SUFFIX,ac.fun
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,acfun.net
 DOMAIN-SUFFIX,acfunchina.cn
 DOMAIN-SUFFIX,acfunchina.com
 DOMAIN-SUFFIX,acfunchina.net
+DOMAIN-SUFFIX,adbkwai.com
+DOMAIN-SUFFIX,adkwai.com
+DOMAIN-SUFFIX,adukwai.com
 DOMAIN-SUFFIX,aixifan.com
-
-# Ads/tracking
-DOMAIN,apilog-web.acfun.cn
-#end include:acfun
-
 DOMAIN-SUFFIX,eckwai.com
 DOMAIN-SUFFIX,ecukwai.com
 DOMAIN-SUFFIX,gifshow.com
@@ -38,12 +33,3 @@ DOMAIN-SUFFIX,viviv.com
 DOMAIN-SUFFIX,wskwai.com
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,yximgs.com
-
-# Ads/tracking
-DOMAIN-SUFFIX,adbkwai.com
-DOMAIN-SUFFIX,adkwai.com
-DOMAIN-SUFFIX,adukwai.com
-DOMAIN-SUFFIX,e.kuaishou.cn
-DOMAIN-SUFFIX,e.kuaishou.com
-DOMAIN,log-sdk.gifshow.com
-DOMAIN,wlog.kuaishou.com

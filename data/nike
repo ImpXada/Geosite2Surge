@@ -1,6 +1,3 @@
-# All .nike domains
-DOMAIN-SUFFIX,nike
-
 DOMAIN-SUFFIX,air-nike-shoes.com
 DOMAIN-SUFFIX,airmax360.com
 DOMAIN-SUFFIX,beijingnike.com
@@ -28,6 +25,7 @@ DOMAIN-SUFFIX,justdoit.us
 DOMAIN-SUFFIX,kicksnike1.com
 DOMAIN-SUFFIX,kidsnikeshoes.com
 DOMAIN-SUFFIX,mynike.com
+DOMAIN-SUFFIX,nike
 DOMAIN-SUFFIX,nike-air-max.com
 DOMAIN-SUFFIX,nike-dunksb.com
 DOMAIN-SUFFIX,nike-fr.com
@@ -46,7 +44,7 @@ DOMAIN-SUFFIX,nike.hk
 DOMAIN-SUFFIX,nike.host
 DOMAIN-SUFFIX,nike.shop
 DOMAIN-SUFFIX,nike.us
-DOMAIN-SUFFIX,nike.xn--hxt814e    #nike.网店
+DOMAIN-SUFFIX,nike.xn--hxt814e
 DOMAIN-SUFFIX,nike0594.com
 DOMAIN-SUFFIX,nike23.com
 DOMAIN-SUFFIX,nikeadidas.com
@@ -71,12 +69,12 @@ DOMAIN-SUFFIX,nikebiz.info
 DOMAIN-SUFFIX,nikebuy.com
 DOMAIN-SUFFIX,nikeby.com
 DOMAIN-SUFFIX,nikecdn.com
-DOMAIN-SUFFIX,nikecompany.com
-DOMAIN-SUFFIX,nikeconfluence.com
 DOMAIN-SUFFIX,nikechina.cn
 DOMAIN-SUFFIX,nikechosen.com
 DOMAIN-SUFFIX,nikecloud.com
 DOMAIN-SUFFIX,nikeclub.com
+DOMAIN-SUFFIX,nikecompany.com
+DOMAIN-SUFFIX,nikeconfluence.com
 DOMAIN-SUFFIX,nikecraft.com
 DOMAIN-SUFFIX,nikedawn.com
 DOMAIN-SUFFIX,nikedunks.net
@@ -127,8 +125,8 @@ DOMAIN-SUFFIX,nikelunarglide.com
 DOMAIN-SUFFIX,nikemall.cn
 DOMAIN-SUFFIX,nikemall.com.cn
 DOMAIN-SUFFIX,nikemarketing.com
-DOMAIN-SUFFIX,nikenews.com
 DOMAIN-SUFFIX,niken7.com
+DOMAIN-SUFFIX,nikenews.com
 DOMAIN-SUFFIX,nikeonlinestore.com
 DOMAIN-SUFFIX,nikeoutletstore.com
 DOMAIN-SUFFIX,nikeoutletstores.com
@@ -195,4 +193,4 @@ DOMAIN-SUFFIX,swoosh.tv
 DOMAIN-SUFFIX,thedailysnkr.com
 DOMAIN-SUFFIX,verygoodnike.com
 DOMAIN-SUFFIX,womensnikeshox.com
-DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e    #耐克.网店
+DOMAIN-SUFFIX,xn--74q035i.xn--hxt814e

@@ -1,37 +1,22 @@
-#include:ceno
+DOMAIN-SUFFIX,basilisk-browser.org
+DOMAIN-SUFFIX,brave.com
+DOMAIN-SUFFIX,bromite.org
+DOMAIN-SUFFIX,browser.kagi.com
 DOMAIN-SUFFIX,ceno.app
 DOMAIN-SUFFIX,censorship.no
-#end include:ceno
-#include:epicbrowser
+DOMAIN-SUFFIX,chrome
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,cromite.org
+DOMAIN-SUFFIX,decentr.net
+DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,epicbrowser.com
-#end include:epicbrowser
-#include:firefox
 DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,firefox-portal-detection.com
 DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firefox.hu
 DOMAIN-SUFFIX,firefoxtweetmachine.com
 DOMAIN-SUFFIX,firefoxusercontent.com
-
-DOMAIN,mozilla-ohttp.fastly-edge.com
-DOMAIN,mozilla.map.fastly.net
-#end include:firefox
-#include:torproject
-DOMAIN-SUFFIX,torproject.org
-#end include:torproject
-
-# chromium
-DOMAIN-SUFFIX,chrome
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromium.org
-
-DOMAIN-SUFFIX,basilisk-browser.org
-DOMAIN-SUFFIX,brave.com
-DOMAIN-SUFFIX,bromite.org
-DOMAIN-SUFFIX,browser.kagi.com    #Orion Browser
-DOMAIN-SUFFIX,cromite.org
-DOMAIN-SUFFIX,decentr.net
-DOMAIN-SUFFIX,dothq.org
 DOMAIN-SUFFIX,floorp.app
 DOMAIN-SUFFIX,iridiumbrowser.de
 DOMAIN-SUFFIX,kiwibrowser.com
@@ -43,6 +28,9 @@ DOMAIN-SUFFIX,opera.com
 DOMAIN-SUFFIX,palemoon.org
 DOMAIN-SUFFIX,pulsebrowser.app
 DOMAIN-SUFFIX,qutebrowser.org
+DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,waterfox.net
 DOMAIN-SUFFIX,zen-browser.app
+DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net

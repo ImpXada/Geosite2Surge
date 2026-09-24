@@ -1,11 +1,4 @@
-# Comprehensive TeX Archive Network
 DOMAIN-SUFFIX,ctan.org
-
-# LaTeX
 DOMAIN-SUFFIX,latex-project.org
-
-# MiKTeX
 DOMAIN-SUFFIX,miktex.org
-
-# TeX Users Group
 DOMAIN-SUFFIX,tug.org

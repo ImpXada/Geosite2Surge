@@ -1,15 +1,1 @@
-#include:osu
-# osu
-DOMAIN,a.ppy.sh
-DOMAIN,assets.ppy.sh
-DOMAIN,c.ppy.sh
-DOMAIN,osu.ppy.sh
-DOMAIN,m1.ppy.sh
-# osu lazer
-DOMAIN,lazer.ppy.sh
-DOMAIN,notify.ppy.sh
-DOMAIN,sentry.ppy.sh
-DOMAIN,spectator.ppy.sh
-#end include:osu
-
 DOMAIN-SUFFIX,ppy.sh

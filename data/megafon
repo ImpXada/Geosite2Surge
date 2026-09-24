@@ -5,10 +5,8 @@ DOMAIN-SUFFIX,megafonpro.ru
 DOMAIN-SUFFIX,mgfn.ru
 DOMAIN-SUFFIX,report-megafon.ru
 DOMAIN-SUFFIX,scartel.ru
+DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai
+DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai
+DOMAIN-SUFFIX,xn--80arpq.xn--p1ai
 DOMAIN-SUFFIX,yota.ru
 DOMAIN-SUFFIX,yotagamer.ru
-
-# IDN ccTLD
-DOMAIN-SUFFIX,xn--80a9a4b.xn--p1ai    #ёта.рф
-DOMAIN-SUFFIX,xn--80aj3b.xn--p1ai    #ета.рф
-DOMAIN-SUFFIX,xn--80arpq.xn--p1ai    #йота.рф

@@ -1,38 +1,21 @@
-# Reference: https://zh.wikipedia.org/wiki/%E4%B8%96%E7%95%8C%E8%8F%AF%E6%96%87%E5%AA%92%E9%AB%94
-
-# 世华媒体
-DOMAIN-SUFFIX,mediachinese.com
-
-# 星洲网
-DOMAIN-SUFFIX,mysinchew.com
-DOMAIN-SUFFIX,sinchew.com.my
-DOMAIN-SUFFIX,sinchew.my
-DOMAIN-SUFFIX,soccerfanz.com.my
-
-# 南洋商报
-DOMAIN-SUFFIX,enanyang.my
-
-# 中国报
 DOMAIN-SUFFIX,chinapress.com.my
-
-# 光明日报
+DOMAIN-SUFFIX,enanyang.my
 DOMAIN-SUFFIX,guangming.com.my
-
-# 明报
+DOMAIN-SUFFIX,mediachinese.com
 DOMAIN-SUFFIX,mingpao.com
 DOMAIN-SUFFIX,mingpaocanada.com
 DOMAIN-SUFFIX,mingpaomonthly.com
 DOMAIN-SUFFIX,mingpaotor.com
 DOMAIN-SUFFIX,mingpaovan.com
+DOMAIN-SUFFIX,mings-fashion.com
+DOMAIN-SUFFIX,mings.hk
 DOMAIN-SUFFIX,mingshengbao.com
 DOMAIN-SUFFIX,mingwatch.com
 DOMAIN-SUFFIX,mpfinance.com
 DOMAIN-SUFFIX,mpweekly.com
-
-# 亚洲周刊
-DOMAIN-SUFFIX,yzzk.com
-
-# 万华媒体
+DOMAIN-SUFFIX,mysinchew.com
 DOMAIN-SUFFIX,omghk.com
-DOMAIN-SUFFIX,mings.hk
-DOMAIN-SUFFIX,mings-fashion.com
+DOMAIN-SUFFIX,sinchew.com.my
+DOMAIN-SUFFIX,sinchew.my
+DOMAIN-SUFFIX,soccerfanz.com.my
+DOMAIN-SUFFIX,yzzk.com

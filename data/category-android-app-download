@@ -1,17 +1,11 @@
 DOMAIN-SUFFIX,apkcombo.com
-#end include:apkcombo
 DOMAIN-SUFFIX,apkmirror.com
-
-DOMAIN,apkmirror.disqus.com
-#end include:apkmirror
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkpure.net
 DOMAIN-SUFFIX,apkpures.xyz
 DOMAIN-SUFFIX,cdnpure.com
 DOMAIN-SUFFIX,pureapk.com
-DOMAIN-SUFFIX,winudf.com
-#end include:apkpure
-
-# Uptodown
 DOMAIN-SUFFIX,uptodown.com
 DOMAIN-SUFFIX,utdstc.com
+DOMAIN-SUFFIX,winudf.com
+DOMAIN,apkmirror.disqus.com

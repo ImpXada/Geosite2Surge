@@ -1,4 +1,3 @@
-#include:ngrok
 DOMAIN-SUFFIX,equinox.io
 DOMAIN-SUFFIX,ngrok-agent.com
 DOMAIN-SUFFIX,ngrok-free.app
@@ -10,13 +9,8 @@ DOMAIN-SUFFIX,ngrok.dev
 DOMAIN-SUFFIX,ngrok.io
 DOMAIN-SUFFIX,ngrok.pizza
 DOMAIN-SUFFIX,ngrok.pro
-#end include:ngrok
-#include:pinggy
 DOMAIN-SUFFIX,pinggy.io
 DOMAIN-SUFFIX,pinggy.link
-#end include:pinggy
-#include:tailscale
 DOMAIN-SUFFIX,tailscale.com
 DOMAIN-SUFFIX,tailscale.io
 DOMAIN-SUFFIX,ts.net
-#end include:tailscale

@@ -1,28 +1,3 @@
-DOMAIN-SUFFIX,ixbt.com    #Independent online publication about technology
-DOMAIN-SUFFIX,ixbt.games    #Russian website about computer and mobile games and digital technologies
-DOMAIN-SUFFIX,ixbt.pro    #Everything about business in the IT
-DOMAIN-SUFFIX,ixbt.ru    #Media about digital technologies
-DOMAIN-SUFFIX,ixbt.market    #Media about the information technology market
-DOMAIN-SUFFIX,ixbt.media    #Information about the media group IXBT
-DOMAIN-SUFFIX,ixbt.shop    #IXBT`s merch
-DOMAIN-SUFFIX,ixbt.site
-DOMAIN-SUFFIX,ixbt.video    #Videos by IXBT
-#end include:ixbt
-# Media about digital and information technologies
-DOMAIN-SUFFIX,ovcl.ru
-DOMAIN-SUFFIX,overclockers.ru
-DOMAIN-SUFFIX,overclock.ru
-DOMAIN-SUFFIX,overclocker.ru
-DOMAIN-SUFFIX,overclocking.ru
-DOMAIN-SUFFIX,overi.ru
-DOMAIN-SUFFIX,xn--80AGLFYFK.xn--p1ai
-DOMAIN-SUFFIX,xn--80aglzei.xn--p1ai
-DOMAIN-SUFFIX,xn--b1agatafrepfl.xn--p1ai
-DOMAIN-SUFFIX,xn--b1agpaeoen.xn--p1ai
-DOMAIN-SUFFIX,xn--b1agzk.xn--p1ai
-DOMAIN-SUFFIX,xn--b1agzk9c.xn--p1ai
-#end include:overclockers-ru
-
 DOMAIN-SUFFIX,3dnews.ru
 DOMAIN-SUFFIX,cnconf.ru
 DOMAIN-SUFFIX,cnews.ru
@@ -32,7 +7,28 @@ DOMAIN-SUFFIX,ferra.ru
 DOMAIN-SUFFIX,hacksoft.ru
 DOMAIN-SUFFIX,hardware.ru
 DOMAIN-SUFFIX,iguides.ru
+DOMAIN-SUFFIX,ixbt.com
+DOMAIN-SUFFIX,ixbt.games
+DOMAIN-SUFFIX,ixbt.market
+DOMAIN-SUFFIX,ixbt.media
+DOMAIN-SUFFIX,ixbt.pro
+DOMAIN-SUFFIX,ixbt.ru
+DOMAIN-SUFFIX,ixbt.shop
+DOMAIN-SUFFIX,ixbt.site
+DOMAIN-SUFFIX,ixbt.video
 DOMAIN-SUFFIX,kod.ru
+DOMAIN-SUFFIX,ovcl.ru
+DOMAIN-SUFFIX,overclock.ru
+DOMAIN-SUFFIX,overclocker.ru
+DOMAIN-SUFFIX,overclockers.ru
+DOMAIN-SUFFIX,overclocking.ru
+DOMAIN-SUFFIX,overi.ru
 DOMAIN-SUFFIX,seclab.lat
 DOMAIN-SUFFIX,securitylab.ru
 DOMAIN-SUFFIX,servernews.ru
+DOMAIN-SUFFIX,xn--80aglfyfk.xn--p1ai
+DOMAIN-SUFFIX,xn--80aglzei.xn--p1ai
+DOMAIN-SUFFIX,xn--b1agatafrepfl.xn--p1ai
+DOMAIN-SUFFIX,xn--b1agpaeoen.xn--p1ai
+DOMAIN-SUFFIX,xn--b1agzk.xn--p1ai
+DOMAIN-SUFFIX,xn--b1agzk9c.xn--p1ai

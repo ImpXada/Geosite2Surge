@@ -7,6 +7,4 @@ DOMAIN-SUFFIX,mcr.microsoft.com
 DOMAIN-SUFFIX,quay.io
 DOMAIN-SUFFIX,registry.gitlab.com
 DOMAIN-SUFFIX,registry.k8s.io
-
-
-DOMAIN-WILDCARD,*.dkr.ecr.*.amazonaws.com
+DOMAIN-WILDCARD,*.dkr.ecr.?*.amazonaws.com

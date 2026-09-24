@@ -1,95 +1,88 @@
-# This tag 'lark' is for backward compatibility
-
-#include:feishu
-DOMAIN-SUFFIX,anycross.com    #京ICP备16045432号-56 飞书Anycross
-DOMAIN-SUFFIX,blmpb.com    #京ICP备16045432号-76 北京飞书
-DOMAIN-SUFFIX,bytedancehermestest.com    #京ICP备16045432号-77 飞书报销邮箱静态资源
-DOMAIN-SUFFIX,falconsending.com    #京ICP备16045432号-78 飞书科技
-DOMAIN-SUFFIX,fei-shu.cn    #京ICP备16045432号-9
-DOMAIN-SUFFIX,feishu-3rd-party-services.com    #京ICP备16045432号-47
-DOMAIN-SUFFIX,feishu-boe.net    #京ICP备16045432号-74
-DOMAIN-SUFFIX,feishu-customer.cn    #京ICP备16045432号-75
-DOMAIN-SUFFIX,feishu-pre.cn    #京ICP备16045432号-13
-DOMAIN-SUFFIX,feishu-pre.net    #京ICP备16045432号-72
-DOMAIN-SUFFIX,feishu-psc.cn    #京ICP备16045432号-73
-DOMAIN-SUFFIX,feishu-staging.cn    #京ICP备16045432号-8
-DOMAIN-SUFFIX,feishu.cn    #京ICP备16045432号-4
-DOMAIN-SUFFIX,feishu.net    #京ICP备16045432号-71
-DOMAIN-SUFFIX,feishuapp-cdn.net    #京ICP备16045432号-67
-DOMAIN-SUFFIX,feishuapp.cn    #京ICP备16045432号-58
-DOMAIN-SUFFIX,feishuapp.com    #京ICP备16045432号-68
-DOMAIN-SUFFIX,feishucdn.com    #京ICP备16045432号-46
-DOMAIN-SUFFIX,feishudoc.cn    #京ICP备16045432号-36
-DOMAIN-SUFFIX,feishudoc.com    #京ICP备16045432号-40
-DOMAIN-SUFFIX,feishuhuiyi.cn    #京ICP备16045432号-26
-DOMAIN-SUFFIX,feishuhuiyi.com    #京ICP备16045432号-27
-DOMAIN-SUFFIX,feishuimg-boe.com    #京ICP备16045432号-59
-DOMAIN-SUFFIX,feishuimg-pre.com    #京ICP备16045432号-60
-DOMAIN-SUFFIX,feishuimg.com    #京ICP备16045432号-65
-DOMAIN-SUFFIX,feishukacdn.com    #京ICP备16045432号-53
-DOMAIN-SUFFIX,feishumeetings.cn    #京ICP备16045432号-28
-DOMAIN-SUFFIX,feishumeetings.com    #京ICP备16045432号-29
-DOMAIN-SUFFIX,feishuoffice.cn    #京ICP备16045432号-37
-DOMAIN-SUFFIX,feishuoffice.com    #京ICP备16045432号-39
-DOMAIN-SUFFIX,feishuopenplatformrecord.com    #京ICP备16045432号-146
-DOMAIN-SUFFIX,feishupkg.com    #京ICP备16045432号-66
-DOMAIN-SUFFIX,feishustatus.cn    #京ICP备16045432号-7
-DOMAIN-SUFFIX,feishuvc.cn    #京ICP备16045432号-34
-DOMAIN-SUFFIX,feishuvc.com    #京ICP备16045432号-25
-DOMAIN-SUFFIX,getfeishu.cn    #京ICP备16045432号-12
-DOMAIN-SUFFIX,getfeishu.com    #京ICP备16045432号-6
-DOMAIN-SUFFIX,getsays.cn    #京ICP备16045432号-48 飞书说
+DOMAIN-SUFFIX,anycross.com
+DOMAIN-SUFFIX,baseopendev.com
+DOMAIN-SUFFIX,blmpb.com
+DOMAIN-SUFFIX,bytecloud.com
+DOMAIN-SUFFIX,bytedancehermestest.com
+DOMAIN-SUFFIX,byteoc.com
+DOMAIN-SUFFIX,bytewebservice.com
+DOMAIN-SUFFIX,bytexns.cn
+DOMAIN-SUFFIX,bytexns.com
+DOMAIN-SUFFIX,bytexns.net
+DOMAIN-SUFFIX,bytexopen.com
+DOMAIN-SUFFIX,bytexservice.com
+DOMAIN-SUFFIX,falconsending.com
+DOMAIN-SUFFIX,fei-shu.cn
+DOMAIN-SUFFIX,feishu-3rd-party-services.com
+DOMAIN-SUFFIX,feishu-boe.net
+DOMAIN-SUFFIX,feishu-customer.cn
+DOMAIN-SUFFIX,feishu-pre.cn
+DOMAIN-SUFFIX,feishu-pre.net
+DOMAIN-SUFFIX,feishu-psc.cn
+DOMAIN-SUFFIX,feishu-staging.cn
+DOMAIN-SUFFIX,feishu.cn
+DOMAIN-SUFFIX,feishu.net
+DOMAIN-SUFFIX,feishuapp-cdn.net
+DOMAIN-SUFFIX,feishuapp.cn
+DOMAIN-SUFFIX,feishuapp.com
+DOMAIN-SUFFIX,feishucdn.com
+DOMAIN-SUFFIX,feishudoc.cn
+DOMAIN-SUFFIX,feishudoc.com
+DOMAIN-SUFFIX,feishuhuiyi.cn
+DOMAIN-SUFFIX,feishuhuiyi.com
+DOMAIN-SUFFIX,feishuimg-boe.com
+DOMAIN-SUFFIX,feishuimg-pre.com
+DOMAIN-SUFFIX,feishuimg.com
+DOMAIN-SUFFIX,feishukacdn.com
+DOMAIN-SUFFIX,feishumeetings.cn
+DOMAIN-SUFFIX,feishumeetings.com
+DOMAIN-SUFFIX,feishuoffice.cn
+DOMAIN-SUFFIX,feishuoffice.com
+DOMAIN-SUFFIX,feishuopenplatformrecord.com
+DOMAIN-SUFFIX,feishupkg.com
+DOMAIN-SUFFIX,feishustatus.cn
+DOMAIN-SUFFIX,feishuvc.cn
+DOMAIN-SUFFIX,feishuvc.com
+DOMAIN-SUFFIX,frontier-lark-lb-v3.lf.bytelb.net
+DOMAIN-SUFFIX,getfeishu.cn
+DOMAIN-SUFFIX,getfeishu.com
+DOMAIN-SUFFIX,getsays.cn
 DOMAIN-SUFFIX,getsays.com
-DOMAIN-SUFFIX,lackvc.cn    #京ICP备16045432号-30 飞书会议
-DOMAIN-SUFFIX,securityfeishu.cn    #京ICP备16045432号-55 飞书链接重定向专用 详情更新
-DOMAIN-SUFFIX,securityfs.cn    #京ICP备16045432号-54 飞书链接重定向专用
-DOMAIN-SUFFIX,statusfeishu.cn    #京ICP备16045432号-10 飞书
-#end include:feishu
-#include:lark-global
-DOMAIN-SUFFIX,frontier-lark-lb-v3.lf.bytelb.net    #京ICP备12025439号-121 字节负载均衡
-DOMAIN-SUFFIX,lark-passport-qa-sg.net    #京ICP备16045432号-69 QA测试使用域名
-DOMAIN-SUFFIX,lark.cn    #京ICP备16045432号-11 飞书
-DOMAIN-SUFFIX,larkcloud.com    #京ICP备16045432号-16 LarkCloud
-DOMAIN-SUFFIX,larkcloud.net    #京ICP备16045432号-18 LarkCloud
-DOMAIN-SUFFIX,larkfn.com    #京ICP备16045432号-19 LarkCloud
-DOMAIN-SUFFIX,larkmeetings.cn    #京ICP备16045432号-24 飞书会议
-DOMAIN-SUFFIX,larkmeetings.com    #京ICP备16045432号-35 飞书会议
-DOMAIN-SUFFIX,larkoffice.com    #京ICP备16045432号-38 飞书文档
-DOMAIN-SUFFIX,larkoffice.com.bytedns1.com    #京ICP备12025439号-38 字节跳动CDN管理系统
-DOMAIN-SUFFIX,larkofficeapp-boe.com    #京ICP备16045432号-144 飞书应用引擎
-DOMAIN-SUFFIX,larkofficeapp-pre.com    #京ICP备16045432号-145 飞书应用引擎
-DOMAIN-SUFFIX,larkofficeapp.com    #京ICP备16045432号-143 飞书应用引擎
-DOMAIN-SUFFIX,larkofficeboe.com    #京ICP备16045432号-137 飞书科技
-DOMAIN-SUFFIX,larkofficecdn.com    #京ICP备16045432号-140 飞书科技
-DOMAIN-SUFFIX,larkofficeimg.com    #京ICP备16045432号-139 飞书图片API
-DOMAIN-SUFFIX,larkofficepkg.com    #京ICP备16045432号-138 飞书离线包下载
-DOMAIN-SUFFIX,larkofficepre.com    #京ICP备16045432号-142 飞书科技
-DOMAIN-SUFFIX,larkrooms.cn    #京ICP备16045432号-33 飞书会议
-DOMAIN-SUFFIX,larkrooms.com    #京ICP备16045432号-32 飞书会议
-DOMAIN-SUFFIX,larksuite-pre.com    #京ICP备16045432号-64 飞书图片API
-DOMAIN-SUFFIX,larksuite.com    #京ICP备16045432号-3 lark
+DOMAIN-SUFFIX,lackvc.cn
+DOMAIN-SUFFIX,lark-passport-qa-sg.net
+DOMAIN-SUFFIX,lark.cn
+DOMAIN-SUFFIX,larkcloud.com
+DOMAIN-SUFFIX,larkcloud.net
+DOMAIN-SUFFIX,larkfn.com
+DOMAIN-SUFFIX,larkmeetings.cn
+DOMAIN-SUFFIX,larkmeetings.com
+DOMAIN-SUFFIX,larkoffice.com
+DOMAIN-SUFFIX,larkoffice.com.bytedns1.com
+DOMAIN-SUFFIX,larkofficeapp-boe.com
+DOMAIN-SUFFIX,larkofficeapp-pre.com
+DOMAIN-SUFFIX,larkofficeapp.com
+DOMAIN-SUFFIX,larkofficeboe.com
+DOMAIN-SUFFIX,larkofficecdn.com
+DOMAIN-SUFFIX,larkofficeimg.com
+DOMAIN-SUFFIX,larkofficepkg.com
+DOMAIN-SUFFIX,larkofficepre.com
+DOMAIN-SUFFIX,larkrooms.cn
+DOMAIN-SUFFIX,larkrooms.com
+DOMAIN-SUFFIX,larksuite-pre.com
+DOMAIN-SUFFIX,larksuite.com
 DOMAIN-SUFFIX,larksuite.com.ttdns1.com
 DOMAIN-SUFFIX,larksuite.com.ttdns2.com
-DOMAIN-SUFFIX,larksuitecdn.com    #京ICP备16045432号-45 Larksuite
-DOMAIN-SUFFIX,larksuiteimg-boe.com    #京ICP备16045432号-62 飞书图片API 详情更新
-DOMAIN-SUFFIX,larksuiteimg-pre.com    #京ICP备16045432号-63 飞书图片API 详情更新
-DOMAIN-SUFFIX,larksuiteimg.com    #京ICP备16045432号-61 飞书图片API
-DOMAIN-SUFFIX,larkvc.com    #京ICP备16045432号-31 飞书会议
-DOMAIN-SUFFIX,statuslarkoffice.com    #京ICP备16045432号-141 飞书科技
-DOMAIN-SUFFIX,thelarkcloud.com    #京ICP备16045432号-17 LarkCloud
-#end include:lark-global
-
-DOMAIN-SUFFIX,baseopendev.com    #京ICP备16045432号-79 多维表格开放中心
-DOMAIN-SUFFIX,bytecloud.com    #京ICP备16045432号-23 视频云开放平台
-DOMAIN-SUFFIX,byteoc.com    #京ICP备16045432号-41 企业服务平台
-DOMAIN-SUFFIX,bytewebservice.com    #京ICP备16045432号-42 企业服务平台
-DOMAIN-SUFFIX,bytexns.cn    #京ICP备16045432号-20 视频云开放平台
-DOMAIN-SUFFIX,bytexns.com    #京ICP备16045432号-21 视频云开放平台
-DOMAIN-SUFFIX,bytexns.net    #京ICP备16045432号-22 视频云开放平台
-DOMAIN-SUFFIX,bytexopen.com    #京ICP备16045432号-43 企业服务平台
-DOMAIN-SUFFIX,bytexservice.com    #京ICP备16045432号-44 企业服务平台
-DOMAIN-SUFFIX,meegobeta.com    #京ICP备16045432号-162 Meego产品Beta测试
-DOMAIN-SUFFIX,okr.cn    #京ICP备16045432号-52 OKR网站
-DOMAIN-SUFFIX,okr.com    #京ICP备16045432号-51 OKR网站
-DOMAIN-SUFFIX,okr.com.cn    #京ICP备16045432号-50 OKR网站
-DOMAIN-SUFFIX,vscenevideo.com    #京ICP备16045432号-1 北京维境视讯信息技术有限公司网站
+DOMAIN-SUFFIX,larksuitecdn.com
+DOMAIN-SUFFIX,larksuiteimg-boe.com
+DOMAIN-SUFFIX,larksuiteimg-pre.com
+DOMAIN-SUFFIX,larksuiteimg.com
+DOMAIN-SUFFIX,larkvc.com
+DOMAIN-SUFFIX,meegobeta.com
+DOMAIN-SUFFIX,okr.cn
+DOMAIN-SUFFIX,okr.com
+DOMAIN-SUFFIX,okr.com.cn
+DOMAIN-SUFFIX,securityfeishu.cn
+DOMAIN-SUFFIX,securityfs.cn
+DOMAIN-SUFFIX,statusfeishu.cn
+DOMAIN-SUFFIX,statuslarkoffice.com
+DOMAIN-SUFFIX,thelarkcloud.com
+DOMAIN-SUFFIX,vscenevideo.com

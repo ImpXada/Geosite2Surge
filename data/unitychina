@@ -1,14 +1,4 @@
-# 优三缔 / 优美缔 / 团结引擎
 DOMAIN-SUFFIX,u3d.cn
 DOMAIN-SUFFIX,unity.cn
-DOMAIN-SUFFIX,unitychina.cn
-
-# 上海蓝云网络科技有限公司 (世纪互联)
 DOMAIN-SUFFIX,unity3dcloud.cn
-
-# Ads/tracking
-DOMAIN-SUFFIX,ads.unitychina.cn
-DOMAIN-SUFFIX,splash-ads.cdn.unity.cn
-DOMAIN-SUFFIX,splash-ads.unitychina.cn
-DOMAIN-SUFFIX,unityads.unity.cn
-DOMAIN-SUFFIX,unityads.unitychina.cn
+DOMAIN-SUFFIX,unitychina.cn

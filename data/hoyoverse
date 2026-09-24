@@ -1,26 +1,8 @@
-# 原神
 DOMAIN-SUFFIX,genshinimpact.com
-
-# 崩壞3
 DOMAIN-SUFFIX,honkaiimpact3.com
-
-# 星穹鐵道
 DOMAIN-SUFFIX,honkaistarrail.com
-
-# 短網址
 DOMAIN-SUFFIX,hoyo.link
-
-# HoYoLab
 DOMAIN-SUFFIX,hoyolab.com
-
-# HoYoverse
 DOMAIN-SUFFIX,hoyoverse.com
-
-# n0va
 DOMAIN-SUFFIX,n0vadesktop.com
-
-# 絕區零(Zenless Zone Zero)
 DOMAIN-SUFFIX,zenlesszonezero.com
-
-# ads/tracking
-DOMAIN-SUFFIX,log-upload-os.hoyoverse.com

@@ -1,13 +1,7 @@
-# Dola, formly ciciai, an AI service of bytedance
 DOMAIN-SUFFIX,cici.com
 DOMAIN-SUFFIX,ciciai.com
 DOMAIN-SUFFIX,ciciaicdn.com
-DOMAIN-SUFFIX,dola.com
-#end include:dola
-
-# related to doubao
 DOMAIN-SUFFIX,coze.com
-
-# related to trae
+DOMAIN-SUFFIX,dola.com
 DOMAIN-SUFFIX,marscode.com
 DOMAIN-SUFFIX,trae.ai

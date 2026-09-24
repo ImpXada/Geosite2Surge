@@ -1,31 +1,20 @@
-# This list contains scholarly domains that in UK
-
-#include:cambridge
-DOMAIN-SUFFIX,cam.ac.uk
-DOMAIN-SUFFIX,cambridge.org
-DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
-DOMAIN-SUFFIX,cambridgedigital.net
-DOMAIN-SUFFIX,cambridgemaths.org
-DOMAIN-SUFFIX,ccdc.cam.ac.uk    #The Cambridge Structural Database
-DOMAIN-SUFFIX,dlib.eastview.com    #Cambridge Archive Editions Online 剑桥档案编研
-#end include:cambridge
-#include:imperialcollege
-DOMAIN-SUFFIX,ic.ac.uk
-DOMAIN-SUFFIX,imperial.ac.uk
-DOMAIN-SUFFIX,imperialbusiness.school
-
-DOMAIN,imperial.insendi.com
-#end include:imperialcollege
-#include:oup
+DOMAIN-SUFFIX,ac.uk
 DOMAIN-SUFFIX,amamanualofstyle.com
 DOMAIN-SUFFIX,anb.org
 DOMAIN-SUFFIX,blackstonespoliceservice.com
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,cambridgedigital.net
+DOMAIN-SUFFIX,cambridgemaths.org
+DOMAIN-SUFFIX,cambridgeschoolshakespeare.com
+DOMAIN-SUFFIX,dlib.eastview.com
 DOMAIN-SUFFIX,epigeum.com
+DOMAIN-SUFFIX,imperialbusiness.school
+DOMAIN-SUFFIX,livinno.org
 DOMAIN-SUFFIX,oed.com
 DOMAIN-SUFFIX,omscr.com
+DOMAIN-SUFFIX,opac-project.eu
 DOMAIN-SUFFIX,oup.com
 DOMAIN-SUFFIX,ouplaw.com
-DOMAIN-SUFFIX,ox.ac.uk
 DOMAIN-SUFFIX,oxfordaasc.com
 DOMAIN-SUFFIX,oxfordartonline.com
 DOMAIN-SUFFIX,oxfordbibliographies.com
@@ -46,15 +35,4 @@ DOMAIN-SUFFIX,sipriyearbook.org
 DOMAIN-SUFFIX,ukwhoswho.com
 DOMAIN-SUFFIX,universitypressscholarship.com
 DOMAIN-SUFFIX,veryshortintroductions.com
-#end include:oup
-#include:uoliv
-# University of liverpool
-DOMAIN-SUFFIX,liv.ac.uk
-DOMAIN-SUFFIX,liverpool.ac.uk
-DOMAIN-SUFFIX,livinno.org
-DOMAIN-SUFFIX,opac-project.eu
-#end include:uoliv
-
-# https://iridis.uk/ac-uk-domain-registration/
-# https://community.jisc.ac.uk/library/janet-services-documentation/terms-and-conditions-acuk
-DOMAIN-SUFFIX,ac.uk
+DOMAIN,imperial.insendi.com

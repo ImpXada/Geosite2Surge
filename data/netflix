@@ -2,18 +2,9 @@ DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,netflixinvestor.com
-DOMAIN-SUFFIX,netflixtechblog.com
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflxsearch.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflxvideo.net
-
-# DNS test
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
+DOMAIN-SUFFIX,netflixdnstest10.com
 DOMAIN-SUFFIX,netflixdnstest2.com
 DOMAIN-SUFFIX,netflixdnstest3.com
 DOMAIN-SUFFIX,netflixdnstest4.com
@@ -22,13 +13,20 @@ DOMAIN-SUFFIX,netflixdnstest6.com
 DOMAIN-SUFFIX,netflixdnstest7.com
 DOMAIN-SUFFIX,netflixdnstest8.com
 DOMAIN-SUFFIX,netflixdnstest9.com
-DOMAIN-SUFFIX,netflixdnstest10.com
-
-# regular expression
-DOMAIN-WILDCARD,*apiproxy-device-prod-nlb-*.amazonaws.com
-DOMAIN-WILDCARD,*apiproxy-website-nlb-prod-*.amazonaws.com
-DOMAIN-WILDCARD,*dualstack.apiproxy-*.amazonaws.com
-DOMAIN-WILDCARD,*dualstack.ichnaea-web-*.amazonaws.com
-
-# Full
+DOMAIN-SUFFIX,netflixinvestor.com
+DOMAIN-SUFFIX,netflixtechblog.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN,netflix.com.edgesuite.net
+DOMAIN-WILDCARD,apiproxy-device-prod-nlb-?*.amazonaws.com
+DOMAIN-WILDCARD,*.apiproxy-device-prod-nlb-?*.amazonaws.com
+DOMAIN-WILDCARD,apiproxy-website-nlb-prod-?*.amazonaws.com
+DOMAIN-WILDCARD,*.apiproxy-website-nlb-prod-?*.amazonaws.com
+DOMAIN-WILDCARD,dualstack.apiproxy-?*.amazonaws.com
+DOMAIN-WILDCARD,*.dualstack.apiproxy-?*.amazonaws.com
+DOMAIN-WILDCARD,dualstack.ichnaea-web-?*.amazonaws.com
+DOMAIN-WILDCARD,*.dualstack.ichnaea-web-?*.amazonaws.com

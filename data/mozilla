@@ -1,37 +1,16 @@
-# https://wiki.mozilla.org/Websites/Domain_List/Mozilla_Owned
-# https://support.mozilla.org/fr/questions/1352614
-
-#include:firefox
-DOMAIN-SUFFIX,extendfirefox.com
-DOMAIN-SUFFIX,firefox-portal-detection.com
-DOMAIN-SUFFIX,firefox.com
-DOMAIN-SUFFIX,firefox.hu
-DOMAIN-SUFFIX,firefoxtweetmachine.com
-DOMAIN-SUFFIX,firefoxusercontent.com
-
-DOMAIN,mozilla-ohttp.fastly-edge.com
-DOMAIN,mozilla.map.fastly.net
-#end include:firefox
-#include:mdn
-DOMAIN-SUFFIX,developer.allizom.org
-DOMAIN-SUFFIX,developer.mozilla.org
-DOMAIN-SUFFIX,mdn.allizom.net
-DOMAIN-SUFFIX,mdn.dev
-DOMAIN-SUFFIX,mdn.mozilla.net
-DOMAIN-SUFFIX,mdn.mozit.cloud
-DOMAIN-SUFFIX,mdnplay.dev
-DOMAIN-SUFFIX,mdnyalp.dev
-
-DOMAIN,mdn.mozillademos.org
-#end include:mdn
-
 DOMAIN-SUFFIX,allizom.net
 DOMAIN-SUFFIX,allizom.org
 DOMAIN-SUFFIX,bugzilla.org
 DOMAIN-SUFFIX,detodosparatodos.org
 DOMAIN-SUFFIX,discovershiretoko.org
 DOMAIN-SUFFIX,ecmascript.org
+DOMAIN-SUFFIX,extendfirefox.com
 DOMAIN-SUFFIX,extensionworkshop.com
+DOMAIN-SUFFIX,firefox-portal-detection.com
+DOMAIN-SUFFIX,firefox.com
+DOMAIN-SUFFIX,firefox.hu
+DOMAIN-SUFFIX,firefoxtweetmachine.com
+DOMAIN-SUFFIX,firefoxusercontent.com
 DOMAIN-SUFFIX,foxkeh.com
 DOMAIN-SUFFIX,foxkeh.jp
 DOMAIN-SUFFIX,getfirebug.com
@@ -42,6 +21,9 @@ DOMAIN-SUFFIX,interforest.org
 DOMAIN-SUFFIX,itisatrap.org
 DOMAIN-SUFFIX,learningfreedomandtheweb.org
 DOMAIN-SUFFIX,lizardwrangler.com
+DOMAIN-SUFFIX,mdn.dev
+DOMAIN-SUFFIX,mdnplay.dev
+DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN-SUFFIX,mecha-mozilla.org
 DOMAIN-SUFFIX,mozaws.net
 DOMAIN-SUFFIX,mozgcp.net
@@ -81,9 +63,5 @@ DOMAIN-SUFFIX,tb.pro
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,thundermail.com
 DOMAIN-SUFFIX,webmademovies.org
-
-# Ads/tracking
-DOMAIN,ads-img.mozilla.org
-DOMAIN,ads.mozilla.org
-DOMAIN,incoming.telemetry.mozilla.org
-DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,mozilla-ohttp.fastly-edge.com
+DOMAIN,mozilla.map.fastly.net
