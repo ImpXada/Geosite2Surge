@@ -986,6 +986,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | nexitally | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nexitally |
 | nexo | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nexo |
 | nexon | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nexon |
+| nexusmods | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nexusmods |
 | nga | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nga |
 | nginx | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/nginx |
 | ngrok | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ngrok |
