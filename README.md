@@ -1320,6 +1320,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | ted | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ted |
 | telegram | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/telegram |
 | telekom | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/telekom |
+| telemetry | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/telemetry |
 | temp-mail | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/temp-mail |
 | tencent | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tencent |
 | tencent-dev | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/tencent-dev |
