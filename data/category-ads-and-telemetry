@@ -224,6 +224,7 @@ DOMAIN-SUFFIX,c-adash.m.taobao.com
 DOMAIN-SUFFIX,c-nfa.jd.com
 DOMAIN-SUFFIX,c.sayhi.360.cn
 DOMAIN-SUFFIX,c.uaa.iqiyi.com
+DOMAIN-SUFFIX,cafe.github.com
 DOMAIN-SUFFIX,cb.baidu.com
 DOMAIN-SUFFIX,cbjs.baidu.com
 DOMAIN-SUFFIX,ccs.umeng.com
@@ -247,6 +248,7 @@ DOMAIN-SUFFIX,cm.baidu.com
 DOMAIN-SUFFIX,cnaa123.com
 DOMAIN-SUFFIX,cnlogs.umeng.com
 DOMAIN-SUFFIX,cnlogs.umengcloud.com
+DOMAIN-SUFFIX,collector.github.com
 DOMAIN-SUFFIX,collector.xhamster.com
 DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
 DOMAIN-SUFFIX,contentabc.com
@@ -762,9 +764,13 @@ DOMAIN,clck.yandex.com
 DOMAIN,clck.yandex.net
 DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
 DOMAIN,disney.my.sentry.io
 DOMAIN,error-tracking.megamarket.tech
 DOMAIN,google-analytics-suite.ozon.ru
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,log.strm.yandex.ru
