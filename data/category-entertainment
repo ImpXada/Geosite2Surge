@@ -109,7 +109,6 @@ DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,artstationmedia.com
 DOMAIN-SUFFIX,artstorm.com
-DOMAIN-SUFFIX,asobostudio.com
 DOMAIN-SUFFIX,att.tv
 DOMAIN-SUFFIX,atttvnow.com
 DOMAIN-SUFFIX,attwatchtv.com
@@ -496,7 +495,6 @@ DOMAIN-SUFFIX,fireemblemawakening.com
 DOMAIN-SUFFIX,fireside.fm
 DOMAIN-SUFFIX,firesidegatherings.com
 DOMAIN-SUFFIX,fitgirl-repacks.site
-DOMAIN-SUFFIX,flightsimulator.com
 DOMAIN-SUFFIX,flipnotestudio.com
 DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,formula1.com
@@ -1182,6 +1180,7 @@ DOMAIN-SUFFIX,protondb.com
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,ptzwx.com
 DOMAIN-SUFFIX,pubg.com
+DOMAIN-SUFFIX,pv-cdn.net
 DOMAIN-SUFFIX,pvp.net
 DOMAIN-SUFFIX,pvp.tv
 DOMAIN-SUFFIX,pvzgw2.com
@@ -1935,7 +1934,6 @@ DOMAIN,espn.hb.omtrdc.net
 DOMAIN,espndotcom.tt.omtrdc.net
 DOMAIN,f3b7q2p3.ssl.hwcdn.net
 DOMAIN,favoritescc-hamivideo2.cdn.hinet.net
-DOMAIN,flightsimulator.azureedge.net
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
