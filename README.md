@@ -166,6 +166,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | bitauto | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bitauto |
 | bitflyer | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bitflyer |
 | bitly | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bitly |
+| bitrix | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bitrix |
 | bitsquare | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bitsquare |
 | bitwarden | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bitwarden |
 | bjyouth | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/bjyouth |

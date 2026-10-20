@@ -7649,6 +7649,7 @@ DOMAIN,init-p01st-lb.push-apple.com.akadns.net
 DOMAIN,init-s01st-lb.push-apple.com.akadns.net
 DOMAIN,init.gc-lb.apple.com.akadns.net
 DOMAIN,iphone-ld.origin-apple.com.akadns.net
+DOMAIN,kp-config-smart-tv.akamaized.net
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mozilla-ohttp.fastly-edge.com
