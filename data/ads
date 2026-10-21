@@ -604,6 +604,8 @@ DOMAIN-SUFFIX,tcbox.baidu.com
 DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,tdsdk.cpatrk.net
+DOMAIN-SUFFIX,terratraf.com
+DOMAIN-SUFFIX,terratraf.io
 DOMAIN-SUFFIX,testads.api.my7v.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,tjqonline.cn
@@ -767,6 +769,7 @@ DOMAIN,metrics.21-school.ru
 DOMAIN,metrika.kontur.ru
 DOMAIN,new-adv.ozon.ru
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,o33249.ingest.us.sentry.io
 DOMAIN,o4504926511693824.ingest.sentry.io
 DOMAIN,openai.qualtrics.com
 DOMAIN,p3-ad-sign.byteimg.com

@@ -572,6 +572,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | flowus | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/flowus |
 | flowwow | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/flowwow |
 | flutter | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/flutter |
+| fluxer | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/fluxer |
 | flyio | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/flyio |
 | focuschina | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/focuschina |
 | fonbet | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/fonbet |
