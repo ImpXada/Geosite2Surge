@@ -348,6 +348,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | cctv | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/cctv |
 | cdek | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/cdek |
 | cdn77 | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/cdn77 |
+| cdprojekt | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/cdprojekt |
 | ceno | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ceno |
 | cerebras | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/cerebras |
 | cern | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/cern |
