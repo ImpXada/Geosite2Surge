@@ -970,6 +970,7 @@ DOMAIN-SUFFIX,nentindo.net
 DOMAIN-SUFFIX,neoforged.net
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -1355,6 +1356,7 @@ DOMAIN-SUFFIX,spore.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify-everywhere.com
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotify.com.edgesuite.net
 DOMAIN-SUFFIX,spotify.design
 DOMAIN-SUFFIX,spotify.link
 DOMAIN-SUFFIX,spotifycdn.com
@@ -1983,7 +1985,6 @@ DOMAIN,media-rockstargames-com.akamaized.net
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net
 DOMAIN,msh.amazon.co.uk
 DOMAIN,nbbb1bb7.pmhcjk.com
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN,notify.ppy.sh
 DOMAIN,ntdfreemobile-tgc.cdn.hinet.net
 DOMAIN,ntdfreepc-tgc.cdn.hinet.net
@@ -2015,7 +2016,6 @@ DOMAIN,scc-hamivideo.cdn.hinet.net
 DOMAIN,scc.ott.hinet.net
 DOMAIN,sentry.ppy.sh
 DOMAIN,spectator.ppy.sh
-DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,static-hamivideo.cdn.hinet.net

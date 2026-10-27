@@ -855,6 +855,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | lianjia | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lianjia |
 | liberapay | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/liberapay |
 | libgen | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/libgen |
+| librewolf | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/librewolf |
 | liepin | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/liepin |
 | lifewire | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/lifewire |
 | ligastavok | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ligastavok |

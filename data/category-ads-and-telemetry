@@ -69,6 +69,7 @@ DOMAIN-SUFFIX,admob.xiaomi.com
 DOMAIN-SUFFIX,admusicpic.music.126.net
 DOMAIN-SUFFIX,adnet.qq.com
 DOMAIN-SUFFIX,adnet.sohu.com
+DOMAIN-SUFFIX,adobestats.io
 DOMAIN-SUFFIX,adping.qq.com
 DOMAIN-SUFFIX,adpm.app.qq.com
 DOMAIN-SUFFIX,ads-api.duolingo.com
@@ -148,6 +149,7 @@ DOMAIN-SUFFIX,adxprtz.com
 DOMAIN-SUFFIX,afd.baidu.com
 DOMAIN-SUFFIX,afdconf.baidu.com
 DOMAIN-SUFFIX,afp.iqiyi.com
+DOMAIN-SUFFIX,akstat.io
 DOMAIN-SUFFIX,alimama.alicdn.com
 DOMAIN-SUFFIX,alitui.weibo.com
 DOMAIN-SUFFIX,alog.umeng.com
@@ -180,6 +182,9 @@ DOMAIN-SUFFIX,app-analytics-services.com
 DOMAIN-SUFFIX,app-measurement-cn.com
 DOMAIN-SUFFIX,app-measurement.com
 DOMAIN-SUFFIX,apple.www.letv.com
+DOMAIN-SUFFIX,applicationinsights.io
+DOMAIN-SUFFIX,applicationinsights.net
+DOMAIN-SUFFIX,applogcdn.com
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,appmetrica.yandex.com
@@ -189,6 +194,7 @@ DOMAIN-SUFFIX,appmetrica.yango.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,apptracer.ru
 DOMAIN-SUFFIX,ar.umeng.com
+DOMAIN-SUFFIX,aria.ms
 DOMAIN-SUFFIX,ark.letv.com
 DOMAIN-SUFFIX,aspect-upush.umeng.com
 DOMAIN-SUFFIX,assistant-api.amplitude.com
@@ -243,6 +249,8 @@ DOMAIN-SUFFIX,click.hunantv.com
 DOMAIN-SUFFIX,click.uve.mobile.sina.cn
 DOMAIN-SUFFIX,click.uve.weibo.com
 DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN-SUFFIX,cloudflareinsights-cn.com
+DOMAIN-SUFFIX,cloudflareinsights.com
 DOMAIN-SUFFIX,cloudpush.iqiyi.com
 DOMAIN-SUFFIX,cm.baidu.com
 DOMAIN-SUFFIX,cnaa123.com
@@ -269,6 +277,7 @@ DOMAIN-SUFFIX,cxhub.ru
 DOMAIN-SUFFIX,da.hunantv.com
 DOMAIN-SUFFIX,da.mgtv.com
 DOMAIN-SUFFIX,data.flurry.com
+DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
 DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
@@ -388,6 +397,7 @@ DOMAIN-SUFFIX,imglnkd.com
 DOMAIN-SUFFIX,imgstat.baidu.com
 DOMAIN-SUFFIX,imp.go.sohu.com
 DOMAIN-SUFFIX,impact-ad.jp
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
 DOMAIN-SUFFIX,inner-active.mobi
 DOMAIN-SUFFIX,innovid.com
 DOMAIN-SUFFIX,insights-collector.gog.com
@@ -444,6 +454,7 @@ DOMAIN-SUFFIX,mc.yandex.ru
 DOMAIN-SUFFIX,mcs.snssdk.com
 DOMAIN-SUFFIX,mdt.qq.com
 DOMAIN-SUFFIX,mediav.com
+DOMAIN-SUFFIX,meitustat.com
 DOMAIN-SUFFIX,metrics.duolingo.com
 DOMAIN-SUFFIX,metrics.viqeo.tv
 DOMAIN-SUFFIX,metrika.yandex.com
@@ -457,6 +468,7 @@ DOMAIN-SUFFIX,mipcache.bdstatic.com
 DOMAIN-SUFFIX,misc.in.duokanbox.com
 DOMAIN-SUFFIX,mixer.sina.cn
 DOMAIN-SUFFIX,mlog.hiido.com
+DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,moat.com
 DOMAIN-SUFFIX,moatads.com
 DOMAIN-SUFFIX,mobads-logs.baidu.com
@@ -512,6 +524,7 @@ DOMAIN-SUFFIX,panplayable-toutiao-b.com
 DOMAIN-SUFFIX,panplayable-toutiao.com
 DOMAIN-SUFFIX,partnerad.l.google.com
 DOMAIN-SUFFIX,passport-log.youku.com
+DOMAIN-SUFFIX,paypalbeacon.com
 DOMAIN-SUFFIX,pb.i.sogou.com
 DOMAIN-SUFFIX,pbmp.ali213.net
 DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
@@ -577,6 +590,7 @@ DOMAIN-SUFFIX,serving-sys.com
 DOMAIN-SUFFIX,sf3-ttcdn-tos.pstatp.com
 DOMAIN-SUFFIX,shhs-ydd8x2.yjrmss.cn
 DOMAIN-SUFFIX,shoppingads.cn
+DOMAIN-SUFFIX,shuqistat.com
 DOMAIN-SUFFIX,shuzilm.cn
 DOMAIN-SUFFIX,slog.sina.cn
 DOMAIN-SUFFIX,slog.sina.com.cn
@@ -607,6 +621,7 @@ DOMAIN-SUFFIX,tce.alicdn.com
 DOMAIN-SUFFIX,tcss.qq.com
 DOMAIN-SUFFIX,tdsdk.cpatrk.net
 DOMAIN-SUFFIX,telecome.cn
+DOMAIN-SUFFIX,telemetry.microsoft.com
 DOMAIN-SUFFIX,testads.api.my7v.com
 DOMAIN-SUFFIX,theta.sogoucdn.com
 DOMAIN-SUFFIX,tjqonline.cn
@@ -652,6 +667,7 @@ DOMAIN-SUFFIX,v6-adashx.ut.ele.me
 DOMAIN-SUFFIX,v6-adashx.ut.taobao.com
 DOMAIN-SUFFIX,v6-adashx.ut.youku.com
 DOMAIN-SUFFIX,vk-analytics.ru
+DOMAIN-SUFFIX,volceapplog.com
 DOMAIN-SUFFIX,w.cnzz.com
 DOMAIN-SUFFIX,wangmeng.baidu.com
 DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
@@ -767,12 +783,19 @@ DOMAIN,clck.yango.com
 DOMAIN,click.rustore.ru
 DOMAIN,copilot-telemetry-service.githubusercontent.com
 DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,crashlyticsreports-pa.googleapis.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,dc.services.visualstudio.com
 DOMAIN,disney.my.sentry.io
 DOMAIN,error-tracking.megamarket.tech
+DOMAIN,firebase-settings.crashlytics.com
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,firebaselogging.googleapis.com
 DOMAIN,google-analytics-suite.ozon.ru
 DOMAIN,incoming-telemetry.thunderbird.net
 DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,informer.yandex.ru
+DOMAIN,live.applicationinsights.azure.com
 DOMAIN,log-sdk.gifshow.com
 DOMAIN,log.strm.yandex.ru
 DOMAIN,log3-applog-hl.fqnovel.com
@@ -806,6 +829,7 @@ DOMAIN,r1.mail.ru
 DOMAIN,reklama.mail.ru
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN,rs.mail.ru
+DOMAIN,rt.services.visualstudio.com
 DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
@@ -819,6 +843,7 @@ DOMAIN,sentry.kontur.host
 DOMAIN,sentry.mindbox.ru
 DOMAIN,sentry.ozon.ru
 DOMAIN,sentry.popmechanic.ru
+DOMAIN,sentry.ppy.sh
 DOMAIN,sentry.rustore.ru
 DOMAIN,sentry.sberauto.com
 DOMAIN,sentry.viqeo.tv
@@ -836,6 +861,7 @@ DOMAIN,t.mail.ru
 DOMAIN,target.vk.com
 DOMAIN,top-staging.mail.ru
 DOMAIN,tracing-http.megamarket.tech
+DOMAIN,update.crashlytics.com
 DOMAIN,visor.sberbank.ru
 DOMAIN,web-analytics.wildberries.ru
 DOMAIN,whiteline.mail.ru

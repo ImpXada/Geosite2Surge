@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,netflixdnstest0.com
 DOMAIN-SUFFIX,netflixdnstest1.com
@@ -21,7 +22,6 @@ DOMAIN-SUFFIX,nflximg.net
 DOMAIN-SUFFIX,nflxsearch.net
 DOMAIN-SUFFIX,nflxso.net
 DOMAIN-SUFFIX,nflxvideo.net
-DOMAIN,netflix.com.edgesuite.net
 DOMAIN-WILDCARD,apiproxy-device-prod-nlb-?*.amazonaws.com
 DOMAIN-WILDCARD,*.apiproxy-device-prod-nlb-?*.amazonaws.com
 DOMAIN-WILDCARD,apiproxy-website-nlb-prod-?*.amazonaws.com
