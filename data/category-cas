@@ -220,6 +220,7 @@ DOMAIN-SUFFIX,vodafone.com.tr
 DOMAIN-SUFFIX,vodafone.de
 DOMAIN-SUFFIX,vodafone.it
 DOMAIN-SUFFIX,vodafone.nl
+DOMAIN-SUFFIX,vodafoneziggo.nl
 DOMAIN-SUFFIX,wisecoin.com
 DOMAIN-SUFFIX,wiseid.com
 DOMAIN-SUFFIX,wisekey.com
@@ -228,6 +229,7 @@ DOMAIN-SUFFIX,ws.symantec.com
 DOMAIN-SUFFIX,wsimg.com
 DOMAIN-SUFFIX,x.co
 DOMAIN-SUFFIX,zert.ch
+DOMAIN-SUFFIX,ziggo.nl
 DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
 DOMAIN,certs-lb.apple.com.akadns.net
 DOMAIN,certs.apple.com
