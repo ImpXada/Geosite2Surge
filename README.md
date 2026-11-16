@@ -720,6 +720,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | hupun | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hupun |
 | hurricaneelectric | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hurricaneelectric |
 | huya | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/huya |
+| hypergryph | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/hypergryph |
 | ibkr | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ibkr |
 | ibm | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/ibm |
 | icable | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/icable |

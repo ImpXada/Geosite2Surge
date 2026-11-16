@@ -592,6 +592,7 @@ DOMAIN,appleworldwidedeveloper.hb-api.omtrdc.net
 DOMAIN,appleworldwidedeveloper.sc.omtrdc.net
 DOMAIN,az764295.vo.msecnd.net
 DOMAIN,bingsettingssearch.trafficmanager.net
+DOMAIN,builds.dotnet.microsoft.com
 DOMAIN,copilotprodattachments.blob.core.windows.net
 DOMAIN,crashlyticsreports-pa.googleapis.com
 DOMAIN,d29vzk4ow07wi7.cloudfront.net
@@ -600,6 +601,7 @@ DOMAIN,developer.microsoft.com
 DOMAIN,developers.facebook.com
 DOMAIN,docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 DOMAIN,docker-pinata-support.s3.amazonaws.com
+DOMAIN,dotnetcli.trafficmanager.net
 DOMAIN,download.visualstudio.microsoft.com
 DOMAIN,dtlgalleryint.cloudapp.net
 DOMAIN,firebase.googleapis.com
@@ -652,9 +654,11 @@ DOMAIN,productionresultssa9.blob.core.windows.net
 DOMAIN,psg-int-centralus.cloudapp.net
 DOMAIN,psg-int-eastus.cloudapp.net
 DOMAIN,rink.hockeyapp.net
+DOMAIN,sundry-star-net-geo.trafficmanager.net
 DOMAIN,vscode-sync-insiders.trafficmanager.net
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,vscode.blob.core.windows.net
+DOMAIN,vscode.download.prss.microsoft.com
 DOMAIN,vscode.search.windows.net
 DOMAIN,vsmarketplacebadge.apphb.com
 DOMAIN-WILDCARD,*.dkr.ecr.?*.amazonaws.com
