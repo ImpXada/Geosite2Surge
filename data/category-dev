@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,buckbuild.com
 DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,builtwithnix.org
 DOMAIN-SUFFIX,busybox.net
+DOMAIN-SUFFIX,cachix.org
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
@@ -81,6 +82,7 @@ DOMAIN-SUFFIX,dart.dev
 DOMAIN-SUFFIX,dartlang.org
 DOMAIN-SUFFIX,dartpad.dev
 DOMAIN-SUFFIX,datalore.io
+DOMAIN-SUFFIX,debian.map.fastlydns.net
 DOMAIN-SUFFIX,debian.org
 DOMAIN-SUFFIX,deno.com
 DOMAIN-SUFFIX,deno.land
@@ -543,6 +545,7 @@ DOMAIN-SUFFIX,visualstudio.co.uk
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,visualstudio.eu
 DOMAIN-SUFFIX,visualstudio.net
+DOMAIN-SUFFIX,vivox.com
 DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
