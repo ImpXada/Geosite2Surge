@@ -1382,6 +1382,7 @@ RULE-SET,https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main
 | trackernetwork | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/trackernetwork |
 | trae | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/trae |
 | translatewiki | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/translatewiki |
+| transtelecom | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/transtelecom |
 | trello | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/trello |
 | trustasia | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/trustasia |
 | trustwallet | https://raw.githubusercontent.com/ImpXada/Geosite2Surge/refs/heads/main/data/trustwallet |
